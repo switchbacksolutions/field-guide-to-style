@@ -182,7 +182,9 @@
     "The type came first. [Akzidenz-Grotesk](ref:akzidenz-grotesk-typeface), [Helvetica](ref:helvetica-typeface), and [Univers](ref:univers-typeface) supplied the neutral grotesques that the posters and books depend on.",
     "Posters such as [Der Film](ref:der-film-poster-1960) and [Giselle](ref:giselle-poster-1959) show the method at full scale: one strong axis, flush-left type, and black-and-white photography with a single red.",
     "The method spread through print: the journal [Neue Grafik](ref:neue-grafik-journal-1958-1965), Emil Ruder’s [Typographie](ref:typographie-emil-ruder-1967), Karl Gerstner’s [Capital grid](ref:capital-magazine-layout-grid-gerstner), and Müller-Brockmann’s [Grid Systems](ref:grid-systems-in-graphic-design-1981).",
-    "Systems for public space carry it into three dimensions: the [NYCTA graphics standards](ref:nycta-graphics-standards-manual-1970) and the [Munich 1972 pictograms](ref:munich-1972-olympic-pictograms). This is the line that leads to interface design systems."
+    "Systems for public space carry it into three dimensions: the [NYCTA graphics standards](ref:nycta-graphics-standards-manual-1970) and the [Munich 1972 pictograms](ref:munich-1972-olympic-pictograms). This is the line that leads to interface design systems.",
+    "On the web the style lives on at cultural institutions and design studios. The [Stedelijk](ref:stedelijk-website) and [Whitney](ref:whitney-website) home pages, the [ZHdK](ref:zhdk-website) site, and the [Experimental Jetset](ref:jetset-website) archive are clear examples captured on 25 September 2026. [MoMA](ref:moma-website) uses the type without a visible grid and adds a second accent, and [The Swiss Grid](ref:swiss-grid-poster-house-website) exhibition site centers its title block.",
+    "Captures tested the fingerprint. Stedelijk and Whitney pass every metric. Experimental Jetset and ZHdK fail `type.sizeRange` for two different reasons: Jetset sets every line at one size, and on ZHdK large links hold most of the characters, so the base size is 45 px. The range is unchanged until more clear examples fail it. `type.centerShare` measures text alignment only. It does not see a left-aligned block that margins center, as on The Swiss Grid, so judge centering from the screenshot."
   ],
   "preview": [
     "nycta-graphics-standards-manual-1970",
@@ -453,6 +455,18 @@
       "measurement": null
     },
     {
+      "id": "jetset-website",
+      "title": "Experimental Jetset website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example of the grid and the type: every line sits in one of six columns, in black Helvetica, flush left. It has no scale contrast at all, so it fails the type.sizeRange metric (see the style page).",
+      "page": "references/jetset-website.html",
+      "source": "https://www.jetset.nl/",
+      "image": "assets/references/jetset-website.jpg",
+      "measurement": "data/measurements/jetset-website.json"
+    },
+    {
       "id": "giselle-poster-1959",
       "title": "Giselle poster, Basler Freilichtspiele",
       "medium": "poster",
@@ -513,6 +527,18 @@
       "measurement": null
     },
     {
+      "id": "moma-website",
+      "title": "Museum of Modern Art website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A borderline example: the type and alignment follow the style (one grotesque family, flush left, square buttons, strong scale contrast), but the page uses two accent colors and a full-bleed color photograph. It fails color.hues.",
+      "page": "references/moma-website.html",
+      "source": "https://www.moma.org/",
+      "image": "assets/references/moma-website.jpg",
+      "measurement": "data/measurements/moma-website.json"
+    },
+    {
       "id": "neue-grafik-journal-1958-1965",
       "title": "Neue Grafik journal",
       "medium": "editorial",
@@ -537,6 +563,30 @@
       "measurement": "data/measurements/nycta-graphics-standards-manual-1970.json"
     },
     {
+      "id": "stedelijk-website",
+      "title": "Stedelijk Museum Amsterdam website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example: grotesque type at extreme scale, flush left, in black and white with one flat accent, organized in horizontal bands. It passes every fingerprint metric.",
+      "page": "references/stedelijk-website.html",
+      "source": "https://www.stedelijk.nl/en",
+      "image": "assets/references/stedelijk-website.jpg",
+      "measurement": "data/measurements/stedelijk-website.json"
+    },
+    {
+      "id": "swiss-grid-poster-house-website",
+      "title": "The Swiss Grid exhibition website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A borderline example: the type (Akzidenz-Grotesk, extreme scale, black and white) belongs to the style, but the first viewport is one centered title block, which the rubric counts against it. The site is about the style, which is not evidence that it uses it. It passes every fingerprint metric because the lines are left-aligned inside a centered block (see the style page).",
+      "page": "references/swiss-grid-poster-house-website.html",
+      "source": "https://swissgrid.posterhouse.org/",
+      "image": "assets/references/swiss-grid-poster-house-website.jpg",
+      "measurement": "data/measurements/swiss-grid-poster-house-website.json"
+    },
+    {
       "id": "typographie-emil-ruder-1967",
       "title": "Typographie, by Emil Ruder",
       "medium": "book",
@@ -559,6 +609,30 @@
       "source": "https://en.wikipedia.org/wiki/Univers",
       "image": "assets/references/univers-typeface.png",
       "measurement": "data/measurements/univers-typeface.json"
+    },
+    {
+      "id": "whitney-website",
+      "title": "Whitney Museum of American Art website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example in the interface: one grotesque family, flush-left capitals, thin rules, square outlined buttons, and only black, white, and gray. The color on the page comes from the artworks. It passes every fingerprint metric.",
+      "page": "references/whitney-website.html",
+      "source": "https://whitney.org/",
+      "image": "assets/references/whitney-website.jpg",
+      "measurement": "data/measurements/whitney-website.json"
+    },
+    {
+      "id": "zhdk-website",
+      "title": "Zurich University of the Arts website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example from a Zurich design school: Helvetica only, a strong left axis, asymmetric margins, and black, white, and gray. It fails the type.sizeRange metric because most of the text on the page is large (see the style page).",
+      "page": "references/zhdk-website.html",
+      "source": "https://www.zhdk.ch/en",
+      "image": "assets/references/zhdk-website.jpg",
+      "measurement": "data/measurements/zhdk-website.json"
     }
   ]
 }

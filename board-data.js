@@ -73,6 +73,19 @@ globalThis.styleHub = {
         "raw"
       ],
       "status": "pilot"
+    },
+    {
+      "id": "art-deco",
+      "title": "Art Deco",
+      "href": "art-deco.html",
+      "moods": [
+        "glamorous",
+        "luxurious",
+        "geometric",
+        "formal",
+        "optimistic"
+      ],
+      "status": "draft"
     }
   ],
   "references": [
@@ -119,6 +132,39 @@ globalThis.styleHub = {
         "neo-brutalism"
       ],
       "status": "documented"
+    },
+    {
+      "id": "barbier-rosalinde-gazette-du-bon-ton-1922",
+      "title": "“Rosalinde”, plate from the Gazette du Bon Ton",
+      "href": "references/barbier-rosalinde-gazette-du-bon-ton-1922.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "art-deco"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lalique-victoire-car-mascot-1928",
+      "title": "“Victoire” car mascot by René Lalique",
+      "href": "references/lalique-victoire-car-mascot-1928.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "art-deco"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "broders-agay-plm-poster-1928",
+      "title": "Agay, PLM railway poster",
+      "href": "references/broders-agay-plm-poster-1928.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "art-deco"
+      ],
+      "status": "observed"
     },
     {
       "id": "akzidenz-grotesk-typeface",
@@ -231,6 +277,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "hotel-du-collectionneur-boudoir-1925",
+      "title": "Boudoir of the Hôtel du Collectionneur, Paris 1925",
+      "href": "references/hotel-du-collectionneur-boudoir-1925.html",
+      "type": "image",
+      "medium": "architecture",
+      "styles": [
+        "art-deco"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "brutalist-websites-directory",
       "title": "Brutalist Websites",
       "href": "references/brutalist-websites-directory.html",
@@ -260,6 +317,39 @@ globalThis.styleHub = {
       "medium": "furniture",
       "styles": [
         "memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "chrysler-building-1930",
+      "title": "Chrysler Building, New York",
+      "href": "references/chrysler-building-1930.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "art-deco"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "brandt-cobra-lamp-1925",
+      "title": "Cobra lamp by Edgar Brandt",
+      "href": "references/brandt-cobra-lamp-1925.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "art-deco"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ruhlmann-corner-cabinet-1923",
+      "title": "Corner cabinet by Émile-Jacques Ruhlmann",
+      "href": "references/ruhlmann-corner-cabinet-1923.html",
+      "type": "object",
+      "medium": "furniture",
+      "styles": [
+        "art-deco"
       ],
       "status": "observed"
     },
@@ -306,6 +396,17 @@ globalThis.styleHub = {
         "neo-brutalism"
       ],
       "status": "documented"
+    },
+    {
+      "id": "jetset-website",
+      "title": "Experimental Jetset website",
+      "href": "references/jetset-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "international-typographic-style"
+      ],
+      "status": "observed"
     },
     {
       "id": "figma-website-2022",
@@ -561,6 +662,28 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "rose-iron-works-muse-with-violin-screen-1930",
+      "title": "Muse with Violin screen, Rose Iron Works",
+      "href": "references/rose-iron-works-muse-with-violin-screen-1930.html",
+      "type": "object",
+      "medium": "furniture",
+      "styles": [
+        "art-deco"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "moma-website",
+      "title": "Museum of Modern Art website",
+      "href": "references/moma-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "international-typographic-style"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "neobrutalism-components-library",
       "title": "Neobrutalism components",
       "href": "references/neobrutalism-components-library.html",
@@ -647,6 +770,17 @@ globalThis.styleHub = {
         "neo-brutalism"
       ],
       "status": "documented"
+    },
+    {
+      "id": "cassandre-normandie-poster-1935",
+      "title": "Normandie poster by Cassandre",
+      "href": "references/cassandre-normandie-poster-1935.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "art-deco"
+      ],
+      "status": "observed"
     },
     {
       "id": "nycta-graphics-standards-manual-1970",
@@ -737,6 +871,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "stedelijk-website",
+      "title": "Stedelijk Museum Amsterdam website",
+      "href": "references/stedelijk-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "international-typographic-style"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "bedin-super-lamp-1981",
       "title": "Super lamp",
       "href": "references/bedin-super-lamp-1981.html",
@@ -755,6 +900,17 @@ globalThis.styleHub = {
       "medium": "other",
       "styles": [
         "memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "swiss-grid-poster-house-website",
+      "title": "The Swiss Grid exhibition website",
+      "href": "references/swiss-grid-poster-house-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "international-typographic-style"
       ],
       "status": "observed"
     },
@@ -781,6 +937,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "dunand-inlaid-vase-1925",
+      "title": "Vase by Jean Dunand",
+      "href": "references/dunand-inlaid-vase-1925.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "art-deco"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "zanini-victoria-vase-1982",
       "title": "Victoria vase",
       "href": "references/zanini-victoria-vase-1982.html",
@@ -799,6 +966,17 @@ globalThis.styleHub = {
       "medium": "illustration",
       "styles": [
         "memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "whitney-website",
+      "title": "Whitney Museum of American Art website",
+      "href": "references/whitney-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "international-typographic-style"
       ],
       "status": "observed"
     },
@@ -865,6 +1043,17 @@ globalThis.styleHub = {
       "medium": "website",
       "styles": [
         "frutiger-aero"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "zhdk-website",
+      "title": "Zurich University of the Arts website",
+      "href": "references/zhdk-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "international-typographic-style"
       ],
       "status": "observed"
     }

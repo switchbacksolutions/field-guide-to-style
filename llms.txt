@@ -12,6 +12,7 @@ Use it like this: choose a style from the list, read its JSON record for rules a
 - [Memphis](api/styles/memphis.json): Clashing color, laminate patterns, and toy-like geometry. Postmodern play. Tokens: implementations/memphis/tokens.css
 - [Frutiger Aero](api/styles/frutiger-aero.json): Glass, water, sky, and gloss. Optimistic technology from the mid-2000s. Tokens: implementations/frutiger-aero/tokens.css
 - [Neo-brutalism](api/styles/neo-brutalism.json): Thick outlines, hard shadows, and loud flat color. Interfaces that look built. Tokens: implementations/neo-brutalism/tokens.css
+- [Art Deco](api/styles/art-deco.json): Stepped forms, sunbursts, and spaced capitals in metal on dark lacquer. Modern luxury from the 1920s. Tokens: implementations/art-deco/tokens.css
 
 ## Data
 

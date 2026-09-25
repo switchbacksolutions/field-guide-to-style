@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "art-deco",
+  "type": "registry:theme",
+  "title": "Art Deco",
+  "description": "Stepped forms, sunbursts, and spaced capitals in metal on dark lacquer. Modern luxury from the 1920s.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Gill Sans\", \"Avenir Next\", Futura, \"Trebuchet MS\", sans-serif",
+      "font-mono": "Futura, \"Gill Sans\", \"Century Gothic\", sans-serif"
+    },
+    "light": {
+      "background": "#101418",
+      "foreground": "#f1e8d4",
+      "card": "#161c22",
+      "card-foreground": "#f1e8d4",
+      "popover": "#161c22",
+      "popover-foreground": "#f1e8d4",
+      "primary": "#c9a24a",
+      "primary-foreground": "#101418",
+      "secondary": "#1d5c50",
+      "secondary-foreground": "#f1e8d4",
+      "muted": "#1f2830",
+      "muted-foreground": "#b9ad94",
+      "accent": "#e0c67a",
+      "accent-foreground": "#101418",
+      "destructive": "#b42318",
+      "border": "#c9a24a",
+      "input": "#c9a24a",
+      "ring": "#c9a24a",
+      "radius": "0px"
+    }
+  }
+}

@@ -132,6 +132,29 @@
         "designMd": "implementations/neo-brutalism/DESIGN.md",
         "specimen": "implementations/neo-brutalism/index.html"
       }
+    },
+    {
+      "id": "art-deco",
+      "title": "Art Deco",
+      "summary": "Stepped forms, sunbursts, and spaced capitals in metal on dark lacquer. Modern luxury from the 1920s.",
+      "moods": [
+        "glamorous",
+        "luxurious",
+        "geometric",
+        "formal",
+        "optimistic"
+      ],
+      "status": "draft",
+      "api": "api/styles/art-deco.json",
+      "implementation": {
+        "tokens": "implementations/art-deco/tokens.json",
+        "css": "implementations/art-deco/tokens.css",
+        "tailwind": "implementations/art-deco/tailwind.css",
+        "shadcn": "implementations/art-deco/shadcn.css",
+        "registry": "implementations/art-deco/registry-item.json",
+        "designMd": "implementations/art-deco/DESIGN.md",
+        "specimen": "implementations/art-deco/index.html"
+      }
     }
   ],
   "references": [
@@ -352,6 +375,236 @@
         "statement": "Text and images © Hype4 / Michał Malewicz. Link and quotation only."
       },
       "page": "references/malewicz-neubrutalism-article-2022.html"
+    },
+    {
+      "id": "barbier-rosalinde-gazette-du-bon-ton-1922",
+      "title": "“Rosalinde”, plate from the Gazette du Bon Ton",
+      "type": "print",
+      "medium": "illustration",
+      "lede": "George Barbier’s fashion plate of a Worth evening dress, set against a black lacquered commode with gilt mounts, above a centered title in spaced capitals.",
+      "summary": "A slender figure in a fringed gold dress before a black lacquer commode; spaced capitals below. George Barbier, 1922.",
+      "source": {
+        "url": "https://www.rijksmuseum.nl/en/collection/RP-P-2009-1964-4",
+        "label": "Rijksmuseum: Gazette du Bon Ton, 1922 – No. 10: Rosalinde, RP-P-2009-1964-4"
+      },
+      "creator": {
+        "name": "George Barbier (design); Worth (dress)",
+        "url": "https://www.wikidata.org/wiki/Q536721"
+      },
+      "made": "1922",
+      "moods": [
+        "elegant",
+        "luxurious",
+        "decorative"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Downloaded and inspected the Rijksmuseum scan from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gazette_du_Bon_Ton,_1922_-_No._10_Rosalinde_Robe_du_soir,_de_Worth,_RP-P-2009-1964-4.jpg) (4254 × 5540 px). The Rijksmuseum record text was read from the Commons copy of its metadata."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "art-deco",
+          "note": "The Gazette du Bon Ton plates set the look of early Art Deco fashion: stylized slender figures, lacquer and gilt, and centered spaced capitals.",
+          "basis": "agent"
+        }
+      ],
+      "context": [
+        "The Rijksmuseum lists the plate as Gazette du Bon Ton 1922, No. 10, plate 75: “Rosalinde / Robe du soir, de Worth”, after a design by George Barbier, printmaker anonymous, published by Lucien Vogel with Condé Nast. It describes the technique as photomechanical colour print with letterpress text, sheet 246 × 189 mm. [Commons copy of the Rijksmuseum record](https://commons.wikimedia.org/wiki/File:Gazette_du_Bon_Ton,_1922_-_No._10_Rosalinde_Robe_du_soir,_de_Worth,_RP-P-2009-1964-4.jpg).",
+        "The Rijksmuseum describes the dress as gold lace decorated with pearls. [Rijksmuseum](https://www.rijksmuseum.nl/en/collection/RP-P-2009-1964-4)."
+      ],
+      "observed": [
+        "A slim woman with pale skin and blonde hair in a low knot stands at the center, facing left, her hands on the top of a commode.",
+        "Her dress is a straight, dropped-waist shift in gold with a diamond pattern, a belt of small geometric blocks in pink and green, and long fringes in blue, green, and gold.",
+        "The commode behind her is black with gilt rococo mounts and painted pink roses; a blue bowl with a large flower stands at left and a small bronze nude on a marble base at right.",
+        "The ground is plain cream paper with no setting beyond the furniture.",
+        "The title “ROSALINDE” is centered below in widely spaced serif capitals, above a smaller line “ROBE DU SOIR, DE WORTH”.",
+        "Italic lines at the lower corners read “No 10 de la Gazette” and “Année 1922. — Planche 75”. The signature “GEORGE BARBIER 1922” sits at lower left of the image."
+      ],
+      "interpretation": [
+        "The plate is early, pre-1925 Art Deco: the figure is elongated and simplified, the dress is geometric, and the black lacquer and gold give the luxury palette. The commode itself is an eighteenth-century form, which shows how Deco borrowed historical luxury.",
+        "The centered title in spaced capitals on plain ground is the typographic habit later seen in Deco posters and packaging."
+      ],
+      "borrow": [
+        "Center a short title in widely spaced capitals on plain ground, with a smaller second line below it.",
+        "Put one glossy black shape behind a light figure to create the lacquer-and-gold contrast."
+      ],
+      "images": [
+        {
+          "file": "assets/references/barbier-rosalinde-gazette-du-bon-ton-1922.jpg",
+          "alt": "Fashion plate on cream paper: a slim blonde woman in a gold fringed evening dress stands in front of a black lacquered commode with gilt mounts and painted roses, a blue flower bowl at left and a small bronze statuette at right. Below, the centered title ROSALINDE and the line Robe du soir, de Worth.",
+          "width": 1229,
+          "height": 1600,
+          "kind": "source-image",
+          "caption": "George Barbier, “Rosalinde. Robe du soir, de Worth”, Gazette du Bon Ton 1922, No. 10, plate 75. [Rijksmuseum](https://www.rijksmuseum.nl/en/collection/RP-P-2009-1964-4) RP-P-2009-1964-4, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gazette_du_Bon_Ton,_1922_-_No._10_Rosalinde_Robe_du_soir,_de_Worth,_RP-P-2009-1964-4.jpg).",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Gazette_du_Bon_Ton%2C_1922_-_No._10_Rosalinde_Robe_du_soir%2C_de_Worth%2C_RP-P-2009-1964-4.jpg",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "A",
+        "license": "CC0-1.0",
+        "statement": "The Rijksmuseum releases the scan under CC0 and marks the object “Publiek domein”. George Barbier died in 1932, and the plate was published in 1922."
+      },
+      "identifiers": {
+        "rijksmuseum": "RP-P-2009-1964-4",
+        "commons": "File:Gazette du Bon Ton, 1922 - No. 10 Rosalinde Robe du soir, de Worth, RP-P-2009-1964-4.jpg"
+      },
+      "page": "references/barbier-rosalinde-gazette-du-bon-ton-1922.html"
+    },
+    {
+      "id": "lalique-victoire-car-mascot-1928",
+      "title": "“Victoire” car mascot by René Lalique",
+      "type": "object",
+      "medium": "product",
+      "lede": "René Lalique’s glass radiator mascot: a woman’s head whose hair streams back into a long fan of ribbed, clear glass, a symbol of speed.",
+      "summary": "Frosted glass head with hair drawn back into a fan of parallel ribs. René Lalique, 1928.",
+      "source": {
+        "url": "https://collections.vam.ac.uk/item/O6383/victoire-radiator-mascot-lalique-rene-jules/",
+        "label": "Victoria and Albert Museum: Victoire, CIRC.199-1972"
+      },
+      "creator": {
+        "name": "René Lalique",
+        "url": "https://www.wikidata.org/wiki/Q451400"
+      },
+      "made": "1928 (Musée Lalique); ca. 1925 (V&A)",
+      "moods": [
+        "dynamic",
+        "glamorous",
+        "streamlined"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Downloaded and inspected Morio’s 2013 photograph of the Toyota Automobile Museum example on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Victoire_2_by_Rene_Lalique_Toyota_Automobile_Museum.jpg) (3840 × 2880 px). Read the V&A record through its API and the Musée Lalique page with WebFetch."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "art-deco",
+          "note": "A canonical Art Deco luxury object: a machine-age speed motif rendered as stylized, repeated parallel ribs in pressed glass.",
+          "basis": "agent"
+        }
+      ],
+      "context": [
+        "The Musée Lalique dates Victoire to 1928 and says Lalique made it to mark the tenth anniversary of the 1918 armistice, for the bonnets of luxury cars. It notes that glass mascots were phased out in the 1930s and reissued as statuettes on a base. [Musée Lalique](https://www.musee-lalique.com/en/exhibit-month/victoire-car-mascot/).",
+        "The V&A records the object as a radiator mascot, manufacturer’s title “Victoire”, popular title “Spirit of the Wind”, press-moulded glass, 15.5 × 25 × 6.5 cm, made ca. 1925 (range 1920–1935), for the Lalique glassworks at Wingen-sur-Moder. [V&A](https://collections.vam.ac.uk/item/O6383/victoire-radiator-mascot-lalique-rene-jules/)."
+      ],
+      "observed": [
+        "The head is in profile, with the mouth open and the eyes wide; the face and neck are frosted and smooth.",
+        "The hair sweeps back from the brow into a long, flat, rising fan of parallel ribs in clear glass that ends in a straight, slanted edge.",
+        "The ribs are close and regular and catch light as a series of bright lines.",
+        "The mascot sits on a short round frosted collar on a black display base.",
+        "Mold marks at the base are too faint in this photograph to read."
+      ],
+      "interpretation": [
+        "The mascot turns speed into ornament: the wind is drawn as a regular fan of straight lines, the same radiating device the style uses for sunbursts.",
+        "It sits between core Art Deco and the later streamline branch: the subject is motion, but the form is still a stylized, symmetrical fan rather than a smooth teardrop."
+      ],
+      "borrow": [
+        "Draw motion as a fan of evenly spaced straight lines behind a simple shape.",
+        "Pair a matte surface with glossy parallel ridges for contrast in one material."
+      ],
+      "images": [
+        {
+          "file": "assets/references/lalique-victoire-car-mascot-1928.jpg",
+          "alt": "A frosted glass woman’s head in profile, mouth open, with hair streaming back into a long rising fan of clear ribbed glass, on a round base in a dark museum display case.",
+          "width": 1600,
+          "height": 1200,
+          "kind": "photograph",
+          "caption": "René Lalique, “Victoire” car mascot, example in the Toyota Automobile Museum. Photograph by Morio, 2013, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Victoire_2_by_Rene_Lalique_Toyota_Automobile_Museum.jpg), CC BY-SA 3.0.",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Victoire_2_by_Rene_Lalique_Toyota_Automobile_Museum.jpg",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "A",
+        "license": "CC-BY-SA-3.0",
+        "statement": "Photograph © Morio, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons. René Lalique died in 1945, so the design is in the public domain in France; it was issued before 1931, so it is also in the public domain in the United States."
+      },
+      "identifiers": {
+        "vam": "O6383",
+        "commons": "File:Victoire 2 by Rene Lalique Toyota Automobile Museum.jpg"
+      },
+      "page": "references/lalique-victoire-car-mascot-1928.html"
+    },
+    {
+      "id": "broders-agay-plm-poster-1928",
+      "title": "Agay, PLM railway poster",
+      "type": "print",
+      "medium": "poster",
+      "lede": "Roger Broders’s travel poster for the PLM railway frames a Riviera bay between pine trunks and sets the resort’s name in large geometric capitals.",
+      "summary": "Flat blues, violets, and orange; bathers in cloche caps; the name AGAY in wide geometric capitals. Roger Broders, 1928.",
+      "source": {
+        "url": "https://www.bonhams.com/auction/26798/lot/246/",
+        "label": "Bonhams: AGAY, PLM, lot 246, 3 June 2021"
+      },
+      "creator": {
+        "name": "Roger Broders",
+        "url": "https://www.wikidata.org/wiki/Q2161630"
+      },
+      "made": "1928",
+      "moods": [
+        "optimistic",
+        "sunny",
+        "stylized"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Downloaded and inspected the scan on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Roger_Broders_Agay_1928.jpg) (2100 × 2880 px), which Commons sources from the Bonhams lot photograph. Read the Bonhams lot page with WebFetch."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "art-deco",
+          "note": "A French railway travel poster of the late 1920s: flat stylized color, fashionable figures, and a heavy geometric capital title.",
+          "basis": "agent"
+        }
+      ],
+      "context": [
+        "Bonhams catalogued the poster as “AGAY, PLM”, Roger Broders (1883–1953), 1928, lithographic poster in colours printed by Lucien Serre & Cie., Paris, 107 × 78.5 cm, in its 20th Century Decorative Arts & Design sale of 3 June 2021. [Bonhams](https://www.bonhams.com/auction/26798/lot/246/).",
+        "PLM is the Chemins de fer de Paris à Lyon et à la Méditerranée, whose monogram appears at the upper right. Commons files the poster under that company’s advertising posters. [Commons](https://commons.wikimedia.org/wiki/File:Roger_Broders_Agay_1928.jpg)."
+      ],
+      "observed": [
+        "Tall pine trunks in orange and violet frame a view of a deep blue bay, a green headland, and a small lighthouse.",
+        "A woman in a black swimsuit and a red cloche cap stands in the foreground holding an orange wrap printed with dark flowers; a man sits at left.",
+        "Striped red-and-white parasols and small bathers dot the beach.",
+        "Color is laid in flat areas with little modelling: navy, violet, turquoise, orange, and cream.",
+        "“AGAY” is set very large in orange geometric sans-serif capitals with a dark outline and wide spacing, centered at the foot of the poster.",
+        "A second line in smaller orange capitals reads “PLAGE D’HIVER ET D’ÉTÉ - SUR LA CÔTE D’AZUR”. The PLM monogram sits in a gray block at upper right.",
+        "The landscape is asymmetrical and naturalistic in drawing; the geometry is in the lettering and the flat color."
+      ],
+      "interpretation": [
+        "This is Art Deco as commercial travel imagery: the resort is sold through modern fashion, flat stylized color, and a monumental capital title, while the scene itself stays pictorial.",
+        "It is a weaker match than the architecture and furniture references for symmetry and ornament; it is here for its lettering and palette."
+      ],
+      "borrow": [
+        "Set a short place name very large in geometric capitals with an outline, centered at the foot of the composition.",
+        "Use a deep violet or navy ground with one warm orange accent."
+      ],
+      "images": [
+        {
+          "file": "assets/references/broders-agay-plm-poster-1928.jpg",
+          "alt": "Travel poster: a woman in a black swimsuit and red cap stands under tall orange and violet pine trees above a blue bay with striped parasols on the beach. At the bottom the word AGAY in large orange capitals, and the line Plage d'hiver et d'été, sur la Côte d'Azur.",
+          "width": 1167,
+          "height": 1600,
+          "kind": "source-image",
+          "caption": "Roger Broders, “Agay”, poster for the PLM railway, 1928, printed by Lucien Serre & Cie. Image from the [Bonhams](https://www.bonhams.com/auction/26798/lot/246/) lot photograph, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Roger_Broders_Agay_1928.jpg).",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Roger_Broders_Agay_1928.jpg",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "A",
+        "license": "public domain",
+        "statement": "Wikimedia Commons marks the file public domain (PD-scan, PD-old-auto-expired, death year 1953). Roger Broders died in 1953, so the poster is public domain in France from 2024, and it was published in 1928, so it is public domain in the United States. The scan is a faithful reproduction of a two-dimensional work."
+      },
+      "identifiers": {
+        "commons": "File:Roger Broders Agay 1928.jpg"
+      },
+      "page": "references/broders-agay-plm-poster-1928.html"
     },
     {
       "id": "akzidenz-grotesk-typeface",
@@ -1030,6 +1283,88 @@
       "page": "references/boldkit-website.html"
     },
     {
+      "id": "hotel-du-collectionneur-boudoir-1925",
+      "title": "Boudoir of the Hôtel du Collectionneur, Paris 1925",
+      "type": "image",
+      "medium": "architecture",
+      "lede": "An autochrome taken at the 1925 Paris exhibition: Ruhlmann’s boudoir in the Pavillon du Collectionneur, with gilded panels, a basket of gold disks over the mirror, and dark lacquered furniture.",
+      "summary": "Pale paneling with gilt fillets, a gilded disk ornament, paired sconces, and black furniture. Ruhlmann pavilion, Paris, 1925.",
+      "source": {
+        "url": "https://commons.wikimedia.org/wiki/File:L%27Exposition_des_arts_d%C3%A9coratifs,_Pavillon_Ruhlmann_ou_H%C3%B4tel_d%27un_Riche_Collectionneur,_boudoir_-_A46733S.jpg",
+        "label": "Wikimedia Commons: musée départemental Albert-Kahn, A46733S"
+      },
+      "creator": {
+        "name": "Émile-Jacques Ruhlmann (ensemble); photograph by Léon Auguste for the Archives de la Planète",
+        "url": "https://www.wikidata.org/wiki/Q954875"
+      },
+      "made": "1925 (photograph dated 15 September 1925)",
+      "moods": [
+        "luxurious",
+        "glamorous",
+        "formal"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Downloaded and inspected the musée Albert-Kahn autochrome from Wikimedia Commons (1520 × 2048 px). The museum’s own notice page returned HTTP 403 to a script and to Claude in Chrome, so the metadata comes from the Commons record, which copies it."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "art-deco",
+          "note": "A room from the pavilion that the 1925 Exposition made the showpiece of French luxury Art Deco, recorded in color in the year of the exhibition.",
+          "basis": "agent"
+        }
+      ],
+      "notice": "The musée Albert-Kahn notice page could not be opened on 2026-09-25 (HTTP 403). Rights and metadata are taken from the Commons copy.",
+      "context": [
+        "Commons records the autochrome as A46733S of the musée départemental Albert-Kahn, operator Léon Auguste, mission “1925 – Exposition internationale des Arts Décoratifs et Industriels modernes Paris”, dated 15 September 1925. The original caption reads “Petit Salon du Pavon Rhulmann”. [Commons](https://commons.wikimedia.org/wiki/File:L%27Exposition_des_arts_d%C3%A9coratifs,_Pavillon_Ruhlmann_ou_H%C3%B4tel_d%27un_Riche_Collectionneur,_boudoir_-_A46733S.jpg).",
+        "The style this room belongs to takes its name from the 1925 Exposition. See [Art Deco](style:art-deco)."
+      ],
+      "observed": [
+        "The room is pale gray-white with thin gilt fillets that divide the walls into tall vertical panels.",
+        "A gilded relief of overlapping disks in a fluted basket sits above a tall rectangular mirror with a gilt frame.",
+        "Two gilt wall sconces with pleated shades flank the mirror symmetrically.",
+        "A cylindrical crystal chandelier of stacked tiers hangs from a cornice with a gilded dentil band.",
+        "A black lacquered writing desk with a curved roll top and a black chair stand at lower left; an armchair covered in pale fabric with a dark frame stands beside them.",
+        "A round screen in front of the fireplace shows dark birds with spread wings in a radiating arrangement.",
+        "Green silk curtains hang at the left window. A small bronze figure and a framed portrait photograph stand on the mantelpiece.",
+        "The colors are soft and grainy, as is usual for an autochrome."
+      ],
+      "interpretation": [
+        "The room is the ensemblier idea in one view: furniture, wall panels, lighting, and ornament are designed together around one symmetrical axis through the mantel and mirror.",
+        "The gilded basket of disks is a stylized bouquet, the same motif as the inlay on Ruhlmann’s [corner cabinet](ref:ruhlmann-corner-cabinet-1923), turned into flat circles."
+      ],
+      "borrow": [
+        "Divide a pale ground into tall panels with thin gold rules.",
+        "Place one gilded ornament on the central axis and pair identical elements on each side of it.",
+        "Set black, glossy objects against a pale room for contrast instead of using a dark ground everywhere."
+      ],
+      "related": "Also by Ruhlmann: [corner cabinet, c. 1923](ref:ruhlmann-corner-cabinet-1923).",
+      "images": [
+        {
+          "file": "assets/references/hotel-du-collectionneur-boudoir-1925.jpg",
+          "alt": "Color autochrome of a pale paneled boudoir. Above a white mantelpiece, a gilt-framed mirror is flanked by two gilt sconces and topped by a gilded relief of stacked disks. A crystal chandelier hangs above; a black roll-top desk, a black chair, and a pale armchair stand in front, beside green curtains.",
+          "width": 1187,
+          "height": 1600,
+          "kind": "photograph",
+          "caption": "Léon Auguste, boudoir of the Pavillon Ruhlmann (Hôtel du Collectionneur), Exposition des arts décoratifs, Paris, 15 September 1925. Autochrome, musée départemental Albert-Kahn A46733S, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%27Exposition_des_arts_d%C3%A9coratifs,_Pavillon_Ruhlmann_ou_H%C3%B4tel_d%27un_Riche_Collectionneur,_boudoir_-_A46733S.jpg).",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/L%27Exposition_des_arts_d%C3%A9coratifs%2C_Pavillon_Ruhlmann_ou_H%C3%B4tel_d%27un_Riche_Collectionneur%2C_boudoir_-_A46733S.jpg",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "A",
+        "license": "CC0-1.0",
+        "statement": "Wikimedia Commons marks the file CC0 as a musée départemental Albert-Kahn upload. The room is Ruhlmann’s (died 1933). The small bronze figure, the portrait photograph, and the painted fire screen are by unidentified makers and appear incidentally; the lead curator should confirm that this is acceptable."
+      },
+      "identifiers": {
+        "albert-kahn": "A46733S",
+        "commons": "File:L'Exposition des arts décoratifs, Pavillon Ruhlmann ou Hôtel d'un Riche Collectionneur, boudoir - A46733S.jpg"
+      },
+      "page": "references/hotel-du-collectionneur-boudoir-1925.html"
+    },
+    {
       "id": "brutalist-websites-directory",
       "title": "Brutalist Websites",
       "type": "website",
@@ -1221,6 +1556,227 @@
         "vam": "O58652"
       },
       "page": "references/sottsass-casablanca-sideboard-1981.html"
+    },
+    {
+      "id": "chrysler-building-1930",
+      "title": "Chrysler Building, New York",
+      "type": "object",
+      "medium": "architecture",
+      "lede": "William Van Alen’s skyscraper, completed in 1930: a setback tower capped by a stainless-steel crown of stacked, radiating arches and a needle spire.",
+      "summary": "Stepped setbacks and a steel crown of radiating arches with triangular windows. William Van Alen, New York, 1930.",
+      "source": {
+        "url": "https://www.loc.gov/item/2018751223/",
+        "label": "Library of Congress: Empire State Building, New York City. [View from], to Chrysler Bldg. and Queensboro Bridge"
+      },
+      "creator": {
+        "name": "William Van Alen (architect)"
+      },
+      "made": "1929–1930 (opened 27 May 1930)",
+      "moods": [
+        "glamorous",
+        "optimistic",
+        "vertical"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Downloaded and inspected Samuel H. Gottscho’s photograph of 19 January 1932 from the Library of Congress via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg) (5359 × 3779 px, grayscale). The photograph is an aerial view from the Empire State Building, so the crown is legible but small; street-level ornament such as the eagle and hubcap details is not visible."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "art-deco",
+          "note": "The canonical Art Deco skyscraper: tiered setbacks rise to a crown of radiating, stepped arches in polished metal.",
+          "basis": "agent"
+        }
+      ],
+      "context": [
+        "Construction started on 21 January 1929, the spire was installed on 23 October 1929, and the building opened on 27 May 1930. It was the tallest building in the world for about 11 months. [Wikipedia](https://en.wikipedia.org/wiki/Chrysler_Building).",
+        "Wikipedia describes the crown as seven radiating terraced arches clad in Nirosta stainless steel, with triangular vaulted windows, and notes car-hood ornaments on the 31st floor and eagle gargoyles on the 61st. [Wikipedia](https://en.wikipedia.org/wiki/Chrysler_Building).",
+        "The Library of Congress dates the photograph 19 January 1932 and credits the Gottscho-Schleisner Collection (LC-DIG-ppmsca-05841). [Library of Congress](https://www.loc.gov/item/2018751223/)."
+      ],
+      "observed": [
+        "The tower rises from the center of the frame above lower Midtown blocks; its outline steps in at several setbacks before the crown.",
+        "The crown is a stack of diminishing arches, each pierced by a row of small triangular windows that fan out like rays.",
+        "A thin needle spire continues the central axis above the arches.",
+        "The crown reflects light more strongly than the brick shaft below it.",
+        "Neighboring towers also step back in tiers; the photograph shows the setback silhouette as a citywide pattern.",
+        "The photograph is black and white, so the color of the steel and brick is not recorded."
+      ],
+      "interpretation": [
+        "The crown is the sunburst motif of the style built at city scale: nested arches radiate from one axis and diminish toward a point.",
+        "The tiered setbacks are the architectural source of the stepped frames and ziggurat outlines that appear in Deco graphics and furniture."
+      ],
+      "borrow": [
+        "Build a heading or hero ornament from nested arches that shrink toward one central point.",
+        "Step the outline of a frame or card inward in two or three tiers instead of rounding its corners."
+      ],
+      "images": [
+        {
+          "file": "assets/references/chrysler-building-1930.jpg",
+          "alt": "Black-and-white aerial photograph of Midtown Manhattan in 1932. The Chrysler Building stands at the center, its tower stepping back to a pointed crown of stacked arches with small triangular windows and a needle spire. The East River and Queensboro Bridge lie behind.",
+          "width": 1600,
+          "height": 1128,
+          "kind": "photograph",
+          "caption": "Samuel H. Gottscho, view from the Empire State Building to the Chrysler Building and Queensboro Bridge, 19 January 1932. Gottscho-Schleisner Collection, [Library of Congress](https://www.loc.gov/item/2018751223/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg).",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "A",
+        "license": "public domain",
+        "statement": "The Library of Congress states “No known restrictions on publication” for this Gottscho-Schleisner photograph; Wikimedia Commons marks the file public domain. The building was completed in 1930, before United States copyright protected architectural works (1990), and William Van Alen died in 1954."
+      },
+      "identifiers": {
+        "wikidata": "Q11274",
+        "loc": "2018751223",
+        "commons": "File:Chrysler Building Midtown Manhattan New York City 1932.jpg"
+      },
+      "page": "references/chrysler-building-1930.html"
+    },
+    {
+      "id": "brandt-cobra-lamp-1925",
+      "title": "Cobra lamp by Edgar Brandt",
+      "type": "object",
+      "medium": "product",
+      "lede": "Edgar Brandt’s bronze floor lamp: a cobra coils up a thin stem and holds a conical glass shade in its body, its hood raised beside the rim.",
+      "summary": "A bronze cobra twined around a stem holding a conical amber glass shade. Edgar Brandt with Daum, c. 1925.",
+      "source": {
+        "url": "https://www.artic.edu/artworks/109535/cobra-lamp",
+        "label": "Art Institute of Chicago: Cobra Lamp, 1984.73"
+      },
+      "creator": {
+        "name": "Edgar William Brandt; glass attributed to Daum Frères",
+        "url": "https://www.wikidata.org/wiki/Q3047441"
+      },
+      "made": "c. 1925",
+      "moods": [
+        "exotic",
+        "luxurious",
+        "dramatic"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Downloaded the Art Institute of Chicago IIIF image (843 × 1393 px) to a scratch folder and inspected it. Read the record through the AIC API. No image is stored."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "art-deco",
+          "note": "The Art Institute classifies it as Art Deco. It shows the luxury metalwork of the 1925 generation and the taste for exotic, stylized animals.",
+          "basis": "agent"
+        }
+      ],
+      "context": [
+        "The Art Institute records the lamp as c. 1925, bronze and glass, height 91.8 cm, by Edgar William Brandt (French, 1880–1960), with glass attributed to Daum Frères, Nancy, and metalwork attributed to Mueller Frères, Lunéville. Style: Art Deco. [Art Institute of Chicago](https://www.artic.edu/artworks/109535/cobra-lamp).",
+        "The AIC API marks the object as not in the public domain (`is_public_domain: false`). [AIC API](https://api.artic.edu/api/v1/artworks/109535)."
+      ],
+      "observed": [
+        "A dark bronze cobra forms the whole lamp: its tail coils flat on a round ribbed base, its body rises as a thin stem, wraps once around the bottom of the shade, and lifts its hooded head beside the rim.",
+        "The scales are cast as a fine diamond crosshatch along the body.",
+        "The shade is a tall inverted cone of mottled amber glass, pale green inside.",
+        "The lamp is tall and slender; the only curved lines are in the snake."
+      ],
+      "interpretation": [
+        "The lamp shows the exotic, animal side of Art Deco, influenced by the fashion for Egypt and the Orient; it is less geometric than the architectural references.",
+        "The contrast of dark patinated metal with warm glass is the material palette of luxury Deco lighting."
+      ],
+      "borrow": [
+        "Pair one dark metal color with one warm translucent color.",
+        "Use a single stylized animal as the structural element instead of as applied decoration."
+      ],
+      "rights": {
+        "tier": "D",
+        "license": "unverified",
+        "statement": "The Art Institute does not mark the image public domain. Edgar Brandt died in 1960, so the design is protected in France until 2030."
+      },
+      "identifiers": {
+        "aic": "109535",
+        "accession": "1984.73"
+      },
+      "page": "references/brandt-cobra-lamp-1925.html"
+    },
+    {
+      "id": "ruhlmann-corner-cabinet-1923",
+      "title": "Corner cabinet by Émile-Jacques Ruhlmann",
+      "type": "object",
+      "medium": "furniture",
+      "lede": "A tall corner cabinet in dark exotic wood whose door carries an oval of ivory marquetry: a ribbed vase in a dense wreath of stylized flowers.",
+      "summary": "Dark wood, ivory inlay, a stylized flower basket in an oval, and tapered legs with ivory feet. Ruhlmann, Paris, c. 1923.",
+      "source": {
+        "url": "https://www.brooklynmuseum.org/opencollection/objects/97886",
+        "label": "Brooklyn Museum: Corner Cabinet, 71.150.1"
+      },
+      "creator": {
+        "name": "Émile-Jacques Ruhlmann",
+        "url": "https://www.wikidata.org/wiki/Q954875"
+      },
+      "made": "c. 1923",
+      "moods": [
+        "luxurious",
+        "formal",
+        "refined"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Downloaded and inspected the Brooklyn Museum photograph published on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Emile-Jacques_Ruhlmann_(French,_1879-1933)._Corner_Cabinet,_ca._1923..jpg) (1214 × 1536 px), a frontal studio view on a gray ground. Read the museum record in Claude in Chrome."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "art-deco",
+          "note": "A key work of the ensemblier who defined French Art Deco luxury furniture: rare dark wood, ivory, and a symmetrical, stylized floral ornament.",
+          "basis": "agent"
+        }
+      ],
+      "context": [
+        "The Brooklyn Museum dates the cabinet c. 1923, gives its place of making as Paris, and lists mahogany, Macassar ebony, rosewood, ebony, ivory, amaranth, and brass. It is branded “RUHLMANN” twice on the back panels. [Brooklyn Museum](https://www.brooklynmuseum.org/opencollection/objects/97886).",
+        "The Commons caption from the museum’s 2014 upload gives the materials as kingwood (amaranth) veneer on mahogany with ivory inlay, and the size as 126.7 × 80.6 × 59.7 cm. [Commons](https://commons.wikimedia.org/wiki/File:Emile-Jacques_Ruhlmann_(French,_1879-1933)._Corner_Cabinet,_ca._1923..jpg).",
+        "Search-result text from the museum’s catalogue says Ruhlmann designed the cabinet for “Les Terrasses,” the house of A. Weitz in Lyon, and links the black-and-white inlay to the Wiener Werkstätte. This was not shown on the page text read on 2026-09-25. [Brooklyn Museum](https://www.brooklynmuseum.org/opencollection/objects/97886)."
+      ],
+      "observed": [
+        "The front is a single door of red-brown wood with a slightly bowed outline, framed by a line of small ivory dots.",
+        "An upright oval of ivory marquetry fills most of the door. In it a dark, fluted vase with ivory rib lines and scrolled handles holds a dense mass of stylized flowers and leaves in ivory and dark wood.",
+        "The composition is symmetrical about the vertical axis of the door.",
+        "The top edge carries a band of alternating ivory and dark blocks, like a dentil or piano-key border.",
+        "Three slender, tapered legs end in small ivory sabots; two ivory disks mark the tops of the front legs.",
+        "There is no metal mount on the front except a small keyhole escutcheon."
+      ],
+      "interpretation": [
+        "The piece shows the early, luxurious side of Art Deco: an eighteenth-century furniture type made new with flattened, geometric flower ornament and a strong dark-and-ivory contrast.",
+        "The basket of stylized flowers is a stock motif of 1920s French decorative art, here held inside a strict oval and a symmetrical axis."
+      ],
+      "borrow": [
+        "Frame a central ornament with a single row of small dots in the accent color.",
+        "Use one strong light-on-dark ornament, centered, on an otherwise plain surface.",
+        "Edge a panel with a band of alternating light and dark blocks."
+      ],
+      "images": [
+        {
+          "file": "assets/references/ruhlmann-corner-cabinet-1923.jpg",
+          "alt": "Studio photograph of a tall corner cabinet in reddish-brown wood on three slender tapered legs with ivory feet. Its door has an oval of ivory inlay showing a dark ribbed vase overflowing with stylized white flowers, framed by a line of small ivory dots.",
+          "width": 1214,
+          "height": 1536,
+          "kind": "photograph",
+          "caption": "Émile-Jacques Ruhlmann, corner cabinet, c. 1923. [Brooklyn Museum](https://www.brooklynmuseum.org/opencollection/objects/97886) 71.150.1, photograph by the Brooklyn Museum via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Emile-Jacques_Ruhlmann_(French,_1879-1933)._Corner_Cabinet,_ca._1923..jpg).",
+          "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Emile-Jacques_Ruhlmann_%28French%2C_1879-1933%29._Corner_Cabinet%2C_ca._1923..jpg",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "A",
+        "license": "public domain",
+        "statement": "Wikimedia Commons carries the Brooklyn Museum’s “No known copyright restrictions” statement for this photograph. Ruhlmann died in 1933, so the design is in the public domain in France and the United States. The museum’s own object page offers the image for download but shows no license text."
+      },
+      "identifiers": {
+        "brooklyn": "97886",
+        "accession": "71.150.1",
+        "commons": "File:Emile-Jacques Ruhlmann (French, 1879-1933). Corner Cabinet, ca. 1923..jpg"
+      },
+      "page": "references/ruhlmann-corner-cabinet-1923.html"
     },
     {
       "id": "crystal-clear-icons-everaldo-coelho",
@@ -1489,6 +2045,71 @@
         "statement": "© Envato. Link and quotation only."
       },
       "page": "references/envato-neo-brutalism-trend-2023.html"
+    },
+    {
+      "id": "jetset-website",
+      "title": "Experimental Jetset website",
+      "type": "website",
+      "medium": "website",
+      "lede": "The Amsterdam studio’s online archive: a directory listing of every project, set in one size of Helvetica on a six-column grid.",
+      "summary": "Six columns of project titles and dates in one size of black Helvetica on white, with finished projects struck through.",
+      "source": {
+        "url": "https://www.jetset.nl/",
+        "label": "jetset.nl"
+      },
+      "creator": {
+        "name": "Experimental Jetset",
+        "url": "https://www.jetset.nl/"
+      },
+      "moods": [
+        "rational",
+        "dense",
+        "plain"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "international-typographic-style",
+          "note": "A clear example of the grid and the type: every line sits in one of six columns, in black Helvetica, flush left. It has no scale contrast at all, so it fails the `type.sizeRange` metric (see the style page).",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "A plain text header reads “Experimental Jetset” at the top left and “Search” at the top right.",
+        "A short vertical menu lists Archive (in bold), Preview, News, About, and Contact.",
+        "A thin black rule spans the page under the menu and a Categories drop-down.",
+        "Below the rule, six equal columns list project titles, each with a month and year aligned to the right of the column.",
+        "Many titles are struck through. All text is black on white and appears to be the same size."
+      ],
+      "interpretation": [
+        "The measurement finds only Helvetica, only black and white, square corners, and no centered text. Every text run is 13.2 px, so the size range is 1.",
+        "The grid carries the whole page: the directory reads as a table because the columns are strict, not because of rules or boxes."
+      ],
+      "borrow": [
+        "Let a long list become the layout: equal columns, one type size, and dates aligned to a fixed column edge."
+      ],
+      "images": [
+        {
+          "file": "assets/references/jetset-website.jpg",
+          "alt": "Experimental Jetset archive page: a small menu at the top left, a thin rule, and six dense columns of project titles with dates, all in small black Helvetica on white, many titles struck through.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [jetset.nl](https://www.jetset.nl/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to Experimental Jetset. Screenshot captured for commentary."
+      },
+      "page": "references/jetset-website.html"
     },
     {
       "id": "figma-website-2022",
@@ -3029,6 +3650,138 @@
       "page": "references/munich-1972-olympic-pictograms.html"
     },
     {
+      "id": "rose-iron-works-muse-with-violin-screen-1930",
+      "title": "Muse with Violin screen, Rose Iron Works",
+      "type": "object",
+      "medium": "furniture",
+      "lede": "Paul Fehér’s wrought-iron fire screen for the Rose Iron Works of Cleveland: a gilded violinist in a stepped, silvered frame of arches and stylized leaves on dark blue velvet.",
+      "summary": "Silver-plated steel steps, arches, and leaves on dark blue velvet around a gold figure. Paul Fehér, Cleveland, 1930.",
+      "source": {
+        "url": "https://clevelandart.org/art/2020.216",
+        "label": "Cleveland Museum of Art: Muse with Violin Screen, 2020.216"
+      },
+      "creator": {
+        "name": "Paul Fehér (designer), Rose Iron Works (maker)",
+        "url": "https://www.wikidata.org/wiki/Q125423133"
+      },
+      "made": "1930",
+      "moods": [
+        "glamorous",
+        "formal",
+        "geometric"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Downloaded the Cleveland Museum of Art web image (900 × 792 px) to a scratch folder and inspected it. Read the museum record through the Cleveland Open Access API. No image is stored."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "art-deco",
+          "note": "The museum itself calls it classic Art Deco; it hits every diagnostic of the rubric: symmetry, steps, repeated stylized ornament, and metal on a deep jewel tone.",
+          "basis": "agent"
+        }
+      ],
+      "context": [
+        "The museum gives the date 1930, the materials steel, brass, silver and gold plating, and cotton velveteen, and the size 156.2 × 156.2 cm. [Cleveland Museum of Art](https://clevelandart.org/art/2020.216).",
+        "The museum text says Martin Rose founded the Rose Iron Works after training in Vienna, hired the Parisian designer Paul Fehér in the 1920s, and describes the screen’s geometric patterning, stylized natural forms, and a central figure reminiscent of Josephine Baker as “the classic motifs of Art Deco design”. [Cleveland Museum of Art](https://clevelandart.org/art/2020.216).",
+        "The screen was shown in the museum’s May Show of 1930 and reproduced in *Arts and Decoration* in January 1931, according to the museum’s exhibition and citation lists. [Cleveland Museum of Art](https://clevelandart.org/art/2020.216)."
+      ],
+      "observed": [
+        "The screen is nearly square, with a tall central panel between two narrower side panels, all framed in hammered silver-colored metal.",
+        "The central panel holds a gold nude figure playing a violin, standing on a mound of wavy lines, inside a frame of stacked semicircular arches.",
+        "Stepped, right-angled bars in the side panels climb in tiers and carry stylized leaf sprays.",
+        "A row of short vertical bars forms a stepped cresting along the top; the feet are grooved blocks.",
+        "The metal is set against dark blue velvet, so the silver ornament reads as bright line on a deep ground.",
+        "The layout is mirror-symmetrical about the central figure."
+      ],
+      "interpretation": [
+        "This is a near-perfect rubric match for the style: symmetry, stepped outlines, arches in regular rhythm, and metal on a dark jewel tone.",
+        "It shows the Paris idiom carried to an American industrial metalworks within five years of the 1925 Exposition."
+      ],
+      "borrow": [
+        "Frame a central panel with stacked semicircles on each side, like a column of arches.",
+        "Use a deep blue ground and draw all ornament in one metallic tone, with a single gold element at the center."
+      ],
+      "rights": {
+        "tier": "D",
+        "license": "unverified",
+        "statement": "The Cleveland Museum of Art marks the image CC0. Paul Fehér died in 1990, so the design is protected under life-plus-70 terms, and whether it was “published” in the United States in 1930 by exhibition is unclear. Under the skill’s rule a CC0 photograph of a possibly copyrighted screen is not tier A. The lead curator may upgrade it if the museum’s CC0 determination is accepted."
+      },
+      "identifiers": {
+        "cleveland": "173164",
+        "accession": "2020.216"
+      },
+      "page": "references/rose-iron-works-muse-with-violin-screen-1930.html"
+    },
+    {
+      "id": "moma-website",
+      "title": "Museum of Modern Art website",
+      "type": "website",
+      "medium": "website",
+      "lede": "MoMA’s home page sets its bold grotesque wordmark and navigation flush left on a wide grid above a full-width photograph.",
+      "summary": "Bold black grotesque type flush left on a wide grid, a full-width gallery photograph, and a cyan ticket button.",
+      "source": {
+        "url": "https://www.moma.org/",
+        "label": "moma.org"
+      },
+      "creator": {
+        "name": "The Museum of Modern Art",
+        "url": "https://www.moma.org/"
+      },
+      "moods": [
+        "clear",
+        "institutional",
+        "direct"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A cookie bar covers the bottom 60 pixels of the screenshot."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "international-typographic-style",
+          "note": "A borderline example: the type and alignment follow the style (one grotesque family, flush left, square buttons, strong scale contrast), but the page uses two accent colors and a full-bleed color photograph. It fails `color.hues`.",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "The MoMA wordmark is set in heavy black sans-serif at the top left.",
+        "The navigation (Visit, Exhibitions and events, Art and artists, Store) is bold black sans-serif, flush left under the wordmark.",
+        "At the top right, Membership, a gray Donate button, and a cyan Tickets button have square corners.",
+        "A full-width photograph shows a large cyan wall with colored dots in a gallery.",
+        "Below it, “Welcome” is set large and bold, flush left, with opening hours and a square black “Plan your visit” button on the right.",
+        "A thick black rule runs under the welcome row."
+      ],
+      "interpretation": [
+        "The measurement finds one family (MoMA Sans) for 97% of the text, square corners, no shadows, a size range of 3.33, and no centered text. It finds two accent hues in CSS (a green and the cyan button), and the pixel palette adds the hues of the photograph.",
+        "The page reads as a well-made institutional site that uses Swiss typography. The grid is not visible in the way it is on [Experimental Jetset](ref:jetset-website) or [ZHdK](ref:zhdk-website)."
+      ],
+      "borrow": [
+        "Keep the wordmark, navigation, and headings on one left edge, and put the few actions on the right edge of the same grid."
+      ],
+      "images": [
+        {
+          "file": "assets/references/moma-website.jpg",
+          "alt": "MoMA home page: the MoMA wordmark and a row of bold navigation links at the top left, Donate and cyan Tickets buttons at the top right, a wide photograph of a cyan gallery wall with colored dots, a large Welcome heading with a black Plan your visit button, and a gray cookie bar at the bottom.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [moma.org](https://www.moma.org/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to The Museum of Modern Art. Screenshot captured for commentary."
+      },
+      "page": "references/moma-website.html"
+    },
+    {
       "id": "neobrutalism-components-library",
       "title": "Neobrutalism components",
       "type": "product",
@@ -3547,6 +4300,71 @@
         "statement": "© Nielsen Norman Group. Link and quotation only."
       },
       "page": "references/nngroup-neobrutalism-article-2025.html"
+    },
+    {
+      "id": "cassandre-normandie-poster-1935",
+      "title": "Normandie poster by Cassandre",
+      "type": "print",
+      "medium": "poster",
+      "lede": "Cassandre’s poster for the French Line shows the liner Normandie head-on: a looming, symmetrical black hull above a band of sea and a stack of centered capitals.",
+      "summary": "A symmetrical frontal view of a liner’s bow in black, white, and red over the name NORMANDIE. Cassandre, 1935.",
+      "source": {
+        "url": "https://collections.vam.ac.uk/item/O1405126/",
+        "label": "Victoria and Albert Museum: Normandie, E.648-2017"
+      },
+      "creator": {
+        "name": "Cassandre (Adolphe Mouron)",
+        "url": "https://www.wikidata.org/wiki/Q278945"
+      },
+      "made": "1935",
+      "moods": [
+        "monumental",
+        "optimistic",
+        "streamlined"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Downloaded the V&A image (580 × 900 px) to a scratch folder and inspected it. Read the V&A record through its API. The MoMA record could not be read: HTTP 403 to WebFetch, and Claude in Chrome had no permission for moma.org. No image is stored."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "art-deco",
+          "note": "The best-known poster of the late, streamlined phase of Art Deco, for a liner built as a showcase of French Deco design.",
+          "basis": "agent"
+        }
+      ],
+      "context": [
+        "The V&A calls the poster “arguably the most iconic work of Cassandre (1901–68)” and says the Normandie entered service with the Compagnie Générale Transatlantique in 1935 and was conceived as a showcase of French Art Deco design. It notes the simplicity and symmetry of the frontal view. [V&A](https://collections.vam.ac.uk/item/O1405126/).",
+        "The V&A records colour lithograph on paper backed on cotton, 100.5 × 62.5 cm, printed by Alliance Graphique L. Danel, Paris, 1935. [V&A](https://collections.vam.ac.uk/item/O1405126/)."
+      ],
+      "observed": [
+        "The bow of the ship fills the upper two-thirds, seen from straight ahead and below, so the hull narrows to a vertical center line.",
+        "The hull is black and gray with a red band at the waterline; white superstructure decks flare out on both sides near the top, and a red and black funnel sits above.",
+        "The sky is a gradient from deep blue at top to pale blue; a small flock of white birds crosses the lower hull.",
+        "A green band of sea runs across below the hull.",
+        "“NORMANDIE” is centered in large white sans-serif capitals, followed by centered lines in black and red capitals giving the line and the route Le Havre – Southampton – New-York.",
+        "The signature “A.M. CASSANDRE” is at upper right. The composition is symmetrical about the bow."
+      ],
+      "interpretation": [
+        "The poster uses Deco symmetry and a stepped, flaring silhouette, but its smooth gradients and machine subject point to the streamline branch the style record lists as a close relative.",
+        "The low viewpoint makes the object monumental, the same device as a setback tower seen from the street."
+      ],
+      "borrow": [
+        "Center one monumental object on the vertical axis and let it narrow toward the viewer.",
+        "Stack centered lines of capitals under the image, changing only color between lines."
+      ],
+      "rights": {
+        "tier": "D",
+        "license": "unverified",
+        "statement": "Cassandre died in 1968, so the poster is protected in France until 2038. The V&A image is not offered under an open license."
+      },
+      "identifiers": {
+        "vam": "O1405126",
+        "accession": "E.648-2017"
+      },
+      "page": "references/cassandre-normandie-poster-1935.html"
     },
     {
       "id": "nycta-graphics-standards-manual-1970",
@@ -4120,6 +4938,73 @@
       "page": "references/staatliches-bauhaus-in-weimar-1919-1923.html"
     },
     {
+      "id": "stedelijk-website",
+      "title": "Stedelijk Museum Amsterdam website",
+      "type": "website",
+      "medium": "website",
+      "lede": "The museum’s home page stacks its name and its programme as full-width lines of very large grotesque capitals between heavy black rules.",
+      "summary": "Huge black grotesque capitals in full-width bands between heavy rules, with one flat green button.",
+      "source": {
+        "url": "https://www.stedelijk.nl/en",
+        "label": "stedelijk.nl"
+      },
+      "creator": {
+        "name": "Stedelijk Museum Amsterdam",
+        "url": "https://www.stedelijk.nl/en"
+      },
+      "moods": [
+        "bold",
+        "objective",
+        "direct"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A cookie notice covers part of the lower right quarter of the screenshot."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "international-typographic-style",
+          "note": "A clear example: grotesque type at extreme scale, flush left, in black and white with one flat accent, organized in horizontal bands. It passes every fingerprint metric.",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "The word STEDELIJK fills the full width of the page in very large black grotesque capitals.",
+        "A tilted yellow sticker with the word “Unbubble” in a heavy rounded display face overlaps the last letters of the name.",
+        "Below it, “MUSEUM OF MODERN AND CONTEMPORARY ART AND DESIGN” is set in one line of smaller capitals.",
+        "Heavy black horizontal rules divide the page into bands. Each band holds one line of large capitals, such as “WHAT’S ON: EXHIBITIONS &” and “YAYOI KUSAMA”, cut off at the right edge.",
+        "One small square photograph sits inside a band next to the word NEW.",
+        "The only flat color in the interface is a bright green “Book ticket” button at the top right."
+      ],
+      "interpretation": [
+        "The measurement finds one grotesque family (Union) for 98% of the text, square corners, no shadows, two CSS colors, a size range of 3.47, and 52% uppercase text.",
+        "The yellow sticker is an exhibition campaign placed on top of the identity, not part of the grid. It is the one element that breaks the style."
+      ],
+      "borrow": [
+        "Treat a list of exhibitions as a stack of full-width type bands separated by heavy rules.",
+        "Keep one accent color for the one action that matters (here, tickets)."
+      ],
+      "images": [
+        {
+          "file": "assets/references/stedelijk-website.jpg",
+          "alt": "Stedelijk Museum home page: the word STEDELIJK in huge black grotesque capitals across the top with a tilted yellow Unbubble sticker, then full-width bands of large capitals reading What’s on, Yayoi Kusama, and Kho Liang Ie between heavy black rules, a green Book ticket button, and a black cookie notice at the lower right.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [stedelijk.nl](https://www.stedelijk.nl/en).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to the Stedelijk Museum Amsterdam. Screenshot captured for commentary."
+      },
+      "page": "references/stedelijk-website.html"
+    },
+    {
       "id": "bedin-super-lamp-1981",
       "title": "Super lamp",
       "type": "object",
@@ -4242,6 +5127,70 @@
         "mplus": "CA28/6/2"
       },
       "page": "references/umeda-tawaraya-colour-tests-1981.html"
+    },
+    {
+      "id": "swiss-grid-poster-house-website",
+      "title": "The Swiss Grid exhibition website",
+      "type": "website",
+      "medium": "website",
+      "lede": "Poster House’s microsite for its Swiss Grid exhibition opens with the title in huge white Akzidenz-Grotesk on black.",
+      "summary": "The words The Swiss Grid in huge white grotesque on black, with the museum’s name turned vertically at the edges.",
+      "source": {
+        "url": "https://swissgrid.posterhouse.org/",
+        "label": "swissgrid.posterhouse.org"
+      },
+      "creator": {
+        "name": "Poster House",
+        "url": "https://posterhouse.org/"
+      },
+      "moods": [
+        "bold",
+        "stark",
+        "graphic"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "international-typographic-style",
+          "note": "A borderline example: the type (Akzidenz-Grotesk, extreme scale, black and white) belongs to the style, but the first viewport is one centered title block, which the rubric counts against it. The site is about the style, which is not evidence that it uses it. It passes every fingerprint metric because the lines are left-aligned inside a centered block (see the style page).",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "The page is black.",
+        "The title “The Swiss Grid” fills most of the screen in three lines of very large white grotesque type. The block of three lines sits in the middle of the page.",
+        "The word POSTER runs vertically down the top left edge and HOUSE runs vertically up the bottom right edge, in heavy white capitals.",
+        "A thin eye icon and a three-line menu icon sit at the top right. A thin down arrow sits at the bottom center."
+      ],
+      "interpretation": [
+        "The measurement finds only akzidenz-grotesk, black and white, a size range of 8.1, and no centered text. The layout still reads as centered: the title block is centered with margins, which the `type.centerShare` metric does not see.",
+        "The museum name split across two edges is a poster device: it frames the page from two corners instead of sitting in a header."
+      ],
+      "borrow": [
+        "Split a short name across two opposite page edges, set vertically, to frame a full-screen title."
+      ],
+      "images": [
+        {
+          "file": "assets/references/swiss-grid-poster-house-website.jpg",
+          "alt": "The Swiss Grid microsite: a black screen with the words The Swiss Grid in three lines of huge white grotesque type in the middle, POSTER set vertically on the left edge and HOUSE set vertically on the right edge, with small eye and menu icons at the top right.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [swissgrid.posterhouse.org](https://swissgrid.posterhouse.org/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to Poster House. Screenshot captured for commentary."
+      },
+      "page": "references/swiss-grid-poster-house-website.html"
     },
     {
       "id": "typographie-emil-ruder-1967",
@@ -4386,6 +5335,69 @@
       "page": "references/univers-typeface.html"
     },
     {
+      "id": "dunand-inlaid-vase-1925",
+      "title": "Vase by Jean Dunand",
+      "type": "object",
+      "medium": "product",
+      "lede": "Jean Dunand’s dark metal vase covered in a dense all-over pattern of inlaid silver zigzags, meanders, and sunbursts.",
+      "summary": "Dark copper vase with silver inlaid zigzags, step patterns, and small suns. Jean Dunand, Paris, c. 1925.",
+      "source": {
+        "url": "https://www.artic.edu/artworks/18896/vase",
+        "label": "Art Institute of Chicago: Vase, 1925.1639"
+      },
+      "creator": {
+        "name": "Jean Dunand",
+        "url": "https://www.wikidata.org/wiki/Q1990069"
+      },
+      "made": "c. 1925",
+      "moods": [
+        "geometric",
+        "rhythmic",
+        "luxurious"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Downloaded the Art Institute of Chicago IIIF image (843 × 1303 px) to a scratch folder and inspected it. Read the record through the AIC API. No image is stored."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "art-deco",
+          "note": "Dunand was a leading Art Deco metalworker and lacquerer; this vase is classified Art Deco by the museum and uses the style’s zigzag and stepped ornament.",
+          "basis": "agent"
+        }
+      ],
+      "context": [
+        "The Art Institute records the vase as c. 1925, copper and silver inlay, 28.6 × 12.7 cm, by Jean Dunand (French, 1877–1942), Paris. Style: Art Deco. Credit: Gift of Arthur T. Aldis and Russell Tyson. [Art Institute of Chicago](https://www.artic.edu/artworks/18896/vase).",
+        "The AIC API marks the object as not in the public domain. [AIC API](https://api.artic.edu/api/v1/artworks/18896)."
+      ],
+      "observed": [
+        "The vase is a tall ovoid with a narrow flared neck; the metal is dark gray-brown with a soft sheen.",
+        "Thin lighter lines of inlay cover the whole surface in a dense pattern of zigzags, stepped meanders, concentric arcs, and small star or sun shapes.",
+        "The pattern is irregular and all-over, not arranged in bands or panels.",
+        "There is no color other than the dark ground and the lighter inlay."
+      ],
+      "interpretation": [
+        "The inlay is a catalogue of Deco motifs in one object: zigzag, step, arc, and sunburst, drawn as light line on a dark metal ground.",
+        "Its free, all-over layout is looser than the symmetrical Deco rubric; it shows the influence of African and Cubist pattern on French decorative art."
+      ],
+      "borrow": [
+        "Fill a dark surface with thin light-line zigzags and steps as a texture.",
+        "Limit the palette to one dark metal ground and one lighter line color."
+      ],
+      "rights": {
+        "tier": "D",
+        "license": "unverified",
+        "statement": "The Art Institute does not mark the image public domain. Jean Dunand died in 1942, so the design is probably in the public domain in France, but the source does not state an open license for the image."
+      },
+      "identifiers": {
+        "aic": "18896",
+        "accession": "1925.1639"
+      },
+      "page": "references/dunand-inlaid-vase-1925.html"
+    },
+    {
       "id": "zanini-victoria-vase-1982",
       "title": "Victoria vase",
       "type": "object",
@@ -4507,6 +5519,75 @@
         "vam": "O1194268"
       },
       "page": "references/sowden-view-of-an-interior-1983.html"
+    },
+    {
+      "id": "whitney-website",
+      "title": "Whitney Museum of American Art website",
+      "type": "website",
+      "medium": "website",
+      "lede": "The museum’s home page uses its responsive W, a zigzag line drawn across the page, above bold grotesque navigation between thin rules.",
+      "summary": "A thin zigzag W across the top, bold black grotesque capitals for navigation, and artworks in a two-column grid.",
+      "source": {
+        "url": "https://whitney.org/",
+        "label": "whitney.org"
+      },
+      "creator": {
+        "name": "Whitney Museum of American Art",
+        "url": "https://whitney.org/"
+      },
+      "moods": [
+        "bold",
+        "graphic",
+        "objective"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A cookie notice covers part of the lower left of the screenshot."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "international-typographic-style",
+          "note": "A clear example in the interface: one grotesque family, flush-left capitals, thin rules, square outlined buttons, and only black, white, and gray. The color on the page comes from the artworks. It passes every fingerprint metric.",
+          "basis": "agent"
+        }
+      ],
+      "context": [
+        "The Whitney’s graphic identity, the “responsive W”, was designed by Experimental Jetset in 2013 ([studio archive](https://www.jetset.nl/archive/whitney-museum-identity)). The studio has not been confirmed as the designer of the current website."
+      ],
+      "observed": [
+        "A thin black zigzag line crosses the full width of the page and forms a large W.",
+        "The word WHITNEY sits inside the first valley of the zigzag in heavy black capitals.",
+        "“Open today: 10:30 am–10 pm” and two square outlined buttons, BOOK TICKETS and BECOME A MEMBER, sit at the right, above a thin rule.",
+        "The navigation (VISIT, WHAT’S ON, ART & ARTISTS, LEARN, SHOP) is set in large bold black capitals, flush left, between two thin rules.",
+        "Below, a wide image of a colorful painting and a narrower image of a hot dog with ketchup sit in two columns.",
+        "The caption “ALEX DA CORTE: HOT DOG WITH KETCHUP” is set in bold capitals, the first line black and the second gray."
+      ],
+      "interpretation": [
+        "The measurement finds only Neue Haas Grotesk (haas-grotesk-text and haas-grotesk-sign), square corners, no shadows, two CSS colors, and a size range of 3.25.",
+        "The zigzag is the identity’s one graphic form, and it is drawn with a thin line, not filled. This follows the style’s preference for simple geometric forms over illustration."
+      ],
+      "borrow": [
+        "Use one thin geometric line as the identity mark, and let type and rules do the rest of the work."
+      ],
+      "images": [
+        {
+          "file": "assets/references/whitney-website.jpg",
+          "alt": "Whitney Museum home page: a thin black zigzag W across the top with WHITNEY in heavy black capitals, two square outlined buttons, a row of bold black capital navigation links between thin rules, and two artworks below, a colorful painting and a hot dog with ketchup, with a cookie notice at the lower left.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [whitney.org](https://whitney.org/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to the Whitney Museum of American Art. Artworks belong to their artists. Screenshot captured for commentary."
+      },
+      "page": "references/whitney-website.html"
     },
     {
       "id": "wii-menu-2006",
@@ -4888,6 +5969,72 @@
         "statement": "Design and content belong to Microsoft. Screenshot captured for commentary."
       },
       "page": "references/windows-vista-website-2007.html"
+    },
+    {
+      "id": "zhdk-website",
+      "title": "Zurich University of the Arts website",
+      "type": "website",
+      "medium": "website",
+      "lede": "The ZHdK home page hangs a bold Helvetica title and a list of large gray links from one strong left axis.",
+      "summary": "Bold black Helvetica on white, hung from one left axis, with small right-aligned labels in the margin column.",
+      "source": {
+        "url": "https://www.zhdk.ch/en",
+        "label": "zhdk.ch"
+      },
+      "creator": {
+        "name": "Zurich University of the Arts",
+        "url": "https://www.zhdk.ch/en"
+      },
+      "moods": [
+        "rational",
+        "clear",
+        "restrained"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. The English home page redirected to https://www.zhdk.ch/en/zurich-university-of-the-arts-1."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "international-typographic-style",
+          "note": "A clear example from a Zurich design school: Helvetica only, a strong left axis, asymmetric margins, and black, white, and gray. It fails the `type.sizeRange` metric because most of the text on the page is large (see the style page).",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "A small Z logo and the letters hdk sit at the top left, with the school’s German and English names in very small type between short horizontal dashes.",
+        "The title “Zurich University of the Arts” is set in two lines of large, bold black sans-serif, flush left.",
+        "A round pale-yellow badge at the top right reads “Subscribe to ZHdK’s event newsletter” in tilted text.",
+        "A thin gray rule separates the title from a section headed ZHdK.",
+        "Six links (Studying at ZHdK, Research, Continuing Education, Preparatory training, International, About us) are set large, bold, and gray, flush left on the same axis as the title.",
+        "In the left margin, the small labels ZHdK, News, and Events are aligned right, against the main axis."
+      ],
+      "interpretation": [
+        "The measurement finds only Helvetica, square corners, no shadows, and one accent hue (the yellow badge). The base size is 45 px because the large links hold most of the characters, so the size range is only 1.89 even though the page has 10 px labels and an 85 px title.",
+        "The margin labels aligned right against the main text column are a direct Swiss-grid device: two columns meet at one shared axis."
+      ],
+      "borrow": [
+        "Set section labels in a narrow margin column, aligned right, so that they meet the main column at one vertical line."
+      ],
+      "images": [
+        {
+          "file": "assets/references/zhdk-website.jpg",
+          "alt": "Zurich University of the Arts home page: a small Z and hdk logo at the top left, the title Zurich University of the Arts in large bold black Helvetica, a round yellow newsletter badge at the right, and a list of six large gray links hanging from the same left edge, with small labels in the left margin.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [zhdk.ch](https://www.zhdk.ch/en).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to Zurich University of the Arts. Screenshot captured for commentary."
+      },
+      "page": "references/zhdk-website.html"
     }
   ]
 }

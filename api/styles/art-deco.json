@@ -1,0 +1,583 @@
+{
+  "id": "art-deco",
+  "title": "Art Deco",
+  "order": 7,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Deco",
+    "Style Moderne",
+    "Art Moderne",
+    "Jazz Modern"
+  ],
+  "summary": "Stepped forms, sunbursts, and spaced capitals in metal on dark lacquer. Modern luxury from the 1920s.",
+  "lede": "The decorative style named after the 1925 Paris Exposition internationale des arts décoratifs et industriels modernes: geometric and stylized ornament, symmetry, stepped and radiating forms, and luxurious or new materials such as ebony, lacquer, chrome, and gold leaf, applied to everything from skyscrapers to jewelry.",
+  "moods": [
+    "glamorous",
+    "luxurious",
+    "geometric",
+    "formal",
+    "optimistic"
+  ],
+  "era": {
+    "from": 1910,
+    "to": 1939,
+    "note": "Wikipedia: first appeared in Paris in the 1910s and flourished internationally from the 1920s to the early 1930s. It lost its dominance after the outbreak of World War II. The term Art Deco came into print only in 1966."
+  },
+  "regions": [
+    "France",
+    "United States",
+    "Belgium",
+    "Austria",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q173782",
+    "aat": "300021426"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Art Deco",
+      "url": "https://en.wikipedia.org/wiki/Art_Deco",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Wikidata: Art Deco (Q173782)",
+      "url": "https://www.wikidata.org/wiki/Q173782",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Getty Art & Architecture Thesaurus: Art Deco (300021426)",
+      "url": "https://vocab.getty.edu/page/aat/300021426",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Encyclopaedia Britannica: Art Deco",
+      "url": "https://www.britannica.com/art/Art-Deco",
+      "checked": "2026-09-25"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "reaction-against",
+      "label": "Art Nouveau",
+      "wikidata": "Q34636",
+      "note": "Wikipedia: in architecture, Art Deco was the successor to, and a reaction against, Art Nouveau. Wikidata records Art Nouveau as the style that Art Deco follows."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Vienna Secession",
+      "note": "Wikipedia: Art Deco has its origin in the geometric forms of the Vienna Secession. Josef Hoffmann’s Stoclet Palace (1905–1911) is named as a prototype, with symmetry, straight lines, and lavish ornament."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Cubism",
+      "wikidata": "Q42934",
+      "note": "Wikipedia names Cubism as a source of the bold geometric forms. Wikidata lists Cubism under “influenced by”."
+    },
+    {
+      "relation": "related-to",
+      "label": "Streamline Moderne",
+      "wikidata": "Q928960",
+      "note": "Wikipedia describes Streamline Moderne as a 1930s form of Art Deco with curving forms, long horizontal lines, and polished surfaces."
+    },
+    {
+      "relation": "related-to",
+      "style": "bauhaus",
+      "note": "Contemporaries. The 1966 Paris exhibition that brought the term into print covered Art Deco, Bauhaus, and De Stijl together. Interpretation: both use geometry, but Bauhaus work drops the luxury ornament that Art Deco keeps."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Symmetry and stepped forms.",
+      "text": "Compositions are symmetrical about a central axis. Outlines step back in tiers, like a ziggurat or a setback skyscraper."
+    },
+    {
+      "facet": "imagery",
+      "term": "Sunbursts, chevrons, and zigzags.",
+      "text": "Radiating rays, fans, chevrons, and zigzags repeat as ornament. Figures, flowers, and machines appear in stylized, geometric form."
+    },
+    {
+      "facet": "type",
+      "term": "Spaced geometric capitals.",
+      "text": "Headings and labels use capitals with wide letter spacing. Letters are geometric, condensed, or high in contrast."
+    },
+    {
+      "facet": "color",
+      "term": "Metal on dark ground.",
+      "text": "Gold, brass, silver, and chrome against black lacquer, ebony, or deep jewel tones, with ivory for relief. Early Deco also used the bright colors of the Fauves and the Ballets Russes."
+    },
+    {
+      "facet": "surface",
+      "term": "Luxury and new materials.",
+      "text": "Ebony, ivory, lacquer, mother of pearl, and gold leaf, alongside chrome, stainless steel, and bakelite. Surfaces are polished and edges are crisp."
+    },
+    {
+      "facet": "layout",
+      "term": "Framed and centered.",
+      "text": "Content sits in frames of thin parallel rules and stepped corners. Text blocks center on the axis."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "A sunburst, fan, chevron, or zigzag repeats as ornament.",
+      "Outlines or borders step back in tiers.",
+      "The composition is symmetrical about a central axis.",
+      "Headings are capitals with wide letter spacing.",
+      "Gold, brass, or chrome appears against black or a deep jewel tone."
+    ],
+    "counter": [
+      "Whiplash curves, organic tendrils, or flowing plant forms without geometry.",
+      "Asymmetric montage with no ornament.",
+      "Soft rounded cards, pastel gradients, or glossy highlights.",
+      "Deliberately raw or default styling."
+    ],
+    "confusions": [
+      {
+        "with": "Art Nouveau",
+        "difference": "Art Nouveau uses flowing, asymmetric plant curves and whiplash lines. Art Deco stylizes the same subjects into symmetrical geometry, rays, and steps."
+      },
+      {
+        "with": "bauhaus",
+        "difference": "Both are geometric, but Bauhaus is asymmetric, unornamented, and uses flat primary colors. Art Deco is symmetrical, ornamental, and metallic."
+      },
+      {
+        "with": "Streamline Moderne",
+        "difference": "Streamline Moderne replaces steps and rays with rounded corners and long horizontal speed lines. Treat it as a late branch, not the core style."
+      },
+      {
+        "with": "memphis",
+        "difference": "Memphis also repeats geometric patterns, but its colors clash and its shapes are playful and irregular. Art Deco patterns are regular and its palette is restrained and metallic."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a near-black or deep jewel-tone ground with one metallic gold accent and ivory text.",
+      "Center headings, ledes, and key blocks on one vertical axis.",
+      "Set headings and labels in capitals with letter spacing of 0.1em or more.",
+      "Frame sections with thin double or parallel rules in the accent color.",
+      "Add one sunburst, fan, or chevron field as a repeated ornament, for example behind the hero.",
+      "Give frames and buttons stepped or chamfered corners."
+    ],
+    "dont": [
+      "Do not use rounded corners, soft shadows, or glass effects.",
+      "Do not use more than one strong hue in addition to the metallic accent.",
+      "Do not use flowing plant curves. That points to Art Nouveau.",
+      "Do not lay out the page asymmetrically. Keep the central axis.",
+      "Do not use ornament at random. Each ornament repeats in a regular rhythm."
+    ],
+    "uses": [
+      "Hotels, bars, and restaurants",
+      "Theatres and cinemas",
+      "Jewelry, fashion, and perfume",
+      "Event invitations and galas"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "type.headingTracking",
+      "min": 0.06,
+      "note": "Headings are spaced capitals. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "min": 0.2,
+      "note": "Capitals carry headings, labels, and buttons. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.centerShare",
+      "min": 0.3,
+      "note": "Symmetry about a central axis centers much of the text. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.03,
+      "note": "A repeated sunburst or chevron field is present. Provisional: many real sites draw ornament as SVG or images, which this metric does not count."
+    },
+    {
+      "metric": "color.accentChroma",
+      "min": 0.3,
+      "max": 0.6,
+      "note": "A metallic gold or brass accent is present, at lower chroma than primary or neon colors. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Corners are square, stepped, or chamfered, not rounded. Provisional: set from the specimen."
+    }
+  ],
+  "page": "art-deco.html",
+  "implementation": {
+    "tokens": "implementations/art-deco/tokens.json",
+    "css": "implementations/art-deco/tokens.css",
+    "tailwind": "implementations/art-deco/tailwind.css",
+    "shadcn": "implementations/art-deco/shadcn.css",
+    "registry": "implementations/art-deco/registry-item.json",
+    "designMd": "implementations/art-deco/DESIGN.md",
+    "specimen": "implementations/art-deco/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for art-deco. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#101418",
+        "$description": "Black lacquer with a trace of blue."
+      },
+      "surface": {
+        "$value": "#161c22"
+      },
+      "subtle": {
+        "$value": "#1f2830"
+      },
+      "text": {
+        "$value": "#f1e8d4",
+        "$description": "Ivory."
+      },
+      "muted": {
+        "$value": "#b9ad94"
+      },
+      "border": {
+        "$value": "#c9a24a"
+      },
+      "primary": {
+        "$value": "#c9a24a",
+        "$description": "Gold leaf and brass."
+      },
+      "on-primary": {
+        "$value": "#101418"
+      },
+      "secondary": {
+        "$value": "#1d5c50",
+        "$description": "Deep jade, the one jewel tone."
+      },
+      "on-secondary": {
+        "$value": "#f1e8d4"
+      },
+      "accent": {
+        "$value": "#e0c67a",
+        "$description": "Light gold for highlights on the rays."
+      },
+      "on-accent": {
+        "$value": "#101418"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Futura",
+          "Avenir Next Condensed",
+          "Gill Sans",
+          "Century Gothic",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Gill Sans",
+          "Avenir Next",
+          "Futura",
+          "Trebuchet MS",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Futura",
+          "Gill Sans",
+          "Century Gothic",
+          "sans-serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 500
+      },
+      "display": {
+        "$value": 500
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "20px"
+      },
+      "xl": {
+        "$value": "26px"
+      },
+      "2xl": {
+        "$value": "34px"
+      },
+      "3xl": {
+        "$value": "46px"
+      },
+      "4xl": {
+        "$value": "64px"
+      },
+      "5xl": {
+        "$value": "88px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.05
+      },
+      "body": {
+        "$value": 1.6
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0.12,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.16,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.24,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "3px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "72px"
+      },
+      "2xl": {
+        "$value": "112px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "barbier-rosalinde-gazette-du-bon-ton-1922",
+      "title": "“Rosalinde”, plate from the Gazette du Bon Ton",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The Gazette du Bon Ton plates set the look of early Art Deco fashion: stylized slender figures, lacquer and gilt, and centered spaced capitals.",
+      "page": "references/barbier-rosalinde-gazette-du-bon-ton-1922.html",
+      "source": "https://www.rijksmuseum.nl/en/collection/RP-P-2009-1964-4",
+      "image": "assets/references/barbier-rosalinde-gazette-du-bon-ton-1922.jpg",
+      "measurement": "data/measurements/barbier-rosalinde-gazette-du-bon-ton-1922.json"
+    },
+    {
+      "id": "lalique-victoire-car-mascot-1928",
+      "title": "“Victoire” car mascot by René Lalique",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical Art Deco luxury object: a machine-age speed motif rendered as stylized, repeated parallel ribs in pressed glass.",
+      "page": "references/lalique-victoire-car-mascot-1928.html",
+      "source": "https://collections.vam.ac.uk/item/O6383/victoire-radiator-mascot-lalique-rene-jules/",
+      "image": "assets/references/lalique-victoire-car-mascot-1928.jpg",
+      "measurement": "data/measurements/lalique-victoire-car-mascot-1928.json"
+    },
+    {
+      "id": "broders-agay-plm-poster-1928",
+      "title": "Agay, PLM railway poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A French railway travel poster of the late 1920s: flat stylized color, fashionable figures, and a heavy geometric capital title.",
+      "page": "references/broders-agay-plm-poster-1928.html",
+      "source": "https://www.bonhams.com/auction/26798/lot/246/",
+      "image": "assets/references/broders-agay-plm-poster-1928.jpg",
+      "measurement": "data/measurements/broders-agay-plm-poster-1928.json"
+    },
+    {
+      "id": "hotel-du-collectionneur-boudoir-1925",
+      "title": "Boudoir of the Hôtel du Collectionneur, Paris 1925",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A room from the pavilion that the 1925 Exposition made the showpiece of French luxury Art Deco, recorded in color in the year of the exhibition.",
+      "page": "references/hotel-du-collectionneur-boudoir-1925.html",
+      "source": "https://commons.wikimedia.org/wiki/File:L%27Exposition_des_arts_d%C3%A9coratifs,_Pavillon_Ruhlmann_ou_H%C3%B4tel_d%27un_Riche_Collectionneur,_boudoir_-_A46733S.jpg",
+      "image": "assets/references/hotel-du-collectionneur-boudoir-1925.jpg",
+      "measurement": "data/measurements/hotel-du-collectionneur-boudoir-1925.json"
+    },
+    {
+      "id": "chrysler-building-1930",
+      "title": "Chrysler Building, New York",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The canonical Art Deco skyscraper: tiered setbacks rise to a crown of radiating, stepped arches in polished metal.",
+      "page": "references/chrysler-building-1930.html",
+      "source": "https://www.loc.gov/item/2018751223/",
+      "image": "assets/references/chrysler-building-1930.jpg",
+      "measurement": "data/measurements/chrysler-building-1930.json"
+    },
+    {
+      "id": "brandt-cobra-lamp-1925",
+      "title": "Cobra lamp by Edgar Brandt",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The Art Institute classifies it as Art Deco. It shows the luxury metalwork of the 1925 generation and the taste for exotic, stylized animals.",
+      "page": "references/brandt-cobra-lamp-1925.html",
+      "source": "https://www.artic.edu/artworks/109535/cobra-lamp",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "ruhlmann-corner-cabinet-1923",
+      "title": "Corner cabinet by Émile-Jacques Ruhlmann",
+      "medium": "furniture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A key work of the ensemblier who defined French Art Deco luxury furniture: rare dark wood, ivory, and a symmetrical, stylized floral ornament.",
+      "page": "references/ruhlmann-corner-cabinet-1923.html",
+      "source": "https://www.brooklynmuseum.org/opencollection/objects/97886",
+      "image": "assets/references/ruhlmann-corner-cabinet-1923.jpg",
+      "measurement": "data/measurements/ruhlmann-corner-cabinet-1923.json"
+    },
+    {
+      "id": "rose-iron-works-muse-with-violin-screen-1930",
+      "title": "Muse with Violin screen, Rose Iron Works",
+      "medium": "furniture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The museum itself calls it classic Art Deco; it hits every diagnostic of the rubric: symmetry, steps, repeated stylized ornament, and metal on a deep jewel tone.",
+      "page": "references/rose-iron-works-muse-with-violin-screen-1930.html",
+      "source": "https://clevelandart.org/art/2020.216",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "cassandre-normandie-poster-1935",
+      "title": "Normandie poster by Cassandre",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The best-known poster of the late, streamlined phase of Art Deco, for a liner built as a showcase of French Deco design.",
+      "page": "references/cassandre-normandie-poster-1935.html",
+      "source": "https://collections.vam.ac.uk/item/O1405126/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "dunand-inlaid-vase-1925",
+      "title": "Vase by Jean Dunand",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Dunand was a leading Art Deco metalworker and lacquerer; this vase is classified Art Deco by the museum and uses the style’s zigzag and stepped ornament.",
+      "page": "references/dunand-inlaid-vase-1925.html",
+      "source": "https://www.artic.edu/artworks/18896/vase",
+      "image": null,
+      "measurement": null
+    }
+  ]
+}
