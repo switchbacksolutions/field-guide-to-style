@@ -1,0 +1,29 @@
+{
+  "id": "replace-with-file-name",
+  "title": "[Style name]",
+  "order": 99,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": ["[Other name]"],
+  "summary": "[Short line for the style card.]",
+  "lede": "[Definition in one or two sentences.]",
+  "moods": ["[mood]"],
+  "era": { "from": 1950, "to": 1975 },
+  "regions": ["[Region]"],
+  "identifiers": { "wikidata": "Q0" },
+  "attestation": [{ "label": "[Source that uses this name]", "url": "https://example.com/", "checked": "2026-01-31" }],
+  "lineage": [{ "relation": "influenced-by", "label": "[Earlier style]", "note": "[Evidence for the link.]" }],
+  "grammar": [{ "facet": "layout", "term": "[Short trait name.]", "text": "[What the trait looks like.]" }],
+  "synthesis": ["[What connects the references.]"],
+  "rubric": {
+    "diagnostic": ["[A trait that identifies the style.]"],
+    "counter": ["[A trait that rules the style out.]"],
+    "confusions": [{ "with": "[Other style]", "difference": "[How to tell them apart.]" }]
+  },
+  "rules": {
+    "do": ["[An instruction for an agent.]"],
+    "dont": ["Do not [common mistake]."],
+    "uses": ["[Product type]"]
+  },
+  "fingerprint": [{ "metric": "surface.radius.median", "max": 4, "note": "[Why this range.]" }]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "replace-with-file-name",
+  "title": "[Reference title]",
+  "type": "website",
+  "medium": "website",
+  "lede": "[One sentence under the page title.]",
+  "summary": "[One sentence for index rows.]",
+  "source": { "url": "https://example.com/", "label": "[Source name]", "archive": "https://web.archive.org/web/2026/https://example.com/" },
+  "creator": { "name": "[Creator, or remove this field]", "url": "https://example.com/" },
+  "made": "[Year or period, as the source states it]",
+  "moods": ["[mood]"],
+  "evidence": { "level": "observed", "note": "[What was inspected, and how.]" },
+  "reviewed": "2026-01-31",
+  "added": "2026-01-31",
+  "styles": [
+    { "id": "minimalist-machine", "note": "[Why it belongs to this style.]", "basis": "curator" }
+  ],
+  "context": ["[Documented facts, with a source link.]"],
+  "observed": ["[A specific visual trait supported by evidence.]"],
+  "interpretation": ["[Your reading of how it connects to the style.]"],
+  "borrow": ["[A concrete design idea worth reusing.]"],
+  "images": [
+    {
+      "file": "assets/references/replace-with-file-name.png",
+      "alt": "[What the image shows, for someone who cannot see it.]",
+      "width": 1280,
+      "height": 800,
+      "kind": "screenshot",
+      "caption": "[What the image is, with a link to its source.]",
+      "saved": "2026-01-31"
+    }
+  ],
+  "rights": { "tier": "C", "license": "unverified", "statement": "[Rights statement from the source, or remove this field.]" }
+}

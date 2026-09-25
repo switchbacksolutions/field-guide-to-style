@@ -1,0 +1,110 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "reference.schema.json",
+  "title": "Reference",
+  "description": "One source record: a website, product, image, printed work, or physical object. Rich-text fields accept [text](url), [text](ref:id), [text](style:id), [text](page:name), **bold**, *emphasis*, and `code`.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "title", "type", "medium", "lede", "summary", "source", "evidence", "reviewed", "added", "styles", "rights"],
+  "properties": {
+    "id": { "$ref": "#/$defs/slug" },
+    "title": { "type": "string", "minLength": 1 },
+    "titleBreak": { "type": "string", "description": "Optional title with a single line break marked by |, for the page heading." },
+    "type": { "enum": ["website", "product", "image", "print", "object"], "description": "The kind of record." },
+    "medium": { "enum": ["website", "app", "software", "operating-system", "poster", "editorial", "book", "type-specimen", "typeface", "packaging", "product", "furniture", "architecture", "signage", "textile", "illustration", "photograph", "painting", "other"] },
+    "lede": { "type": "string", "description": "Rich text. One sentence on the reference page under the title." },
+    "summary": { "type": "string", "description": "Rich text. One sentence for index rows." },
+    "source": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["url", "label"],
+      "properties": {
+        "url": { "$ref": "#/$defs/url" },
+        "label": { "type": "string" },
+        "archive": { "$ref": "#/$defs/url", "description": "A Wayback Machine or other archive copy of the source." }
+      }
+    },
+    "creator": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["name"],
+      "properties": { "name": { "type": "string" }, "url": { "$ref": "#/$defs/url" } }
+    },
+    "made": { "type": "string", "description": "When the work was made or published, as stated by the source. Example: 1957, c. 1985, 2011-2013." },
+    "moods": { "type": "array", "items": { "type": "string" } },
+    "evidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["level", "note"],
+      "properties": {
+        "level": { "enum": ["observed", "documented", "pending"] },
+        "note": { "type": "string", "description": "Rich text. The basis for the level." }
+      }
+    },
+    "reviewed": { "$ref": "#/$defs/date", "description": "Date of the last review attempt." },
+    "added": { "$ref": "#/$defs/date" },
+    "styles": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["id", "note", "basis"],
+        "properties": {
+          "id": { "$ref": "#/$defs/slug" },
+          "note": { "type": "string", "description": "Rich text. Why this reference belongs to this style." },
+          "basis": { "enum": ["curator", "agent"], "description": "curator: a person placed it. agent: an agent proposed it and no person has reviewed it." },
+          "qualifier": { "type": "string", "description": "Short text shown after the style link, for example 'user-selected seed'." }
+        }
+      }
+    },
+    "notice": { "type": "string", "description": "Rich text. A warning shown near the top, for example why a source is pending." },
+    "context": { "$ref": "#/$defs/paragraphs", "description": "Documented facts about the source." },
+    "observed": { "$ref": "#/$defs/items", "description": "Visual traits supported by the evidence." },
+    "interpretation": { "$ref": "#/$defs/paragraphs", "description": "Curatorial reading: why it belongs." },
+    "borrow": { "$ref": "#/$defs/paragraphs", "description": "Ideas worth reusing." },
+    "next": { "$ref": "#/$defs/items", "description": "Open review tasks." },
+    "related": { "type": "string", "description": "Rich text shown at the end of the page." },
+    "images": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["file", "alt", "width", "height", "kind", "caption", "saved"],
+        "properties": {
+          "file": { "type": "string", "pattern": "^assets/references/[a-z0-9-]+\\.(png|jpg|jpeg|webp|gif)$" },
+          "alt": { "type": "string", "minLength": 10 },
+          "width": { "type": "integer" },
+          "height": { "type": "integer" },
+          "kind": { "enum": ["screenshot", "source-image", "photograph"] },
+          "display": { "enum": ["cover", "diagram"], "description": "diagram: small drawing shown whole with padding." },
+          "caption": { "type": "string", "description": "Rich text. What the image shows and where it comes from." },
+          "original": { "$ref": "#/$defs/url", "description": "Direct URL of the original image file." },
+          "saved": { "$ref": "#/$defs/date" }
+        }
+      }
+    },
+    "rights": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["tier", "license"],
+      "properties": {
+        "tier": { "enum": ["A", "C", "D"], "description": "A: open license, stored. C: own capture of a third-party work. D: link and metadata only." },
+        "license": { "type": "string", "description": "An SPDX-style identifier such as CC0-1.0, the phrase 'public domain', or 'unverified'." },
+        "statement": { "type": "string", "description": "Rich text. The rights statement from the source, or a note." }
+      }
+    },
+    "identifiers": {
+      "type": "object",
+      "description": "External IDs: wikidata, met, aic, cleveland, smithsonian, and others.",
+      "additionalProperties": { "type": "string" }
+    }
+  },
+  "$defs": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "url": { "type": "string", "pattern": "^https?://" },
+    "paragraphs": { "type": "array", "items": { "type": "string" } },
+    "items": { "type": "array", "items": { "type": "string" } }
+  }
+}

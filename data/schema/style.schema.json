@@ -1,0 +1,126 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "style.schema.json",
+  "title": "Style",
+  "description": "One named style: definition, lineage, visual grammar, classification rubric, agent rules, and measurable fingerprint. Rich-text fields use the same markup as references.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "title", "order", "status", "naming", "summary", "lede", "moods", "grammar", "rules"],
+  "properties": {
+    "id": { "$ref": "#/$defs/slug" },
+    "title": { "type": "string" },
+    "order": { "type": "integer", "description": "Position on the home page." },
+    "status": { "enum": ["seed", "pilot", "draft", "reviewed"] },
+    "naming": {
+      "enum": ["historical", "internet-aesthetic", "industry", "curatorial"],
+      "description": "historical: an established movement name. internet-aesthetic: a recent community name. industry: a name used by designers and vendors. curatorial: a name this catalogue made."
+    },
+    "aliases": { "type": "array", "items": { "type": "string" } },
+    "summary": { "type": "string", "description": "Rich text. Short line for style cards." },
+    "lede": { "type": "string", "description": "Rich text. Definition shown under the title." },
+    "moods": { "type": "array", "minItems": 1, "items": { "type": "string" } },
+    "era": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": { "from": { "type": "integer" }, "to": { "type": "integer" }, "note": { "type": "string" } }
+    },
+    "regions": { "type": "array", "items": { "type": "string" } },
+    "identifiers": {
+      "type": "object",
+      "description": "External IDs. wikidata: a Q number. aat: a Getty AAT ID. Record only IDs that you checked.",
+      "additionalProperties": { "type": "string" }
+    },
+    "attestation": {
+      "type": "array",
+      "description": "Sources that use this name for this style.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["label", "url"],
+        "properties": { "label": { "type": "string" }, "url": { "$ref": "#/$defs/url" }, "checked": { "$ref": "#/$defs/date" } }
+      }
+    },
+    "lineage": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["relation", "note"],
+        "properties": {
+          "relation": { "enum": ["influenced-by", "revival-of", "descendant-of", "reaction-against", "related-to"] },
+          "style": { "$ref": "#/$defs/slug", "description": "A style in this catalogue." },
+          "label": { "type": "string", "description": "Name of a style outside this catalogue." },
+          "wikidata": { "type": "string", "pattern": "^Q\\d+$" },
+          "note": { "type": "string", "description": "Rich text. The evidence or reasoning for the link." }
+        }
+      }
+    },
+    "grammar": {
+      "type": "array",
+      "minItems": 1,
+      "description": "Recurring visual traits.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["facet", "term", "text"],
+        "properties": {
+          "facet": { "enum": ["color", "type", "layout", "surface", "imagery", "motion", "structure"] },
+          "term": { "type": "string" },
+          "text": { "type": "string" }
+        }
+      }
+    },
+    "synthesis": { "type": "array", "items": { "type": "string" }, "description": "Rich text paragraphs. What connects the references." },
+    "rubric": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["diagnostic", "counter"],
+      "description": "The written test that a person or a model applies to classify a candidate.",
+      "properties": {
+        "diagnostic": { "type": "array", "items": { "type": "string" }, "description": "Traits that identify the style." },
+        "counter": { "type": "array", "items": { "type": "string" }, "description": "Traits that rule the style out." },
+        "confusions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": ["with", "difference"],
+            "properties": { "with": { "type": "string", "description": "A style id, or a plain name." }, "difference": { "type": "string" } }
+          }
+        }
+      }
+    },
+    "rules": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["do", "dont"],
+      "description": "Instructions for an agent that implements the style.",
+      "properties": {
+        "do": { "type": "array", "items": { "type": "string" } },
+        "dont": { "type": "array", "items": { "type": "string" } },
+        "uses": { "type": "array", "items": { "type": "string" }, "description": "Product types that suit the style." }
+      }
+    },
+    "fingerprint": {
+      "type": "array",
+      "description": "Expected ranges for metrics from tools/extract-traits.js. tools/lint-style.mjs checks a capture against them.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["metric", "note"],
+        "properties": {
+          "metric": { "type": "string", "pattern": "^[a-z]+(\\.[a-zA-Z]+)+$" },
+          "min": { "type": "number" },
+          "max": { "type": "number" },
+          "note": { "type": "string" }
+        }
+      }
+    },
+    "preview": { "type": "array", "items": { "$ref": "#/$defs/slug" }, "maxItems": 2, "description": "Reference ids whose first images show on the style card." }
+  },
+  "$defs": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$" },
+    "date": { "type": "string", "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "url": { "type": "string", "pattern": "^https?://" }
+  }
+}
