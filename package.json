@@ -1,0 +1,10 @@
+{
+  "name": "style-inspiration",
+  "private": true,
+  "type": "module",
+  "description": "Static style catalogue. Data in data/, generated HTML committed.",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "check": "node tools/build.mjs --check"
+  }
+}
