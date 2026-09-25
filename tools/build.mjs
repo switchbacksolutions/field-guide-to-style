@@ -94,8 +94,10 @@ for (const ref of references) {
   }
 }
 for (const id of [...tokens.keys()]) if (!styleById.has(id)) errors.push(`data/tokens/${id}.tokens.json: no style with this id`);
+// A measurement can arrive before its record (another agent may still be writing it), so this is only a warning.
+const warnings = [];
 for (const id of measurements.keys()) {
-  if (!refById.has(id) && !styleById.has(id)) errors.push(`data/measurements/${id}.json: no reference or style with this id`);
+  if (!refById.has(id) && !styleById.has(id)) warnings.push(`data/measurements/${id}.json: no reference or style with this id yet`);
 }
 
 // ---------- helpers ----------
@@ -537,6 +539,7 @@ if (!errors.length) {
   machineOutputs();
 }
 
+if (warnings.length) console.warn(`Warning:\n${warnings.map((w) => `  ${w}`).join("\n")}`);
 if (errors.length) {
   console.error(`Build failed with ${errors.length} error(s):\n${errors.map((e) => `  ${e}`).join("\n")}`);
   process.exit(1);

@@ -1,6 +1,8 @@
 // Checks a measurement (from extract-traits.js or image-traits.py) against a style's fingerprint ranges.
 // Usage: node tools/lint-style.mjs <style-id> <measurement.json> [--json]. Exits 1 when a measured metric is out of range.
 // --matrix checks every style's specimen measurement against every fingerprint: a useful fingerprint passes only its own specimen.
+// --table prints every fingerprint metric for every specimen, to choose markers that no other style has.
+// --captures checks every captured website against every fingerprint and lists passes outside the site's own styles.
 
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
@@ -15,6 +17,38 @@ const check = (style, measurement) => {
     return { metric, value: value ?? null, min: min ?? null, max: max ?? null, status, note };
   });
 };
+
+if (process.argv.includes("--table")) {
+  const styles = readdirSync(join(ROOT, "data/styles")).map((f) => JSON.parse(readFileSync(join(ROOT, "data/styles", f), "utf8"))).sort((a, b) => a.order - b.order);
+  const measured = styles.filter((s) => existsSync(join(ROOT, "data/measurements", `${s.id}.json`)));
+  const metrics = [...new Set(styles.flatMap((s) => (s.fingerprint ?? []).map((f) => f.metric)))].sort();
+  const read = (m, path) => path.split(".").reduce((node, key) => (node == null ? undefined : node[key]), m);
+  console.log(`${"metric".padEnd(30)}${measured.map((s) => s.id.slice(0, 9).padEnd(11)).join("")}`);
+  for (const metric of metrics) {
+    const row = measured.map((s) => String(read(JSON.parse(readFileSync(join(ROOT, "data/measurements", `${s.id}.json`), "utf8")), metric) ?? "-").padEnd(11));
+    console.log(`${metric.padEnd(30)}${row.join("")}`);
+  }
+  process.exit(0);
+}
+
+if (process.argv.includes("--captures")) {
+  const styles = readdirSync(join(ROOT, "data/styles")).map((f) => JSON.parse(readFileSync(join(ROOT, "data/styles", f), "utf8"))).filter((s) => s.fingerprint?.length);
+  let leaks = 0;
+  for (const file of readdirSync(join(ROOT, "data/references"))) {
+    const ref = JSON.parse(readFileSync(join(ROOT, "data/references", file), "utf8"));
+    const path = join(ROOT, "data/measurements", `${ref.id}.json`);
+    if (!existsSync(path)) continue;
+    const measurement = JSON.parse(readFileSync(path, "utf8"));
+    if (measurement.tool !== "tools/extract-traits.js") continue;
+    const own = new Set(ref.styles.map((m) => m.id));
+    const passes = styles.filter((s) => check(s, measurement).every((r) => r.status !== "fail")).map((s) => s.id);
+    const foreign = passes.filter((id) => !own.has(id));
+    leaks += foreign.length;
+    console.log(`${ref.id.padEnd(40)}own: ${[...own].map((id) => `${id}${passes.includes(id) ? " pass" : " fail"}`).join(", ")}${foreign.length ? `  | also passes: ${foreign.join(", ")}` : ""}`);
+  }
+  console.log(leaks ? `${leaks} pass(es) outside the capture's own styles. Check whether the fingerprints need a positive marker.` : "No capture passes a style it does not belong to.");
+  process.exit(0);
+}
 
 if (process.argv.includes("--matrix")) {
   const styles = readdirSync(join(ROOT, "data/styles")).map((f) => JSON.parse(readFileSync(join(ROOT, "data/styles", f), "utf8"))).filter((s) => s.fingerprint?.length).sort((a, b) => a.order - b.order);

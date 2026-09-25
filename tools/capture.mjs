@@ -1,5 +1,6 @@
 // Captures websites with headless Chrome: a viewport screenshot and an extract-traits.js measurement per URL.
-// Usage: node tools/capture.mjs [--no-image] [--force] [--wait=ms] <id>=<url> ... Uses a fresh temporary profile, no cookies,
+// Usage: node tools/capture.mjs [--no-image] [--force] [--specimen] [--viewport=WxH] [--wait=ms] <id>=<url> ...
+// --specimen saves the screenshot to assets/specimens/<id>.jpg instead of assets/references/. Uses a fresh temporary profile, no cookies,
 // and Chrome's own user agent. Set CHROME_PATH if Chrome is not in the default location.
 
 import { execFileSync, spawn } from "node:child_process";
@@ -17,8 +18,10 @@ const pixelTraits = (file) => {
     return null;
   }
 };
-const VIEWPORT = { width: 1440, height: 900 };
 const args = process.argv.slice(2);
+const [vw, vh] = (args.find((a) => a.startsWith("--viewport="))?.slice(11) ?? "1440x900").split("x").map(Number);
+const VIEWPORT = { width: vw, height: vh };
+const specimen = args.includes("--specimen");
 const saveImage = !args.includes("--no-image");
 const force = args.includes("--force");
 const settle = Number(args.find((a) => a.startsWith("--wait="))?.slice(7) ?? 2500);
@@ -27,7 +30,7 @@ const jobs = args.filter((a) => !a.startsWith("--")).map((a) => {
   return { id: a.slice(0, at), url: a.slice(at + 1) };
 });
 if (!jobs.length || jobs.some((j) => !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(j.id) || !/^https?:\/\//.test(j.url))) {
-  console.error("Usage: node tools/capture.mjs [--no-image] [--wait=ms] <id>=<https-url> ...");
+  console.error("Usage: node tools/capture.mjs [--no-image] [--force] [--specimen] [--viewport=WxH] [--wait=ms] <id>=<url> ...");
   process.exit(2);
 }
 
@@ -93,13 +96,20 @@ for (const job of jobs) {
     await send("Runtime.evaluate", { expression: "(document.scrollingElement ?? document.documentElement).scrollTop = 0" }, sessionId);
     await new Promise((r) => setTimeout(r, 300));
     const shot = Buffer.from((await send("Page.captureScreenshot", { format: "jpeg", quality: 80 }, sessionId)).data, "base64");
-    const imagePath = join(ROOT, "assets/references", `${job.id}.jpg`);
-    const keep = saveImage && (!existsSync(imagePath) || force);
-    if (saveImage && !keep) console.warn(`${job.id}: ${imagePath} exists; pass --force to replace it`);
+    const overflow = (await send("Runtime.evaluate", { expression: "document.documentElement.scrollWidth - innerWidth", returnByValue: true }, sessionId)).result.value;
+    if (overflow > 0) console.warn(`${job.id}: page is ${overflow}px wider than the ${VIEWPORT.width}px viewport (horizontal scroll)`);
+    const imagePath = join(ROOT, specimen ? "assets/specimens" : "assets/references", `${job.id}.jpg`);
+    const keep = saveImage && (!existsSync(imagePath) || force || specimen);
+    // An image and its measurement must come from the same capture, so neither is replaced alone.
+    if (saveImage && !keep) {
+      console.warn(`${job.id}: ${imagePath} exists; pass --force to replace the image and the measurement`);
+      continue;
+    }
     const shotPath = keep ? imagePath : join(profile, `${job.id}.jpg`);
     writeFileSync(shotPath, shot);
     measurement.pixels = pixelTraits(shotPath);
-    writeFileSync(join(ROOT, "data/measurements", `${job.id}.json`), `${JSON.stringify(measurement, null, 2)}\n`);
+    // Narrow-viewport runs are layout checks; only the standard viewport writes the measurement of record.
+    if (VIEWPORT.width === 1440 && VIEWPORT.height === 900) writeFileSync(join(ROOT, "data/measurements", `${job.id}.json`), `${JSON.stringify(measurement, null, 2)}\n`);
     console.log(`${job.id}: ${measurement.title || "(no title)"} | ${measurement.url}`);
   } catch (error) {
     failures++;
