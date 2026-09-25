@@ -124,11 +124,6 @@
       "note": "Most surfaces have outlines."
     },
     {
-      "metric": "surface.border.medianWidth",
-      "min": 2.5,
-      "note": "Outlines are thick."
-    },
-    {
       "metric": "surface.shadow.hardShare",
       "min": 0.8,
       "note": "Shadows have no blur."
@@ -144,14 +139,19 @@
       "note": "Fills are flat."
     },
     {
-      "metric": "color.chromaticShare",
-      "note": "Bright fills appear on cards and controls over a neutral ground. Provisional: set from the specimen, recalibrate with measured references.",
-      "min": 0.05
+      "metric": "surface.border.medianWidth",
+      "min": 2,
+      "note": "Outlines are thick. Calibrated: the clear real examples use 2 or 3 px."
     },
     {
       "metric": "surface.shadow.share",
       "min": 0.25,
-      "note": "Many blocks carry a hard shadow."
+      "note": "Many blocks carry a hard shadow. Calibrated: clear real examples measure 0.3 to 0.4."
+    },
+    {
+      "metric": "color.accentChroma",
+      "min": 0.4,
+      "note": "The bright fills are strong, even when they cover little area. Calibrated: real examples measure 0.46 to 0.78."
     }
   ],
   "attestation": [
@@ -174,7 +174,8 @@
   "synthesis": [
     "Two articles define the style: [Malewicz (2022)](ref:malewicz-neubrutalism-article-2022) and [NN/g (2025)](ref:nngroup-neobrutalism-article-2025). Both name [Gumroad’s 2021 redesign](ref:gumroad-website-redesign-2021) as a key example.",
     "Open-source component libraries turn the style into reusable parts: [neobrutalism components](ref:neobrutalism-components-library) for React, a [SwiftUI package](ref:neobrutalism-swiftui-package), a [Flutter package](ref:neubrutalism-ui-flutter-package), [RetroUI](ref:retroui-component-library), and Snowball’s [Fractal](ref:snowball-fractal-design-system) design system.",
-    "Measured evidence qualifies the fingerprint. The archived Gumroad home page from January 2022 has flat bright fields, black rules, and square corners, but no shadows at rest. Hard shadows may belong to hover states and component libraries more than to every neo-brutalist page."
+    "Captures of real sites calibrated the fingerprint. The component-library sites pass it: [neobrutalism.dev](ref:neobrutalism-dev-website), [neobrutalism.com](ref:retroui-website), [BoldKit](ref:boldkit-website), and the [Neubrutalism guide](ref:neubrutalism-com-website). Brand sites apply the style more loosely. The archived [Gumroad](ref:gumroad-website-redesign-2021) home page has outlines and flat brights but no shadows at rest, [Figma 2022](ref:figma-website-2022) shows neither outlines nor hard shadows, and [Snowball](ref:snowball-website) uses 1 px outlines. Hard shadows are most consistent in component libraries.",
+    "The live Gumroad, Zama, and cc creative sites, which earlier lists cited as examples, no longer use the style on 25 September 2026. Web references date quickly, so cite archived copies with a date."
   ],
   "preview": [
     "neobrutalism-components-library",

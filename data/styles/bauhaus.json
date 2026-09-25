@@ -160,26 +160,27 @@
       "note": "Boxes are square. Circles appear as shapes, not as rounded boxes."
     },
     {
-      "metric": "color.hues",
-      "min": 2,
-      "max": 4,
-      "note": "Two or more of the primaries appear."
-    },
-    {
       "metric": "color.patternShare",
       "max": 0.05,
       "note": "Flat fields, not repeating patterns. Patterns point to Memphis."
     },
     {
+      "metric": "pixels.hues",
+      "min": 2,
+      "max": 4,
+      "note": "Two or more primaries appear, measured on screenshot pixels so that colors in images count."
+    },
+    {
       "metric": "surface.radius.roundShare",
-      "max": 0.1,
-      "note": "Rectangles are square. Circles appear only as shapes."
+      "max": 0.2,
+      "note": "Rectangles are mostly square. Circles appear as shapes."
     }
   ],
   "synthesis": [
     "Print carries most of the style’s graphic identity: Joost Schmidt’s [1923 exhibition poster](ref:bauhaus-exhibition-poster-1923) and [Offset cover](ref:offset-bauhaus-issue-1926), Moholy-Nagy’s [Bauhausbücher](ref:bauhausbucher-8-malerei-fotografie-film), and Kandinsky’s [exhibition postcard](ref:kandinsky-bauhaus-exhibition-postcard-1923).",
     "Objects show the same geometry in material: Marianne Brandt’s [tea infuser](ref:brandt-tea-infuser-mt-49), the [Wagenfeld–Jucker lamp](ref:wagenfeld-jucker-table-lamp), and Breuer’s [club chair](ref:breuer-club-chair-b3). The [Dessau building](ref:bauhaus-building-dessau) and Stölzl’s [weaving design](ref:stolzl-five-choirs-design) extend it to architecture and textile.",
-    "Measured evidence qualifies the “primary triad” in the grammar. Image measurements of the stored prints find one or two strong hues in most of them. The 1923 poster is red and black on paper, and only the [Offset cover](ref:offset-bauhaus-issue-1926) shows three. The triad is typical of later revivals, so the fingerprint, which asks for two or more hues, describes web implementations more than the historical print."
+    "Measured evidence qualifies the “primary triad” in the grammar. Image measurements of the stored prints find one or two strong hues in most of them. The 1923 poster is red and black on paper, and only the [Offset cover](ref:offset-bauhaus-issue-1926) shows three. The triad is typical of later revivals, so the fingerprint, which asks for two or more hues, describes web implementations more than the historical print.",
+    "The [Bauhaus100 site](ref:bauhaus100-website-2019) shows a 2019 web revival. The sites of the Bauhaus-Archiv and the Stiftung Bauhaus Dessau were captured too and not kept: photography and soft gradients carry them, not the Bauhaus grammar."
   ],
   "preview": [
     "bauhaus-exhibition-poster-1923",
