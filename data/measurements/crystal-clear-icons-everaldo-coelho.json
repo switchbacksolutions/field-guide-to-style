@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/crystal-clear-icons-everaldo-coelho.png",
+  "captured": "2026-09-25T13:09:56+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.36
+      },
+      {
+        "hex": "#10166a",
+        "share": 0.051
+      },
+      {
+        "hex": "#106a13",
+        "share": 0.048
+      },
+      {
+        "hex": "#661f0e",
+        "share": 0.047
+      },
+      {
+        "hex": "#4c86ea",
+        "share": 0.04
+      },
+      {
+        "hex": "#fb8403",
+        "share": 0.039
+      },
+      {
+        "hex": "#f79f1b",
+        "share": 0.035
+      },
+      {
+        "hex": "#203ca6",
+        "share": 0.03
+      },
+      {
+        "hex": "#1b2c89",
+        "share": 0.03
+      },
+      {
+        "hex": "#34af23",
+        "share": 0.03
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.34,
+    "lightness": 0.61,
+    "chromaticShare": 0.61,
+    "accentChroma": 0.55,
+    "distinct": 16,
+    "hues": 6
+  }
+}

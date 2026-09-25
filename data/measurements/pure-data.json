@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/pure-data-patch.png",
+  "captured": "2026-09-25T13:09:58+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.932
+      },
+      {
+        "hex": "#000000",
+        "share": 0.038
+      },
+      {
+        "hex": "#848484",
+        "share": 0.003
+      },
+      {
+        "hex": "#1b1b1b",
+        "share": 0.003
+      },
+      {
+        "hex": "#9f9f9f",
+        "share": 0.003
+      },
+      {
+        "hex": "#383838",
+        "share": 0.003
+      },
+      {
+        "hex": "#6f6f6f",
+        "share": 0.002
+      },
+      {
+        "hex": "#f3f3f3",
+        "share": 0.002
+      },
+      {
+        "hex": "#c1c1c1",
+        "share": 0.002
+      },
+      {
+        "hex": "#b1b1b1",
+        "share": 0.002
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.0,
+    "lightness": 0.95,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0
+  }
+}

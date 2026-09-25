@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/akzidenz-grotesk-typeface.png",
+  "captured": "2026-09-25T13:09:55+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#eae8d0",
+        "share": 0.561
+      },
+      {
+        "hex": "#ff695b",
+        "share": 0.284
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.03
+      },
+      {
+        "hex": "#000000",
+        "share": 0.029
+      },
+      {
+        "hex": "#1a1717",
+        "share": 0.018
+      },
+      {
+        "hex": "#ff3523",
+        "share": 0.013
+      },
+      {
+        "hex": "#fd7e70",
+        "share": 0.005
+      },
+      {
+        "hex": "#34332f",
+        "share": 0.005
+      },
+      {
+        "hex": "#f7b0a0",
+        "share": 0.005
+      },
+      {
+        "hex": "#df5c50",
+        "share": 0.004
+      }
+    ],
+    "background": "#eae8d0",
+    "chroma": 0.27,
+    "lightness": 0.75,
+    "chromaticShare": 0.32,
+    "accentChroma": 0.64,
+    "distinct": 4,
+    "hues": 1
+  }
+}

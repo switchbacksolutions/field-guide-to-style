@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/neobrutalism-swiftui-package.png",
+  "captured": "2026-09-25T13:09:57+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.369
+      },
+      {
+        "hex": "#f2f2f7",
+        "share": 0.282
+      },
+      {
+        "hex": "#dfe5f2",
+        "share": 0.213
+      },
+      {
+        "hex": "#87aaed",
+        "share": 0.07
+      },
+      {
+        "hex": "#090a0b",
+        "share": 0.015
+      },
+      {
+        "hex": "#31363e",
+        "share": 0.01
+      },
+      {
+        "hex": "#9b9ea5",
+        "share": 0.009
+      },
+      {
+        "hex": "#7382a0",
+        "share": 0.008
+      },
+      {
+        "hex": "#5a6273",
+        "share": 0.008
+      },
+      {
+        "hex": "#b8bbc3",
+        "share": 0.006
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.06,
+    "lightness": 0.91,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.42,
+    "distinct": 4,
+    "hues": 2
+  }
+}

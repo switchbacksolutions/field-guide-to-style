@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/segoe-ui-typeface.png",
+  "captured": "2026-09-25T13:09:58+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.541
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.427
+      },
+      {
+        "hex": "#131313",
+        "share": 0.009
+      },
+      {
+        "hex": "#ececec",
+        "share": 0.009
+      },
+      {
+        "hex": "#d7d7d7",
+        "share": 0.004
+      },
+      {
+        "hex": "#5e5e5e",
+        "share": 0.003
+      },
+      {
+        "hex": "#878787",
+        "share": 0.003
+      },
+      {
+        "hex": "#b1b1b1",
+        "share": 0.002
+      },
+      {
+        "hex": "#363636",
+        "share": 0.001
+      },
+      {
+        "hex": "#535353",
+        "share": 0.001
+      }
+    ],
+    "background": "#000000",
+    "chroma": 0.0,
+    "lightness": 0.44,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0
+  }
+}

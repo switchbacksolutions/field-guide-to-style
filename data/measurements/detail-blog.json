@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/detail-blog.png",
+  "captured": "2026-09-25T13:09:56+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.774
+      },
+      {
+        "hex": "#00ff00",
+        "share": 0.159
+      },
+      {
+        "hex": "#c5c5c5",
+        "share": 0.017
+      },
+      {
+        "hex": "#eeebeb",
+        "share": 0.008
+      },
+      {
+        "hex": "#b1b1b1",
+        "share": 0.006
+      },
+      {
+        "hex": "#9b9b9b",
+        "share": 0.006
+      },
+      {
+        "hex": "#848484",
+        "share": 0.005
+      },
+      {
+        "hex": "#0f110f",
+        "share": 0.005
+      },
+      {
+        "hex": "#686868",
+        "share": 0.005
+      },
+      {
+        "hex": "#484848",
+        "share": 0.004
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.16,
+    "lightness": 0.9,
+    "chromaticShare": 0.16,
+    "accentChroma": 0.99,
+    "distinct": 2,
+    "hues": 1
+  }
+}

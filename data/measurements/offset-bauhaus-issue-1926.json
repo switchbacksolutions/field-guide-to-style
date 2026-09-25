@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/offset-bauhaus-issue-1926.jpg",
+  "captured": "2026-09-25T13:09:58+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#efdcba",
+        "share": 0.209
+      },
+      {
+        "hex": "#202123",
+        "share": 0.201
+      },
+      {
+        "hex": "#666f71",
+        "share": 0.14
+      },
+      {
+        "hex": "#e9b008",
+        "share": 0.062
+      },
+      {
+        "hex": "#cf4124",
+        "share": 0.032
+      },
+      {
+        "hex": "#d3c0a4",
+        "share": 0.03
+      },
+      {
+        "hex": "#265381",
+        "share": 0.026
+      },
+      {
+        "hex": "#c4a894",
+        "share": 0.026
+      },
+      {
+        "hex": "#ac9887",
+        "share": 0.022
+      },
+      {
+        "hex": "#374f67",
+        "share": 0.02
+      }
+    ],
+    "background": "#efdcba",
+    "chroma": 0.22,
+    "lightness": 0.49,
+    "chromaticShare": 0.23,
+    "accentChroma": 0.6,
+    "distinct": 10,
+    "hues": 3
+  }
+}

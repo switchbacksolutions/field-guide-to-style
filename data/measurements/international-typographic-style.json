@@ -1,0 +1,82 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "3",
+  "url": "http://127.0.0.1:8766/implementations/international-typographic-style/index.html",
+  "title": "International Typographic Style specimen \u00b7 Style inspiration",
+  "captured": "2026-09-25T13:05:29.668Z",
+  "viewport": {
+    "width": 2560,
+    "height": 1262
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica Neue",
+        "share": 1
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 160,
+    "sizeRange": 10,
+    "scaleRatio": 1.8,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": -0.02,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.839
+      },
+      {
+        "hex": "#111111",
+        "share": 0.153
+      },
+      {
+        "hex": "#5c5c5c",
+        "share": 0.004
+      },
+      {
+        "hex": "#e30613",
+        "share": 0.004
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#111111",
+    "contrast": 18.9,
+    "chroma": 0,
+    "lightness": 0.85,
+    "chromaticShare": 0,
+    "accentChroma": 0.87,
+    "distinct": 2,
+    "hues": 1,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 41,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.88,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  }
+}

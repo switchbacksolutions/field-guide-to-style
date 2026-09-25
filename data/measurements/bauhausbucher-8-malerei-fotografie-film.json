@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/bauhausbucher-8-malerei-fotografie-film.jpg",
+  "captured": "2026-09-25T13:09:56+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#28231d",
+        "share": 0.346
+      },
+      {
+        "hex": "#524b43",
+        "share": 0.136
+      },
+      {
+        "hex": "#473f38",
+        "share": 0.121
+      },
+      {
+        "hex": "#342f29",
+        "share": 0.107
+      },
+      {
+        "hex": "#1d1712",
+        "share": 0.049
+      },
+      {
+        "hex": "#d0c4b0",
+        "share": 0.042
+      },
+      {
+        "hex": "#d94b48",
+        "share": 0.033
+      },
+      {
+        "hex": "#b49d83",
+        "share": 0.031
+      },
+      {
+        "hex": "#695f54",
+        "share": 0.03
+      },
+      {
+        "hex": "#796f63",
+        "share": 0.024
+      }
+    ],
+    "background": "#28231d",
+    "chroma": 0.09,
+    "lightness": 0.28,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.54,
+    "distinct": 12,
+    "hues": 1
+  }
+}

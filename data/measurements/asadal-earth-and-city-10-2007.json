@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/asadal-earth-and-city-10-2007.jpg",
+  "captured": "2026-09-25T13:09:55+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#3dbbfb",
+        "share": 0.11
+      },
+      {
+        "hex": "#01058f",
+        "share": 0.064
+      },
+      {
+        "hex": "#0b27a3",
+        "share": 0.063
+      },
+      {
+        "hex": "#f8fdfe",
+        "share": 0.057
+      },
+      {
+        "hex": "#e1f7fa",
+        "share": 0.053
+      },
+      {
+        "hex": "#80dffd",
+        "share": 0.043
+      },
+      {
+        "hex": "#caf5fc",
+        "share": 0.042
+      },
+      {
+        "hex": "#59cffd",
+        "share": 0.041
+      },
+      {
+        "hex": "#b0f0fe",
+        "share": 0.039
+      },
+      {
+        "hex": "#6cd7fc",
+        "share": 0.037
+      }
+    ],
+    "background": "#3dbbfb",
+    "chroma": 0.46,
+    "lightness": 0.61,
+    "chromaticShare": 0.7,
+    "accentChroma": 0.62,
+    "distinct": 22,
+    "hues": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/helvetica-typeface.png",
+  "captured": "2026-09-25T13:09:57+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ebebeb",
+        "share": 0.548
+      },
+      {
+        "hex": "#ff4c3d",
+        "share": 0.29
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.055
+      },
+      {
+        "hex": "#010000",
+        "share": 0.03
+      },
+      {
+        "hex": "#8d8d8d",
+        "share": 0.013
+      },
+      {
+        "hex": "#1c0c0b",
+        "share": 0.006
+      },
+      {
+        "hex": "#d8d8d8",
+        "share": 0.005
+      },
+      {
+        "hex": "#f7968d",
+        "share": 0.005
+      },
+      {
+        "hex": "#a9a9a9",
+        "share": 0.005
+      },
+      {
+        "hex": "#f3d3d0",
+        "share": 0.005
+      }
+    ],
+    "background": "#ebebeb",
+    "chroma": 0.24,
+    "lightness": 0.78,
+    "chromaticShare": 0.32,
+    "accentChroma": 0.74,
+    "distinct": 4,
+    "hues": 1
+  }
+}

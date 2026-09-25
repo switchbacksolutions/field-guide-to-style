@@ -1,0 +1,82 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "3",
+  "url": "http://127.0.0.1:8766/implementations/minimalist-machine/index.html",
+  "title": "Minimalist Machine specimen \u00b7 Style inspiration",
+  "captured": "2026-09-25T13:05:28.667Z",
+  "viewport": {
+    "width": 2560,
+    "height": 1262
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica Neue",
+        "share": 0.74
+      },
+      {
+        "family": "SFMono-Regular",
+        "share": 0.26
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 90,
+    "sizeRange": 5.63,
+    "scaleRatio": 1.28,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": -0.03,
+    "uppercaseShare": 0.18,
+    "monoShare": 0.26,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#f7f7f2",
+        "share": 0.838
+      },
+      {
+        "hex": "#60655b",
+        "share": 0.093
+      },
+      {
+        "hex": "#20231f",
+        "share": 0.069
+      }
+    ],
+    "background": "#f7f7f2",
+    "text": "#60655b",
+    "contrast": 5.6,
+    "chroma": 0.02,
+    "lightness": 0.85,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 3,
+    "hues": 0,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 44,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 1,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.02,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 3
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/frutiger-typeface-1976.png",
+  "captured": "2026-09-25T13:09:56+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#dfdfe1",
+        "share": 0.565
+      },
+      {
+        "hex": "#f0c753",
+        "share": 0.291
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.047
+      },
+      {
+        "hex": "#000000",
+        "share": 0.027
+      },
+      {
+        "hex": "#909295",
+        "share": 0.012
+      },
+      {
+        "hex": "#282829",
+        "share": 0.009
+      },
+      {
+        "hex": "#a1a2a4",
+        "share": 0.004
+      },
+      {
+        "hex": "#efdba3",
+        "share": 0.004
+      },
+      {
+        "hex": "#cdaa47",
+        "share": 0.004
+      },
+      {
+        "hex": "#c6c6c8",
+        "share": 0.004
+      }
+    ],
+    "background": "#dfdfe1",
+    "chroma": 0.19,
+    "lightness": 0.76,
+    "chromaticShare": 0.3,
+    "accentChroma": 0.61,
+    "distinct": 4,
+    "hues": 1
+  }
+}

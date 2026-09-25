@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/bauhaus-signet-1922.png",
+  "captured": "2026-09-25T13:09:56+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.9
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.071
+      },
+      {
+        "hex": "#959595",
+        "share": 0.005
+      },
+      {
+        "hex": "#acacac",
+        "share": 0.004
+      },
+      {
+        "hex": "#dddddd",
+        "share": 0.003
+      },
+      {
+        "hex": "#454545",
+        "share": 0.002
+      },
+      {
+        "hex": "#0e0e0e",
+        "share": 0.002
+      },
+      {
+        "hex": "#c6c6c6",
+        "share": 0.002
+      },
+      {
+        "hex": "#2c2c2c",
+        "share": 0.002
+      },
+      {
+        "hex": "#828282",
+        "share": 0.001
+      }
+    ],
+    "background": "#000000",
+    "chroma": 0.0,
+    "lightness": 0.09,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0
+  }
+}

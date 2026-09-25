@@ -1,0 +1,98 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "3",
+  "url": "http://127.0.0.1:8766/implementations/memphis/index.html",
+  "title": "Memphis specimen \u00b7 Style inspiration",
+  "captured": "2026-09-25T13:05:33.659Z",
+  "viewport": {
+    "width": 2560,
+    "height": 1262
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Avenir Next",
+        "share": 0.72
+      },
+      {
+        "family": "Futura",
+        "share": 0.26
+      },
+      {
+        "family": "monospace",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 120,
+    "sizeRange": 7.06,
+    "scaleRatio": 1.4,
+    "headingWeight": 800,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.06,
+    "monoShare": 0.02,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#fffdf6",
+        "share": 0.69
+      },
+      {
+        "hex": "#111111",
+        "share": 0.15
+      },
+      {
+        "hex": "#ff4f9a",
+        "share": 0.095
+      },
+      {
+        "hex": "#00b3a7",
+        "share": 0.034
+      },
+      {
+        "hex": "#ffd23f",
+        "share": 0.03
+      },
+      {
+        "hex": "#7c4dff",
+        "share": 0.001
+      }
+    ],
+    "background": "#fffdf6",
+    "text": "#111111",
+    "contrast": 18.6,
+    "chroma": 0.14,
+    "lightness": 0.78,
+    "chromaticShare": 0.16,
+    "accentChroma": 0.7,
+    "distinct": 5,
+    "hues": 3,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0.19
+  },
+  "surface": {
+    "boxes": 53,
+    "radius": {
+      "median": 0,
+      "max": 28.8,
+      "roundShare": 0.17
+    },
+    "border": {
+      "share": 0.79,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0.04,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 11.3
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/bauhaus-exhibition-poster-1923.jpg",
+  "captured": "2026-09-25T13:09:56+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#c6bfae",
+        "share": 0.314
+      },
+      {
+        "hex": "#b0a896",
+        "share": 0.283
+      },
+      {
+        "hex": "#1a1b1e",
+        "share": 0.148
+      },
+      {
+        "hex": "#fffffe",
+        "share": 0.07
+      },
+      {
+        "hex": "#983337",
+        "share": 0.047
+      },
+      {
+        "hex": "#a39a87",
+        "share": 0.033
+      },
+      {
+        "hex": "#bab4a3",
+        "share": 0.027
+      },
+      {
+        "hex": "#918e82",
+        "share": 0.021
+      },
+      {
+        "hex": "#984d55",
+        "share": 0.017
+      },
+      {
+        "hex": "#7d7a73",
+        "share": 0.011
+      }
+    ],
+    "background": "#c6bfae",
+    "chroma": 0.09,
+    "lightness": 0.59,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.4,
+    "distinct": 8,
+    "hues": 1
+  }
+}

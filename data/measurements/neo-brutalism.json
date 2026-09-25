@@ -1,0 +1,110 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "3",
+  "url": "http://127.0.0.1:8766/implementations/neo-brutalism/index.html",
+  "title": "Neo-brutalism specimen \u00b7 Style inspiration",
+  "captured": "2026-09-25T13:05:37.657Z",
+  "viewport": {
+    "width": 2560,
+    "height": 1262
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica Neue",
+        "share": 0.6
+      },
+      {
+        "family": "Arial Black",
+        "share": 0.2
+      },
+      {
+        "family": "ui-monospace",
+        "share": 0.18
+      },
+      {
+        "family": "monospace",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 96,
+    "sizeRange": 5.65,
+    "scaleRatio": 1.36,
+    "headingWeight": 900,
+    "bodyWeight": 500,
+    "headingTracking": 0,
+    "uppercaseShare": 0.03,
+    "monoShare": 0.2,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#fff4e0",
+        "share": 0.687
+      },
+      {
+        "hex": "#000000",
+        "share": 0.167
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.069
+      },
+      {
+        "hex": "#ff90e8",
+        "share": 0.033
+      },
+      {
+        "hex": "#b8a4ff",
+        "share": 0.018
+      },
+      {
+        "hex": "#7df9c4",
+        "share": 0.012
+      },
+      {
+        "hex": "#ffd23f",
+        "share": 0.012
+      },
+      {
+        "hex": "#88c9ff",
+        "share": 0.001
+      }
+    ],
+    "background": "#fff4e0",
+    "text": "#000000",
+    "contrast": 19.3,
+    "chroma": 0.12,
+    "lightness": 0.77,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.47,
+    "distinct": 4,
+    "hues": 4,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 40,
+    "radius": {
+      "median": 4,
+      "max": 6,
+      "roundShare": 0.53
+    },
+    "border": {
+      "share": 0.93,
+      "medianWidth": 3
+    },
+    "shadow": {
+      "share": 0.48,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 5.7
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  }
+}

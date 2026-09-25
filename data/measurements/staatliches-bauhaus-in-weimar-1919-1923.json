@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/staatliches-bauhaus-in-weimar-1919-1923.jpg",
+  "captured": "2026-09-25T13:09:59+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#d4b88d",
+        "share": 0.726
+      },
+      {
+        "hex": "#cc4b33",
+        "share": 0.093
+      },
+      {
+        "hex": "#dbc49c",
+        "share": 0.053
+      },
+      {
+        "hex": "#221f15",
+        "share": 0.025
+      },
+      {
+        "hex": "#3d301e",
+        "share": 0.017
+      },
+      {
+        "hex": "#cba97a",
+        "share": 0.012
+      },
+      {
+        "hex": "#574530",
+        "share": 0.012
+      },
+      {
+        "hex": "#bfac89",
+        "share": 0.012
+      },
+      {
+        "hex": "#ad9b7a",
+        "share": 0.011
+      },
+      {
+        "hex": "#978668",
+        "share": 0.01
+      }
+    ],
+    "background": "#d4b88d",
+    "chroma": 0.29,
+    "lightness": 0.64,
+    "chromaticShare": 0.12,
+    "accentChroma": 0.56,
+    "distinct": 4,
+    "hues": 2
+  }
+}

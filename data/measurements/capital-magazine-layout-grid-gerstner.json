@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/capital-magazine-layout-grid-gerstner.png",
+  "captured": "2026-09-25T13:09:56+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.346
+      },
+      {
+        "hex": "#cae7bf",
+        "share": 0.141
+      },
+      {
+        "hex": "#fff7cf",
+        "share": 0.103
+      },
+      {
+        "hex": "#c7cfbf",
+        "share": 0.055
+      },
+      {
+        "hex": "#e4e7cb",
+        "share": 0.051
+      },
+      {
+        "hex": "#e8d7f9",
+        "share": 0.044
+      },
+      {
+        "hex": "#84856a",
+        "share": 0.025
+      },
+      {
+        "hex": "#989780",
+        "share": 0.025
+      },
+      {
+        "hex": "#ced1ad",
+        "share": 0.024
+      },
+      {
+        "hex": "#c6beb5",
+        "share": 0.023
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.09,
+    "lightness": 0.87,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 12,
+    "hues": 0
+  }
+}

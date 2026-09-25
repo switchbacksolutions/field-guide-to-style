@@ -1,0 +1,86 @@
+{
+    "tool": "tools/extract-traits.js",
+    "version": "3",
+    "url": "https://web.archive.org/web/20220115112257if_/https://gumroad.com/",
+    "title": "Gumroad \u2013 Sell what you know and see what sticks",
+    "captured": "2026-09-25T13:10:00.000Z",
+    "viewport": {
+        "width": 2560,
+        "height": 1262
+    },
+    "type": {
+        "families": [
+            {
+                "family": "Mabry pro",
+                "share": 1
+            }
+        ],
+        "baseSize": 32,
+        "maxSize": 180,
+        "sizeRange": 5.63,
+        "scaleRatio": 1.25,
+        "headingWeight": 400,
+        "bodyWeight": 400,
+        "headingTracking": 0,
+        "uppercaseShare": 0,
+        "monoShare": 0,
+        "centerShare": 0.2
+    },
+    "color": {
+        "palette": [
+            {
+                "hex": "#ffffff",
+                "share": 0.447
+            },
+            {
+                "hex": "#000000",
+                "share": 0.217
+            },
+            {
+                "hex": "#ff90e8",
+                "share": 0.179
+            },
+            {
+                "hex": "#ffc900",
+                "share": 0.113
+            },
+            {
+                "hex": "#b23386",
+                "share": 0.044
+            }
+        ],
+        "background": "#ffffff",
+        "text": "#000000",
+        "contrast": 21,
+        "chroma": 0.21,
+        "lightness": 0.66,
+        "chromaticShare": 0.34,
+        "accentChroma": 0.63,
+        "distinct": 5,
+        "hues": 2,
+        "imageShare": 0.2,
+        "gradientShare": 0,
+        "patternShare": 0.02
+    },
+    "surface": {
+        "boxes": 66,
+        "radius": {
+            "median": 0,
+            "max": 162,
+            "roundShare": 0.21
+        },
+        "border": {
+            "share": 0.73,
+            "medianWidth": 2
+        },
+        "shadow": {
+            "share": 0,
+            "hardShare": null,
+            "medianBlur": null,
+            "medianOffset": null
+        },
+        "gradientShare": 0,
+        "patternShare": 0.18,
+        "blurShare": 0
+    }
+}

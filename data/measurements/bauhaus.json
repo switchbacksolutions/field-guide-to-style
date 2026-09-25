@@ -1,0 +1,102 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "3",
+  "url": "http://127.0.0.1:8766/implementations/bauhaus/index.html",
+  "title": "Bauhaus specimen \u00b7 Style inspiration",
+  "captured": "2026-09-25T13:05:31.668Z",
+  "viewport": {
+    "width": 2560,
+    "height": 1262
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Avenir Next",
+        "share": 0.64
+      },
+      {
+        "family": "Futura",
+        "share": 0.34
+      },
+      {
+        "family": "monospace",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 128,
+    "sizeRange": 7.53,
+    "scaleRatio": 1.36,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0.02,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#f4efe6",
+        "share": 0.762
+      },
+      {
+        "hex": "#111111",
+        "share": 0.133
+      },
+      {
+        "hex": "#d42a20",
+        "share": 0.045
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.026
+      },
+      {
+        "hex": "#1f4e9c",
+        "share": 0.023
+      },
+      {
+        "hex": "#f2c12e",
+        "share": 0.006
+      },
+      {
+        "hex": "#474440",
+        "share": 0.004
+      }
+    ],
+    "background": "#f4efe6",
+    "text": "#111111",
+    "contrast": 16.5,
+    "chroma": 0.09,
+    "lightness": 0.78,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.64,
+    "distinct": 5,
+    "hues": 3,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 43,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.74,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0.09,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 8
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  }
+}

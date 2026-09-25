@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/univers-typeface.png",
+  "captured": "2026-09-25T13:09:59+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e6e6e6",
+        "share": 0.565
+      },
+      {
+        "hex": "#ff5f56",
+        "share": 0.274
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.045
+      },
+      {
+        "hex": "#010101",
+        "share": 0.031
+      },
+      {
+        "hex": "#ff2a2a",
+        "share": 0.022
+      },
+      {
+        "hex": "#252526",
+        "share": 0.006
+      },
+      {
+        "hex": "#fc7670",
+        "share": 0.006
+      },
+      {
+        "hex": "#210f0e",
+        "share": 0.005
+      },
+      {
+        "hex": "#f4aca9",
+        "share": 0.005
+      },
+      {
+        "hex": "#dbd5d5",
+        "share": 0.004
+      }
+    ],
+    "background": "#e6e6e6",
+    "chroma": 0.22,
+    "lightness": 0.78,
+    "chromaticShare": 0.32,
+    "accentChroma": 0.66,
+    "distinct": 5,
+    "hues": 1
+  }
+}

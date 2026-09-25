@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/kandinsky-bauhaus-exhibition-postcard-1923.jpg",
+  "captured": "2026-09-25T13:09:57+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f8f2d8",
+        "share": 0.779
+      },
+      {
+        "hex": "#713f3e",
+        "share": 0.062
+      },
+      {
+        "hex": "#3f3630",
+        "share": 0.039
+      },
+      {
+        "hex": "#584f44",
+        "share": 0.016
+      },
+      {
+        "hex": "#fefcf1",
+        "share": 0.014
+      },
+      {
+        "hex": "#71655b",
+        "share": 0.013
+      },
+      {
+        "hex": "#da4440",
+        "share": 0.011
+      },
+      {
+        "hex": "#887c71",
+        "share": 0.011
+      },
+      {
+        "hex": "#9f9387",
+        "share": 0.011
+      },
+      {
+        "hex": "#e4dbca",
+        "share": 0.01
+      }
+    ],
+    "background": "#f8f2d8",
+    "chroma": 0.13,
+    "lightness": 0.81,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.6,
+    "distinct": 3,
+    "hues": 1
+  }
+}

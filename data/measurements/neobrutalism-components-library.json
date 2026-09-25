@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/neobrutalism-components-library.png",
+  "captured": "2026-09-25T13:09:57+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#dcebfe",
+        "share": 0.69
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.067
+      },
+      {
+        "hex": "#d3e1f2",
+        "share": 0.025
+      },
+      {
+        "hex": "#bac5d3",
+        "share": 0.024
+      },
+      {
+        "hex": "#5091f9",
+        "share": 0.022
+      },
+      {
+        "hex": "#a4aeba",
+        "share": 0.022
+      },
+      {
+        "hex": "#969ea9",
+        "share": 0.02
+      },
+      {
+        "hex": "#88909b",
+        "share": 0.018
+      },
+      {
+        "hex": "#7c838c",
+        "share": 0.017
+      },
+      {
+        "hex": "#42526a",
+        "share": 0.016
+      }
+    ],
+    "background": "#dcebfe",
+    "chroma": 0.12,
+    "lightness": 0.85,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.66,
+    "distinct": 6,
+    "hues": 1
+  }
+}
