@@ -1,0 +1,61 @@
+{
+  "id": "umeda-tawaraya-colour-tests-1981",
+  "title": "Tawaraya colour tests",
+  "type": "image",
+  "medium": "other",
+  "lede": "Masanori Umeda’s drawing for Tawaraya, the boxing-ring bed shown at the first Memphis exhibition.",
+  "summary": "Umeda’s 1981 colour test: a boxing-ring bed with striped base and pink ropes.",
+  "source": {
+    "url": "https://www.mplus.org.hk/en/collection/objects/colour-tests-tawaraya-ring-bed-ca28-6-2/",
+    "label": "M+, Hong Kong: Colour tests, Tawaraya (ring), bed (CA28/6/2)"
+  },
+  "creator": {
+    "name": "Umeda Masanori"
+  },
+  "made": "May 1981",
+  "moods": [
+    "playful",
+    "theatrical",
+    "ironic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the museum’s published image (705 × 1000 px) from [M+](https://www.mplus.org.hk/en/collection/objects/colour-tests-tawaraya-ring-bed-ca28-6-2/) to a private scratchpad and inspected it with the Read tool on 2026-09-25. No image is stored in the catalogue. The file holds seven items; only the first image was inspected. The finished bed itself was not seen."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "memphis",
+      "note": "A design drawing for one of the defining pieces of the first Memphis exhibition.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "M+ describes the file as drawings that test colour patterns for the design, some printed with the words “banchetto, dialogo, godimento, sapienza”. Ink on paper, May 1981, seven items. [M+ record](https://www.mplus.org.hk/en/collection/objects/colour-tests-tawaraya-ring-bed-ca28-6-2/).",
+    "An M+ magazine article by curator Ikko Yokoyama (2021) says Tawaraya was shown at the first Memphis exhibition in Milan on 18 September 1981. It describes a boxing ring with black-and-white striped edges, a tatami centre, multicoloured ropes, and lamps on four posts, 280 × 280 × 120 cm. [M+ Magazine](https://www.mplus.org.hk/en/magazine/tawaraya/).",
+    "The same article says Sottsass named it after a Kyoto ryokan, and that Fabio Cirifino photographed the Memphis designers sitting in it in 1981. [M+ Magazine](https://www.mplus.org.hk/en/magazine/tawaraya/)."
+  ],
+  "observed": [
+    "An isometric drawing shows a square ring on a base of heavy black-and-white vertical stripes.",
+    "Pink ropes run between four posts; each post ends in a small globe on a coiled stem.",
+    "Inside are pale tatami panels, cushions tinted in soft rainbow gradients, and a small red square tray.",
+    "Four large kanji and the Italian words banchetto, dialogo, godimento, and sapienza are placed at the corners.",
+    "Handwritten at the bottom: “Mobili ‘4 ½’ Maggio 81 Umeda”."
+  ],
+  "interpretation": [
+    "The drawing combines Memphis’s black-and-white stripes with a sport object and a Japanese room type. It shows the group’s method of combining references from unrelated contexts."
+  ],
+  "borrow": [
+    "Use a heavy black-and-white striped band as a base or frame, with light pastel color inside.",
+    "Draw in isometric to present an object as a small stage or a toy."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "M+ states “Copyright: © Masanori Umeda”. No image is stored."
+  },
+  "identifiers": {
+    "mplus": "CA28/6/2"
+  }
+}

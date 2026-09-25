@@ -1,0 +1,61 @@
+{
+  "id": "bedin-super-lamp-1981",
+  "title": "Super lamp",
+  "type": "object",
+  "medium": "product",
+  "lede": "Martine Bedin’s table lamp on wheels: a blue half-disc with six bulbs in colored collars.",
+  "summary": "Bedin’s wheeled half-circle lamp with bulbs in six colored sockets; first Memphis show, 1981.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1177310/",
+    "label": "V&A: Super Lamp (M.1-2011)"
+  },
+  "creator": {
+    "name": "Martine Bedin (designer); Fausto Celati (maker)"
+  },
+  "made": "ca. 1977 and 1981, as the V&A records them; the V&A example is the 1981 prototype",
+  "moods": [
+    "playful",
+    "toy-like",
+    "cheerful",
+    "postmodern"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the museum’s published image (843 px wide) from [the V&A IIIF server](https://collections.vam.ac.uk/item/O1177310/) to a private scratchpad and inspected it with the Read tool on 2026-09-25. No image is stored in the catalogue."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "memphis",
+      "note": "Shown at the first Memphis exhibition in 1981; the V&A calls it iconic.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A says the Super lamp was among Bedin’s contributions to the first Memphis year (1981). Its example is the initial prototype, shown at the first Memphis exhibition at the gallery Arc 74 in 1981. [V&A record](https://collections.vam.ac.uk/item/O1177310/).",
+    "The physical description: painted sheet steel, two stamped semicircular halves painted blue, six light sockets in steel collars of different colors along the curve, and four steel wheels with rubber tyres. [V&A record](https://collections.vam.ac.uk/item/O1177310/).",
+    "The V&A notes that Bedin worked mainly on lighting and graphic design for Memphis and introduced Nathalie Du Pasquier to the group. [V&A record](https://collections.vam.ac.uk/item/O1177310/)."
+  ],
+  "observed": [
+    "The body is a glossy navy half-circle standing on its flat edge.",
+    "Six bare bulbs stick out along the curve in collars of red, lime, yellow, light blue, green, and pink.",
+    "Four black rubber wheels make it look like a pull toy.",
+    "The background is plain white, so the colors read as separate dots around the arc."
+  ],
+  "interpretation": [
+    "The lamp combines a pull toy, a rainbow, and a sunrise. The ring of colored collars on one dark shape is a small version of the Memphis palette."
+  ],
+  "borrow": [
+    "Place a row of small, differently colored elements along one bold dark curve.",
+    "Add toy cues such as wheels or handles to domestic objects or interface elements."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The V&A image is credited ©Victoria and Albert Museum, London/Martine Bedin. No image is stored."
+  },
+  "identifiers": {
+    "vam": "O1177310"
+  }
+}

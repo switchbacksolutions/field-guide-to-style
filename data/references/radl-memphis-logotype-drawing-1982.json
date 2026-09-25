@@ -1,0 +1,61 @@
+{
+  "id": "radl-memphis-logotype-drawing-1982",
+  "title": "Memphis logotype drawing",
+  "type": "image",
+  "medium": "other",
+  "lede": "Christoph Radl’s artwork for the Memphis wordmark: squared white capitals over a patterned underline.",
+  "summary": "Radl’s 1982 drawing of the blocky MEMPHIS wordmark on black.",
+  "source": {
+    "url": "https://www.stedelijk.nl/en/collection/92798-christoph-radl-memphis",
+    "label": "Stedelijk Museum Amsterdam: Memphis (2010.1.0588)"
+  },
+  "creator": {
+    "name": "Christoph Radl (designer); Sottsass Associati and Memphis (clients)"
+  },
+  "made": "1982",
+  "moods": [
+    "bold",
+    "graphic",
+    "geometric"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the museum’s published image (640 × 466 px) from [the Stedelijk Museum](https://www.stedelijk.nl/en/collection/92798-christoph-radl-memphis) to a private scratchpad and inspected it with the Read tool on 2026-09-25. No image is stored in the catalogue. The museum’s file carries a “NO REPRO QUALITY” stamp."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "memphis",
+      "note": "The group’s own wordmark, drawn by its graphic designer.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Stedelijk classes this as a drawing by Christoph Radl, 1982, 34.7 × 47.5 cm, with Sottsass Associati and Memphis as clients. [Stedelijk record](https://www.stedelijk.nl/en/collection/92798-christoph-radl-memphis).",
+    "*Interni* says Radl began working with Ettore Sottsass in 1980, “designing the image of Memphis”, and later curated the 2022 Triennale exhibition “Memphis Again”. [Interni: Memphis Again](https://www.internimagazine.com/agenda/memphis-again/)."
+  ],
+  "observed": [
+    "White capitals “MEMPHIS” sit on a black rectangle mounted on a white board.",
+    "The letters are built from rectangles; the M has a notched, stepped middle, and some strokes end in angled cuts.",
+    "Under each letter group runs a short bar of fine black-and-white pattern, broken into segments.",
+    "Tape and registration marks around the board show that it is working artwork."
+  ],
+  "interpretation": [
+    "The wordmark is heavy and simple, which lets it sit on top of the group’s busy patterns. The patterned underline brings the laminate language into the type."
+  ],
+  "borrow": [
+    "Pair a heavy, squared display wordmark with a thin patterned rule under it.",
+    "Put the wordmark in white on a solid black band when it must work over pattern."
+  ],
+  "related": "The same letterforms appear on the [Memphis swatch card](ref:memphis-printed-cotton-swatch-1985) and the [1983 leaflet](ref:radl-memphis-milano-leaflet-1983).",
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The Stedelijk links to a general copyright page; no open license is stated. No image is stored."
+  },
+  "identifiers": {
+    "stedelijk": "2010.1.0588",
+    "wikidata-creator": "Q111358712"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "sowden-view-of-an-interior-1983",
+  "title": "View of an Interior",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "George Sowden’s black-and-white lithograph of a Memphis room in which every surface carries a pattern.",
+  "summary": "Sowden’s 1983 lithograph: a patterned interior with his Memphis furniture.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1194268/",
+    "label": "V&A: View of an Interior (E.293-2011)"
+  },
+  "creator": {
+    "name": "George Sowden"
+  },
+  "made": "1983",
+  "moods": [
+    "dense",
+    "graphic",
+    "obsessive",
+    "postmodern"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the museum’s published image (843 px wide) from [the V&A IIIF server](https://collections.vam.ac.uk/item/O1194268/) to a private scratchpad and inspected it with the Read tool on 2026-09-25. No image is stored in the catalogue."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "memphis",
+      "note": "A print by a Memphis founder that shows the group’s idea of total surface pattern.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes three 1983 lithographs by George Sowden, the only British member of Memphis. It says they are unusual as graphic designs from the group and show interiors “saturated with pattern on every surface”. [V&A record](https://collections.vam.ac.uk/item/O1194268/).",
+    "The prints show furniture Sowden designed for Memphis, such as the Savoy vitrine, Pierre table, d’Antibe cabinet, and Oberoi armchair. They also show patterns he developed for laminates and upholstery with Nathalie Du Pasquier. [V&A record](https://collections.vam.ac.uk/item/O1194268/)."
+  ],
+  "observed": [
+    "The print is pure black and white; there is no gray.",
+    "The walls carry a dense squiggle pattern, and the floor is irregular cobbles.",
+    "Furniture surfaces carry more patterns: crazed-paving blocks, confetti triangles, and black-and-white stripes.",
+    "Open double doors frame a detailed engraving of a Gothic or Renaissance facade.",
+    "Signed in pencil “George J. Sowden Milano 1983”, numbered 66/99."
+  ],
+  "interpretation": [
+    "With color removed, the print shows that Memphis patterns are drawn as marks on a field. Many different marks can sit side by side because they share one weight of black.",
+    "It shows the black-and-white foil that the [Memphis style](style:memphis) uses under its colors."
+  ],
+  "borrow": [
+    "Build a pattern library in black on white first, then add color.",
+    "Give each plane of a scene a different pattern, and keep line weight constant so they read as one family."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The V&A image is credited © Victoria and Albert Museum, London. No image is stored."
+  },
+  "identifiers": {
+    "vam": "O1194268"
+  }
+}

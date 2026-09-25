@@ -1,0 +1,61 @@
+{
+  "id": "de-lucchi-first-chair-1983",
+  "title": "First chair",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "Michele De Lucchi’s chair for Memphis: a metal hoop that carries a blue disc and two black balls.",
+  "summary": "De Lucchi’s 1983 chair: tubular hoop, round seat, blue disc back, ball armrests.",
+  "source": {
+    "url": "https://www.ngv.vic.gov.au/explore/collection/work/20878/",
+    "label": "National Gallery of Victoria: First, chair (D75-1985)"
+  },
+  "creator": {
+    "name": "Michele De Lucchi (designer); Memphis, Milan (manufacturer and retailer)"
+  },
+  "made": "1983",
+  "moods": [
+    "playful",
+    "graphic",
+    "light",
+    "postmodern"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the museum’s published image (694 × 859 px) from [the National Gallery of Victoria](https://www.ngv.vic.gov.au/explore/collection/work/20878/) to a private scratchpad and inspected it with the Read tool on 2026-09-25. No image is stored in the catalogue. The Met record was also read; it has no online image."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "memphis",
+      "note": "Made and sold by Memphis; the Met calls it characteristic of the collective’s designs.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The NGV lists De Lucchi as designer and Memphis, Milan, as manufacturer and retailer; lacquered metal and wood, 90.3 × 66.2 × 46.2 cm, purchased in 1985. [NGV record](https://www.ngv.vic.gov.au/explore/collection/work/20878/).",
+    "The Met describes a black wooden seat disc on four tubular legs, with a tilted tubular hoop that carries a turquoise disc backrest and two black ball armrests. It calls the chair characteristic of the Memphis collective that De Lucchi co-founded with Sottsass. [Met record](https://www.metmuseum.org/art/collection/search/753976), accession 2021.54.10."
+  ],
+  "observed": [
+    "A gray tubular ring rises from the front legs and tilts back behind the seat.",
+    "A flat blue disc is fixed at the top of the ring as the backrest.",
+    "Two glossy black spheres sit on the ring at the sides as armrests.",
+    "The round seat is black, on four thin straight gray legs."
+  ],
+  "interpretation": [
+    "The chair is drawn with lines and dots: a circle, a disc, and two balls. It shows that Memphis could be sparse. Here the play comes from geometry and a few colors, not from pattern."
+  ],
+  "borrow": [
+    "Compose with a thin circular line and a few solid dots placed on it.",
+    "Let one saturated disc of color act as the focal point against black and gray."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The NGV allows its image to be downloaded for publications and non-commercial use and states that it believes the work to be in the public domain. The design is by a living designer and dates from 1983, so the catalogue treats it as in copyright and stores no image."
+  },
+  "identifiers": {
+    "ngv": "20878",
+    "met": "753976"
+  }
+}

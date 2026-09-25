@@ -1,0 +1,60 @@
+{
+  "id": "memphis-printed-cotton-swatch-1985",
+  "title": "Memphis printed cotton swatch card",
+  "type": "object",
+  "medium": "textile",
+  "lede": "A sample card of Memphis printed cottons under a black header with the group’s blocky wordmark.",
+  "summary": "1985 Memphis swatch: tilted turquoise squares on red under a MEMPHIS header card.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O294419/",
+    "label": "V&A: Swatch (T.41-1989)"
+  },
+  "creator": {
+    "name": "Memphis (designer, as recorded by the V&A)"
+  },
+  "made": "1985",
+  "moods": [
+    "loud",
+    "graphic",
+    "commercial"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the museum’s published image (843 px wide) from [the V&A IIIF server](https://collections.vam.ac.uk/item/O294419/) to a private scratchpad and inspected it with the Read tool on 2026-09-25. No image is stored in the catalogue. The V&A record gives no pattern title or individual designer."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "memphis",
+      "note": "A Memphis trade sample that joins the group’s printed pattern with its graphic identity.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A records a swatch of printed cottons, Italy, 1985, with Memphis as designer. [V&A record](https://collections.vam.ac.uk/item/O294419/).",
+    "The record does not name the pattern or the designer of the header card."
+  ],
+  "observed": [
+    "A black header strip carries “MEMPHIS” in white, squared capitals with cut and notched strokes.",
+    "The front swatch shows turquoise squares, tilted at different angles, on a red ground.",
+    "Behind it, pinked edges of other fabrics show yellow, orange, and black.",
+    "The swatches are fixed to a plain white card with the accession number written below."
+  ],
+  "interpretation": [
+    "The letterforms on the header look like Christoph Radl’s 1982 Memphis logotype drawing ([record](ref:radl-memphis-logotype-drawing-1982)). This is a visual comparison; the V&A does not name the designer.",
+    "Tilted squares scattered on a strong ground is the simplest version of the Memphis “confetti” pattern."
+  ],
+  "borrow": [
+    "Scatter one simple shape at random angles over a contrasting solid ground.",
+    "Pair a busy pattern with a black band that carries the brand in heavy white lettering."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The V&A image is credited © Victoria and Albert Museum, London. No image is stored."
+  },
+  "identifiers": {
+    "vam": "O294419"
+  }
+}

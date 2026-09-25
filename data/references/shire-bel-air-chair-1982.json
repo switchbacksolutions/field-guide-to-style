@@ -1,0 +1,61 @@
+{
+  "id": "shire-bel-air-chair-1982",
+  "title": "Bel Air chair",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "Peter Shire’s armchair for Memphis: a fin-shaped back, a bolster arm, and a ball for a foot.",
+  "summary": "Peter Shire’s 1982 Memphis armchair of colored blocks, a cylinder, and a sphere.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1175028/",
+    "label": "V&A: Bel Air chair (W.19-2010)"
+  },
+  "creator": {
+    "name": "Peter Shire; produced by Memphis"
+  },
+  "made": "1982; the V&A also records 1984",
+  "moods": [
+    "playful",
+    "sunny",
+    "sculptural",
+    "postmodern"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the museum’s published image (843 px wide) from [the V&A IIIF server](https://collections.vam.ac.uk/item/O1175028/) to a private scratchpad and inspected it with the Read tool on 2026-09-25. No image is stored in the catalogue."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "memphis",
+      "note": "The V&A calls it a signature object of the Memphis collective.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A calls the Bel Air the most important contribution of the Californian designer Peter Shire to Memphis. It was on the cover of Barbara Radice’s widely distributed book on the group and, as a cartoon, on material for the exhibition “Memphis in Memphis” (Memphis Brooks Museum of Art, 1984/85). [V&A record](https://collections.vam.ac.uk/item/O1175028/).",
+    "The record says the asymmetrical back refers to shark fins and to John Lautner’s Stevens House in Malibu, and that the name comes from a Beverly Hills hotel, like other early Memphis titles. The V&A example has the original colors. [V&A record](https://collections.vam.ac.uk/item/O1175028/).",
+    "Materials: painted wood and colored cotton fabric. [V&A record](https://collections.vam.ac.uk/item/O1175028/)."
+  ],
+  "observed": [
+    "The back is a tall quarter-circle in deep crimson, rising higher on one side than the other.",
+    "A lime-green cylinder lies across one arm, and an orange sphere supports the opposite rear corner.",
+    "The seat cushion is pale mint, the side panel is beige, and the plinth is a pale blue-green block.",
+    "Each part is a different solid color with no pattern."
+  ],
+  "interpretation": [
+    "The chair is assembled from primitive solids, a quarter-disc, a cylinder, a sphere, and blocks, each in its own color. This is the toy geometry of Memphis in upholstered form."
+  ],
+  "borrow": [
+    "Build a shape from a few primitive solids and color each one differently.",
+    "Break symmetry with one oversized element, such as a quarter-circle or a sphere placed off-axis."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The V&A image is credited © Victoria and Albert Museum, London. No image is stored."
+  },
+  "identifiers": {
+    "vam": "O1175028"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "sottsass-carlton-room-divider-1981",
+  "title": "Carlton room divider",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "Ettore Sottsass’s laminate bookcase from the first Memphis collection: a totem of tilted shelves in a dozen flat colors.",
+  "summary": "Sottsass’s 1981 laminate bookcase: angled shelves, many colors, a speckled base.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/103026",
+    "label": "Art Institute of Chicago: Carlton Room Divider (1984.1035)"
+  },
+  "creator": {
+    "name": "Ettore Sottsass, Jr.; Memphis Furniture, S.R.L."
+  },
+  "made": "1981",
+  "moods": [
+    "playful",
+    "loud",
+    "totemic",
+    "postmodern"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the museum’s published image (843 px wide) from [the Art Institute of Chicago IIIF server](https://www.artic.edu/artworks/103026) to a private scratchpad and inspected it with the Read tool on 2026-09-25. No image is stored in the catalogue. The Met holds a second example; its record was read but shows no image."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "memphis",
+      "note": "A founding piece of the 1981 Memphis collection and the group’s best-known object.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Art Institute describes the Carlton as a bookshelf and cabinet from the 1981 Memphis launch, made of wood and colored plastic laminate, 194.3 × 189.8 × 40 cm. [AIC record](https://www.artic.edu/artworks/103026).",
+    "The same record says the tiered form recalls “the head and arms of an ancient idol or totem” and links it to Sottsass’s laminate Superboxes of the 1960s for Poltronova. [AIC record](https://www.artic.edu/artworks/103026).",
+    "The Met holds another example, accession 1997.460.1a–d, dated 1981, wood and plastic laminate. [Met record](https://www.metmuseum.org/art/collection/search/486989)."
+  ],
+  "observed": [
+    "Shelves slant outward at about 45 degrees on each side, so the silhouette is a symmetrical fan of diagonals rather than a grid.",
+    "Each shelf and support has its own flat color: green, pale yellow, pink, light blue, red, dark blue, orange, black, gray, and brown.",
+    "A small red two-drawer cabinet sits at the center, under a pink triangle and a yellow tray topped by an empty square frame.",
+    "Small black triangles fill the joints where diagonal shelves meet horizontal ones.",
+    "The plinth is covered in a white laminate with dense black squiggle marks."
+  ],
+  "interpretation": [
+    "The Carlton shows the Memphis method in one object: a useful bookcase is broken into parts, and each part gets a different color, so the object reads as a figure or a toy before it reads as storage.",
+    "The patterned base against the flat-colored shelves is the style’s pairing of printed surface and solid color."
+  ],
+  "borrow": [
+    "Give each structural part its own flat color and let diagonals carry the composition.",
+    "Put a busy black-and-white pattern on one base element as a foil for the solid colors above it."
+  ],
+  "related": "Also from the first collection: [Casablanca sideboard](ref:sottsass-casablanca-sideboard-1981).",
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "AIC marks the object as not public domain, © 2018 Artists Rights Society (ARS), New York / ADAGP, Paris. No image is stored."
+  },
+  "identifiers": {
+    "aic": "103026",
+    "met": "486989"
+  }
+}

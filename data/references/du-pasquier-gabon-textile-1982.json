@@ -1,0 +1,63 @@
+{
+  "id": "du-pasquier-gabon-textile-1982",
+  "title": "Gabon textile samples",
+  "type": "object",
+  "medium": "textile",
+  "lede": "Nathalie Du Pasquier’s screen-printed cotton Gabon: jagged shapes, checkered borders, and six colorways.",
+  "summary": "Du Pasquier’s 1982 printed cotton: zigzag blocks and checkered bands in six colorways.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/72939",
+    "label": "Art Institute of Chicago: Gabon (Panel) (1988.484.3b-g)"
+  },
+  "creator": {
+    "name": "Nathalie Du Pasquier (designer); produced by Rainbow, Milan"
+  },
+  "made": "1982",
+  "moods": [
+    "loud",
+    "energetic",
+    "dense",
+    "postmodern"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the museum’s published image (843 px wide) from [the Art Institute of Chicago IIIF server](https://www.artic.edu/artworks/72939) to a private scratchpad and inspected it with the Read tool on 2026-09-25. No image is stored in the catalogue. The Met’s record of the same design was read; it has no online image."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "memphis",
+      "note": "Du Pasquier was a Memphis member and a principal pattern designer for the group; this print shows the style’s surface language.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Art Institute lists six samples of Gabon, designed by Nathalie Du Pasquier and produced by Rainbow, Milan, 1982; cotton twill, screen printed. The museum also holds her Zaire, Uganda, Kenya, Congo, Cameroon, and Zambia prints from the same year. [AIC record](https://www.artic.edu/artworks/72939).",
+    "The Met holds a full length of “Gabon” textile, 1982, cotton, 139.7 × 403.9 cm. [Met record](https://www.metmuseum.org/art/collection/search/484547).",
+    "A 1983 Memphis leaflet by Christoph Radl labels “Gabon – 1982” among the group’s patterns. See [Memphis Milano leaflet](ref:radl-memphis-milano-leaflet-1983)."
+  ],
+  "observed": [
+    "Large jagged polygons in red, blue, green, purple, and white overlap one another.",
+    "Thick black outlines run around the shapes, broken by small checkered segments in white, blue, and pink.",
+    "Zigzag and stepped edges appear throughout; no curve is visible in the main swatch.",
+    "Five narrower strips show the same drawing in other colorways, including orange-red, teal-brown, and blue-black.",
+    "The samples hang from a black header card printed “RAINBOW”."
+  ],
+  "interpretation": [
+    "The print is dense and uses clashing colors, and its checkered outline recurs in Memphis graphics and laminates. The colorway strips show that the drawing, not a single palette, carries the identity."
+  ],
+  "borrow": [
+    "Outline flat shapes with a thick band that is itself patterned, such as a checkerboard.",
+    "Design one pattern and test it in several full-saturation colorways."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "AIC marks the object as not public domain. No image is stored."
+  },
+  "identifiers": {
+    "aic": "72939",
+    "met": "484547"
+  }
+}

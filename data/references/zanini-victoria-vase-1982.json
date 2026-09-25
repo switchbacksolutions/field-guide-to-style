@@ -1,0 +1,59 @@
+{
+  "id": "zanini-victoria-vase-1982",
+  "title": "Victoria vase",
+  "type": "object",
+  "medium": "product",
+  "lede": "Marco Zanini’s porcelain vase for Memphis: a ribbed lilac column with a blue-and-yellow fan on top.",
+  "summary": "Zanini’s 1982 Memphis vase: stacked lilac rings under a scalloped two-color fan.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/105454",
+    "label": "Art Institute of Chicago: Victoria Vase (1986.411a)"
+  },
+  "creator": {
+    "name": "Marco Zanini; made by Memphis S.R.L."
+  },
+  "made": "1982",
+  "moods": [
+    "playful",
+    "architectural",
+    "decorative"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the museum’s published image (843 px wide) from [the Art Institute of Chicago IIIF server](https://www.artic.edu/artworks/105454) to a private scratchpad and inspected it with the Read tool on 2026-09-25. No image is stored in the catalogue."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "memphis",
+      "note": "Made by Memphis S.R.L., and its stacked forms and clashing colors match the group’s object language.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Art Institute lists the vase as designed by Marco Zanini and made by Memphis S.R.L., Milan, 1982; porcelain with enamel decoration, 64.8 cm high. It was purchased from Memphis s.r.l. [AIC record](https://www.artic.edu/artworks/105454).",
+    "The record gives separate dimensions for a flat top piece, 43.5 × 35.9 × 1.4 cm. [AIC record](https://www.artic.edu/artworks/105454)."
+  ],
+  "observed": [
+    "The lower body is a lilac column of stacked discs and ridged, bead-like swellings on a round foot.",
+    "A flat quarter-circle sits upright on top, split on the diagonal into deep blue and yellow.",
+    "The yellow half has a scalloped outer edge; the blue half has a smooth curve.",
+    "All surfaces are glossy and flat in color, without pattern."
+  ],
+  "interpretation": [
+    "The vase stacks unrelated forms, a turned column and a flat cut-out, and gives them unrelated colors. This joining of parts that do not match is typical of Memphis objects."
+  ],
+  "borrow": [
+    "Top a solid, repetitive base with one flat, cut-out shape in contrasting colors.",
+    "Use a scalloped or wavy edge against a straight or smooth one."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "AIC marks the object as not public domain. No image is stored."
+  },
+  "identifiers": {
+    "aic": "105454"
+  }
+}

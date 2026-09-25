@@ -1,0 +1,61 @@
+{
+  "id": "sottsass-casablanca-sideboard-1981",
+  "title": "Casablanca sideboard",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "A sideboard from the first Memphis collection, covered entirely in sponge-patterned laminate.",
+  "summary": "Sottsass’s 1981 sideboard: a central column with angled arms in speckled red laminate.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O58652/",
+    "label": "V&A: Casablanca sideboard (W.14:1 to 6-1990)"
+  },
+  "creator": {
+    "name": "Ettore Sottsass (Junior); manufactured by Memphis"
+  },
+  "made": "1981",
+  "moods": [
+    "loud",
+    "anthropomorphic",
+    "irreverent",
+    "postmodern"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the museum’s published image (843 px wide) from [the V&A IIIF server](https://collections.vam.ac.uk/item/O58652/) to a private scratchpad and inspected it with the Read tool on 2026-09-25. No image is stored in the catalogue."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "memphis",
+      "note": "Part of the first Memphis collection; its patterned laminate is a direct example of the style’s surface grammar.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A says the sideboard was part of the first Memphis furniture collection, made of plastic laminate over fibreboard. Sottsass designed it for storage and display and as a room divider; the angled arms are meant to hold wine bottles. [V&A record](https://collections.vam.ac.uk/item/O58652/).",
+    "The V&A links the laminate to American diner interiors and 1950s kitchen furniture, and notes that the furniture was too expensive for the average customer despite its “low taste” sources. [V&A record](https://collections.vam.ac.uk/item/O58652/).",
+    "The physical description names a sponged pattern in red, black, white, and yellow. [V&A record](https://collections.vam.ac.uk/item/O58652/)."
+  ],
+  "observed": [
+    "A central column carries a tall gray-and-white mottled door panel, a yellow-and-black mottled drawer, and a solid black lower section.",
+    "Red shelves with black speckles branch from the column: angled arms at the top, long diagonal arms at the sides, and V-shaped cradles lower down.",
+    "Every visible surface except the black base carries a mottled, sponge-like print.",
+    "The outline is symmetrical and reads as a figure with raised arms."
+  ],
+  "interpretation": [
+    "Where the [Carlton](ref:sottsass-carlton-room-divider-1981) uses many flat colors, the Casablanca uses three patterned laminates. Both show that Memphis pattern is applied to whole surfaces, not used as trim."
+  ],
+  "borrow": [
+    "Cover whole panels in one coarse mottled texture and change the color from panel to panel.",
+    "Use a symmetrical, figure-like outline with diagonal arms to make a practical object look like a character."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The V&A image is credited © Victoria and Albert Museum, London. No image is stored."
+  },
+  "identifiers": {
+    "vam": "O58652"
+  }
+}
