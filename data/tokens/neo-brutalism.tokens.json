@@ -1,0 +1,269 @@
+{
+  "$description": "Authored tokens for neo-brutalism. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#fff4e0"
+    },
+    "surface": {
+      "$value": "#ffffff"
+    },
+    "subtle": {
+      "$value": "#ffe8a3"
+    },
+    "text": {
+      "$value": "#000000"
+    },
+    "muted": {
+      "$value": "#2b2b2b"
+    },
+    "border": {
+      "$value": "#000000"
+    },
+    "primary": {
+      "$value": "#ff90e8"
+    },
+    "on-primary": {
+      "$value": "#000000"
+    },
+    "secondary": {
+      "$value": "#7df9c4"
+    },
+    "on-secondary": {
+      "$value": "#000000"
+    },
+    "accent": {
+      "$value": "#ffd23f"
+    },
+    "on-accent": {
+      "$value": "#000000"
+    },
+    "lilac": {
+      "$value": "#b8a4ff"
+    },
+    "sky": {
+      "$value": "#88c9ff"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Arial Black",
+        "Helvetica Neue",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Helvetica Neue",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "ui-monospace",
+        "SFMono-Regular",
+        "Menlo",
+        "monospace"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 500
+    },
+    "bold": {
+      "$value": 800
+    },
+    "display": {
+      "$value": 900
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "20px"
+    },
+    "xl": {
+      "$value": "26px"
+    },
+    "2xl": {
+      "$value": "34px"
+    },
+    "3xl": {
+      "$value": "48px"
+    },
+    "4xl": {
+      "$value": "68px"
+    },
+    "5xl": {
+      "$value": "96px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.98
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.03,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": -0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.04,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "4px"
+    },
+    "md": {
+      "$value": "6px"
+    },
+    "lg": {
+      "$value": "8px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "2px"
+    },
+    "thick": {
+      "$value": "3px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "20px"
+    },
+    "lg": {
+      "$value": "32px"
+    },
+    "xl": {
+      "$value": "56px"
+    },
+    "2xl": {
+      "$value": "88px"
+    }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "sm": {
+      "$value": {
+        "color": "#000000",
+        "offsetX": "2px",
+        "offsetY": "2px",
+        "blur": "0px",
+        "spread": "0px"
+      }
+    },
+    "md": {
+      "$value": {
+        "color": "#000000",
+        "offsetX": "4px",
+        "offsetY": "4px",
+        "blur": "0px",
+        "spread": "0px"
+      },
+      "$description": "Hard offset, no blur. Remove on press and move the element by the offset."
+    },
+    "lg": {
+      "$value": {
+        "color": "#000000",
+        "offsetX": "8px",
+        "offsetY": "8px",
+        "blur": "0px",
+        "spread": "0px"
+      }
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}
