@@ -159,17 +159,14 @@
       "metric": "surface.shadow.hardShare",
       "max": 0.2,
       "note": "Shadows are blurred, not hard."
-    },
-    {
-      "metric": "color.chroma",
-      "min": 0.15,
-      "note": "Fresh blues and greens, not grays."
     }
   ],
   "synthesis": [
     "Operating systems set the look: [Windows Vista](ref:windows-vista-aero-interface) and [Windows 7](ref:windows-7-aero-interface) glass, with [Aqua](ref:mac-os-x-aqua-interface) and the [Bliss wallpaper](ref:bliss-windows-xp-wallpaper-1996) as precursors, and the open-source [KDE Plasma 4](ref:kde-plasma-4-desktop) desktop as a parallel.",
     "Stock imagery and icons spread it beyond software: the [Asadal globe image](ref:asadal-earth-and-city-10-2007) and the [Crystal Clear icons](ref:crystal-clear-icons-everaldo-coelho). The [Wii menu](ref:wii-menu-2006) and a [post office interior](ref:poste-italiane-agenzia-62-iosa-ghini-2007) show it in consoles and architecture.",
-    "The name’s link to the [Frutiger](ref:frutiger-typeface-1976) typeface is loose. The interfaces mostly used [Segoe UI](ref:segoe-ui-typeface) and similar faces."
+    "The period’s websites carried the style less than the software did. The [Windows 7](ref:windows-7-website-2009) and [Leopard](ref:apple-leopard-website-2007) sites show glossy objects, sky gradients, grass, and aurora, while the [Vista](ref:windows-vista-website-2007) and [Messenger](ref:windows-live-messenger-website-2009) pages keep only pale blue headers.",
+    "The name’s link to the [Frutiger](ref:frutiger-typeface-1976) typeface is loose. The interfaces mostly used [Segoe UI](ref:segoe-ui-typeface) and similar faces.",
+    "The fingerprint describes CSS implementations. The archived 2007–2009 product sites fail it: they drew gloss, gradients, and rounded corners with images, so computed styles show flat, square boxes, and their screenshot palettes are mostly pale blue and white. Judge historical pages with the rubric, not the fingerprint."
   ],
   "preview": [
     "asadal-earth-and-city-10-2007",
@@ -613,6 +610,18 @@
       "measurement": null
     },
     {
+      "id": "apple-leopard-website-2007",
+      "title": "Mac OS X Leopard website, 2007",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Part of the Aqua line that precedes the style: the aurora wallpaper, glossy blue pill buttons, and reflections under the hardware.",
+      "page": "references/apple-leopard-website-2007.html",
+      "source": "http://www.apple.com/macosx/",
+      "image": "assets/references/apple-leopard-website-2007.jpg",
+      "measurement": "data/measurements/apple-leopard-website-2007.json"
+    },
+    {
       "id": "poste-italiane-agenzia-62-iosa-ghini-2007",
       "title": "Poste Italiane Agenzia 62, Rome",
       "medium": "architecture",
@@ -661,6 +670,30 @@
       "measurement": null
     },
     {
+      "id": "windows-7-website-2009",
+      "title": "Windows 7 website, 2009",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Carries the style’s motifs: a pale sky gradient, a glossy hero with light streaks, a small green grass hill, and reflective product boxes. Judge by the rubric. The page drew its gloss with images, so the CSS fingerprint does not apply (see the style page).",
+      "page": "references/windows-7-website-2009.html",
+      "source": "http://www.microsoft.com/windows/windows-7/",
+      "image": "assets/references/windows-7-website-2009.jpg",
+      "measurement": "data/measurements/windows-7-website-2009.json"
+    },
+    {
+      "id": "windows-live-messenger-website-2009",
+      "title": "Windows Live Messenger website, 2009",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A weak example: only the pale blue header and the screenshots of Messenger windows carry the style. Judge by the rubric. The page drew its gloss with images, so the CSS fingerprint does not apply (see the style page).",
+      "page": "references/windows-live-messenger-website-2009.html",
+      "source": "http://download.live.com/messenger",
+      "image": "assets/references/windows-live-messenger-website-2009.jpg",
+      "measurement": "data/measurements/windows-live-messenger-website-2009.json"
+    },
+    {
       "id": "windows-vista-aero-interface",
       "title": "Windows Vista Aero interface",
       "medium": "operating-system",
@@ -671,6 +704,18 @@
       "source": "https://en.wikipedia.org/wiki/Windows_Aero",
       "image": null,
       "measurement": null
+    },
+    {
+      "id": "windows-vista-website-2007",
+      "title": "Windows Vista website, 2008",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The product site of the operating system that defined the style. The site itself applies it lightly: pale sky gradients and glossy icons, not glass panels. Judge by the rubric. The page drew its gloss with images, so the CSS fingerprint does not apply (see the style page).",
+      "page": "references/windows-vista-website-2007.html",
+      "source": "http://www.microsoft.com/windows/windows-vista/",
+      "image": "assets/references/windows-vista-website-2007.jpg",
+      "measurement": "data/measurements/windows-vista-website-2007.json"
     }
   ]
 }

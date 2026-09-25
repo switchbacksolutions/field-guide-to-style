@@ -443,6 +443,69 @@
       "page": "references/akzidenz-grotesk-typeface.html"
     },
     {
+      "id": "abet-bacterio-laminate-page",
+      "title": "Bacterio laminate, Abet Laminati product page",
+      "type": "product",
+      "medium": "product",
+      "lede": "The manufacturer’s current product page for Ettore Sottsass’s Bacterio laminate pattern.",
+      "summary": "The Bacterio pattern in black on white: irregular squiggles and blobs at an even density.",
+      "source": {
+        "url": "https://abetlaminati.com/en/collections/bacterio-ettore-sottsass/",
+        "label": "Abet Laminati: Bacterio | Ettore Sottsass"
+      },
+      "creator": {
+        "name": "Ettore Sottsass (pattern); Abet Laminati (manufacturer)"
+      },
+      "made": "Pattern 1978, per Abet’s and other sources; page current",
+      "moods": [
+        "playful",
+        "restless",
+        "graphic"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A cookie consent panel covers the lower half of the screenshot. The pattern is visible."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "memphis",
+          "note": "The page calls Bacterio “the iconic pattern of the Memphis movement”. It shows the laminate that covered Memphis furniture surfaces.",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "A large swatch shows the pattern: black squiggles, bars, and blobs of similar size spread evenly over white.",
+        "The heading reads “Bacterio | Ettore Sottsass” in heavy black sans-serif on a gray panel.",
+        "The text below says that Bacterio is the iconic pattern of the Memphis movement."
+      ],
+      "interpretation": [
+        "The pattern that the [Memphis specimen](style:memphis) imitates with tiled squiggles. It is a real product, still in production, so it is the most direct source for Memphis surface pattern in this catalogue.",
+        "The page itself is not in the Memphis style, and the pattern is an image, so the fingerprint does not apply to this capture."
+      ],
+      "next": [
+        "Record the pattern’s date from a primary source. The 1978 date comes from secondary sources and was not checked here."
+      ],
+      "images": [
+        {
+          "file": "assets/references/abet-bacterio-laminate-page.jpg",
+          "alt": "Abet Laminati product page: the heading Bacterio | Ettore Sottsass on a gray panel, a large swatch of black squiggles and blobs on white, and a cookie consent panel over the lower half.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [Abet Laminati’s Bacterio page](https://abetlaminati.com/en/collections/bacterio-ettore-sottsass/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to Abet Laminati and the Sottsass estate. Screenshot captured for commentary."
+      },
+      "page": "references/abet-bacterio-laminate-page.html"
+    },
+    {
       "id": "bauhaus-building-dessau",
       "title": "Bauhaus building, Dessau",
       "type": "object",
@@ -648,6 +711,69 @@
       "page": "references/wagenfeld-jucker-table-lamp.html"
     },
     {
+      "id": "bauhaus100-website-2019",
+      "title": "Bauhaus100 centenary website, 2019",
+      "type": "website",
+      "medium": "website",
+      "lede": "The official website of the Bauhaus centenary year, as archived in February 2019.",
+      "summary": "A revival identity: slate-blue field, a lowercase “100 jahre bauhaus” mark, yellow headline, red map.",
+      "source": {
+        "url": "https://www.bauhaus100.de/",
+        "label": "bauhaus100.de",
+        "archive": "https://web.archive.org/web/20190225074016/https://www.bauhaus100.de/"
+      },
+      "creator": {
+        "name": "Bauhaus Verbund 2019"
+      },
+      "made": "2019",
+      "moods": [
+        "bold",
+        "institutional",
+        "geometric"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The archived page may lack some images or scripts that the live page had. A cookie bar appears at the bottom."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "bauhaus",
+          "note": "A 2019 web revival. It passes the fingerprint, measured on screenshot pixels for hue count.",
+          "basis": "agent",
+          "qualifier": "revival"
+        }
+      ],
+      "observed": [
+        "A flat slate-blue field fills the page behind the content.",
+        "The logo is a blocky yellow 100 above lowercase “jahre bauhaus” in a geometric sans-serif.",
+        "The headline is set in heavy yellow sans-serif. A flat yellow button carries black text.",
+        "The slide image is a map of Germany with one state in flat red.",
+        "Navigation is white sans-serif. Slider arrows and dots are plain white."
+      ],
+      "interpretation": [
+        "The revival keeps the lowercase logotype, flat primary accents, and heavy sans-serif, but places them on a muted blue-gray instead of paper white. That muted ground is a 2010s choice, not a Bauhaus one."
+      ],
+      "images": [
+        {
+          "file": "assets/references/bauhaus100-website-2019.jpg",
+          "alt": "Archived Bauhaus100 home page: a slate-blue background, the yellow “100 jahre bauhaus” logo at top left, a map of Germany with one state in flat red, a large yellow headline “Von der Schuhleiste zum Adler Gropius”, and a yellow button.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of the [February 2019 archived copy](https://web.archive.org/web/20190225074016/https://www.bauhaus100.de/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to the Bauhaus Verbund 2019 and its partners. Screenshot captured for commentary."
+      },
+      "page": "references/bauhaus100-website-2019.html"
+    },
+    {
       "id": "bauhausbucher-8-malerei-fotografie-film",
       "title": "Bauhausbücher 8: Malerei, Fotografie, Film",
       "type": "print",
@@ -847,6 +973,63 @@
       "page": "references/bliss-windows-xp-wallpaper-1996.html"
     },
     {
+      "id": "boldkit-website",
+      "title": "BoldKit website",
+      "type": "website",
+      "medium": "website",
+      "lede": "The site of a neubrutalism component library for React and Vue, with a live component preview in the hero.",
+      "summary": "Condensed display type, outlined tags and buttons with hard shadows, and a pastel grid ground.",
+      "source": {
+        "url": "https://boldkit.dev/",
+        "label": "boldkit.dev"
+      },
+      "moods": [
+        "bold",
+        "technical",
+        "playful"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "neo-brutalism",
+          "note": "Passes the fingerprint: 2 px outlines on 91% of boxes, hard shadows, square corners, and five hues of strong accents.",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "The wordmark BOLD KIT is set very large in a condensed sans-serif, with KIT in outline letters.",
+        "Framework tags (React, Vue 3, Nuxt, MCP) are small outlined labels in flat colors with hard shadows.",
+        "A coral Get Started button and white Browse Components and GitHub buttons all have black outlines and hard shadows.",
+        "A preview panel with a black frame shows outlined buttons, shape tiles, and stat cards.",
+        "The page ground is off-white with a faint grid. Body text is monospaced."
+      ],
+      "interpretation": [
+        "Adds monospaced body text and condensed display type to the grammar. This is where neo-brutalism touches the technical, instrument-like side of [Minimalist Machine](style:minimalist-machine)."
+      ],
+      "images": [
+        {
+          "file": "assets/references/boldkit-website.jpg",
+          "alt": "BoldKit home page: the large wordmark BOLD KIT with KIT in outline letters, colored outlined framework tags, a coral Get Started button and white outlined buttons with hard shadows, and a framed preview panel of outlined components on the right.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [boldkit.dev](https://boldkit.dev/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+      },
+      "page": "references/boldkit-website.html"
+    },
+    {
       "id": "brutalist-websites-directory",
       "title": "Brutalist Websites",
       "type": "website",
@@ -867,8 +1050,8 @@
         "direct"
       ],
       "evidence": {
-        "level": "documented",
-        "note": "Home page text read on 2026-09-25. Earliest Wayback capture found: 13 August 2015. The 2014 start date and Deville’s authorship come from secondary sources."
+        "level": "observed",
+        "note": "Live home page captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) and inspected on 25 September 2026. The 2014 start date and Deville’s authorship come from secondary sources."
       },
       "reviewed": "2026-09-25",
       "added": "2026-09-25",
@@ -886,13 +1069,29 @@
         "[Michał Malewicz, “Neubrutalism is taking over the web” (Hype4 Academy, first published 28 March 2022)](https://hype4.academy/articles/design/neubrutalism-is-taking-over-web) describes neubrutalism as brutalism in web design mixed with modern typography, illustration, and animation. [NN/g, “Neobrutalism: Definition and Best Practices” (Hayat Sheikh, 11 April 2025)](https://www.nngroup.com/articles/neobrutalism/) contrasts brutalist sites with more colorful and orderly neobrutalist ones."
       ],
       "interpretation": [
-        "Keep it beside the neo-brutalist records to show the break: the name and the anti-polish attitude carried over, but the visual system did not."
+        "Keep it beside the neo-brutalist records to show the break: the name and the anti-polish attitude carried over, but the visual system did not. The measurement confirms this: zero outlines and zero shadows."
       ],
       "rights": {
-        "tier": "D",
+        "tier": "C",
         "license": "unverified",
-        "statement": "Link and metadata only."
+        "statement": "The directory and the listed sites belong to their owners. Screenshot captured for commentary."
       },
+      "observed": [
+        "A light gray page with a short monospaced introduction at top left and a Submit link.",
+        "Submitted sites appear as a loose grid of screenshots with monospaced captions.",
+        "No component has an outline, shadow, or rounded corner. The only strong colors come from the screenshots."
+      ],
+      "images": [
+        {
+          "file": "assets/references/brutalist-websites-directory.jpg",
+          "alt": "Brutalist Websites home page: a gray page with a short monospaced text block at top left and a loose grid of website screenshots with monospaced captions, including RAW Magazine, Disslist, and Nelson Heinemann.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [brutalistwebsites.com](https://brutalistwebsites.com/).",
+          "saved": "2026-09-25"
+        }
+      ],
       "page": "references/brutalist-websites-directory.html"
     },
     {
@@ -1301,7 +1500,7 @@
       "source": {
         "url": "https://www.figma.com/",
         "label": "Figma",
-        "archive": "https://web.archive.org/web/20220401000000*/figma.com"
+        "archive": "https://web.archive.org/web/20220228235551/https://www.figma.com/"
       },
       "creator": {
         "name": "Figma"
@@ -1312,8 +1511,8 @@
         "loud"
       ],
       "evidence": {
-        "level": "documented",
-        "note": "Based on Malewicz’s March 2022 article, which analyzes Figma screenshots, and on NN/g. No Figma page from that period was inspected."
+        "level": "observed",
+        "note": "Wayback Machine capture of figma.com from 28 February 2022, captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) and inspected on 25 September 2026."
       },
       "reviewed": "2026-09-25",
       "added": "2026-09-25",
@@ -1321,7 +1520,8 @@
         {
           "id": "neo-brutalism",
           "note": "Malewicz (2022) names Figma and Gumroad as the “two main innovators” of neubrutalism, and NN/g repeats Figma as an example.",
-          "basis": "agent"
+          "basis": "agent",
+          "qualifier": "influence"
         }
       ],
       "context": [
@@ -1329,16 +1529,32 @@
         "[NN/g, “Neobrutalism: Definition and Best Practices” (Hayat Sheikh, 11 April 2025)](https://www.nngroup.com/articles/neobrutalism/) names “Figma's brand refresh” as an example, linking to [Figma’s October 2019 brand post](https://www.figma.com/blog/bringing-new-life-to-figmas-brand/) by Tori Hinn. That post predates the name and does not use it."
       ],
       "interpretation": [
-        "Figma appears in early accounts as an origin point, but the evidence describes contrast and deliberate roughness more than the outline-and-hard-shadow component grammar. Treat it as an influence until a capture confirms the traits."
+        "The capture does not show the outline-and-hard-shadow grammar. It fails the fingerprint on outline width, radius, and shadows. Figma’s influence on the style, as Malewicz describes it, is in its playful stickers, bright accents, and hand-made marks, not in its layout components. The placement stays, but as an influence."
       ],
       "next": [
-        "Capture Wayback copies of figma.com pages from early 2022 (the Malewicz article is archived from 8 April 2022). Check for outlines, hard shadows, and flat brights before keeping this placement."
+        "Check other Figma pages from 2021–2022, such as the Config and community pages, for stronger examples."
       ],
       "rights": {
-        "tier": "D",
+        "tier": "C",
         "license": "unverified",
-        "statement": "Figma website and brand material. Link and metadata only."
+        "statement": "Figma’s design and content belong to Figma. Captured from the Internet Archive for commentary."
       },
+      "observed": [
+        "White page with a centered black headline, “Nothing great is designed alone.”, in a large sans-serif. The word “designed” is violet inside a thin selection box with a cursor label.",
+        "Buttons are black with white text and rounded corners. No component has a thick outline or a hard shadow.",
+        "Below the hero, a mock Figma editor shows the product interface with small colorful stickers and a hand-drawn yellow stroke."
+      ],
+      "images": [
+        {
+          "file": "assets/references/figma-website-2022.jpg",
+          "alt": "Archived Figma home page: a white page with the headline “Nothing great is designed alone.” where “designed” is violet in a selection box, a black Try Figma for free button, and a mock editor interface with colorful stickers below.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of the [February 2022 archived copy of figma.com](https://web.archive.org/web/20220228235551/https://www.figma.com/).",
+          "saved": "2026-09-25"
+        }
+      ],
       "page": "references/figma-website-2022.html"
     },
     {
@@ -1402,6 +1618,66 @@
         "met": "753976"
       },
       "page": "references/de-lucchi-first-chair-1983.html"
+    },
+    {
+      "id": "snowball-fractal-website",
+      "title": "Fractal design system documentation",
+      "type": "website",
+      "medium": "website",
+      "lede": "The Storybook documentation of Snowball’s Fractal design system.",
+      "summary": "Documentation site whose cover shows outlined, hard-shadowed swatch cards; the page chrome itself is plainer.",
+      "source": {
+        "url": "https://fractal.snowball.xyz/",
+        "label": "fractal.snowball.xyz"
+      },
+      "creator": {
+        "name": "Snowball",
+        "url": "https://www.snowball.xyz/"
+      },
+      "made": "2023–present",
+      "moods": [
+        "systematic",
+        "bright"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "neo-brutalism",
+          "note": "The system is neo-brutalist, but the documentation page mostly is not. It fails the fingerprint on outline share and width.",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "A black sidebar lists components. A flat pink top bar spans the content area.",
+        "The cover image shows swatch cards with black outlines and hard shadows in mint, violet, yellow, cyan, and pink.",
+        "The documentation text sits on an off-white page with a heavy sans-serif title and plain body text."
+      ],
+      "interpretation": [
+        "Measurement separates the system from its documentation shell: the style lives in the components and the cover art, not in the Storybook frame. This is a useful case for the rule that a reference must show the style, not only describe it."
+      ],
+      "related": "See the system record: [Fractal](ref:snowball-fractal-design-system).",
+      "images": [
+        {
+          "file": "assets/references/snowball-fractal-website.jpg",
+          "alt": "Fractal Storybook page: a black sidebar of component names, a pink top bar, the title Fractal, and a cover image of colored swatch cards with black outlines and hard shadows.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [fractal.snowball.xyz](https://fractal.snowball.xyz/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to Snowball. Screenshot captured for commentary."
+      },
+      "page": "references/snowball-fractal-website.html"
     },
     {
       "id": "snowball-fractal-design-system",
@@ -1763,7 +2039,7 @@
       ],
       "evidence": {
         "level": "observed",
-        "note": "Wayback Machine capture of gumroad.com from 15 January 2022 inspected and measured in Chrome on 25 September 2026, plus the founder’s announcement graphic. The live site was also inspected on that date and no longer shows the style."
+        "note": "Wayback Machine capture of gumroad.com from 15 January 2022, captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) and inspected on 25 September 2026, plus the founder’s announcement graphic. The live site was also inspected on that date and no longer shows the style."
       },
       "reviewed": "2026-09-25",
       "added": "2026-09-25",
@@ -1781,10 +2057,11 @@
         "Gumroad’s code was released on GitHub under the MIT License in 2025 ([antiwork/gumroad](https://github.com/antiwork/gumroad)). That licence does not clearly cover the brand artwork."
       ],
       "observed": [
-        "Archived home page (January 2022): a flat pink field and a flat yellow field split the hero, divided and framed by thin black rules.",
-        "A full-width black band carries a repeating slogan in large white type.",
-        "Type is a single grotesque family (Mabry Pro) at large sizes, black on white or on color.",
-        "Buttons are square black rectangles with white text. No component showed a shadow at rest in the measurement.",
+        "Archived home page (January 2022): the gumroad wordmark runs across the full width in huge black letters.",
+        "Navigation links sit in a row divided by thin black rules. Start Selling is a black block.",
+        "The hero splits into a flat pink panel and a flat yellow panel. The yellow panel holds a photo of a woman cut out with a thick black outline, plus outlined sticker illustrations.",
+        "Type is a single grotesque family (Mabry Pro), black on white or on color. The Start Selling button is a square black rectangle.",
+        "No component showed a shadow at rest in the measurement.",
         "In the announcement graphic: pink “G” discs with black outlines and solid black extrusions on a flat yellow blob."
       ],
       "interpretation": [
@@ -1806,9 +2083,9 @@
       "images": [
         {
           "file": "assets/references/gumroad-website-redesign-2021.jpg",
-          "alt": "Archived Gumroad home page: a split hero with a pink field holding the headline “Go from zero to $1” and a black Start Selling button, a flat yellow field on the right, and a black ticker band with the words “See what sticks” repeated.",
-          "width": 941,
-          "height": 464,
+          "alt": "Archived Gumroad home page: the gumroad wordmark in huge black letters across the top, a navigation row divided by thin black rules, a pink hero panel with the headline “Go from zero to $1” and a black Start Selling button, and a yellow panel with a photo of a woman outlined in black with sticker illustrations.",
+          "width": 1440,
+          "height": 900,
           "kind": "screenshot",
           "caption": "Viewport capture of the [January 2022 Wayback copy of gumroad.com](https://web.archive.org/web/20220115112257/https://gumroad.com/).",
           "saved": "2026-09-25"
@@ -2310,6 +2587,69 @@
       "page": "references/mac-os-x-aqua-interface.html"
     },
     {
+      "id": "apple-leopard-website-2007",
+      "title": "Mac OS X Leopard website, 2007",
+      "type": "website",
+      "medium": "website",
+      "lede": "Apple’s Mac OS X Leopard page as archived in November 2007.",
+      "summary": "Silver gradient navigation, an aurora wallpaper on laptop screens, and a reflective floor.",
+      "source": {
+        "url": "http://www.apple.com/macosx/",
+        "label": "apple.com/macosx",
+        "archive": "https://web.archive.org/web/20071101131506/http://www.apple.com/macosx/"
+      },
+      "creator": {
+        "name": "Apple"
+      },
+      "made": "2007",
+      "moods": [
+        "polished",
+        "glossy",
+        "cosmic"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "frutiger-aero",
+          "note": "Part of the Aqua line that precedes the style: the aurora wallpaper, glossy blue pill buttons, and reflections under the hardware.",
+          "basis": "agent",
+          "qualifier": "precursor"
+        }
+      ],
+      "observed": [
+        "A silver gradient navigation bar with a darker selected tab.",
+        "Three MacBooks show the purple-pink aurora wallpaper, standing on a white floor with soft reflections.",
+        "Small blue pill buttons with a gloss highlight (Watch the guided tour, Buy Now).",
+        "A glossy disc with a galaxy image and a presenter photo promote the guided tour."
+      ],
+      "interpretation": [
+        "Shows the Apple side of the lineage. It is more silver and cosmic than the sky-and-grass Microsoft examples, closer to Aqua than to the later Frutiger Aero imagery."
+      ],
+      "related": "See [Aqua](ref:mac-os-x-aqua-interface).",
+      "images": [
+        {
+          "file": "assets/references/apple-leopard-website-2007.jpg",
+          "alt": "Archived Mac OS X Leopard page: a silver navigation bar, the headline “Add a new Mac to your Mac.”, three laptops showing a purple aurora wallpaper standing on a reflective white floor, and glossy blue pill buttons.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of the [November 2007 archived copy](https://web.archive.org/web/20071101131506/http://www.apple.com/macosx/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to Apple. Screenshot captured for commentary."
+      },
+      "page": "references/apple-leopard-website-2007.html"
+    },
+    {
       "id": "breuer-club-chair-b3",
       "title": "Marcel Breuer, club chair B 3 (“Wassily”)",
       "type": "object",
@@ -2766,6 +3106,72 @@
       "page": "references/neobrutalism-components-library.html"
     },
     {
+      "id": "neobrutalism-dev-website",
+      "title": "Neobrutalism components website",
+      "type": "website",
+      "medium": "website",
+      "lede": "The documentation site of an open-source neo-brutalist component library, styled with its own components.",
+      "summary": "Black-outlined controls with hard shadows on a pale blue grid, with outlined green star shapes.",
+      "source": {
+        "url": "https://www.neobrutalism.dev/",
+        "label": "neobrutalism.dev"
+      },
+      "creator": {
+        "name": "Samuel Breznjak",
+        "url": "https://samuelbreznjak.com"
+      },
+      "made": "2023–present",
+      "moods": [
+        "playful",
+        "direct",
+        "bright"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "neo-brutalism",
+          "note": "A clear real example that passes the style’s fingerprint: 2 px outlines, hard shadows on 40% of boxes, and strong accents.",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "A pale blue page carries a thin blue-gray grid pattern.",
+        "The navigation bar ends in a thick black rule. Search, GitHub, and X buttons have black outlines and hard black shadows.",
+        "The centered headline is heavy geometric sans-serif, with “neobrutalism” in bright green with a black outline, framed by outlined asterisk shapes.",
+        "The single call to action is a blue button with a black outline and a solid black shadow offset down and right.",
+        "Outlined green stars and blobs in several shapes are scattered around the edges."
+      ],
+      "interpretation": [
+        "The site is the component library applied to itself, so it shows the grammar at page scale: outline, hard shadow, flat bright fill. Most of the page area is pale, and the brights are accents."
+      ],
+      "borrow": [
+        "Put the brights on small elements and keep the ground pale. Give every clickable element the same outline and shadow."
+      ],
+      "related": "The library itself: [Neobrutalism components](ref:neobrutalism-components-library).",
+      "images": [
+        {
+          "file": "assets/references/neobrutalism-dev-website.jpg",
+          "alt": "Neobrutalism components home page: a pale blue grid background, a centered headline “Build bold neobrutalism layouts in minutes” with the word neobrutalism in outlined green, a blue Get started button with a hard black shadow, and outlined green star shapes around the edges.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [neobrutalism.dev](https://www.neobrutalism.dev/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+      },
+      "page": "references/neobrutalism-dev-website.html"
+    },
+    {
       "id": "neobrutalism-swiftui-package",
       "title": "NeoBrutalism for SwiftUI",
       "type": "product",
@@ -2835,6 +3241,132 @@
         "github": "rational-kunal/NeoBrutalism"
       },
       "page": "references/neobrutalism-swiftui-package.html"
+    },
+    {
+      "id": "retroui-website",
+      "title": "NeoBrutalism website (formerly RetroUI)",
+      "type": "website",
+      "medium": "website",
+      "lede": "The site of a React component library that renamed itself from RetroUI to NeoBrutalism, now in a dark theme.",
+      "summary": "Dark neo-brutalism: yellow fills, outlined buttons with hard shadows, and a tilted marquee band.",
+      "source": {
+        "url": "https://neobrutalism.com/",
+        "label": "neobrutalism.com",
+        "archive": "https://web.archive.org/web/2025/https://retroui.dev/"
+      },
+      "creator": {
+        "name": "Arif Hossain",
+        "url": "https://neobrutalism.com/"
+      },
+      "made": "2024–present",
+      "moods": [
+        "retro",
+        "direct",
+        "loud"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. retroui.dev redirected to neobrutalism.com."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "neo-brutalism",
+          "note": "Passes the fingerprint in a dark theme: 2 px outlines, hard shadows, square corners, and one strong yellow accent.",
+          "basis": "agent"
+        }
+      ],
+      "notice": "retroui.dev now redirects here. The earlier banner in the [RetroUI record](ref:retroui-component-library) shows a light theme.",
+      "observed": [
+        "Near-black background with a warm radial glow. The top announcement bar is flat yellow.",
+        "Headline in heavy uppercase display type, with “NEOBRUTALISM” set on a flat yellow block.",
+        "Get Started is a yellow button with an outline and a hard shadow. Get All Access is dark with a light outline.",
+        "A mock agent window has a thin light frame with a yellow hard shadow.",
+        "A cream band set at a slight angle carries a monospaced marquee of feature labels."
+      ],
+      "interpretation": [
+        "Shows that the style survives a dark theme when outlines, hard shadows, and flat brights stay. It is also evidence that the neo-brutalism name now carries commercial value."
+      ],
+      "borrow": [
+        "In dark mode, invert the outline color but keep the hard shadow offset and the flat accent."
+      ],
+      "images": [
+        {
+          "file": "assets/references/retroui-website.jpg",
+          "alt": "NeoBrutalism home page in a dark theme: a yellow announcement bar, the headline “Create retro looking UI with NEOBRUTALISM” with the last word on a yellow block, yellow and dark outlined buttons, a framed mock agent window on the right, and a tilted cream marquee band.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [neobrutalism.com](https://neobrutalism.com/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+      },
+      "page": "references/retroui-website.html"
+    },
+    {
+      "id": "neubrutalism-com-website",
+      "title": "Neubrutalism guide website",
+      "type": "website",
+      "medium": "website",
+      "lede": "A guide to the style that is built in the style, with its own CSS rules shown as outlined sticky notes.",
+      "summary": "Huge black display type on flat yellow, with CSS declarations on outlined, hard-shadowed notes.",
+      "source": {
+        "url": "https://neubrutalism.com/",
+        "label": "neubrutalism.com"
+      },
+      "moods": [
+        "loud",
+        "didactic",
+        "raw"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "neo-brutalism",
+          "note": "The strongest real match so far: it passes every fingerprint metric, with 3 px outlines and hard shadows on 39% of boxes.",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "The hero is flat yellow with the word NEUBRUTALISM split over three lines in very large, very heavy extended type.",
+        "Three tilted notes in black, coral, and teal show the CSS declarations border: 3px solid #000, box-shadow: 5px 5px 0 #000, and border-radius: 0.",
+        "A small coral label with an outline reads “EST. EARLY 2020s”.",
+        "The navigation bar is black with white text and a square outlined menu button."
+      ],
+      "interpretation": [
+        "The page states its own tokens as content, which makes it a direct source for the style’s values: 3 px black borders, a 5 px unblurred shadow, and no radius."
+      ],
+      "borrow": [
+        "Use the three declarations it shows as a starting point: 3 px solid black border, 5 px 5 px 0 black shadow, zero radius."
+      ],
+      "images": [
+        {
+          "file": "assets/references/neubrutalism-com-website.jpg",
+          "alt": "Neubrutalism guide home page: a black navigation bar above a flat yellow hero with the word NEUBRUTALISM in huge heavy black type, and three tilted notes in black, coral, and teal listing border, box-shadow, and border-radius values.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [neubrutalism.com](https://neubrutalism.com/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+      },
+      "page": "references/neubrutalism-com-website.html"
     },
     {
       "id": "neubrutalism-ui-flutter-package",
@@ -3450,6 +3982,66 @@
       "page": "references/segoe-ui-typeface.html"
     },
     {
+      "id": "snowball-website",
+      "title": "Snowball media website",
+      "type": "website",
+      "medium": "website",
+      "lede": "The newsletter site of Snowball, the French personal-finance publisher behind the Fractal design system.",
+      "summary": "Violet hero, heavy headline, and an outlined card with a hard shadow; borderline against the fingerprint.",
+      "source": {
+        "url": "https://media.snowball.xyz/",
+        "label": "media.snowball.xyz"
+      },
+      "creator": {
+        "name": "Snowball",
+        "url": "https://www.snowball.xyz/"
+      },
+      "moods": [
+        "friendly",
+        "bright"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. snowball.xyz redirected to media.snowball.xyz. A cookie banner covers the lower left of the screenshot."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "neo-brutalism",
+          "note": "Applies Fractal on a production site: an outlined card with a hard shadow and flat pastel fields. It fails the fingerprint on 1 px outlines and some gradients.",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "A flat pink navigation bar sits above a flat violet hero with a faint grid.",
+        "The headline is a heavy geometric sans-serif in black.",
+        "The signup card has a black outline and a solid black shadow. The subscribe button is a white pill with a black outline.",
+        "Small coin and banknote illustrations have black outlines.",
+        "A black band carries white statistics text."
+      ],
+      "interpretation": [
+        "A moderate application of the style: the card and illustrations follow it, but the pill buttons and thin outlines soften it."
+      ],
+      "images": [
+        {
+          "file": "assets/references/snowball-website.jpg",
+          "alt": "Snowball media home page: a pink navigation bar, a violet hero with the heavy black headline “Le média qui t’apprend à investir sur le long terme”, an outlined signup card with a hard shadow, small outlined coin illustrations, and a cookie banner at lower left.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of [media.snowball.xyz](https://media.snowball.xyz/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to Snowball. Screenshot captured for commentary."
+      },
+      "page": "references/snowball-website.html"
+    },
+    {
       "id": "staatliches-bauhaus-in-weimar-1919-1923",
       "title": "Staatliches Bauhaus in Weimar 1919–1923",
       "type": "print",
@@ -4046,6 +4638,128 @@
       "page": "references/windows-7-aero-interface.html"
     },
     {
+      "id": "windows-7-website-2009",
+      "title": "Windows 7 website, 2009",
+      "type": "website",
+      "medium": "website",
+      "lede": "Microsoft’s Windows 7 launch site as archived in November 2009.",
+      "summary": "Pale sky ground, a glossy orange hero, a grass-mound icon, and glossy box shots.",
+      "source": {
+        "url": "http://www.microsoft.com/windows/windows-7/",
+        "label": "microsoft.com/windows/windows-7",
+        "archive": "https://web.archive.org/web/20091101155741/http://www.microsoft.com/windows/windows-7/"
+      },
+      "creator": {
+        "name": "Microsoft"
+      },
+      "made": "2009",
+      "moods": [
+        "optimistic",
+        "warm",
+        "glossy"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "frutiger-aero",
+          "note": "Carries the style’s motifs: a pale sky gradient, a glossy hero with light streaks, a small green grass hill, and reflective product boxes. Judge by the rubric. The page drew its gloss with images, so the CSS fingerprint does not apply (see the style page).",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "The page sits on a pale sky-blue gradient.",
+        "The hero is a warm orange panel with light streaks and a screenshot of the Windows 7 desktop.",
+        "The tour illustration is a small green grass mound with a tree.",
+        "Product box shots are glossy and green with highlights.",
+        "Links are blue with small round arrow icons."
+      ],
+      "interpretation": [
+        "The launch site has more of the style than the [Vista site](ref:windows-vista-website-2007): nature motifs and glossy objects arrive in the web layer."
+      ],
+      "related": "The operating system: [Windows 7 Aero interface](ref:windows-7-aero-interface).",
+      "images": [
+        {
+          "file": "assets/references/windows-7-website-2009.jpg",
+          "alt": "Archived Windows 7 home page: a pale sky-blue background, a glossy orange hero reading “Introducing Windows 7. Your PC, simplified.”, a small green grass-hill illustration, numbered feature lists, and glossy green product boxes.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of the [November 2009 archived copy](https://web.archive.org/web/20091101155741/http://www.microsoft.com/windows/windows-7/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to Microsoft. Screenshot captured for commentary."
+      },
+      "page": "references/windows-7-website-2009.html"
+    },
+    {
+      "id": "windows-live-messenger-website-2009",
+      "title": "Windows Live Messenger website, 2009",
+      "type": "website",
+      "medium": "website",
+      "lede": "The Windows Live Messenger download page as archived in November 2009.",
+      "summary": "A pale blue gradient header and screenshots of the glossy Messenger windows; the page itself is plain.",
+      "source": {
+        "url": "http://download.live.com/messenger",
+        "label": "download.live.com/messenger",
+        "archive": "https://web.archive.org/web/20091101160927/http://download.live.com/messenger"
+      },
+      "creator": {
+        "name": "Microsoft"
+      },
+      "made": "2009",
+      "moods": [
+        "friendly",
+        "light"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "frutiger-aero",
+          "note": "A weak example: only the pale blue header and the screenshots of Messenger windows carry the style. Judge by the rubric. The page drew its gloss with images, so the CSS fingerprint does not apply (see the style page).",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "A pale blue gradient header holds the Windows Live logo and navigation.",
+        "The center shows overlapping screenshots of Messenger windows with blue glass title bars.",
+        "The rest of the page is white with small orange headings and blue links."
+      ],
+      "interpretation": [
+        "Kept as a boundary case: the product is in the style, the page mostly is not."
+      ],
+      "images": [
+        {
+          "file": "assets/references/windows-live-messenger-website-2009.jpg",
+          "alt": "Archived Windows Live Messenger download page: a pale blue gradient header, the heading “More than just chatting”, overlapping screenshots of Messenger windows with blue title bars, and a Download button on the right.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of the [November 2009 archived copy](https://web.archive.org/web/20091101160927/http://download.live.com/messenger).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to Microsoft. Screenshot captured for commentary."
+      },
+      "page": "references/windows-live-messenger-website-2009.html"
+    },
+    {
       "id": "windows-vista-aero-interface",
       "title": "Windows Vista Aero interface",
       "type": "product",
@@ -4113,6 +4827,67 @@
         "wikidata": "Q11230"
       },
       "page": "references/windows-vista-aero-interface.html"
+    },
+    {
+      "id": "windows-vista-website-2007",
+      "title": "Windows Vista website, 2008",
+      "type": "website",
+      "medium": "website",
+      "lede": "Microsoft’s Windows Vista product site as archived in July 2008.",
+      "summary": "White page under a pale blue sky gradient, blue link text, and small glossy product imagery.",
+      "source": {
+        "url": "http://www.microsoft.com/windows/windows-vista/",
+        "label": "microsoft.com/windows/windows-vista",
+        "archive": "https://web.archive.org/web/20080719003216/http://www.microsoft.com/windows/windows-vista/"
+      },
+      "creator": {
+        "name": "Microsoft"
+      },
+      "made": "2008 (capture date)",
+      "moods": [
+        "clean",
+        "corporate",
+        "airy"
+      ],
+      "evidence": {
+        "level": "observed",
+        "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+      },
+      "reviewed": "2026-09-25",
+      "added": "2026-09-25",
+      "styles": [
+        {
+          "id": "frutiger-aero",
+          "note": "The product site of the operating system that defined the style. The site itself applies it lightly: pale sky gradients and glossy icons, not glass panels. Judge by the rubric. The page drew its gloss with images, so the CSS fingerprint does not apply (see the style page).",
+          "basis": "agent"
+        }
+      ],
+      "observed": [
+        "A pale blue gradient fills the top of the page behind the Windows flag logo.",
+        "Navigation and headings use orange and blue text on white.",
+        "Small product illustrations show glossy boxes and a PC with blue highlights.",
+        "Content sits in narrow columns of small type."
+      ],
+      "interpretation": [
+        "A useful contrast with the [Vista interface](ref:windows-vista-aero-interface) record: the style was strongest in the software, and the marketing web of 2008 carried only its colors and small glossy pictures."
+      ],
+      "images": [
+        {
+          "file": "assets/references/windows-vista-website-2007.jpg",
+          "alt": "Archived Windows Vista home page: the Windows logo on a pale blue gradient header, orange section headings, small blue link lists, a photo of people with a laptop, and small glossy product icons.",
+          "width": 1440,
+          "height": 900,
+          "kind": "screenshot",
+          "caption": "First viewport of the [July 2008 archived copy](https://web.archive.org/web/20080719003216/http://www.microsoft.com/windows/windows-vista/).",
+          "saved": "2026-09-25"
+        }
+      ],
+      "rights": {
+        "tier": "C",
+        "license": "unverified",
+        "statement": "Design and content belong to Microsoft. Screenshot captured for commentary."
+      },
+      "page": "references/windows-vista-website-2007.html"
     }
   ]
 }

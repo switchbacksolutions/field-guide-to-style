@@ -124,11 +124,6 @@
       "note": "Most surfaces have outlines."
     },
     {
-      "metric": "surface.border.medianWidth",
-      "min": 2.5,
-      "note": "Outlines are thick."
-    },
-    {
       "metric": "surface.shadow.hardShare",
       "min": 0.8,
       "note": "Shadows have no blur."
@@ -144,14 +139,19 @@
       "note": "Fills are flat."
     },
     {
-      "metric": "color.chromaticShare",
-      "note": "Bright fills appear on cards and controls over a neutral ground. Provisional: set from the specimen, recalibrate with measured references.",
-      "min": 0.05
+      "metric": "surface.border.medianWidth",
+      "min": 2,
+      "note": "Outlines are thick. Calibrated: the clear real examples use 2 or 3 px."
     },
     {
       "metric": "surface.shadow.share",
       "min": 0.25,
-      "note": "Many blocks carry a hard shadow."
+      "note": "Many blocks carry a hard shadow. Calibrated: clear real examples measure 0.3 to 0.4."
+    },
+    {
+      "metric": "color.accentChroma",
+      "min": 0.4,
+      "note": "The bright fills are strong, even when they cover little area. Calibrated: real examples measure 0.46 to 0.78."
     }
   ],
   "attestation": [
@@ -174,7 +174,8 @@
   "synthesis": [
     "Two articles define the style: [Malewicz (2022)](ref:malewicz-neubrutalism-article-2022) and [NN/g (2025)](ref:nngroup-neobrutalism-article-2025). Both name [Gumroad’s 2021 redesign](ref:gumroad-website-redesign-2021) as a key example.",
     "Open-source component libraries turn the style into reusable parts: [neobrutalism components](ref:neobrutalism-components-library) for React, a [SwiftUI package](ref:neobrutalism-swiftui-package), a [Flutter package](ref:neubrutalism-ui-flutter-package), [RetroUI](ref:retroui-component-library), and Snowball’s [Fractal](ref:snowball-fractal-design-system) design system.",
-    "Measured evidence qualifies the fingerprint. The archived Gumroad home page from January 2022 has flat bright fields, black rules, and square corners, but no shadows at rest. Hard shadows may belong to hover states and component libraries more than to every neo-brutalist page."
+    "Captures of real sites calibrated the fingerprint. The component-library sites pass it: [neobrutalism.dev](ref:neobrutalism-dev-website), [neobrutalism.com](ref:retroui-website), [BoldKit](ref:boldkit-website), and the [Neubrutalism guide](ref:neubrutalism-com-website). Brand sites apply the style more loosely. The archived [Gumroad](ref:gumroad-website-redesign-2021) home page has outlines and flat brights but no shadows at rest, [Figma 2022](ref:figma-website-2022) shows neither outlines nor hard shadows, and [Snowball](ref:snowball-website) uses 1 px outlines. Hard shadows are most consistent in component libraries.",
+    "The live Gumroad, Zama, and cc creative sites, which earlier lists cited as examples, no longer use the style on 25 September 2026. Web references date quickly, so cite archived copies with a date."
   ],
   "preview": [
     "neobrutalism-components-library",
@@ -473,16 +474,28 @@
       "measurement": null
     },
     {
+      "id": "boldkit-website",
+      "title": "BoldKit website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Passes the fingerprint: 2 px outlines on 91% of boxes, hard shadows, square corners, and five hues of strong accents.",
+      "page": "references/boldkit-website.html",
+      "source": "https://boldkit.dev/",
+      "image": "assets/references/boldkit-website.jpg",
+      "measurement": "data/measurements/boldkit-website.json"
+    },
+    {
       "id": "brutalist-websites-directory",
       "title": "Brutalist Websites",
       "medium": "website",
-      "evidence": "documented",
+      "evidence": "observed",
       "basis": "agent",
       "note": "Lineage only: it is the brutalist web design that neo-brutalism descends from and must be distinguished from.",
       "page": "references/brutalist-websites-directory.html",
       "source": "https://brutalistwebsites.com/",
-      "image": null,
-      "measurement": null
+      "image": "assets/references/brutalist-websites-directory.jpg",
+      "measurement": "data/measurements/brutalist-websites-directory.json"
     },
     {
       "id": "envato-neo-brutalism-trend-2023",
@@ -500,13 +513,25 @@
       "id": "figma-website-2022",
       "title": "Figma marketing website, c. 2022",
       "medium": "website",
-      "evidence": "documented",
+      "evidence": "observed",
       "basis": "agent",
       "note": "Malewicz (2022) names Figma and Gumroad as the “two main innovators” of neubrutalism, and NN/g repeats Figma as an example.",
       "page": "references/figma-website-2022.html",
       "source": "https://www.figma.com/",
-      "image": null,
-      "measurement": null
+      "image": "assets/references/figma-website-2022.jpg",
+      "measurement": "data/measurements/figma-website-2022.json"
+    },
+    {
+      "id": "snowball-fractal-website",
+      "title": "Fractal design system documentation",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The system is neo-brutalist, but the documentation page mostly is not. It fails the fingerprint on outline share and width.",
+      "page": "references/snowball-fractal-website.html",
+      "source": "https://fractal.snowball.xyz/",
+      "image": "assets/references/snowball-fractal-website.jpg",
+      "measurement": "data/measurements/snowball-fractal-website.json"
     },
     {
       "id": "snowball-fractal-design-system",
@@ -545,6 +570,18 @@
       "measurement": "data/measurements/neobrutalism-components-library.json"
     },
     {
+      "id": "neobrutalism-dev-website",
+      "title": "Neobrutalism components website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear real example that passes the style’s fingerprint: 2 px outlines, hard shadows on 40% of boxes, and strong accents.",
+      "page": "references/neobrutalism-dev-website.html",
+      "source": "https://www.neobrutalism.dev/",
+      "image": "assets/references/neobrutalism-dev-website.jpg",
+      "measurement": "data/measurements/neobrutalism-dev-website.json"
+    },
+    {
       "id": "neobrutalism-swiftui-package",
       "title": "NeoBrutalism for SwiftUI",
       "medium": "software",
@@ -555,6 +592,30 @@
       "source": "https://github.com/rational-kunal/NeoBrutalism",
       "image": "assets/references/neobrutalism-swiftui-package.png",
       "measurement": "data/measurements/neobrutalism-swiftui-package.json"
+    },
+    {
+      "id": "retroui-website",
+      "title": "NeoBrutalism website (formerly RetroUI)",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Passes the fingerprint in a dark theme: 2 px outlines, hard shadows, square corners, and one strong yellow accent.",
+      "page": "references/retroui-website.html",
+      "source": "https://neobrutalism.com/",
+      "image": "assets/references/retroui-website.jpg",
+      "measurement": "data/measurements/retroui-website.json"
+    },
+    {
+      "id": "neubrutalism-com-website",
+      "title": "Neubrutalism guide website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The strongest real match so far: it passes every fingerprint metric, with 3 px outlines and hard shadows on 39% of boxes.",
+      "page": "references/neubrutalism-com-website.html",
+      "source": "https://neubrutalism.com/",
+      "image": "assets/references/neubrutalism-com-website.jpg",
+      "measurement": "data/measurements/neubrutalism-com-website.json"
     },
     {
       "id": "neubrutalism-ui-flutter-package",
@@ -591,6 +652,18 @@
       "source": "https://github.com/neobrutalism/neobrutalism",
       "image": null,
       "measurement": null
+    },
+    {
+      "id": "snowball-website",
+      "title": "Snowball media website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Applies Fractal on a production site: an outlined card with a hard shadow and flat pastel fields. It fails the fingerprint on 1 px outlines and some gradients.",
+      "page": "references/snowball-website.html",
+      "source": "https://media.snowball.xyz/",
+      "image": "assets/references/snowball-website.jpg",
+      "measurement": "data/measurements/snowball-website.json"
     }
   ]
 }

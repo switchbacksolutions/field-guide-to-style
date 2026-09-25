@@ -132,6 +132,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "abet-bacterio-laminate-page",
+      "title": "Bacterio laminate, Abet Laminati product page",
+      "href": "references/abet-bacterio-laminate-page.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "memphis"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "bauhaus-building-dessau",
       "title": "Bauhaus building, Dessau",
       "href": "references/bauhaus-building-dessau.html",
@@ -159,6 +170,17 @@ globalThis.styleHub = {
       "href": "references/wagenfeld-jucker-table-lamp.html",
       "type": "object",
       "medium": "product",
+      "styles": [
+        "bauhaus"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "bauhaus100-website-2019",
+      "title": "Bauhaus100 centenary website, 2019",
+      "href": "references/bauhaus100-website-2019.html",
+      "type": "website",
+      "medium": "website",
       "styles": [
         "bauhaus"
       ],
@@ -198,6 +220,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "boldkit-website",
+      "title": "BoldKit website",
+      "href": "references/boldkit-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neo-brutalism"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "brutalist-websites-directory",
       "title": "Brutalist Websites",
       "href": "references/brutalist-websites-directory.html",
@@ -206,7 +239,7 @@ globalThis.styleHub = {
       "styles": [
         "neo-brutalism"
       ],
-      "status": "documented"
+      "status": "observed"
     },
     {
       "id": "sottsass-carlton-room-divider-1981",
@@ -283,7 +316,7 @@ globalThis.styleHub = {
       "styles": [
         "neo-brutalism"
       ],
-      "status": "documented"
+      "status": "observed"
     },
     {
       "id": "de-lucchi-first-chair-1983",
@@ -293,6 +326,17 @@ globalThis.styleHub = {
       "medium": "furniture",
       "styles": [
         "memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "snowball-fractal-website",
+      "title": "Fractal design system documentation",
+      "href": "references/snowball-fractal-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neo-brutalism"
       ],
       "status": "observed"
     },
@@ -440,6 +484,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "apple-leopard-website-2007",
+      "title": "Mac OS X Leopard website, 2007",
+      "href": "references/apple-leopard-website-2007.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "frutiger-aero"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "breuer-club-chair-b3",
       "title": "Marcel Breuer, club chair B 3 (“Wassily”)",
       "href": "references/breuer-club-chair-b3.html",
@@ -517,11 +572,44 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "neobrutalism-dev-website",
+      "title": "Neobrutalism components website",
+      "href": "references/neobrutalism-dev-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neo-brutalism"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "neobrutalism-swiftui-package",
       "title": "NeoBrutalism for SwiftUI",
       "href": "references/neobrutalism-swiftui-package.html",
       "type": "product",
       "medium": "software",
+      "styles": [
+        "neo-brutalism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "retroui-website",
+      "title": "NeoBrutalism website (formerly RetroUI)",
+      "href": "references/retroui-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neo-brutalism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "neubrutalism-com-website",
+      "title": "Neubrutalism guide website",
+      "href": "references/neubrutalism-com-website.html",
+      "type": "website",
+      "medium": "website",
       "styles": [
         "neo-brutalism"
       ],
@@ -627,6 +715,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "snowball-website",
+      "title": "Snowball media website",
+      "href": "references/snowball-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neo-brutalism"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "staatliches-bauhaus-in-weimar-1919-1923",
       "title": "Staatliches Bauhaus in Weimar 1919–1923",
       "href": "references/staatliches-bauhaus-in-weimar-1919-1923.html",
@@ -726,11 +825,44 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "windows-7-website-2009",
+      "title": "Windows 7 website, 2009",
+      "href": "references/windows-7-website-2009.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "frutiger-aero"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "windows-live-messenger-website-2009",
+      "title": "Windows Live Messenger website, 2009",
+      "href": "references/windows-live-messenger-website-2009.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "frutiger-aero"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "windows-vista-aero-interface",
       "title": "Windows Vista Aero interface",
       "href": "references/windows-vista-aero-interface.html",
       "type": "product",
       "medium": "operating-system",
+      "styles": [
+        "frutiger-aero"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "windows-vista-website-2007",
+      "title": "Windows Vista website, 2008",
+      "href": "references/windows-vista-website-2007.html",
+      "type": "website",
+      "medium": "website",
       "styles": [
         "frutiger-aero"
       ],
