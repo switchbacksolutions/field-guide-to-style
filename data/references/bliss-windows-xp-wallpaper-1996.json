@@ -1,0 +1,59 @@
+{
+  "id": "bliss-windows-xp-wallpaper-1996",
+  "title": "Bliss",
+  "type": "image",
+  "medium": "photograph",
+  "lede": "Charles O’Rear’s green hill under a blue sky: the Windows XP wallpaper that made saturated nature the default view of a computer.",
+  "summary": "Green hill, blue sky, white clouds. Photograph 1996, Windows XP default wallpaper 2001.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Bliss_(photograph)",
+    "label": "Wikipedia: Bliss (photograph)"
+  },
+  "creator": {
+    "name": "Charles O’Rear",
+    "url": "https://www.wikidata.org/wiki/Q3302149"
+  },
+  "made": "January 1996 (photograph); Windows XP default wallpaper",
+  "moods": [
+    "serene",
+    "saturated",
+    "optimistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the non-free 365 × 274 reduction [File:Bliss (Windows XP).png](https://en.wikipedia.org/wiki/File:Bliss_(Windows_XP).png) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "Avcı traces the style’s nature imagery partly to Bliss, and Wikipedia lists it under “See also”; it is a precursor from the Windows XP era.",
+      "basis": "agent",
+      "qualifier": "precursor"
+    }
+  ],
+  "context": [
+    "Bliss, originally titled Bucolic Green Hills, was photographed by Charles O’Rear in January 1996 near the Napa–Sonoma county line, California, on Fujifilm Velvia. Microsoft obtained full rights in 2000 and used it as the Windows XP default wallpaper. [Wikipedia: Bliss](https://en.wikipedia.org/wiki/Bliss_(photograph)).",
+    "Avcı links the style’s nature visuals to HD-television demonstration imagery and to “the iconic ‘Bliss’ desktop wallpaper,” which “inspired many brands.” [Avcı 2024, “Physical reflections of digital aesthetics”](https://doi.org/10.17932/IAU.EJNM.25480200.2024/ejnm_v8i3003), p. 472."
+  ],
+  "observed": [
+    "A smooth, bright green hill fills the lower half; the grass is saturated and almost uniform.",
+    "The sky is a clear, deep blue that lightens toward the horizon.",
+    "Soft white cumulus and thin cirrus clouds cross the sky; distant hills sit low at the right."
+  ],
+  "interpretation": [
+    "Bliss has no gloss and no interface, so it is not Frutiger Aero by itself. It is the nature half of the style in its plainest form: technology presented through a clean, saturated, human-free landscape."
+  ],
+  "borrow": [
+    "Use a real, very saturated sky-and-grass photograph as a calm backdrop behind glass panels, with no people in it."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Copyrighted photograph; rights held by Microsoft per Wikipedia. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q2368"
+  }
+}

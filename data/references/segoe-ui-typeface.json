@@ -1,0 +1,75 @@
+{
+  "id": "segoe-ui-typeface",
+  "title": "Segoe UI typeface",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "The humanist sans-serif that actually set the text of Vista and Windows 7, and the typeface behind the “Frutiger” in the name.",
+  "summary": "Rounded humanist sans-serif of the Aero interfaces. Monotype for Microsoft, first shipped with Windows Vista.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Segoe",
+    "label": "Wikipedia: Segoe"
+  },
+  "creator": {
+    "name": "Steve Matteson (Agfa Monotype), for Microsoft",
+    "url": "https://www.wikidata.org/wiki/Q7613296"
+  },
+  "made": "Segoe designed c. 2000 at Agfa Monotype; Segoe UI first introduced with Windows Vista",
+  "moods": [
+    "friendly",
+    "clear",
+    "humanist"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected [File:Segoe UI Revision Differences.png](https://commons.wikimedia.org/wiki/File:Segoe_UI_Revision_Differences.png) (1200 × 650, PD-font) and stored it. Also saw Segoe UI in the Vista and Windows 7 screenshots inspected for [Windows Vista](ref:windows-vista-aero-interface) and [Windows 7](ref:windows-7-aero-interface)."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "Segoe UI is the humanist interface type of Windows Aero, and CARI links it to Frutiger in the style’s name.",
+      "basis": "agent",
+      "qualifier": "interface type"
+    }
+  ],
+  "context": [
+    "Segoe was designed by Steve Matteson at Agfa Monotype and licensed to Microsoft. Segoe UI “was first introduced with Windows Vista” and replaced Tahoma as the interface font; Light and Semibold weights came with Windows 7. [Wikipedia: Segoe](https://en.wikipedia.org/wiki/Segoe).",
+    "In 2004 Linotype protested Microsoft’s EU design registration of Segoe, citing its similarity to Frutiger; the EU revoked the registration. Microsoft states that Segoe was not derived from Frutiger. [Wikipedia: Segoe](https://en.wikipedia.org/wiki/Segoe).",
+    "CARI says Frutiger “originally inspired Vista’s default font (Segoe UI).” [CARI: Frutiger Aero](https://cari.institute/aesthetics/frutiger-aero). This is CARI’s claim; Microsoft disputes derivation.",
+    "In October 2011 the letters I and Q and several figures were redrawn; I, Q, and 1 became closer to Frutiger. [Wikipedia: Segoe](https://en.wikipedia.org/wiki/Segoe)."
+  ],
+  "observed": [
+    "The top line (Vista and Windows 7 version) shows “IQ124578” with round, open forms; the I has serifs, the 1 has a foot, and the Q tail sweeps down and out to the right.",
+    "The bottom line (2011 revision) has a plain I, a 1 without a foot, and a short straight Q tail; the 2, 4, 5, 7, and 8 are also redrawn.",
+    "In the Vista and Windows 7 screenshots, menu and window text is set in small, even, humanist sans-serif."
+  ],
+  "interpretation": [
+    "If a catalogue specimen needs “the” Frutiger Aero typeface, Segoe UI is the documented interface face; Frutiger names the tradition. Both are humanist and open."
+  ],
+  "borrow": [
+    "Use Segoe UI (or a free humanist substitute) at small, regular weights for body and control labels; keep headings light rather than heavy."
+  ],
+  "images": [
+    {
+      "file": "assets/references/segoe-ui-typeface.png",
+      "alt": "Two lines of black text reading IQ124578. The upper line is Segoe UI from Windows Vista and Windows 7; the lower line is the 2011 revision with different I, Q, 1, 2, 4, 5, 7, and 8.",
+      "width": 1200,
+      "height": 650,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Segoe UI before (top, Vista and Windows 7) and after (bottom) the 2011 revision. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Segoe_UI_Revision_Differences.png), tagged PD-font.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Segoe_UI_Revision_Differences.png",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Tagged PD-font on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Segoe_UI_Revision_Differences.png): a rendering of letterforms, which are not copyrightable in the United States. Segoe is a registered trademark of Microsoft; the font software is not licensed here. The upload names an external image host as its source."
+  },
+  "identifiers": {
+    "wikidata": "Q97189",
+    "commons": "File:Segoe_UI_Revision_Differences.png"
+  }
+}

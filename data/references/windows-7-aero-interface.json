@@ -1,0 +1,65 @@
+{
+  "id": "windows-7-aero-interface",
+  "title": "Windows 7 Aero interface and default wallpaper",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "The refined, brighter Aero of 2009, with a glowing Windows logo, bubbles, grass, and a butterfly on a blue field.",
+  "summary": "Blue glass taskbar, glossy Start orb, and a wallpaper of light, bubbles, and grass. Windows 7, 2009.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Windows_7",
+    "label": "Wikipedia: Windows 7"
+  },
+  "creator": {
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com/"
+  },
+  "made": "2009",
+  "moods": [
+    "optimistic",
+    "fresh",
+    "glossy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the non-free 640 × 480 screenshot [File:Windows 7 SP1 screenshot.png](https://en.wikipedia.org/wiki/File:Windows_7_SP1_screenshot.png) (Windows 7 Ultimate with the Start menu open) and the 425 × 235 crop [File:Aero Example.png](https://en.wikipedia.org/wiki/File:Aero_Example.png) in scratchpad copies. Not stored."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "Windows 7 carries Aero to its final form, and its default wallpaper combines light, bubbles, grass, and a butterfly with the brand mark.",
+      "basis": "agent",
+      "qualifier": "namesake"
+    }
+  ],
+  "context": [
+    "Windows Aero was the design language of Windows Vista (2006) and Windows 7 (2009). Windows 7 refined it with larger window buttons and revised taskbar thumbnails; Windows 8 replaced it with the flat Metro language. [Wikipedia: Windows Aero](https://en.wikipedia.org/wiki/Windows_Aero).",
+    "Avcı writes that “with Windows 7, the final form of the Aero interface was established,” and uses the Windows 7 default wallpaper as the emblem of the “Aero” half of the style’s name. [Avcı 2024, “Physical reflections of digital aesthetics”](https://doi.org/10.17932/IAU.EJNM.25480200.2024/ejnm_v8i3003), pp. 461 and 464.",
+    "Wikipedia says Windows 7 “expanded on” the characteristics that Vista introduced, and that the style waned in the early 2010s and was replaced by flat design. [Wikipedia: Frutiger Aero](https://en.wikipedia.org/wiki/Frutiger_Aero)."
+  ],
+  "observed": [
+    "The wallpaper is a saturated blue field. The four-pane Windows flag glows in orange, green, blue, and yellow at its center.",
+    "The flag panes hold small nature motifs: grass blades, a butterfly, translucent bubbles, and a lens-flare highlight.",
+    "The Start menu and taskbar are translucent blue glass; the Start button is a round glossy orb.",
+    "In the window crop, the title bars are pale translucent glass; the close button is a glossy red rounded rectangle with a lighter top half."
+  ],
+  "interpretation": [
+    "Where Vista is darker and more atmospheric, Windows 7 is brighter and more saturated. Its wallpaper is a compact list of the style’s motifs in one image."
+  ],
+  "borrow": [
+    "Make one glossy accent control (for example a close or primary button) with a lighter upper half and a darker lower half.",
+    "Combine a brand mark with small nature details (bubbles, grass, a light flare) instead of abstract decoration."
+  ],
+  "next": [
+    "Identify the designer of the Windows 7 default wallpaper from a primary Microsoft source."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Microsoft software and wallpaper; copyrighted. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q11215"
+  }
+}

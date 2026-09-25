@@ -1,0 +1,71 @@
+{
+  "id": "crystal-clear-icons-everaldo-coelho",
+  "title": "Crystal Clear icons",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "Everaldo Coelho’s glossy, translucent desktop icons: saturated color, bright highlights, and soft shading.",
+  "summary": "Glossy, gel-like 3D icons in saturated colors. Everaldo Coelho for KDE and Linux desktops.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Everaldo_Coelho",
+    "label": "Wikipedia: Everaldo Coelho"
+  },
+  "creator": {
+    "name": "Everaldo Coelho (YellowIcon)",
+    "url": "https://www.wikidata.org/wiki/Q5416897"
+  },
+  "moods": [
+    "glossy",
+    "playful",
+    "bright"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 128 × 128 LGPL icon [File:Crystal Clear kdmconfig-danger.png](https://commons.wikimedia.org/wiki/File:Crystal_Clear_kdmconfig-danger.png) and stored it."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "Wikipedia uses this icon to illustrate the style’s vibrant colors, three-dimensional graphics, and glossy textures.",
+      "basis": "agent",
+      "qualifier": "icon example on Wikipedia"
+    }
+  ],
+  "context": [
+    "Coelho’s “crystal” look “consists of icons that appear to be made of highly reflective surfaces.” He aimed “between realism of Mac OS X and cartoon colored style of XP.” Crystal SVG became KDE’s default icon theme in KDE 3.1; the later Crystal Clear set made icons appear transparent. [Wikipedia: Everaldo Coelho](https://en.wikipedia.org/wiki/Everaldo_Coelho).",
+    "The Wikipedia Frutiger Aero article illustrates “vibrant colors, three-dimensional graphics, and glossy textures” with this icon, and lists Crystal icons under “See also.” [Wikipedia: Frutiger Aero](https://en.wikipedia.org/wiki/Frutiger_Aero)."
+  ],
+  "observed": [
+    "Three rounded, faceless figures in saturated green, blue, and red look like molded gel.",
+    "Each figure has a bright white specular highlight on the head and shoulder and darker shading at the edges.",
+    "A yellow warning triangle with an exclamation mark overlaps the front, with a soft shadow."
+  ],
+  "interpretation": [
+    "Crystal predates Vista, but it already has the style’s icon grammar: candy color, gel volume, and a single hard highlight. It helped make gloss the default look of free desktops."
+  ],
+  "borrow": [
+    "Draw icons as simple rounded volumes with one strong white highlight and a darker rim, rather than outlines."
+  ],
+  "images": [
+    {
+      "file": "assets/references/crystal-clear-icons-everaldo-coelho.png",
+      "alt": "Glossy icon of three rounded human figures in green, blue, and red with white highlights, and a yellow warning triangle with an exclamation mark.",
+      "width": 128,
+      "height": 128,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Crystal Clear “kdmconfig-danger” icon by Everaldo Coelho (YellowIcon). LGPL. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crystal_Clear_kdmconfig-danger.png).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Crystal_Clear_kdmconfig-danger.png",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "LGPL",
+    "statement": "“All Crystal icons were posted by the author as LGPL on kde-look” ([Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crystal_Clear_kdmconfig-danger.png)). Credit: Everaldo Coelho (YellowIcon)."
+  },
+  "identifiers": {
+    "commons": "File:Crystal_Clear_kdmconfig-danger.png"
+  }
+}

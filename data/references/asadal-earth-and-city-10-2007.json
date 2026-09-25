@@ -1,0 +1,76 @@
+{
+  "id": "asadal-earth-and-city-10-2007",
+  "title": "Earth and City 10 (Expression of Ideas)",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A Korean stock composite of 2007: a glowing wireframe globe, an airliner, and a clean skyline over blue water and green banks.",
+  "summary": "Glass globe, sky, water, and skyline in one stock image. Asadal, 2007.",
+  "source": {
+    "url": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=9046218&menuNo=200018",
+    "label": "Gongu Madang, Korea Copyright Commission"
+  },
+  "creator": {
+    "name": "Asadal",
+    "url": "http://www.asadal.com/"
+  },
+  "made": "2007 (creation date 2007-10-29, as the source states)",
+  "moods": [
+    "optimistic",
+    "eco-technological",
+    "bright"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1120 × 581 file [File:Earth and City 10 (Expression of ideas).jpg](https://commons.wikimedia.org/wiki/File:Earth_and_City_10_(Expression_of_ideas).jpg) and stored it. Checked the license and date on the Gongu Madang record."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "A period stock image with the style’s central idea, technology in harmony with nature; Wikipedia uses it to illustrate that theme.",
+      "basis": "agent",
+      "qualifier": "stock imagery"
+    }
+  ],
+  "context": [
+    "Gongu Madang (Korea Copyright Commission) records the work “지구와 도시 10(발상의 표현)” by 아사달 (Asadal), created 2007-10-29, a Photoshop composite, offered under CC BY. [Gongu record](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=9046218&menuNo=200018).",
+    "The Wikipedia Frutiger Aero article uses this image for the claim that the style “often depicts the natural in tandem with digital elements.” [Wikipedia: Frutiger Aero](https://en.wikipedia.org/wiki/Frutiger_Aero).",
+    "CARI links Asadal’s design mall to the style and published an interview with its CEO, Chang N. Suh (Yunseon Yang and Sofi Xian, June 2026). It reports that Asadal donated image assets to the Korea Copyright Commission for free use under CC BY. [The Future Is Aesthetic](https://sofixian.substack.com/p/frutiger-aero-and-the-story-of-asadal)."
+  ],
+  "observed": [
+    "A deep-blue sky fades to pale cyan at the horizon, with small white clouds.",
+    "A translucent, glowing globe at upper right is wrapped in white orbit lines and has a star-shaped lens flare at its edge.",
+    "An airliner at upper left trails a thin white line toward the globe.",
+    "Glass towers rise from green banks beside still blue water; a red arch bridge sits at the right edge.",
+    "Faint translucent hexagons float in the middle of the sky."
+  ],
+  "interpretation": [
+    "This is the style as commercial stock: the “globe plus skyline plus nature” image that filled corporate web headers. Its mood is frictionless progress — clean air travel, clean water, clean city."
+  ],
+  "borrow": [
+    "For a hero image, stack three layers: a blue sky gradient, a glowing translucent object (globe, orb, or bubble), and a green or water horizon.",
+    "Use one lens flare or star highlight as a focal accent, not many."
+  ],
+  "images": [
+    {
+      "file": "assets/references/asadal-earth-and-city-10-2007.jpg",
+      "alt": "Blue sky over a lake and green banks with a skyline of glass towers and a red bridge; a glowing translucent globe with orbit lines at upper right and an airliner at upper left.",
+      "width": 1120,
+      "height": 581,
+      "kind": "source-image",
+      "caption": "“Earth and City 10 (Expression of Ideas)” by Asadal, 2007. CC BY 4.0 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Earth_and_City_10_(Expression_of_ideas).jpg), from [Gongu Madang](https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=9046218&menuNo=200018).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/99/Earth_and_City_10_%28Expression_of_ideas%29.jpg",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-4.0",
+    "statement": "By Asadal. Offered under CC BY by the Korea Copyright Commission (Gongu Madang); Wikimedia Commons records CC BY 4.0."
+  },
+  "identifiers": {
+    "commons": "File:Earth_and_City_10_(Expression_of_ideas).jpg",
+    "wikidata-creator": "Q1163129"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "windows-vista-aero-interface",
+  "title": "Windows Vista Aero interface",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "The desktop that gave the style half its name: tinted glass window frames over a green and blue aurora wallpaper.",
+  "summary": "Glass window frames, a round Start orb, and an aurora wallpaper. Windows Vista, 2006–2007.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Windows_Aero",
+    "label": "Wikipedia: Windows Aero"
+  },
+  "creator": {
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com/"
+  },
+  "made": "2006 (released to manufacturing November 8, 2006; general release January 30, 2007)",
+  "moods": [
+    "glossy",
+    "optimistic",
+    "luminous"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the non-free 640 × 480 screenshot [File:Windows Vista.png](https://en.wikipedia.org/wiki/File:Windows_Vista.png) (Windows Vista Ultimate with the Aero theme) in a scratchpad copy. Not stored. The operating system was not run."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "Windows Aero is the “Aero” in the style’s name, and scholars call Vista one of the first mature examples of the style.",
+      "basis": "agent",
+      "qualifier": "namesake"
+    }
+  ],
+  "context": [
+    "Windows Aero is the design language introduced in Windows Vista in 2006 and continued in Windows 7. Its visual style emphasized “animation, glass, and translucency”; the name is a backronym for Authentic, Energetic, Reflective, and Open. [Wikipedia: Windows Aero](https://en.wikipedia.org/wiki/Windows_Aero).",
+    "Windows Vista was released to manufacturing on November 8, 2006, and internationally on January 30, 2007. [Wikipedia: Windows Vista](https://en.wikipedia.org/wiki/Windows_Vista).",
+    "Emirhan Avcı calls Vista’s Aero interface “one of the first mature examples of Frutiger Aero” and notes that Microsoft published an “Aero Aesthetics” guide for designers with Vista. [Avcı 2024, “Physical reflections of digital aesthetics”](https://doi.org/10.17932/IAU.EJNM.25480200.2024/ejnm_v8i3003), pp. 461–462.",
+    "The name Frutiger Aero joins the Frutiger typeface with Windows Aero. It was coined by Sofi Xian (then Sofi Lee) of the Consumer Aesthetics Research Institute in 2018. [Wikipedia: Frutiger Aero](https://en.wikipedia.org/wiki/Frutiger_Aero); [CARI: Frutiger Aero](https://cari.institute/aesthetics/frutiger-aero)."
+  ],
+  "observed": [
+    "Window frames are translucent, blue-green tinted glass; the wallpaper shows through the title bar and borders.",
+    "The wallpaper is a dark green-to-teal field with luminous, curved light streaks, like an aurora.",
+    "The Start button is a round glossy orb at the bottom left; the taskbar is dark and glassy.",
+    "Sidebar gadgets on the right have rounded corners and soft shadows: an analog clock, a photo of a toucan, and a feed viewer.",
+    "Icons are detailed, shaded, and glossy (a globe, a padlock, a blue monitor)."
+  ],
+  "interpretation": [
+    "Vista is the reference point for the style’s surface grammar: glass instead of opaque chrome, light instead of line, and nature (aurora, toucan photo) placed inside a technical frame."
+  ],
+  "borrow": [
+    "Use a thin, tinted translucent frame around content, with a lighter highlight along its top edge, rather than a solid title bar.",
+    "Place content on a dark-to-light luminous gradient with soft curved streaks instead of a flat background."
+  ],
+  "next": [
+    "Capture the archived Microsoft “Aero Aesthetics” guidelines page from the Wayback Machine.",
+    "Find an openly licensed or official source for the Vista default wallpaper."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Microsoft software and wallpaper; copyrighted. The inspected Wikipedia screenshot is used there under a non-free rationale. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q11230"
+  }
+}

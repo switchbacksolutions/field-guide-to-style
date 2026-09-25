@@ -1,0 +1,75 @@
+{
+  "id": "frutiger-typeface-1976",
+  "title": "Frutiger typeface",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "Adrian Frutiger’s humanist sans-serif for airport signs, and the other half of the style’s name.",
+  "summary": "Open, legible humanist sans-serif. Adrian Frutiger, released 1976.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Frutiger_(typeface)",
+    "label": "Wikipedia: Frutiger (typeface)"
+  },
+  "creator": {
+    "name": "Adrian Frutiger",
+    "url": "https://www.wikidata.org/wiki/Q123621"
+  },
+  "made": "1976 (public release by Stempel with Linotype; developed from the Roissy signage type of 1970/71)",
+  "moods": [
+    "clear",
+    "friendly",
+    "humanist"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the public-domain specimen [File:FrutigerSpec-1.svg](https://commons.wikimedia.org/wiki/File:FrutigerSpec-1.svg), rendered by Wikimedia at 960 px wide, and stored it."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "The style is named partly after this typeface; its open humanist forms match the friendly type of the period, though the typeface itself was not the Aero interface font.",
+      "basis": "agent",
+      "qualifier": "namesake"
+    }
+  ],
+  "context": [
+    "Frutiger is a humanist sans-serif by Adrian Frutiger. It is the text version of Roissy, commissioned in 1970/71 for the signs of Charles de Gaulle Airport, and was released publicly in 1976 by Stempel with Linotype. [Wikipedia: Frutiger](https://en.wikipedia.org/wiki/Frutiger_(typeface)).",
+    "CARI says the name joins Vista’s “Aero” guideline with Frutiger’s typeface, “which originally inspired Vista’s default font (Segoe UI).” [CARI: Frutiger Aero](https://cari.institute/aesthetics/frutiger-aero).",
+    "Avcı notes that Frutiger “was not used in the Aero, TouchWiz, or MacOS X interfaces associated with the movement,” so the name can mislead. [Avcı 2024, “Physical reflections of digital aesthetics”](https://doi.org/10.17932/IAU.EJNM.25480200.2024/ejnm_v8i3003), pp. 463–464. See [Segoe UI](ref:segoe-ui-typeface)."
+  ],
+  "observed": [
+    "Letters are open and round with wide apertures: the a, e, and c curl in only slightly.",
+    "The a is double-storey; the g is single-storey; the i has a square dot.",
+    "The large lowercase x-height makes the specimen’s lowercase nearly as tall as the capitals.",
+    "The specimen shows the airport phrase “Accès aux avions” in gray."
+  ],
+  "interpretation": [
+    "The link to the style is typological, not literal: the era’s interfaces used humanist sans-serifs with the same openness and warmth, and Frutiger stands for that family in the name."
+  ],
+  "borrow": [
+    "Pair glossy surfaces with an open humanist sans-serif, not a geometric or grotesque one. The warmth of the letters carries the “friendly technology” tone."
+  ],
+  "images": [
+    {
+      "file": "assets/references/frutiger-typeface-1976.png",
+      "alt": "Type specimen of Frutiger: the name in bold, “Aa Ee Rr” in regular and bold, a large white lowercase a, “Accès aux avions” in gray, and the lowercase alphabet and figures on a yellow band.",
+      "width": 960,
+      "height": 1135,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Frutiger specimen by GearedBull, 2006, released into the public domain. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FrutigerSpec-1.svg), rendered from SVG to PNG by Wikimedia.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/FrutigerSpec-1.svg/960px-FrutigerSpec-1.svg.png",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Specimen released into the public domain by its author (PD-user, GearedBull) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:FrutigerSpec-1.svg). Letterform designs are not copyrightable in the United States; the Frutiger name and font software belong to their owners."
+  },
+  "identifiers": {
+    "wikidata": "Q915886",
+    "commons": "File:FrutigerSpec-1.svg"
+  }
+}

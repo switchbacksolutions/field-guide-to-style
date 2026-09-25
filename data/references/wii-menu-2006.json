@@ -1,0 +1,62 @@
+{
+  "id": "wii-menu-2006",
+  "title": "Wii Menu",
+  "type": "product",
+  "medium": "software",
+  "lede": "Nintendo’s console home screen: a grid of rounded “channel” tiles on white, with pale-blue curves and round glossy buttons.",
+  "summary": "Rounded white channel tiles and pale-blue curves. Nintendo Wii system menu, 2006.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Wii#Wii_Menu",
+    "label": "Wikipedia: Wii, section “Wii Menu”"
+  },
+  "creator": {
+    "name": "Nintendo (development led by Takashi Aoyama, Integrated Research & Development Division)",
+    "url": "https://www.nintendo.com/"
+  },
+  "made": "2006 (the Wii launched in the United States on November 19, 2006)",
+  "moods": [
+    "friendly",
+    "clean",
+    "airy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the non-free 420 × 236 screenshot [File:Wiimen.png](https://en.wikipedia.org/wiki/File:Wiimen.png) (Wii Menu after a system update) in a scratchpad copy. Not stored. The console was not used."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "Wikipedia and Avcı both name the Wii among the consoles that used the style; the menu shows its white, rounded, pale-blue side.",
+      "basis": "agent",
+      "qualifier": "white variant"
+    }
+  ],
+  "context": [
+    "The Wii Menu was the Wii’s main interface. Development was led by Takashi Aoyama; the “channels” concept presented applications like a row of televisions in an electronics shop. The Wii launched with six channels, including the Forecast and News channels. [Wikipedia: Wii](https://en.wikipedia.org/wiki/Wii#Wii_Menu).",
+    "Wikipedia names “video game consoles such as the Wii” among the media that used Frutiger Aero. [Wikipedia: Frutiger Aero](https://en.wikipedia.org/wiki/Frutiger_Aero). Avcı lists the Nintendo Wii with the PlayStation 3 and Xbox 360 as examples. [Avcı 2024, “Physical reflections of digital aesthetics”](https://doi.org/10.17932/IAU.EJNM.25480200.2024/ejnm_v8i3003), p. 461.",
+    "Dazed describes parents playing “virtual tennis on Wii Sports” as part of the era’s setting. [Holliday, Dazed, 2023](https://www.dazeddigital.com/life-culture/article/58103/1/what-is-frutiger-aero-aesthetic-tiktok-msn-messenger-windows-vista-noughties)."
+  ],
+  "observed": [
+    "Twelve rounded-rectangle tiles fill a light gray-white grid; empty tiles carry a faint embossed “Wii” mark.",
+    "The Forecast Channel tile is a saturated blue gradient; the News Channel tile is green with a globe.",
+    "A curved, pale-blue line separates the grid from a lower bar that holds a thin digital clock and the date.",
+    "Two round buttons sit at the lower corners: a “Wii” button and a mail envelope, each with a pale-blue rim."
+  ],
+  "interpretation": [
+    "This is Frutiger Aero at its lightest: white and pale blue instead of deep glass, with gloss reduced to rims and tiles. It shows that the style can be calm and domestic, not only showy."
+  ],
+  "borrow": [
+    "Use a white field with one curved pale-blue divider line to separate content from controls.",
+    "Make secondary actions round buttons with a colored rim and a soft inner highlight."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Nintendo software; copyrighted. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q10898121"
+  }
+}

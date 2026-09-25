@@ -1,0 +1,75 @@
+{
+  "id": "kde-plasma-4-desktop",
+  "title": "KDE Plasma 4 desktop",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "Free-software desktop of the late 2000s with glassy widgets, glowing bubbles on teal, and a wallpaper of wet grass.",
+  "summary": "Translucent widgets, teal bubble wallpaper, dew on grass. KDE, 2008 onward.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/KDE_Plasma_4",
+    "label": "Wikipedia: KDE Plasma 4"
+  },
+  "creator": {
+    "name": "KDE",
+    "url": "https://kde.org/"
+  },
+  "made": "2008 (KDE 4.0, January 2008); screenshot 2011",
+  "moods": [
+    "glossy",
+    "aquatic",
+    "fresh"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the GPL-licensed screenshot [File:Plasma Workspaces.png](https://commons.wikimedia.org/wiki/File:Plasma_Workspaces.png) (1652 × 996, 2011) and stored a 1600 px copy."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "Wikipedia uses this screenshot as its lead example of the style: glass widgets, bubbles, water drops, and grass.",
+      "basis": "agent",
+      "qualifier": "lead example on Wikipedia"
+    }
+  ],
+  "context": [
+    "KDE Plasma 4 is the fourth generation of KDE’s workspaces (desktop, netbook, and tablet). KDE 4.0 was released in January 2008. From KDE 4.3 the default Air theme “predominates in transparency and white.” [Wikipedia: KDE Plasma 4](https://en.wikipedia.org/wiki/KDE_Plasma_4).",
+    "The lead image of the Wikipedia Frutiger Aero article is this screenshot, captioned: many interfaces from the 2000s “exemplify the Frutiger Aero style.” [Wikipedia: Frutiger Aero](https://en.wikipedia.org/wiki/Frutiger_Aero).",
+    "The screenshot comes from a KDE developer’s blog post of March 2011 ([notmart.org](http://notmart.org/blog/2011/03/towards_a_declarative_plasma_co/))."
+  ],
+  "observed": [
+    "A teal-to-dark-cyan wallpaper holds glowing, translucent bubbles and rings.",
+    "An image-viewer window shows a photograph of green grass blades covered in water drops.",
+    "Widgets (weather, contacts, launchers) are semi-transparent dark panels with rounded corners, soft glows, and glossy icons.",
+    "A tablet-style shell uses a magenta-to-orange gradient with large white rounded-square buttons."
+  ],
+  "interpretation": [
+    "This is the style outside Microsoft and Apple: an open-source desktop reaching for the same glass, water, and dew imagery. It shows the look was a period consensus, not one company’s brand."
+  ],
+  "borrow": [
+    "Put small content panels on a dark translucent fill with a 1 px light edge and rounded corners.",
+    "Use soft out-of-focus bubbles or rings as background texture instead of noise or patterns."
+  ],
+  "images": [
+    {
+      "file": "assets/references/kde-plasma-4-desktop.jpg",
+      "alt": "Composite screenshot of KDE Plasma 4: a teal desktop with glowing bubbles and app icons, a translucent weather and contacts panel on a magenta gradient, and an image viewer showing wet grass blades.",
+      "width": 1600,
+      "height": 965,
+      "kind": "source-image",
+      "caption": "KDE Plasma Workspaces, 2011, by KDE. GPL. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Plasma_Workspaces.png).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/47/Plasma_Workspaces.png",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "GPL",
+    "statement": "Screenshot by KDE, licensed under the GNU General Public License per [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Plasma_Workspaces.png). The depicted software is free software."
+  },
+  "identifiers": {
+    "wikidata": "Q1138977",
+    "commons": "File:Plasma_Workspaces.png"
+  }
+}

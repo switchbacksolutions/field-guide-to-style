@@ -1,0 +1,62 @@
+{
+  "id": "mac-os-x-aqua-interface",
+  "title": "Mac OS X Aqua interface",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "Apple’s water-themed interface: gel buttons, droplet controls, and reflective surfaces that set up the gloss of the later style.",
+  "summary": "Gel buttons, translucent droplets, and a reflective Dock. Apple, 2000 onward.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Aqua_(user_interface)",
+    "label": "Wikipedia: Aqua (user interface)"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "Introduced January 2000; first released July 2000 with iMovie 2 and in Mac OS X 10.0 in 2001",
+  "moods": [
+    "glossy",
+    "liquid",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected two non-free screenshots in scratchpad copies: [File:Macosxpb.png](https://en.wikipedia.org/wiki/File:Macosxpb.png) (Mac OS X Public Beta, 365 × 273) and [File:Leopard Desktop.png](https://en.wikipedia.org/wiki/File:Leopard_Desktop.png) (Mac OS X Leopard, 800 × 500). Not stored."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "Aqua introduced the water-like, glossy, translucent controls that Frutiger Aero inherits; it is a precursor more than a full example.",
+      "basis": "agent",
+      "qualifier": "precursor"
+    }
+  ],
+  "context": [
+    "Aqua “was themed to replicate water, with ‘droplet-like’ components and a heavy use of reflective effects and translucency.” It was introduced at Macworld in January 2000, first shipped with iMovie 2 in July 2000, and with Mac OS X 10.0 the following year. [Wikipedia: Aqua](https://en.wikipedia.org/wiki/Aqua_(user_interface)).",
+    "Before OS X Yosemite (2014), most Aqua controls had a “glass” or “gel” effect. Apple moved to flat design in 2013. [Wikipedia: Aqua](https://en.wikipedia.org/wiki/Aqua_(user_interface)).",
+    "CARI lists “Aqua” as an alternate name for Frutiger Aero. [CARI: Frutiger Aero](https://cari.institute/aesthetics/frutiger-aero)."
+  ],
+  "observed": [
+    "Public Beta (2000): windows have pinstriped gray bars, red, yellow, and green gel buttons, and translucent blue highlighted menu items.",
+    "Public Beta: the Dock at the bottom holds glossy, shaded icons on a translucent strip.",
+    "Leopard (2007): the desktop picture is a magenta and violet aurora with stars; the Dock is a reflective glass shelf with icons mirrored below.",
+    "Leopard: window chrome is gray and brushed rather than pinstriped; blue folder icons are soft and rounded."
+  ],
+  "interpretation": [
+    "Aqua supplies the gloss, gel, and reflection. Frutiger Aero adds bright daylight nature imagery and humanist type to that surface. Leopard’s aurora picture shows the two converging by 2007."
+  ],
+  "borrow": [
+    "Use a floor reflection under a row of icons to suggest a glass shelf.",
+    "Give small status buttons a gel look: saturated color, a white highlight, and a dark rim."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple software; copyrighted. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q622898"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "poste-italiane-agenzia-62-iosa-ghini-2007",
+  "title": "Poste Italiane Agenzia 62, Rome",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "A “post office of the future” with backlit frosted glass, curved white columns, cool blue light, and touch screens.",
+  "summary": "Backlit glass, curved white forms, and blue light in a post office interior. Massimo Iosa Ghini, 2007.",
+  "source": {
+    "url": "https://www.archilovers.com/projects/16766/poste-italiane-design-massimo-iosa-ghini.html",
+    "label": "Archilovers: Poste Italiane design Massimo Iosa Ghini"
+  },
+  "creator": {
+    "name": "Massimo Iosa Ghini (Iosa Ghini Associati)",
+    "url": "https://www.wikidata.org/wiki/Q3851301"
+  },
+  "made": "2007",
+  "moods": [
+    "luminous",
+    "clean",
+    "technological"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected three project photographs on the Archilovers page in scratchpad copies (self-service area, payment kiosks, ATM wall). Not stored."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "Avcı names it “one of the successful examples” of Frutiger Aero’s color and texture effects in a physical interior.",
+      "basis": "agent",
+      "qualifier": "interior"
+    }
+  ],
+  "context": [
+    "Agenzia 62 of Poste Italiane, inside the Sapienza university campus in Rome, was designed by Massimo Iosa Ghini’s studio as the first “new generation” post office, with new signage, interactive panels, and a self-service area. Archilovers lists the project year as 2007. [Archilovers](https://www.archilovers.com/projects/16766/poste-italiane-design-massimo-iosa-ghini.html); [Domus, 2008](https://www.domusweb.it/it/notizie/2008/10/27/le-poste-italiane-si-rinnovano.html).",
+    "Avcı describes “transparent and glossy surfaces, with curved forms throughout the space,” concealed LED lighting, curved glass panels with circular halftone patterns, and the brand colors blue, yellow, and green. [Avcı 2024, “Physical reflections of digital aesthetics”](https://doi.org/10.17932/IAU.EJNM.25480200.2024/ejnm_v8i3003), p. 471."
+  ],
+  "observed": [
+    "Walls are frosted glass panels lit from behind in pale cyan and white.",
+    "White columns and wall edges are molded into soft, wavy curves.",
+    "Round recessed ceiling lights and a long oval light cove glow over a pale floor.",
+    "Yellow self-service kiosks with blue screens and a tall blue sign panel give saturated accents against white and cyan."
+  ],
+  "interpretation": [
+    "The interior translates interface glass into building materials: backlit translucent panels play the part of Aero glass, and touch screens make the link to software literal."
+  ],
+  "borrow": [
+    "On screen, a translucent panel lit from behind (white-to-cyan glow, no hard border) reads like this backlit glass.",
+    "Let one saturated brand color act as an accent on an otherwise white and cyan field."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Photographs on Archilovers belong to their authors or the studio; the design belongs to its owners. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata-creator": "Q3851301"
+  }
+}
