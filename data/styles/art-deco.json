@@ -1,0 +1,211 @@
+{
+  "id": "art-deco",
+  "title": "Art Deco",
+  "order": 7,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Deco",
+    "Style Moderne",
+    "Art Moderne",
+    "Jazz Modern"
+  ],
+  "summary": "Stepped forms, sunbursts, and spaced capitals in metal on dark lacquer. Modern luxury from the 1920s.",
+  "lede": "The decorative style named after the 1925 Paris Exposition internationale des arts décoratifs et industriels modernes: geometric and stylized ornament, symmetry, stepped and radiating forms, and luxurious or new materials such as ebony, lacquer, chrome, and gold leaf, applied to everything from skyscrapers to jewelry.",
+  "moods": [
+    "glamorous",
+    "luxurious",
+    "geometric",
+    "formal",
+    "optimistic"
+  ],
+  "era": {
+    "from": 1910,
+    "to": 1939,
+    "note": "Wikipedia: first appeared in Paris in the 1910s and flourished internationally from the 1920s to the early 1930s. It lost its dominance after the outbreak of World War II. The term Art Deco came into print only in 1966."
+  },
+  "regions": [
+    "France",
+    "United States",
+    "Belgium",
+    "Austria",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q173782",
+    "aat": "300021426"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Art Deco",
+      "url": "https://en.wikipedia.org/wiki/Art_Deco",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Wikidata: Art Deco (Q173782)",
+      "url": "https://www.wikidata.org/wiki/Q173782",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Getty Art & Architecture Thesaurus: Art Deco (300021426)",
+      "url": "https://vocab.getty.edu/page/aat/300021426",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Encyclopaedia Britannica: Art Deco",
+      "url": "https://www.britannica.com/art/Art-Deco",
+      "checked": "2026-09-25"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "reaction-against",
+      "label": "Art Nouveau",
+      "wikidata": "Q34636",
+      "note": "Wikipedia: in architecture, Art Deco was the successor to, and a reaction against, Art Nouveau. Wikidata records Art Nouveau as the style that Art Deco follows."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Vienna Secession",
+      "note": "Wikipedia: Art Deco has its origin in the geometric forms of the Vienna Secession. Josef Hoffmann’s Stoclet Palace (1905–1911) is named as a prototype, with symmetry, straight lines, and lavish ornament."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Cubism",
+      "wikidata": "Q42934",
+      "note": "Wikipedia names Cubism as a source of the bold geometric forms. Wikidata lists Cubism under “influenced by”."
+    },
+    {
+      "relation": "related-to",
+      "label": "Streamline Moderne",
+      "wikidata": "Q928960",
+      "note": "Wikipedia describes Streamline Moderne as a 1930s form of Art Deco with curving forms, long horizontal lines, and polished surfaces."
+    },
+    {
+      "relation": "related-to",
+      "style": "bauhaus",
+      "note": "Contemporaries. The 1966 Paris exhibition that brought the term into print covered Art Deco, Bauhaus, and De Stijl together. Interpretation: both use geometry, but Bauhaus work drops the luxury ornament that Art Deco keeps."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Symmetry and stepped forms.",
+      "text": "Compositions are symmetrical about a central axis. Outlines step back in tiers, like a ziggurat or a setback skyscraper."
+    },
+    {
+      "facet": "imagery",
+      "term": "Sunbursts, chevrons, and zigzags.",
+      "text": "Radiating rays, fans, chevrons, and zigzags repeat as ornament. Figures, flowers, and machines appear in stylized, geometric form."
+    },
+    {
+      "facet": "type",
+      "term": "Spaced geometric capitals.",
+      "text": "Headings and labels use capitals with wide letter spacing. Letters are geometric, condensed, or high in contrast."
+    },
+    {
+      "facet": "color",
+      "term": "Metal on dark ground.",
+      "text": "Gold, brass, silver, and chrome against black lacquer, ebony, or deep jewel tones, with ivory for relief. Early Deco also used the bright colors of the Fauves and the Ballets Russes."
+    },
+    {
+      "facet": "surface",
+      "term": "Luxury and new materials.",
+      "text": "Ebony, ivory, lacquer, mother of pearl, and gold leaf, alongside chrome, stainless steel, and bakelite. Surfaces are polished and edges are crisp."
+    },
+    {
+      "facet": "layout",
+      "term": "Framed and centered.",
+      "text": "Content sits in frames of thin parallel rules and stepped corners. Text blocks center on the axis."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "A sunburst, fan, chevron, or zigzag repeats as ornament.",
+      "Outlines or borders step back in tiers.",
+      "The composition is symmetrical about a central axis.",
+      "Headings are capitals with wide letter spacing.",
+      "Gold, brass, or chrome appears against black or a deep jewel tone."
+    ],
+    "counter": [
+      "Whiplash curves, organic tendrils, or flowing plant forms without geometry.",
+      "Asymmetric montage with no ornament.",
+      "Soft rounded cards, pastel gradients, or glossy highlights.",
+      "Deliberately raw or default styling."
+    ],
+    "confusions": [
+      {
+        "with": "Art Nouveau",
+        "difference": "Art Nouveau uses flowing, asymmetric plant curves and whiplash lines. Art Deco stylizes the same subjects into symmetrical geometry, rays, and steps."
+      },
+      {
+        "with": "bauhaus",
+        "difference": "Both are geometric, but Bauhaus is asymmetric, unornamented, and uses flat primary colors. Art Deco is symmetrical, ornamental, and metallic."
+      },
+      {
+        "with": "Streamline Moderne",
+        "difference": "Streamline Moderne replaces steps and rays with rounded corners and long horizontal speed lines. Treat it as a late branch, not the core style."
+      },
+      {
+        "with": "memphis",
+        "difference": "Memphis also repeats geometric patterns, but its colors clash and its shapes are playful and irregular. Art Deco patterns are regular and its palette is restrained and metallic."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a near-black or deep jewel-tone ground with one metallic gold accent and ivory text.",
+      "Center headings, ledes, and key blocks on one vertical axis.",
+      "Set headings and labels in capitals with letter spacing of 0.1em or more.",
+      "Frame sections with thin double or parallel rules in the accent color.",
+      "Add one sunburst, fan, or chevron field as a repeated ornament, for example behind the hero.",
+      "Give frames and buttons stepped or chamfered corners."
+    ],
+    "dont": [
+      "Do not use rounded corners, soft shadows, or glass effects.",
+      "Do not use more than one strong hue in addition to the metallic accent.",
+      "Do not use flowing plant curves. That points to Art Nouveau.",
+      "Do not lay out the page asymmetrically. Keep the central axis.",
+      "Do not use ornament at random. Each ornament repeats in a regular rhythm."
+    ],
+    "uses": [
+      "Hotels, bars, and restaurants",
+      "Theatres and cinemas",
+      "Jewelry, fashion, and perfume",
+      "Event invitations and galas"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "type.headingTracking",
+      "min": 0.06,
+      "note": "Headings are spaced capitals. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "min": 0.2,
+      "note": "Capitals carry headings, labels, and buttons. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.centerShare",
+      "min": 0.3,
+      "note": "Symmetry about a central axis centers much of the text. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.03,
+      "note": "A repeated sunburst or chevron field is present. Provisional: many real sites draw ornament as SVG or images, which this metric does not count."
+    },
+    {
+      "metric": "color.accentChroma",
+      "min": 0.3,
+      "max": 0.6,
+      "note": "A metallic gold or brass accent is present, at lower chroma than primary or neon colors. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Corners are square, stepped, or chamfered, not rounded. Provisional: set from the specimen."
+    }
+  ]
+}

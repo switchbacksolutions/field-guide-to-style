@@ -1,0 +1,82 @@
+{
+  "$description": "Authored tokens for art-deco. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": { "$value": "#101418", "$description": "Black lacquer with a trace of blue." },
+    "surface": { "$value": "#161c22" },
+    "subtle": { "$value": "#1f2830" },
+    "text": { "$value": "#f1e8d4", "$description": "Ivory." },
+    "muted": { "$value": "#b9ad94" },
+    "border": { "$value": "#c9a24a" },
+    "primary": { "$value": "#c9a24a", "$description": "Gold leaf and brass." },
+    "on-primary": { "$value": "#101418" },
+    "secondary": { "$value": "#1d5c50", "$description": "Deep jade, the one jewel tone." },
+    "on-secondary": { "$value": "#f1e8d4" },
+    "accent": { "$value": "#e0c67a", "$description": "Light gold for highlights on the rays." },
+    "on-accent": { "$value": "#101418" }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": { "$value": ["Futura", "Avenir Next Condensed", "Gill Sans", "Century Gothic", "sans-serif"] },
+    "body": { "$value": ["Gill Sans", "Avenir Next", "Futura", "Trebuchet MS", "sans-serif"] },
+    "mono": { "$value": ["Futura", "Gill Sans", "Century Gothic", "sans-serif"] }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": { "$value": 400 },
+    "bold": { "$value": 500 },
+    "display": { "$value": 500 }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": { "$value": "12px" },
+    "sm": { "$value": "14px" },
+    "base": { "$value": "17px" },
+    "lg": { "$value": "20px" },
+    "xl": { "$value": "26px" },
+    "2xl": { "$value": "34px" },
+    "3xl": { "$value": "46px" },
+    "4xl": { "$value": "64px" },
+    "5xl": { "$value": "88px" }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": { "$value": 1.05 },
+    "body": { "$value": 1.6 }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": { "$value": 0.12, "$extensions": { "style-inspiration": { "unit": "em" } } },
+    "heading": { "$value": 0.16, "$extensions": { "style-inspiration": { "unit": "em" } } },
+    "label": { "$value": 0.24, "$extensions": { "style-inspiration": { "unit": "em" } } }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": { "$value": "0px" },
+    "sm": { "$value": "0px" },
+    "md": { "$value": "0px" },
+    "lg": { "$value": "0px" },
+    "pill": { "$value": "0px" }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": { "$value": "1px" },
+    "thick": { "$value": "3px" }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": { "$value": "6px" },
+    "sm": { "$value": "12px" },
+    "md": { "$value": "24px" },
+    "lg": { "$value": "40px" },
+    "xl": { "$value": "72px" },
+    "2xl": { "$value": "112px" }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": { "$value": { "fontFamily": "{font.display}", "fontSize": "{text.5xl}", "fontWeight": "{font-weight.display}", "lineHeight": "{leading.tight}", "letterSpacing": "{tracking.display}" } },
+    "heading": { "$value": { "fontFamily": "{font.display}", "fontSize": "{text.2xl}", "fontWeight": "{font-weight.bold}", "lineHeight": "{leading.tight}", "letterSpacing": "{tracking.heading}" } },
+    "body": { "$value": { "fontFamily": "{font.body}", "fontSize": "{text.base}", "fontWeight": "{font-weight.regular}", "lineHeight": "{leading.body}" } },
+    "label": { "$value": { "fontFamily": "{font.mono}", "fontSize": "{text.xs}", "fontWeight": "{font-weight.regular}", "lineHeight": "{leading.body}", "letterSpacing": "{tracking.label}" } }
+  }
+}

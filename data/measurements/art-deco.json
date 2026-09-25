@@ -1,0 +1,149 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/art-deco/index.html",
+  "title": "Art Deco specimen · Style inspiration",
+  "captured": "2026-09-25T16:19:26.970Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Gill Sans",
+        "share": 0.59
+      },
+      {
+        "family": "Futura",
+        "share": 0.39
+      },
+      {
+        "family": "monospace",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 88,
+    "sizeRange": 5.18,
+    "scaleRatio": 1.31,
+    "headingWeight": 500,
+    "bodyWeight": 400,
+    "headingTracking": 0.12,
+    "uppercaseShare": 0.31,
+    "monoShare": 0.02,
+    "centerShare": 1
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#101418",
+        "share": 0.75
+      },
+      {
+        "hex": "#f1e8d4",
+        "share": 0.119
+      },
+      {
+        "hex": "#1d5c50",
+        "share": 0.089
+      },
+      {
+        "hex": "#c9a24a",
+        "share": 0.021
+      },
+      {
+        "hex": "#b9ad94",
+        "share": 0.018
+      },
+      {
+        "hex": "#e0c67a",
+        "share": 0.003
+      }
+    ],
+    "background": "#101418",
+    "text": "#f1e8d4",
+    "contrast": 15.2,
+    "chroma": 0.07,
+    "lightness": 0.21,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.48,
+    "distinct": 4,
+    "hues": 1,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0.2
+  },
+  "surface": {
+    "boxes": 40,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.88,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.03,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#101318",
+        "share": 0.696
+      },
+      {
+        "hex": "#1f2831",
+        "share": 0.228
+      },
+      {
+        "hex": "#f1e9d5",
+        "share": 0.016
+      },
+      {
+        "hex": "#5b5241",
+        "share": 0.011
+      },
+      {
+        "hex": "#c8a24c",
+        "share": 0.01
+      },
+      {
+        "hex": "#7f7254",
+        "share": 0.007
+      },
+      {
+        "hex": "#2e2e29",
+        "share": 0.007
+      },
+      {
+        "hex": "#44423b",
+        "share": 0.006
+      },
+      {
+        "hex": "#8e8c84",
+        "share": 0.006
+      },
+      {
+        "hex": "#bbb7ab",
+        "share": 0.005
+      }
+    ],
+    "background": "#101318",
+    "chroma": 0.05,
+    "lightness": 0.13,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.49,
+    "distinct": 2,
+    "hues": 1
+  }
+}
