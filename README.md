@@ -1,6 +1,6 @@
-# Style inspiration
+# A Field Guide to Style
 
-A catalogue of visual styles that cross-references websites with print, product, and graphic design. People browse it as a mood board. Agents read it as structured data, with tokens and framework files for each style.
+A catalogue of visual styles that cross-references websites with print, product, and graphic design. People browse it as a mood board. Agents read it as structured data, with tokens and framework files for each style. A Switchback product.
 
 Open [index.html](index.html) in a browser. Browsing needs no build, install, server, or network connection.
 

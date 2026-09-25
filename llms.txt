@@ -1,4 +1,4 @@
-# Style inspiration
+# A Field Guide to Style
 
 > A knowledge hub for visual styles, moods, websites, products, printed works, and objects. Each style has a definition, lineage, a classification rubric, rules for implementation, and, when available, design tokens and framework files.
 
