@@ -1,0 +1,77 @@
+{
+  "id": "univers-typeface",
+  "title": "Univers typeface",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "Adrian Frutiger’s 1957 grotesque, planned from the start as one matched system of weights and widths.",
+  "summary": "Adrian Frutiger for Deberny & Peignot, 1957. A numbered, matched family of neo-grotesque styles.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Univers",
+    "label": "Wikipedia: Univers"
+  },
+  "creator": {
+    "name": "Adrian Frutiger, for Deberny & Peignot",
+    "url": "https://www.wikidata.org/wiki/Q123621"
+  },
+  "made": "1957",
+  "moods": [
+    "systematic",
+    "neutral",
+    "precise",
+    "clear"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected and stored the public-domain digital specimen [File:Univers Specimen.svg](https://commons.wikimedia.org/wiki/File:Univers_Specimen.svg), rendered by Wikimedia at 960 px."
+  },
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "A neo-grotesque built as a consistent family; Wikipedia links its matched range to the Swiss-style wish for neutral type.",
+      "basis": "agent",
+      "qualifier": "core typeface"
+    }
+  ],
+  "context": [
+    "Univers was designed by Adrian Frutiger and released by Deberny & Peignot in 1957. It was available from launch in a wide range of weights and widths, and its marketing referred to the periodic table. [Wikipedia: Univers](https://en.wikipedia.org/wiki/Univers).",
+    "Wikipedia says the matched range allowed a whole document to be set in one consistent sans-serif, which suited Swiss-style practitioners who wanted neutral type. The design was planned for phototypesetting but also cast in metal. [Wikipedia](https://en.wikipedia.org/wiki/Univers).",
+    "Emil Ruder devoted the January 1961 issue of *Typographische Monatsblätter* to Univers, according to its [Commons file description](https://commons.wikimedia.org/wiki/File:TM_Typographische_Monatsbl%C3%A4tter_1961_01.jpg). See [Typographie](ref:typographie-emil-ruder-1967)."
+  ],
+  "observed": [
+    "Stroke ends are cut horizontally, and curves thin slightly where they join stems, for example in the n and the a.",
+    "The large white a has a straight, vertical stem and a bowl that meets it with a visible taper.",
+    "The italic is an oblique form of the roman, not a separate cursive design.",
+    "The bold “Ausstellung” in red keeps the same proportions as the regular letters."
+  ],
+  "interpretation": [
+    "Univers makes the style’s systematic thinking visible inside the type family itself: weights and widths are coordinates in a grid, not separate faces with their own characters."
+  ],
+  "borrow": [
+    "Define type styles as a numbered system (weight × width) and use only the cells you need. It keeps hierarchy consistent across a long document.",
+    "Related: Frutiger’s later humanist design, [Frutiger](ref:frutiger-typeface-1976)."
+  ],
+  "images": [
+    {
+      "file": "assets/references/univers-typeface.png",
+      "alt": "Type specimen of Univers: the name in dark gray, “Aa Ee Rr” in roman and oblique, a large white lowercase a, the word “Ausstellung” in bold red, and the lowercase alphabet and figures on a red band.",
+      "width": 960,
+      "height": 1135,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Univers specimen by Sherbyte, 2010, released into the public domain. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Univers_Specimen.svg), rendered from SVG to PNG by Wikimedia.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Univers_Specimen.svg/960px-Univers_Specimen.svg.png",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Released into the public domain by its author (PD-self, Sherbyte) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Univers_Specimen.svg). Letterform designs are not copyrightable in the United States. Univers is a trademark; the name and font software belong to their owners."
+  },
+  "identifiers": {
+    "wikidata": "Q1065215",
+    "commons": "File:Univers_Specimen.svg"
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25"
+}

@@ -1,0 +1,70 @@
+{
+  "id": "neue-grafik-journal-1958-1965",
+  "title": "Neue Grafik journal",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "The trilingual Zürich journal that stated the style’s principles and printed them as a four-column grid on every cover.",
+  "summary": "Neue Grafik / New Graphic Design / Graphisme actuel, 18 issues, 1958–1965.",
+  "source": {
+    "url": "https://www.emuseum.ch/objects/23096",
+    "label": "eMuseum, Museum für Gestaltung Zürich: Neue Grafik no. 1"
+  },
+  "creator": {
+    "name": "Richard Paul Lohse, Josef Müller-Brockmann, Hans Neuburg, and Carlo Vivarelli (editors); cover design Carlo Vivarelli",
+    "url": "https://www.wikidata.org/wiki/Q3335303"
+  },
+  "made": "1958–1965",
+  "moods": [
+    "rational",
+    "objective",
+    "didactic",
+    "restrained"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the cover scan of issue 16, July 1963 ([File:Neue Grafik July 1963.jpg](https://commons.wikimedia.org/wiki/File:Neue_Grafik_July_1963.jpg), 2953 × 3307 px) to a scratch folder and inspected it. Issue 1 data and description read on eMuseum records 23096 and 44032. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "The style’s own manifesto and showcase; Wikipedia says it disseminated the style’s tenets and was key to its emergence as a movement.",
+      "basis": "agent",
+      "qualifier": "defining publication"
+    }
+  ],
+  "context": [
+    "Neue Grafik was a quarterly founded in Zürich on 15 February 1958 by Josef Müller-Brockmann, Hans Neuburg, Richard Paul Lohse, and Carlo Vivarelli. Eighteen issues appeared from 1958 to 1965. [Wikipedia: Neue Grafik](https://en.wikipedia.org/wiki/Neue_Grafik).",
+    "Issue 1, September 1958: letterpress, 28 × 24.8 cm, 75 pages, published and printed by Verlag Otto Walter AG, Olten; cover design Carlo Vivarelli. [eMuseum object 23096](https://www.emuseum.ch/objects/23096), [cover, object 44032](https://www.emuseum.ch/objects/44032).",
+    "The eMuseum description of issue 1 notes Akzidenz Grotesk for the headings and Monotype 215 for the texts, and a cover of four columns in which only the issue number changes. [eMuseum object 44032](https://www.emuseum.ch/objects/44032).",
+    "Wikipedia notes the journal’s advocacy of photography as a central element of graphic design, and criticism in Zürich that the style was rigid and cold. [Wikipedia](https://en.wikipedia.org/wiki/Neue_Grafik)."
+  ],
+  "observed": [
+    "Issue 16 cover: the three-language title stacks in three lines of large black grotesque at top left, tightly spaced.",
+    "Below the title, the page divides into four columns: contributors’ names in the first, then German, English, and French contents in parallel.",
+    "The issue number “16” is the only other large element, set in the first column at the same size as the title.",
+    "Everything is black on white and flush left; there are no rules, images, or color.",
+    "Large empty bands separate the title, the subtitle row, and the contents."
+  ],
+  "interpretation": [
+    "The cover is a table of contents made into a composition. It demonstrates the style’s claim that correct organization of information is itself the design.",
+    "The fixed template, with only the number changing, treats the journal as a system rather than a series of individual covers."
+  ],
+  "borrow": [
+    "Use parallel columns for parallel languages or versions, aligned line for line.",
+    "Design a fixed cover or page template where a single variable, such as a number or date, carries the change.",
+    "Let the table of contents be the hero of an index page."
+  ],
+  "related": "Published by the editors of [Der Film](ref:der-film-poster-1960) and set in [Akzidenz-Grotesk](ref:akzidenz-grotesk-typeface).",
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Wikimedia Commons marks its cover scan PD-textlogo; this catalogue does not rely on that claim. The journal remains in copyright; no image is stored."
+  },
+  "identifiers": {
+    "wikidata": "Q24525464",
+    "emuseum": "23096",
+    "commons": "File:Neue_Grafik_July_1963.jpg"
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25"
+}

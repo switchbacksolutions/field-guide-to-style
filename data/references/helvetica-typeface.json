@@ -1,0 +1,78 @@
+{
+  "id": "helvetica-typeface",
+  "title": "Helvetica typeface",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "Neue Haas Grotesk, renamed Helvetica: a denser, smoother Akzidenz for the Swiss market that became the style’s best-known letter.",
+  "summary": "Max Miedinger and Eduard Hoffmann, Haas Type Foundry, 1956–1957; renamed Helvetica for Linotype.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Helvetica",
+    "label": "Wikipedia: Helvetica"
+  },
+  "creator": {
+    "name": "Max Miedinger, under the direction of Eduard Hoffmann (Haas Type Foundry)",
+    "url": "https://www.wikidata.org/wiki/Q118270"
+  },
+  "made": "1956–1957 (as Neue Haas Grotesk); adapted for Linotype and renamed Helvetica in 1959, per Wikipedia",
+  "moods": [
+    "neutral",
+    "dense",
+    "clear",
+    "corporate"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected and stored the public-domain raster specimen [File:HelveticaSpecimenCH.png](https://commons.wikimedia.org/wiki/File:HelveticaSpecimenCH.png). It shows a digital Helvetica, not the 1957 metal type."
+  },
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "Wikipedia calls it a hallmark of the International Typographic Style, and the style file lists it among the core grotesques.",
+      "basis": "agent",
+      "qualifier": "core typeface"
+    }
+  ],
+  "context": [
+    "Helvetica was designed in 1956–1957 by Max Miedinger under the direction of Eduard Hoffmann of the Haas Type Foundry in Münchenstein, near Basel, as Neue Haas Grotesk. It is based chiefly on [Akzidenz-Grotesk](ref:akzidenz-grotesk-typeface), and Haas developed it to compete with that face in Switzerland. [Wikipedia: Helvetica](https://en.wikipedia.org/wiki/Helvetica).",
+    "It was adapted for Linotype machines and renamed Helvetica, Latin for Swiss, at Hoffmann’s suggestion. Wikipedia dates the adaptation and renaming to 1959. [Wikipedia](https://en.wikipedia.org/wiki/Helvetica).",
+    "Wikipedia describes a high x-height, strokes that end on horizontals or verticals, and tight spacing. It calls the face a hallmark of the International Typographic Style. [Wikipedia](https://en.wikipedia.org/wiki/Helvetica).",
+    "Unimark International used Helvetica widely but not exclusively. [Wikipedia: Unimark International](https://en.wikipedia.org/wiki/Unimark_International). See [NYCTA Graphics Standards Manual](ref:nycta-graphics-standards-manual-1970)."
+  ],
+  "observed": [
+    "Terminals of a, c, e, and s end horizontally, so the counters look closed and the letters look compact.",
+    "The lowercase is tall relative to the capitals; the large white a nearly fills the upper right of the specimen.",
+    "Letters sit close together in the word “Kunstgewerbeschule”, which reads as one dense band.",
+    "The specimen uses gray, black, white, and one red, laid out flush left."
+  ],
+  "interpretation": [
+    "Helvetica is the style’s letter made smooth and even. Compared with Akzidenz-Grotesk, it trades small irregularities for uniform texture, which helped it spread from posters into corporate identity and signage."
+  ],
+  "borrow": [
+    "Set tight but not touching. Horizontal terminals give a solid, closed texture that holds up at large display sizes.",
+    "Use the tall x-height for small text in signage and captions."
+  ],
+  "images": [
+    {
+      "file": "assets/references/helvetica-typeface.png",
+      "alt": "Type specimen of Helvetica: the name in light gray, “Aa Ee Rr” in roman and italic, a large white bold lowercase a, the word “Kunstgewerbeschule” in red, and the lowercase alphabet and figures on a red band.",
+      "width": 1000,
+      "height": 1180,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Helvetica specimen by Dioxaz after a sample by GearedBull, 2006, released into the public domain. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HelveticaSpecimenCH.png).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8f/HelveticaSpecimenCH.png",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Released into the public domain by its author (PD-user, Dioxaz) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:HelveticaSpecimenCH.png). Letterform designs are not copyrightable in the United States. Helvetica is a trademark; the name and font software belong to their owners."
+  },
+  "identifiers": {
+    "wikidata": "Q504745",
+    "commons": "File:HelveticaSpecimenCH.png"
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25"
+}

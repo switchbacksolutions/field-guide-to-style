@@ -1,0 +1,88 @@
+{
+  "id": "akzidenz-grotesk-typeface",
+  "title": "Akzidenz-Grotesk typeface",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "A plain jobbing sans-serif from 1898 that Swiss designers of the 1950s made the voice of the style.",
+  "summary": "Berthold’s 1898 grotesque; the preferred type of Swiss posters in the 1950s and 1960s.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Akzidenz-Grotesk",
+    "label": "Wikipedia: Akzidenz-Grotesk"
+  },
+  "creator": {
+    "name": "H. Berthold AG (Berthold Type Foundry), Berlin"
+  },
+  "made": "1898",
+  "moods": [
+    "neutral",
+    "plain",
+    "sturdy",
+    "objective"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the public-domain digital specimen [File:AkzidenzGroteskspecAIB1.svg](https://commons.wikimedia.org/wiki/File:AkzidenzGroteskspecAIB1.svg), rendered by Wikimedia at 960 px, and the 1905 Berthold advertisement [File:Berthold Sweden advertisement.jpg](https://commons.wikimedia.org/wiki/File:Berthold_Sweden_advertisement.jpg). Both are stored. The specimen shows a modern digital version, not the metal type."
+  },
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "The style file names it first among the grotesques; Wikipedia records it as the preferred type of many Swiss designers in the 1950s and 1960s.",
+      "basis": "agent",
+      "qualifier": "core typeface"
+    }
+  ],
+  "context": [
+    "Akzidenz-Grotesk was released by the Berthold Type Foundry of Berlin in 1898. *Akzidenz* means jobbing work such as publicity, tickets, and forms. [Wikipedia: Akzidenz-Grotesk](https://en.wikipedia.org/wiki/Akzidenz-Grotesk).",
+    "Wikipedia states that it was little known for about fifty years and then became the preferred typeface of many Swiss designers of the post-war International or Swiss style. It was sold as *Standard* in English-speaking countries. [Wikipedia](https://en.wikipedia.org/wiki/Akzidenz-Grotesk).",
+    "The 1905 advertisement shown here offers Royal-Grotesk, which Wikipedia says was later branded as the light weight of Akzidenz-Grotesk. It appeared in the Swedish printing journal *Almänna Svenska Boktryckareföreningens Meddelanden*. [Commons file page](https://commons.wikimedia.org/wiki/File:Berthold_Sweden_advertisement.jpg).",
+    "Josef Müller-Brockmann’s favourite typeface was Akzidenz-Grotesk, according to [Wikipedia: Josef Müller-Brockmann](https://en.wikipedia.org/wiki/Josef_M%C3%BCller-Brockmann). See [Der Film](ref:der-film-poster-1960) and [Neue Grafik](ref:neue-grafik-journal-1958-1965)."
+  ],
+  "observed": [
+    "Specimen: strokes are nearly even in weight, with no serifs and no visible contrast between thick and thin.",
+    "Specimen: terminals on a, e, and s are cut at an angle rather than horizontally; the R has a straight, diagonal leg.",
+    "Specimen: the regular and bold lines show the same letters, so the family reads as one voice in two weights.",
+    "1905 advertisement: the grotesque type sits in small, secondary lines (the agent’s name, the novelty lists) inside a heavy Jugendstil border of bars and squares, below a condensed display face."
+  ],
+  "interpretation": [
+    "The 1905 advertisement shows the type before the style: the same neutral letters, but framed by ornament and centered. The International Typographic Style kept the letters and removed the frame.",
+    "Its value to Swiss designers was its ordinariness. A typeface made for tickets and forms carried no historical or artistic associations."
+  ],
+  "borrow": [
+    "Choose a grotesque with slightly irregular, older proportions when a neo-grotesque feels too smooth. Use two weights of one family and let size do the rest.",
+    "Compare with [Helvetica](ref:helvetica-typeface) and [Univers](ref:univers-typeface), both developed in the 1950s from the same model."
+  ],
+  "images": [
+    {
+      "file": "assets/references/akzidenz-grotesk-typeface.png",
+      "alt": "Type specimen of Akzidenz-Grotesk: the name in bold, “Aa Ee Rr” in regular and bold, a large white lowercase a, the word “Buchdruck” in red, and the lowercase alphabet and figures on a red band.",
+      "width": 960,
+      "height": 1135,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Akzidenz-Grotesk specimen by GearedBull, 2006, released into the public domain. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AkzidenzGroteskspecAIB1.svg), rendered from SVG to PNG by Wikimedia.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/AkzidenzGroteskspecAIB1.svg/960px-AkzidenzGroteskspecAIB1.svg.png",
+      "saved": "2026-09-25"
+    },
+    {
+      "file": "assets/references/akzidenz-grotesk-berthold-advertisement-1905.jpg",
+      "alt": "A 1905 black-and-white advertisement for H. Berthold, Berlin, inside a heavy geometric border of bars and small squares. A condensed display face sets the firm’s name; plain grotesque type sets the Stockholm agent’s name and two lists of new typefaces.",
+      "width": 1600,
+      "height": 1226,
+      "kind": "source-image",
+      "caption": "Berthold advertisement for its Swedish agent Fredr. Wagner, 1905, from *Almänna Svenska Boktryckareföreningens Meddelanden*. Public domain (published 1905). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berthold_Sweden_advertisement.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/53/Berthold_Sweden_advertisement.jpg",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The specimen was released into the public domain by its author (PD-self, GearedBull) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AkzidenzGroteskspecAIB1.svg); letterform designs are not copyrightable in the United States. The 1905 advertisement is marked PD-1923 on [Commons](https://commons.wikimedia.org/wiki/File:Berthold_Sweden_advertisement.jpg). The Akzidenz-Grotesk name and font software belong to their owners."
+  },
+  "identifiers": {
+    "wikidata": "Q424600",
+    "commons": "File:AkzidenzGroteskspecAIB1.svg"
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25"
+}

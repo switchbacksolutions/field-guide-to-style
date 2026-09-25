@@ -1,0 +1,66 @@
+{
+  "id": "munich-1972-olympic-pictograms",
+  "title": "Munich 1972 Olympic pictograms",
+  "type": "object",
+  "medium": "signage",
+  "lede": "Otl Aicher’s sport pictograms: figures drawn only with circles and bars on a 45-degree and 90-degree grid.",
+  "summary": "Otl Aicher and the Munich organizing committee’s visual design department, 1972.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Otl_Aicher",
+    "label": "Wikipedia: Otl Aicher"
+  },
+  "creator": {
+    "name": "Otl Aicher and Abteilung XI für visuelle Gestaltung, Organisationskomitee der XX. Olympischen Spiele München",
+    "url": "https://www.wikidata.org/wiki/Q61191"
+  },
+  "made": "1972",
+  "moods": [
+    "systematic",
+    "clear",
+    "friendly",
+    "rational"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded two CC BY 1.0 photographs by Henning Schlottmann of the pictograms still on site in Munich ([swimming hall](https://commons.wikimedia.org/wiki/File:Olympic_games_1972_pictogramms_swimming_hall_0525.JPG), [Olympiazentrum station](https://commons.wikimedia.org/wiki/File:Olympic_games_1972_pictogramms_olympic_station_0877.JPG)) to a scratch folder and inspected them. Poster data read on eMuseum record 230065. No image is stored."
+  },
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "Aicher applied the style’s grid and objectivity to a wayfinding system; the pictograms are geometry on a fixed angular grid, without illustration.",
+      "basis": "agent",
+      "qualifier": "German extension"
+    }
+  ],
+  "context": [
+    "Otl Aicher co-founded and taught at the Ulm School of Design and led the design team of the 1972 Summer Olympics in Munich, overseeing its system of pictograms. [Wikipedia: Otl Aicher](https://en.wikipedia.org/wiki/Otl_Aicher).",
+    "Wikipedia’s history-of-design article quotes Michael Bierut praising the pictograms for their elegance and clarity. [Wikipedia: History of graphic design](https://en.wikipedia.org/wiki/History_of_graphic_design).",
+    "The Museum für Gestaltung Zürich holds the poster *Piktogramme – München 1972 – Montreal 1976* (concept Otl Aicher; offset, 84 × 59.5 cm, object 33-0114). [eMuseum object 230065](https://www.emuseum.ch/objects/230065)."
+  ],
+  "observed": [
+    "Each sign is a square panel in one flat color (light blue at the swimming hall, green at the station) with a white figure.",
+    "Heads are plain circles detached from the body; limbs and torsos are straight bars with rounded ends.",
+    "Bars run only at vertical, horizontal, and 45-degree angles. The runner’s legs and the footballer’s body are built from the same few angles.",
+    "The football is a white outline circle, the only outlined shape in the two station panels.",
+    "The panels carry no text."
+  ],
+  "interpretation": [
+    "The pictograms extend the style from type to symbols: a small set of parts on a fixed geometric grid produces a large family that stays consistent across sports and sites."
+  ],
+  "borrow": [
+    "Build icons from a restricted kit: one circle size, one bar width, and only 0°, 45°, and 90° angles.",
+    "Separate the head or key element from the body with a gap so shapes read clearly at small size.",
+    "Use one flat background color per zone or category, and white for the symbol."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The pictograms remain in copyright. The Commons photographs are CC BY 1.0 and rely on German freedom of panorama; they show a copyrighted design, so no image is stored."
+  },
+  "identifiers": {
+    "emuseum": "230065",
+    "commons": "Category:1972 Summer Olympics pictograms"
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25"
+}

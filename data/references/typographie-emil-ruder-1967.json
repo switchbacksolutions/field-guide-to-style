@@ -1,0 +1,63 @@
+{
+  "id": "typographie-emil-ruder-1967",
+  "title": "Typographie, by Emil Ruder",
+  "type": "print",
+  "medium": "book",
+  "lede": "The Basel school’s typography textbook, in three languages, with a cover built from blocks of letters.",
+  "summary": "Emil Ruder, Verlag Niggli, 1967. A trilingual design textbook that spread the Swiss style.",
+  "source": {
+    "url": "https://www.emuseum.ch/objects/36839",
+    "label": "eMuseum, Museum für Gestaltung Zürich: L RUDE 1"
+  },
+  "creator": {
+    "name": "Emil Ruder",
+    "url": "https://www.wikidata.org/wiki/Q116848"
+  },
+  "made": "1967 (1st edition)",
+  "moods": [
+    "didactic",
+    "rational",
+    "bold",
+    "restrained"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded a photograph of the dust jacket ([File:Обложка книги Эмиля Рудера «Typographie».jpg](https://commons.wikimedia.org/wiki/File:%D0%9E%D0%B1%D0%BB%D0%BE%D0%B6%D0%BA%D0%B0_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_%D0%AD%D0%BC%D0%B8%D0%BB%D1%8F_%D0%A0%D1%83%D0%B4%D0%B5%D1%80%D0%B0_%C2%ABTypographie%C2%BB.jpg), 884 × 907 px, CC BY-SA 4.0) to a scratch folder and inspected it. Interior pages were not seen. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "Wikipedia says the book helped spread the Swiss style and became a basic text in design programmes in Europe and North America.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "*Typographie: Ein Gestaltungslehrbuch*, 1967 (1st edition; 6th edition 1996). Offset, 28 × 22.3 cm, 220 pages. Published by Verlag Niggli AG, Sulgen; printed by Heer Druck AG. Photography by Werner Blaser, André Gürtler, and Armin Hofmann. [eMuseum object 36839](https://www.emuseum.ch/objects/36839).",
+    "Ruder, born in Zürich in 1914, trained as a typesetter in Basel. The book was published in German, English, and French by Arthur Niggli in 1967. [Wikipedia: Emil Ruder](https://en.wikipedia.org/wiki/Emil_Ruder).",
+    "Ruder also designed covers of *Typographische Monatsblätter*, including the January 1961 issue devoted to [Univers](ref:univers-typeface). [Commons](https://commons.wikimedia.org/wiki/File:TM_Typographische_Monatsbl%C3%A4tter_1961_01.jpg)."
+  ],
+  "observed": [
+    "The square jacket is white with a large black field in which the letters of TYPOGRAPHIE appear white, each in its own black rectangle.",
+    "A very large T fills the right two thirds; Y fills a box above the smaller boxes; PO, GRA, and PHIE sit in a grid of small squares at lower left.",
+    "The small letters are mirrored, as if seen from the back of metal type.",
+    "Author and title appear once more in small plain type at top right, flush with the black field’s right edge.",
+    "There is no color: only black and white."
+  ],
+  "interpretation": [
+    "The cover teaches the book’s lesson: one word divided into modules of different sizes, held by a grid. The mirrored letters point back to the composing room, where Ruder trained."
+  ],
+  "borrow": [
+    "Break one word into grid cells of unequal size to create hierarchy inside a single element.",
+    "Pair a very large display letter with a small, plain title line placed at an edge."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The book and its cover remain in copyright. The Commons photograph is CC BY-SA 4.0 but shows a copyrighted cover, so no image is stored."
+  },
+  "identifiers": {
+    "emuseum": "36839"
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25"
+}

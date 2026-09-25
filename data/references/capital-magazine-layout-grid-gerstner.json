@@ -1,0 +1,75 @@
+{
+  "id": "capital-magazine-layout-grid-gerstner",
+  "title": "Karl Gerstner’s grid for Capital",
+  "type": "image",
+  "medium": "editorial",
+  "lede": "A 58-unit layout grid that divides evenly into two, three, four, five, or six columns.",
+  "summary": "Karl Gerstner’s “mobile” grid for the magazine Capital, c. 1962, published in Designing Programmes (1964).",
+  "source": {
+    "url": "https://ms-studio.net/notes/karl-gerstners-layout-grid/",
+    "label": "Manuel Schmalstieg: Karl Gerstner’s layout grid"
+  },
+  "creator": {
+    "name": "Karl Gerstner",
+    "url": "https://www.wikidata.org/wiki/Q1707424"
+  },
+  "made": "c. 1962 (grid); 1964 (published in Programme entwerfen / Designing Programmes)",
+  "moods": [
+    "systematic",
+    "flexible",
+    "rational",
+    "precise"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Relies on Schmalstieg’s note and the Commons description. The stored image is a 2018 visualization by Manuel Schmalstieg, based on the reproduction in *Designing Programmes*. It is not the original drawing, and no page of *Capital* was seen."
+  },
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "The best-known example of the style’s modular grid used as a flexible program, not a fixed template.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Karl Gerstner designed a layout grid for the German business magazine *Capital* in 1962–1963 and presented it in his book *Designing Programmes*. The grid is based on 58 modules. [Schmalstieg](https://ms-studio.net/notes/karl-gerstners-layout-grid/); [Commons file description](https://commons.wikimedia.org/wiki/File:Karl_Gerstner_Capital_layout_grid.png).",
+    "The arithmetic: with 2-unit gutters, 58 = 2 × 28 + 2 = 3 × 18 + 2 × 2 = 4 × 13 + 3 × 2 = 5 × 10 + 4 × 2 = 6 × 8 + 5 × 2. So one grid carries two to six columns without remainder. [Designing Programmes excerpt](https://medium.com/@digitalonetwo/designing-programmes-excerpt-62bc64e67b8b).",
+    "Gerstner, a Basel typographer, co-founded the agency Gerstner+Kutter in 1958 (GGK from 1962). *Programme entwerfen* was published by Arthur Niggli in 1964; MoMA showed an exhibition based on it in 1973. [Wikipedia: Karl Gerstner](https://en.wikipedia.org/wiki/Karl_Gerstner)."
+  ],
+  "observed": [
+    "The visualization shows a large square divided into four quadrants. Each quadrant is subdivided by overlapping, semi-transparent bands of modules in muted greens, pinks, and yellows.",
+    "Where bands of different column systems overlap, small squares of darker or different tint mark the shared module lines.",
+    "Several separate single squares in pale colors stand to the left of the main grid.",
+    "All shapes are rectangles with thin dark outlines; there are no curves and no type. The colors are the visualizer’s, not Gerstner’s."
+  ],
+  "interpretation": [
+    "The grid is the style’s answer to variety: instead of many templates, one fine module that several column counts share. Designers can change layout from page to page and still keep every edge on the system."
+  ],
+  "borrow": [
+    "For responsive web layouts, choose a column unit count that divides evenly into 2, 3, 4, and 6 (for example 12 or 24), or follow Gerstner’s approach and include gutters in the arithmetic.",
+    "Document a grid as a program: the rules for dividing it, not one fixed picture."
+  ],
+  "images": [
+    {
+      "file": "assets/references/capital-magazine-layout-grid-gerstner.png",
+      "alt": "Diagram of a square layout grid divided into four quadrants, each overlaid with translucent colored bands that mark two-, three-, four-, five-, and six-column divisions; several single pale squares stand to the left.",
+      "width": 1600,
+      "height": 936,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Visualization of the 58-unit grid designed by Karl Gerstner for *Capital*, c. 1962, by Manuel Schmalstieg, 2018, based on the reproduction in *Designing Programmes*. CC BY-SA 4.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Karl_Gerstner_Capital_layout_grid.png).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Karl_Gerstner_Capital_layout_grid.png",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Diagram © Manuel Schmalstieg, licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Karl_Gerstner_Capital_layout_grid.png). It is a new drawing of a layout system (a set of divisions), not a reproduction of Gerstner’s printed pages. Stored as a reduced PNG."
+  },
+  "identifiers": {
+    "commons": "File:Karl_Gerstner_Capital_layout_grid.png"
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25"
+}

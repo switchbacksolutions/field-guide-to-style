@@ -1,0 +1,66 @@
+{
+  "id": "grid-systems-in-graphic-design-1981",
+  "title": "Grid Systems in Graphic Design",
+  "type": "print",
+  "medium": "book",
+  "lede": "Josef Müller-Brockmann’s manual of the grid, with the grid itself drawn on its cover.",
+  "summary": "Josef Müller-Brockmann, Niggli, 1981. The standard handbook of the typographic grid.",
+  "source": {
+    "url": "https://www.emuseum.ch/objects/167597",
+    "label": "eMuseum, Museum für Gestaltung Zürich: A JMBR 181-1-6"
+  },
+  "creator": {
+    "name": "Josef Müller-Brockmann",
+    "url": "https://www.wikidata.org/wiki/Q123409"
+  },
+  "made": "1981",
+  "moods": [
+    "systematic",
+    "didactic",
+    "rational",
+    "clear"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the cover scan [File:Raster-Systeme-Cover.jpg](https://commons.wikimedia.org/wiki/File:Raster-Systeme-Cover.jpg) (1200 × 1663 px) to a scratch folder and inspected it. Interior pages were not seen. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "A late summary of the style’s central method by one of its founders; the grid on the cover is the style’s structure made explicit.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "*Rastersysteme für die visuelle Gestaltung / Grid systems in graphic design*, 1981; bilingual German and English, subtitled a handbook for graphic designers, typographers, and exhibition designers. The eMuseum holds the cover and several cover drafts from the Müller-Brockmann archive, donated by Shizuko Yoshikawa. [eMuseum object 167597](https://www.emuseum.ch/objects/167597).",
+    "Wikipedia’s bibliography lists it as published by Arthur Niggli, Niederteufen, 1981, ISBN 9783721201451. [Wikipedia: Josef Müller-Brockmann](https://en.wikipedia.org/wiki/Josef_M%C3%BCller-Brockmann).",
+    "Müller-Brockmann was a founding editor of [Neue Grafik](ref:neue-grafik-journal-1958-1965) and designed [Der Film](ref:der-film-poster-1960)."
+  ],
+  "observed": [
+    "The cover is a flat orange with a grid of thin white lines: four columns and several rows separated by narrow gutters.",
+    "Black grotesque type sits exactly on the grid. The two titles, “Grid systems” and “Raster systeme”, are the largest elements and start at the left margin.",
+    "Subtitles and the author’s name are small and flush left, starting either at the left margin or at the third column line.",
+    "The publisher’s name “Niggli” sits alone near the bottom, on the same column line as the author’s name.",
+    "Only three colors appear: orange, black, and white."
+  ],
+  "interpretation": [
+    "Showing the grid lines on the cover makes the invisible structure of the style visible, and turns a method into an image."
+  ],
+  "borrow": [
+    "Start text blocks on only two or three column lines, and repeat those lines throughout the layout.",
+    "Consider revealing the grid as thin lines when the subject is structure or documentation.",
+    "Use one saturated flat background color with black type and white rules."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Wikimedia Commons marks its cover scan as public domain; this catalogue does not rely on that claim. The book remains in copyright; no image is stored."
+  },
+  "identifiers": {
+    "emuseum": "167597",
+    "isbn": "9783721201451",
+    "commons": "File:Raster-Systeme-Cover.jpg"
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25"
+}

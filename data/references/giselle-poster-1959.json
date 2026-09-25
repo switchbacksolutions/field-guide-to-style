@@ -1,0 +1,66 @@
+{
+  "id": "giselle-poster-1959",
+  "title": "Giselle poster, Basler Freilichtspiele",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Armin Hofmann sets a vertical word against a blurred dancer: fixed geometry beside motion.",
+  "summary": "Armin Hofmann, 1959. A rotated sans-serif title beside a black-and-white photograph of a spinning dancer.",
+  "source": {
+    "url": "https://www.emuseum.ch/objects/56272",
+    "label": "eMuseum, Museum für Gestaltung Zürich: poster 39-0424"
+  },
+  "creator": {
+    "name": "Armin Hofmann (design); Paul Merkle (photography)",
+    "url": "https://www.wikidata.org/wiki/Q3335167"
+  },
+  "made": "1959",
+  "moods": [
+    "dynamic",
+    "objective",
+    "stark",
+    "contrasting"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded SFMOMA’s web image of object 2014.669 (602 × 850 px) to a scratch folder and inspected it. Catalogue data read on the eMuseum and SFMOMA records. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "A key Basel-school poster: sans-serif type, a black-and-white photograph instead of illustration, and a strong asymmetric axis.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Poster for *Giselle* at the Basler Freilichtspiele, 1959. Design Armin Hofmann, photography Paul Merkle, printed by Wassermann AG, Basel. Offset, 127 × 90 cm, object 39-0424. [eMuseum, Museum für Gestaltung Zürich](https://www.emuseum.ch/objects/56272).",
+    "SFMOMA lists it as a lithograph, 128.0 × 90.4 cm, accession 2014.669, gift of Aaron Marcus, © Armin Hofmann. [SFMOMA](https://www.sfmoma.org/artwork/2014.669/). Cooper Hewitt also holds a copy (1997-19-142). [Smithsonian](https://www.si.edu/object/chndm_1997-19-142).",
+    "Wikipedia calls Hofmann one of the most influential figures of Swiss design and says his visiting professorship at Yale, from 1960 into the 1980s, introduced the Swiss style to the United States. [Wikipedia: Armin Hofmann](https://en.wikipedia.org/wiki/Armin_Hofmann)."
+  ],
+  "observed": [
+    "“Giselle” runs vertically up the left side in large off-white lowercase sans-serif, reading bottom to top.",
+    "The dot of the i is a separate white disc set away from the stem, near the middle of the sheet.",
+    "A blurred black-and-white photograph of a dancer in a tutu fills the right side; the motion blur makes the skirt a soft white streak.",
+    "Small flush-left text at top left gives festival, dates, and place in five short lines.",
+    "The palette is black, white, and grays; there is no added color."
+  ],
+  "interpretation": [
+    "The poster pairs the two image types the style trusted: letterforms treated as geometry and a photograph treated as evidence. The contrast between hard type and soft blur is the message."
+  ],
+  "borrow": [
+    "Rotate a single display word to form a vertical column that acts as the grid’s spine.",
+    "Let one photograph carry all the emotion and keep the type neutral.",
+    "Treat a detail of a letter, such as the i-dot, as an independent shape in the composition."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Poster in copyright; no image is stored. Rights remain with the designer’s estate and the holding institutions. SFMOMA states © Armin Hofmann."
+  },
+  "identifiers": {
+    "emuseum": "56272",
+    "sfmoma": "2014.669",
+    "cooperhewitt": "1997-19-142"
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25"
+}

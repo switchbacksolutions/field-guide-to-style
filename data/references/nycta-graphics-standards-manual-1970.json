@@ -1,0 +1,79 @@
+{
+  "id": "nycta-graphics-standards-manual-1970",
+  "title": "NYCTA Graphics Standards Manual",
+  "type": "print",
+  "medium": "signage",
+  "lede": "Unimark’s rulebook for New York’s subway signs: one grotesque, a strict module, and colored route discs.",
+  "summary": "Massimo Vignelli, Bob Noorda, and Unimark International for the New York City Transit Authority, 1966–1970.",
+  "source": {
+    "url": "https://www.moma.org/collection/works/89303",
+    "label": "MoMA: New York City Transit Authority Graphics Standards Manual"
+  },
+  "creator": {
+    "name": "Massimo Vignelli, Bob Noorda, Unimark International Corporation, New York",
+    "url": "https://www.wikidata.org/wiki/Q7885218"
+  },
+  "made": "1966–1970",
+  "moods": [
+    "systematic",
+    "clear",
+    "utilitarian",
+    "rational"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Read the MoMA record and the OCR text of the scanned manual on the [Internet Archive](https://archive.org/details/nycta-gs-manual). Page images were not inspected. The stored route disc was inspected; it is a vector reconstruction, not a scan of the manual."
+  },
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "A standards manual in the Swiss-trained tradition: one grotesque, sizes and leading fixed on a module, and color used only as a code.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "MoMA dates the manual 1966–70: lithograph with screenprinted binder, 34.6 × 39.4 × 7.3 cm, gift of the designer, object 374.2004. [MoMA](https://www.moma.org/collection/works/89303).",
+    "The manual’s pages carry the line “Unimark International, Consultant Designers” and the date 1970. Its contents list an information tree, sign distribution, type face, type sizes and leading, letter spacing, and color coding. Its reproduction pages give the Standard Medium alphabet. [Internet Archive scan, OCR](https://archive.org/details/nycta-gs-manual).",
+    "The color-coding page says each line is shown by a letter or number in white on a colored disc, arranged in alphabetical and then numerical order, from an eight-color code. [Internet Archive scan](https://archive.org/details/nycta-gs-manual).",
+    "Wikipedia says Unimark had nearly finished the signage project by 1970, producing this manual, and that Vignelli’s 1972 subway map followed. [Wikipedia: Massimo Vignelli](https://en.wikipedia.org/wiki/Massimo_Vignelli). Standards Manual reissued the manual in 2014 after a Kickstarter campaign. [Standards Manual](https://standardsmanual.com/products/nyctacompactedition)."
+  ],
+  "observed": [
+    "Stored route disc: a solid blue circle with a white capital A centered in it.",
+    "The A is a grotesque capital with a flat apex and horizontal cuts at the foot of each stroke.",
+    "The letter is about half the height of the circle, which leaves a wide margin of color around it."
+  ],
+  "interpretation": [
+    "The manual moves the style from the poster wall into infrastructure: typographic rules become operating rules that sign makers must follow, and color stops being decoration and becomes data."
+  ],
+  "borrow": [
+    "Write type size, leading, and spacing as multiples of one module so every sign or screen shares proportions.",
+    "Reserve color for coding (lines, categories, states) and keep type black or white.",
+    "Order repeated tokens by a fixed rule, for example letters before numbers."
+  ],
+  "related": "The manual specifies Standard Medium, the American name for [Akzidenz-Grotesk](ref:akzidenz-grotesk-typeface); Unimark also used [Helvetica](ref:helvetica-typeface).",
+  "images": [
+    {
+      "file": "assets/references/nycta-graphics-standards-manual-1970.png",
+      "alt": "A New York City Subway route disc: a solid blue circle with a white sans-serif capital A in the center.",
+      "width": 600,
+      "height": 600,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Route disc for the A service in Standard Medium, extracted with FontForge from the reissued 1970 manual. Credited to the Metropolitan Transportation Authority; public domain (PD-textlogo), trademarked. The blue is the uploader’s color and may not match 1970 practice. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NYCTA-Standard-Medium-A.svg), rendered from SVG to PNG by Wikimedia.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/NYCTA-Standard-Medium-A.svg/960px-NYCTA-Standard-Medium-A.svg.png",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The route disc is marked PD-textlogo (a letter in a circle, below the threshold of originality) on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NYCTA-Standard-Medium-A.svg) and is a trademark of the MTA. The manual itself is not stored; its scan on the Internet Archive has no stated license."
+  },
+  "identifiers": {
+    "moma": "374.2004",
+    "internetarchive": "nycta-gs-manual",
+    "commons": "File:NYCTA-Standard-Medium-A.svg"
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25"
+}

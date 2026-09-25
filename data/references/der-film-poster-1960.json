@@ -1,0 +1,70 @@
+{
+  "id": "der-film-poster-1960",
+  "title": "Der Film exhibition poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Josef Müller-Brockmann’s all-type poster for a film exhibition: the title slides across the sheet like a moving credit.",
+  "summary": "Josef Müller-Brockmann, 1960. Akzidenz-Grotesk overlapping on black, with red text on one axis.",
+  "source": {
+    "url": "https://www.emuseum.ch/objects/65641",
+    "label": "eMuseum, Museum für Gestaltung Zürich: poster M-0314"
+  },
+  "creator": {
+    "name": "Josef Müller-Brockmann",
+    "url": "https://www.wikidata.org/wiki/Q123409"
+  },
+  "made": "1960",
+  "moods": [
+    "objective",
+    "dynamic",
+    "stark",
+    "rational"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the scan at [File:Josef Müller-Brockmann der Film.jpg](https://commons.wikimedia.org/wiki/File:Josef_M%C3%BCller-Brockmann_der_Film.jpg) (1423 × 2000 px, sourced by the uploader from MoMA) to a scratch folder and inspected it. Catalogue data read on the eMuseum, MoMA, and Library of Congress records. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "A purely typographic poster by a Neue Grafik editor: one grotesque, flush-left text on a single axis, and extreme scale contrast.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Poster for the exhibition *Der Film* at the Kunstgewerbemuseum Zürich, 1960. Offset, 127 × 90 cm, printed by Graphische Anstalt J. E. Wolfensberger AG, Zürich. Object M-0314, Plakatsammlung. [eMuseum, Museum für Gestaltung Zürich](https://www.emuseum.ch/objects/65641).",
+    "MoMA holds a copy: offset lithograph, 90.1 × 127.6 cm, gift of the Kunstgewerbemuseum Zürich, object 57.1960. [MoMA](https://www.moma.org/collection/works/4882). The Library of Congress holds another (POS - Switz .M65, no. 5). [LoC](https://www.loc.gov/item/2004675046/).",
+    "Fonts In Use, citing the museum’s eGuide, reports that the title was set in Akzidenz-Grotesk, exposed on photographic paper at several positions and degrees of sharpness, and retouched with opaque white to suggest a horizontally moving film title. [Fonts In Use](https://fontsinuse.com/uses/6396/der-film-exhibition-poster-and-catalog).",
+    "The eMuseum holds many preparatory photograms, drafts, and a construction drawing for the poster, for example [object 167053](https://www.emuseum.ch/objects/167053), donated by Shizuko Yoshikawa from the Müller-Brockmann archive."
+  ],
+  "observed": [
+    "A near-black field fills the sheet. The title sits low, in the lower third, and runs off the left edge.",
+    "“der” is in warm gray and “Film” is in off-white; the F of Film overlaps the r of der, so the two words interlock.",
+    "All small text is red, in two blocks: the museum and “Ausstellung” at top, dates and opening hours at bottom.",
+    "Both red blocks start on the same vertical line, aligned with the left edge of the F.",
+    "The typeface is a grotesque in lowercase for the title and upper- and lowercase for the text; nothing is centered.",
+    "The upper two thirds of the sheet is empty except for the two red lines."
+  ],
+  "interpretation": [
+    "The poster shows how the style gets motion without illustration: overlap and cropping of one word do the work of an image.",
+    "The single left axis shared by the red text and the capital F is a visible grid decision in a layout that otherwise looks free."
+  ],
+  "borrow": [
+    "Hang all secondary text from one vertical axis and let the display word break it.",
+    "Use an empty field as the main surface. One very large word plus a few small lines can be a complete composition.",
+    "Overlap two weights or tints of the same word to suggest sequence or motion."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Wikimedia Commons marks its copy PD-textlogo; this catalogue does not rely on that claim. Poster in copyright; no image is stored. Rights remain with the designer’s estate and the holding institutions. MoMA, the Museum für Gestaltung Zürich, and the Library of Congress (rights status not evaluated) hold copies."
+  },
+  "identifiers": {
+    "emuseum": "65641",
+    "moma": "57.1960",
+    "loc": "2004675046",
+    "commons": "File:Josef_Müller-Brockmann_der_Film.jpg"
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25"
+}
