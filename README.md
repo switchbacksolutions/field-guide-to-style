@@ -12,6 +12,10 @@ Open [index.html](index.html) in a browser. Browsing needs no build, install, se
 
 `node tools/build.mjs --check` fails when the generated files do not match the data.
 
+## Deploy
+
+`npm run deploy` checks the build, copies the public files into `dist/` with `tools/stage.mjs`, and deploys `dist/` to the `field-guide-to-style` Cloudflare Worker at https://field-guide-to-style.alec-5fe.workers.dev. The site is public. `tools/stage.mjs` uses an allowlist, so add a new top-level folder to it when the site must serve that folder.
+
 ## Procedures
 
 The skills in `.claude/skills/` describe how to prospect a style (`style-prospect`), collect references (`style-references`), and capture websites (`style-capture`).

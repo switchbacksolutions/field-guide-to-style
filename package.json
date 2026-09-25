@@ -5,6 +5,7 @@
   "description": "Static style catalogue. Data in data/, generated HTML committed.",
   "scripts": {
     "build": "node tools/build.mjs",
-    "check": "node tools/build.mjs --check"
+    "check": "node tools/build.mjs --check",
+    "deploy": "node tools/build.mjs --check && node tools/stage.mjs && npx --yes wrangler deploy"
   }
 }

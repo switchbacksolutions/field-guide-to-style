@@ -1,0 +1,6 @@
+// Serves the committed site as static assets with no Worker code. tools/stage.mjs fills dist/.
+{
+  "name": "field-guide-to-style",
+  "compatibility_date": "2026-09-25",
+  "assets": { "directory": "dist" }
+}
