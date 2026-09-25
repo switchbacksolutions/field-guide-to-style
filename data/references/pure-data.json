@@ -1,0 +1,45 @@
+{
+  "id": "pure-data",
+  "title": "Pure Data",
+  "type": "product",
+  "medium": "software",
+  "lede": "A working diagram. The interface makes the program’s structure visible.",
+  "summary": "Object boxes, patch cords, and a visible flow of information.",
+  "source": { "url": "https://msp.ucsd.edu/software.html", "label": "Miller Puckette’s Pure Data page" },
+  "creator": { "name": "Miller Puckette", "url": "https://msp.ucsd.edu/" },
+  "moods": ["utilitarian", "experimental", "direct"],
+  "evidence": { "level": "documented", "note": "Official manual and patch image reviewed; application not run." },
+  "reviewed": "2026-09-17",
+  "added": "2026-09-17",
+  "styles": [
+    { "id": "minimalist-machine", "note": "The program is a diagram; its construction stays visible.", "basis": "curator" }
+  ],
+  "context": [
+    "Pure Data (Pd) is a graphical programming environment for real-time audio, with multimedia extensions. Patches connect objects through visible inlets, outlets, and cords. [Official overview](https://msp.ucsd.edu/Pd_documentation/2.theory.of.operation.htm#s2.1)."
+  ],
+  "observed": [
+    "Small rectangular boxes carry monospaced object names.",
+    "Dark lines connect ports on a white canvas.",
+    "The patch reads as a chain of operations; geometry carries meaning.",
+    "The drawing has little decoration beyond the working elements."
+  ],
+  "borrow": [
+    "Show relationships directly. Keep component boundaries and names visible. Let a useful diagram become the interface.",
+    "This interpretation describes the documented patch aesthetic; custom patches and extensions can look different."
+  ],
+  "related": "Separate reference: [Pure Data’s community website](ref:puredata-site).",
+  "images": [
+    {
+      "file": "assets/references/pure-data-patch.png",
+      "alt": "A Pure Data patch connecting notein to stripnote, mtof, osc~, a gain multiplier, and dac~ with dark patch cords.",
+      "width": 162,
+      "height": 299,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "“A simple MIDI synthesizer,” figure 2.1.14 in the [official Pd manual](https://msp.ucsd.edu/Pd_documentation/2.theory.of.operation.htm#s2.1.2).",
+      "original": "https://msp.ucsd.edu/Pd_documentation/resources/2.1.14.png",
+      "saved": "2026-09-17"
+    }
+  ],
+  "rights": { "tier": "C", "license": "unverified", "statement": "Rights remain with the source; no redistribution license is asserted here." }
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Style inspiration",
+  "description": "A knowledge hub for visual styles, moods, websites, products, printed works, and objects.",
+  "started": "2026-09-17",
+  "footer": "A growing catalogue of visual references.",
+  "home": {
+    "heading": "A field guide to|visual language.",
+    "lede": "Websites, tools, printed works, and objects, collected by the mood they create and the ideas worth carrying forward.",
+    "notes": [
+      { "heading": "Collect the reason, too.", "text": "Each reference records what makes it useful, where it came from, and how it relates to a style. The notes matter as much as the image.", "link": { "href": "page:references", "text": "Browse all references →" } },
+      { "heading": "A collection that can grow.", "text": "A reference can sit in more than one style. Websites, product interfaces, printed works, objects, and single images share the same record.", "link": { "href": "page:collecting", "text": "How to add a reference →" } }
+    ]
+  }
+}

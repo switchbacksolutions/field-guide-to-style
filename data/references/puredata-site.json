@@ -1,0 +1,27 @@
+{
+  "id": "puredata-site",
+  "title": "Pure Data community site",
+  "titleBreak": "Pure Data|community site",
+  "type": "website",
+  "medium": "website",
+  "lede": "A community resource, saved as a separate reference from the software.",
+  "summary": "Community resource selected as a seed; appearance not yet reviewed.",
+  "source": { "url": "https://puredata.info/", "label": "puredata.info" },
+  "evidence": { "level": "pending", "note": "Pending visual review." },
+  "reviewed": "2026-09-17",
+  "added": "2026-09-17",
+  "styles": [
+    { "id": "minimalist-machine", "note": "User-selected seed. Visual review is pending access.", "basis": "curator", "qualifier": "user-selected seed" }
+  ],
+  "notice": "The site returned HTTP 403 with an Anubis access-denied page during collection. No claims about its visual design or site layout have been verified.",
+  "context": [
+    "[Miller Puckette’s software page](https://msp.ucsd.edu/software.html) identifies puredata.info as a community-maintained source of add-ons, extensions, mailing lists, and documentation."
+  ],
+  "next": [
+    "Capture the actual home page when access is available.",
+    "Record typography, spacing, navigation, color, and information density.",
+    "Identify specific traits that support or challenge its placement in this collection."
+  ],
+  "related": "The [Pure Data product reference](ref:pure-data) is documented independently through its official manual.",
+  "rights": { "tier": "D", "license": "unverified" }
+}

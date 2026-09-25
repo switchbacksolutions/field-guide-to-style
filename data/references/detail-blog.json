@@ -1,0 +1,41 @@
+{
+  "id": "detail-blog",
+  "title": "Detail blog",
+  "type": "website",
+  "medium": "website",
+  "lede": "Editorial clarity with a technical edge.",
+  "summary": "Ruled article lists, large headings, and monospaced details.",
+  "source": { "url": "https://blog.detail.dev/", "label": "blog.detail.dev" },
+  "moods": ["precise", "confident", "ordered"],
+  "evidence": { "level": "observed", "note": "Live page observed; local screenshot saved." },
+  "reviewed": "2026-09-17",
+  "added": "2026-09-17",
+  "styles": [
+    { "id": "minimalist-machine", "note": "Editorial hierarchy with the precision of a technical index.", "basis": "curator" }
+  ],
+  "observed": [
+    "Large black sans-serif headings contrast with small monospaced dates and labels.",
+    "Horizontal rules divide a vertical list of posts.",
+    "Square outlined buttons and arrow marks make actions explicit.",
+    "White and pale gray dominate; saturated green and cyan punctuate the page."
+  ],
+  "interpretation": [
+    "The page borrows the order of an instrument panel while retaining the space and scale of an editorial layout. This is the polished end of the collection."
+  ],
+  "borrow": [
+    "A strong heading hierarchy, dated rows, thin separators, and compact action labels. Treat the accent color as emphasis, not a requirement."
+  ],
+  "related": "Compare with [Pure Data’s visible construction](ref:pure-data).",
+  "images": [
+    {
+      "file": "assets/references/detail-blog.png",
+      "alt": "Detail blog screenshot with a large featured article, a graph, four ruled article rows, and a green diagonal footer.",
+      "width": 1280,
+      "height": 1783,
+      "kind": "screenshot",
+      "caption": "Screenshot of [Detail’s blog](https://blog.detail.dev/).",
+      "saved": "2026-09-17"
+    }
+  ],
+  "rights": { "tier": "C", "license": "unverified", "statement": "Source design and content belong to their respective owners." }
+}

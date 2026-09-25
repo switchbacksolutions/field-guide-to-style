@@ -1,0 +1,95 @@
+{
+  "id": "minimalist-machine",
+  "title": "Minimalist Machine",
+  "order": 1,
+  "status": "seed",
+  "naming": "curatorial",
+  "summary": "Visible structure. Precise type. Interfaces that feel like instruments.",
+  "lede": "A quiet technical aesthetic: the interface exposes its parts, relationships, and purpose with very little decoration.",
+  "moods": [
+    "precise",
+    "utilitarian",
+    "quiet",
+    "technical"
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Structure first.",
+      "text": "Thin rules, outlined boxes, and explicit connections organize the surface."
+    },
+    {
+      "facet": "type",
+      "term": "Functional typography.",
+      "text": "Plain sans-serif headings; monospaced labels, values, and object names."
+    },
+    {
+      "facet": "color",
+      "term": "Neutral ground.",
+      "text": "White or pale canvases with dark marks. Use strong color sparingly for emphasis or state."
+    },
+    {
+      "facet": "layout",
+      "term": "Purposeful space.",
+      "text": "Room between groups; density inside a task or a connected system."
+    }
+  ],
+  "synthesis": [
+    "[Detail](ref:detail-blog) brings editorial scale and polish: bold headings, ordered rows, and small technical labels.",
+    "[Pure Data](ref:pure-data) brings exposed logic: named objects and visible signal paths on a plain canvas.",
+    "This collection name and the shared grammar are curatorial interpretations. The references do not claim this style label."
+  ],
+  "rules": {
+    "do": [
+      "Use rows and separators for collections of information.",
+      "Give objects direct, descriptive names.",
+      "Use connections to explain actual relationships.",
+      "Balance a spacious overview with compact working areas."
+    ],
+    "dont": [
+      "Do not imitate the surface with small type, fake terminal output, or decorative wiring. Keep labels readable, links obvious, and relationships real."
+    ],
+    "uses": [
+      "Research indexes",
+      "Creative tools",
+      "Technical portfolios",
+      "Interfaces for inspecting systems"
+    ]
+  },
+  "preview": [
+    "detail-blog",
+    "pure-data"
+  ],
+  "fingerprint": [
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Boxes are square."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "No depth effects."
+    },
+    {
+      "metric": "surface.border.share",
+      "min": 0.3,
+      "note": "Thin rules and outlined boxes organize the surface."
+    },
+    {
+      "metric": "type.monoShare",
+      "min": 0.05,
+      "note": "Monospaced labels and values."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "max": 0.15,
+      "note": "Strong color only for emphasis or state."
+    },
+    {
+      "metric": "color.hues",
+      "max": 1,
+      "note": "At most one signal color."
+    }
+  ]
+}
