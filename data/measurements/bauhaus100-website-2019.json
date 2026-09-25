@@ -1,0 +1,149 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20190225074016if_/https://www.bauhaus100.de/",
+  "title": "Bauhaus100",
+  "captured": "2019-02-25T07:40:33.009Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Lab Grotesque",
+        "share": 0.95
+      },
+      {
+        "family": "Lab Grotesque Bold",
+        "share": 0.02
+      },
+      {
+        "family": "Lab Grotesque Black",
+        "share": 0.01
+      },
+      {
+        "family": "Lab Grotesque Medium",
+        "share": 0.01
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 64,
+    "sizeRange": 4,
+    "scaleRatio": 1.33,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.01,
+    "monoShare": 0,
+    "centerShare": 0.73
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.433
+      },
+      {
+        "hex": "#5c6a8a",
+        "share": 0.234
+      },
+      {
+        "hex": "#000000",
+        "share": 0.113
+      },
+      {
+        "hex": "#f2f2f2",
+        "share": 0.112
+      },
+      {
+        "hex": "#fffc64",
+        "share": 0.108
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0.11,
+    "lightness": 0.72,
+    "chromaticShare": 0.11,
+    "accentChroma": 0.61,
+    "distinct": 5,
+    "hues": 1,
+    "imageShare": 0.12,
+    "gradientShare": 0,
+    "patternShare": 0.01
+  },
+  "surface": {
+    "boxes": 38,
+    "radius": {
+      "median": 0,
+      "max": 24,
+      "roundShare": 0.11
+    },
+    "border": {
+      "share": 0.87,
+      "medianWidth": 3
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.08,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#5f6c8c",
+        "share": 0.62
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.219
+      },
+      {
+        "hex": "#e50742",
+        "share": 0.046
+      },
+      {
+        "hex": "#fcfc69",
+        "share": 0.025
+      },
+      {
+        "hex": "#969cad",
+        "share": 0.012
+      },
+      {
+        "hex": "#acb2bf",
+        "share": 0.01
+      },
+      {
+        "hex": "#c3c6cf",
+        "share": 0.009
+      },
+      {
+        "hex": "#7f847e",
+        "share": 0.006
+      },
+      {
+        "hex": "#d4d5d9",
+        "share": 0.006
+      },
+      {
+        "hex": "#747e97",
+        "share": 0.006
+      }
+    ],
+    "background": "#5f6c8c",
+    "chroma": 0.18,
+    "lightness": 0.6,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.73,
+    "distinct": 4,
+    "hues": 2
+  }
+}

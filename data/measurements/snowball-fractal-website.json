@@ -1,0 +1,137 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://fractal.snowball.xyz/?path=/docs/fractal--documentation",
+  "title": "Fractal - Documentation ⋅ Storybook",
+  "captured": "2026-09-25T13:34:11.396Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "PolySans",
+        "share": 1
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 14,
+    "sizeRange": 1,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.12
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#fffbf4",
+        "share": 0.784
+      },
+      {
+        "hex": "#000000",
+        "share": 0.177
+      },
+      {
+        "hex": "#ff8acd",
+        "share": 0.032
+      },
+      {
+        "hex": "#2e3338",
+        "share": 0.007
+      },
+      {
+        "hex": "#5c6570",
+        "share": 0.001
+      }
+    ],
+    "background": "#fffbf4",
+    "text": "#ffffff",
+    "contrast": 1,
+    "chroma": 0.05,
+    "lightness": 0.79,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.46,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0.01,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 6,
+    "radius": {
+      "median": 1.5,
+      "max": 16,
+      "roundShare": 0.33
+    },
+    "border": {
+      "share": 0.33,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.5,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 0
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#fffaf4",
+        "share": 0.502
+      },
+      {
+        "hex": "#000000",
+        "share": 0.186
+      },
+      {
+        "hex": "#ff8ace",
+        "share": 0.08
+      },
+      {
+        "hex": "#aaf5fe",
+        "share": 0.027
+      },
+      {
+        "hex": "#dbd7d6",
+        "share": 0.02
+      },
+      {
+        "hex": "#eeede9",
+        "share": 0.019
+      },
+      {
+        "hex": "#befbd9",
+        "share": 0.019
+      },
+      {
+        "hex": "#bfc3c1",
+        "share": 0.017
+      },
+      {
+        "hex": "#a8a9a8",
+        "share": 0.014
+      },
+      {
+        "hex": "#fdeb78",
+        "share": 0.013
+      }
+    ],
+    "background": "#fffaf4",
+    "chroma": 0.09,
+    "lightness": 0.71,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.44,
+    "distinct": 4,
+    "hues": 5
+  }
+}

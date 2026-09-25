@@ -1,12 +1,12 @@
 {
   "tool": "tools/extract-traits.js",
-  "version": "3",
+  "version": "4",
   "url": "http://127.0.0.1:8766/implementations/neo-brutalism/index.html",
-  "title": "Neo-brutalism specimen \u00b7 Style inspiration",
-  "captured": "2026-09-25T13:05:37.657Z",
+  "title": "Neo-brutalism specimen · Style inspiration",
+  "captured": "2026-09-25T13:33:56.960Z",
   "viewport": {
-    "width": 2560,
-    "height": 1262
+    "width": 1440,
+    "height": 900
   },
   "type": {
     "families": [
@@ -42,7 +42,7 @@
     "palette": [
       {
         "hex": "#fff4e0",
-        "share": 0.687
+        "share": 0.579
       },
       {
         "hex": "#000000",
@@ -50,38 +50,38 @@
       },
       {
         "hex": "#ffffff",
-        "share": 0.069
+        "share": 0.099
       },
       {
         "hex": "#ff90e8",
-        "share": 0.033
+        "share": 0.042
       },
       {
         "hex": "#b8a4ff",
-        "share": 0.018
-      },
-      {
-        "hex": "#7df9c4",
-        "share": 0.012
+        "share": 0.038
       },
       {
         "hex": "#ffd23f",
-        "share": 0.012
+        "share": 0.031
+      },
+      {
+        "hex": "#7df9c4",
+        "share": 0.027
       },
       {
         "hex": "#88c9ff",
-        "share": 0.001
+        "share": 0.017
       }
     ],
     "background": "#fff4e0",
     "text": "#000000",
     "contrast": 19.3,
-    "chroma": 0.12,
-    "lightness": 0.77,
-    "chromaticShare": 0.08,
-    "accentChroma": 0.47,
-    "distinct": 4,
-    "hues": 4,
+    "chroma": 0.15,
+    "lightness": 0.76,
+    "chromaticShare": 0.16,
+    "accentChroma": 0.49,
+    "distinct": 7,
+    "hues": 5,
     "imageShare": 0,
     "gradientShare": 0,
     "patternShare": 0
@@ -106,5 +106,56 @@
     "gradientShare": 0,
     "patternShare": 0,
     "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#fff4e0",
+        "share": 0.732
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.041
+      },
+      {
+        "hex": "#000001",
+        "share": 0.035
+      },
+      {
+        "hex": "#fd90e6",
+        "share": 0.033
+      },
+      {
+        "hex": "#7df8c2",
+        "share": 0.03
+      },
+      {
+        "hex": "#fdd23f",
+        "share": 0.027
+      },
+      {
+        "hex": "#4c4844",
+        "share": 0.016
+      },
+      {
+        "hex": "#7d6d70",
+        "share": 0.013
+      },
+      {
+        "hex": "#bdb7aa",
+        "share": 0.009
+      },
+      {
+        "hex": "#e3dbcc",
+        "share": 0.008
+      }
+    ],
+    "background": "#fff4e0",
+    "chroma": 0.15,
+    "lightness": 0.85,
+    "chromaticShare": 0.11,
+    "accentChroma": 0.51,
+    "distinct": 6,
+    "hues": 5
   }
 }

@@ -1,12 +1,12 @@
 {
   "tool": "tools/extract-traits.js",
-  "version": "3",
+  "version": "4",
   "url": "http://127.0.0.1:8766/implementations/international-typographic-style/index.html",
-  "title": "International Typographic Style specimen \u00b7 Style inspiration",
-  "captured": "2026-09-25T13:05:29.668Z",
+  "title": "International Typographic Style specimen · Style inspiration",
+  "captured": "2026-09-25T13:33:47.968Z",
   "viewport": {
-    "width": 2560,
-    "height": 1262
+    "width": 1440,
+    "height": 900
   },
   "type": {
     "families": [
@@ -30,18 +30,18 @@
     "palette": [
       {
         "hex": "#ffffff",
-        "share": 0.839
+        "share": 0.838
       },
       {
         "hex": "#111111",
         "share": 0.153
       },
       {
-        "hex": "#5c5c5c",
+        "hex": "#e30613",
         "share": 0.004
       },
       {
-        "hex": "#e30613",
+        "hex": "#5c5c5c",
         "share": 0.004
       }
     ],
@@ -78,5 +78,56 @@
     "gradientShare": 0,
     "patternShare": 0,
     "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.874
+      },
+      {
+        "hex": "#111111",
+        "share": 0.036
+      },
+      {
+        "hex": "#e20714",
+        "share": 0.017
+      },
+      {
+        "hex": "#f2f1f1",
+        "share": 0.01
+      },
+      {
+        "hex": "#bfbfbf",
+        "share": 0.009
+      },
+      {
+        "hex": "#7f7f7f",
+        "share": 0.008
+      },
+      {
+        "hex": "#cecece",
+        "share": 0.007
+      },
+      {
+        "hex": "#626262",
+        "share": 0.007
+      },
+      {
+        "hex": "#2e2e2e",
+        "share": 0.006
+      },
+      {
+        "hex": "#939393",
+        "share": 0.005
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.02,
+    "lightness": 0.93,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.78,
+    "distinct": 2,
+    "hues": 1
   }
 }

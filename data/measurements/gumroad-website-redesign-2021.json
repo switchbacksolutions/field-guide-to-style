@@ -1,86 +1,137 @@
 {
-    "tool": "tools/extract-traits.js",
-    "version": "3",
-    "url": "https://web.archive.org/web/20220115112257if_/https://gumroad.com/",
-    "title": "Gumroad \u2013 Sell what you know and see what sticks",
-    "captured": "2026-09-25T13:10:00.000Z",
-    "viewport": {
-        "width": 2560,
-        "height": 1262
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20220115112257if_/https://gumroad.com/",
+  "title": "Gumroad – Sell what you know and see what sticks",
+  "captured": "2022-01-15T11:23:02.605Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Mabry pro",
+        "share": 1
+      }
+    ],
+    "baseSize": 24,
+    "maxSize": 180,
+    "sizeRange": 7.5,
+    "scaleRatio": 1.29,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.2
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.421
+      },
+      {
+        "hex": "#000000",
+        "share": 0.257
+      },
+      {
+        "hex": "#ff90e8",
+        "share": 0.143
+      },
+      {
+        "hex": "#ffc900",
+        "share": 0.13
+      },
+      {
+        "hex": "#b23386",
+        "share": 0.05
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0.22,
+    "lightness": 0.62,
+    "chromaticShare": 0.32,
+    "accentChroma": 0.67,
+    "distinct": 5,
+    "hues": 2,
+    "imageShare": 0.21,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 66,
+    "radius": {
+      "median": 0,
+      "max": 162,
+      "roundShare": 0.21
     },
-    "type": {
-        "families": [
-            {
-                "family": "Mabry pro",
-                "share": 1
-            }
-        ],
-        "baseSize": 32,
-        "maxSize": 180,
-        "sizeRange": 5.63,
-        "scaleRatio": 1.25,
-        "headingWeight": 400,
-        "bodyWeight": 400,
-        "headingTracking": 0,
-        "uppercaseShare": 0,
-        "monoShare": 0,
-        "centerShare": 0.2
+    "border": {
+      "share": 0.73,
+      "medianWidth": 2
     },
-    "color": {
-        "palette": [
-            {
-                "hex": "#ffffff",
-                "share": 0.447
-            },
-            {
-                "hex": "#000000",
-                "share": 0.217
-            },
-            {
-                "hex": "#ff90e8",
-                "share": 0.179
-            },
-            {
-                "hex": "#ffc900",
-                "share": 0.113
-            },
-            {
-                "hex": "#b23386",
-                "share": 0.044
-            }
-        ],
-        "background": "#ffffff",
-        "text": "#000000",
-        "contrast": 21,
-        "chroma": 0.21,
-        "lightness": 0.66,
-        "chromaticShare": 0.34,
-        "accentChroma": 0.63,
-        "distinct": 5,
-        "hues": 2,
-        "imageShare": 0.2,
-        "gradientShare": 0,
-        "patternShare": 0.02
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
     },
-    "surface": {
-        "boxes": 66,
-        "radius": {
-            "median": 0,
-            "max": 162,
-            "roundShare": 0.21
-        },
-        "border": {
-            "share": 0.73,
-            "medianWidth": 2
-        },
-        "shadow": {
-            "share": 0,
-            "hardShare": null,
-            "medianBlur": null,
-            "medianOffset": null
-        },
-        "gradientShare": 0,
-        "patternShare": 0.18,
-        "blurShare": 0
-    }
+    "gradientShare": 0,
+    "patternShare": 0.18,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#fe90e7",
+        "share": 0.325
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.227
+      },
+      {
+        "hex": "#000000",
+        "share": 0.151
+      },
+      {
+        "hex": "#fec900",
+        "share": 0.134
+      },
+      {
+        "hex": "#221614",
+        "share": 0.036
+      },
+      {
+        "hex": "#33221d",
+        "share": 0.012
+      },
+      {
+        "hex": "#49302b",
+        "share": 0.011
+      },
+      {
+        "hex": "#777275",
+        "share": 0.01
+      },
+      {
+        "hex": "#f2f1f1",
+        "share": 0.009
+      },
+      {
+        "hex": "#804b70",
+        "share": 0.009
+      }
+    ],
+    "background": "#fe90e7",
+    "chroma": 0.3,
+    "lightness": 0.61,
+    "chromaticShare": 0.49,
+    "accentChroma": 0.59,
+    "distinct": 5,
+    "hues": 2
+  }
 }

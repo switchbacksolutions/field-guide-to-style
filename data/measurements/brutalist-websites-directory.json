@@ -1,0 +1,129 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://brutalistwebsites.com/",
+  "title": "Brutalist Websites",
+  "captured": "2026-09-25T13:34:31.807Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "monospace",
+        "share": 1
+      }
+    ],
+    "baseSize": 13,
+    "maxSize": 13,
+    "sizeRange": 1,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0.08,
+    "monoShare": 1,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#eeeeee",
+        "share": 0.763
+      },
+      {
+        "hex": "#000000",
+        "share": 0.168
+      },
+      {
+        "hex": "#0000ee",
+        "share": 0.068
+      }
+    ],
+    "background": "#eeeeee",
+    "text": "#000000",
+    "contrast": 18.1,
+    "chroma": 0.06,
+    "lightness": 0.74,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.93,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0.36,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 0,
+    "radius": {
+      "median": null,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#eeeeee",
+        "share": 0.552
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.109
+      },
+      {
+        "hex": "#fe0101",
+        "share": 0.053
+      },
+      {
+        "hex": "#c4c6c2",
+        "share": 0.05
+      },
+      {
+        "hex": "#070606",
+        "share": 0.028
+      },
+      {
+        "hex": "#6a706e",
+        "share": 0.028
+      },
+      {
+        "hex": "#868785",
+        "share": 0.027
+      },
+      {
+        "hex": "#d6d9d5",
+        "share": 0.025
+      },
+      {
+        "hex": "#4e5a3e",
+        "share": 0.024
+      },
+      {
+        "hex": "#aeb0b4",
+        "share": 0.021
+      }
+    ],
+    "background": "#eeeeee",
+    "chroma": 0.08,
+    "lightness": 0.8,
+    "chromaticShare": 0.09,
+    "accentChroma": 0.9,
+    "distinct": 11,
+    "hues": 3
+  }
+}

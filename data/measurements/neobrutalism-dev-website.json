@@ -1,0 +1,137 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.neobrutalism.dev/",
+  "title": "Neobrutalism components - Start making neobrutalism layouts today",
+  "captured": "2026-09-25T13:34:02.386Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "DM Sans",
+        "share": 1
+      }
+    ],
+    "baseSize": 24,
+    "maxSize": 60,
+    "sizeRange": 2.5,
+    "scaleRatio": 2.5,
+    "headingWeight": 700,
+    "bodyWeight": 500,
+    "headingTracking": 0,
+    "uppercaseShare": 0.03,
+    "monoShare": 0,
+    "centerShare": 0.79
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#dcebfe",
+        "share": 0.743
+      },
+      {
+        "hex": "#000000",
+        "share": 0.157
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.082
+      },
+      {
+        "hex": "#05e17a",
+        "share": 0.01
+      },
+      {
+        "hex": "#5294ff",
+        "share": 0.008
+      }
+    ],
+    "background": "#dcebfe",
+    "text": "#000000",
+    "contrast": 17.4,
+    "chroma": 0.11,
+    "lightness": 0.78,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.78,
+    "distinct": 3,
+    "hues": 2,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0.89
+  },
+  "surface": {
+    "boxes": 10,
+    "radius": {
+      "median": 5,
+      "max": 5,
+      "roundShare": 0.8
+    },
+    "border": {
+      "share": 0.9,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0.4,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 5.7
+    },
+    "gradientShare": 0,
+    "patternShare": 0.1,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#dcebfe",
+        "share": 0.846
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.06
+      },
+      {
+        "hex": "#07d675",
+        "share": 0.015
+      },
+      {
+        "hex": "#3b5e54",
+        "share": 0.014
+      },
+      {
+        "hex": "#627079",
+        "share": 0.013
+      },
+      {
+        "hex": "#5192f9",
+        "share": 0.008
+      },
+      {
+        "hex": "#020303",
+        "share": 0.007
+      },
+      {
+        "hex": "#aab1b9",
+        "share": 0.006
+      },
+      {
+        "hex": "#7c878d",
+        "share": 0.006
+      },
+      {
+        "hex": "#949ba1",
+        "share": 0.006
+      }
+    ],
+    "background": "#dcebfe",
+    "chroma": 0.14,
+    "lightness": 0.89,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.75,
+    "distinct": 2,
+    "hues": 2
+  }
+}

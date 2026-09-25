@@ -1,0 +1,153 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://media.snowball.xyz/",
+  "title": "Snowball, des newsletters pour investir ! - Le collectif de newsletters sur les finances perso numéro 1 en France lu par 70 000 abonné(e)s. | Snowball, des newsletters pour investir !",
+  "captured": "2026-09-25T13:34:17.701Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "PolySans",
+        "share": 0.98
+      },
+      {
+        "family": "PolySansWide",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 56,
+    "sizeRange": 3.5,
+    "scaleRatio": 1.29,
+    "headingWeight": 800,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.3
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#d9beff",
+        "share": 0.408
+      },
+      {
+        "hex": "#000000",
+        "share": 0.218
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.218
+      },
+      {
+        "hex": "#fff8c5",
+        "share": 0.08
+      },
+      {
+        "hex": "#ff8acd",
+        "share": 0.071
+      },
+      {
+        "hex": "#b7b1a6",
+        "share": 0.002
+      },
+      {
+        "hex": "#7e7c78",
+        "share": 0.002
+      },
+      {
+        "hex": "#b37dff",
+        "share": 0.001
+      }
+    ],
+    "background": "#d9beff",
+    "text": "#000000",
+    "contrast": 12.8,
+    "chroma": 0.16,
+    "lightness": 0.7,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.46,
+    "distinct": 5,
+    "hues": 1,
+    "imageShare": 0.03,
+    "gradientShare": 0.14,
+    "patternShare": 0.34
+  },
+  "surface": {
+    "boxes": 94,
+    "radius": {
+      "median": 0,
+      "max": 24,
+      "roundShare": 0.44
+    },
+    "border": {
+      "share": 0.9,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.1,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 2.8
+    },
+    "gradientShare": 0.01,
+    "patternShare": 0.01,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#d8beff",
+        "share": 0.44
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.171
+      },
+      {
+        "hex": "#000001",
+        "share": 0.106
+      },
+      {
+        "hex": "#fff8c4",
+        "share": 0.084
+      },
+      {
+        "hex": "#ff8ace",
+        "share": 0.062
+      },
+      {
+        "hex": "#887089",
+        "share": 0.018
+      },
+      {
+        "hex": "#6e696e",
+        "share": 0.018
+      },
+      {
+        "hex": "#534a56",
+        "share": 0.013
+      },
+      {
+        "hex": "#9c8fba",
+        "share": 0.011
+      },
+      {
+        "hex": "#9e9e96",
+        "share": 0.011
+      }
+    ],
+    "background": "#d8beff",
+    "chroma": 0.17,
+    "lightness": 0.75,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.45,
+    "distinct": 5,
+    "hues": 1
+  }
+}

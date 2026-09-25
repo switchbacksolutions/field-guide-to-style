@@ -1,12 +1,12 @@
 {
   "tool": "tools/extract-traits.js",
-  "version": "3",
+  "version": "4",
   "url": "http://127.0.0.1:8766/implementations/bauhaus/index.html",
-  "title": "Bauhaus specimen \u00b7 Style inspiration",
-  "captured": "2026-09-25T13:05:31.668Z",
+  "title": "Bauhaus specimen · Style inspiration",
+  "captured": "2026-09-25T13:33:50.194Z",
   "viewport": {
-    "width": 2560,
-    "height": 1262
+    "width": 1440,
+    "height": 900
   },
   "type": {
     "families": [
@@ -38,27 +38,27 @@
     "palette": [
       {
         "hex": "#f4efe6",
-        "share": 0.762
+        "share": 0.686
       },
       {
         "hex": "#111111",
-        "share": 0.133
+        "share": 0.132
       },
       {
         "hex": "#d42a20",
-        "share": 0.045
+        "share": 0.087
+      },
+      {
+        "hex": "#1f4e9c",
+        "share": 0.052
       },
       {
         "hex": "#ffffff",
         "share": 0.026
       },
       {
-        "hex": "#1f4e9c",
-        "share": 0.023
-      },
-      {
         "hex": "#f2c12e",
-        "share": 0.006
+        "share": 0.012
       },
       {
         "hex": "#474440",
@@ -68,9 +68,9 @@
     "background": "#f4efe6",
     "text": "#111111",
     "contrast": 16.5,
-    "chroma": 0.09,
-    "lightness": 0.78,
-    "chromaticShare": 0.07,
+    "chroma": 0.13,
+    "lightness": 0.74,
+    "chromaticShare": 0.15,
     "accentChroma": 0.64,
     "distinct": 5,
     "hues": 3,
@@ -98,5 +98,56 @@
     "gradientShare": 0,
     "patternShare": 0,
     "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#f3efe6",
+        "share": 0.721
+      },
+      {
+        "hex": "#d52a20",
+        "share": 0.146
+      },
+      {
+        "hex": "#111111",
+        "share": 0.041
+      },
+      {
+        "hex": "#f1c22f",
+        "share": 0.022
+      },
+      {
+        "hex": "#b4b1ac",
+        "share": 0.009
+      },
+      {
+        "hex": "#959492",
+        "share": 0.009
+      },
+      {
+        "hex": "#c9c8c5",
+        "share": 0.008
+      },
+      {
+        "hex": "#4a4945",
+        "share": 0.007
+      },
+      {
+        "hex": "#e0dcd5",
+        "share": 0.007
+      },
+      {
+        "hex": "#27539c",
+        "share": 0.007
+      }
+    ],
+    "background": "#f3efe6",
+    "chroma": 0.17,
+    "lightness": 0.79,
+    "chromaticShare": 0.18,
+    "accentChroma": 0.7,
+    "distinct": 4,
+    "hues": 3
   }
 }

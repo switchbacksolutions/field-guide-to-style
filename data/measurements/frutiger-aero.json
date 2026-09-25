@@ -1,12 +1,12 @@
 {
   "tool": "tools/extract-traits.js",
-  "version": "3",
+  "version": "4",
   "url": "http://127.0.0.1:8766/implementations/frutiger-aero/index.html",
-  "title": "Frutiger Aero specimen \u00b7 Style inspiration",
-  "captured": "2026-09-25T13:05:35.673Z",
+  "title": "Frutiger Aero specimen · Style inspiration",
+  "captured": "2026-09-25T13:33:54.693Z",
   "viewport": {
-    "width": 2560,
-    "height": 1262
+    "width": 1440,
+    "height": 900
   },
   "type": {
     "families": [
@@ -38,19 +38,15 @@
     "palette": [
       {
         "hex": "#ffffff",
-        "share": 0.485
+        "share": 0.577
       },
       {
         "hex": "#7ed957",
-        "share": 0.156
+        "share": 0.095
       },
       {
         "hex": "#e7f6ff",
-        "share": 0.091
-      },
-      {
-        "hex": "#8fd3ff",
-        "share": 0.078
+        "share": 0.076
       },
       {
         "hex": "#3d6282",
@@ -61,33 +57,37 @@
         "share": 0.065
       },
       {
-        "hex": "#0b6fc4",
-        "share": 0.019
+        "hex": "#8fd3ff",
+        "share": 0.047
       },
       {
         "hex": "#d6effb",
-        "share": 0.018
+        "share": 0.031
       },
       {
-        "hex": "#d9f6c9",
-        "share": 0.006
+        "hex": "#0b6fc4",
+        "share": 0.021
       },
       {
         "hex": "#5cb8ff",
-        "share": 0.002
+        "share": 0.004
+      },
+      {
+        "hex": "#1a86de",
+        "share": 0.004
       }
     ],
     "background": "#ffffff",
     "text": "#3d6282",
     "contrast": 6.4,
-    "chroma": 0.18,
-    "lightness": 0.8,
-    "chromaticShare": 0.26,
-    "accentChroma": 0.51,
-    "distinct": 6,
+    "chroma": 0.14,
+    "lightness": 0.83,
+    "chromaticShare": 0.18,
+    "accentChroma": 0.53,
+    "distinct": 8,
     "hues": 2,
     "imageShare": 0,
-    "gradientShare": 0.97,
+    "gradientShare": 0.92,
     "patternShare": 0
   },
   "surface": {
@@ -110,5 +110,56 @@
     "gradientShare": 0.56,
     "patternShare": 0,
     "blurShare": 0.16
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#f9fdff",
+        "share": 0.594
+      },
+      {
+        "hex": "#d7effe",
+        "share": 0.086
+      },
+      {
+        "hex": "#ebf9e5",
+        "share": 0.072
+      },
+      {
+        "hex": "#95d0f7",
+        "share": 0.068
+      },
+      {
+        "hex": "#7bd358",
+        "share": 0.034
+      },
+      {
+        "hex": "#addefd",
+        "share": 0.031
+      },
+      {
+        "hex": "#e1eaef",
+        "share": 0.03
+      },
+      {
+        "hex": "#c5e8fd",
+        "share": 0.029
+      },
+      {
+        "hex": "#d2e0e7",
+        "share": 0.014
+      },
+      {
+        "hex": "#c1d7ca",
+        "share": 0.011
+      }
+    ],
+    "background": "#f9fdff",
+    "chroma": 0.1,
+    "lightness": 0.92,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.4,
+    "distinct": 8,
+    "hues": 2
   }
 }

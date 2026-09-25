@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://abetlaminati.com/en/collections/bacterio-ettore-sottsass/",
+  "title": "Bacterio - Ettore Sottsass | Abet Laminati",
+  "captured": "2026-09-25T13:36:36.810Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Neue Montreal",
+        "share": 0.96
+      },
+      {
+        "family": "-apple-system",
+        "share": 0.04
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 56,
+    "sizeRange": 4,
+    "scaleRatio": 1.1,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0.018,
+    "uppercaseShare": 0.07,
+    "monoShare": 0,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.556
+      },
+      {
+        "hex": "#000000",
+        "share": 0.204
+      },
+      {
+        "hex": "#3e3e3e",
+        "share": 0.188
+      },
+      {
+        "hex": "#333333",
+        "share": 0.021
+      },
+      {
+        "hex": "#7f7f7f",
+        "share": 0.021
+      },
+      {
+        "hex": "#d7d7d7",
+        "share": 0.004
+      },
+      {
+        "hex": "#1cc691",
+        "share": 0.004
+      },
+      {
+        "hex": "#1a1a1a",
+        "share": 0.003
+      },
+      {
+        "hex": "#790000",
+        "share": 0
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0,
+    "lightness": 0.62,
+    "chromaticShare": 0,
+    "accentChroma": 0.66,
+    "distinct": 5,
+    "hues": 1,
+    "imageShare": 0.01,
+    "gradientShare": 0,
+    "patternShare": 0.01
+  },
+  "surface": {
+    "boxes": 146,
+    "radius": {
+      "median": 0,
+      "max": 20,
+      "roundShare": 0.22
+    },
+    "border": {
+      "share": 0.46,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.05,
+      "hardShare": 0.71,
+      "medianBlur": 0,
+      "medianOffset": 1
+    },
+    "gradientShare": 0,
+    "patternShare": 0.05,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#7f7f7f",
+        "share": 0.404
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.395
+      },
+      {
+        "hex": "#000000",
+        "share": 0.077
+      },
+      {
+        "hex": "#686868",
+        "share": 0.014
+      },
+      {
+        "hex": "#1a1a1a",
+        "share": 0.014
+      },
+      {
+        "hex": "#414141",
+        "share": 0.01
+      },
+      {
+        "hex": "#d2d4d3",
+        "share": 0.01
+      },
+      {
+        "hex": "#c3c4c4",
+        "share": 0.01
+      },
+      {
+        "hex": "#4e4e4e",
+        "share": 0.009
+      },
+      {
+        "hex": "#dfe1e0",
+        "share": 0.008
+      }
+    ],
+    "background": "#7f7f7f",
+    "chroma": 0,
+    "lightness": 0.66,
+    "chromaticShare": 0,
+    "accentChroma": 0.58,
+    "distinct": 3,
+    "hues": 0
+  }
+}

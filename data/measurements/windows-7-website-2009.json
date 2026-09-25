@@ -1,0 +1,161 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20091101155741if_/http://www.microsoft.com/windows/windows-7/",
+  "title": "Windows 7: Home Premium, Professional, and Ultimate Editions",
+  "captured": "2009-11-01T15:58:01.801Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Segoe UI",
+        "share": 0.97
+      },
+      {
+        "family": "segoe ui",
+        "share": 0.03
+      }
+    ],
+    "baseSize": 13,
+    "maxSize": 32,
+    "sizeRange": 2.46,
+    "scaleRatio": 1.14,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#daf3fd",
+        "share": 0.61
+      },
+      {
+        "hex": "#4e4e4e",
+        "share": 0.192
+      },
+      {
+        "hex": "#005a88",
+        "share": 0.103
+      },
+      {
+        "hex": "#0066cc",
+        "share": 0.026
+      },
+      {
+        "hex": "#646464",
+        "share": 0.021
+      },
+      {
+        "hex": "#333333",
+        "share": 0.015
+      },
+      {
+        "hex": "#f58220",
+        "share": 0.012
+      },
+      {
+        "hex": "#000000",
+        "share": 0.006
+      },
+      {
+        "hex": "#9fce53",
+        "share": 0.005
+      },
+      {
+        "hex": "#4eb0e9",
+        "share": 0.004
+      }
+    ],
+    "background": "#daf3fd",
+    "text": "#4e4e4e",
+    "contrast": 7.2,
+    "chroma": 0.18,
+    "lightness": 0.69,
+    "chromaticShare": 0.15,
+    "accentChroma": 0.6,
+    "distinct": 5,
+    "hues": 4,
+    "imageShare": 0.69,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 5,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.8,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#dbf3fd",
+        "share": 0.373
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.302
+      },
+      {
+        "hex": "#f9cd33",
+        "share": 0.032
+      },
+      {
+        "hex": "#edb576",
+        "share": 0.032
+      },
+      {
+        "hex": "#e58f20",
+        "share": 0.03
+      },
+      {
+        "hex": "#efab28",
+        "share": 0.027
+      },
+      {
+        "hex": "#eff7fd",
+        "share": 0.024
+      },
+      {
+        "hex": "#cce8f5",
+        "share": 0.018
+      },
+      {
+        "hex": "#eaeeec",
+        "share": 0.015
+      },
+      {
+        "hex": "#94b9cc",
+        "share": 0.013
+      }
+    ],
+    "background": "#dbf3fd",
+    "chroma": 0.18,
+    "lightness": 0.86,
+    "chromaticShare": 0.16,
+    "accentChroma": 0.66,
+    "distinct": 7,
+    "hues": 3
+  }
+}

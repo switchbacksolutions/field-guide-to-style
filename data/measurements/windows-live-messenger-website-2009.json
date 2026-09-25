@@ -1,0 +1,165 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20091101160927if_/http://download.live.com/messenger",
+  "title": "Messenger - Windows Live",
+  "captured": "2009-11-01T16:09:35.388Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Tahoma",
+        "share": 0.99
+      },
+      {
+        "family": "Segoe UI",
+        "share": 0.01
+      },
+      {
+        "family": "Arial",
+        "share": 0
+      },
+      {
+        "family": "Times New Roman",
+        "share": 0
+      }
+    ],
+    "baseSize": 13.3,
+    "maxSize": 21.5,
+    "sizeRange": 1.62,
+    "scaleRatio": 1.15,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.05
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#fcfcfc",
+        "share": 0.788
+      },
+      {
+        "hex": "#444444",
+        "share": 0.08
+      },
+      {
+        "hex": "#0066cc",
+        "share": 0.049
+      },
+      {
+        "hex": "#000000",
+        "share": 0.042
+      },
+      {
+        "hex": "#888888",
+        "share": 0.017
+      },
+      {
+        "hex": "#f4793a",
+        "share": 0.013
+      },
+      {
+        "hex": "#22436c",
+        "share": 0.005
+      },
+      {
+        "hex": "#efefef",
+        "share": 0.003
+      },
+      {
+        "hex": "#555555",
+        "share": 0.003
+      }
+    ],
+    "background": "#fcfcfc",
+    "text": "#444444",
+    "contrast": 9.5,
+    "chroma": 0.05,
+    "lightness": 0.84,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.78,
+    "distinct": 4,
+    "hues": 2,
+    "imageShare": 0.24,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 8,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.88,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#fcfcfc",
+        "share": 0.787
+      },
+      {
+        "hex": "#d3ebf6",
+        "share": 0.048
+      },
+      {
+        "hex": "#f3f2ef",
+        "share": 0.04
+      },
+      {
+        "hex": "#d0d2d2",
+        "share": 0.015
+      },
+      {
+        "hex": "#bec2c1",
+        "share": 0.015
+      },
+      {
+        "hex": "#a8acac",
+        "share": 0.014
+      },
+      {
+        "hex": "#879692",
+        "share": 0.013
+      },
+      {
+        "hex": "#dcdfe1",
+        "share": 0.013
+      },
+      {
+        "hex": "#badfef",
+        "share": 0.011
+      },
+      {
+        "hex": "#9ecde4",
+        "share": 0.009
+      }
+    ],
+    "background": "#fcfcfc",
+    "chroma": 0.02,
+    "lightness": 0.95,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.45,
+    "distinct": 3,
+    "hues": 1
+  }
+}

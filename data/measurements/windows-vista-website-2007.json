@@ -1,0 +1,149 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20080719003216if_/http://www.microsoft.com/windows/windows-vista/",
+  "title": "Windows Vista home page",
+  "captured": "2008-07-19T00:32:35.290Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Segoe UI",
+        "share": 0.93
+      },
+      {
+        "family": "Tahoma",
+        "share": 0.07
+      }
+    ],
+    "baseSize": 12,
+    "maxSize": 18,
+    "sizeRange": 1.5,
+    "scaleRatio": 1.14,
+    "headingWeight": 100,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.01,
+    "monoShare": 0,
+    "centerShare": 0.06
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#646464",
+        "share": 0.31
+      },
+      {
+        "hex": "#888888",
+        "share": 0.249
+      },
+      {
+        "hex": "#196297",
+        "share": 0.237
+      },
+      {
+        "hex": "#000000",
+        "share": 0.12
+      },
+      {
+        "hex": "#f58220",
+        "share": 0.058
+      },
+      {
+        "hex": "#4eb0e9",
+        "share": 0.02
+      },
+      {
+        "hex": "#063b83",
+        "share": 0.006
+      }
+    ],
+    "background": null,
+    "text": "#646464",
+    "contrast": null,
+    "chroma": 0.18,
+    "lightness": 0.38,
+    "chromaticShare": 0.32,
+    "accentChroma": 0.56,
+    "distinct": 6,
+    "hues": 3,
+    "imageShare": 1,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 7,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.29,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.5
+      },
+      {
+        "hex": "#dde9f5",
+        "share": 0.224
+      },
+      {
+        "hex": "#b4d1ef",
+        "share": 0.153
+      },
+      {
+        "hex": "#c9def3",
+        "share": 0.019
+      },
+      {
+        "hex": "#f0f0ef",
+        "share": 0.018
+      },
+      {
+        "hex": "#b3b3b2",
+        "share": 0.012
+      },
+      {
+        "hex": "#c5ced4",
+        "share": 0.011
+      },
+      {
+        "hex": "#abc2d3",
+        "share": 0.01
+      },
+      {
+        "hex": "#312d2e",
+        "share": 0.01
+      },
+      {
+        "hex": "#848c8f",
+        "share": 0.009
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.07,
+    "lightness": 0.92,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.36,
+    "distinct": 3,
+    "hues": 1
+  }
+}

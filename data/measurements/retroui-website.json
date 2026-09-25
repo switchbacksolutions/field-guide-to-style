@@ -1,0 +1,173 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://neobrutalism.com/",
+  "title": "NeoBrutalism — Retro UI components for React",
+  "captured": "2026-09-25T13:34:07.289Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "-apple-system",
+        "share": 0.7
+      },
+      {
+        "family": "Space Grotesk",
+        "share": 0.29
+      },
+      {
+        "family": "Geist",
+        "share": 0.01
+      },
+      {
+        "family": "Geist Mono",
+        "share": 0
+      },
+      {
+        "family": "ui-monospace",
+        "share": 0
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 60,
+    "sizeRange": 4.29,
+    "scaleRatio": 1.07,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.13,
+    "monoShare": 0,
+    "centerShare": 0.05
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#1a1815",
+        "share": 0.645
+      },
+      {
+        "hex": "#262320",
+        "share": 0.129
+      },
+      {
+        "hex": "#f5f0e6",
+        "share": 0.107
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.039
+      },
+      {
+        "hex": "#ffdc58",
+        "share": 0.037
+      },
+      {
+        "hex": "#b3ac9e",
+        "share": 0.034
+      },
+      {
+        "hex": "#3a352f",
+        "share": 0.005
+      },
+      {
+        "hex": "#000000",
+        "share": 0.003
+      },
+      {
+        "hex": "#ff6b6b",
+        "share": 0.001
+      },
+      {
+        "hex": "#ffe7a3",
+        "share": 0
+      }
+    ],
+    "background": "#1a1815",
+    "text": "#f5efe6",
+    "contrast": 15.5,
+    "chroma": 0.05,
+    "lightness": 0.26,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.65,
+    "distinct": 6,
+    "hues": 1,
+    "imageShare": 0.17,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 647,
+    "radius": {
+      "median": 0,
+      "max": 24.8,
+      "roundShare": 0.14
+    },
+    "border": {
+      "share": 0.82,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0.3,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 2.8
+    },
+    "gradientShare": 0.04,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#191814",
+        "share": 0.371
+      },
+      {
+        "hex": "#2d2b25",
+        "share": 0.258
+      },
+      {
+        "hex": "#473f22",
+        "share": 0.154
+      },
+      {
+        "hex": "#fbdb59",
+        "share": 0.074
+      },
+      {
+        "hex": "#4b473e",
+        "share": 0.033
+      },
+      {
+        "hex": "#3b3730",
+        "share": 0.024
+      },
+      {
+        "hex": "#67645d",
+        "share": 0.023
+      },
+      {
+        "hex": "#f2f0ea",
+        "share": 0.021
+      },
+      {
+        "hex": "#8d8673",
+        "share": 0.014
+      },
+      {
+        "hex": "#74663b",
+        "share": 0.013
+      }
+    ],
+    "background": "#191814",
+    "chroma": 0.1,
+    "lightness": 0.22,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.64,
+    "distinct": 8,
+    "hues": 1
+  }
+}

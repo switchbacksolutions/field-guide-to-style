@@ -1,12 +1,12 @@
 {
   "tool": "tools/extract-traits.js",
-  "version": "3",
+  "version": "4",
   "url": "http://127.0.0.1:8766/implementations/minimalist-machine/index.html",
-  "title": "Minimalist Machine specimen \u00b7 Style inspiration",
-  "captured": "2026-09-25T13:05:28.667Z",
+  "title": "Minimalist Machine specimen · Style inspiration",
+  "captured": "2026-09-25T13:33:45.663Z",
   "viewport": {
-    "width": 2560,
-    "height": 1262
+    "width": 1440,
+    "height": 900
   },
   "type": {
     "families": [
@@ -78,5 +78,52 @@
     "gradientShare": 0,
     "patternShare": 0,
     "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#f6f7f1",
+        "share": 0.84
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.082
+      },
+      {
+        "hex": "#e0e1db",
+        "share": 0.02
+      },
+      {
+        "hex": "#c2c3bd",
+        "share": 0.015
+      },
+      {
+        "hex": "#b6b7b1",
+        "share": 0.011
+      },
+      {
+        "hex": "#1f211e",
+        "share": 0.01
+      },
+      {
+        "hex": "#a0a29b",
+        "share": 0.008
+      },
+      {
+        "hex": "#5a5d57",
+        "share": 0.007
+      },
+      {
+        "hex": "#7e807b",
+        "share": 0.006
+      }
+    ],
+    "background": "#f6f7f1",
+    "chroma": 0.02,
+    "lightness": 0.93,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0
   }
 }

@@ -1,0 +1,177 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://neubrutalism.com/",
+  "title": "Neubrutalism — The Definitive Guide to Neubrutalist Web Design",
+  "captured": "2026-09-25T13:34:22.161Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Inter",
+        "share": 0.68
+      },
+      {
+        "family": "Space Grotesk",
+        "share": 0.15
+      },
+      {
+        "family": "Space Mono",
+        "share": 0.14
+      },
+      {
+        "family": "Syne",
+        "share": 0.02
+      },
+      {
+        "family": "DM Sans",
+        "share": 0.01
+      },
+      {
+        "family": "Bebas Neue",
+        "share": 0
+      }
+    ],
+    "baseSize": 17.6,
+    "maxSize": 144,
+    "sizeRange": 8.18,
+    "scaleRatio": 1.17,
+    "headingWeight": 500,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.06,
+    "monoShare": 0.14,
+    "centerShare": 0.03
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffd23f",
+        "share": 0.73
+      },
+      {
+        "hex": "#ececed",
+        "share": 0.138
+      },
+      {
+        "hex": "#1f1e28",
+        "share": 0.088
+      },
+      {
+        "hex": "#000000",
+        "share": 0.012
+      },
+      {
+        "hex": "#7fdbda",
+        "share": 0.01
+      },
+      {
+        "hex": "#a6a6b0",
+        "share": 0.008
+      },
+      {
+        "hex": "#ff6b6b",
+        "share": 0.008
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.003
+      },
+      {
+        "hex": "#6b7280",
+        "share": 0.001
+      },
+      {
+        "hex": "#888888",
+        "share": 0.001
+      }
+    ],
+    "background": "#ffd23f",
+    "text": "#ececed",
+    "contrast": 1.2,
+    "chroma": 0.56,
+    "lightness": 0.62,
+    "chromaticShare": 0.75,
+    "accentChroma": 0.75,
+    "distinct": 3,
+    "hues": 3,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 505,
+    "radius": {
+      "median": 0,
+      "max": 40,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.91,
+      "medianWidth": 3
+    },
+    "shadow": {
+      "share": 0.39,
+      "hardShare": 0.99,
+      "medianBlur": 0,
+      "medianOffset": 4.2
+    },
+    "gradientShare": 0,
+    "patternShare": 0.01,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffd33f",
+        "share": 0.711
+      },
+      {
+        "hex": "#1f1d28",
+        "share": 0.079
+      },
+      {
+        "hex": "#000000",
+        "share": 0.067
+      },
+      {
+        "hex": "#fc6b6b",
+        "share": 0.023
+      },
+      {
+        "hex": "#80dbda",
+        "share": 0.021
+      },
+      {
+        "hex": "#e9e3db",
+        "share": 0.018
+      },
+      {
+        "hex": "#987634",
+        "share": 0.01
+      },
+      {
+        "hex": "#ccab3e",
+        "share": 0.009
+      },
+      {
+        "hex": "#e4c043",
+        "share": 0.009
+      },
+      {
+        "hex": "#b19338",
+        "share": 0.008
+      }
+    ],
+    "background": "#ffd33f",
+    "chroma": 0.59,
+    "lightness": 0.53,
+    "chromaticShare": 0.8,
+    "accentChroma": 0.72,
+    "distinct": 5,
+    "hues": 3
+  }
+}

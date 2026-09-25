@@ -1,12 +1,12 @@
 {
   "tool": "tools/extract-traits.js",
-  "version": "3",
+  "version": "4",
   "url": "http://127.0.0.1:8766/implementations/memphis/index.html",
-  "title": "Memphis specimen \u00b7 Style inspiration",
-  "captured": "2026-09-25T13:05:33.659Z",
+  "title": "Memphis specimen · Style inspiration",
+  "captured": "2026-09-25T13:33:52.439Z",
   "viewport": {
-    "width": 2560,
-    "height": 1262
+    "width": 1440,
+    "height": 900
   },
   "type": {
     "families": [
@@ -38,41 +38,41 @@
     "palette": [
       {
         "hex": "#fffdf6",
-        "share": 0.69
-      },
-      {
-        "hex": "#111111",
-        "share": 0.15
+        "share": 0.549
       },
       {
         "hex": "#ff4f9a",
-        "share": 0.095
+        "share": 0.2
+      },
+      {
+        "hex": "#111111",
+        "share": 0.149
       },
       {
         "hex": "#00b3a7",
-        "share": 0.034
+        "share": 0.048
       },
       {
         "hex": "#ffd23f",
-        "share": 0.03
+        "share": 0.042
       },
       {
         "hex": "#7c4dff",
-        "share": 0.001
+        "share": 0.012
       }
     ],
     "background": "#fffdf6",
     "text": "#111111",
     "contrast": 18.6,
-    "chroma": 0.14,
-    "lightness": 0.78,
-    "chromaticShare": 0.16,
+    "chroma": 0.23,
+    "lightness": 0.73,
+    "chromaticShare": 0.3,
     "accentChroma": 0.7,
     "distinct": 5,
-    "hues": 3,
+    "hues": 4,
     "imageShare": 0,
     "gradientShare": 0,
-    "patternShare": 0.19
+    "patternShare": 0.24
   },
   "surface": {
     "boxes": 53,
@@ -94,5 +94,56 @@
     "gradientShare": 0,
     "patternShare": 0,
     "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ff4f9a",
+        "share": 0.455
+      },
+      {
+        "hex": "#fffdf6",
+        "share": 0.359
+      },
+      {
+        "hex": "#121112",
+        "share": 0.043
+      },
+      {
+        "hex": "#fdd441",
+        "share": 0.026
+      },
+      {
+        "hex": "#331f24",
+        "share": 0.018
+      },
+      {
+        "hex": "#4f5253",
+        "share": 0.011
+      },
+      {
+        "hex": "#a13764",
+        "share": 0.01
+      },
+      {
+        "hex": "#8d8a89",
+        "share": 0.01
+      },
+      {
+        "hex": "#0cb0a3",
+        "share": 0.008
+      },
+      {
+        "hex": "#b3babc",
+        "share": 0.008
+      }
+    ],
+    "background": "#ff4f9a",
+    "chroma": 0.38,
+    "lightness": 0.73,
+    "chromaticShare": 0.53,
+    "accentChroma": 0.68,
+    "distinct": 4,
+    "hues": 4
   }
 }
