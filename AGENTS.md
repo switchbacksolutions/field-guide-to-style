@@ -26,6 +26,6 @@ A static style catalogue for people and agents. Open `index.html` directly. No s
 
 ## Tools
 
-- Use Claude in Chrome for web research and browser checks. Chrome tool results are cut at about 1,000 characters, so save measurements through `tools/serve.py` instead of reading them back.
+- Use `node tools/capture.mjs` to capture and measure websites. Use Claude in Chrome for web research and interactive browser checks. Chrome tool results are cut at about 1,000 characters, so save measurements through `tools/serve.py` instead of reading them back.
 - After you change a fingerprint, a specimen, or the extractor, re-measure the specimens and run `node tools/lint-style.mjs --matrix`.
 - Keep new dependencies and build tooling out unless a concrete need arises.

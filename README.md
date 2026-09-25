@@ -21,6 +21,7 @@ Open [index.html](index.html) in a browser. Browsing needs no build, install, se
 - `content/`: prose pages (collecting, rights) and the specimen content.
 - `templates/`: starting points for new records.
 - `tools/build.mjs`: the generator.
+- `tools/capture.mjs`: captures websites with headless Chrome (screenshot plus measurement).
 - `tools/extract-traits.js`, `tools/image-traits.py`, `tools/serve.py`, and `tools/lint-style.mjs`: measure pages and images, and check them against style fingerprints. `node tools/lint-style.mjs --matrix` checks that each specimen passes only its own style.
 - Generated: the root HTML pages, `references/*.html`, `board-data.js`, `llms.txt`, `api/`, and `implementations/<style>/` (DTCG tokens, CSS variables, Tailwind v4, shadcn/ui, DESIGN.md, specimen page).
 - `assets/hub.css`: all hub presentation. `assets/references/`: local images.
