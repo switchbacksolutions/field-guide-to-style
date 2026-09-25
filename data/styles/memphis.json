@@ -1,0 +1,174 @@
+{
+  "id": "memphis",
+  "title": "Memphis",
+  "order": 4,
+  "status": "pilot",
+  "naming": "historical",
+  "aliases": [
+    "Memphis Group",
+    "Memphis Milano",
+    "Memphis design"
+  ],
+  "summary": "Clashing color, laminate patterns, and toy-like geometry. Postmodern play.",
+  "lede": "The postmodern style of the Memphis Group, founded in Milan by Ettore Sottsass and active from 1980 to 1987: bright clashing colors, printed laminates, squiggles and speckles, and furniture built from bold, toy-like forms.",
+  "moods": [
+    "playful",
+    "loud",
+    "irreverent",
+    "postmodern"
+  ],
+  "era": {
+    "from": 1980,
+    "to": 1987,
+    "note": "The group’s active years, per Wikipedia. Revivals continue in graphic and web design."
+  },
+  "regions": [
+    "Italy",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q1273221"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Memphis Group",
+      "url": "https://en.wikipedia.org/wiki/Memphis_Group",
+      "checked": "2026-09-25"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "reaction-against",
+      "label": "Modernist good design",
+      "note": "Memphis rejected the functional restraint associated with the Bauhaus and later modernism."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Studio Alchimia",
+      "wikidata": "Q2011880",
+      "note": "Sottsass worked with Studio Alchimia, a Milan avant-garde group founded in 1976, before he founded Memphis."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Pop art",
+      "wikidata": "Q134147",
+      "note": "Bright commercial color and references to popular culture."
+    },
+    {
+      "relation": "related-to",
+      "label": "Corporate Memphis",
+      "wikidata": "Q105676972",
+      "note": "A 2010s flat illustration style named after the group. It shares bright color but not the group’s patterns or furniture forms."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Clashing brights.",
+      "text": "Pink, yellow, turquoise, red, and black together, often at full saturation."
+    },
+    {
+      "facet": "surface",
+      "term": "Printed pattern.",
+      "text": "Laminate patterns such as squiggles, speckles, and bacteria-like marks cover whole surfaces."
+    },
+    {
+      "facet": "imagery",
+      "term": "Toy geometry.",
+      "text": "Cylinders, spheres, arches, zigzags, and stepped forms combine like building blocks."
+    },
+    {
+      "facet": "layout",
+      "term": "Deliberate imbalance.",
+      "text": "Parts meet at odd angles and different scales. Symmetry is avoided."
+    },
+    {
+      "facet": "structure",
+      "term": "Black-and-white grids.",
+      "text": "Grid patterns in black and white act as a neutral foil for strong colors."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Four or more saturated colors appear together, including pinks and turquoises.",
+      "Repeating patterns such as squiggles, dots, speckles, or grids fill surfaces.",
+      "Forms are geometric but playful, with odd combinations of scale and angle."
+    ],
+    "counter": [
+      "A restrained palette of one or two colors.",
+      "Strict grid alignment and quiet typography carry the design.",
+      "Photographic realism or glossy 3D rendering dominates."
+    ],
+    "confusions": [
+      {
+        "with": "Corporate Memphis",
+        "difference": "Corporate Memphis is flat vector illustration of people with long limbs. Memphis is about pattern, color, and object form."
+      },
+      {
+        "with": "bauhaus",
+        "difference": "Bauhaus shapes are elementary and the palette is primary. Memphis is irregular, decorative, and uses many non-primary colors."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Neo-brutalism also uses bright colors, but relies on thick outlines and hard shadows, not pattern."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Combine at least four saturated colors, for example pink, yellow, turquoise, and black.",
+      "Fill backgrounds or panels with a pattern: squiggles, confetti dots, or a black-and-white grid.",
+      "Place geometric shapes such as circles, half circles, triangles, and zigzags around content, at odd angles.",
+      "Use a bold display face for headings and keep body text plain for reading."
+    ],
+    "dont": [
+      "Do not put body text on top of a busy pattern. Use a solid panel under text.",
+      "Do not use gradients or realistic shadows.",
+      "Do not reduce the style to cartoon people. That is Corporate Memphis, a different style."
+    ],
+    "uses": [
+      "Festivals",
+      "Youth brands",
+      "Galleries",
+      "Playful product launches"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.chromaticShare",
+      "note": "Saturated panels and shapes cover a noticeable share of the page. Provisional: set from the specimen, recalibrate with measured references.",
+      "min": 0.12
+    },
+    {
+      "metric": "color.distinct",
+      "min": 5,
+      "note": "Many colors at once."
+    },
+    {
+      "metric": "color.accentChroma",
+      "note": "The colors that appear are strong, not muted.",
+      "min": 0.6
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.05,
+      "note": "Color is flat."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.05,
+      "note": "Repeating laminate-style patterns cover part of the page."
+    },
+    {
+      "metric": "color.hues",
+      "min": 3,
+      "note": "Many hues at once."
+    }
+  ],
+  "synthesis": [
+    "Furniture defines the style: Sottsass’s [Carlton](ref:sottsass-carlton-room-divider-1981) and [Casablanca](ref:sottsass-casablanca-sideboard-1981), Shire’s [Bel Air chair](ref:shire-bel-air-chair-1982), and De Lucchi’s [First chair](ref:de-lucchi-first-chair-1983) combine laminate color with toy-like parts.",
+    "Pattern is equally central. Du Pasquier’s [Gabon textile](ref:du-pasquier-gabon-textile-1982) and the [1985 swatch card](ref:memphis-printed-cotton-swatch-1985) show the prints that covered surfaces.",
+    "Christoph Radl’s [logotype](ref:radl-memphis-logotype-drawing-1982) and [leaflet](ref:radl-memphis-milano-leaflet-1983) show how the group presented itself in print: blocky letters, black grounds, and labelled pattern samples.",
+    "All Memphis references are link-only, because the works are in copyright. No image is stored here. Follow the source links to see them."
+  ]
+}

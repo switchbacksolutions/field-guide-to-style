@@ -1,0 +1,183 @@
+{
+  "id": "neo-brutalism",
+  "title": "Neo-brutalism",
+  "order": 6,
+  "status": "pilot",
+  "naming": "industry",
+  "aliases": [
+    "Neubrutalism",
+    "Neo brutalism"
+  ],
+  "summary": "Thick outlines, hard shadows, and loud flat color. Interfaces that look built.",
+  "lede": "A web and interface style of the 2020s: flat bright fills, thick black outlines, hard offset shadows with no blur, large bold type, and components that look like physical blocks.",
+  "moods": [
+    "direct",
+    "loud",
+    "playful",
+    "raw"
+  ],
+  "era": {
+    "from": 2021,
+    "note": "Gumroad announced its redesign on 26 November 2021. Malewicz described the trend in March 2022."
+  },
+  "regions": [
+    "International"
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "label": "Brutalist web design",
+      "note": "Earlier deliberately raw websites, which used default HTML, visible structure, and no polish."
+    },
+    {
+      "relation": "related-to",
+      "label": "Brutalist architecture",
+      "wikidata": "Q994776",
+      "note": "The connection is by name and attitude: exposed structure and raw material. It is not a visual descent."
+    },
+    {
+      "relation": "reaction-against",
+      "label": "Flat design",
+      "wikidata": "Q15266360",
+      "note": "A common reading: it keeps flat color but brings back strong edges and depth through hard shadows."
+    },
+    {
+      "relation": "related-to",
+      "style": "memphis",
+      "note": "Shares bright, playful color. Memphis relies on pattern, neo-brutalism on outlines and shadows."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Thick outlines.",
+      "text": "Every card, button, and input has a 2 to 4 px black border."
+    },
+    {
+      "facet": "surface",
+      "term": "Hard shadows.",
+      "text": "Solid black shadows offset down and right, with no blur. Pressed buttons move into their shadow."
+    },
+    {
+      "facet": "color",
+      "term": "Flat brights.",
+      "text": "Yellow, pink, mint, lilac, and orange fills on off-white or white."
+    },
+    {
+      "facet": "type",
+      "term": "Heavy display type.",
+      "text": "Large, bold grotesque or geometric sans-serif headings. Sometimes monospaced labels."
+    },
+    {
+      "facet": "layout",
+      "term": "Blocky layout.",
+      "text": "Components stack as distinct blocks with visible edges. Little overlap, little transparency."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Most components have thick black outlines.",
+      "Shadows are solid and offset with no blur.",
+      "Fills are flat, bright colors.",
+      "Headings are large and heavy."
+    ],
+    "counter": [
+      "Soft, blurred shadows or glass effects.",
+      "Thin hairline borders or no borders.",
+      "Muted or monochrome palettes with gradients."
+    ],
+    "confusions": [
+      {
+        "with": "Brutalist web design",
+        "difference": "Brutalist web design is raw and often default-styled. Neo-brutalism is a polished, colorful system with outlines and hard shadows."
+      },
+      {
+        "with": "memphis",
+        "difference": "Memphis uses patterns and irregular shapes. Neo-brutalism uses outlined rectangles and hard shadows."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Give every interactive element a 2 to 3 px solid black border.",
+      "Use a hard shadow such as 4px 4px 0 black. On press, move the element 4 px down and right and remove the shadow.",
+      "Fill cards and buttons with flat bright colors. Keep text black for contrast.",
+      "Use a heavy sans-serif for headings at large sizes.",
+      "Keep corners square or slightly rounded, up to 8 px."
+    ],
+    "dont": [
+      "Do not blur shadows or use gradients.",
+      "Do not use thin gray borders. The outline must read as a strong black line.",
+      "Do not use more than one pastel as a large background."
+    ],
+    "uses": [
+      "Creator tools",
+      "Startups",
+      "Portfolios",
+      "Developer products"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.border.share",
+      "min": 0.4,
+      "note": "Most surfaces have outlines."
+    },
+    {
+      "metric": "surface.border.medianWidth",
+      "min": 2.5,
+      "note": "Outlines are thick."
+    },
+    {
+      "metric": "surface.shadow.hardShare",
+      "min": 0.8,
+      "note": "Shadows have no blur."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 8,
+      "note": "Corners are square or slightly rounded."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Fills are flat."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "note": "Bright fills appear on cards and controls over a neutral ground. Provisional: set from the specimen, recalibrate with measured references.",
+      "min": 0.05
+    },
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.25,
+      "note": "Many blocks carry a hard shadow."
+    }
+  ],
+  "attestation": [
+    {
+      "label": "Michał Malewicz, “Neubrutalism is taking over the web” (2022)",
+      "url": "https://hype4.academy/articles/design/neubrutalism-is-taking-over-web",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Nielsen Norman Group, “Neobrutalism: Definition and Best Practices” (2025)",
+      "url": "https://www.nngroup.com/articles/neobrutalism/",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Envato, “Trend Deep Dive: Neo-brutalism” (2023)",
+      "url": "https://author.envato.com/hub/trend-deep-dive-neo-brutalism/",
+      "checked": "2026-09-25"
+    }
+  ],
+  "synthesis": [
+    "Two articles define the style: [Malewicz (2022)](ref:malewicz-neubrutalism-article-2022) and [NN/g (2025)](ref:nngroup-neobrutalism-article-2025). Both name [Gumroad’s 2021 redesign](ref:gumroad-website-redesign-2021) as a key example.",
+    "Open-source component libraries turn the style into reusable parts: [neobrutalism components](ref:neobrutalism-components-library) for React, a [SwiftUI package](ref:neobrutalism-swiftui-package), a [Flutter package](ref:neubrutalism-ui-flutter-package), [RetroUI](ref:retroui-component-library), and Snowball’s [Fractal](ref:snowball-fractal-design-system) design system.",
+    "Measured evidence qualifies the fingerprint. The archived Gumroad home page from January 2022 has flat bright fields, black rules, and square corners, but no shadows at rest. Hard shadows may belong to hover states and component libraries more than to every neo-brutalist page."
+  ],
+  "preview": [
+    "neobrutalism-components-library",
+    "gumroad-website-redesign-2021"
+  ]
+}

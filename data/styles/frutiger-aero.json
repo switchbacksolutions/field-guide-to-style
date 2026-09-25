@@ -1,0 +1,178 @@
+{
+  "id": "frutiger-aero",
+  "title": "Frutiger Aero",
+  "order": 5,
+  "status": "pilot",
+  "naming": "internet-aesthetic",
+  "aliases": [
+    "Aero",
+    "Web 2.0 gloss"
+  ],
+  "summary": "Glass, water, sky, and gloss. Optimistic technology from the mid-2000s.",
+  "lede": "A design style common from the mid-2000s to the early 2010s: glossy and translucent interface elements, blue and green gradients, water, bubbles, sky, and grass, and humanist sans-serif type. The Consumer Aesthetics Research Institute named it in 2018.",
+  "moods": [
+    "optimistic",
+    "fresh",
+    "glossy",
+    "eco-technological"
+  ],
+  "era": {
+    "from": 2004,
+    "to": 2013,
+    "note": "Wikipedia: mid-2000s to early 2010s, with a revival as an internet aesthetic from 2023."
+  },
+  "regions": [
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q118114289"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Frutiger Aero",
+      "url": "https://en.wikipedia.org/wiki/Frutiger_Aero",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Consumer Aesthetics Research Institute: Frutiger Aero",
+      "url": "https://cari.institute/aesthetics/frutiger-aero",
+      "checked": "2026-09-25"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "label": "Aqua (user interface)",
+      "wikidata": "Q622898",
+      "note": "Apple’s Aqua theme introduced water-like, reflective, translucent controls."
+    },
+    {
+      "relation": "descendant-of",
+      "label": "Windows Aero",
+      "wikidata": "Q219710",
+      "note": "Windows Vista (2006) and Windows 7 made glass, animation, and translucency the default desktop look. The style’s name refers to it."
+    },
+    {
+      "relation": "related-to",
+      "label": "Y2K aesthetic",
+      "wikidata": "Q130484971",
+      "note": "Wikipedia describes Frutiger Aero as the successor to the Y2K aesthetic."
+    },
+    {
+      "relation": "related-to",
+      "label": "Glassmorphism",
+      "wikidata": "Q138454357",
+      "note": "A 2020s style with frosted, blurred panels but without gloss highlights or nature imagery."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "Gloss and glass.",
+      "text": "Buttons and panels have a bright highlight on the upper half, reflections, and translucency."
+    },
+    {
+      "facet": "color",
+      "term": "Sky and water.",
+      "text": "Blues, aquas, and fresh greens on white, usually as vertical gradients."
+    },
+    {
+      "facet": "imagery",
+      "term": "Clean nature.",
+      "text": "Water drops, bubbles, fish, green hills, clouds, and lens flares, often combined with technology."
+    },
+    {
+      "facet": "type",
+      "term": "Humanist sans-serif.",
+      "text": "Frutiger, Segoe UI, Myriad, and similar open, friendly typefaces."
+    },
+    {
+      "facet": "surface",
+      "term": "Soft depth.",
+      "text": "Rounded corners, soft drop shadows, and floor reflections under objects."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Interface elements have a glossy highlight or glass translucency.",
+      "Blue, aqua, or green gradients dominate.",
+      "Images show water, sky, bubbles, or green landscapes, often with technology.",
+      "Corners are rounded and shadows are soft."
+    ],
+    "counter": [
+      "Flat color with no gradients or highlights.",
+      "Dark, gritty, or dystopian imagery.",
+      "Hard offset shadows or thick black outlines."
+    ],
+    "confusions": [
+      {
+        "with": "Glassmorphism",
+        "difference": "Glassmorphism uses frosted blur over colorful backgrounds, but no gloss highlight, reflections, or nature imagery."
+      },
+      {
+        "with": "Y2K aesthetic",
+        "difference": "Y2K prefers chrome, silver, and cyber-futurism. Frutiger Aero prefers water, sky, and green nature."
+      },
+      {
+        "with": "Skeuomorphism",
+        "difference": "Skeuomorphic design imitates real materials such as leather and paper. Frutiger Aero imitates glass and water and stays optimistic and airy."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a sky-to-white or aqua-to-blue vertical gradient for the page or hero background.",
+      "Give primary buttons a pill shape, a gradient fill, and a white highlight on the upper half.",
+      "Use translucent white panels with a light border and a soft shadow.",
+      "Use a humanist sans-serif such as Segoe UI, Frutiger, or Myriad.",
+      "Add nature imagery: water, bubbles, clouds, or grass."
+    ],
+    "dont": [
+      "Do not use hard offset shadows or thick black outlines.",
+      "Do not use dark mode or desaturated palettes as the base.",
+      "Do not reduce contrast for gloss effects. Keep text readable on every gradient."
+    ],
+    "uses": [
+      "Consumer software",
+      "Music players",
+      "Eco and wellness brands",
+      "Nostalgic campaigns"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.gradientShare",
+      "min": 0.15,
+      "note": "Many surfaces carry gradients."
+    },
+    {
+      "metric": "surface.radius.median",
+      "min": 6,
+      "note": "Corners are rounded."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.1,
+      "note": "Soft depth is common."
+    },
+    {
+      "metric": "surface.shadow.hardShare",
+      "max": 0.2,
+      "note": "Shadows are blurred, not hard."
+    },
+    {
+      "metric": "color.chroma",
+      "min": 0.15,
+      "note": "Fresh blues and greens, not grays."
+    }
+  ],
+  "synthesis": [
+    "Operating systems set the look: [Windows Vista](ref:windows-vista-aero-interface) and [Windows 7](ref:windows-7-aero-interface) glass, with [Aqua](ref:mac-os-x-aqua-interface) and the [Bliss wallpaper](ref:bliss-windows-xp-wallpaper-1996) as precursors, and the open-source [KDE Plasma 4](ref:kde-plasma-4-desktop) desktop as a parallel.",
+    "Stock imagery and icons spread it beyond software: the [Asadal globe image](ref:asadal-earth-and-city-10-2007) and the [Crystal Clear icons](ref:crystal-clear-icons-everaldo-coelho). The [Wii menu](ref:wii-menu-2006) and a [post office interior](ref:poste-italiane-agenzia-62-iosa-ghini-2007) show it in consoles and architecture.",
+    "The name’s link to the [Frutiger](ref:frutiger-typeface-1976) typeface is loose. The interfaces mostly used [Segoe UI](ref:segoe-ui-typeface) and similar faces."
+  ],
+  "preview": [
+    "asadal-earth-and-city-10-2007",
+    "kde-plasma-4-desktop"
+  ]
+}

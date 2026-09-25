@@ -1,0 +1,188 @@
+{
+  "id": "bauhaus",
+  "title": "Bauhaus",
+  "order": 3,
+  "status": "pilot",
+  "naming": "historical",
+  "aliases": [
+    "Bauhaus style"
+  ],
+  "summary": "Primary colors, basic shapes, and bold bars. Form follows the workshop.",
+  "lede": "The visual language associated with the Bauhaus school (1919–1933): primary colors, circles, squares, and triangles, heavy rules, sans-serif and lowercase type, and objects designed for industrial production.",
+  "moods": [
+    "constructive",
+    "bold",
+    "geometric",
+    "experimental"
+  ],
+  "era": {
+    "from": 1919,
+    "to": 1933,
+    "note": "The school’s dates. The visual language continues in later revivals."
+  },
+  "regions": [
+    "Germany"
+  ],
+  "identifiers": {
+    "wikidata": "Q124354"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Bauhaus",
+      "url": "https://en.wikipedia.org/wiki/Bauhaus",
+      "checked": "2026-09-25"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "De Stijl",
+      "wikidata": "Q207445",
+      "note": "Theo van Doesburg taught informal De Stijl courses in Weimar in 1921–1922. The common reading is that primary color and orthogonal composition entered Bauhaus work through this contact."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Constructivism",
+      "wikidata": "Q207103",
+      "note": "László Moholy-Nagy, who joined in 1923, brought constructivist photomontage and typography."
+    },
+    {
+      "relation": "related-to",
+      "style": "international-typographic-style",
+      "note": "The later Swiss style extends Bauhaus typography into a systematic grid method."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Primary triad.",
+      "text": "Red, yellow, and blue with black, white, and gray. Colors are flat and saturated."
+    },
+    {
+      "facet": "imagery",
+      "term": "Elementary shapes.",
+      "text": "Circles, squares, and triangles, alone or combined into figures and letters."
+    },
+    {
+      "facet": "type",
+      "term": "Sans-serif, often lowercase.",
+      "text": "Geometric or grotesque letters. Herbert Bayer’s universal alphabet (1925) removed capitals."
+    },
+    {
+      "facet": "structure",
+      "term": "Bars and rules.",
+      "text": "Thick black bars divide and direct the page. Diagonals add movement."
+    },
+    {
+      "facet": "layout",
+      "term": "Asymmetric montage.",
+      "text": "Type, photographs, and shapes combine in dynamic, off-center compositions."
+    },
+    {
+      "facet": "surface",
+      "term": "Honest materials.",
+      "text": "In objects: tubular steel, glass, metal, and plain wood, with visible construction."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Two or more primary colors appear as flat areas.",
+      "Circles, squares, or triangles are composition elements, not only icons.",
+      "Type is sans-serif, often bold or lowercase.",
+      "Heavy bars or rules organize the layout."
+    ],
+    "counter": [
+      "Pastel or muted palettes without primary accents.",
+      "Organic, ornamental, or script forms.",
+      "Gradients, gloss, or soft shadows."
+    ],
+    "confusions": [
+      {
+        "with": "memphis",
+        "difference": "Memphis uses clashing, non-primary colors, patterns, and playful, irregular shapes. Bauhaus shapes are elementary and the palette is primary."
+      },
+      {
+        "with": "De Stijl",
+        "difference": "De Stijl allows only horizontal and vertical lines and rectangles. Bauhaus uses circles, triangles, and diagonals too."
+      },
+      {
+        "with": "international-typographic-style",
+        "difference": "The Swiss style is quieter: fewer colors, no decorative shapes, and a strict grid."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use flat red, yellow, and blue on white or off-white, with black for text and bars.",
+      "Use large circles, squares, and triangles as layout elements, for example behind a heading.",
+      "Use a geometric sans-serif. Lowercase headings are appropriate.",
+      "Separate sections with thick black bars.",
+      "Break symmetry with one strong diagonal or off-center shape."
+    ],
+    "dont": [
+      "Do not use gradients, soft shadows, or rounded cards.",
+      "Do not add more than three hues beyond black, white, and gray.",
+      "Do not scatter shapes as random decoration. Each shape needs a place in the composition."
+    ],
+    "uses": [
+      "Exhibitions",
+      "Architecture and furniture studios",
+      "Education",
+      "Event posters"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.chromaticShare",
+      "note": "Primary colors mark the composition but neutral paper dominates the page area. Provisional: set from the specimen, recalibrate with measured references.",
+      "min": 0.05,
+      "max": 0.6
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Color is flat."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.1,
+      "note": "Depth effects are rare."
+    },
+    {
+      "metric": "color.distinct",
+      "min": 3,
+      "max": 7,
+      "note": "The triad plus neutrals."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Boxes are square. Circles appear as shapes, not as rounded boxes."
+    },
+    {
+      "metric": "color.hues",
+      "min": 2,
+      "max": 4,
+      "note": "Two or more of the primaries appear."
+    },
+    {
+      "metric": "color.patternShare",
+      "max": 0.05,
+      "note": "Flat fields, not repeating patterns. Patterns point to Memphis."
+    },
+    {
+      "metric": "surface.radius.roundShare",
+      "max": 0.1,
+      "note": "Rectangles are square. Circles appear only as shapes."
+    }
+  ],
+  "synthesis": [
+    "Print carries most of the style’s graphic identity: Joost Schmidt’s [1923 exhibition poster](ref:bauhaus-exhibition-poster-1923) and [Offset cover](ref:offset-bauhaus-issue-1926), Moholy-Nagy’s [Bauhausbücher](ref:bauhausbucher-8-malerei-fotografie-film), and Kandinsky’s [exhibition postcard](ref:kandinsky-bauhaus-exhibition-postcard-1923).",
+    "Objects show the same geometry in material: Marianne Brandt’s [tea infuser](ref:brandt-tea-infuser-mt-49), the [Wagenfeld–Jucker lamp](ref:wagenfeld-jucker-table-lamp), and Breuer’s [club chair](ref:breuer-club-chair-b3). The [Dessau building](ref:bauhaus-building-dessau) and Stölzl’s [weaving design](ref:stolzl-five-choirs-design) extend it to architecture and textile.",
+    "Measured evidence qualifies the “primary triad” in the grammar. Image measurements of the stored prints find one or two strong hues in most of them. The 1923 poster is red and black on paper, and only the [Offset cover](ref:offset-bauhaus-issue-1926) shows three. The triad is typical of later revivals, so the fingerprint, which asks for two or more hues, describes web implementations more than the historical print."
+  ],
+  "preview": [
+    "bauhaus-exhibition-poster-1923",
+    "offset-bauhaus-issue-1926"
+  ]
+}
