@@ -1,0 +1,59 @@
+{
+  "id": "snowball-website",
+  "title": "Snowball media website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The newsletter site of Snowball, the French personal-finance publisher behind the Fractal design system.",
+  "summary": "Violet hero, heavy headline, and an outlined card with a hard shadow; borderline against the fingerprint.",
+  "source": {
+    "url": "https://media.snowball.xyz/",
+    "label": "media.snowball.xyz"
+  },
+  "creator": {
+    "name": "Snowball",
+    "url": "https://www.snowball.xyz/"
+  },
+  "moods": [
+    "friendly",
+    "bright"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. snowball.xyz redirected to media.snowball.xyz. A cookie banner covers the lower left of the screenshot."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "Applies Fractal on a production site: an outlined card with a hard shadow and flat pastel fields. It fails the fingerprint on 1 px outlines and some gradients.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A flat pink navigation bar sits above a flat violet hero with a faint grid.",
+    "The headline is a heavy geometric sans-serif in black.",
+    "The signup card has a black outline and a solid black shadow. The subscribe button is a white pill with a black outline.",
+    "Small coin and banknote illustrations have black outlines.",
+    "A black band carries white statistics text."
+  ],
+  "interpretation": [
+    "A moderate application of the style: the card and illustrations follow it, but the pill buttons and thin outlines soften it."
+  ],
+  "images": [
+    {
+      "file": "assets/references/snowball-website.jpg",
+      "alt": "Snowball media home page: a pink navigation bar, a violet hero with the heavy black headline “Le média qui t’apprend à investir sur le long terme”, an outlined signup card with a hard shadow, small outlined coin illustrations, and a cookie banner at lower left.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [media.snowball.xyz](https://media.snowball.xyz/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Snowball. Screenshot captured for commentary."
+  }
+}

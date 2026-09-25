@@ -1,0 +1,62 @@
+{
+  "id": "windows-7-website-2009",
+  "title": "Windows 7 website, 2009",
+  "type": "website",
+  "medium": "website",
+  "lede": "Microsoft’s Windows 7 launch site as archived in November 2009.",
+  "summary": "Pale sky ground, a glossy orange hero, a grass-mound icon, and glossy box shots.",
+  "source": {
+    "url": "http://www.microsoft.com/windows/windows-7/",
+    "label": "microsoft.com/windows/windows-7",
+    "archive": "https://web.archive.org/web/20091101155741/http://www.microsoft.com/windows/windows-7/"
+  },
+  "creator": {
+    "name": "Microsoft"
+  },
+  "made": "2009",
+  "moods": [
+    "optimistic",
+    "warm",
+    "glossy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "Carries the style’s motifs: a pale sky gradient, a glossy hero with light streaks, a small green grass hill, and reflective product boxes. Judge by the rubric. The page drew its gloss with images, so the CSS fingerprint does not apply (see the style page).",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The page sits on a pale sky-blue gradient.",
+    "The hero is a warm orange panel with light streaks and a screenshot of the Windows 7 desktop.",
+    "The tour illustration is a small green grass mound with a tree.",
+    "Product box shots are glossy and green with highlights.",
+    "Links are blue with small round arrow icons."
+  ],
+  "interpretation": [
+    "The launch site has more of the style than the [Vista site](ref:windows-vista-website-2007): nature motifs and glossy objects arrive in the web layer."
+  ],
+  "related": "The operating system: [Windows 7 Aero interface](ref:windows-7-aero-interface).",
+  "images": [
+    {
+      "file": "assets/references/windows-7-website-2009.jpg",
+      "alt": "Archived Windows 7 home page: a pale sky-blue background, a glossy orange hero reading “Introducing Windows 7. Your PC, simplified.”, a small green grass-hill illustration, numbered feature lists, and glossy green product boxes.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [November 2009 archived copy](https://web.archive.org/web/20091101155741/http://www.microsoft.com/windows/windows-7/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Microsoft. Screenshot captured for commentary."
+  }
+}

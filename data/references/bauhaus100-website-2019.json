@@ -1,0 +1,62 @@
+{
+  "id": "bauhaus100-website-2019",
+  "title": "Bauhaus100 centenary website, 2019",
+  "type": "website",
+  "medium": "website",
+  "lede": "The official website of the Bauhaus centenary year, as archived in February 2019.",
+  "summary": "A revival identity: slate-blue field, a lowercase “100 jahre bauhaus” mark, yellow headline, red map.",
+  "source": {
+    "url": "https://www.bauhaus100.de/",
+    "label": "bauhaus100.de",
+    "archive": "https://web.archive.org/web/20190225074016/https://www.bauhaus100.de/"
+  },
+  "creator": {
+    "name": "Bauhaus Verbund 2019"
+  },
+  "made": "2019",
+  "moods": [
+    "bold",
+    "institutional",
+    "geometric"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The archived page may lack some images or scripts that the live page had. A cookie bar appears at the bottom."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "bauhaus",
+      "note": "A 2019 web revival. It passes the fingerprint, measured on screenshot pixels for hue count.",
+      "basis": "agent",
+      "qualifier": "revival"
+    }
+  ],
+  "observed": [
+    "A flat slate-blue field fills the page behind the content.",
+    "The logo is a blocky yellow 100 above lowercase “jahre bauhaus” in a geometric sans-serif.",
+    "The headline is set in heavy yellow sans-serif. A flat yellow button carries black text.",
+    "The slide image is a map of Germany with one state in flat red.",
+    "Navigation is white sans-serif. Slider arrows and dots are plain white."
+  ],
+  "interpretation": [
+    "The revival keeps the lowercase logotype, flat primary accents, and heavy sans-serif, but places them on a muted blue-gray instead of paper white. That muted ground is a 2010s choice, not a Bauhaus one."
+  ],
+  "images": [
+    {
+      "file": "assets/references/bauhaus100-website-2019.jpg",
+      "alt": "Archived Bauhaus100 home page: a slate-blue background, the yellow “100 jahre bauhaus” logo at top left, a map of Germany with one state in flat red, a large yellow headline “Von der Schuhleiste zum Adler Gropius”, and a yellow button.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [February 2019 archived copy](https://web.archive.org/web/20190225074016/https://www.bauhaus100.de/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the Bauhaus Verbund 2019 and its partners. Screenshot captured for commentary."
+  }
+}

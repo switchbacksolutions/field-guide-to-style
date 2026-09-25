@@ -1,0 +1,65 @@
+{
+  "id": "neobrutalism-dev-website",
+  "title": "Neobrutalism components website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The documentation site of an open-source neo-brutalist component library, styled with its own components.",
+  "summary": "Black-outlined controls with hard shadows on a pale blue grid, with outlined green star shapes.",
+  "source": {
+    "url": "https://www.neobrutalism.dev/",
+    "label": "neobrutalism.dev"
+  },
+  "creator": {
+    "name": "Samuel Breznjak",
+    "url": "https://samuelbreznjak.com"
+  },
+  "made": "2023–present",
+  "moods": [
+    "playful",
+    "direct",
+    "bright"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "A clear real example that passes the style’s fingerprint: 2 px outlines, hard shadows on 40% of boxes, and strong accents.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A pale blue page carries a thin blue-gray grid pattern.",
+    "The navigation bar ends in a thick black rule. Search, GitHub, and X buttons have black outlines and hard black shadows.",
+    "The centered headline is heavy geometric sans-serif, with “neobrutalism” in bright green with a black outline, framed by outlined asterisk shapes.",
+    "The single call to action is a blue button with a black outline and a solid black shadow offset down and right.",
+    "Outlined green stars and blobs in several shapes are scattered around the edges."
+  ],
+  "interpretation": [
+    "The site is the component library applied to itself, so it shows the grammar at page scale: outline, hard shadow, flat bright fill. Most of the page area is pale, and the brights are accents."
+  ],
+  "borrow": [
+    "Put the brights on small elements and keep the ground pale. Give every clickable element the same outline and shadow."
+  ],
+  "related": "The library itself: [Neobrutalism components](ref:neobrutalism-components-library).",
+  "images": [
+    {
+      "file": "assets/references/neobrutalism-dev-website.jpg",
+      "alt": "Neobrutalism components home page: a pale blue grid background, a centered headline “Build bold neobrutalism layouts in minutes” with the word neobrutalism in outlined green, a blue Get started button with a hard black shadow, and outlined green star shapes around the edges.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [neobrutalism.dev](https://www.neobrutalism.dev/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

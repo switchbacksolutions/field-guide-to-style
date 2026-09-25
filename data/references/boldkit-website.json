@@ -1,0 +1,56 @@
+{
+  "id": "boldkit-website",
+  "title": "BoldKit website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The site of a neubrutalism component library for React and Vue, with a live component preview in the hero.",
+  "summary": "Condensed display type, outlined tags and buttons with hard shadows, and a pastel grid ground.",
+  "source": {
+    "url": "https://boldkit.dev/",
+    "label": "boldkit.dev"
+  },
+  "moods": [
+    "bold",
+    "technical",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "Passes the fingerprint: 2 px outlines on 91% of boxes, hard shadows, square corners, and five hues of strong accents.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The wordmark BOLD KIT is set very large in a condensed sans-serif, with KIT in outline letters.",
+    "Framework tags (React, Vue 3, Nuxt, MCP) are small outlined labels in flat colors with hard shadows.",
+    "A coral Get Started button and white Browse Components and GitHub buttons all have black outlines and hard shadows.",
+    "A preview panel with a black frame shows outlined buttons, shape tiles, and stat cards.",
+    "The page ground is off-white with a faint grid. Body text is monospaced."
+  ],
+  "interpretation": [
+    "Adds monospaced body text and condensed display type to the grammar. This is where neo-brutalism touches the technical, instrument-like side of [Minimalist Machine](style:minimalist-machine)."
+  ],
+  "images": [
+    {
+      "file": "assets/references/boldkit-website.jpg",
+      "alt": "BoldKit home page: the large wordmark BOLD KIT with KIT in outline letters, colored outlined framework tags, a coral Get Started button and white outlined buttons with hard shadows, and a framed preview panel of outlined components on the right.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [boldkit.dev](https://boldkit.dev/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

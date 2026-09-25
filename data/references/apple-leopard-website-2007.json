@@ -1,0 +1,62 @@
+{
+  "id": "apple-leopard-website-2007",
+  "title": "Mac OS X Leopard website, 2007",
+  "type": "website",
+  "medium": "website",
+  "lede": "Apple’s Mac OS X Leopard page as archived in November 2007.",
+  "summary": "Silver gradient navigation, an aurora wallpaper on laptop screens, and a reflective floor.",
+  "source": {
+    "url": "http://www.apple.com/macosx/",
+    "label": "apple.com/macosx",
+    "archive": "https://web.archive.org/web/20071101131506/http://www.apple.com/macosx/"
+  },
+  "creator": {
+    "name": "Apple"
+  },
+  "made": "2007",
+  "moods": [
+    "polished",
+    "glossy",
+    "cosmic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "Part of the Aqua line that precedes the style: the aurora wallpaper, glossy blue pill buttons, and reflections under the hardware.",
+      "basis": "agent",
+      "qualifier": "precursor"
+    }
+  ],
+  "observed": [
+    "A silver gradient navigation bar with a darker selected tab.",
+    "Three MacBooks show the purple-pink aurora wallpaper, standing on a white floor with soft reflections.",
+    "Small blue pill buttons with a gloss highlight (Watch the guided tour, Buy Now).",
+    "A glossy disc with a galaxy image and a presenter photo promote the guided tour."
+  ],
+  "interpretation": [
+    "Shows the Apple side of the lineage. It is more silver and cosmic than the sky-and-grass Microsoft examples, closer to Aqua than to the later Frutiger Aero imagery."
+  ],
+  "related": "See [Aqua](ref:mac-os-x-aqua-interface).",
+  "images": [
+    {
+      "file": "assets/references/apple-leopard-website-2007.jpg",
+      "alt": "Archived Mac OS X Leopard page: a silver navigation bar, the headline “Add a new Mac to your Mac.”, three laptops showing a purple aurora wallpaper standing on a reflective white floor, and glossy blue pill buttons.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [November 2007 archived copy](https://web.archive.org/web/20071101131506/http://www.apple.com/macosx/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Apple. Screenshot captured for commentary."
+  }
+}

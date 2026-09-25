@@ -1,0 +1,62 @@
+{
+  "id": "abet-bacterio-laminate-page",
+  "title": "Bacterio laminate, Abet Laminati product page",
+  "type": "product",
+  "medium": "product",
+  "lede": "The manufacturer’s current product page for Ettore Sottsass’s Bacterio laminate pattern.",
+  "summary": "The Bacterio pattern in black on white: irregular squiggles and blobs at an even density.",
+  "source": {
+    "url": "https://abetlaminati.com/en/collections/bacterio-ettore-sottsass/",
+    "label": "Abet Laminati: Bacterio | Ettore Sottsass"
+  },
+  "creator": {
+    "name": "Ettore Sottsass (pattern); Abet Laminati (manufacturer)"
+  },
+  "made": "Pattern 1978, per Abet’s and other sources; page current",
+  "moods": [
+    "playful",
+    "restless",
+    "graphic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A cookie consent panel covers the lower half of the screenshot. The pattern is visible."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "memphis",
+      "note": "The page calls Bacterio “the iconic pattern of the Memphis movement”. It shows the laminate that covered Memphis furniture surfaces.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A large swatch shows the pattern: black squiggles, bars, and blobs of similar size spread evenly over white.",
+    "The heading reads “Bacterio | Ettore Sottsass” in heavy black sans-serif on a gray panel.",
+    "The text below says that Bacterio is the iconic pattern of the Memphis movement."
+  ],
+  "interpretation": [
+    "The pattern that the [Memphis specimen](style:memphis) imitates with tiled squiggles. It is a real product, still in production, so it is the most direct source for Memphis surface pattern in this catalogue.",
+    "The page itself is not in the Memphis style, and the pattern is an image, so the fingerprint does not apply to this capture."
+  ],
+  "next": [
+    "Record the pattern’s date from a primary source. The 1978 date comes from secondary sources and was not checked here."
+  ],
+  "images": [
+    {
+      "file": "assets/references/abet-bacterio-laminate-page.jpg",
+      "alt": "Abet Laminati product page: the heading Bacterio | Ettore Sottsass on a gray panel, a large swatch of black squiggles and blobs on white, and a cookie consent panel over the lower half.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [Abet Laminati’s Bacterio page](https://abetlaminati.com/en/collections/bacterio-ettore-sottsass/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Abet Laminati and the Sottsass estate. Screenshot captured for commentary."
+  }
+}

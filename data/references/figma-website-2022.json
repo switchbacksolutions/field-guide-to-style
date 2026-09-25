@@ -8,7 +8,7 @@
   "source": {
     "url": "https://www.figma.com/",
     "label": "Figma",
-    "archive": "https://web.archive.org/web/20220401000000*/figma.com"
+    "archive": "https://web.archive.org/web/20220228235551/https://www.figma.com/"
   },
   "creator": {
     "name": "Figma"
@@ -19,8 +19,8 @@
     "loud"
   ],
   "evidence": {
-    "level": "documented",
-    "note": "Based on Malewicz’s March 2022 article, which analyzes Figma screenshots, and on NN/g. No Figma page from that period was inspected."
+    "level": "observed",
+    "note": "Wayback Machine capture of figma.com from 28 February 2022, captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) and inspected on 25 September 2026."
   },
   "reviewed": "2026-09-25",
   "added": "2026-09-25",
@@ -28,7 +28,8 @@
     {
       "id": "neo-brutalism",
       "note": "Malewicz (2022) names Figma and Gumroad as the “two main innovators” of neubrutalism, and NN/g repeats Figma as an example.",
-      "basis": "agent"
+      "basis": "agent",
+      "qualifier": "influence"
     }
   ],
   "context": [
@@ -36,14 +37,30 @@
     "[NN/g, “Neobrutalism: Definition and Best Practices” (Hayat Sheikh, 11 April 2025)](https://www.nngroup.com/articles/neobrutalism/) names “Figma's brand refresh” as an example, linking to [Figma’s October 2019 brand post](https://www.figma.com/blog/bringing-new-life-to-figmas-brand/) by Tori Hinn. That post predates the name and does not use it."
   ],
   "interpretation": [
-    "Figma appears in early accounts as an origin point, but the evidence describes contrast and deliberate roughness more than the outline-and-hard-shadow component grammar. Treat it as an influence until a capture confirms the traits."
+    "The capture does not show the outline-and-hard-shadow grammar. It fails the fingerprint on outline width, radius, and shadows. Figma’s influence on the style, as Malewicz describes it, is in its playful stickers, bright accents, and hand-made marks, not in its layout components. The placement stays, but as an influence."
   ],
   "next": [
-    "Capture Wayback copies of figma.com pages from early 2022 (the Malewicz article is archived from 8 April 2022). Check for outlines, hard shadows, and flat brights before keeping this placement."
+    "Check other Figma pages from 2021–2022, such as the Config and community pages, for stronger examples."
   ],
   "rights": {
-    "tier": "D",
+    "tier": "C",
     "license": "unverified",
-    "statement": "Figma website and brand material. Link and metadata only."
-  }
+    "statement": "Figma’s design and content belong to Figma. Captured from the Internet Archive for commentary."
+  },
+  "observed": [
+    "White page with a centered black headline, “Nothing great is designed alone.”, in a large sans-serif. The word “designed” is violet inside a thin selection box with a cursor label.",
+    "Buttons are black with white text and rounded corners. No component has a thick outline or a hard shadow.",
+    "Below the hero, a mock Figma editor shows the product interface with small colorful stickers and a hand-drawn yellow stroke."
+  ],
+  "images": [
+    {
+      "file": "assets/references/figma-website-2022.jpg",
+      "alt": "Archived Figma home page: a white page with the headline “Nothing great is designed alone.” where “designed” is violet in a selection box, a black Try Figma for free button, and a mock editor interface with colorful stickers below.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [February 2022 archived copy of figma.com](https://web.archive.org/web/20220228235551/https://www.figma.com/).",
+      "saved": "2026-09-25"
+    }
+  ]
 }

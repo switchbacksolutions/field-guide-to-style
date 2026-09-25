@@ -1,0 +1,66 @@
+{
+  "id": "retroui-website",
+  "title": "NeoBrutalism website (formerly RetroUI)",
+  "type": "website",
+  "medium": "website",
+  "lede": "The site of a React component library that renamed itself from RetroUI to NeoBrutalism, now in a dark theme.",
+  "summary": "Dark neo-brutalism: yellow fills, outlined buttons with hard shadows, and a tilted marquee band.",
+  "source": {
+    "url": "https://neobrutalism.com/",
+    "label": "neobrutalism.com",
+    "archive": "https://web.archive.org/web/2025/https://retroui.dev/"
+  },
+  "creator": {
+    "name": "Arif Hossain",
+    "url": "https://neobrutalism.com/"
+  },
+  "made": "2024–present",
+  "moods": [
+    "retro",
+    "direct",
+    "loud"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. retroui.dev redirected to neobrutalism.com."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "Passes the fingerprint in a dark theme: 2 px outlines, hard shadows, square corners, and one strong yellow accent.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "retroui.dev now redirects here. The earlier banner in the [RetroUI record](ref:retroui-component-library) shows a light theme.",
+  "observed": [
+    "Near-black background with a warm radial glow. The top announcement bar is flat yellow.",
+    "Headline in heavy uppercase display type, with “NEOBRUTALISM” set on a flat yellow block.",
+    "Get Started is a yellow button with an outline and a hard shadow. Get All Access is dark with a light outline.",
+    "A mock agent window has a thin light frame with a yellow hard shadow.",
+    "A cream band set at a slight angle carries a monospaced marquee of feature labels."
+  ],
+  "interpretation": [
+    "Shows that the style survives a dark theme when outlines, hard shadows, and flat brights stay. It is also evidence that the neo-brutalism name now carries commercial value."
+  ],
+  "borrow": [
+    "In dark mode, invert the outline color but keep the hard shadow offset and the flat accent."
+  ],
+  "images": [
+    {
+      "file": "assets/references/retroui-website.jpg",
+      "alt": "NeoBrutalism home page in a dark theme: a yellow announcement bar, the headline “Create retro looking UI with NEOBRUTALISM” with the last word on a yellow block, yellow and dark outlined buttons, a framed mock agent window on the right, and a tilted cream marquee band.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [neobrutalism.com](https://neobrutalism.com/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "windows-vista-website-2007",
+  "title": "Windows Vista website, 2008",
+  "type": "website",
+  "medium": "website",
+  "lede": "Microsoft’s Windows Vista product site as archived in July 2008.",
+  "summary": "White page under a pale blue sky gradient, blue link text, and small glossy product imagery.",
+  "source": {
+    "url": "http://www.microsoft.com/windows/windows-vista/",
+    "label": "microsoft.com/windows/windows-vista",
+    "archive": "https://web.archive.org/web/20080719003216/http://www.microsoft.com/windows/windows-vista/"
+  },
+  "creator": {
+    "name": "Microsoft"
+  },
+  "made": "2008 (capture date)",
+  "moods": [
+    "clean",
+    "corporate",
+    "airy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "The product site of the operating system that defined the style. The site itself applies it lightly: pale sky gradients and glossy icons, not glass panels. Judge by the rubric. The page drew its gloss with images, so the CSS fingerprint does not apply (see the style page).",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A pale blue gradient fills the top of the page behind the Windows flag logo.",
+    "Navigation and headings use orange and blue text on white.",
+    "Small product illustrations show glossy boxes and a PC with blue highlights.",
+    "Content sits in narrow columns of small type."
+  ],
+  "interpretation": [
+    "A useful contrast with the [Vista interface](ref:windows-vista-aero-interface) record: the style was strongest in the software, and the marketing web of 2008 carried only its colors and small glossy pictures."
+  ],
+  "images": [
+    {
+      "file": "assets/references/windows-vista-website-2007.jpg",
+      "alt": "Archived Windows Vista home page: the Windows logo on a pale blue gradient header, orange section headings, small blue link lists, a photo of people with a laptop, and small glossy product icons.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [July 2008 archived copy](https://web.archive.org/web/20080719003216/http://www.microsoft.com/windows/windows-vista/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Microsoft. Screenshot captured for commentary."
+  }
+}

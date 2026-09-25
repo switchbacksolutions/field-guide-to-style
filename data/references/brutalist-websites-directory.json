@@ -19,8 +19,8 @@
     "direct"
   ],
   "evidence": {
-    "level": "documented",
-    "note": "Home page text read on 2026-09-25. Earliest Wayback capture found: 13 August 2015. The 2014 start date and Deville’s authorship come from secondary sources."
+    "level": "observed",
+    "note": "Live home page captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) and inspected on 25 September 2026. The 2014 start date and Deville’s authorship come from secondary sources."
   },
   "reviewed": "2026-09-25",
   "added": "2026-09-25",
@@ -38,11 +38,27 @@
     "[Michał Malewicz, “Neubrutalism is taking over the web” (Hype4 Academy, first published 28 March 2022)](https://hype4.academy/articles/design/neubrutalism-is-taking-over-web) describes neubrutalism as brutalism in web design mixed with modern typography, illustration, and animation. [NN/g, “Neobrutalism: Definition and Best Practices” (Hayat Sheikh, 11 April 2025)](https://www.nngroup.com/articles/neobrutalism/) contrasts brutalist sites with more colorful and orderly neobrutalist ones."
   ],
   "interpretation": [
-    "Keep it beside the neo-brutalist records to show the break: the name and the anti-polish attitude carried over, but the visual system did not."
+    "Keep it beside the neo-brutalist records to show the break: the name and the anti-polish attitude carried over, but the visual system did not. The measurement confirms this: zero outlines and zero shadows."
   ],
   "rights": {
-    "tier": "D",
+    "tier": "C",
     "license": "unverified",
-    "statement": "Link and metadata only."
-  }
+    "statement": "The directory and the listed sites belong to their owners. Screenshot captured for commentary."
+  },
+  "observed": [
+    "A light gray page with a short monospaced introduction at top left and a Submit link.",
+    "Submitted sites appear as a loose grid of screenshots with monospaced captions.",
+    "No component has an outline, shadow, or rounded corner. The only strong colors come from the screenshots."
+  ],
+  "images": [
+    {
+      "file": "assets/references/brutalist-websites-directory.jpg",
+      "alt": "Brutalist Websites home page: a gray page with a short monospaced text block at top left and a loose grid of website screenshots with monospaced captions, including RAW Magazine, Disslist, and Nelson Heinemann.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [brutalistwebsites.com](https://brutalistwebsites.com/).",
+      "saved": "2026-09-25"
+    }
+  ]
 }

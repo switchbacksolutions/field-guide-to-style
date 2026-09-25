@@ -1,0 +1,59 @@
+{
+  "id": "snowball-fractal-website",
+  "title": "Fractal design system documentation",
+  "type": "website",
+  "medium": "website",
+  "lede": "The Storybook documentation of Snowball’s Fractal design system.",
+  "summary": "Documentation site whose cover shows outlined, hard-shadowed swatch cards; the page chrome itself is plainer.",
+  "source": {
+    "url": "https://fractal.snowball.xyz/",
+    "label": "fractal.snowball.xyz"
+  },
+  "creator": {
+    "name": "Snowball",
+    "url": "https://www.snowball.xyz/"
+  },
+  "made": "2023–present",
+  "moods": [
+    "systematic",
+    "bright"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "The system is neo-brutalist, but the documentation page mostly is not. It fails the fingerprint on outline share and width.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A black sidebar lists components. A flat pink top bar spans the content area.",
+    "The cover image shows swatch cards with black outlines and hard shadows in mint, violet, yellow, cyan, and pink.",
+    "The documentation text sits on an off-white page with a heavy sans-serif title and plain body text."
+  ],
+  "interpretation": [
+    "Measurement separates the system from its documentation shell: the style lives in the components and the cover art, not in the Storybook frame. This is a useful case for the rule that a reference must show the style, not only describe it."
+  ],
+  "related": "See the system record: [Fractal](ref:snowball-fractal-design-system).",
+  "images": [
+    {
+      "file": "assets/references/snowball-fractal-website.jpg",
+      "alt": "Fractal Storybook page: a black sidebar of component names, a pink top bar, the title Fractal, and a cover image of colored swatch cards with black outlines and hard shadows.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [fractal.snowball.xyz](https://fractal.snowball.xyz/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Snowball. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "neubrutalism-com-website",
+  "title": "Neubrutalism guide website",
+  "type": "website",
+  "medium": "website",
+  "lede": "A guide to the style that is built in the style, with its own CSS rules shown as outlined sticky notes.",
+  "summary": "Huge black display type on flat yellow, with CSS declarations on outlined, hard-shadowed notes.",
+  "source": {
+    "url": "https://neubrutalism.com/",
+    "label": "neubrutalism.com"
+  },
+  "moods": [
+    "loud",
+    "didactic",
+    "raw"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "The strongest real match so far: it passes every fingerprint metric, with 3 px outlines and hard shadows on 39% of boxes.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The hero is flat yellow with the word NEUBRUTALISM split over three lines in very large, very heavy extended type.",
+    "Three tilted notes in black, coral, and teal show the CSS declarations border: 3px solid #000, box-shadow: 5px 5px 0 #000, and border-radius: 0.",
+    "A small coral label with an outline reads “EST. EARLY 2020s”.",
+    "The navigation bar is black with white text and a square outlined menu button."
+  ],
+  "interpretation": [
+    "The page states its own tokens as content, which makes it a direct source for the style’s values: 3 px black borders, a 5 px unblurred shadow, and no radius."
+  ],
+  "borrow": [
+    "Use the three declarations it shows as a starting point: 3 px solid black border, 5 px 5 px 0 black shadow, zero radius."
+  ],
+  "images": [
+    {
+      "file": "assets/references/neubrutalism-com-website.jpg",
+      "alt": "Neubrutalism guide home page: a black navigation bar above a flat yellow hero with the word NEUBRUTALISM in huge heavy black type, and three tilted notes in black, coral, and teal listing border, box-shadow, and border-radius values.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [neubrutalism.com](https://neubrutalism.com/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

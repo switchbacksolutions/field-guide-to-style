@@ -1,0 +1,58 @@
+{
+  "id": "windows-live-messenger-website-2009",
+  "title": "Windows Live Messenger website, 2009",
+  "type": "website",
+  "medium": "website",
+  "lede": "The Windows Live Messenger download page as archived in November 2009.",
+  "summary": "A pale blue gradient header and screenshots of the glossy Messenger windows; the page itself is plain.",
+  "source": {
+    "url": "http://download.live.com/messenger",
+    "label": "download.live.com/messenger",
+    "archive": "https://web.archive.org/web/20091101160927/http://download.live.com/messenger"
+  },
+  "creator": {
+    "name": "Microsoft"
+  },
+  "made": "2009",
+  "moods": [
+    "friendly",
+    "light"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "frutiger-aero",
+      "note": "A weak example: only the pale blue header and the screenshots of Messenger windows carry the style. Judge by the rubric. The page drew its gloss with images, so the CSS fingerprint does not apply (see the style page).",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A pale blue gradient header holds the Windows Live logo and navigation.",
+    "The center shows overlapping screenshots of Messenger windows with blue glass title bars.",
+    "The rest of the page is white with small orange headings and blue links."
+  ],
+  "interpretation": [
+    "Kept as a boundary case: the product is in the style, the page mostly is not."
+  ],
+  "images": [
+    {
+      "file": "assets/references/windows-live-messenger-website-2009.jpg",
+      "alt": "Archived Windows Live Messenger download page: a pale blue gradient header, the heading “More than just chatting”, overlapping screenshots of Messenger windows with blue title bars, and a Download button on the right.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [November 2009 archived copy](https://web.archive.org/web/20091101160927/http://download.live.com/messenger).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Microsoft. Screenshot captured for commentary."
+  }
+}
