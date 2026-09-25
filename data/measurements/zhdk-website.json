@@ -1,0 +1,137 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.zhdk.ch/en/zurich-university-of-the-arts-1",
+  "title": "Zurich University of the Arts | ZHdK.ch",
+  "captured": "2026-09-25T16:14:46.171Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica",
+        "share": 1
+      }
+    ],
+    "baseSize": 45,
+    "maxSize": 85,
+    "sizeRange": 1.89,
+    "scaleRatio": 1.89,
+    "headingWeight": 700,
+    "bodyWeight": 700,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.19
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.639
+      },
+      {
+        "hex": "#f1f1f1",
+        "share": 0.218
+      },
+      {
+        "hex": "#767676",
+        "share": 0.07
+      },
+      {
+        "hex": "#000000",
+        "share": 0.065
+      },
+      {
+        "hex": "#ffe49f",
+        "share": 0.008
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#767676",
+    "contrast": 4.5,
+    "chroma": 0,
+    "lightness": 0.88,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.38,
+    "distinct": 4,
+    "hues": 1,
+    "imageShare": 0.05,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 5,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.2,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.905
+      },
+      {
+        "hex": "#fee49f",
+        "share": 0.014
+      },
+      {
+        "hex": "#010101",
+        "share": 0.013
+      },
+      {
+        "hex": "#e9e9e9",
+        "share": 0.011
+      },
+      {
+        "hex": "#6e6e6e",
+        "share": 0.006
+      },
+      {
+        "hex": "#dddddd",
+        "share": 0.006
+      },
+      {
+        "hex": "#bfbfbf",
+        "share": 0.006
+      },
+      {
+        "hex": "#cfcfcf",
+        "share": 0.005
+      },
+      {
+        "hex": "#797979",
+        "share": 0.005
+      },
+      {
+        "hex": "#afafaf",
+        "share": 0.004
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.01,
+    "lightness": 0.96,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.37,
+    "distinct": 1,
+    "hues": 1
+  }
+}

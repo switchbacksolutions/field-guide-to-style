@@ -1,0 +1,66 @@
+{
+  "id": "stedelijk-website",
+  "title": "Stedelijk Museum Amsterdam website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The museum’s home page stacks its name and its programme as full-width lines of very large grotesque capitals between heavy black rules.",
+  "summary": "Huge black grotesque capitals in full-width bands between heavy rules, with one flat green button.",
+  "source": {
+    "url": "https://www.stedelijk.nl/en",
+    "label": "stedelijk.nl"
+  },
+  "creator": {
+    "name": "Stedelijk Museum Amsterdam",
+    "url": "https://www.stedelijk.nl/en"
+  },
+  "moods": [
+    "bold",
+    "objective",
+    "direct"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A cookie notice covers part of the lower right quarter of the screenshot."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "A clear example: grotesque type at extreme scale, flush left, in black and white with one flat accent, organized in horizontal bands. It passes every fingerprint metric.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The word STEDELIJK fills the full width of the page in very large black grotesque capitals.",
+    "A tilted yellow sticker with the word “Unbubble” in a heavy rounded display face overlaps the last letters of the name.",
+    "Below it, “MUSEUM OF MODERN AND CONTEMPORARY ART AND DESIGN” is set in one line of smaller capitals.",
+    "Heavy black horizontal rules divide the page into bands. Each band holds one line of large capitals, such as “WHAT’S ON: EXHIBITIONS &” and “YAYOI KUSAMA”, cut off at the right edge.",
+    "One small square photograph sits inside a band next to the word NEW.",
+    "The only flat color in the interface is a bright green “Book ticket” button at the top right."
+  ],
+  "interpretation": [
+    "The measurement finds one grotesque family (Union) for 98% of the text, square corners, no shadows, two CSS colors, a size range of 3.47, and 52% uppercase text.",
+    "The yellow sticker is an exhibition campaign placed on top of the identity, not part of the grid. It is the one element that breaks the style."
+  ],
+  "borrow": [
+    "Treat a list of exhibitions as a stack of full-width type bands separated by heavy rules.",
+    "Keep one accent color for the one action that matters (here, tickets)."
+  ],
+  "images": [
+    {
+      "file": "assets/references/stedelijk-website.jpg",
+      "alt": "Stedelijk Museum home page: the word STEDELIJK in huge black grotesque capitals across the top with a tilted yellow Unbubble sticker, then full-width bands of large capitals reading What’s on, Yayoi Kusama, and Kho Liang Ie between heavy black rules, a green Book ticket button, and a black cookie notice at the lower right.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [stedelijk.nl](https://www.stedelijk.nl/en).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the Stedelijk Museum Amsterdam. Screenshot captured for commentary."
+  }
+}

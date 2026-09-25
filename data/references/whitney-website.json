@@ -1,0 +1,68 @@
+{
+  "id": "whitney-website",
+  "title": "Whitney Museum of American Art website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The museum’s home page uses its responsive W, a zigzag line drawn across the page, above bold grotesque navigation between thin rules.",
+  "summary": "A thin zigzag W across the top, bold black grotesque capitals for navigation, and artworks in a two-column grid.",
+  "source": {
+    "url": "https://whitney.org/",
+    "label": "whitney.org"
+  },
+  "creator": {
+    "name": "Whitney Museum of American Art",
+    "url": "https://whitney.org/"
+  },
+  "moods": [
+    "bold",
+    "graphic",
+    "objective"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A cookie notice covers part of the lower left of the screenshot."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "A clear example in the interface: one grotesque family, flush-left capitals, thin rules, square outlined buttons, and only black, white, and gray. The color on the page comes from the artworks. It passes every fingerprint metric.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Whitney’s graphic identity, the “responsive W”, was designed by Experimental Jetset in 2013 ([studio archive](https://www.jetset.nl/archive/whitney-museum-identity)). The studio has not been confirmed as the designer of the current website."
+  ],
+  "observed": [
+    "A thin black zigzag line crosses the full width of the page and forms a large W.",
+    "The word WHITNEY sits inside the first valley of the zigzag in heavy black capitals.",
+    "“Open today: 10:30 am–10 pm” and two square outlined buttons, BOOK TICKETS and BECOME A MEMBER, sit at the right, above a thin rule.",
+    "The navigation (VISIT, WHAT’S ON, ART & ARTISTS, LEARN, SHOP) is set in large bold black capitals, flush left, between two thin rules.",
+    "Below, a wide image of a colorful painting and a narrower image of a hot dog with ketchup sit in two columns.",
+    "The caption “ALEX DA CORTE: HOT DOG WITH KETCHUP” is set in bold capitals, the first line black and the second gray."
+  ],
+  "interpretation": [
+    "The measurement finds only Neue Haas Grotesk (haas-grotesk-text and haas-grotesk-sign), square corners, no shadows, two CSS colors, and a size range of 3.25.",
+    "The zigzag is the identity’s one graphic form, and it is drawn with a thin line, not filled. This follows the style’s preference for simple geometric forms over illustration."
+  ],
+  "borrow": [
+    "Use one thin geometric line as the identity mark, and let type and rules do the rest of the work."
+  ],
+  "images": [
+    {
+      "file": "assets/references/whitney-website.jpg",
+      "alt": "Whitney Museum home page: a thin black zigzag W across the top with WHITNEY in heavy black capitals, two square outlined buttons, a row of bold black capital navigation links between thin rules, and two artworks below, a colorful painting and a hot dog with ketchup, with a cookie notice at the lower left.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [whitney.org](https://whitney.org/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the Whitney Museum of American Art. Artworks belong to their artists. Screenshot captured for commentary."
+  }
+}

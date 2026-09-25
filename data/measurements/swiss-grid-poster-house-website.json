@@ -1,0 +1,137 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://swissgrid.posterhouse.org/",
+  "title": "The Swiss Grid",
+  "captured": "2026-09-25T16:11:37.500Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "akzidenz-grotesk",
+        "share": 1
+      }
+    ],
+    "baseSize": 21,
+    "maxSize": 170,
+    "sizeRange": 8.1,
+    "scaleRatio": 1.52,
+    "headingWeight": 300,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.03,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.963
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.033
+      },
+      {
+        "hex": "#757575",
+        "share": 0.004
+      },
+      {
+        "hex": "#c9c9c9",
+        "share": 0.001
+      },
+      {
+        "hex": "#e00087",
+        "share": 0
+      }
+    ],
+    "background": "#000000",
+    "text": "#000000",
+    "contrast": 1,
+    "chroma": 0,
+    "lightness": 0.03,
+    "chromaticShare": 0,
+    "accentChroma": 0.88,
+    "distinct": 2,
+    "hues": 0,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 40,
+    "radius": {
+      "median": 0,
+      "max": 50,
+      "roundShare": 0.13
+    },
+    "border": {
+      "share": 0.68,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.08,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.831
+      },
+      {
+        "hex": "#fefefe",
+        "share": 0.129
+      },
+      {
+        "hex": "#141414",
+        "share": 0.006
+      },
+      {
+        "hex": "#272727",
+        "share": 0.004
+      },
+      {
+        "hex": "#c1c1c1",
+        "share": 0.004
+      },
+      {
+        "hex": "#d5d5d5",
+        "share": 0.003
+      },
+      {
+        "hex": "#f3f3f3",
+        "share": 0.003
+      },
+      {
+        "hex": "#e1e1e1",
+        "share": 0.003
+      },
+      {
+        "hex": "#3a3a3a",
+        "share": 0.002
+      },
+      {
+        "hex": "#525252",
+        "share": 0.002
+      }
+    ],
+    "background": "#000000",
+    "chroma": 0,
+    "lightness": 0.15,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0
+  }
+}

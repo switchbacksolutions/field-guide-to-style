@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.moma.org/",
+  "title": "The Museum of Modern Art, New York City | MoMA",
+  "captured": "2026-09-25T16:14:24.631Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "MoMA Sans",
+        "share": 0.97
+      },
+      {
+        "family": "MoMA Sans Bold",
+        "share": 0.03
+      }
+    ],
+    "baseSize": 18,
+    "maxSize": 60,
+    "sizeRange": 3.33,
+    "scaleRatio": 1.35,
+    "headingWeight": 900,
+    "bodyWeight": 400,
+    "headingTracking": -0.02,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.609
+      },
+      {
+        "hex": "#eeeeee",
+        "share": 0.19
+      },
+      {
+        "hex": "#000000",
+        "share": 0.167
+      },
+      {
+        "hex": "#8fc421",
+        "share": 0.022
+      },
+      {
+        "hex": "#767676",
+        "share": 0.008
+      },
+      {
+        "hex": "#00b7f2",
+        "share": 0.003
+      },
+      {
+        "hex": "#02b042",
+        "share": 0.001
+      },
+      {
+        "hex": "#6bdcc5",
+        "share": 0.001
+      },
+      {
+        "hex": "#444444",
+        "share": 0.001
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0.02,
+    "lightness": 0.8,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.67,
+    "distinct": 4,
+    "hues": 2,
+    "imageShare": 0.19,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 29,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.17,
+      "medianWidth": 3
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.03,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.326
+      },
+      {
+        "hex": "#01dbda",
+        "share": 0.201
+      },
+      {
+        "hex": "#ebebec",
+        "share": 0.067
+      },
+      {
+        "hex": "#817d6a",
+        "share": 0.057
+      },
+      {
+        "hex": "#777159",
+        "share": 0.048
+      },
+      {
+        "hex": "#8d9080",
+        "share": 0.044
+      },
+      {
+        "hex": "#9d9062",
+        "share": 0.04
+      },
+      {
+        "hex": "#646d66",
+        "share": 0.039
+      },
+      {
+        "hex": "#9d9cb4",
+        "share": 0.033
+      },
+      {
+        "hex": "#6a7d89",
+        "share": 0.022
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.23,
+    "lightness": 0.68,
+    "chromaticShare": 0.24,
+    "accentChroma": 0.82,
+    "distinct": 10,
+    "hues": 3
+  }
+}

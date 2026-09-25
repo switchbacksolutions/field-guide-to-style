@@ -1,0 +1,125 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.jetset.nl/",
+  "title": "Experimental Jetset - Online Archive",
+  "captured": "2026-09-25T16:11:29.552Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica",
+        "share": 1
+      }
+    ],
+    "baseSize": 13.2,
+    "maxSize": 13.2,
+    "sizeRange": 1,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0.01,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.833
+      },
+      {
+        "hex": "#000000",
+        "share": 0.167
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0,
+    "lightness": 0.83,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 3,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 1,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.654
+      },
+      {
+        "hex": "#a2a2a2",
+        "share": 0.061
+      },
+      {
+        "hex": "#f1f1f1",
+        "share": 0.054
+      },
+      {
+        "hex": "#c7c7c7",
+        "share": 0.045
+      },
+      {
+        "hex": "#8e8e8e",
+        "share": 0.04
+      },
+      {
+        "hex": "#afafaf",
+        "share": 0.039
+      },
+      {
+        "hex": "#dedede",
+        "share": 0.038
+      },
+      {
+        "hex": "#777777",
+        "share": 0.032
+      },
+      {
+        "hex": "#696969",
+        "share": 0.015
+      },
+      {
+        "hex": "#d3d3d3",
+        "share": 0.015
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0,
+    "lightness": 0.9,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 8,
+    "hues": 0
+  }
+}

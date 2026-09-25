@@ -1,0 +1,129 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.stedelijk.nl/en",
+  "title": "Stedelijk Museum Amsterdam",
+  "captured": "2026-09-25T16:14:29.316Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Union Regular",
+        "share": 0.98
+      },
+      {
+        "family": "Union SMA Ribbon",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 30,
+    "maxSize": 104,
+    "sizeRange": 3.47,
+    "scaleRatio": 1.95,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.52,
+    "monoShare": 0,
+    "centerShare": 0.02
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.786
+      },
+      {
+        "hex": "#0a0a0a",
+        "share": 0.214
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#0a0a0a",
+    "contrast": 19.8,
+    "chroma": 0,
+    "lightness": 0.79,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0,
+    "imageShare": 0.12,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 46,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.52,
+      "medianWidth": 6
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.35,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.635
+      },
+      {
+        "hex": "#0a0a0a",
+        "share": 0.171
+      },
+      {
+        "hex": "#8d8d8d",
+        "share": 0.017
+      },
+      {
+        "hex": "#787878",
+        "share": 0.015
+      },
+      {
+        "hex": "#323332",
+        "share": 0.015
+      },
+      {
+        "hex": "#fcd71c",
+        "share": 0.014
+      },
+      {
+        "hex": "#c2c2c1",
+        "share": 0.013
+      },
+      {
+        "hex": "#d3d3d3",
+        "share": 0.013
+      },
+      {
+        "hex": "#a9a8a8",
+        "share": 0.013
+      },
+      {
+        "hex": "#666666",
+        "share": 0.012
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.02,
+    "lightness": 0.73,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.8,
+    "distinct": 2,
+    "hues": 2
+  }
+}

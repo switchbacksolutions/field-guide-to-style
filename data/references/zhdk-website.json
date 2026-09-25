@@ -1,0 +1,65 @@
+{
+  "id": "zhdk-website",
+  "title": "Zurich University of the Arts website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The ZHdK home page hangs a bold Helvetica title and a list of large gray links from one strong left axis.",
+  "summary": "Bold black Helvetica on white, hung from one left axis, with small right-aligned labels in the margin column.",
+  "source": {
+    "url": "https://www.zhdk.ch/en",
+    "label": "zhdk.ch"
+  },
+  "creator": {
+    "name": "Zurich University of the Arts",
+    "url": "https://www.zhdk.ch/en"
+  },
+  "moods": [
+    "rational",
+    "clear",
+    "restrained"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. The English home page redirected to https://www.zhdk.ch/en/zurich-university-of-the-arts-1."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "A clear example from a Zurich design school: Helvetica only, a strong left axis, asymmetric margins, and black, white, and gray. It fails the `type.sizeRange` metric because most of the text on the page is large (see the style page).",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A small Z logo and the letters hdk sit at the top left, with the school’s German and English names in very small type between short horizontal dashes.",
+    "The title “Zurich University of the Arts” is set in two lines of large, bold black sans-serif, flush left.",
+    "A round pale-yellow badge at the top right reads “Subscribe to ZHdK’s event newsletter” in tilted text.",
+    "A thin gray rule separates the title from a section headed ZHdK.",
+    "Six links (Studying at ZHdK, Research, Continuing Education, Preparatory training, International, About us) are set large, bold, and gray, flush left on the same axis as the title.",
+    "In the left margin, the small labels ZHdK, News, and Events are aligned right, against the main axis."
+  ],
+  "interpretation": [
+    "The measurement finds only Helvetica, square corners, no shadows, and one accent hue (the yellow badge). The base size is 45 px because the large links hold most of the characters, so the size range is only 1.89 even though the page has 10 px labels and an 85 px title.",
+    "The margin labels aligned right against the main text column are a direct Swiss-grid device: two columns meet at one shared axis."
+  ],
+  "borrow": [
+    "Set section labels in a narrow margin column, aligned right, so that they meet the main column at one vertical line."
+  ],
+  "images": [
+    {
+      "file": "assets/references/zhdk-website.jpg",
+      "alt": "Zurich University of the Arts home page: a small Z and hdk logo at the top left, the title Zurich University of the Arts in large bold black Helvetica, a round yellow newsletter badge at the right, and a list of six large gray links hanging from the same left edge, with small labels in the left margin.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [zhdk.ch](https://www.zhdk.ch/en).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Zurich University of the Arts. Screenshot captured for commentary."
+  }
+}

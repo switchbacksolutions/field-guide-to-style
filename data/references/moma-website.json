@@ -1,0 +1,65 @@
+{
+  "id": "moma-website",
+  "title": "Museum of Modern Art website",
+  "type": "website",
+  "medium": "website",
+  "lede": "MoMA’s home page sets its bold grotesque wordmark and navigation flush left on a wide grid above a full-width photograph.",
+  "summary": "Bold black grotesque type flush left on a wide grid, a full-width gallery photograph, and a cyan ticket button.",
+  "source": {
+    "url": "https://www.moma.org/",
+    "label": "moma.org"
+  },
+  "creator": {
+    "name": "The Museum of Modern Art",
+    "url": "https://www.moma.org/"
+  },
+  "moods": [
+    "clear",
+    "institutional",
+    "direct"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A cookie bar covers the bottom 60 pixels of the screenshot."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "A borderline example: the type and alignment follow the style (one grotesque family, flush left, square buttons, strong scale contrast), but the page uses two accent colors and a full-bleed color photograph. It fails `color.hues`.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The MoMA wordmark is set in heavy black sans-serif at the top left.",
+    "The navigation (Visit, Exhibitions and events, Art and artists, Store) is bold black sans-serif, flush left under the wordmark.",
+    "At the top right, Membership, a gray Donate button, and a cyan Tickets button have square corners.",
+    "A full-width photograph shows a large cyan wall with colored dots in a gallery.",
+    "Below it, “Welcome” is set large and bold, flush left, with opening hours and a square black “Plan your visit” button on the right.",
+    "A thick black rule runs under the welcome row."
+  ],
+  "interpretation": [
+    "The measurement finds one family (MoMA Sans) for 97% of the text, square corners, no shadows, a size range of 3.33, and no centered text. It finds two accent hues in CSS (a green and the cyan button), and the pixel palette adds the hues of the photograph.",
+    "The page reads as a well-made institutional site that uses Swiss typography. The grid is not visible in the way it is on [Experimental Jetset](ref:jetset-website) or [ZHdK](ref:zhdk-website)."
+  ],
+  "borrow": [
+    "Keep the wordmark, navigation, and headings on one left edge, and put the few actions on the right edge of the same grid."
+  ],
+  "images": [
+    {
+      "file": "assets/references/moma-website.jpg",
+      "alt": "MoMA home page: the MoMA wordmark and a row of bold navigation links at the top left, Donate and cyan Tickets buttons at the top right, a wide photograph of a cyan gallery wall with colored dots, a large Welcome heading with a black Plan your visit button, and a gray cookie bar at the bottom.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [moma.org](https://www.moma.org/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to The Museum of Modern Art. Screenshot captured for commentary."
+  }
+}

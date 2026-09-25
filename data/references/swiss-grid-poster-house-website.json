@@ -1,0 +1,63 @@
+{
+  "id": "swiss-grid-poster-house-website",
+  "title": "The Swiss Grid exhibition website",
+  "type": "website",
+  "medium": "website",
+  "lede": "Poster House’s microsite for its Swiss Grid exhibition opens with the title in huge white Akzidenz-Grotesk on black.",
+  "summary": "The words The Swiss Grid in huge white grotesque on black, with the museum’s name turned vertically at the edges.",
+  "source": {
+    "url": "https://swissgrid.posterhouse.org/",
+    "label": "swissgrid.posterhouse.org"
+  },
+  "creator": {
+    "name": "Poster House",
+    "url": "https://posterhouse.org/"
+  },
+  "moods": [
+    "bold",
+    "stark",
+    "graphic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "A borderline example: the type (Akzidenz-Grotesk, extreme scale, black and white) belongs to the style, but the first viewport is one centered title block, which the rubric counts against it. The site is about the style, which is not evidence that it uses it. It passes every fingerprint metric because the lines are left-aligned inside a centered block (see the style page).",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The page is black.",
+    "The title “The Swiss Grid” fills most of the screen in three lines of very large white grotesque type. The block of three lines sits in the middle of the page.",
+    "The word POSTER runs vertically down the top left edge and HOUSE runs vertically up the bottom right edge, in heavy white capitals.",
+    "A thin eye icon and a three-line menu icon sit at the top right. A thin down arrow sits at the bottom center."
+  ],
+  "interpretation": [
+    "The measurement finds only akzidenz-grotesk, black and white, a size range of 8.1, and no centered text. The layout still reads as centered: the title block is centered with margins, which the `type.centerShare` metric does not see.",
+    "The museum name split across two edges is a poster device: it frames the page from two corners instead of sitting in a header."
+  ],
+  "borrow": [
+    "Split a short name across two opposite page edges, set vertically, to frame a full-screen title."
+  ],
+  "images": [
+    {
+      "file": "assets/references/swiss-grid-poster-house-website.jpg",
+      "alt": "The Swiss Grid microsite: a black screen with the words The Swiss Grid in three lines of huge white grotesque type in the middle, POSTER set vertically on the left edge and HOUSE set vertically on the right edge, with small eye and menu icons at the top right.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [swissgrid.posterhouse.org](https://swissgrid.posterhouse.org/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Poster House. Screenshot captured for commentary."
+  }
+}

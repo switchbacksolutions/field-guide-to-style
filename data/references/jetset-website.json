@@ -1,0 +1,64 @@
+{
+  "id": "jetset-website",
+  "title": "Experimental Jetset website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The Amsterdam studio’s online archive: a directory listing of every project, set in one size of Helvetica on a six-column grid.",
+  "summary": "Six columns of project titles and dates in one size of black Helvetica on white, with finished projects struck through.",
+  "source": {
+    "url": "https://www.jetset.nl/",
+    "label": "jetset.nl"
+  },
+  "creator": {
+    "name": "Experimental Jetset",
+    "url": "https://www.jetset.nl/"
+  },
+  "moods": [
+    "rational",
+    "dense",
+    "plain"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 25 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "international-typographic-style",
+      "note": "A clear example of the grid and the type: every line sits in one of six columns, in black Helvetica, flush left. It has no scale contrast at all, so it fails the `type.sizeRange` metric (see the style page).",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A plain text header reads “Experimental Jetset” at the top left and “Search” at the top right.",
+    "A short vertical menu lists Archive (in bold), Preview, News, About, and Contact.",
+    "A thin black rule spans the page under the menu and a Categories drop-down.",
+    "Below the rule, six equal columns list project titles, each with a month and year aligned to the right of the column.",
+    "Many titles are struck through. All text is black on white and appears to be the same size."
+  ],
+  "interpretation": [
+    "The measurement finds only Helvetica, only black and white, square corners, and no centered text. Every text run is 13.2 px, so the size range is 1.",
+    "The grid carries the whole page: the directory reads as a table because the columns are strict, not because of rules or boxes."
+  ],
+  "borrow": [
+    "Let a long list become the layout: equal columns, one type size, and dates aligned to a fixed column edge."
+  ],
+  "images": [
+    {
+      "file": "assets/references/jetset-website.jpg",
+      "alt": "Experimental Jetset archive page: a small menu at the top left, a thin rule, and six dense columns of project titles with dates, all in small black Helvetica on white, many titles struck through.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [jetset.nl](https://www.jetset.nl/).",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Experimental Jetset. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://whitney.org/",
+  "title": "Whitney Museum of American Art",
+  "captured": "2026-09-25T16:12:03.022Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "haas-grotesk-text",
+        "share": 0.8
+      },
+      {
+        "family": "haas-grotesk-sign",
+        "share": 0.2
+      }
+    ],
+    "baseSize": 20,
+    "maxSize": 65,
+    "sizeRange": 3.25,
+    "scaleRatio": 1.8,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.09,
+    "monoShare": 0,
+    "centerShare": 0.11
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.754
+      },
+      {
+        "hex": "#000000",
+        "share": 0.233
+      },
+      {
+        "hex": "#949494",
+        "share": 0.008
+      },
+      {
+        "hex": "#666666",
+        "share": 0.004
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0,
+    "lightness": 0.76,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0,
+    "imageShare": 0.39,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 24,
+    "radius": {
+      "median": 0,
+      "max": 22,
+      "roundShare": 0.04
+    },
+    "border": {
+      "share": 0.92,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.606
+      },
+      {
+        "hex": "#eae7e1",
+        "share": 0.039
+      },
+      {
+        "hex": "#7d99ae",
+        "share": 0.029
+      },
+      {
+        "hex": "#9d8658",
+        "share": 0.029
+      },
+      {
+        "hex": "#b8c4a6",
+        "share": 0.027
+      },
+      {
+        "hex": "#080606",
+        "share": 0.019
+      },
+      {
+        "hex": "#b8b8b7",
+        "share": 0.019
+      },
+      {
+        "hex": "#8e8c86",
+        "share": 0.019
+      },
+      {
+        "hex": "#b9987e",
+        "share": 0.018
+      },
+      {
+        "hex": "#6e7b6d",
+        "share": 0.017
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.08,
+    "lightness": 0.83,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.62,
+    "distinct": 5,
+    "hues": 2
+  }
+}
