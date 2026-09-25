@@ -1,0 +1,59 @@
+{
+  "id": "neubrutalism-ui-flutter-package",
+  "title": "neubrutalism_ui for Flutter",
+  "type": "product",
+  "medium": "software",
+  "lede": "A Flutter widget kit that carries the “neubrutalism” spelling into cross-platform mobile apps.",
+  "summary": "Outlined, hard-shadowed Flutter buttons, cards, and search bars.",
+  "source": {
+    "url": "https://github.com/infm5/neubrutalism_ui",
+    "label": "infm5/neubrutalism_ui on GitHub"
+  },
+  "creator": {
+    "name": "Deepraj (GitHub: deepraj02), published by infms.dev",
+    "url": "https://pub.dev/packages/neubrutalism_ui"
+  },
+  "made": "2023",
+  "moods": [
+    "playful",
+    "direct"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the README demo image (1554 × 1224) hosted on user-images.githubusercontent.com. Package metadata read from the pub.dev API; licence read through the GitHub API."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "The package uses the name neubrutalism, and its demo app shows black-outlined widgets with solid offset shadows.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "pub.dev describes it as “a set of Neubrutalism-style UI components”. Version 0.1.1 was published on 17 March 2023; version 2.0.2 on 10 November 2023. Publisher: infms.dev.",
+    "The repository carries a CC0 1.0 dedication."
+  ],
+  "observed": [
+    "An iPhone mock-up of a course app. The search bar, icon buttons, cards, and “Start” button have thick black outlines.",
+    "Solid black shadows sit below and to the right of cards and buttons, with no blur.",
+    "Buttons use flat fills: saturated blue for the profile icon, pale pink for “Start” and the filter button.",
+    "Headings use a heavy condensed sans-serif. Corners are rounded more than on most web examples."
+  ],
+  "interpretation": [
+    "Evidence that the style and the “neubrutalism” spelling moved into native mobile toolkits by early 2023. The larger radius shows a softer variant."
+  ],
+  "borrow": [
+    "On mobile, keep the shadow offset small (about 3 to 4 px) so that dense lists stay readable."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The repository is dedicated to CC0, but the demo image is hosted outside the repository and includes third-party cartoon and photographic content, so it is not stored."
+  },
+  "identifiers": {
+    "github": "infm5/neubrutalism_ui",
+    "pubdev": "neubrutalism_ui"
+  }
+}

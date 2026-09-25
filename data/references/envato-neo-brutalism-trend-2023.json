@@ -1,0 +1,47 @@
+{
+  "id": "envato-neo-brutalism-trend-2023",
+  "title": "Envato, “Trend Deep Dive: Neo-brutalism”",
+  "type": "website",
+  "medium": "editorial",
+  "lede": "A stock-marketplace trend brief that carries the name into print templates and social graphics.",
+  "summary": "Envato’s 2023 brief for asset authors, covering UI, social media, and printed posters and flyers.",
+  "source": {
+    "url": "https://author.envato.com/hub/trend-deep-dive-neo-brutalism/",
+    "label": "Envato Author Hub"
+  },
+  "creator": {
+    "name": "Joanna Birleson, Envato",
+    "url": "https://author.envato.com/hub/"
+  },
+  "made": "2023",
+  "moods": [
+    "loud",
+    "playful"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Article text read on 2026-09-25. Published 9 November 2023 per the page metadata."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "It uses the name “Neo-brutalism (AKA Neubrutalism)” and lists hard shadows, outlines, bold color, and no gradients as the style’s traits.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Key traits listed: “Bold modern typography”, “Bold and vibrant colors often with high contrast”, “Lack of gradients”, and “Hard shadows, dark contrasts and outlines”. It advises that shadows “should be black and should have 100% opacity”.",
+    "It applies the name beyond screens: templates “can be adapted to various mediums such as printed posters, flyers and designer portfolios”, and an Envato graphics reviewer encourages authors “to explore Neo-brutalism for print templates”.",
+    "Like Malewicz, it cites Figma and Gumroad as site examples."
+  ],
+  "interpretation": [
+    "Evidence that by late 2023 the name was a commercial template category that spans print and social media, not only web UI."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Envato. Link and quotation only."
+  }
+}

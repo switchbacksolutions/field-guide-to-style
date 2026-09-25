@@ -1,0 +1,48 @@
+{
+  "id": "malewicz-neubrutalism-article-2022",
+  "title": "“Neubrutalism is taking over the web”",
+  "type": "website",
+  "medium": "editorial",
+  "lede": "The March 2022 essay usually credited with naming and spreading the style.",
+  "summary": "Michał Malewicz’s description of neubrutalist contrast, hard shadows, colors, and windows.",
+  "source": {
+    "url": "https://hype4.academy/articles/design/neubrutalism-is-taking-over-web",
+    "label": "Hype4 Academy",
+    "archive": "https://web.archive.org/web/20220421081947/https://hype4.academy/articles/design/neubrutalism-is-taking-over-web"
+  },
+  "creator": {
+    "name": "Michał Malewicz",
+    "url": "https://hype4.academy/"
+  },
+  "made": "2022",
+  "moods": [
+    "direct"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Full text read from the Wayback capture of 21 April 2022. The page’s embedded data gives a first-published time of 2022-03-28. The live page is now partly paywalled."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "An early, widely cited text that names the style and sets out its rules for shadows, outlines, and color.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Malewicz writes: “Neubrutalism, or Neobrutalism as some people call it, is a mix of regular brutalism in web design and more modern typography, illustration and animation standards.”",
+    "On shadows: “The main rule of neubrutalist shadows is to avoid using blur on them.” And: “Instead of soft shadows, it goes for hard, black rectangles under the cards. Instead of typical barely visible borders, it goes for thick, dark and defined outlines.”",
+    "He also describes pure black #000000 against color, computer-window motifs, and names Figma and Gumroad as the “two main innovators”. He notes that earlier brutalism “was mostly popular in poster-design / graphics-design”.",
+    "The GitHub [Awesome Neobrutalism](https://github.com/ComradeAERGO/Awesome-Neobrutalism) list places it first among articles."
+  ],
+  "interpretation": [
+    "The best early attestation for the name. It fixes the diagnostic pair of the style (thick outline and unblurred shadow) and separates it from the raw brutalist web."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Text and images © Hype4 / Michał Malewicz. Link and quotation only."
+  }
+}

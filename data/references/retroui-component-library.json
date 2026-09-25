@@ -1,0 +1,58 @@
+{
+  "id": "retroui-component-library",
+  "title": "RetroUI (neobrutalism/neobrutalism)",
+  "type": "product",
+  "medium": "software",
+  "lede": "A React and Tailwind library published under the name NeoBrutalism, now branded RetroUI.",
+  "summary": "Component library whose banner mixes hard-shadowed display type with retro window frames.",
+  "source": {
+    "url": "https://github.com/neobrutalism/neobrutalism",
+    "label": "neobrutalism/neobrutalism on GitHub"
+  },
+  "creator": {
+    "name": "Arif Hossain",
+    "url": "https://neobrutalism.com/"
+  },
+  "made": "2024–present",
+  "moods": [
+    "loud",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the README banner `public/banner.png` (1200 × 630). Licence read through the GitHub API. The live sites were not captured."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "The repository is published as a NeoBrutalism library, and its banner uses outlined blocks, hard shadows, and flat yellow fills.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The GitHub description reads “A NeoBrutalism styled React + TailwindCSS UI library”. The README heading is “Retro UI”, with documentation at [retroui.dev](https://retroui.dev/docs). On 2026-09-25 the page title of retroui.dev began “NeoBrutalism — Retro UI components for React”.",
+    "Repository created 31 August 2024 under the GitHub organization “NeoBrutalism.com”. MIT License, copyright 2024 Arif Hossain."
+  ],
+  "observed": [
+    "Heavy black condensed display type with a hard white-and-black offset, reading “Not every website has to look the same!”.",
+    "Mock browser windows with thick black frames, yellow title bars, and three-dot controls.",
+    "Cards inside the mock pages have black outlines and flat pastel or yellow fills.",
+    "Cartoon stickers (a yellow bird, cartoon eyes) have heavy black outlines."
+  ],
+  "interpretation": [
+    "Shows the retro-window branch of the style that Malewicz and NN/g both describe: fake OS window chrome combined with outlines and hard shadows. The self-chosen name change to “Retro UI” also shows how close the neo-brutalist and retro-UI labels sit."
+  ],
+  "borrow": [
+    "A window frame with a colored title bar is a cheap, recognizable container in this style. Use it for product demos, not for every card."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The repository is MIT-licensed, but the banner includes third-party logos (Figma, Tailwind CSS, React), so it is not stored here."
+  },
+  "identifiers": {
+    "github": "neobrutalism/neobrutalism"
+  }
+}

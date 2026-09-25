@@ -1,0 +1,48 @@
+{
+  "id": "nngroup-neobrutalism-article-2025",
+  "title": "NN/g, “Neobrutalism: Definition and Best Practices”",
+  "type": "website",
+  "medium": "editorial",
+  "lede": "A usability firm’s definition of the style, with accessibility guidance.",
+  "summary": "Nielsen Norman Group’s 2025 definition: high contrast, blocky layout, bold color, thick borders.",
+  "source": {
+    "url": "https://www.nngroup.com/articles/neobrutalism/",
+    "label": "Nielsen Norman Group",
+    "archive": "https://web.archive.org/web/20250411193416/https://www.nngroup.com/articles/neobrutalism/"
+  },
+  "creator": {
+    "name": "Hayat Sheikh, Nielsen Norman Group",
+    "url": "https://www.nngroup.com/"
+  },
+  "made": "2025",
+  "moods": [
+    "direct"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Article text read on 2026-09-25. Byline and date (11 April 2025) are on the page."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "An authoritative UX source that defines the style under both spellings and lists its traits.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Definition: “Neobrutalism (or neubrutalism), an evolution of traditional brutalism, is a visual-design trend defined by high contrast, blocky layouts, bold colors, thick borders, and ‘unpolished’ elements.”",
+    "It separates the two: brutalist sites “might use plain HTML elements and limited color palettes” (example: Drudge Report), while neobrutalist designs “are likely to be more colorful and orderly”.",
+    "On shadows: “solid, single-color shadows (e.g., a black drop shadow offset by 4px)”. Examples include Gumroad, Figma, 99percentoffsale.com, byooooob.com, cyanbanister.com, dodonut.com, and bieffeforniture.it.",
+    "Best practices: meet contrast ratios, limit the palette to 2 or 3 bold colors, pair chunky headings with neutral body fonts, and pad dense shapes with 24 to 32 px."
+  ],
+  "interpretation": [
+    "Useful for attestation of the name and for the brutalism versus neobrutalism distinction. Some of its examples lean retro or brutalist rather than outline-and-shadow, so each needs a capture."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Nielsen Norman Group. Link and quotation only."
+  }
+}

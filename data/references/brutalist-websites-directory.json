@@ -1,0 +1,48 @@
+{
+  "id": "brutalist-websites-directory",
+  "title": "Brutalist Websites",
+  "type": "website",
+  "medium": "website",
+  "lede": "Pascal Deville’s directory of raw websites: the ancestor that lent neo-brutalism its name, not an example of it.",
+  "summary": "Lineage reference: the brutalist web directory that preceded the colorful neo-brutalist style.",
+  "source": {
+    "url": "https://brutalistwebsites.com/",
+    "label": "brutalistwebsites.com",
+    "archive": "https://web.archive.org/web/20150813145134/http://brutalistwebsites.com/"
+  },
+  "creator": {
+    "name": "Pascal Deville"
+  },
+  "made": "c. 2014–present",
+  "moods": [
+    "raw",
+    "direct"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Home page text read on 2026-09-25. Earliest Wayback capture found: 13 August 2015. The 2014 start date and Deville’s authorship come from secondary sources."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "Lineage only: it is the brutalist web design that neo-brutalism descends from and must be distinguished from.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "This is a lineage reference. Brutalist web design is raw and often default-styled. Neo-brutalism is a polished, colorful component system with thick outlines and hard shadows. Do not use this site as evidence of neo-brutalist traits.",
+  "context": [
+    "The site’s tagline reads: “In its ruggedness and lack of concern to look comfortable or easy, Brutalism can be seen as a reaction by a younger generation to the lightness, optimism, and frivolity of today's web design.”",
+    "The [Webflow blog](https://webflow.com/blog/10-brutalist-websites) and other secondary sources credit Pascal Deville with launching it in 2014.",
+    "[Michał Malewicz, “Neubrutalism is taking over the web” (Hype4 Academy, first published 28 March 2022)](https://hype4.academy/articles/design/neubrutalism-is-taking-over-web) describes neubrutalism as brutalism in web design mixed with modern typography, illustration, and animation. [NN/g, “Neobrutalism: Definition and Best Practices” (Hayat Sheikh, 11 April 2025)](https://www.nngroup.com/articles/neobrutalism/) contrasts brutalist sites with more colorful and orderly neobrutalist ones."
+  ],
+  "interpretation": [
+    "Keep it beside the neo-brutalist records to show the break: the name and the anti-polish attitude carried over, but the visual system did not."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Link and metadata only."
+  }
+}

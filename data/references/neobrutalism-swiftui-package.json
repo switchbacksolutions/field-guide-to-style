@@ -1,0 +1,70 @@
+{
+  "id": "neobrutalism-swiftui-package",
+  "title": "NeoBrutalism for SwiftUI",
+  "type": "product",
+  "medium": "software",
+  "lede": "One SwiftUI modifier that restyles native iOS controls with thick borders and hard shadows.",
+  "summary": "An iOS package that shows the style as a transformation of stock controls.",
+  "source": {
+    "url": "https://github.com/rational-kunal/NeoBrutalism",
+    "label": "rational-kunal/NeoBrutalism on GitHub"
+  },
+  "creator": {
+    "name": "Kunal Kamble",
+    "url": "https://github.com/rational-kunal"
+  },
+  "made": "2025–present",
+  "moods": [
+    "direct",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the README image `docs/media/before-after-light.png` (1980 × 912) and the theme swatch image. Licence read through the GitHub API. The package was not built or run."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "The package is named for the style and converts native controls into outlined, hard-shadowed blocks with flat fills.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The README states: “Add `.neoBrutalism()` at the root and every native control underneath picks up thick borders, hard shadows, and a matching palette.” It lists 30 components and six preset themes, for iOS 17 and later.",
+    "GitHub repository created 2 March 2025. MIT License, copyright 2025 Kunal ([LICENSE](https://github.com/rational-kunal/NeoBrutalism/blob/main/LICENSE))."
+  ],
+  "observed": [
+    "Left: plain SwiftUI controls with blue link-style text, a thin progress bar, and no borders. Right: the same controls with thick black outlines.",
+    "The disclosure row and the Save button fill with flat periwinkle blue and cast a solid black shadow offset down and right.",
+    "The progress bar becomes an outlined bar with a flat fill and a hard black divider at the fill edge.",
+    "Label type becomes heavier on the transformed side. Corners stay slightly rounded."
+  ],
+  "interpretation": [
+    "The before-and-after makes the style legible as a set of deltas: add outline, add hard shadow, fill flat, thicken type. It also shows the style moving from the web into native mobile UI."
+  ],
+  "borrow": [
+    "Describe the style as a transformation of default controls. A side-by-side of plain and styled states is a clear way to teach it."
+  ],
+  "images": [
+    {
+      "file": "assets/references/neobrutalism-swiftui-package.png",
+      "alt": "Two panels. Left, plain SwiftUI: a text field reading Buy oat milk, a blue Details link, a thin blue progress bar, and a blue Save link. Right, the same controls with thick black outlines, periwinkle fills, and hard black offset shadows.",
+      "width": 1600,
+      "height": 737,
+      "kind": "source-image",
+      "caption": "README before-and-after image from [NeoBrutalism for SwiftUI](https://github.com/rational-kunal/NeoBrutalism) by Kunal Kamble, resized. MIT License.",
+      "original": "https://raw.githubusercontent.com/rational-kunal/NeoBrutalism/main/docs/media/before-after-light.png",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "MIT",
+    "statement": "Image committed to the repository as documentation and covered by its MIT License, © 2025 Kunal. It shows only standard SwiftUI controls and the package’s own styling."
+  },
+  "identifiers": {
+    "github": "rational-kunal/NeoBrutalism"
+  }
+}

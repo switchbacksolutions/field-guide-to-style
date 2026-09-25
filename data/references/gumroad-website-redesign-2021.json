@@ -1,0 +1,76 @@
+{
+  "id": "gumroad-website-redesign-2021",
+  "title": "Gumroad website and brand, 2021",
+  "type": "website",
+  "medium": "website",
+  "lede": "The creator-commerce platform’s tenth-anniversary redesign, the example most often cited for the style.",
+  "summary": "Gumroad’s November 2021 brand and website, cited by Malewicz and NN/g as neo-brutalist.",
+  "source": {
+    "url": "https://sahil.gumroad.com/p/introducing-the-new-gumroad",
+    "label": "Sahil Lavingia, “Introducing the new Gumroad”",
+    "archive": "https://web.archive.org/web/20220115112257/https://gumroad.com/"
+  },
+  "creator": {
+    "name": "Gumroad",
+    "url": "https://gumroad.com/"
+  },
+  "made": "2021",
+  "moods": [
+    "loud",
+    "playful",
+    "direct"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Wayback Machine capture of gumroad.com from 15 January 2022 inspected and measured in Chrome on 25 September 2026, plus the founder’s announcement graphic. The live site was also inspected on that date and no longer shows the style."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "Malewicz (2022) calls Gumroad one of the “two main innovators” of neubrutalism, and NN/g (2025) uses it as an example.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "On 26 November 2021 Sahil Lavingia wrote: “Gumroad is ten years old, and we're beginning the next 10 years worth of bets with a new brand (and website, fonts, colors, and more!)” ([announcement](https://sahil.gumroad.com/p/introducing-the-new-gumroad)). The linked essay “Betting on the new Gumroad” is archived from the same day.",
+    "[Michał Malewicz, “Neubrutalism is taking over the web” (Hype4 Academy, first published 28 March 2022)](https://hype4.academy/articles/design/neubrutalism-is-taking-over-web) names Figma and Gumroad as the style’s “two main innovators” and describes Gumroad’s mix of illustration, photography, fake 3D, and parallax.",
+    "[NN/g, “Neobrutalism: Definition and Best Practices” (Hayat Sheikh, 11 April 2025)](https://www.nngroup.com/articles/neobrutalism/) cites Gumroad as an example of neobrutalism in practice.",
+    "Gumroad’s code was released on GitHub under the MIT License in 2025 ([antiwork/gumroad](https://github.com/antiwork/gumroad)). That licence does not clearly cover the brand artwork."
+  ],
+  "observed": [
+    "Archived home page (January 2022): a flat pink field and a flat yellow field split the hero, divided and framed by thin black rules.",
+    "A full-width black band carries a repeating slogan in large white type.",
+    "Type is a single grotesque family (Mabry Pro) at large sizes, black on white or on color.",
+    "Buttons are square black rectangles with white text. No component showed a shadow at rest in the measurement.",
+    "In the announcement graphic: pink “G” discs with black outlines and solid black extrusions on a flat yellow blob."
+  ],
+  "interpretation": [
+    "The archived home page shows the flat-bright, black-outline, square-corner side of the style but not hard offset shadows at rest. Either the shadows appear only in hover states and deeper pages, or hard shadows are less central to the style than the fingerprint assumes. This record is calibration evidence for the fingerprint."
+  ],
+  "borrow": [
+    "Let the brand illustration use the same outline weight and hard depth as the interface components."
+  ],
+  "next": [
+    "Check hover states and product pages in the same capture for hard offset shadows.",
+    "Capture a December 2021 copy for comparison with the January 2022 one."
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Gumroad’s design and content belong to Gumroad. Captured from the Internet Archive for commentary."
+  },
+  "notice": "The live gumroad.com no longer uses this design. On 25 September 2026 it had a black background, rounded cards (median radius 25 px), 1 px borders, and no shadows. This record describes the 2021–2022 design through an archived copy.",
+  "images": [
+    {
+      "file": "assets/references/gumroad-website-redesign-2021.jpg",
+      "alt": "Archived Gumroad home page: a split hero with a pink field holding the headline “Go from zero to $1” and a black Start Selling button, a flat yellow field on the right, and a black ticker band with the words “See what sticks” repeated.",
+      "width": 941,
+      "height": 464,
+      "kind": "screenshot",
+      "caption": "Viewport capture of the [January 2022 Wayback copy of gumroad.com](https://web.archive.org/web/20220115112257/https://gumroad.com/).",
+      "saved": "2026-09-25"
+    }
+  ]
+}

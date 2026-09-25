@@ -1,0 +1,61 @@
+{
+  "id": "snowball-fractal-design-system",
+  "title": "Fractal, Snowball’s design system",
+  "type": "product",
+  "medium": "software",
+  "lede": "A company design system that writes “brutal shadows” into its color documentation.",
+  "summary": "Open-source fintech design system with black strokes, hard shadows, and pastel tones.",
+  "source": {
+    "url": "https://github.com/snowball-tech/fractal",
+    "label": "snowball-tech/fractal on GitHub"
+  },
+  "creator": {
+    "name": "Snowball",
+    "url": "https://www.snowball.xyz/"
+  },
+  "made": "2023–present",
+  "moods": [
+    "playful",
+    "direct"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected `packages/fractal/public/images/cover_fractal.png` (3200 × 1800) from the repository. Licence read through the GitHub API. The Storybook site was not captured."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "neo-brutalism",
+      "note": "The palette documentation names black as the color for “Strokes & Brutal shadows”, and swatch cards use black outlines and hard shadows.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The README describes “the open-source mono-repository for the design reference, components libraries and documentations of Fractal, Snowball’s design system”. Repository created 19 June 2023; MIT License, copyright 2023 Snowball. Documentation: [fractal.snowball.xyz](https://fractal.snowball.xyz/).",
+    "Listed under “Complete Design System” in the CC0 [Awesome Neobrutalism](https://github.com/ComradeAERGO/Awesome-Neobrutalism) list."
+  ],
+  "observed": [
+    "Color swatch cards with black outlines and solid black shadows offset down and right.",
+    "Flat pastel and bright tones: mint, violet, yellow, cyan, and a primary pink #FF8ACD, with pure black #000000 as the secondary color.",
+    "The secondary color’s usage note lists “Strokes & Brutal shadows styles”.",
+    "Large heavy sans-serif headings on an off-white page."
+  ],
+  "interpretation": [
+    "A production design system, not a demo kit. It shows the style formalized as tokens: one black for all strokes and shadows, and a tonal scale for each bright."
+  ],
+  "borrow": [
+    "Reserve one color token for all outlines and hard shadows. Give each bright hue a few lighter tones for large backgrounds."
+  ],
+  "next": [
+    "Capture the Storybook and snowball.xyz to measure outline width and shadow offset."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The repository is MIT-licensed, but the cover image includes the Snowball wordmark and a third-party emoji glyph, so it is not stored."
+  },
+  "identifiers": {
+    "github": "snowball-tech/fractal"
+  }
+}
