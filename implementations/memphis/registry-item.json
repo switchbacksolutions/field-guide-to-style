@@ -1,0 +1,35 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "memphis",
+  "type": "registry:theme",
+  "title": "Memphis",
+  "description": "Clashing color, laminate patterns, and toy-like geometry. Postmodern play.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Avenir Next\", \"Helvetica Neue\", Arial, sans-serif",
+      "font-mono": "\"Avenir Next\", \"Helvetica Neue\", sans-serif",
+      "shadow-md": "8px 8px 0px 0px #111111"
+    },
+    "light": {
+      "background": "#fffdf6",
+      "foreground": "#111111",
+      "card": "#ffffff",
+      "card-foreground": "#111111",
+      "popover": "#ffffff",
+      "popover-foreground": "#111111",
+      "primary": "#ff4f9a",
+      "primary-foreground": "#111111",
+      "secondary": "#00b3a7",
+      "secondary-foreground": "#111111",
+      "muted": "#fff1c1",
+      "muted-foreground": "#3a3a3a",
+      "accent": "#ffd23f",
+      "accent-foreground": "#111111",
+      "destructive": "#b42318",
+      "border": "#111111",
+      "input": "#111111",
+      "ring": "#ff4f9a",
+      "radius": "0px"
+    }
+  }
+}

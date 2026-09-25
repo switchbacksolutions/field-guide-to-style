@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "minimalist-machine",
+  "type": "registry:theme",
+  "title": "Minimalist Machine",
+  "description": "Visible structure. Precise type. Interfaces that feel like instruments.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "font-mono": "SFMono-Regular, Consolas, \"Liberation Mono\", monospace"
+    },
+    "light": {
+      "background": "#f7f7f2",
+      "foreground": "#20231f",
+      "card": "#ffffff",
+      "card-foreground": "#20231f",
+      "popover": "#ffffff",
+      "popover-foreground": "#20231f",
+      "primary": "#20231f",
+      "primary-foreground": "#f7f7f2",
+      "secondary": "#ffffff",
+      "secondary-foreground": "#20231f",
+      "muted": "#e9ece3",
+      "muted-foreground": "#60655b",
+      "accent": "#d9fb66",
+      "accent-foreground": "#20231f",
+      "destructive": "#b42318",
+      "border": "#c9cdc1",
+      "input": "#c9cdc1",
+      "ring": "#20231f",
+      "radius": "0px"
+    }
+  }
+}

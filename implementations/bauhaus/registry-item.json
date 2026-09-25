@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "bauhaus",
+  "type": "registry:theme",
+  "title": "Bauhaus",
+  "description": "Primary colors, basic shapes, and bold bars. Form follows the workshop.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Avenir Next\", Futura, \"Century Gothic\", \"Helvetica Neue\", sans-serif",
+      "font-mono": "Futura, \"Century Gothic\", sans-serif"
+    },
+    "light": {
+      "background": "#f4efe6",
+      "foreground": "#111111",
+      "card": "#f4efe6",
+      "card-foreground": "#111111",
+      "popover": "#f4efe6",
+      "popover-foreground": "#111111",
+      "primary": "#d42a20",
+      "primary-foreground": "#ffffff",
+      "secondary": "#1f4e9c",
+      "secondary-foreground": "#ffffff",
+      "muted": "#e7dfd0",
+      "muted-foreground": "#474440",
+      "accent": "#f2c12e",
+      "accent-foreground": "#111111",
+      "destructive": "#b42318",
+      "border": "#111111",
+      "input": "#111111",
+      "ring": "#d42a20",
+      "radius": "0px"
+    }
+  }
+}

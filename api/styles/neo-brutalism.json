@@ -1,0 +1,596 @@
+{
+  "id": "neo-brutalism",
+  "title": "Neo-brutalism",
+  "order": 6,
+  "status": "pilot",
+  "naming": "industry",
+  "aliases": [
+    "Neubrutalism",
+    "Neo brutalism"
+  ],
+  "summary": "Thick outlines, hard shadows, and loud flat color. Interfaces that look built.",
+  "lede": "A web and interface style of the 2020s: flat bright fills, thick black outlines, hard offset shadows with no blur, large bold type, and components that look like physical blocks.",
+  "moods": [
+    "direct",
+    "loud",
+    "playful",
+    "raw"
+  ],
+  "era": {
+    "from": 2021,
+    "note": "Gumroad announced its redesign on 26 November 2021. Malewicz described the trend in March 2022."
+  },
+  "regions": [
+    "International"
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "label": "Brutalist web design",
+      "note": "Earlier deliberately raw websites, which used default HTML, visible structure, and no polish."
+    },
+    {
+      "relation": "related-to",
+      "label": "Brutalist architecture",
+      "wikidata": "Q994776",
+      "note": "The connection is by name and attitude: exposed structure and raw material. It is not a visual descent."
+    },
+    {
+      "relation": "reaction-against",
+      "label": "Flat design",
+      "wikidata": "Q15266360",
+      "note": "A common reading: it keeps flat color but brings back strong edges and depth through hard shadows."
+    },
+    {
+      "relation": "related-to",
+      "style": "memphis",
+      "note": "Shares bright, playful color. Memphis relies on pattern, neo-brutalism on outlines and shadows."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Thick outlines.",
+      "text": "Every card, button, and input has a 2 to 4 px black border."
+    },
+    {
+      "facet": "surface",
+      "term": "Hard shadows.",
+      "text": "Solid black shadows offset down and right, with no blur. Pressed buttons move into their shadow."
+    },
+    {
+      "facet": "color",
+      "term": "Flat brights.",
+      "text": "Yellow, pink, mint, lilac, and orange fills on off-white or white."
+    },
+    {
+      "facet": "type",
+      "term": "Heavy display type.",
+      "text": "Large, bold grotesque or geometric sans-serif headings. Sometimes monospaced labels."
+    },
+    {
+      "facet": "layout",
+      "term": "Blocky layout.",
+      "text": "Components stack as distinct blocks with visible edges. Little overlap, little transparency."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Most components have thick black outlines.",
+      "Shadows are solid and offset with no blur.",
+      "Fills are flat, bright colors.",
+      "Headings are large and heavy."
+    ],
+    "counter": [
+      "Soft, blurred shadows or glass effects.",
+      "Thin hairline borders or no borders.",
+      "Muted or monochrome palettes with gradients."
+    ],
+    "confusions": [
+      {
+        "with": "Brutalist web design",
+        "difference": "Brutalist web design is raw and often default-styled. Neo-brutalism is a polished, colorful system with outlines and hard shadows."
+      },
+      {
+        "with": "memphis",
+        "difference": "Memphis uses patterns and irregular shapes. Neo-brutalism uses outlined rectangles and hard shadows."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Give every interactive element a 2 to 3 px solid black border.",
+      "Use a hard shadow such as 4px 4px 0 black. On press, move the element 4 px down and right and remove the shadow.",
+      "Fill cards and buttons with flat bright colors. Keep text black for contrast.",
+      "Use a heavy sans-serif for headings at large sizes.",
+      "Keep corners square or slightly rounded, up to 8 px."
+    ],
+    "dont": [
+      "Do not blur shadows or use gradients.",
+      "Do not use thin gray borders. The outline must read as a strong black line.",
+      "Do not use more than one pastel as a large background."
+    ],
+    "uses": [
+      "Creator tools",
+      "Startups",
+      "Portfolios",
+      "Developer products"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.border.share",
+      "min": 0.4,
+      "note": "Most surfaces have outlines."
+    },
+    {
+      "metric": "surface.border.medianWidth",
+      "min": 2.5,
+      "note": "Outlines are thick."
+    },
+    {
+      "metric": "surface.shadow.hardShare",
+      "min": 0.8,
+      "note": "Shadows have no blur."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 8,
+      "note": "Corners are square or slightly rounded."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Fills are flat."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "note": "Bright fills appear on cards and controls over a neutral ground. Provisional: set from the specimen, recalibrate with measured references.",
+      "min": 0.05
+    },
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.25,
+      "note": "Many blocks carry a hard shadow."
+    }
+  ],
+  "attestation": [
+    {
+      "label": "Michał Malewicz, “Neubrutalism is taking over the web” (2022)",
+      "url": "https://hype4.academy/articles/design/neubrutalism-is-taking-over-web",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Nielsen Norman Group, “Neobrutalism: Definition and Best Practices” (2025)",
+      "url": "https://www.nngroup.com/articles/neobrutalism/",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Envato, “Trend Deep Dive: Neo-brutalism” (2023)",
+      "url": "https://author.envato.com/hub/trend-deep-dive-neo-brutalism/",
+      "checked": "2026-09-25"
+    }
+  ],
+  "synthesis": [
+    "Two articles define the style: [Malewicz (2022)](ref:malewicz-neubrutalism-article-2022) and [NN/g (2025)](ref:nngroup-neobrutalism-article-2025). Both name [Gumroad’s 2021 redesign](ref:gumroad-website-redesign-2021) as a key example.",
+    "Open-source component libraries turn the style into reusable parts: [neobrutalism components](ref:neobrutalism-components-library) for React, a [SwiftUI package](ref:neobrutalism-swiftui-package), a [Flutter package](ref:neubrutalism-ui-flutter-package), [RetroUI](ref:retroui-component-library), and Snowball’s [Fractal](ref:snowball-fractal-design-system) design system.",
+    "Measured evidence qualifies the fingerprint. The archived Gumroad home page from January 2022 has flat bright fields, black rules, and square corners, but no shadows at rest. Hard shadows may belong to hover states and component libraries more than to every neo-brutalist page."
+  ],
+  "preview": [
+    "neobrutalism-components-library",
+    "gumroad-website-redesign-2021"
+  ],
+  "page": "neo-brutalism.html",
+  "implementation": {
+    "tokens": "implementations/neo-brutalism/tokens.json",
+    "css": "implementations/neo-brutalism/tokens.css",
+    "tailwind": "implementations/neo-brutalism/tailwind.css",
+    "shadcn": "implementations/neo-brutalism/shadcn.css",
+    "registry": "implementations/neo-brutalism/registry-item.json",
+    "designMd": "implementations/neo-brutalism/DESIGN.md",
+    "specimen": "implementations/neo-brutalism/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for neo-brutalism. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#fff4e0"
+      },
+      "surface": {
+        "$value": "#ffffff"
+      },
+      "subtle": {
+        "$value": "#ffe8a3"
+      },
+      "text": {
+        "$value": "#000000"
+      },
+      "muted": {
+        "$value": "#2b2b2b"
+      },
+      "border": {
+        "$value": "#000000"
+      },
+      "primary": {
+        "$value": "#ff90e8"
+      },
+      "on-primary": {
+        "$value": "#000000"
+      },
+      "secondary": {
+        "$value": "#7df9c4"
+      },
+      "on-secondary": {
+        "$value": "#000000"
+      },
+      "accent": {
+        "$value": "#ffd23f"
+      },
+      "on-accent": {
+        "$value": "#000000"
+      },
+      "lilac": {
+        "$value": "#b8a4ff"
+      },
+      "sky": {
+        "$value": "#88c9ff"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Arial Black",
+          "Helvetica Neue",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Helvetica Neue",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "ui-monospace",
+          "SFMono-Regular",
+          "Menlo",
+          "monospace"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 500
+      },
+      "bold": {
+        "$value": 800
+      },
+      "display": {
+        "$value": 900
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "20px"
+      },
+      "xl": {
+        "$value": "26px"
+      },
+      "2xl": {
+        "$value": "34px"
+      },
+      "3xl": {
+        "$value": "48px"
+      },
+      "4xl": {
+        "$value": "68px"
+      },
+      "5xl": {
+        "$value": "96px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.98
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.03,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": -0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.04,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "4px"
+      },
+      "md": {
+        "$value": "6px"
+      },
+      "lg": {
+        "$value": "8px"
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "2px"
+      },
+      "thick": {
+        "$value": "3px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "20px"
+      },
+      "lg": {
+        "$value": "32px"
+      },
+      "xl": {
+        "$value": "56px"
+      },
+      "2xl": {
+        "$value": "88px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "sm": {
+        "$value": {
+          "color": "#000000",
+          "offsetX": "2px",
+          "offsetY": "2px",
+          "blur": "0px",
+          "spread": "0px"
+        }
+      },
+      "md": {
+        "$value": {
+          "color": "#000000",
+          "offsetX": "4px",
+          "offsetY": "4px",
+          "blur": "0px",
+          "spread": "0px"
+        },
+        "$description": "Hard offset, no blur. Remove on press and move the element by the offset."
+      },
+      "lg": {
+        "$value": {
+          "color": "#000000",
+          "offsetX": "8px",
+          "offsetY": "8px",
+          "blur": "0px",
+          "spread": "0px"
+        }
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "malewicz-neubrutalism-article-2022",
+      "title": "“Neubrutalism is taking over the web”",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "An early, widely cited text that names the style and sets out its rules for shadows, outlines, and color.",
+      "page": "references/malewicz-neubrutalism-article-2022.html",
+      "source": "https://hype4.academy/articles/design/neubrutalism-is-taking-over-web",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "brutalist-websites-directory",
+      "title": "Brutalist Websites",
+      "medium": "website",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Lineage only: it is the brutalist web design that neo-brutalism descends from and must be distinguished from.",
+      "page": "references/brutalist-websites-directory.html",
+      "source": "https://brutalistwebsites.com/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "envato-neo-brutalism-trend-2023",
+      "title": "Envato, “Trend Deep Dive: Neo-brutalism”",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "It uses the name “Neo-brutalism (AKA Neubrutalism)” and lists hard shadows, outlines, bold color, and no gradients as the style’s traits.",
+      "page": "references/envato-neo-brutalism-trend-2023.html",
+      "source": "https://author.envato.com/hub/trend-deep-dive-neo-brutalism/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "figma-website-2022",
+      "title": "Figma marketing website, c. 2022",
+      "medium": "website",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Malewicz (2022) names Figma and Gumroad as the “two main innovators” of neubrutalism, and NN/g repeats Figma as an example.",
+      "page": "references/figma-website-2022.html",
+      "source": "https://www.figma.com/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "snowball-fractal-design-system",
+      "title": "Fractal, Snowball’s design system",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The palette documentation names black as the color for “Strokes & Brutal shadows”, and swatch cards use black outlines and hard shadows.",
+      "page": "references/snowball-fractal-design-system.html",
+      "source": "https://github.com/snowball-tech/fractal",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "gumroad-website-redesign-2021",
+      "title": "Gumroad website and brand, 2021",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Malewicz (2022) calls Gumroad one of the “two main innovators” of neubrutalism, and NN/g (2025) uses it as an example.",
+      "page": "references/gumroad-website-redesign-2021.html",
+      "source": "https://sahil.gumroad.com/p/introducing-the-new-gumroad",
+      "image": "assets/references/gumroad-website-redesign-2021.jpg",
+      "measurement": "data/measurements/gumroad-website-redesign-2021.json"
+    },
+    {
+      "id": "neobrutalism-components-library",
+      "title": "Neobrutalism components",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The project describes itself as neobrutalism-styled, and its preview shows thick black outlines, hard unblurred shadows, and flat fills on every component.",
+      "page": "references/neobrutalism-components-library.html",
+      "source": "https://github.com/ekmas/neobrutalism-components",
+      "image": "assets/references/neobrutalism-components-library.png",
+      "measurement": "data/measurements/neobrutalism-components-library.json"
+    },
+    {
+      "id": "neobrutalism-swiftui-package",
+      "title": "NeoBrutalism for SwiftUI",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The package is named for the style and converts native controls into outlined, hard-shadowed blocks with flat fills.",
+      "page": "references/neobrutalism-swiftui-package.html",
+      "source": "https://github.com/rational-kunal/NeoBrutalism",
+      "image": "assets/references/neobrutalism-swiftui-package.png",
+      "measurement": "data/measurements/neobrutalism-swiftui-package.json"
+    },
+    {
+      "id": "neubrutalism-ui-flutter-package",
+      "title": "neubrutalism_ui for Flutter",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The package uses the name neubrutalism, and its demo app shows black-outlined widgets with solid offset shadows.",
+      "page": "references/neubrutalism-ui-flutter-package.html",
+      "source": "https://github.com/infm5/neubrutalism_ui",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "nngroup-neobrutalism-article-2025",
+      "title": "NN/g, “Neobrutalism: Definition and Best Practices”",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "An authoritative UX source that defines the style under both spellings and lists its traits.",
+      "page": "references/nngroup-neobrutalism-article-2025.html",
+      "source": "https://www.nngroup.com/articles/neobrutalism/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "retroui-component-library",
+      "title": "RetroUI (neobrutalism/neobrutalism)",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The repository is published as a NeoBrutalism library, and its banner uses outlined blocks, hard shadows, and flat yellow fills.",
+      "page": "references/retroui-component-library.html",
+      "source": "https://github.com/neobrutalism/neobrutalism",
+      "image": null,
+      "measurement": null
+    }
+  ]
+}

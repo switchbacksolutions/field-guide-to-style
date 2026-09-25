@@ -1,0 +1,676 @@
+{
+  "id": "frutiger-aero",
+  "title": "Frutiger Aero",
+  "order": 5,
+  "status": "pilot",
+  "naming": "internet-aesthetic",
+  "aliases": [
+    "Aero",
+    "Web 2.0 gloss"
+  ],
+  "summary": "Glass, water, sky, and gloss. Optimistic technology from the mid-2000s.",
+  "lede": "A design style common from the mid-2000s to the early 2010s: glossy and translucent interface elements, blue and green gradients, water, bubbles, sky, and grass, and humanist sans-serif type. The Consumer Aesthetics Research Institute named it in 2018.",
+  "moods": [
+    "optimistic",
+    "fresh",
+    "glossy",
+    "eco-technological"
+  ],
+  "era": {
+    "from": 2004,
+    "to": 2013,
+    "note": "Wikipedia: mid-2000s to early 2010s, with a revival as an internet aesthetic from 2023."
+  },
+  "regions": [
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q118114289"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Frutiger Aero",
+      "url": "https://en.wikipedia.org/wiki/Frutiger_Aero",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Consumer Aesthetics Research Institute: Frutiger Aero",
+      "url": "https://cari.institute/aesthetics/frutiger-aero",
+      "checked": "2026-09-25"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "label": "Aqua (user interface)",
+      "wikidata": "Q622898",
+      "note": "Apple’s Aqua theme introduced water-like, reflective, translucent controls."
+    },
+    {
+      "relation": "descendant-of",
+      "label": "Windows Aero",
+      "wikidata": "Q219710",
+      "note": "Windows Vista (2006) and Windows 7 made glass, animation, and translucency the default desktop look. The style’s name refers to it."
+    },
+    {
+      "relation": "related-to",
+      "label": "Y2K aesthetic",
+      "wikidata": "Q130484971",
+      "note": "Wikipedia describes Frutiger Aero as the successor to the Y2K aesthetic."
+    },
+    {
+      "relation": "related-to",
+      "label": "Glassmorphism",
+      "wikidata": "Q138454357",
+      "note": "A 2020s style with frosted, blurred panels but without gloss highlights or nature imagery."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "Gloss and glass.",
+      "text": "Buttons and panels have a bright highlight on the upper half, reflections, and translucency."
+    },
+    {
+      "facet": "color",
+      "term": "Sky and water.",
+      "text": "Blues, aquas, and fresh greens on white, usually as vertical gradients."
+    },
+    {
+      "facet": "imagery",
+      "term": "Clean nature.",
+      "text": "Water drops, bubbles, fish, green hills, clouds, and lens flares, often combined with technology."
+    },
+    {
+      "facet": "type",
+      "term": "Humanist sans-serif.",
+      "text": "Frutiger, Segoe UI, Myriad, and similar open, friendly typefaces."
+    },
+    {
+      "facet": "surface",
+      "term": "Soft depth.",
+      "text": "Rounded corners, soft drop shadows, and floor reflections under objects."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Interface elements have a glossy highlight or glass translucency.",
+      "Blue, aqua, or green gradients dominate.",
+      "Images show water, sky, bubbles, or green landscapes, often with technology.",
+      "Corners are rounded and shadows are soft."
+    ],
+    "counter": [
+      "Flat color with no gradients or highlights.",
+      "Dark, gritty, or dystopian imagery.",
+      "Hard offset shadows or thick black outlines."
+    ],
+    "confusions": [
+      {
+        "with": "Glassmorphism",
+        "difference": "Glassmorphism uses frosted blur over colorful backgrounds, but no gloss highlight, reflections, or nature imagery."
+      },
+      {
+        "with": "Y2K aesthetic",
+        "difference": "Y2K prefers chrome, silver, and cyber-futurism. Frutiger Aero prefers water, sky, and green nature."
+      },
+      {
+        "with": "Skeuomorphism",
+        "difference": "Skeuomorphic design imitates real materials such as leather and paper. Frutiger Aero imitates glass and water and stays optimistic and airy."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a sky-to-white or aqua-to-blue vertical gradient for the page or hero background.",
+      "Give primary buttons a pill shape, a gradient fill, and a white highlight on the upper half.",
+      "Use translucent white panels with a light border and a soft shadow.",
+      "Use a humanist sans-serif such as Segoe UI, Frutiger, or Myriad.",
+      "Add nature imagery: water, bubbles, clouds, or grass."
+    ],
+    "dont": [
+      "Do not use hard offset shadows or thick black outlines.",
+      "Do not use dark mode or desaturated palettes as the base.",
+      "Do not reduce contrast for gloss effects. Keep text readable on every gradient."
+    ],
+    "uses": [
+      "Consumer software",
+      "Music players",
+      "Eco and wellness brands",
+      "Nostalgic campaigns"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.gradientShare",
+      "min": 0.15,
+      "note": "Many surfaces carry gradients."
+    },
+    {
+      "metric": "surface.radius.median",
+      "min": 6,
+      "note": "Corners are rounded."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.1,
+      "note": "Soft depth is common."
+    },
+    {
+      "metric": "surface.shadow.hardShare",
+      "max": 0.2,
+      "note": "Shadows are blurred, not hard."
+    },
+    {
+      "metric": "color.chroma",
+      "min": 0.15,
+      "note": "Fresh blues and greens, not grays."
+    }
+  ],
+  "synthesis": [
+    "Operating systems set the look: [Windows Vista](ref:windows-vista-aero-interface) and [Windows 7](ref:windows-7-aero-interface) glass, with [Aqua](ref:mac-os-x-aqua-interface) and the [Bliss wallpaper](ref:bliss-windows-xp-wallpaper-1996) as precursors, and the open-source [KDE Plasma 4](ref:kde-plasma-4-desktop) desktop as a parallel.",
+    "Stock imagery and icons spread it beyond software: the [Asadal globe image](ref:asadal-earth-and-city-10-2007) and the [Crystal Clear icons](ref:crystal-clear-icons-everaldo-coelho). The [Wii menu](ref:wii-menu-2006) and a [post office interior](ref:poste-italiane-agenzia-62-iosa-ghini-2007) show it in consoles and architecture.",
+    "The name’s link to the [Frutiger](ref:frutiger-typeface-1976) typeface is loose. The interfaces mostly used [Segoe UI](ref:segoe-ui-typeface) and similar faces."
+  ],
+  "preview": [
+    "asadal-earth-and-city-10-2007",
+    "kde-plasma-4-desktop"
+  ],
+  "page": "frutiger-aero.html",
+  "implementation": {
+    "tokens": "implementations/frutiger-aero/tokens.json",
+    "css": "implementations/frutiger-aero/tokens.css",
+    "tailwind": "implementations/frutiger-aero/tailwind.css",
+    "shadcn": "implementations/frutiger-aero/shadcn.css",
+    "registry": "implementations/frutiger-aero/registry-item.json",
+    "designMd": "implementations/frutiger-aero/DESIGN.md",
+    "specimen": "implementations/frutiger-aero/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for frutiger-aero. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#e7f6ff"
+      },
+      "surface": {
+        "$value": "#ffffffc2",
+        "$description": "Translucent white glass."
+      },
+      "subtle": {
+        "$value": "#d6effb"
+      },
+      "text": {
+        "$value": "#0c2a47"
+      },
+      "muted": {
+        "$value": "#3d6282"
+      },
+      "border": {
+        "$value": "#ffffffe6"
+      },
+      "primary": {
+        "$value": "#0b6fc4"
+      },
+      "on-primary": {
+        "$value": "#ffffff"
+      },
+      "accent": {
+        "$value": "#23801a"
+      },
+      "on-accent": {
+        "$value": "#ffffff"
+      },
+      "sky": {
+        "$value": "#9fdcff"
+      },
+      "water": {
+        "$value": "#34b6e4"
+      },
+      "leaf": {
+        "$value": "#7ed957"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Frutiger",
+          "Segoe UI",
+          "Myriad Pro",
+          "Lucida Grande",
+          "Helvetica Neue",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Segoe UI",
+          "Frutiger",
+          "Myriad Pro",
+          "Lucida Grande",
+          "Helvetica Neue",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Segoe UI",
+          "Lucida Grande",
+          "sans-serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 600
+      },
+      "display": {
+        "$value": 300
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "19px"
+      },
+      "xl": {
+        "$value": "24px"
+      },
+      "2xl": {
+        "$value": "32px"
+      },
+      "3xl": {
+        "$value": "44px"
+      },
+      "4xl": {
+        "$value": "60px"
+      },
+      "5xl": {
+        "$value": "80px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.05
+      },
+      "body": {
+        "$value": 1.55
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": -0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "6px"
+      },
+      "md": {
+        "$value": "12px"
+      },
+      "lg": {
+        "$value": "20px"
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "2px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "20px"
+      },
+      "lg": {
+        "$value": "32px"
+      },
+      "xl": {
+        "$value": "56px"
+      },
+      "2xl": {
+        "$value": "88px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "sm": {
+        "$value": {
+          "color": "#0c2a4733",
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "3px",
+          "spread": "0px"
+        }
+      },
+      "md": {
+        "$value": {
+          "color": "#0c2a4733",
+          "offsetX": "0px",
+          "offsetY": "10px",
+          "blur": "30px",
+          "spread": "0px"
+        }
+      },
+      "glow": {
+        "$value": {
+          "color": "#9fdcffcc",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "18px",
+          "spread": "0px"
+        }
+      }
+    },
+    "gradient": {
+      "$type": "gradient",
+      "sky": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#8fd3ff",
+              "position": 0
+            },
+            {
+              "color": "#e7f6ff",
+              "position": 0.55
+            },
+            {
+              "color": "#ffffff",
+              "position": 1
+            }
+          ]
+        }
+      },
+      "button": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#5cb8ff",
+              "position": 0
+            },
+            {
+              "color": "#1a86de",
+              "position": 0.5
+            },
+            {
+              "color": "#0b6fc4",
+              "position": 0.51
+            },
+            {
+              "color": "#0a5fa8",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "Gloss: a hard light break at the midpoint."
+      },
+      "leaf-button": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#6fd24f",
+              "position": 0
+            },
+            {
+              "color": "#3a9f2a",
+              "position": 0.5
+            },
+            {
+              "color": "#23801a",
+              "position": 0.51
+            },
+            {
+              "color": "#1c6b14",
+              "position": 1
+            }
+          ]
+        }
+      },
+      "gloss": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#ffffffe6",
+              "position": 0
+            },
+            {
+              "color": "#ffffff33",
+              "position": 1
+            }
+          ]
+        }
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "bliss-windows-xp-wallpaper-1996",
+      "title": "Bliss",
+      "medium": "photograph",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Avcı traces the style’s nature imagery partly to Bliss, and Wikipedia lists it under “See also”; it is a precursor from the Windows XP era.",
+      "page": "references/bliss-windows-xp-wallpaper-1996.html",
+      "source": "https://en.wikipedia.org/wiki/Bliss_(photograph)",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "crystal-clear-icons-everaldo-coelho",
+      "title": "Crystal Clear icons",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Wikipedia uses this icon to illustrate the style’s vibrant colors, three-dimensional graphics, and glossy textures.",
+      "page": "references/crystal-clear-icons-everaldo-coelho.html",
+      "source": "https://en.wikipedia.org/wiki/Everaldo_Coelho",
+      "image": "assets/references/crystal-clear-icons-everaldo-coelho.png",
+      "measurement": "data/measurements/crystal-clear-icons-everaldo-coelho.json"
+    },
+    {
+      "id": "asadal-earth-and-city-10-2007",
+      "title": "Earth and City 10 (Expression of Ideas)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A period stock image with the style’s central idea, technology in harmony with nature; Wikipedia uses it to illustrate that theme.",
+      "page": "references/asadal-earth-and-city-10-2007.html",
+      "source": "https://gongu.copyright.or.kr/gongu/wrt/wrt/view.do?wrtSn=9046218&menuNo=200018",
+      "image": "assets/references/asadal-earth-and-city-10-2007.jpg",
+      "measurement": "data/measurements/asadal-earth-and-city-10-2007.json"
+    },
+    {
+      "id": "frutiger-typeface-1976",
+      "title": "Frutiger typeface",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The style is named partly after this typeface; its open humanist forms match the friendly type of the period, though the typeface itself was not the Aero interface font.",
+      "page": "references/frutiger-typeface-1976.html",
+      "source": "https://en.wikipedia.org/wiki/Frutiger_(typeface)",
+      "image": "assets/references/frutiger-typeface-1976.png",
+      "measurement": "data/measurements/frutiger-typeface-1976.json"
+    },
+    {
+      "id": "kde-plasma-4-desktop",
+      "title": "KDE Plasma 4 desktop",
+      "medium": "operating-system",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Wikipedia uses this screenshot as its lead example of the style: glass widgets, bubbles, water drops, and grass.",
+      "page": "references/kde-plasma-4-desktop.html",
+      "source": "https://en.wikipedia.org/wiki/KDE_Plasma_4",
+      "image": "assets/references/kde-plasma-4-desktop.jpg",
+      "measurement": "data/measurements/kde-plasma-4-desktop.json"
+    },
+    {
+      "id": "mac-os-x-aqua-interface",
+      "title": "Mac OS X Aqua interface",
+      "medium": "operating-system",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Aqua introduced the water-like, glossy, translucent controls that Frutiger Aero inherits; it is a precursor more than a full example.",
+      "page": "references/mac-os-x-aqua-interface.html",
+      "source": "https://en.wikipedia.org/wiki/Aqua_(user_interface)",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "poste-italiane-agenzia-62-iosa-ghini-2007",
+      "title": "Poste Italiane Agenzia 62, Rome",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Avcı names it “one of the successful examples” of Frutiger Aero’s color and texture effects in a physical interior.",
+      "page": "references/poste-italiane-agenzia-62-iosa-ghini-2007.html",
+      "source": "https://www.archilovers.com/projects/16766/poste-italiane-design-massimo-iosa-ghini.html",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "segoe-ui-typeface",
+      "title": "Segoe UI typeface",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Segoe UI is the humanist interface type of Windows Aero, and CARI links it to Frutiger in the style’s name.",
+      "page": "references/segoe-ui-typeface.html",
+      "source": "https://en.wikipedia.org/wiki/Segoe",
+      "image": "assets/references/segoe-ui-typeface.png",
+      "measurement": "data/measurements/segoe-ui-typeface.json"
+    },
+    {
+      "id": "wii-menu-2006",
+      "title": "Wii Menu",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Wikipedia and Avcı both name the Wii among the consoles that used the style; the menu shows its white, rounded, pale-blue side.",
+      "page": "references/wii-menu-2006.html",
+      "source": "https://en.wikipedia.org/wiki/Wii#Wii_Menu",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "windows-7-aero-interface",
+      "title": "Windows 7 Aero interface and default wallpaper",
+      "medium": "operating-system",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Windows 7 carries Aero to its final form, and its default wallpaper combines light, bubbles, grass, and a butterfly with the brand mark.",
+      "page": "references/windows-7-aero-interface.html",
+      "source": "https://en.wikipedia.org/wiki/Windows_7",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "windows-vista-aero-interface",
+      "title": "Windows Vista Aero interface",
+      "medium": "operating-system",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Windows Aero is the “Aero” in the style’s name, and scholars call Vista one of the first mature examples of the style.",
+      "page": "references/windows-vista-aero-interface.html",
+      "source": "https://en.wikipedia.org/wiki/Windows_Aero",
+      "image": null,
+      "measurement": null
+    }
+  ]
+}

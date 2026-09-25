@@ -1,0 +1,20 @@
+# Style inspiration
+
+> A knowledge hub for visual styles, moods, websites, products, printed works, and objects. Each style has a definition, lineage, a classification rubric, rules for implementation, and, when available, design tokens and framework files.
+
+Use it like this: choose a style from the list, read its JSON record for rules and tokens, then copy its implementation files. Rules under `rules.dont` are as important as the tokens.
+
+## Styles
+
+- [Minimalist Machine](api/styles/minimalist-machine.json): Visible structure. Precise type. Interfaces that feel like instruments. Tokens: implementations/minimalist-machine/tokens.css
+- [International Typographic Style](api/styles/international-typographic-style.json): Grids, sans-serif type, and objective images. Order as the message. Tokens: implementations/international-typographic-style/tokens.css
+- [Bauhaus](api/styles/bauhaus.json): Primary colors, basic shapes, and bold bars. Form follows the workshop. Tokens: implementations/bauhaus/tokens.css
+- [Memphis](api/styles/memphis.json): Clashing color, laminate patterns, and toy-like geometry. Postmodern play. Tokens: implementations/memphis/tokens.css
+- [Frutiger Aero](api/styles/frutiger-aero.json): Glass, water, sky, and gloss. Optimistic technology from the mid-2000s. Tokens: implementations/frutiger-aero/tokens.css
+- [Neo-brutalism](api/styles/neo-brutalism.json): Thick outlines, hard shadows, and loud flat color. Interfaces that look built. Tokens: implementations/neo-brutalism/tokens.css
+
+## Data
+
+- [Catalogue](api/catalogue.json): all styles and references.
+- [Style schema](data/schema/style.schema.json) and [reference schema](data/schema/reference.schema.json).
+- [Rights and removal](rights.html): third-party works keep their owners' rights.

@@ -1,0 +1,372 @@
+{
+  "id": "minimalist-machine",
+  "title": "Minimalist Machine",
+  "order": 1,
+  "status": "seed",
+  "naming": "curatorial",
+  "summary": "Visible structure. Precise type. Interfaces that feel like instruments.",
+  "lede": "A quiet technical aesthetic: the interface exposes its parts, relationships, and purpose with very little decoration.",
+  "moods": [
+    "precise",
+    "utilitarian",
+    "quiet",
+    "technical"
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Structure first.",
+      "text": "Thin rules, outlined boxes, and explicit connections organize the surface."
+    },
+    {
+      "facet": "type",
+      "term": "Functional typography.",
+      "text": "Plain sans-serif headings; monospaced labels, values, and object names."
+    },
+    {
+      "facet": "color",
+      "term": "Neutral ground.",
+      "text": "White or pale canvases with dark marks. Use strong color sparingly for emphasis or state."
+    },
+    {
+      "facet": "layout",
+      "term": "Purposeful space.",
+      "text": "Room between groups; density inside a task or a connected system."
+    }
+  ],
+  "synthesis": [
+    "[Detail](ref:detail-blog) brings editorial scale and polish: bold headings, ordered rows, and small technical labels.",
+    "[Pure Data](ref:pure-data) brings exposed logic: named objects and visible signal paths on a plain canvas.",
+    "This collection name and the shared grammar are curatorial interpretations. The references do not claim this style label."
+  ],
+  "rules": {
+    "do": [
+      "Use rows and separators for collections of information.",
+      "Give objects direct, descriptive names.",
+      "Use connections to explain actual relationships.",
+      "Balance a spacious overview with compact working areas."
+    ],
+    "dont": [
+      "Do not imitate the surface with small type, fake terminal output, or decorative wiring. Keep labels readable, links obvious, and relationships real."
+    ],
+    "uses": [
+      "Research indexes",
+      "Creative tools",
+      "Technical portfolios",
+      "Interfaces for inspecting systems"
+    ]
+  },
+  "preview": [
+    "detail-blog",
+    "pure-data"
+  ],
+  "fingerprint": [
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Boxes are square."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "No depth effects."
+    },
+    {
+      "metric": "surface.border.share",
+      "min": 0.3,
+      "note": "Thin rules and outlined boxes organize the surface."
+    },
+    {
+      "metric": "type.monoShare",
+      "min": 0.05,
+      "note": "Monospaced labels and values."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "max": 0.15,
+      "note": "Strong color only for emphasis or state."
+    },
+    {
+      "metric": "color.hues",
+      "max": 1,
+      "note": "At most one signal color."
+    }
+  ],
+  "page": "minimalist-machine.html",
+  "implementation": {
+    "tokens": "implementations/minimalist-machine/tokens.json",
+    "css": "implementations/minimalist-machine/tokens.css",
+    "tailwind": "implementations/minimalist-machine/tailwind.css",
+    "shadcn": "implementations/minimalist-machine/shadcn.css",
+    "registry": "implementations/minimalist-machine/registry-item.json",
+    "designMd": "implementations/minimalist-machine/DESIGN.md",
+    "specimen": "implementations/minimalist-machine/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for minimalist-machine. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#f7f7f2"
+      },
+      "surface": {
+        "$value": "#ffffff"
+      },
+      "subtle": {
+        "$value": "#e9ece3"
+      },
+      "text": {
+        "$value": "#20231f"
+      },
+      "muted": {
+        "$value": "#60655b"
+      },
+      "border": {
+        "$value": "#c9cdc1"
+      },
+      "primary": {
+        "$value": "#20231f"
+      },
+      "on-primary": {
+        "$value": "#f7f7f2"
+      },
+      "accent": {
+        "$value": "#d9fb66",
+        "$description": "Signal lime. Use for one mark or state per view."
+      },
+      "on-accent": {
+        "$value": "#20231f"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "SFMono-Regular",
+          "Consolas",
+          "Liberation Mono",
+          "monospace"
+        ],
+        "$description": "Labels, values, dates, and object names."
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 500
+      },
+      "display": {
+        "$value": 500
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "13px"
+      },
+      "base": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "20px"
+      },
+      "xl": {
+        "$value": "25px"
+      },
+      "2xl": {
+        "$value": "32px"
+      },
+      "3xl": {
+        "$value": "46px"
+      },
+      "4xl": {
+        "$value": "64px"
+      },
+      "5xl": {
+        "$value": "90px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.02
+      },
+      "body": {
+        "$value": 1.55
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.06,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": -0.03,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.1,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "1px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "20px"
+      },
+      "lg": {
+        "$value": "32px"
+      },
+      "xl": {
+        "$value": "56px"
+      },
+      "2xl": {
+        "$value": "88px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "detail-blog",
+      "title": "Detail blog",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "curator",
+      "note": "Editorial hierarchy with the precision of a technical index.",
+      "page": "references/detail-blog.html",
+      "source": "https://blog.detail.dev/",
+      "image": "assets/references/detail-blog.png",
+      "measurement": "data/measurements/detail-blog.json"
+    },
+    {
+      "id": "pure-data",
+      "title": "Pure Data",
+      "medium": "software",
+      "evidence": "documented",
+      "basis": "curator",
+      "note": "The program is a diagram; its construction stays visible.",
+      "page": "references/pure-data.html",
+      "source": "https://msp.ucsd.edu/software.html",
+      "image": "assets/references/pure-data-patch.png",
+      "measurement": "data/measurements/pure-data.json"
+    },
+    {
+      "id": "puredata-site",
+      "title": "Pure Data community site",
+      "medium": "website",
+      "evidence": "pending",
+      "basis": "curator",
+      "note": "User-selected seed. Visual review is pending access.",
+      "page": "references/puredata-site.html",
+      "source": "https://puredata.info/",
+      "image": null,
+      "measurement": null
+    }
+  ]
+}

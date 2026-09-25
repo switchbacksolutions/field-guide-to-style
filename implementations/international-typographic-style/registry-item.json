@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "international-typographic-style",
+  "type": "registry:theme",
+  "title": "International Typographic Style",
+  "description": "Grids, sans-serif type, and objective images. Order as the message.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "font-mono": "\"Helvetica Neue\", Helvetica, Arial, sans-serif"
+    },
+    "light": {
+      "background": "#ffffff",
+      "foreground": "#111111",
+      "card": "#ffffff",
+      "card-foreground": "#111111",
+      "popover": "#ffffff",
+      "popover-foreground": "#111111",
+      "primary": "#e30613",
+      "primary-foreground": "#ffffff",
+      "secondary": "#ffffff",
+      "secondary-foreground": "#111111",
+      "muted": "#f0f0f0",
+      "muted-foreground": "#5c5c5c",
+      "accent": "#e30613",
+      "accent-foreground": "#ffffff",
+      "destructive": "#b42318",
+      "border": "#111111",
+      "input": "#111111",
+      "ring": "#e30613",
+      "radius": "0px"
+    }
+  }
+}

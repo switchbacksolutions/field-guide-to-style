@@ -1,0 +1,36 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "frutiger-aero",
+  "type": "registry:theme",
+  "title": "Frutiger Aero",
+  "description": "Glass, water, sky, and gloss. Optimistic technology from the mid-2000s.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Segoe UI\", Frutiger, \"Myriad Pro\", \"Lucida Grande\", \"Helvetica Neue\", sans-serif",
+      "font-mono": "\"Segoe UI\", \"Lucida Grande\", sans-serif",
+      "shadow-sm": "0px 1px 3px 0px #0c2a4733",
+      "shadow-md": "0px 10px 30px 0px #0c2a4733"
+    },
+    "light": {
+      "background": "#e7f6ff",
+      "foreground": "#0c2a47",
+      "card": "#ffffffc2",
+      "card-foreground": "#0c2a47",
+      "popover": "#ffffffc2",
+      "popover-foreground": "#0c2a47",
+      "primary": "#0b6fc4",
+      "primary-foreground": "#ffffff",
+      "secondary": "#ffffffc2",
+      "secondary-foreground": "#0c2a47",
+      "muted": "#d6effb",
+      "muted-foreground": "#3d6282",
+      "accent": "#23801a",
+      "accent-foreground": "#ffffff",
+      "destructive": "#b42318",
+      "border": "#ffffffe6",
+      "input": "#ffffffe6",
+      "ring": "#0b6fc4",
+      "radius": "12px"
+    }
+  }
+}

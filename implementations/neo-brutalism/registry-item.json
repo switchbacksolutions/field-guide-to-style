@@ -1,0 +1,36 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "neo-brutalism",
+  "type": "registry:theme",
+  "title": "Neo-brutalism",
+  "description": "Thick outlines, hard shadows, and loud flat color. Interfaces that look built.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Helvetica Neue\", Arial, sans-serif",
+      "font-mono": "ui-monospace, SFMono-Regular, Menlo, monospace",
+      "shadow-sm": "2px 2px 0px 0px #000000",
+      "shadow-md": "4px 4px 0px 0px #000000"
+    },
+    "light": {
+      "background": "#fff4e0",
+      "foreground": "#000000",
+      "card": "#ffffff",
+      "card-foreground": "#000000",
+      "popover": "#ffffff",
+      "popover-foreground": "#000000",
+      "primary": "#ff90e8",
+      "primary-foreground": "#000000",
+      "secondary": "#7df9c4",
+      "secondary-foreground": "#000000",
+      "muted": "#ffe8a3",
+      "muted-foreground": "#2b2b2b",
+      "accent": "#ffd23f",
+      "accent-foreground": "#000000",
+      "destructive": "#b42318",
+      "border": "#000000",
+      "input": "#000000",
+      "ring": "#ff90e8",
+      "radius": "6px"
+    }
+  }
+}

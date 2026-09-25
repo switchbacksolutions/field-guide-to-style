@@ -1,0 +1,564 @@
+{
+  "id": "international-typographic-style",
+  "title": "International Typographic Style",
+  "order": 2,
+  "status": "pilot",
+  "naming": "historical",
+  "aliases": [
+    "Swiss Style",
+    "Swiss design"
+  ],
+  "summary": "Grids, sans-serif type, and objective images. Order as the message.",
+  "lede": "A modernist graphic design approach, formalized in Switzerland in the 1950s, that builds every layout on a modular grid, sets flush-left sans-serif type, and prefers objective photography to illustration.",
+  "moods": [
+    "objective",
+    "rational",
+    "clear",
+    "restrained"
+  ],
+  "era": {
+    "from": 1950,
+    "to": 1975,
+    "note": "Roots in the 1920s New Typography. Wikipedia dates its emergence to the 1930s–1950s."
+  },
+  "regions": [
+    "Switzerland",
+    "Germany",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q2140911"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: International Typographic Style",
+      "url": "https://en.wikipedia.org/wiki/International_Typographic_Style",
+      "checked": "2026-09-25"
+    },
+    {
+      "label": "Wikipedia: Neue Grafik",
+      "url": "https://en.wikipedia.org/wiki/Neue_Grafik",
+      "checked": "2026-09-25"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "New Typography",
+      "note": "Jan Tschichold’s 1928 book *Die neue Typographie* argued for asymmetric layouts and sans-serif type. Wikipedia describes the style as formalizing these 1920s innovations."
+    },
+    {
+      "relation": "influenced-by",
+      "style": "bauhaus",
+      "note": "Bauhaus typography and teaching preceded the style. Max Bill studied at the Bauhaus and later co-founded the Ulm School of Design."
+    },
+    {
+      "relation": "related-to",
+      "style": "minimalist-machine",
+      "note": "Both put structure first and remove decoration. Minimalist Machine adds monospaced, technical labels."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Modular grid.",
+      "text": "Columns and rows set every position and every image size. The grid is often visible through alignment alone."
+    },
+    {
+      "facet": "type",
+      "term": "Grotesque sans-serif.",
+      "text": "Akzidenz-Grotesk, Helvetica, and Univers in a small number of sizes and weights. Text is flush left and ragged right."
+    },
+    {
+      "facet": "layout",
+      "term": "Asymmetric balance.",
+      "text": "Content hangs from a strong axis. Large empty areas are part of the composition, not leftover space."
+    },
+    {
+      "facet": "type",
+      "term": "Scale contrast.",
+      "text": "One very large element, such as a headline or number, against small, even body text."
+    },
+    {
+      "facet": "color",
+      "term": "Limited palette.",
+      "text": "Black and white with one or two flat colors, often red. No gradients."
+    },
+    {
+      "facet": "imagery",
+      "term": "Objective images.",
+      "text": "Black-and-white photography and simple geometric forms instead of illustration."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Most elements align to a consistent column grid.",
+      "Headings and body use a grotesque or neo-grotesque sans-serif.",
+      "Text is flush left and ragged right. Centered text is rare.",
+      "Color is flat and limited to two or three hues plus black and white."
+    ],
+    "counter": [
+      "Decorative or script typefaces carry the message.",
+      "Centered, symmetrical layouts dominate.",
+      "Gradients, glossy surfaces, textures, or drop shadows are important to the look.",
+      "Illustration with a hand-drawn character is the main image type."
+    ],
+    "confusions": [
+      {
+        "with": "minimalist-machine",
+        "difference": "Minimalist Machine uses monospaced labels, outlined boxes, and visible connections. The International Typographic Style relies on grid and type scale alone."
+      },
+      {
+        "with": "Generic minimal web design",
+        "difference": "Minimal sites are often centered, with one column and soft gray type. This style is asymmetric, with a strong grid and strong scale contrast."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Build the page on a 12-column grid and align every block to column edges.",
+      "Use one grotesque family in two weights. Set body text flush left.",
+      "Make one element very large, for example the headline or a date, and keep the rest small.",
+      "Use black, white, and one accent color. Use the accent for one idea per view.",
+      "Keep generous empty space around groups."
+    ],
+    "dont": [
+      "Do not center headings and paragraphs by default.",
+      "Do not add rounded corners, drop shadows, or gradients.",
+      "Do not use more than two type sizes for body content.",
+      "Do not fill empty grid areas with decoration."
+    ],
+    "uses": [
+      "Cultural institutions",
+      "Event programmes",
+      "Editorial sites",
+      "Documentation",
+      "Wayfinding"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Corners are square."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "Depth effects are absent."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Color is flat."
+    },
+    {
+      "metric": "color.distinct",
+      "max": 5,
+      "note": "A limited palette."
+    },
+    {
+      "metric": "type.centerShare",
+      "max": 0.2,
+      "note": "Text is flush left."
+    },
+    {
+      "metric": "type.sizeRange",
+      "min": 3,
+      "note": "Strong scale contrast between display and body."
+    },
+    {
+      "metric": "color.hues",
+      "max": 1,
+      "note": "At most one accent hue, usually red."
+    },
+    {
+      "metric": "type.monoShare",
+      "max": 0.05,
+      "note": "Grotesque sans-serif throughout. Monospaced text points to Minimalist Machine."
+    }
+  ],
+  "synthesis": [
+    "The type came first. [Akzidenz-Grotesk](ref:akzidenz-grotesk-typeface), [Helvetica](ref:helvetica-typeface), and [Univers](ref:univers-typeface) supplied the neutral grotesques that the posters and books depend on.",
+    "Posters such as [Der Film](ref:der-film-poster-1960) and [Giselle](ref:giselle-poster-1959) show the method at full scale: one strong axis, flush-left type, and black-and-white photography with a single red.",
+    "The method spread through print: the journal [Neue Grafik](ref:neue-grafik-journal-1958-1965), Emil Ruder’s [Typographie](ref:typographie-emil-ruder-1967), Karl Gerstner’s [Capital grid](ref:capital-magazine-layout-grid-gerstner), and Müller-Brockmann’s [Grid Systems](ref:grid-systems-in-graphic-design-1981).",
+    "Systems for public space carry it into three dimensions: the [NYCTA graphics standards](ref:nycta-graphics-standards-manual-1970) and the [Munich 1972 pictograms](ref:munich-1972-olympic-pictograms). This is the line that leads to interface design systems."
+  ],
+  "preview": [
+    "nycta-graphics-standards-manual-1970",
+    "akzidenz-grotesk-typeface"
+  ],
+  "page": "international-typographic-style.html",
+  "implementation": {
+    "tokens": "implementations/international-typographic-style/tokens.json",
+    "css": "implementations/international-typographic-style/tokens.css",
+    "tailwind": "implementations/international-typographic-style/tailwind.css",
+    "shadcn": "implementations/international-typographic-style/shadcn.css",
+    "registry": "implementations/international-typographic-style/registry-item.json",
+    "designMd": "implementations/international-typographic-style/DESIGN.md",
+    "specimen": "implementations/international-typographic-style/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for international-typographic-style. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#ffffff"
+      },
+      "surface": {
+        "$value": "#ffffff"
+      },
+      "subtle": {
+        "$value": "#f0f0f0"
+      },
+      "text": {
+        "$value": "#111111"
+      },
+      "muted": {
+        "$value": "#5c5c5c"
+      },
+      "border": {
+        "$value": "#111111"
+      },
+      "primary": {
+        "$value": "#e30613",
+        "$description": "Signal red. One idea per view."
+      },
+      "on-primary": {
+        "$value": "#ffffff"
+      },
+      "accent": {
+        "$value": "#e30613"
+      },
+      "on-accent": {
+        "$value": "#ffffff"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ],
+        "$description": "A grotesque: Helvetica, Akzidenz-Grotesk, or Univers when licensed."
+      },
+      "body": {
+        "$value": [
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 700
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "20px"
+      },
+      "xl": {
+        "$value": "28px"
+      },
+      "2xl": {
+        "$value": "40px"
+      },
+      "3xl": {
+        "$value": "64px"
+      },
+      "4xl": {
+        "$value": "96px"
+      },
+      "5xl": {
+        "$value": "160px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.92
+      },
+      "body": {
+        "$value": 1.4
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.045,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": -0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "4px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "36px"
+      },
+      "xl": {
+        "$value": "72px"
+      },
+      "2xl": {
+        "$value": "120px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "akzidenz-grotesk-typeface",
+      "title": "Akzidenz-Grotesk typeface",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The style file names it first among the grotesques; Wikipedia records it as the preferred type of many Swiss designers in the 1950s and 1960s.",
+      "page": "references/akzidenz-grotesk-typeface.html",
+      "source": "https://en.wikipedia.org/wiki/Akzidenz-Grotesk",
+      "image": "assets/references/akzidenz-grotesk-typeface.png",
+      "measurement": "data/measurements/akzidenz-grotesk-typeface.json"
+    },
+    {
+      "id": "der-film-poster-1960",
+      "title": "Der Film exhibition poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A purely typographic poster by a Neue Grafik editor: one grotesque, flush-left text on a single axis, and extreme scale contrast.",
+      "page": "references/der-film-poster-1960.html",
+      "source": "https://www.emuseum.ch/objects/65641",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "giselle-poster-1959",
+      "title": "Giselle poster, Basler Freilichtspiele",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A key Basel-school poster: sans-serif type, a black-and-white photograph instead of illustration, and a strong asymmetric axis.",
+      "page": "references/giselle-poster-1959.html",
+      "source": "https://www.emuseum.ch/objects/56272",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "grid-systems-in-graphic-design-1981",
+      "title": "Grid Systems in Graphic Design",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A late summary of the style’s central method by one of its founders; the grid on the cover is the style’s structure made explicit.",
+      "page": "references/grid-systems-in-graphic-design-1981.html",
+      "source": "https://www.emuseum.ch/objects/167597",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "helvetica-typeface",
+      "title": "Helvetica typeface",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Wikipedia calls it a hallmark of the International Typographic Style, and the style file lists it among the core grotesques.",
+      "page": "references/helvetica-typeface.html",
+      "source": "https://en.wikipedia.org/wiki/Helvetica",
+      "image": "assets/references/helvetica-typeface.png",
+      "measurement": "data/measurements/helvetica-typeface.json"
+    },
+    {
+      "id": "capital-magazine-layout-grid-gerstner",
+      "title": "Karl Gerstner’s grid for Capital",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The best-known example of the style’s modular grid used as a flexible program, not a fixed template.",
+      "page": "references/capital-magazine-layout-grid-gerstner.html",
+      "source": "https://ms-studio.net/notes/karl-gerstners-layout-grid/",
+      "image": "assets/references/capital-magazine-layout-grid-gerstner.png",
+      "measurement": "data/measurements/capital-magazine-layout-grid-gerstner.json"
+    },
+    {
+      "id": "munich-1972-olympic-pictograms",
+      "title": "Munich 1972 Olympic pictograms",
+      "medium": "signage",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Aicher applied the style’s grid and objectivity to a wayfinding system; the pictograms are geometry on a fixed angular grid, without illustration.",
+      "page": "references/munich-1972-olympic-pictograms.html",
+      "source": "https://en.wikipedia.org/wiki/Otl_Aicher",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "neue-grafik-journal-1958-1965",
+      "title": "Neue Grafik journal",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The style’s own manifesto and showcase; Wikipedia says it disseminated the style’s tenets and was key to its emergence as a movement.",
+      "page": "references/neue-grafik-journal-1958-1965.html",
+      "source": "https://www.emuseum.ch/objects/23096",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "nycta-graphics-standards-manual-1970",
+      "title": "NYCTA Graphics Standards Manual",
+      "medium": "signage",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "A standards manual in the Swiss-trained tradition: one grotesque, sizes and leading fixed on a module, and color used only as a code.",
+      "page": "references/nycta-graphics-standards-manual-1970.html",
+      "source": "https://www.moma.org/collection/works/89303",
+      "image": "assets/references/nycta-graphics-standards-manual-1970.png",
+      "measurement": "data/measurements/nycta-graphics-standards-manual-1970.json"
+    },
+    {
+      "id": "typographie-emil-ruder-1967",
+      "title": "Typographie, by Emil Ruder",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Wikipedia says the book helped spread the Swiss style and became a basic text in design programmes in Europe and North America.",
+      "page": "references/typographie-emil-ruder-1967.html",
+      "source": "https://www.emuseum.ch/objects/36839",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "univers-typeface",
+      "title": "Univers typeface",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A neo-grotesque built as a consistent family; Wikipedia links its matched range to the Swiss-style wish for neutral type.",
+      "page": "references/univers-typeface.html",
+      "source": "https://en.wikipedia.org/wiki/Univers",
+      "image": "assets/references/univers-typeface.png",
+      "measurement": "data/measurements/univers-typeface.json"
+    }
+  ]
+}
