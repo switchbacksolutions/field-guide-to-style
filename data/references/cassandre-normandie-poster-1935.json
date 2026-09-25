@@ -1,0 +1,64 @@
+{
+  "id": "cassandre-normandie-poster-1935",
+  "title": "Normandie poster by Cassandre",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Cassandre’s poster for the French Line shows the liner Normandie head-on: a looming, symmetrical black hull above a band of sea and a stack of centered capitals.",
+  "summary": "A symmetrical frontal view of a liner’s bow in black, white, and red over the name NORMANDIE. Cassandre, 1935.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1405126/",
+    "label": "Victoria and Albert Museum: Normandie, E.648-2017"
+  },
+  "creator": {
+    "name": "Cassandre (Adolphe Mouron)",
+    "url": "https://www.wikidata.org/wiki/Q278945"
+  },
+  "made": "1935",
+  "moods": [
+    "monumental",
+    "optimistic",
+    "streamlined"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the V&A image (580 × 900 px) to a scratch folder and inspected it. Read the V&A record through its API. The MoMA record could not be read: HTTP 403 to WebFetch, and Claude in Chrome had no permission for moma.org. No image is stored."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "art-deco",
+      "note": "The best-known poster of the late, streamlined phase of Art Deco, for a liner built as a showcase of French Deco design.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A calls the poster “arguably the most iconic work of Cassandre (1901–68)” and says the Normandie entered service with the Compagnie Générale Transatlantique in 1935 and was conceived as a showcase of French Art Deco design. It notes the simplicity and symmetry of the frontal view. [V&A](https://collections.vam.ac.uk/item/O1405126/).",
+    "The V&A records colour lithograph on paper backed on cotton, 100.5 × 62.5 cm, printed by Alliance Graphique L. Danel, Paris, 1935. [V&A](https://collections.vam.ac.uk/item/O1405126/)."
+  ],
+  "observed": [
+    "The bow of the ship fills the upper two-thirds, seen from straight ahead and below, so the hull narrows to a vertical center line.",
+    "The hull is black and gray with a red band at the waterline; white superstructure decks flare out on both sides near the top, and a red and black funnel sits above.",
+    "The sky is a gradient from deep blue at top to pale blue; a small flock of white birds crosses the lower hull.",
+    "A green band of sea runs across below the hull.",
+    "“NORMANDIE” is centered in large white sans-serif capitals, followed by centered lines in black and red capitals giving the line and the route Le Havre – Southampton – New-York.",
+    "The signature “A.M. CASSANDRE” is at upper right. The composition is symmetrical about the bow."
+  ],
+  "interpretation": [
+    "The poster uses Deco symmetry and a stepped, flaring silhouette, but its smooth gradients and machine subject point to the streamline branch the style record lists as a close relative.",
+    "The low viewpoint makes the object monumental, the same device as a setback tower seen from the street."
+  ],
+  "borrow": [
+    "Center one monumental object on the vertical axis and let it narrow toward the viewer.",
+    "Stack centered lines of capitals under the image, changing only color between lines."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Cassandre died in 1968, so the poster is protected in France until 2038. The V&A image is not offered under an open license."
+  },
+  "identifiers": {
+    "vam": "O1405126",
+    "accession": "E.648-2017"
+  }
+}

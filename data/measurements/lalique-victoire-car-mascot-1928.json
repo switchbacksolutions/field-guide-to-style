@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lalique-victoire-car-mascot-1928.jpg",
+  "captured": "2026-09-25T16:35:37+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#464c52",
+        "share": 0.158
+      },
+      {
+        "hex": "#0d131a",
+        "share": 0.133
+      },
+      {
+        "hex": "#0f2537",
+        "share": 0.099
+      },
+      {
+        "hex": "#03080f",
+        "share": 0.05
+      },
+      {
+        "hex": "#a2a3a5",
+        "share": 0.045
+      },
+      {
+        "hex": "#93989a",
+        "share": 0.045
+      },
+      {
+        "hex": "#858c90",
+        "share": 0.043
+      },
+      {
+        "hex": "#798085",
+        "share": 0.041
+      },
+      {
+        "hex": "#62686d",
+        "share": 0.039
+      },
+      {
+        "hex": "#b1b1b3",
+        "share": 0.039
+      }
+    ],
+    "background": "#464c52",
+    "chroma": 0.06,
+    "lightness": 0.36,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 18,
+    "hues": 0
+  }
+}

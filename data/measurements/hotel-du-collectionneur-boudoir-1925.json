@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/hotel-du-collectionneur-boudoir-1925.jpg",
+  "captured": "2026-09-25T16:35:36+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#726e5f",
+        "share": 0.164
+      },
+      {
+        "hex": "#929385",
+        "share": 0.13
+      },
+      {
+        "hex": "#47423c",
+        "share": 0.127
+      },
+      {
+        "hex": "#878470",
+        "share": 0.094
+      },
+      {
+        "hex": "#585247",
+        "share": 0.09
+      },
+      {
+        "hex": "#363433",
+        "share": 0.072
+      },
+      {
+        "hex": "#212324",
+        "share": 0.065
+      },
+      {
+        "hex": "#676151",
+        "share": 0.035
+      },
+      {
+        "hex": "#b0b6ae",
+        "share": 0.034
+      },
+      {
+        "hex": "#ccdcda",
+        "share": 0.034
+      }
+    ],
+    "background": "#726e5f",
+    "chroma": 0.06,
+    "lightness": 0.42,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 15,
+    "hues": 0
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "ruhlmann-corner-cabinet-1923",
+  "title": "Corner cabinet by Émile-Jacques Ruhlmann",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "A tall corner cabinet in dark exotic wood whose door carries an oval of ivory marquetry: a ribbed vase in a dense wreath of stylized flowers.",
+  "summary": "Dark wood, ivory inlay, a stylized flower basket in an oval, and tapered legs with ivory feet. Ruhlmann, Paris, c. 1923.",
+  "source": {
+    "url": "https://www.brooklynmuseum.org/opencollection/objects/97886",
+    "label": "Brooklyn Museum: Corner Cabinet, 71.150.1"
+  },
+  "creator": {
+    "name": "Émile-Jacques Ruhlmann",
+    "url": "https://www.wikidata.org/wiki/Q954875"
+  },
+  "made": "c. 1923",
+  "moods": [
+    "luxurious",
+    "formal",
+    "refined"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Brooklyn Museum photograph published on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Emile-Jacques_Ruhlmann_(French,_1879-1933)._Corner_Cabinet,_ca._1923..jpg) (1214 × 1536 px), a frontal studio view on a gray ground. Read the museum record in Claude in Chrome."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "art-deco",
+      "note": "A key work of the ensemblier who defined French Art Deco luxury furniture: rare dark wood, ivory, and a symmetrical, stylized floral ornament.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Brooklyn Museum dates the cabinet c. 1923, gives its place of making as Paris, and lists mahogany, Macassar ebony, rosewood, ebony, ivory, amaranth, and brass. It is branded “RUHLMANN” twice on the back panels. [Brooklyn Museum](https://www.brooklynmuseum.org/opencollection/objects/97886).",
+    "The Commons caption from the museum’s 2014 upload gives the materials as kingwood (amaranth) veneer on mahogany with ivory inlay, and the size as 126.7 × 80.6 × 59.7 cm. [Commons](https://commons.wikimedia.org/wiki/File:Emile-Jacques_Ruhlmann_(French,_1879-1933)._Corner_Cabinet,_ca._1923..jpg).",
+    "Search-result text from the museum’s catalogue says Ruhlmann designed the cabinet for “Les Terrasses,” the house of A. Weitz in Lyon, and links the black-and-white inlay to the Wiener Werkstätte. This was not shown on the page text read on 2026-09-25. [Brooklyn Museum](https://www.brooklynmuseum.org/opencollection/objects/97886)."
+  ],
+  "observed": [
+    "The front is a single door of red-brown wood with a slightly bowed outline, framed by a line of small ivory dots.",
+    "An upright oval of ivory marquetry fills most of the door. In it a dark, fluted vase with ivory rib lines and scrolled handles holds a dense mass of stylized flowers and leaves in ivory and dark wood.",
+    "The composition is symmetrical about the vertical axis of the door.",
+    "The top edge carries a band of alternating ivory and dark blocks, like a dentil or piano-key border.",
+    "Three slender, tapered legs end in small ivory sabots; two ivory disks mark the tops of the front legs.",
+    "There is no metal mount on the front except a small keyhole escutcheon."
+  ],
+  "interpretation": [
+    "The piece shows the early, luxurious side of Art Deco: an eighteenth-century furniture type made new with flattened, geometric flower ornament and a strong dark-and-ivory contrast.",
+    "The basket of stylized flowers is a stock motif of 1920s French decorative art, here held inside a strict oval and a symmetrical axis."
+  ],
+  "borrow": [
+    "Frame a central ornament with a single row of small dots in the accent color.",
+    "Use one strong light-on-dark ornament, centered, on an otherwise plain surface.",
+    "Edge a panel with a band of alternating light and dark blocks."
+  ],
+  "images": [
+    {
+      "file": "assets/references/ruhlmann-corner-cabinet-1923.jpg",
+      "alt": "Studio photograph of a tall corner cabinet in reddish-brown wood on three slender tapered legs with ivory feet. Its door has an oval of ivory inlay showing a dark ribbed vase overflowing with stylized white flowers, framed by a line of small ivory dots.",
+      "width": 1214,
+      "height": 1536,
+      "kind": "photograph",
+      "caption": "Émile-Jacques Ruhlmann, corner cabinet, c. 1923. [Brooklyn Museum](https://www.brooklynmuseum.org/opencollection/objects/97886) 71.150.1, photograph by the Brooklyn Museum via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Emile-Jacques_Ruhlmann_(French,_1879-1933)._Corner_Cabinet,_ca._1923..jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Emile-Jacques_Ruhlmann_%28French%2C_1879-1933%29._Corner_Cabinet%2C_ca._1923..jpg",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Wikimedia Commons carries the Brooklyn Museum’s “No known copyright restrictions” statement for this photograph. Ruhlmann died in 1933, so the design is in the public domain in France and the United States. The museum’s own object page offers the image for download but shows no license text."
+  },
+  "identifiers": {
+    "brooklyn": "97886",
+    "accession": "71.150.1",
+    "commons": "File:Emile-Jacques Ruhlmann (French, 1879-1933). Corner Cabinet, ca. 1923..jpg"
+  }
+}

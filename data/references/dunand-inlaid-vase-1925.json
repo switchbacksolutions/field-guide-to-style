@@ -1,0 +1,62 @@
+{
+  "id": "dunand-inlaid-vase-1925",
+  "title": "Vase by Jean Dunand",
+  "type": "object",
+  "medium": "product",
+  "lede": "Jean Dunand’s dark metal vase covered in a dense all-over pattern of inlaid silver zigzags, meanders, and sunbursts.",
+  "summary": "Dark copper vase with silver inlaid zigzags, step patterns, and small suns. Jean Dunand, Paris, c. 1925.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/18896/vase",
+    "label": "Art Institute of Chicago: Vase, 1925.1639"
+  },
+  "creator": {
+    "name": "Jean Dunand",
+    "url": "https://www.wikidata.org/wiki/Q1990069"
+  },
+  "made": "c. 1925",
+  "moods": [
+    "geometric",
+    "rhythmic",
+    "luxurious"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the Art Institute of Chicago IIIF image (843 × 1303 px) to a scratch folder and inspected it. Read the record through the AIC API. No image is stored."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "art-deco",
+      "note": "Dunand was a leading Art Deco metalworker and lacquerer; this vase is classified Art Deco by the museum and uses the style’s zigzag and stepped ornament.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Art Institute records the vase as c. 1925, copper and silver inlay, 28.6 × 12.7 cm, by Jean Dunand (French, 1877–1942), Paris. Style: Art Deco. Credit: Gift of Arthur T. Aldis and Russell Tyson. [Art Institute of Chicago](https://www.artic.edu/artworks/18896/vase).",
+    "The AIC API marks the object as not in the public domain. [AIC API](https://api.artic.edu/api/v1/artworks/18896)."
+  ],
+  "observed": [
+    "The vase is a tall ovoid with a narrow flared neck; the metal is dark gray-brown with a soft sheen.",
+    "Thin lighter lines of inlay cover the whole surface in a dense pattern of zigzags, stepped meanders, concentric arcs, and small star or sun shapes.",
+    "The pattern is irregular and all-over, not arranged in bands or panels.",
+    "There is no color other than the dark ground and the lighter inlay."
+  ],
+  "interpretation": [
+    "The inlay is a catalogue of Deco motifs in one object: zigzag, step, arc, and sunburst, drawn as light line on a dark metal ground.",
+    "Its free, all-over layout is looser than the symmetrical Deco rubric; it shows the influence of African and Cubist pattern on French decorative art."
+  ],
+  "borrow": [
+    "Fill a dark surface with thin light-line zigzags and steps as a texture.",
+    "Limit the palette to one dark metal ground and one lighter line color."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The Art Institute does not mark the image public domain. Jean Dunand died in 1942, so the design is probably in the public domain in France, but the source does not state an open license for the image."
+  },
+  "identifiers": {
+    "aic": "18896",
+    "accession": "1925.1639"
+  }
+}

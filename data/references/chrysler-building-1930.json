@@ -1,0 +1,77 @@
+{
+  "id": "chrysler-building-1930",
+  "title": "Chrysler Building, New York",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "William Van Alen’s skyscraper, completed in 1930: a setback tower capped by a stainless-steel crown of stacked, radiating arches and a needle spire.",
+  "summary": "Stepped setbacks and a steel crown of radiating arches with triangular windows. William Van Alen, New York, 1930.",
+  "source": {
+    "url": "https://www.loc.gov/item/2018751223/",
+    "label": "Library of Congress: Empire State Building, New York City. [View from], to Chrysler Bldg. and Queensboro Bridge"
+  },
+  "creator": {
+    "name": "William Van Alen (architect)"
+  },
+  "made": "1929–1930 (opened 27 May 1930)",
+  "moods": [
+    "glamorous",
+    "optimistic",
+    "vertical"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Samuel H. Gottscho’s photograph of 19 January 1932 from the Library of Congress via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg) (5359 × 3779 px, grayscale). The photograph is an aerial view from the Empire State Building, so the crown is legible but small; street-level ornament such as the eagle and hubcap details is not visible."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "art-deco",
+      "note": "The canonical Art Deco skyscraper: tiered setbacks rise to a crown of radiating, stepped arches in polished metal.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Construction started on 21 January 1929, the spire was installed on 23 October 1929, and the building opened on 27 May 1930. It was the tallest building in the world for about 11 months. [Wikipedia](https://en.wikipedia.org/wiki/Chrysler_Building).",
+    "Wikipedia describes the crown as seven radiating terraced arches clad in Nirosta stainless steel, with triangular vaulted windows, and notes car-hood ornaments on the 31st floor and eagle gargoyles on the 61st. [Wikipedia](https://en.wikipedia.org/wiki/Chrysler_Building).",
+    "The Library of Congress dates the photograph 19 January 1932 and credits the Gottscho-Schleisner Collection (LC-DIG-ppmsca-05841). [Library of Congress](https://www.loc.gov/item/2018751223/)."
+  ],
+  "observed": [
+    "The tower rises from the center of the frame above lower Midtown blocks; its outline steps in at several setbacks before the crown.",
+    "The crown is a stack of diminishing arches, each pierced by a row of small triangular windows that fan out like rays.",
+    "A thin needle spire continues the central axis above the arches.",
+    "The crown reflects light more strongly than the brick shaft below it.",
+    "Neighboring towers also step back in tiers; the photograph shows the setback silhouette as a citywide pattern.",
+    "The photograph is black and white, so the color of the steel and brick is not recorded."
+  ],
+  "interpretation": [
+    "The crown is the sunburst motif of the style built at city scale: nested arches radiate from one axis and diminish toward a point.",
+    "The tiered setbacks are the architectural source of the stepped frames and ziggurat outlines that appear in Deco graphics and furniture."
+  ],
+  "borrow": [
+    "Build a heading or hero ornament from nested arches that shrink toward one central point.",
+    "Step the outline of a frame or card inward in two or three tiers instead of rounding its corners."
+  ],
+  "images": [
+    {
+      "file": "assets/references/chrysler-building-1930.jpg",
+      "alt": "Black-and-white aerial photograph of Midtown Manhattan in 1932. The Chrysler Building stands at the center, its tower stepping back to a pointed crown of stacked arches with small triangular windows and a needle spire. The East River and Queensboro Bridge lie behind.",
+      "width": 1600,
+      "height": 1128,
+      "kind": "photograph",
+      "caption": "Samuel H. Gottscho, view from the Empire State Building to the Chrysler Building and Queensboro Bridge, 19 January 1932. Gottscho-Schleisner Collection, [Library of Congress](https://www.loc.gov/item/2018751223/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Chrysler_Building_Midtown_Manhattan_New_York_City_1932.jpg",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The Library of Congress states “No known restrictions on publication” for this Gottscho-Schleisner photograph; Wikimedia Commons marks the file public domain. The building was completed in 1930, before United States copyright protected architectural works (1990), and William Van Alen died in 1954."
+  },
+  "identifiers": {
+    "wikidata": "Q11274",
+    "loc": "2018751223",
+    "commons": "File:Chrysler Building Midtown Manhattan New York City 1932.jpg"
+  }
+}

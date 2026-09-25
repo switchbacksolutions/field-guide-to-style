@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/ruhlmann-corner-cabinet-1923.jpg",
+  "captured": "2026-09-25T16:35:36+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e9e4e8",
+        "share": 0.237
+      },
+      {
+        "hex": "#34150e",
+        "share": 0.144
+      },
+      {
+        "hex": "#d6d3d7",
+        "share": 0.118
+      },
+      {
+        "hex": "#afaeb1",
+        "share": 0.084
+      },
+      {
+        "hex": "#c0c0c3",
+        "share": 0.062
+      },
+      {
+        "hex": "#f4f2f5",
+        "share": 0.056
+      },
+      {
+        "hex": "#0e0e06",
+        "share": 0.04
+      },
+      {
+        "hex": "#1c190f",
+        "share": 0.039
+      },
+      {
+        "hex": "#41241a",
+        "share": 0.037
+      },
+      {
+        "hex": "#573325",
+        "share": 0.032
+      }
+    ],
+    "background": "#e9e4e8",
+    "chroma": 0.06,
+    "lightness": 0.57,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 13,
+    "hues": 0
+  }
+}

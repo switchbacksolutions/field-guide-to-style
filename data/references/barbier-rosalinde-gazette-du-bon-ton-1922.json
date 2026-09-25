@@ -1,0 +1,76 @@
+{
+  "id": "barbier-rosalinde-gazette-du-bon-ton-1922",
+  "title": "“Rosalinde”, plate from the Gazette du Bon Ton",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "George Barbier’s fashion plate of a Worth evening dress, set against a black lacquered commode with gilt mounts, above a centered title in spaced capitals.",
+  "summary": "A slender figure in a fringed gold dress before a black lacquer commode; spaced capitals below. George Barbier, 1922.",
+  "source": {
+    "url": "https://www.rijksmuseum.nl/en/collection/RP-P-2009-1964-4",
+    "label": "Rijksmuseum: Gazette du Bon Ton, 1922 – No. 10: Rosalinde, RP-P-2009-1964-4"
+  },
+  "creator": {
+    "name": "George Barbier (design); Worth (dress)",
+    "url": "https://www.wikidata.org/wiki/Q536721"
+  },
+  "made": "1922",
+  "moods": [
+    "elegant",
+    "luxurious",
+    "decorative"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Rijksmuseum scan from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gazette_du_Bon_Ton,_1922_-_No._10_Rosalinde_Robe_du_soir,_de_Worth,_RP-P-2009-1964-4.jpg) (4254 × 5540 px). The Rijksmuseum record text was read from the Commons copy of its metadata."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "art-deco",
+      "note": "The Gazette du Bon Ton plates set the look of early Art Deco fashion: stylized slender figures, lacquer and gilt, and centered spaced capitals.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Rijksmuseum lists the plate as Gazette du Bon Ton 1922, No. 10, plate 75: “Rosalinde / Robe du soir, de Worth”, after a design by George Barbier, printmaker anonymous, published by Lucien Vogel with Condé Nast. It describes the technique as photomechanical colour print with letterpress text, sheet 246 × 189 mm. [Commons copy of the Rijksmuseum record](https://commons.wikimedia.org/wiki/File:Gazette_du_Bon_Ton,_1922_-_No._10_Rosalinde_Robe_du_soir,_de_Worth,_RP-P-2009-1964-4.jpg).",
+    "The Rijksmuseum describes the dress as gold lace decorated with pearls. [Rijksmuseum](https://www.rijksmuseum.nl/en/collection/RP-P-2009-1964-4)."
+  ],
+  "observed": [
+    "A slim woman with pale skin and blonde hair in a low knot stands at the center, facing left, her hands on the top of a commode.",
+    "Her dress is a straight, dropped-waist shift in gold with a diamond pattern, a belt of small geometric blocks in pink and green, and long fringes in blue, green, and gold.",
+    "The commode behind her is black with gilt rococo mounts and painted pink roses; a blue bowl with a large flower stands at left and a small bronze nude on a marble base at right.",
+    "The ground is plain cream paper with no setting beyond the furniture.",
+    "The title “ROSALINDE” is centered below in widely spaced serif capitals, above a smaller line “ROBE DU SOIR, DE WORTH”.",
+    "Italic lines at the lower corners read “No 10 de la Gazette” and “Année 1922. — Planche 75”. The signature “GEORGE BARBIER 1922” sits at lower left of the image."
+  ],
+  "interpretation": [
+    "The plate is early, pre-1925 Art Deco: the figure is elongated and simplified, the dress is geometric, and the black lacquer and gold give the luxury palette. The commode itself is an eighteenth-century form, which shows how Deco borrowed historical luxury.",
+    "The centered title in spaced capitals on plain ground is the typographic habit later seen in Deco posters and packaging."
+  ],
+  "borrow": [
+    "Center a short title in widely spaced capitals on plain ground, with a smaller second line below it.",
+    "Put one glossy black shape behind a light figure to create the lacquer-and-gold contrast."
+  ],
+  "images": [
+    {
+      "file": "assets/references/barbier-rosalinde-gazette-du-bon-ton-1922.jpg",
+      "alt": "Fashion plate on cream paper: a slim blonde woman in a gold fringed evening dress stands in front of a black lacquered commode with gilt mounts and painted roses, a blue flower bowl at left and a small bronze statuette at right. Below, the centered title ROSALINDE and the line Robe du soir, de Worth.",
+      "width": 1229,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "George Barbier, “Rosalinde. Robe du soir, de Worth”, Gazette du Bon Ton 1922, No. 10, plate 75. [Rijksmuseum](https://www.rijksmuseum.nl/en/collection/RP-P-2009-1964-4) RP-P-2009-1964-4, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gazette_du_Bon_Ton,_1922_-_No._10_Rosalinde_Robe_du_soir,_de_Worth,_RP-P-2009-1964-4.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Gazette_du_Bon_Ton%2C_1922_-_No._10_Rosalinde_Robe_du_soir%2C_de_Worth%2C_RP-P-2009-1964-4.jpg",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Rijksmuseum releases the scan under CC0 and marks the object “Publiek domein”. George Barbier died in 1932, and the plate was published in 1922."
+  },
+  "identifiers": {
+    "rijksmuseum": "RP-P-2009-1964-4",
+    "commons": "File:Gazette du Bon Ton, 1922 - No. 10 Rosalinde Robe du soir, de Worth, RP-P-2009-1964-4.jpg"
+  }
+}

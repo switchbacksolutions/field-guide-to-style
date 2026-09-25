@@ -1,0 +1,76 @@
+{
+  "id": "broders-agay-plm-poster-1928",
+  "title": "Agay, PLM railway poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Roger Broders’s travel poster for the PLM railway frames a Riviera bay between pine trunks and sets the resort’s name in large geometric capitals.",
+  "summary": "Flat blues, violets, and orange; bathers in cloche caps; the name AGAY in wide geometric capitals. Roger Broders, 1928.",
+  "source": {
+    "url": "https://www.bonhams.com/auction/26798/lot/246/",
+    "label": "Bonhams: AGAY, PLM, lot 246, 3 June 2021"
+  },
+  "creator": {
+    "name": "Roger Broders",
+    "url": "https://www.wikidata.org/wiki/Q2161630"
+  },
+  "made": "1928",
+  "moods": [
+    "optimistic",
+    "sunny",
+    "stylized"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the scan on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Roger_Broders_Agay_1928.jpg) (2100 × 2880 px), which Commons sources from the Bonhams lot photograph. Read the Bonhams lot page with WebFetch."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "art-deco",
+      "note": "A French railway travel poster of the late 1920s: flat stylized color, fashionable figures, and a heavy geometric capital title.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Bonhams catalogued the poster as “AGAY, PLM”, Roger Broders (1883–1953), 1928, lithographic poster in colours printed by Lucien Serre & Cie., Paris, 107 × 78.5 cm, in its 20th Century Decorative Arts & Design sale of 3 June 2021. [Bonhams](https://www.bonhams.com/auction/26798/lot/246/).",
+    "PLM is the Chemins de fer de Paris à Lyon et à la Méditerranée, whose monogram appears at the upper right. Commons files the poster under that company’s advertising posters. [Commons](https://commons.wikimedia.org/wiki/File:Roger_Broders_Agay_1928.jpg)."
+  ],
+  "observed": [
+    "Tall pine trunks in orange and violet frame a view of a deep blue bay, a green headland, and a small lighthouse.",
+    "A woman in a black swimsuit and a red cloche cap stands in the foreground holding an orange wrap printed with dark flowers; a man sits at left.",
+    "Striped red-and-white parasols and small bathers dot the beach.",
+    "Color is laid in flat areas with little modelling: navy, violet, turquoise, orange, and cream.",
+    "“AGAY” is set very large in orange geometric sans-serif capitals with a dark outline and wide spacing, centered at the foot of the poster.",
+    "A second line in smaller orange capitals reads “PLAGE D’HIVER ET D’ÉTÉ - SUR LA CÔTE D’AZUR”. The PLM monogram sits in a gray block at upper right.",
+    "The landscape is asymmetrical and naturalistic in drawing; the geometry is in the lettering and the flat color."
+  ],
+  "interpretation": [
+    "This is Art Deco as commercial travel imagery: the resort is sold through modern fashion, flat stylized color, and a monumental capital title, while the scene itself stays pictorial.",
+    "It is a weaker match than the architecture and furniture references for symmetry and ornament; it is here for its lettering and palette."
+  ],
+  "borrow": [
+    "Set a short place name very large in geometric capitals with an outline, centered at the foot of the composition.",
+    "Use a deep violet or navy ground with one warm orange accent."
+  ],
+  "images": [
+    {
+      "file": "assets/references/broders-agay-plm-poster-1928.jpg",
+      "alt": "Travel poster: a woman in a black swimsuit and red cap stands under tall orange and violet pine trees above a blue bay with striped parasols on the beach. At the bottom the word AGAY in large orange capitals, and the line Plage d'hiver et d'été, sur la Côte d'Azur.",
+      "width": 1167,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Roger Broders, “Agay”, poster for the PLM railway, 1928, printed by Lucien Serre & Cie. Image from the [Bonhams](https://www.bonhams.com/auction/26798/lot/246/) lot photograph, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Roger_Broders_Agay_1928.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Roger_Broders_Agay_1928.jpg",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Wikimedia Commons marks the file public domain (PD-scan, PD-old-auto-expired, death year 1953). Roger Broders died in 1953, so the poster is public domain in France from 2024, and it was published in 1928, so it is public domain in the United States. The scan is a faithful reproduction of a two-dimensional work."
+  },
+  "identifiers": {
+    "commons": "File:Roger Broders Agay 1928.jpg"
+  }
+}

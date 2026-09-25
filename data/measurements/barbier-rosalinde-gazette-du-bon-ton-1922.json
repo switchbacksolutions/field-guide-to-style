@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/barbier-rosalinde-gazette-du-bon-ton-1922.jpg",
+  "captured": "2026-09-25T16:35:36+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e1dcc6",
+        "share": 0.694
+      },
+      {
+        "hex": "#33271e",
+        "share": 0.077
+      },
+      {
+        "hex": "#f7f3e7",
+        "share": 0.05
+      },
+      {
+        "hex": "#9b8a72",
+        "share": 0.031
+      },
+      {
+        "hex": "#b8a37e",
+        "share": 0.031
+      },
+      {
+        "hex": "#7c604a",
+        "share": 0.029
+      },
+      {
+        "hex": "#d2c6aa",
+        "share": 0.025
+      },
+      {
+        "hex": "#737a6d",
+        "share": 0.025
+      },
+      {
+        "hex": "#5a4a39",
+        "share": 0.021
+      },
+      {
+        "hex": "#bbb196",
+        "share": 0.019
+      }
+    ],
+    "background": "#e1dcc6",
+    "chroma": 0.11,
+    "lightness": 0.73,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 9,
+    "hues": 0
+  }
+}

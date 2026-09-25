@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/broders-agay-plm-poster-1928.jpg",
+  "captured": "2026-09-25T16:35:37+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#2d324e",
+        "share": 0.115
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.091
+      },
+      {
+        "hex": "#478eca",
+        "share": 0.073
+      },
+      {
+        "hex": "#bd8289",
+        "share": 0.073
+      },
+      {
+        "hex": "#7ec5c8",
+        "share": 0.05
+      },
+      {
+        "hex": "#a9717f",
+        "share": 0.049
+      },
+      {
+        "hex": "#fbd78e",
+        "share": 0.049
+      },
+      {
+        "hex": "#3b405c",
+        "share": 0.044
+      },
+      {
+        "hex": "#5999d1",
+        "share": 0.038
+      },
+      {
+        "hex": "#68b7bc",
+        "share": 0.038
+      }
+    ],
+    "background": "#2d324e",
+    "chroma": 0.27,
+    "lightness": 0.53,
+    "chromaticShare": 0.33,
+    "accentChroma": 0.51,
+    "distinct": 19,
+    "hues": 3
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/chrysler-building-1930.jpg",
+  "captured": "2026-09-25T16:35:36+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#c6c6c6",
+        "share": 0.096
+      },
+      {
+        "hex": "#7e7e7e",
+        "share": 0.093
+      },
+      {
+        "hex": "#acacac",
+        "share": 0.093
+      },
+      {
+        "hex": "#444444",
+        "share": 0.093
+      },
+      {
+        "hex": "#232323",
+        "share": 0.092
+      },
+      {
+        "hex": "#a0a0a0",
+        "share": 0.092
+      },
+      {
+        "hex": "#646464",
+        "share": 0.091
+      },
+      {
+        "hex": "#ededed",
+        "share": 0.066
+      },
+      {
+        "hex": "#919191",
+        "share": 0.061
+      },
+      {
+        "hex": "#131313",
+        "share": 0.06
+      }
+    ],
+    "background": "#c6c6c6",
+    "chroma": 0.0,
+    "lightness": 0.5,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 15,
+    "hues": 0
+  }
+}

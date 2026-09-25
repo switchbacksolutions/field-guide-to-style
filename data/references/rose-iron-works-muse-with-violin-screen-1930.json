@@ -1,0 +1,65 @@
+{
+  "id": "rose-iron-works-muse-with-violin-screen-1930",
+  "title": "Muse with Violin screen, Rose Iron Works",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "Paul Fehér’s wrought-iron fire screen for the Rose Iron Works of Cleveland: a gilded violinist in a stepped, silvered frame of arches and stylized leaves on dark blue velvet.",
+  "summary": "Silver-plated steel steps, arches, and leaves on dark blue velvet around a gold figure. Paul Fehér, Cleveland, 1930.",
+  "source": {
+    "url": "https://clevelandart.org/art/2020.216",
+    "label": "Cleveland Museum of Art: Muse with Violin Screen, 2020.216"
+  },
+  "creator": {
+    "name": "Paul Fehér (designer), Rose Iron Works (maker)",
+    "url": "https://www.wikidata.org/wiki/Q125423133"
+  },
+  "made": "1930",
+  "moods": [
+    "glamorous",
+    "formal",
+    "geometric"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the Cleveland Museum of Art web image (900 × 792 px) to a scratch folder and inspected it. Read the museum record through the Cleveland Open Access API. No image is stored."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "art-deco",
+      "note": "The museum itself calls it classic Art Deco; it hits every diagnostic of the rubric: symmetry, steps, repeated stylized ornament, and metal on a deep jewel tone.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The museum gives the date 1930, the materials steel, brass, silver and gold plating, and cotton velveteen, and the size 156.2 × 156.2 cm. [Cleveland Museum of Art](https://clevelandart.org/art/2020.216).",
+    "The museum text says Martin Rose founded the Rose Iron Works after training in Vienna, hired the Parisian designer Paul Fehér in the 1920s, and describes the screen’s geometric patterning, stylized natural forms, and a central figure reminiscent of Josephine Baker as “the classic motifs of Art Deco design”. [Cleveland Museum of Art](https://clevelandart.org/art/2020.216).",
+    "The screen was shown in the museum’s May Show of 1930 and reproduced in *Arts and Decoration* in January 1931, according to the museum’s exhibition and citation lists. [Cleveland Museum of Art](https://clevelandart.org/art/2020.216)."
+  ],
+  "observed": [
+    "The screen is nearly square, with a tall central panel between two narrower side panels, all framed in hammered silver-colored metal.",
+    "The central panel holds a gold nude figure playing a violin, standing on a mound of wavy lines, inside a frame of stacked semicircular arches.",
+    "Stepped, right-angled bars in the side panels climb in tiers and carry stylized leaf sprays.",
+    "A row of short vertical bars forms a stepped cresting along the top; the feet are grooved blocks.",
+    "The metal is set against dark blue velvet, so the silver ornament reads as bright line on a deep ground.",
+    "The layout is mirror-symmetrical about the central figure."
+  ],
+  "interpretation": [
+    "This is a near-perfect rubric match for the style: symmetry, stepped outlines, arches in regular rhythm, and metal on a dark jewel tone.",
+    "It shows the Paris idiom carried to an American industrial metalworks within five years of the 1925 Exposition."
+  ],
+  "borrow": [
+    "Frame a central panel with stacked semicircles on each side, like a column of arches.",
+    "Use a deep blue ground and draw all ornament in one metallic tone, with a single gold element at the center."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The Cleveland Museum of Art marks the image CC0. Paul Fehér died in 1990, so the design is protected under life-plus-70 terms, and whether it was “published” in the United States in 1930 by exhibition is unclear. Under the skill’s rule a CC0 photograph of a possibly copyrighted screen is not tier A. The lead curator may upgrade it if the museum’s CC0 determination is accepted."
+  },
+  "identifiers": {
+    "cleveland": "173164",
+    "accession": "2020.216"
+  }
+}

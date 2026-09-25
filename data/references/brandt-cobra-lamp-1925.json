@@ -1,0 +1,62 @@
+{
+  "id": "brandt-cobra-lamp-1925",
+  "title": "Cobra lamp by Edgar Brandt",
+  "type": "object",
+  "medium": "product",
+  "lede": "Edgar Brandt’s bronze floor lamp: a cobra coils up a thin stem and holds a conical glass shade in its body, its hood raised beside the rim.",
+  "summary": "A bronze cobra twined around a stem holding a conical amber glass shade. Edgar Brandt with Daum, c. 1925.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/109535/cobra-lamp",
+    "label": "Art Institute of Chicago: Cobra Lamp, 1984.73"
+  },
+  "creator": {
+    "name": "Edgar William Brandt; glass attributed to Daum Frères",
+    "url": "https://www.wikidata.org/wiki/Q3047441"
+  },
+  "made": "c. 1925",
+  "moods": [
+    "exotic",
+    "luxurious",
+    "dramatic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the Art Institute of Chicago IIIF image (843 × 1393 px) to a scratch folder and inspected it. Read the record through the AIC API. No image is stored."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "art-deco",
+      "note": "The Art Institute classifies it as Art Deco. It shows the luxury metalwork of the 1925 generation and the taste for exotic, stylized animals.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Art Institute records the lamp as c. 1925, bronze and glass, height 91.8 cm, by Edgar William Brandt (French, 1880–1960), with glass attributed to Daum Frères, Nancy, and metalwork attributed to Mueller Frères, Lunéville. Style: Art Deco. [Art Institute of Chicago](https://www.artic.edu/artworks/109535/cobra-lamp).",
+    "The AIC API marks the object as not in the public domain (`is_public_domain: false`). [AIC API](https://api.artic.edu/api/v1/artworks/109535)."
+  ],
+  "observed": [
+    "A dark bronze cobra forms the whole lamp: its tail coils flat on a round ribbed base, its body rises as a thin stem, wraps once around the bottom of the shade, and lifts its hooded head beside the rim.",
+    "The scales are cast as a fine diamond crosshatch along the body.",
+    "The shade is a tall inverted cone of mottled amber glass, pale green inside.",
+    "The lamp is tall and slender; the only curved lines are in the snake."
+  ],
+  "interpretation": [
+    "The lamp shows the exotic, animal side of Art Deco, influenced by the fashion for Egypt and the Orient; it is less geometric than the architectural references.",
+    "The contrast of dark patinated metal with warm glass is the material palette of luxury Deco lighting."
+  ],
+  "borrow": [
+    "Pair one dark metal color with one warm translucent color.",
+    "Use a single stylized animal as the structural element instead of as applied decoration."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The Art Institute does not mark the image public domain. Edgar Brandt died in 1960, so the design is protected in France until 2030."
+  },
+  "identifiers": {
+    "aic": "109535",
+    "accession": "1984.73"
+  }
+}

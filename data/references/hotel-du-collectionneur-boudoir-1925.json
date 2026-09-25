@@ -1,0 +1,81 @@
+{
+  "id": "hotel-du-collectionneur-boudoir-1925",
+  "title": "Boudoir of the Hôtel du Collectionneur, Paris 1925",
+  "type": "image",
+  "medium": "architecture",
+  "lede": "An autochrome taken at the 1925 Paris exhibition: Ruhlmann’s boudoir in the Pavillon du Collectionneur, with gilded panels, a basket of gold disks over the mirror, and dark lacquered furniture.",
+  "summary": "Pale paneling with gilt fillets, a gilded disk ornament, paired sconces, and black furniture. Ruhlmann pavilion, Paris, 1925.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:L%27Exposition_des_arts_d%C3%A9coratifs,_Pavillon_Ruhlmann_ou_H%C3%B4tel_d%27un_Riche_Collectionneur,_boudoir_-_A46733S.jpg",
+    "label": "Wikimedia Commons: musée départemental Albert-Kahn, A46733S"
+  },
+  "creator": {
+    "name": "Émile-Jacques Ruhlmann (ensemble); photograph by Léon Auguste for the Archives de la Planète",
+    "url": "https://www.wikidata.org/wiki/Q954875"
+  },
+  "made": "1925 (photograph dated 15 September 1925)",
+  "moods": [
+    "luxurious",
+    "glamorous",
+    "formal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the musée Albert-Kahn autochrome from Wikimedia Commons (1520 × 2048 px). The museum’s own notice page returned HTTP 403 to a script and to Claude in Chrome, so the metadata comes from the Commons record, which copies it."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "art-deco",
+      "note": "A room from the pavilion that the 1925 Exposition made the showpiece of French luxury Art Deco, recorded in color in the year of the exhibition.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "The musée Albert-Kahn notice page could not be opened on 2026-09-25 (HTTP 403). Rights and metadata are taken from the Commons copy.",
+  "context": [
+    "Commons records the autochrome as A46733S of the musée départemental Albert-Kahn, operator Léon Auguste, mission “1925 – Exposition internationale des Arts Décoratifs et Industriels modernes Paris”, dated 15 September 1925. The original caption reads “Petit Salon du Pavon Rhulmann”. [Commons](https://commons.wikimedia.org/wiki/File:L%27Exposition_des_arts_d%C3%A9coratifs,_Pavillon_Ruhlmann_ou_H%C3%B4tel_d%27un_Riche_Collectionneur,_boudoir_-_A46733S.jpg).",
+    "The style this room belongs to takes its name from the 1925 Exposition. See [Art Deco](style:art-deco)."
+  ],
+  "observed": [
+    "The room is pale gray-white with thin gilt fillets that divide the walls into tall vertical panels.",
+    "A gilded relief of overlapping disks in a fluted basket sits above a tall rectangular mirror with a gilt frame.",
+    "Two gilt wall sconces with pleated shades flank the mirror symmetrically.",
+    "A cylindrical crystal chandelier of stacked tiers hangs from a cornice with a gilded dentil band.",
+    "A black lacquered writing desk with a curved roll top and a black chair stand at lower left; an armchair covered in pale fabric with a dark frame stands beside them.",
+    "A round screen in front of the fireplace shows dark birds with spread wings in a radiating arrangement.",
+    "Green silk curtains hang at the left window. A small bronze figure and a framed portrait photograph stand on the mantelpiece.",
+    "The colors are soft and grainy, as is usual for an autochrome."
+  ],
+  "interpretation": [
+    "The room is the ensemblier idea in one view: furniture, wall panels, lighting, and ornament are designed together around one symmetrical axis through the mantel and mirror.",
+    "The gilded basket of disks is a stylized bouquet, the same motif as the inlay on Ruhlmann’s [corner cabinet](ref:ruhlmann-corner-cabinet-1923), turned into flat circles."
+  ],
+  "borrow": [
+    "Divide a pale ground into tall panels with thin gold rules.",
+    "Place one gilded ornament on the central axis and pair identical elements on each side of it.",
+    "Set black, glossy objects against a pale room for contrast instead of using a dark ground everywhere."
+  ],
+  "related": "Also by Ruhlmann: [corner cabinet, c. 1923](ref:ruhlmann-corner-cabinet-1923).",
+  "images": [
+    {
+      "file": "assets/references/hotel-du-collectionneur-boudoir-1925.jpg",
+      "alt": "Color autochrome of a pale paneled boudoir. Above a white mantelpiece, a gilt-framed mirror is flanked by two gilt sconces and topped by a gilded relief of stacked disks. A crystal chandelier hangs above; a black roll-top desk, a black chair, and a pale armchair stand in front, beside green curtains.",
+      "width": 1187,
+      "height": 1600,
+      "kind": "photograph",
+      "caption": "Léon Auguste, boudoir of the Pavillon Ruhlmann (Hôtel du Collectionneur), Exposition des arts décoratifs, Paris, 15 September 1925. Autochrome, musée départemental Albert-Kahn A46733S, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:L%27Exposition_des_arts_d%C3%A9coratifs,_Pavillon_Ruhlmann_ou_H%C3%B4tel_d%27un_Riche_Collectionneur,_boudoir_-_A46733S.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0e/L%27Exposition_des_arts_d%C3%A9coratifs%2C_Pavillon_Ruhlmann_ou_H%C3%B4tel_d%27un_Riche_Collectionneur%2C_boudoir_-_A46733S.jpg",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "Wikimedia Commons marks the file CC0 as a musée départemental Albert-Kahn upload. The room is Ruhlmann’s (died 1933). The small bronze figure, the portrait photograph, and the painted fire screen are by unidentified makers and appear incidentally; the lead curator should confirm that this is acceptable."
+  },
+  "identifiers": {
+    "albert-kahn": "A46733S",
+    "commons": "File:L'Exposition des arts décoratifs, Pavillon Ruhlmann ou Hôtel d'un Riche Collectionneur, boudoir - A46733S.jpg"
+  }
+}

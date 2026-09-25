@@ -1,0 +1,75 @@
+{
+  "id": "lalique-victoire-car-mascot-1928",
+  "title": "“Victoire” car mascot by René Lalique",
+  "type": "object",
+  "medium": "product",
+  "lede": "René Lalique’s glass radiator mascot: a woman’s head whose hair streams back into a long fan of ribbed, clear glass, a symbol of speed.",
+  "summary": "Frosted glass head with hair drawn back into a fan of parallel ribs. René Lalique, 1928.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O6383/victoire-radiator-mascot-lalique-rene-jules/",
+    "label": "Victoria and Albert Museum: Victoire, CIRC.199-1972"
+  },
+  "creator": {
+    "name": "René Lalique",
+    "url": "https://www.wikidata.org/wiki/Q451400"
+  },
+  "made": "1928 (Musée Lalique); ca. 1925 (V&A)",
+  "moods": [
+    "dynamic",
+    "glamorous",
+    "streamlined"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Morio’s 2013 photograph of the Toyota Automobile Museum example on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Victoire_2_by_Rene_Lalique_Toyota_Automobile_Museum.jpg) (3840 × 2880 px). Read the V&A record through its API and the Musée Lalique page with WebFetch."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "art-deco",
+      "note": "A canonical Art Deco luxury object: a machine-age speed motif rendered as stylized, repeated parallel ribs in pressed glass.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Musée Lalique dates Victoire to 1928 and says Lalique made it to mark the tenth anniversary of the 1918 armistice, for the bonnets of luxury cars. It notes that glass mascots were phased out in the 1930s and reissued as statuettes on a base. [Musée Lalique](https://www.musee-lalique.com/en/exhibit-month/victoire-car-mascot/).",
+    "The V&A records the object as a radiator mascot, manufacturer’s title “Victoire”, popular title “Spirit of the Wind”, press-moulded glass, 15.5 × 25 × 6.5 cm, made ca. 1925 (range 1920–1935), for the Lalique glassworks at Wingen-sur-Moder. [V&A](https://collections.vam.ac.uk/item/O6383/victoire-radiator-mascot-lalique-rene-jules/)."
+  ],
+  "observed": [
+    "The head is in profile, with the mouth open and the eyes wide; the face and neck are frosted and smooth.",
+    "The hair sweeps back from the brow into a long, flat, rising fan of parallel ribs in clear glass that ends in a straight, slanted edge.",
+    "The ribs are close and regular and catch light as a series of bright lines.",
+    "The mascot sits on a short round frosted collar on a black display base.",
+    "Mold marks at the base are too faint in this photograph to read."
+  ],
+  "interpretation": [
+    "The mascot turns speed into ornament: the wind is drawn as a regular fan of straight lines, the same radiating device the style uses for sunbursts.",
+    "It sits between core Art Deco and the later streamline branch: the subject is motion, but the form is still a stylized, symmetrical fan rather than a smooth teardrop."
+  ],
+  "borrow": [
+    "Draw motion as a fan of evenly spaced straight lines behind a simple shape.",
+    "Pair a matte surface with glossy parallel ridges for contrast in one material."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lalique-victoire-car-mascot-1928.jpg",
+      "alt": "A frosted glass woman’s head in profile, mouth open, with hair streaming back into a long rising fan of clear ribbed glass, on a round base in a dark museum display case.",
+      "width": 1600,
+      "height": 1200,
+      "kind": "photograph",
+      "caption": "René Lalique, “Victoire” car mascot, example in the Toyota Automobile Museum. Photograph by Morio, 2013, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Victoire_2_by_Rene_Lalique_Toyota_Automobile_Museum.jpg), CC BY-SA 3.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Victoire_2_by_Rene_Lalique_Toyota_Automobile_Museum.jpg",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-3.0",
+    "statement": "Photograph © Morio, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons. René Lalique died in 1945, so the design is in the public domain in France; it was issued before 1931, so it is also in the public domain in the United States."
+  },
+  "identifiers": {
+    "vam": "O6383",
+    "commons": "File:Victoire 2 by Rene Lalique Toyota Automobile Museum.jpg"
+  }
+}
