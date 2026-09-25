@@ -1,0 +1,74 @@
+{
+  "id": "bauhaus-signet-1922",
+  "title": "Bauhaus signet",
+  "type": "image",
+  "medium": "other",
+  "lede": "Oskar Schlemmer’s profile of a head, built only from rectangles and bars inside a circle, became the school’s mark from 1922.",
+  "summary": "A face in profile made of white rectangles and bars inside a circle. Oskar Schlemmer, 1922.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Bauhaus-Signet.svg",
+    "label": "Wikimedia Commons: Bauhaus-Signet.svg"
+  },
+  "creator": {
+    "name": "Oskar Schlemmer",
+    "url": "https://www.wikidata.org/wiki/Q458816"
+  },
+  "made": "1922",
+  "moods": [
+    "constructive",
+    "geometric",
+    "austere"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the PNG rendering of the [Commons vector file](https://commons.wikimedia.org/wiki/File:Bauhaus-Signet.svg). The file is a modern vector redrawing of the signet, not a scan of a 1922 print."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "bauhaus",
+      "note": "The school’s own mark: a figure reduced to orthogonal bars and blocks inside a circle.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes the file as the signet of the Staatliches Bauhaus, designed by Oskar Schlemmer and used from 1922, and cites Hans M. Wingler, Bauhaus: Weimar, Dessau, Berlin, Chicago (MIT Press, 1969). [Commons](https://commons.wikimedia.org/wiki/File:Bauhaus-Signet.svg).",
+    "The 1923 exhibition competition required the signet, and Joost Schmidt’s poster includes it. [Bauhaus Kooperation](https://bauhauskooperation.de/wissen/das-bauhaus/werke/graphische-druckerei/plakat-zur-bauhaus-ausstellung-in-weimar-1923). See [the poster](ref:bauhaus-exhibition-poster-1923)."
+  ],
+  "observed": [
+    "A thin white circle frames a black disc on a black square.",
+    "A long vertical white bar divides the disc slightly right of center.",
+    "White rectangles and thin bars at left of the bar suggest an eye, a nose, a mouth, and a neck in profile.",
+    "All parts except the circle are horizontal or vertical; there are no diagonals or curves inside the face."
+  ],
+  "interpretation": [
+    "The signet shows the Bauhaus idea of the human figure as a constructed system. It is the reverse of an ornamental emblem: the face is only a set of blocks.",
+    "Because it uses only black and white, it shows that the style depends on elementary shapes as much as on primary color."
+  ],
+  "borrow": [
+    "Draw an icon or figure only from rectangles and one enclosing circle.",
+    "Use one strong vertical bar as the axis of a mark."
+  ],
+  "images": [
+    {
+      "file": "assets/references/bauhaus-signet-1922.png",
+      "alt": "Black disc in a thin white circle; a vertical white bar and white rectangles and bars form a stylized face in profile facing left.",
+      "width": 1600,
+      "height": 1512,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Bauhaus signet by Oskar Schlemmer, 1922, vector redrawing on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bauhaus-Signet.svg), rendered to PNG by Wikimedia. Public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bauhaus-Signet.svg/1920px-Bauhaus-Signet.svg.png",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Marked public domain on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bauhaus-Signet.svg). Schlemmer died in 1943. The vector file is a redrawing derived from an earlier Commons image by Hendrike."
+  },
+  "identifiers": {
+    "commons": "File:Bauhaus-Signet.svg"
+  }
+}

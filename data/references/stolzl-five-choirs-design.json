@@ -1,0 +1,59 @@
+{
+  "id": "stolzl-five-choirs-design",
+  "title": "Gunta Stölzl, design for the wall hanging “Fünf Chöre”",
+  "type": "image",
+  "medium": "textile",
+  "lede": "A Jacquard wall-hanging design on squared paper: bands of stripes, triangles, and half-circles in a symmetrical grid.",
+  "summary": "Stripes, triangles, and small circles in bands on a grid. Gunta Stölzl, Bauhaus Dessau weaving workshop, 1928.",
+  "source": {
+    "url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/weberei/fuenf-choere/",
+    "label": "Bauhaus Kooperation: Fünf Chöre"
+  },
+  "creator": {
+    "name": "Gunta Stölzl",
+    "url": "https://www.wikidata.org/wiki/Q73085"
+  },
+  "made": "1928",
+  "moods": [
+    "rhythmic",
+    "geometric",
+    "warm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected, in the scratchpad only, the Bauhaus-Archiv image of the design on the Bauhaus Kooperation page (710 × 917 px)."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "bauhaus",
+      "note": "Bauhaus weaving: elementary triangles, circles, and bars placed on a strict grid for machine production.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "From 1926 Anni Albers and Gunta Stölzl worked with the Jacquard technique, in which punched cards lift single warp threads. Bauhaus Kooperation links this to the Dessau aim of production at scale. [Bauhaus Kooperation](https://bauhauskooperation.de/wissen/das-bauhaus/werke/weberei/fuenf-choere/).",
+    "Stölzl planned the hanging for a larger edition. One example is in the Museum für Kunst und Kulturgeschichte, Lübeck; a second is lost. Jeroen Vinken (2013) questions whether the title is correct. [Bauhaus Kooperation](https://bauhauskooperation.de/wissen/das-bauhaus/werke/weberei/fuenf-choere/)."
+  ],
+  "observed": [
+    "The design is painted on squared paper, with thread counts in pencil down the right side.",
+    "Horizontal bands repeat rows of triangles, half-circles, small dots, checks, and vertical stripes.",
+    "The layout is mirror-symmetrical, with a wider central column and two side columns.",
+    "Colors are muted: ochre, pink, green, and gray, with accents of red, blue, and black.",
+    "Color test patches sit in the lower right margin."
+  ],
+  "interpretation": [
+    "The design uses the Bauhaus shape vocabulary but not its primary palette. It is a good case of the rubric’s limit: elementary shapes and a grid are present, while the colors are softer than the style’s “primary triad” guidance.",
+    "The grid and repeat show the Dessau move toward designs for production."
+  ],
+  "borrow": [
+    "Build a pattern from bands, each band using one elementary shape repeated at a fixed interval.",
+    "Use strict symmetry across a few columns to calm a dense pattern."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Bauhaus Kooperation credits its image “Bauhaus-Archiv Berlin / © VG Bild-Kunst, Bonn.” Stölzl died in 1983."
+  }
+}

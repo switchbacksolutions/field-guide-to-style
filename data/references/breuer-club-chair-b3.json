@@ -1,0 +1,62 @@
+{
+  "id": "breuer-club-chair-b3",
+  "title": "Marcel Breuer, club chair B 3 (“Wassily”)",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "The first tubular steel armchair for the home: a cubic frame of bent tubes with fabric straps for seat, back, and arms.",
+  "summary": "Bent steel tube frame with taut dark fabric straps. Marcel Breuer, Bauhaus Dessau, 1925–26.",
+  "source": {
+    "url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/tischlerei/clubsessel-b-3-2-version/",
+    "label": "Bauhaus Kooperation: Clubsessel B 3, 2. Version"
+  },
+  "creator": {
+    "name": "Marcel Breuer",
+    "url": "https://www.wikidata.org/wiki/Q57588"
+  },
+  "made": "1926 (second version, per Bauhaus Kooperation); first version 1925",
+  "moods": [
+    "constructive",
+    "technical",
+    "open"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected, in the scratchpad only, the Stiftung Bauhaus Dessau photograph on the Bauhaus Kooperation page and a [side view by Sailko](https://commons.wikimedia.org/wiki/File:Marcel_breuer,_poltrona_B_3,_1925,_01.JPG) of the example in the Musée national d’art moderne, Paris."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "bauhaus",
+      "note": "The style summary names tubular steel as a Bauhaus material; this chair made it a domestic furniture type.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Bauhaus Kooperation says Breuer, the junior master in charge of the Dessau furniture workshop, designed the chair in 1926 as a showpiece of new living; it was later called “Wassily” after Wassily Kandinsky, and it furnished the Dessau Bauhaus building. [Bauhaus Kooperation](https://bauhauskooperation.de/wissen/das-bauhaus/werke/tischlerei/clubsessel-b-3-2-version/).",
+    "The Commons photograph labels the Paris example “B 3, 1925.” [Commons](https://commons.wikimedia.org/wiki/File:Marcel_breuer,_poltrona_B_3,_1925,_01.JPG). MoMA dates its example 1927–1928. [MoMA 2851](https://www.moma.org/collection/works/2851)."
+  ],
+  "observed": [
+    "The frame is made of thin metal tubes with a worn, dull plating, bent into rectangles with rounded corners.",
+    "Seen from the side, the base, arms, and back form overlapping rectangles and one strong diagonal.",
+    "Dark fabric straps stretch between the tubes to form the seat, the back, and the arm rests.",
+    "Screws and joins in the frame are visible.",
+    "The chair is open: the floor and the wall show through it from every side."
+  ],
+  "interpretation": [
+    "The chair turns the poster grammar of bars and one diagonal into a structure. Tubular steel and canvas are shown as they are."
+  ],
+  "borrow": [
+    "Draw with thin continuous lines and rounded corners only where a material bends.",
+    "Let one diagonal cross an otherwise orthogonal frame."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Commons photograph is CC BY 3.0, but the chair design is still protected; Breuer died in 1981. Bauhaus Kooperation’s photograph is credited to Stiftung Bauhaus Dessau / Kelly Kellerhoff."
+  },
+  "identifiers": {
+    "wikidata": "Q2629013",
+    "moma": "2851"
+  }
+}

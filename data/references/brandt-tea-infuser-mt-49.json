@@ -1,0 +1,62 @@
+{
+  "id": "brandt-tea-infuser-mt-49",
+  "title": "Marianne Brandt, tea infuser MT 49",
+  "type": "object",
+  "medium": "product",
+  "lede": "A small metal teapot composed of a hemisphere, a disc, a cylinder, and a half-circle handle on a cross-shaped foot.",
+  "summary": "Hemisphere body, flat cylindrical lid, half-disc ebony handle, cross foot. Marianne Brandt, Bauhaus metal workshop, 1924.",
+  "source": {
+    "url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/metall/tee-extraktkaennchen-mt-49",
+    "label": "Bauhaus Kooperation: Tee-Extraktkännchen (MT 49)"
+  },
+  "creator": {
+    "name": "Marianne Brandt",
+    "url": "https://www.wikidata.org/wiki/Q456521"
+  },
+  "made": "1924",
+  "moods": [
+    "precise",
+    "geometric",
+    "refined"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Lucia Moholy’s 1924 photograph of the infuser on the Bauhaus Kooperation page, in the scratchpad only. The Met record gives materials and dimensions."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "bauhaus",
+      "note": "A key object of the Bauhaus metal workshop: elementary solids and a half-circle handle, with no ornament.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Bauhaus Kooperation says Brandt made the infuser in her first year of study, 1924, in the metal workshop under László Moholy-Nagy, and that the Bauhaus often criticized the use of costly materials such as silver and ebony. [Bauhaus Kooperation](https://bauhauskooperation.de/wissen/das-bauhaus/werke/metall/tee-extraktkaennchen-mt-49).",
+    "The Met holds an example: “Tea Infuser and Strainer,” ca. 1924, silver and ebony, 8.3 × 10.8 × 16.5 cm, accession 2000.63a–c. [The Met 491299](https://www.metmuseum.org/art/collection/search/491299)."
+  ],
+  "observed": [
+    "The body is a polished metal hemisphere that reflects its surroundings.",
+    "A flat disc lid sits on a short cylinder; a small black cylindrical knob sits on top.",
+    "The handle is a flat black half-disc, fixed to the body with a rectangular bracket.",
+    "A short straight spout projects at left.",
+    "The body rests on a small crossed foot."
+  ],
+  "interpretation": [
+    "The infuser shows the Bauhaus approach to form in three dimensions: each part is one elementary solid, and the parts meet without transitions. It is the object equivalent of circles and bars in a poster."
+  ],
+  "borrow": [
+    "Build a component from separate elementary shapes and keep the joins visible.",
+    "Contrast one polished or bright material with one flat black part."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Bauhaus Kooperation credits its photograph “Bauhaus-Archiv Berlin / © VG Bild-Kunst, Bonn.” The Met marks its record as not public domain. Brandt died in 1983 or 1984 (sources differ)."
+  },
+  "identifiers": {
+    "wikidata": "Q21124447",
+    "met": "491299"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "bauhausbucher-8-malerei-fotografie-film",
+  "title": "Bauhausbücher 8: Malerei, Fotografie, Film",
+  "type": "print",
+  "medium": "book",
+  "lede": "Moholy-Nagy’s own volume in the Bauhaus book series, with a cover that sets red sans-serif type over a close-up photograph of a camera.",
+  "summary": "Red and white sans-serif type over a black-and-white photograph. László Moholy-Nagy, Bauhausbücher 8, second edition, 1927.",
+  "source": {
+    "url": "https://www.moma.org/collection/works/8089",
+    "label": "MoMA: Bauhausbücher 8, L. Moholy-Nagy: Malerei, Fotografie, Film"
+  },
+  "creator": {
+    "name": "László Moholy-Nagy",
+    "url": "https://www.wikidata.org/wiki/Q160448"
+  },
+  "made": "1927 (second edition; first edition 1925)",
+  "moods": [
+    "experimental",
+    "bold",
+    "technical"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the [Commons scan of the 1927 cover](https://commons.wikimedia.org/wiki/File:Bauhausb%C3%BCcher_8,_Malerei,_Fotografie,_Film.jpg) (1612 × 2000 px). Also compared the [1925 first-edition cover](https://commons.wikimedia.org/wiki/File:L%C3%A1szl%C3%B3_Moholy-Nagy_Malerei_Umschlag_1925.jpg), which spells “Photographie”."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "bauhaus",
+      "note": "Bauhaus typophoto: geometric sans-serif type in red, white, and black laid over photography, from the school’s own book series.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "MoMA catalogues the cover as “Bauhausbücher 8, L. Moholy-Nagy: Malerei, Fotografie, Film,” 1927. [MoMA 8089](https://www.moma.org/collection/works/8089). The Commons file cites this MoMA record as its source and describes the image as the second edition of 1927. [Commons](https://commons.wikimedia.org/wiki/File:Bauhausb%C3%BCcher_8,_Malerei,_Fotografie,_Film.jpg).",
+    "The Bauhaus published the Bauhausbücher from 1925 to 1930 with Albert Langen Verlag; Walter Gropius and László Moholy-Nagy were the editors. [Wikipedia (de): Bauhausbücher](https://de.wikipedia.org/wiki/Bauhausb%C3%BCcher).",
+    "The first edition appeared in 1925 with the spelling “Photographie” on the cover. [Commons, 1925 cover](https://commons.wikimedia.org/wiki/File:L%C3%A1szl%C3%B3_Moholy-Nagy_Malerei_Umschlag_1925.jpg)."
+  ],
+  "observed": [
+    "A dark, grainy close-up photograph of a camera or projector fills the cover; one round lens with two bright highlights is at upper left.",
+    "“BAUHAUS BÜCHER” runs across the top in red geometric sans-serif capitals.",
+    "A large red numeral 8 sits inside the lens ring.",
+    "The author name is in white capitals; “MALEREI” and “FILM” are in red, “FOTOGRAFIE” in white, all flush left.",
+    "The scanned paper has torn and worn edges."
+  ],
+  "interpretation": [
+    "The cover shows the Bauhaus interest in machines and new media. The photograph replaces drawn geometry, but the circle of the lens still works as an elementary shape.",
+    "The red-white-black scheme and flush-left sans-serif stack became a template for later modernist book design."
+  ],
+  "borrow": [
+    "Put one strong numeral inside a circular form in a photograph to tie type to image.",
+    "Alternate two colors line by line in a flush-left title stack."
+  ],
+  "images": [
+    {
+      "file": "assets/references/bauhausbucher-8-malerei-fotografie-film.jpg",
+      "alt": "Book cover: a dark photograph of a camera lens with a large red numeral 8 inside the lens ring; red capitals read Bauhaus Bücher at the top, and L. Moholy-Nagy, Malerei, Fotografie, Film are stacked flush left in white and red at the bottom.",
+      "width": 1290,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "László Moholy-Nagy, cover of Bauhausbücher 8, second edition, 1927. Scan on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bauhausb%C3%BCcher_8,_Malerei,_Fotografie,_Film.jpg), public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/96/Bauhausb%C3%BCcher_8%2C_Malerei%2C_Fotografie%2C_Film.jpg",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Marked public domain on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bauhausb%C3%BCcher_8,_Malerei,_Fotografie,_Film.jpg). Moholy-Nagy died in 1946, and this edition was published in 1927. The scan is a faithful reproduction of a two-dimensional work."
+  },
+  "identifiers": {
+    "moma": "8089",
+    "commons": "File:Bauhausbücher 8, Malerei, Fotografie, Film.jpg"
+  }
+}

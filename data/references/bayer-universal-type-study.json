@@ -1,0 +1,60 @@
+{
+  "id": "bayer-universal-type-study",
+  "title": "Herbert Bayer, Research in Development of Universal Type",
+  "type": "image",
+  "medium": "typeface",
+  "lede": "Bayer’s single-case alphabet drawn from arcs and straight strokes, the reference point for Bauhaus lowercase typography.",
+  "summary": "A lowercase-only geometric alphabet built from circles and bars. Herbert Bayer, drawing dated 1927 by Harvard; the alphabet is usually dated 1925.",
+  "source": {
+    "url": "https://harvardartmuseums.org/collections/object/225330",
+    "label": "Harvard Art Museums: Research in Development of Universal Type (BR48.94)"
+  },
+  "creator": {
+    "name": "Herbert Bayer",
+    "url": "https://www.wikidata.org/wiki/Q213637"
+  },
+  "made": "1927 (Harvard’s date for this drawing)",
+  "moods": [
+    "rational",
+    "geometric",
+    "systematic"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the Harvard Art Museums record and the Bauhaus Kooperation workshop page. The museum image did not download (HTTP 403), so no image of the drawing was inspected. A digital “universal” specimen on Commons was not used because it is a modern revival, not Bayer’s drawing."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "bauhaus",
+      "note": "The style summary names Bayer’s universal alphabet as the source of Bauhaus lowercase, geometric sans-serif type.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "No image is stored. The drawing is still in copyright (© Artists Rights Society / VG Bild-Kunst).",
+  "context": [
+    "Harvard dates the drawing 1927 and describes it as black ink and gouache on cream wove paper, 37.5 × 60.4 cm. Bayer gave it to the Busch-Reisinger Museum in 1948. [Harvard BR48.94](https://harvardartmuseums.org/collections/object/225330).",
+    "Graphite notes in Bayer’s hand read “abbildung 1. alfabet. g und k ist noch als unfertig zu betrachten” (figure 1, alphabet; g and k are to be considered unfinished) and “beispiel eines zeichnens in grösserem massta[b] präcise optische wirkung.” [Harvard BR48.94](https://harvardartmuseums.org/collections/object/225330).",
+    "Bauhaus Kooperation says Bayer based his type design on the simplest geometric elements, with the goal of standardizing communication and a uniform typographic identity for the Bauhaus; the workshop’s type reform was most visible in the use of lowercase only. [Bauhaus Kooperation: Druck und Reklame](https://bauhauskooperation.de/wissen/das-bauhaus/lehre/werkstaetten/druck-und-reklame).",
+    "Bayer led the Dessau printing and advertising workshop from 1925 to 1928. [Bauhaus Kooperation: Herbert Bayer](https://bauhauskooperation.de/wissen/das-bauhaus/koepfe/biografien/biografie-detail/person-59)."
+  ],
+  "interpretation": [
+    "The universal alphabet is more a program than a working typeface: one case, a few construction elements, and no historical ornament. It explains why lowercase headings read as “Bauhaus”."
+  ],
+  "borrow": [
+    "Set headings in lowercase only, in a geometric sans-serif with circular bowls.",
+    "Treat a type system as a small kit of arcs and straight strokes, and keep it consistent across all printed matter."
+  ],
+  "next": [
+    "Inspect an image of BR48.94 (Harvard image service or the MoMA 2009 catalogue, cat. no. 258) and add observed traits."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Harvard Art Museums lists the copyright as © Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn. Bayer died in 1985."
+  },
+  "identifiers": {
+    "harvard": "225330"
+  }
+}

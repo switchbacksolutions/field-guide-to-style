@@ -1,0 +1,78 @@
+{
+  "id": "bauhaus-exhibition-poster-1923",
+  "title": "Poster for the 1923 Bauhaus exhibition",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Joost Schmidt’s railway-station poster joins the school’s name, the dates, and the signet into one diagonal figure of circles, squares, and bars.",
+  "summary": "Red, black, and gray circles and rectangles on a diagonal cross. Joost Schmidt, Weimar, 1923.",
+  "source": {
+    "url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/graphische-druckerei/plakat-zur-bauhaus-ausstellung-in-weimar-1923",
+    "label": "Bauhaus Kooperation: Plakat zur Bauhaus-Ausstellung in Weimar 1923"
+  },
+  "creator": {
+    "name": "Joost Schmidt",
+    "url": "https://www.wikidata.org/wiki/Q567369"
+  },
+  "made": "1923",
+  "moods": [
+    "constructive",
+    "bold",
+    "geometric"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Bauhaus-Archiv image published by Bauhaus Kooperation (710 × 1016 px). This copy has the later overprint that moves the opening to 15 August. Also compared the smaller [Commons copy](https://commons.wikimedia.org/wiki/File:Joost_Schmidt_Bauhausausstellung_1923.jpg), which shows the first state with “Juli–Sept”."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "bauhaus",
+      "note": "A canonical Bauhaus poster: elementary circles and rectangles, heavy bars, a strong diagonal, and flat red and black.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Schmidt made the design for a competition. It is a cross of circles and squares set on the diagonal, and it contains Oskar Schlemmer’s Bauhaus signet, which the competition brief required. [Bauhaus Kooperation](https://bauhauskooperation.de/wissen/das-bauhaus/werke/graphische-druckerei/plakat-zur-bauhaus-ausstellung-in-weimar-1923).",
+    "The first version advertised the exhibition in 120 German railway stations with the dates July to September. A sticker later updated the dates. [Bauhaus Kooperation](https://bauhauskooperation.de/wissen/das-bauhaus/werke/graphische-druckerei/plakat-zur-bauhaus-ausstellung-in-weimar-1923).",
+    "The Museum of Modern Art holds a copy as “Staatliches Bauhaus Ausstellung,” 1923. [MoMA 6235](https://www.moma.org/collection/works/6235)."
+  ],
+  "observed": [
+    "A red ring at upper left and a large black half-disc at lower right sit at the ends of a thick black diagonal band.",
+    "Rectangles in black, red, and stippled gray overlap at right angles along the band.",
+    "“STAATLICHES BAUHAUS” runs above the ring; “AUSSTELLUNG”, “WEIMAR”, and “1923” follow the diagonal.",
+    "The capitals are hand-drawn and angular, built from straight strokes and small arcs.",
+    "A small version of the Schlemmer signet sits inside the red ring.",
+    "A pink overprint strip reads “Eröffnung verschoben auf 15. Aug – 30. Sept”.",
+    "The ground is unprinted off-white paper. Wide empty margins surround the central figure."
+  ],
+  "interpretation": [
+    "The poster shows the change from the expressionist early Bauhaus to constructive geometry. Type and shapes form one system: the words follow the same diagonal as the bars.",
+    "The palette is red, black, and gray, not the full primary triad. This reduced red-and-black version is common in Bauhaus print work."
+  ],
+  "borrow": [
+    "Build a heading and its shapes into one diagonal figure, and let the words follow the edges of the shapes.",
+    "Use one saturated accent with black and a textured gray, and leave wide margins of plain ground."
+  ],
+  "images": [
+    {
+      "file": "assets/references/bauhaus-exhibition-poster-1923.jpg",
+      "alt": "Poster on off-white paper: a red ring and a large black half-disc joined by a black diagonal band with overlapping red, black, and gray rectangles. The words Staatliches Bauhaus, Ausstellung, Weimar, and 1923 follow the shapes, and a pink strip gives the new opening date, 15 August.",
+      "width": 710,
+      "height": 1016,
+      "kind": "source-image",
+      "caption": "Joost Schmidt, poster for the 1923 Bauhaus exhibition, copy with the date overprint. Bauhaus-Archiv Berlin, image from [Bauhaus Kooperation](https://bauhauskooperation.de/wissen/das-bauhaus/werke/graphische-druckerei/plakat-zur-bauhaus-ausstellung-in-weimar-1923), marked public domain.",
+      "original": "https://bauhauskooperation.de/fileadmin/_processed_/a/0/csm_Schmidt_Joost_Plakat_Bauhausaustellung_Weimar_1923_2b44962907.jpg",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Bauhaus Kooperation credits the image “Bauhaus-Archiv Berlin / gemeinfrei / abgelaufen 2018” (public domain, term expired 2018). Joost Schmidt died in 1948. The poster was published in 1923, so it is also in the public domain in the United States."
+  },
+  "identifiers": {
+    "moma": "6235",
+    "commons": "File:Joost Schmidt Bauhausausstellung 1923.jpg"
+  }
+}

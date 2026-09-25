@@ -1,0 +1,77 @@
+{
+  "id": "staatliches-bauhaus-in-weimar-1919-1923",
+  "title": "Staatliches Bauhaus in Weimar 1919–1923",
+  "type": "print",
+  "medium": "book",
+  "lede": "The first survey of the school, published for the 1923 exhibition: Moholy-Nagy’s layout and Bayer’s cover put the Bauhaus idea into print.",
+  "summary": "Exhibition book with a red-and-black title page by László Moholy-Nagy and a red-and-blue cover by Herbert Bayer, 1923.",
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/492179",
+    "label": "The Met: “Staatliches Bauhaus in Weimar 1919-1923” Book"
+  },
+  "creator": {
+    "name": "László Moholy-Nagy (layout), Herbert Bayer (cover); edited by Walter Gropius",
+    "url": "https://www.wikidata.org/wiki/Q160448"
+  },
+  "made": "1923",
+  "moods": [
+    "constructive",
+    "bold",
+    "experimental"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the [title page scan](https://commons.wikimedia.org/wiki/File:StaatlichesBauhausTitelseite.jpg) and the [front cover scan](https://commons.wikimedia.org/wiki/File:StaatlichesBauhaus_Vorderdeckel.jpg) from Wikimedia Commons, both photographed by Tobias Adam from the Weimar university library copy. Only the title page is stored."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "bauhaus",
+      "note": "A key Bauhaus publication: sans-serif capitals, a giant red initial, vertical and horizontal type, and asymmetric composition.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Met lists the book under Walter Gropius, 1923, “printed halftone and lithographic printing on paper,” 24.6 × 25.3 cm, accession 2001.392. [The Met 492179](https://www.metmuseum.org/art/collection/search/492179).",
+    "MoMA credits the design to Herbert Bayer and László Moholy-Nagy. [MoMA 7567](https://www.moma.org/collection/works/7567). The Commons scans credit the title page to Moholy-Nagy and the front cover to Bayer. [Title page](https://commons.wikimedia.org/wiki/File:StaatlichesBauhausTitelseite.jpg), [cover](https://commons.wikimedia.org/wiki/File:StaatlichesBauhaus_Vorderdeckel.jpg).",
+    "Bauhaus Kooperation describes the book as the catalogue that accompanied the first public exhibition of the school in 1923. [Bauhaus Kooperation](https://bauhauskooperation.de/en/knowledge/publications/publikationen-zum-bauhaus/staatliches-bauhaus-weimar-1919-1923)."
+  ],
+  "observed": [
+    "Title page: a very tall red capital B fills the left side and serves as the first letter of the red word “AUHAUS”.",
+    "“STAATLICHES” is set in black outline capitals filled with horizontal stripes; “WEIMAR” runs vertically in the same striped letters.",
+    "“1919 1923” is set in heavy black sans-serif figures beside the vertical word.",
+    "“BAUHAUSVERLAG” runs vertically and meets “WEIMAR-MÜNCHEN” at a right angle, like a bracket.",
+    "Cover (not stored): condensed capitals in alternating red and blue blocks fill a black ground edge to edge."
+  ],
+  "interpretation": [
+    "The title page treats letters as building parts: one huge initial, words turned 90 degrees, and type that locks into right angles. It is an early example of the “new typography” that Moholy-Nagy promoted.",
+    "The red-and-black palette with textured letter fills reads as Bauhaus without any circles or triangles."
+  ],
+  "borrow": [
+    "Use one oversized initial as a structural element and hang the rest of the title from it.",
+    "Rotate a secondary line 90 degrees to make an L-shaped bracket with a horizontal line."
+  ],
+  "images": [
+    {
+      "file": "assets/references/staatliches-bauhaus-in-weimar-1919-1923.jpg",
+      "alt": "Title page on tan paper: a huge red B forms the start of the red word Bauhaus; Staatliches is in black striped capitals across the top, Weimar runs vertically in striped letters, and 1919 1923 is in heavy black figures.",
+      "width": 1600,
+      "height": 1588,
+      "kind": "source-image",
+      "caption": "Title page of Staatliches Bauhaus in Weimar 1919–1923, layout by László Moholy-Nagy. Photograph by Tobias Adam on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:StaatlichesBauhausTitelseite.jpg), public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9b/StaatlichesBauhausTitelseite.jpg",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The stored title page is marked public domain on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:StaatlichesBauhausTitelseite.jpg). Moholy-Nagy died in 1946, and the book was published in 1923. The Bayer cover is not stored: its Commons photograph is CC BY-SA 4.0, and Bayer died in 1985, so the design is still protected outside the United States."
+  },
+  "identifiers": {
+    "met": "492179",
+    "moma": "7567",
+    "commons": "File:StaatlichesBauhausTitelseite.jpg"
+  }
+}

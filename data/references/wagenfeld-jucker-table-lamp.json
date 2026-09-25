@@ -1,0 +1,62 @@
+{
+  "id": "wagenfeld-jucker-table-lamp",
+  "title": "Bauhaus table lamp (Wagenfeld and Jucker)",
+  "type": "object",
+  "medium": "product",
+  "lede": "The “Bauhaus lamp”: an opal glass hemisphere on a straight shaft over a round base, all parts plain geometric solids.",
+  "summary": "Opal glass dome, clear or metal shaft, disc base. Wilhelm Wagenfeld and Carl Jakob Jucker, Bauhaus metal workshop, 1923–24.",
+  "source": {
+    "url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/metall/bauhaus-leuchte",
+    "label": "Bauhaus Kooperation: Bauhaus-Leuchte"
+  },
+  "creator": {
+    "name": "Wilhelm Wagenfeld and Carl Jakob Jucker",
+    "url": "https://www.wikidata.org/wiki/Q77378"
+  },
+  "made": "1923–1924 (MoMA); 1924 (Bauhaus Kooperation, credited to Wagenfeld)",
+  "moods": [
+    "rational",
+    "precise",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected, in the scratchpad only, the metal version photographed by Joachim Fliegner on the Bauhaus Kooperation page and a [Commons photograph by Sailko](https://commons.wikimedia.org/wiki/File:Tischlampe_di_Carl_Jakob_Jucker_(left,_1923-24)_e_di_Wilhelm_Wagenfeld_(right,_1924)_(cropped).JPG) of the glass-base version at Weimar."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "bauhaus",
+      "note": "A canonical Bauhaus product: a hemisphere, a cylinder, and a disc, with visible fittings.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Bauhaus Kooperation says Wagenfeld made the lamp in 1924, planned it as a general-purpose lamp for living rooms, and followed the geometric rules of his teacher László Moholy-Nagy. [Bauhaus Kooperation](https://bauhauskooperation.de/wissen/das-bauhaus/werke/metall/bauhaus-leuchte).",
+    "MoMA credits Wilhelm Wagenfeld and Carl Jakob Jucker, 1923–1924. [MoMA 4056](https://www.moma.org/collection/works/4056)."
+  ],
+  "observed": [
+    "A white opal glass shade is close to a hemisphere and sits on a thin flat metal ring.",
+    "A threaded metal collar with a pull switch joins the shade to a straight cylindrical shaft.",
+    "One version has a clear glass shaft and a thick clear glass disc base, with the wire visible inside the shaft.",
+    "The other version has a polished metal shaft and a flat metal disc base on small ball feet.",
+    "The pull chain ends in a small metal ball."
+  ],
+  "interpretation": [
+    "The lamp is the object form of the style’s shape vocabulary. The glass version also shows “honest materials”: the wire and fittings stay visible."
+  ],
+  "borrow": [
+    "Combine one hemisphere, one cylinder, and one disc; do not add transitions or decoration.",
+    "Leave functional parts, such as a switch or cable, visible and neat."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Bauhaus Kooperation credits its photograph “Wilhelm Wagenfeld Stiftung, Bremen / © VG Bild-Kunst, Bonn.” The Commons photograph is CC BY-SA 3.0, but the lamp design is still protected; Wagenfeld died in 1990."
+  },
+  "identifiers": {
+    "wikidata": "Q811380",
+    "moma": "4056"
+  }
+}

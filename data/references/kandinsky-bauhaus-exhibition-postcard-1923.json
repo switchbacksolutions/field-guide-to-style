@@ -1,0 +1,77 @@
+{
+  "id": "kandinsky-bauhaus-exhibition-postcard-1923",
+  "title": "Kandinsky’s postcard for the 1923 Bauhaus exhibition",
+  "type": "print",
+  "medium": "other",
+  "lede": "Card no. 3 of the exhibition series: Kandinsky’s circles, checkerboards, and crossing lines under plain sans-serif capitals.",
+  "summary": "Blue ring, red arc, checkerboard, and diagonal lines. Wassily Kandinsky, printed postcard, 1923.",
+  "source": {
+    "url": "https://www.philamuseum.org/objects/255859",
+    "label": "Philadelphia Museum of Art: Postcard No. 3 for the Bauhaus Exhibition"
+  },
+  "creator": {
+    "name": "Wassily Kandinsky",
+    "url": "https://www.wikidata.org/wiki/Q61064"
+  },
+  "made": "1923",
+  "moods": [
+    "experimental",
+    "geometric",
+    "dynamic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the [Commons scan](https://commons.wikimedia.org/wiki/File:Postkarte_Bauhaus_Wassily_Kandinsky_Postkarte_f%C3%BCr_die_Bauhaus-Ausstellung.jpg) (539 × 805 px). Commons gives a Villa Grisebach auction as its source."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "bauhaus",
+      "note": "Elementary shapes used as composition elements, primary accents, and sans-serif lettering, by a Bauhaus master for the school’s first exhibition.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Philadelphia Museum of Art catalogues the card as “Postcard No. 3 for the Bauhaus Exhibition, Weimar, July–September 1923.” Its text says the exhibition answered a demand from the Thuringian State Assembly for a progress report, and that it put architecture at the center with an emphasis on joining art and technology. [PMA 255859](https://www.philamuseum.org/objects/255859).",
+    "The card belongs to a series of 20 postcards for the exhibition, by Feininger, Kandinsky, Klee, Moholy-Nagy, Schlemmer, Bayer, and others. [Bauhaus-Karten](https://www.bauhaus-postkarten.de/karten/nr.3-wassily-kandinsky/). MoMA also holds a copy. [MoMA 133652](https://www.moma.org/collection/works/133652)."
+  ],
+  "observed": [
+    "A blue disc in a black ring floats at upper right; a small black dot and a black square sit nearby.",
+    "A large maroon disc at lower left is cut by a red arc and a white wedge.",
+    "Long thin black lines cross the card on several diagonals; two ladder-like bands carry small red, blue, and white blocks.",
+    "A black-and-white checkerboard square sits at left.",
+    "The lettering is thin, even-weight sans-serif capitals: “BAU- HAUS- AUSSTELLUNG WEIMAR” and “JULI – SEPTEMBER 1923”.",
+    "The ground is plain cream paper."
+  ],
+  "interpretation": [
+    "The card links Kandinsky’s teaching on point, line, and plane to the exhibition’s public face. The shapes are active and diagonal, but the lettering stays quiet and upright.",
+    "Compared with Schmidt’s poster, this is the freer, painterly side of Bauhaus geometry."
+  ],
+  "borrow": [
+    "Set small, precise areas of primary color against many thin black lines.",
+    "Keep the text in one plain sans-serif weight so that the composition carries the energy."
+  ],
+  "images": [
+    {
+      "file": "assets/references/kandinsky-bauhaus-exhibition-postcard-1923.jpg",
+      "alt": "Cream postcard with a blue disc in a black ring, a maroon disc cut by a red arc, a checkerboard square, and many thin crossing diagonal lines. Thin sans-serif capitals read Bauhaus-Ausstellung Weimar, Juli–September 1923.",
+      "width": 539,
+      "height": 805,
+      "kind": "source-image",
+      "caption": "Wassily Kandinsky, postcard no. 3 for the 1923 Bauhaus exhibition. Scan on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Postkarte_Bauhaus_Wassily_Kandinsky_Postkarte_f%C3%BCr_die_Bauhaus-Ausstellung.jpg), public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/41/Postkarte_Bauhaus_Wassily_Kandinsky_Postkarte_f%C3%BCr_die_Bauhaus-Ausstellung.jpg",
+      "saved": "2026-09-25"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Marked public domain on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Postkarte_Bauhaus_Wassily_Kandinsky_Postkarte_f%C3%BCr_die_Bauhaus-Ausstellung.jpg). Kandinsky died in 1944, and the card was published in 1923. The scan is a faithful reproduction of a two-dimensional work."
+  },
+  "identifiers": {
+    "pma": "255859",
+    "moma": "133652",
+    "commons": "File:Postkarte Bauhaus Wassily Kandinsky Postkarte für die Bauhaus-Ausstellung.jpg"
+  }
+}

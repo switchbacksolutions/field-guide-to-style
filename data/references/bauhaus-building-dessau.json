@@ -1,0 +1,66 @@
+{
+  "id": "bauhaus-building-dessau",
+  "title": "Bauhaus building, Dessau",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Walter Gropius’s school building of 1925–26: separate volumes for each function, a glass curtain wall, and the school’s name in vertical sans-serif letters.",
+  "summary": "White and gray volumes, a gridded glass curtain wall, and vertical BAUHAUS lettering. Walter Gropius, Dessau, 1926.",
+  "source": {
+    "url": "https://bauhauskooperation.de/wissen/das-bauhaus/werke/architektur/bauhausgebaeude-dessau",
+    "label": "Bauhaus Kooperation: Bauhausgebäude, Dessau"
+  },
+  "creator": {
+    "name": "Walter Gropius",
+    "url": "https://www.wikidata.org/wiki/Q61071"
+  },
+  "made": "1925–1926 (opened 4 December 1926)",
+  "moods": [
+    "constructive",
+    "rational",
+    "austere"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected two 1990 photographs by Sludge G on Wikimedia Commons ([workshop wing and lettering](https://commons.wikimedia.org/wiki/File:Das_Bauhaus,_Dessau,_DDR_May_1990_(5288787560).jpg), [entrance and bridge](https://commons.wikimedia.org/wiki/File:Das_Staatliche_Bauhaus,_Dessau,_DDR_May_1990_(5288786628).jpg)) and Lucia Moholy’s 1926 view from the northwest on the Bauhaus Kooperation page. None of the images is stored."
+  },
+  "reviewed": "2026-09-25",
+  "added": "2026-09-25",
+  "styles": [
+    {
+      "id": "bauhaus",
+      "note": "The school’s own building: functional volumes, glass, steel, and white render, with Bauhaus lettering as part of the facade.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The building opened on 4 December 1926 with a two-day ceremony. Separate volumes hold the workshops, the technical school, the assembly hall and canteen, and the student studios; a bridge joins the workshop wing and the school. [Bauhaus Kooperation](https://bauhauskooperation.de/wissen/das-bauhaus/werke/architektur/bauhausgebaeude-dessau).",
+    "Bauhaus Kooperation notes the smooth white rendered facade and the materials reinforced concrete and glass. The building burned out in March 1945, has been a protected monument since 1972, and has been part of the UNESCO World Heritage site since 1996. [Bauhaus Kooperation](https://bauhauskooperation.de/wissen/das-bauhaus/werke/architektur/bauhausgebaeude-dessau).",
+    "Commons captions credit the facade lettering to Herbert Bayer. [Commons](https://commons.wikimedia.org/wiki/File:Das_Bauhaus,_Dessau,_DDR_May_1990_(5288787560).jpg)."
+  ],
+  "observed": [
+    "The workshop wing is a three-storey box wrapped in a curtain wall of small, dark-framed glass panes that continues around the corner.",
+    "A white band of render forms the base of the glass wall; a recessed dark plinth sits below it.",
+    "A gray stair tower carries the word “BAUHAUS” in white sans-serif capitals, stacked vertically.",
+    "A two-storey bridge on concrete piers spans an open passage and joins two wings; its windows run in long horizontal bands.",
+    "In Lucia Moholy’s 1926 photograph the volumes are white, the glass is dark, and the building stands in open, unplanted ground.",
+    "Colors are neutral in the 1990 photographs; one yellow triangle appears only as a display behind a window."
+  ],
+  "interpretation": [
+    "The building is Bauhaus architecture as a rubric: plain volumes, visible structure, glass as a surface, and type as part of the building. The palette is neutral, so the primary colors of the style belong to its graphics and interiors more than to its exterior.",
+    "The vertical lettering is an early example of architectural signage that uses the same sans-serif language as the school’s print work."
+  ],
+  "borrow": [
+    "Give each function its own clear volume or panel, and show the joins between them.",
+    "Use a fine, regular grid of thin dark lines over a large area, as in the curtain wall, to add texture without ornament.",
+    "Stack a short word vertically in sans-serif capitals as a sign."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Commons photographs are CC BY-SA 2.0, but the building is by Walter Gropius, who died in 1969, so it is protected in Germany until 2039. German freedom of panorama (§ 59 UrhG) and the United States exclusion of pre-1990 buildings would probably permit exterior photographs; the lead curator can decide whether to upgrade to tier A. Lucia Moholy’s 1926 photograph is © VG Bild-Kunst per Bauhaus Kooperation."
+  },
+  "identifiers": {
+    "wikidata": "Q516770",
+    "commons": "File:Das Bauhaus, Dessau, DDR May 1990 (5288787560).jpg"
+  }
+}
