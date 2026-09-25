@@ -2,7 +2,7 @@
 // browser-automation "evaluate" call, then run: JSON.stringify(await extractTraits()). Metric names match style fingerprints.
 
 globalThis.extractTraits = async function extractTraits({ screens = 4, grid = [32, 20] } = {}) {
-  const VERSION = "3";
+  const VERSION = "4";
   const round = (n, d = 2) => (Number.isFinite(n) ? Math.round(n * 10 ** d) / 10 ** d : null);
   const median = (xs) => {
     const s = xs.filter(Number.isFinite).sort((a, b) => a - b);
@@ -15,12 +15,24 @@ globalThis.extractTraits = async function extractTraits({ screens = 4, grid = [3
     for (const [v, w] of s) if ((acc += w) >= total / 2) return v;
     return null;
   };
+  // Modern sites return oklch(), lab(), or color() from getComputedStyle, so non-rgb values go through a 1x1 canvas.
+  const ctx = Object.assign(document.createElement("canvas"), { width: 1, height: 1 }).getContext("2d", { willReadFrequently: true });
+  const colorCache = new Map();
   const parseColor = (c) => {
-    const m = /rgba?\(([\d.]+)[ ,]+([\d.]+)[ ,]+([\d.]+)(?:[ ,/]+([\d.]+%?))?\)/.exec(c ?? "");
-    if (!m) return null;
-    const a = m[4] === undefined ? 1 : m[4].endsWith("%") ? parseFloat(m[4]) / 100 : parseFloat(m[4]);
-    return { r: +m[1], g: +m[2], b: +m[3], a };
+    if (!c || c === "transparent" || c === "none") return null;
+    const m = /^rgba?\(([\d.]+)[ ,]+([\d.]+)[ ,]+([\d.]+)(?:[ ,/]+([\d.]+%?))?\)$/.exec(c);
+    if (m) return { r: +m[1], g: +m[2], b: +m[3], a: m[4] === undefined ? 1 : m[4].endsWith("%") ? parseFloat(m[4]) / 100 : parseFloat(m[4]) };
+    if (!colorCache.has(c)) {
+      ctx.clearRect(0, 0, 1, 1);
+      ctx.fillStyle = "#000";
+      ctx.fillStyle = c;
+      ctx.fillRect(0, 0, 1, 1);
+      const [r, g, b, a] = ctx.getImageData(0, 0, 1, 1).data;
+      colorCache.set(c, a ? { r, g, b, a: a / 255 } : null);
+    }
+    return colorCache.get(c);
   };
+  const COLOR_FN = /(?:rgba?|hsla?|oklch|oklab|lab|lch|color)\([^()]*\)/g;
   const hex = ({ r, g, b }) => "#" + [r, g, b].map((v) => Math.round(v).toString(16).padStart(2, "0")).join("");
   // Chroma (max minus min channel) instead of HSL saturation, which rates near-white creams as fully saturated.
   const chroma = ({ r, g, b }) => (Math.max(r, g, b) - Math.min(r, g, b)) / 255;
@@ -100,14 +112,16 @@ globalThis.extractTraits = async function extractTraits({ screens = 4, grid = [3
     const blur = /blur\(/.test(cs.backdropFilter ?? "") || /blur\(/.test(cs.webkitBackdropFilter ?? "");
     if (!(hasBg || borderW >= 1 || shadow || gradient || pattern || blur)) continue;
     const radius = Math.min(parseFloat(cs.borderTopLeftRadius) || 0, Math.min(rect.width, rect.height) / 2);
-    const shadowParts = shadow ? shadow.split(/,(?![^(]*\))/).map((s) => s.replace(/rgba?\([^)]*\)/, "").trim().split(/\s+/).map(parseFloat)) : [];
+    const shadowParts = shadow ? shadow.split(/,(?![^(]*\))/).map((s) => s.replace(COLOR_FN, "").trim().split(/\s+/).map(parseFloat)) : [];
     boxes.push({ radius, borderW, shadow: !!shadow, shadowBlur: shadowParts.length ? Math.max(...shadowParts.map((p) => p[2] || 0)) : null, shadowOffset: shadowParts.length ? Math.max(...shadowParts.map((p) => Math.hypot(p[0] || 0, p[1] || 0))) : null, gradient, pattern, blur });
   }
   const share = (pred) => (boxes.length ? boxes.filter(pred).length / boxes.length : 0);
   const shadowed = boxes.filter((b) => b.shadow);
 
   // ---- area sampling for the background palette ----
-  const start = scrollY;
+  // Some sites replace window.scrollTo, so scroll the document element directly.
+  const scroller = document.scrollingElement ?? document.documentElement;
+  const start = scroller.scrollTop;
   const bgHits = [];
   // Browsers paint the body background on the whole canvas when the root element has none.
   const opaque = (c) => (c && c.a > 0.5 ? c : null);
@@ -115,7 +129,7 @@ globalThis.extractTraits = async function extractTraits({ screens = 4, grid = [3
   let imageHits = 0, gradientHits = 0, patternHits = 0, samples = 0;
   const maxScroll = Math.min(document.documentElement.scrollHeight - innerHeight, innerHeight * (screens - 1));
   for (let y = 0; y <= Math.max(0, maxScroll); y += innerHeight) {
-    scrollTo(0, y);
+    scroller.scrollTop = y;
     // setTimeout, not requestAnimationFrame: animation frames do not run in background tabs.
     await new Promise((r) => setTimeout(r, 60));
     for (let i = 0; i < grid[0]; i++) for (let j = 0; j < grid[1]; j++) {
@@ -131,7 +145,7 @@ globalThis.extractTraits = async function extractTraits({ screens = 4, grid = [3
         else if (/gradient\(/.test(cs.backgroundImage)) {
           sawGradient = true;
           // A smooth gradient contributes its opaque stop colors in equal parts.
-          const stops = [...cs.backgroundImage.matchAll(/rgba?\([^)]*\)/g)].map((m) => parseColor(m[0])).filter((c) => c && c.a > 0.5);
+          const stops = [...cs.backgroundImage.matchAll(COLOR_FN)].map((m) => parseColor(m[0])).filter((c) => c && c.a > 0.5);
           if (stops.length) { color = stops.map((c) => ({ ...c, w: 1 / stops.length })); break; }
         }
         const c = parseColor(cs.backgroundColor);
@@ -144,7 +158,7 @@ globalThis.extractTraits = async function extractTraits({ screens = 4, grid = [3
       else bgHits.push(...[color ?? canvas].flat());
     }
   }
-  scrollTo(0, start);
+  scroller.scrollTop = start;
   for (const c of bgHits) addColor(c, (c.w ?? 1) / (samples || 1));
   // elementFromPoint cannot see ::before and ::after, which often carry shapes, so add their filled area directly.
   const sampledArea = innerWidth * innerHeight * (Math.floor(Math.max(0, maxScroll) / innerHeight) + 1);
