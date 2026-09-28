@@ -194,6 +194,10 @@
       "Book, record, and magazine covers",
       "Travel and hospitality",
       "Children’s books and education"
+    ],
+    "avoid": [
+      "Enterprise dashboards and developer tools. Cut-paper shapes and playful type read as decoration.",
+      "Brands that must look futuristic."
     ]
   },
   "fingerprint": [

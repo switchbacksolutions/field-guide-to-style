@@ -129,6 +129,10 @@
       "Architecture and furniture studios",
       "Education",
       "Event posters"
+    ],
+    "avoid": [
+      "Dense data apps and long reading. Primary blocks and bars compete with the content.",
+      "Wellness, healthcare, and luxury brands that must feel calm."
     ]
   },
   "fingerprint": [

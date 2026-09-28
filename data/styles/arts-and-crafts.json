@@ -200,6 +200,10 @@
       "Craft studios and makers’ markets",
       "Historic houses and museums",
       "Textile, wallpaper, and interior brands"
+    ],
+    "avoid": [
+      "Technology products and dashboards. Dense repeats and old-style type read as historical.",
+      "Small screens. Double frames and patterns crowd a phone layout."
     ]
   },
   "fingerprint": [

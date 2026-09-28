@@ -192,6 +192,11 @@
       "Fintech and crypto landing pages",
       "Music and media players",
       "Product launch pages"
+    ],
+    "avoid": [
+      "Text-heavy interfaces and products where accessibility is critical. Text on translucent panels often fails contrast checks.",
+      "Low-power devices. Backdrop blur is expensive to render.",
+      "Dense data tables."
     ]
   },
   "fingerprint": [

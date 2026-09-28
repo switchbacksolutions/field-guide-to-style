@@ -1,6 +1,7 @@
 [
   "api/catalogue.json",
   "api/manifest.json",
+  "api/select.json",
   "api/styles/art-deco.json",
   "api/styles/art-nouveau.json",
   "api/styles/arts-and-crafts.json",

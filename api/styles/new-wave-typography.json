@@ -177,6 +177,10 @@
       "Music and club promotion",
       "Magazine and journal covers",
       "Exhibition identities"
+    ],
+    "avoid": [
+      "Forms, dashboards, and tools that need fast, predictable reading. Tilted and unevenly spaced type slows it.",
+      "Conservative corporate brands."
     ]
   },
   "fingerprint": [

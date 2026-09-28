@@ -199,6 +199,10 @@
       "Event and festival pages",
       "Comic, games, and entertainment brands",
       "Editorial features"
+    ],
+    "avoid": [
+      "Luxury brands and products where trust comes first. The style is brash and ironic.",
+      "Long reading. Dots and heavy outlines behind text reduce legibility."
     ]
   },
   "fingerprint": [

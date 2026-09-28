@@ -194,6 +194,11 @@
       "Calculators, timers, and small utilities",
       "Dashboards with few controls",
       "Concept shots and portfolio pieces"
+    ],
+    "avoid": [
+      "Products where accessibility is critical. Low-contrast controls often fail WCAG contrast and hide their state.",
+      "Forms and apps with many controls. Buttons, inputs, and cards look alike.",
+      "Interfaces with many colors or photographs. The style needs one pale surface."
     ]
   },
   "fingerprint": [

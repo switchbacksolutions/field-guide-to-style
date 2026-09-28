@@ -189,6 +189,10 @@
       "Jewellery, silver, and fashion",
       "Cafés, patisseries, and concert halls",
       "Book design and literary magazines"
+    ],
+    "avoid": [
+      "Loud, youth, or mass-market brands. The style is quiet and refined.",
+      "Dense data apps. Checkerboard ornament competes with tables and grids."
     ]
   },
   "fingerprint": [

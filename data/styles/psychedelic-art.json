@@ -183,6 +183,11 @@
       "Event and nightlife pages",
       "Brewery, cannabis, and lifestyle packaging",
       "Retro-themed campaigns"
+    ],
+    "avoid": [
+      "Body text, forms, and navigation that people must read quickly. Vibrating colors and swollen lettering hurt legibility.",
+      "Products where accessibility is critical. Vibrating complementary colors can fail contrast checks and strain the eyes.",
+      "Corporate, finance, and healthcare brands."
     ]
   },
   "fingerprint": [

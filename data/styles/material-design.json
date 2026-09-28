@@ -202,6 +202,11 @@
       "Productivity and email clients",
       "Settings and forms",
       "Component libraries"
+    ],
+    "avoid": [
+      "Brands that need a distinct identity. The default style reads as Google or Android.",
+      "Native iOS apps. People there expect Apple's platform conventions.",
+      "Luxury, editorial, and cultural brands."
     ]
   },
   "fingerprint": [

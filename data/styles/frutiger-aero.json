@@ -137,6 +137,10 @@
       "Music players",
       "Eco and wellness brands",
       "Nostalgic campaigns"
+    ],
+    "avoid": [
+      "Enterprise and security tools. Gloss and sky imagery read as consumer software from 2007.",
+      "Minimal or luxury brands."
     ]
   },
   "fingerprint": [

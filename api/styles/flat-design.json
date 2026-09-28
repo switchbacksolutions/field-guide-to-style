@@ -203,6 +203,10 @@
       "Product and marketing sites",
       "Operating-system shells",
       "Infographics"
+    ],
+    "avoid": [
+      "Luxury or ornate brands.",
+      "Interfaces where people must see what they can click. Flat controls can hide their affordance."
     ]
   },
   "fingerprint": [

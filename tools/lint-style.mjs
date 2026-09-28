@@ -7,17 +7,9 @@
 import { existsSync, readdirSync, readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
+import { checkFingerprint as check } from "./lib/fingerprint.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
-const check = (style, measurement) => {
-  const read = (path) => path.split(".").reduce((node, key) => (node == null ? undefined : node[key]), measurement);
-  return (style.fingerprint ?? []).map(({ metric, min, max, note }) => {
-    const value = read(metric);
-    const status = typeof value !== "number" ? "not measured" : (min !== undefined && value < min) || (max !== undefined && value > max) ? "fail" : "pass";
-    return { metric, value: value ?? null, min: min ?? null, max: max ?? null, status, note };
-  });
-};
-
 if (process.argv.includes("--table")) {
   const styles = readdirSync(join(ROOT, "data/styles")).map((f) => JSON.parse(readFileSync(join(ROOT, "data/styles", f), "utf8"))).sort((a, b) => a.order - b.order);
   const measured = styles.filter((s) => existsSync(join(ROOT, "data/measurements", `${s.id}.json`)));

@@ -194,6 +194,11 @@
       "Record sleeves and music sites",
       "Event and festival identities",
       "Editorial covers"
+    ],
+    "avoid": [
+      "Long reading and text-heavy interfaces. The patterns seem to move and strain the eyes.",
+      "Readers with vestibular or photosensitive conditions. Keep high-contrast stripes out of scrolling backgrounds and motion.",
+      "Dense data apps."
     ]
   },
   "fingerprint": [

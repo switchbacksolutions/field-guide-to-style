@@ -131,6 +131,10 @@
       "Youth brands",
       "Galleries",
       "Playful product launches"
+    ],
+    "avoid": [
+      "Finance, healthcare, legal, and other products where trust comes first. The clash reads as unserious.",
+      "Dense data interfaces. Patterns compete with the content."
     ]
   },
   "fingerprint": [

@@ -115,6 +115,10 @@
       "Startups",
       "Portfolios",
       "Developer products"
+    ],
+    "avoid": [
+      "Luxury, healthcare, and conservative finance brands. The style is loud and informal.",
+      "Dense dashboards. Outlines and shadows on every cell add noise."
     ]
   },
   "fingerprint": [

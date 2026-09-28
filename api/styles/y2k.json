@@ -191,6 +191,10 @@
       "Fashion and beauty",
       "Games",
       "Nostalgic campaigns"
+    ],
+    "avoid": [
+      "Enterprise and B2B software.",
+      "Text-heavy products. Chrome and candy-colored fills compete with the content."
     ]
   },
   "fingerprint": [

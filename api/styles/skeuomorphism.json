@@ -170,6 +170,10 @@
       "Audio and music software",
       "Games and hobby tools",
       "Nostalgic interfaces"
+    ],
+    "avoid": [
+      "Products that must look current. The style reads as software from about 2010.",
+      "Large, content-dense apps. Textures add weight and noise."
     ]
   },
   "fingerprint": [

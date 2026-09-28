@@ -134,6 +134,10 @@
       "Editorial sites",
       "Documentation",
       "Wayfinding"
+    ],
+    "avoid": [
+      "Brands that sell luxury, romance, or nostalgia. The style holds emotion back.",
+      "Playful youth brands."
     ]
   },
   "fingerprint": [

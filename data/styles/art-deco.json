@@ -173,6 +173,10 @@
       "Theatres and cinemas",
       "Jewelry, fashion, and perfume",
       "Event invitations and galas"
+    ],
+    "avoid": [
+      "Everyday productivity apps and dashboards. Ornament and spaced capitals slow scanning.",
+      "Casual, low-price, or children's products. The style signals luxury."
     ]
   },
   "fingerprint": [

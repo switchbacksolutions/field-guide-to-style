@@ -4,6 +4,11 @@
 
 Use it like this: choose a style from the list, read its JSON record for rules and tokens, then copy its implementation files. Rules under `rules.dont` are as important as the tokens.
 
+## Choose a style
+
+- [Selection index](api/select.json): moods, good and poor fits, status, and fingerprint evidence for every style in one file.
+- [style-select skill](skills/style-select/SKILL.md): a procedure that turns a project's mood into a chosen style, then applies and checks it.
+
 ## Styles
 
 - [Minimalist Machine](api/styles/minimalist-machine.json): Visible structure. Precise type. Interfaces that feel like instruments. Tokens: implementations/minimalist-machine/tokens.css

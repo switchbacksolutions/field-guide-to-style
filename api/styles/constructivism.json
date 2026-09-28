@@ -180,6 +180,10 @@
       "Campaign and activist sites",
       "Theatre and film",
       "Exhibitions about the avant-garde"
+    ],
+    "avoid": [
+      "Calm or caring services such as healthcare and wellness. The style is urgent.",
+      "Brands that must avoid political associations. Red-and-black propaganda references carry them."
     ]
   },
   "fingerprint": [

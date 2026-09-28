@@ -23,7 +23,8 @@
   "rules": {
     "do": ["[An instruction for an agent.]"],
     "dont": ["Do not [common mistake]."],
-    "uses": ["[Product type]"]
+    "uses": ["[Product type]"],
+    "avoid": ["[Product type or context that suits the style badly. Why.]"]
   },
   "fingerprint": [{ "metric": "surface.radius.median", "max": 4, "note": "[Why this range.]" }]
 }

@@ -34,7 +34,7 @@ Read first: `AGENTS.md`, `data/schema/style.schema.json`, `templates/style.json`
 3. `identifiers` and `attestation`: only IDs and URLs that you opened. Add the check date to each attestation.
 4. `lineage`: each link needs a `note` with the evidence. Use `style` for catalogue styles, and `label` plus `wikidata` for others.
 5. `rubric`: diagnostic traits, counter traits, and `confusions` for every close style. Write traits that a person can see in one image.
-6. `rules`: `do` and `dont` for an agent that implements the style. Write each `dont` as "Do not …".
+6. `rules`: `do` and `dont` for an agent that implements the style. Write each `dont` as "Do not …". Fill `uses` with products that suit the style, and `avoid` with products that suit it badly, each with the reason. The `style-select` skill reads `moods`, `uses`, and `avoid` to choose a style.
 7. Choose the fingerprint markers before you design. Run `node tools/lint-style.mjs --table`, which shows every fingerprint metric for every existing specimen. Pick 2 or 3 positive markers (something present) that no other specimen has, and design the specimen to show them.
    - `color.patternShare` sees tiled backgrounds on elements, not on `::before` or `::after`. Put a pattern on a real element.
    - Colors with chroma below 0.3 do not count as hues.

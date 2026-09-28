@@ -98,7 +98,8 @@
       "properties": {
         "do": { "type": "array", "items": { "type": "string" } },
         "dont": { "type": "array", "items": { "type": "string" } },
-        "uses": { "type": "array", "items": { "type": "string" }, "description": "Product types that suit the style." }
+        "uses": { "type": "array", "items": { "type": "string" }, "description": "Product types that suit the style." },
+        "avoid": { "type": "array", "items": { "type": "string" }, "description": "Product types and contexts that suit the style badly. Say why." }
       }
     },
     "fingerprint": {

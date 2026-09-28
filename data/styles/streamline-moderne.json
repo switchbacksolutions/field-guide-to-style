@@ -182,6 +182,10 @@
       "Diners, cafes, and ice cream parlors",
       "Radio, audio, and appliance products",
       "Cinemas and events with a 1930s theme"
+    ],
+    "avoid": [
+      "Products that must look contemporary. The style is retro 1930s.",
+      "Dense dashboards. Rounded bands and speed lines use a lot of space."
     ]
   },
   "fingerprint": [

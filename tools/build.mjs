@@ -7,6 +7,7 @@ import { fileURLToPath } from "node:url";
 import { validate } from "./lib/validate.mjs";
 import { escape, inline, plain } from "./lib/markup.mjs";
 import { tokenOutputs } from "./lib/tokens.mjs";
+import { checkFingerprint } from "./lib/fingerprint.mjs";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const CHECK = process.argv.includes("--check");
@@ -297,7 +298,7 @@ ${members
 
   sections.push(`<div class="columns related">
       <section><h2>Ideas to carry forward</h2>${list(style.rules.do, (t) => inline(t, r))}</section>
-      <section><h2>Keep the function</h2>${list(style.rules.dont, (t) => inline(t, r))}${style.rules.uses?.length ? `<p>Useful directions: ${style.rules.uses.map((u) => escape(u.toLowerCase())).join(", ")}.</p>` : ""}</section>
+      <section><h2>Keep the function</h2>${list(style.rules.dont, (t) => inline(t, r))}${style.rules.uses?.length ? `<p>Useful directions: ${style.rules.uses.map((u) => escape(u.toLowerCase())).join(", ")}.</p>` : ""}${style.rules.avoid?.length ? `<p>Poor fits:</p>${list(style.rules.avoid, (t) => inline(t, r))}` : ""}</section>
     </div>`);
 
   if (impl || style.fingerprint?.length) {
@@ -477,12 +478,48 @@ function machineOutputs() {
   emit("api/catalogue.json", JSON.stringify({ title: site.title, styles: styles.map((s) => ({ id: s.id, title: s.title, summary: plain(s.summary), moods: s.moods, status: s.status, api: `api/styles/${s.id}.json`, implementation: implementationFiles(s.id) })), references: references.map((r) => ({ ...r, page: `references/${r.id}.html` })) }, null, 2));
   for (const style of styles) emit(`api/styles/${style.id}.json`, JSON.stringify(styleRecord(style), null, 2));
 
+  const url = (path) => `${site.url}/${path}`;
+  emit("api/select.json", JSON.stringify({
+    title: site.title,
+    description: "A compact index for choosing a style from a project's mood and product type. Paths in a style record are relative to the site URL.",
+    site: site.url,
+    guide: url("skills/style-select/SKILL.md"),
+    styles: styles.map((s) => {
+      // Only website captures measure the same way as a finished project, so they are the evidence that a fingerprint works.
+      const captures = refsForStyle(s).map(({ ref }) => measurements.get(ref.id)).filter((m) => m?.tool === "tools/extract-traits.js");
+      const impl = implementationFiles(s.id);
+      return {
+        id: s.id,
+        title: s.title,
+        page: url(`${s.id}.html`),
+        record: url(`api/styles/${s.id}.json`),
+        status: s.status,
+        summary: plain(s.summary),
+        moods: s.moods,
+        uses: s.rules.uses ?? [],
+        avoid: s.rules.avoid ?? [],
+        era: s.era ? { from: s.era.from ?? null, to: s.era.to ?? null } : null,
+        tokens: Boolean(impl),
+        fingerprint: {
+          metrics: s.fingerprint?.length ?? 0,
+          websiteCaptures: captures.length,
+          capturesPassing: captures.filter((m) => checkFingerprint(s, m).every((r) => r.status !== "fail")).length
+        }
+      };
+    })
+  }, null, 2));
+
   const lines = [
     `# ${site.title}`,
     "",
     `> ${site.description} Each style has a definition, lineage, a classification rubric, rules for implementation, and, when available, design tokens and framework files.`,
     "",
     "Use it like this: choose a style from the list, read its JSON record for rules and tokens, then copy its implementation files. Rules under `rules.dont` are as important as the tokens.",
+    "",
+    "## Choose a style",
+    "",
+    `- [Selection index](api/select.json): moods, good and poor fits, status, and fingerprint evidence for every style in one file.`,
+    `- [style-select skill](skills/style-select/SKILL.md): a procedure that turns a project's mood into a chosen style, then applies and checks it.`,
     "",
     "## Styles",
     "",

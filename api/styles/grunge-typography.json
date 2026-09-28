@@ -190,6 +190,11 @@
       "Skate, surf, and streetwear brands",
       "Film titles and horror or thriller promotion",
       "Zines and alternative culture publications"
+    ],
+    "avoid": [
+      "Forms, checkout flows, and navigation. Distressed type reduces legibility.",
+      "Finance, healthcare, government, and other products where trust comes first.",
+      "Children's products."
     ]
   },
   "fingerprint": [

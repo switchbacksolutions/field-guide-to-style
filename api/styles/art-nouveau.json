@@ -182,6 +182,10 @@
       "Perfume, tea, and cosmetics",
       "Theatre, opera, and museum programmes",
       "Book covers and editorial features"
+    ],
+    "avoid": [
+      "Dashboards, developer tools, and data-dense apps. Ornament and decorative lettering slow reading.",
+      "Technology brands that must look current."
     ]
   },
   "fingerprint": [

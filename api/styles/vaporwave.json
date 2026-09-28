@@ -190,6 +190,10 @@
       "Retro games and game jams",
       "Streetwear",
       "Nostalgic campaigns"
+    ],
+    "avoid": [
+      "Finance, health, government, and other products where trust comes first. The style is ironic.",
+      "Long body text. Pastel gradients and fullwidth type reduce legibility."
     ]
   },
   "fingerprint": [

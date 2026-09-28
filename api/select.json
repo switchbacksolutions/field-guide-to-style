@@ -1,0 +1,963 @@
+{
+  "title": "A Field Guide to Style",
+  "description": "A compact index for choosing a style from a project's mood and product type. Paths in a style record are relative to the site URL.",
+  "site": "https://field-guide-to-style.alec-5fe.workers.dev",
+  "guide": "https://field-guide-to-style.alec-5fe.workers.dev/skills/style-select/SKILL.md",
+  "styles": [
+    {
+      "id": "minimalist-machine",
+      "title": "Minimalist Machine",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/minimalist-machine.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/minimalist-machine.json",
+      "status": "seed",
+      "summary": "Visible structure. Precise type. Interfaces that feel like instruments.",
+      "moods": [
+        "precise",
+        "utilitarian",
+        "quiet",
+        "technical"
+      ],
+      "uses": [
+        "Research indexes",
+        "Creative tools",
+        "Technical portfolios",
+        "Interfaces for inspecting systems"
+      ],
+      "avoid": [
+        "Consumer brands that must feel warm or fun. The style reads as cold and technical.",
+        "Children's products and playful launches."
+      ],
+      "era": null,
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "international-typographic-style",
+      "title": "International Typographic Style",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/international-typographic-style.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/international-typographic-style.json",
+      "status": "pilot",
+      "summary": "Grids, sans-serif type, and objective images. Order as the message.",
+      "moods": [
+        "objective",
+        "rational",
+        "clear",
+        "restrained"
+      ],
+      "uses": [
+        "Cultural institutions",
+        "Event programmes",
+        "Editorial sites",
+        "Documentation",
+        "Wayfinding"
+      ],
+      "avoid": [
+        "Brands that sell luxury, romance, or nostalgia. The style holds emotion back.",
+        "Playful youth brands."
+      ],
+      "era": {
+        "from": 1950,
+        "to": 1975
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 8,
+        "websiteCaptures": 6,
+        "capturesPassing": 3
+      }
+    },
+    {
+      "id": "bauhaus",
+      "title": "Bauhaus",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/bauhaus.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/bauhaus.json",
+      "status": "pilot",
+      "summary": "Primary colors, basic shapes, and bold bars. Form follows the workshop.",
+      "moods": [
+        "constructive",
+        "bold",
+        "geometric",
+        "experimental"
+      ],
+      "uses": [
+        "Exhibitions",
+        "Architecture and furniture studios",
+        "Education",
+        "Event posters"
+      ],
+      "avoid": [
+        "Dense data apps and long reading. Primary blocks and bars compete with the content.",
+        "Wellness, healthcare, and luxury brands that must feel calm."
+      ],
+      "era": {
+        "from": 1919,
+        "to": 1933
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 8,
+        "websiteCaptures": 1,
+        "capturesPassing": 1
+      }
+    },
+    {
+      "id": "memphis",
+      "title": "Memphis",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/memphis.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/memphis.json",
+      "status": "pilot",
+      "summary": "Clashing color, laminate patterns, and toy-like geometry. Postmodern play.",
+      "moods": [
+        "playful",
+        "loud",
+        "irreverent",
+        "postmodern"
+      ],
+      "uses": [
+        "Festivals",
+        "Youth brands",
+        "Galleries",
+        "Playful product launches"
+      ],
+      "avoid": [
+        "Finance, healthcare, legal, and other products where trust comes first. The clash reads as unserious.",
+        "Dense data interfaces. Patterns compete with the content."
+      ],
+      "era": {
+        "from": 1980,
+        "to": 1987
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 1,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "frutiger-aero",
+      "title": "Frutiger Aero",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/frutiger-aero.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/frutiger-aero.json",
+      "status": "pilot",
+      "summary": "Glass, water, sky, and gloss. Optimistic technology from the mid-2000s.",
+      "moods": [
+        "optimistic",
+        "fresh",
+        "glossy",
+        "eco-technological"
+      ],
+      "uses": [
+        "Consumer software",
+        "Music players",
+        "Eco and wellness brands",
+        "Nostalgic campaigns"
+      ],
+      "avoid": [
+        "Enterprise and security tools. Gloss and sky imagery read as consumer software from 2007.",
+        "Minimal or luxury brands."
+      ],
+      "era": {
+        "from": 2004,
+        "to": 2013
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 4,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "neo-brutalism",
+      "title": "Neo-brutalism",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/neo-brutalism.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/neo-brutalism.json",
+      "status": "pilot",
+      "summary": "Thick outlines, hard shadows, and loud flat color. Interfaces that look built.",
+      "moods": [
+        "direct",
+        "loud",
+        "playful",
+        "raw"
+      ],
+      "uses": [
+        "Creator tools",
+        "Startups",
+        "Portfolios",
+        "Developer products"
+      ],
+      "avoid": [
+        "Luxury, healthcare, and conservative finance brands. The style is loud and informal.",
+        "Dense dashboards. Outlines and shadows on every cell add noise."
+      ],
+      "era": {
+        "from": 2021,
+        "to": null
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 10,
+        "capturesPassing": 5
+      }
+    },
+    {
+      "id": "art-deco",
+      "title": "Art Deco",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/art-deco.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/art-deco.json",
+      "status": "draft",
+      "summary": "Stepped forms, sunbursts, and spaced capitals in metal on dark lacquer. Modern luxury from the 1920s.",
+      "moods": [
+        "glamorous",
+        "luxurious",
+        "geometric",
+        "formal",
+        "optimistic"
+      ],
+      "uses": [
+        "Hotels, bars, and restaurants",
+        "Theatres and cinemas",
+        "Jewelry, fashion, and perfume",
+        "Event invitations and galas"
+      ],
+      "avoid": [
+        "Everyday productivity apps and dashboards. Ornament and spaced capitals slow scanning.",
+        "Casual, low-price, or children's products. The style signals luxury."
+      ],
+      "era": {
+        "from": 1910,
+        "to": 1939
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "art-nouveau",
+      "title": "Art Nouveau",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/art-nouveau.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/art-nouveau.json",
+      "status": "draft",
+      "summary": "Whiplash curves, lilies, and peacock eyes in moss, ochre, and rose on parchment. The new art of the 1890s.",
+      "moods": [
+        "organic",
+        "sensuous",
+        "flowing",
+        "ornate",
+        "romantic"
+      ],
+      "uses": [
+        "Botanical, florist, and garden brands",
+        "Perfume, tea, and cosmetics",
+        "Theatre, opera, and museum programmes",
+        "Book covers and editorial features"
+      ],
+      "avoid": [
+        "Dashboards, developer tools, and data-dense apps. Ornament and decorative lettering slow reading.",
+        "Technology brands that must look current."
+      ],
+      "era": {
+        "from": 1890,
+        "to": 1914
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 5,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "constructivism",
+      "title": "Constructivism",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/constructivism.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/constructivism.json",
+      "status": "draft",
+      "summary": "Red and black, heavy capitals, and diagonal bars. The poster as a tool of agitation.",
+      "moods": [
+        "agitational",
+        "dynamic",
+        "urgent",
+        "industrial",
+        "bold"
+      ],
+      "uses": [
+        "Event and festival posters",
+        "Editorial and magazine covers",
+        "Campaign and activist sites",
+        "Theatre and film",
+        "Exhibitions about the avant-garde"
+      ],
+      "avoid": [
+        "Calm or caring services such as healthcare and wellness. The style is urgent.",
+        "Brands that must avoid political associations. Red-and-black propaganda references carry them."
+      ],
+      "era": {
+        "from": 1919,
+        "to": 1934
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 3,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "de-stijl",
+      "title": "De Stijl",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/de-stijl.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/de-stijl.json",
+      "status": "draft",
+      "summary": "Black lines, white planes, and blocks of red, yellow, and blue. Only horizontals and verticals.",
+      "moods": [
+        "orthogonal",
+        "balanced",
+        "austere",
+        "pure"
+      ],
+      "uses": [
+        "Museums and exhibitions",
+        "Architecture and furniture studios",
+        "Design education",
+        "Posters and event sites"
+      ],
+      "avoid": [
+        "Content-heavy sites and apps. The grid of colored planes leaves little room for text.",
+        "Warm, organic, or caring brands."
+      ],
+      "era": {
+        "from": 1917,
+        "to": 1931
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 5,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "mid-century-modern",
+      "title": "Mid-century modern",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/mid-century-modern.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/mid-century-modern.json",
+      "status": "draft",
+      "summary": "Warm flat color, cut-paper shapes, and playful type. Post-war modernism with a sense of humor.",
+      "moods": [
+        "optimistic",
+        "warm",
+        "playful",
+        "crafted",
+        "modern"
+      ],
+      "uses": [
+        "Furniture and interior brands",
+        "Cultural festivals and exhibitions",
+        "Book, record, and magazine covers",
+        "Travel and hospitality",
+        "Children’s books and education"
+      ],
+      "avoid": [
+        "Enterprise dashboards and developer tools. Cut-paper shapes and playful type read as decoration.",
+        "Brands that must look futuristic."
+      ],
+      "era": {
+        "from": 1945,
+        "to": 1969
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 5,
+        "capturesPassing": 3
+      }
+    },
+    {
+      "id": "psychedelic-art",
+      "title": "Psychedelic art",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/psychedelic-art.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/psychedelic-art.json",
+      "status": "draft",
+      "summary": "Vibrating complementary colors, swollen hand lettering, and every inch filled. The 1960s rock poster.",
+      "moods": [
+        "hallucinatory",
+        "saturated",
+        "dense",
+        "fluid",
+        "countercultural"
+      ],
+      "uses": [
+        "Concert and festival posters",
+        "Album and music-label sites",
+        "Event and nightlife pages",
+        "Brewery, cannabis, and lifestyle packaging",
+        "Retro-themed campaigns"
+      ],
+      "avoid": [
+        "Body text, forms, and navigation that people must read quickly. Vibrating colors and swollen lettering hurt legibility.",
+        "Products where accessibility is critical. Vibrating complementary colors can fail contrast checks and strain the eyes.",
+        "Corporate, finance, and healthcare brands."
+      ],
+      "era": {
+        "from": 1965,
+        "to": 1972
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 4,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "skeuomorphism",
+      "title": "Skeuomorphism",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/skeuomorphism.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/skeuomorphism.json",
+      "status": "draft",
+      "summary": "Leather, linen, wood, and paper on screen. Interfaces that imitate the objects they replace.",
+      "moods": [
+        "tactile",
+        "familiar",
+        "crafted",
+        "warm",
+        "ornate"
+      ],
+      "uses": [
+        "Note, calendar, and reading apps",
+        "Audio and music software",
+        "Games and hobby tools",
+        "Nostalgic interfaces"
+      ],
+      "avoid": [
+        "Products that must look current. The style reads as software from about 2010.",
+        "Large, content-dense apps. Textures add weight and noise."
+      ],
+      "era": {
+        "from": 2007,
+        "to": 2013
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 6,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "flat-design",
+      "title": "Flat design",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/flat-design.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/flat-design.json",
+      "status": "draft",
+      "summary": "Solid color fields, plain sans-serif type, and no depth. Interfaces that stop imitating objects.",
+      "moods": [
+        "clean",
+        "bright",
+        "direct",
+        "digital"
+      ],
+      "uses": [
+        "Mobile apps",
+        "Dashboards",
+        "Product and marketing sites",
+        "Operating-system shells",
+        "Infographics"
+      ],
+      "avoid": [
+        "Luxury or ornate brands.",
+        "Interfaces where people must see what they can click. Flat controls can hide their affordance."
+      ],
+      "era": {
+        "from": 2010,
+        "to": 2016
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 8,
+        "websiteCaptures": 9,
+        "capturesPassing": 3
+      }
+    },
+    {
+      "id": "glassmorphism",
+      "title": "Glassmorphism",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/glassmorphism.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/glassmorphism.json",
+      "status": "draft",
+      "summary": "Frosted, translucent panels that float over vivid color. Interface glass of the 2020s.",
+      "moods": [
+        "airy",
+        "layered",
+        "luminous",
+        "premium",
+        "calm"
+      ],
+      "uses": [
+        "Operating system and app interfaces",
+        "Dashboards and widgets",
+        "Fintech and crypto landing pages",
+        "Music and media players",
+        "Product launch pages"
+      ],
+      "avoid": [
+        "Text-heavy interfaces and products where accessibility is critical. Text on translucent panels often fails contrast checks.",
+        "Low-power devices. Backdrop blur is expensive to render.",
+        "Dense data tables."
+      ],
+      "era": {
+        "from": 2020,
+        "to": null
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 3,
+        "capturesPassing": 1
+      }
+    },
+    {
+      "id": "vaporwave",
+      "title": "Vaporwave",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/vaporwave.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/vaporwave.json",
+      "status": "draft",
+      "summary": "Pastel sunsets, old-OS windows, marble busts, and fullwidth type. 1990s consumer tech remembered with irony.",
+      "moods": [
+        "nostalgic",
+        "ironic",
+        "dreamlike",
+        "melancholic",
+        "kitsch"
+      ],
+      "uses": [
+        "Music releases and labels",
+        "Club nights and festivals",
+        "Retro games and game jams",
+        "Streetwear",
+        "Nostalgic campaigns"
+      ],
+      "avoid": [
+        "Finance, health, government, and other products where trust comes first. The style is ironic.",
+        "Long body text. Pastel gradients and fullwidth type reduce legibility."
+      ],
+      "era": {
+        "from": 2011,
+        "to": 2019
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 5,
+        "websiteCaptures": 6,
+        "capturesPassing": 2
+      }
+    },
+    {
+      "id": "y2k",
+      "title": "Y2K aesthetic",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/y2k.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/y2k.json",
+      "status": "draft",
+      "summary": "Chrome, candy-colored plastic, and blobs. The future as it looked around the year 2000.",
+      "moods": [
+        "techno-optimistic",
+        "shiny",
+        "playful",
+        "futuristic"
+      ],
+      "uses": [
+        "Music and club events",
+        "Consumer technology launches",
+        "Fashion and beauty",
+        "Games",
+        "Nostalgic campaigns"
+      ],
+      "avoid": [
+        "Enterprise and B2B software.",
+        "Text-heavy products. Chrome and candy-colored fills compete with the content."
+      ],
+      "era": {
+        "from": 1997,
+        "to": 2004
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 5,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "arts-and-crafts",
+      "title": "Arts and Crafts",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/arts-and-crafts.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/arts-and-crafts.json",
+      "status": "draft",
+      "summary": "Flat, dense repeats of leaves and flowers, double-ruled frames, and red-and-black old-style type on linen. Handwork against the machine.",
+      "moods": [
+        "handmade",
+        "earnest",
+        "medieval",
+        "dense",
+        "rustic"
+      ],
+      "uses": [
+        "Publishers, bookshops, and letterpress studios",
+        "Craft studios and makers’ markets",
+        "Historic houses and museums",
+        "Textile, wallpaper, and interior brands"
+      ],
+      "avoid": [
+        "Technology products and dashboards. Dense repeats and old-style type read as historical.",
+        "Small screens. Double frames and patterns crowd a phone layout."
+      ],
+      "era": {
+        "from": 1880,
+        "to": 1920
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 6,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "vienna-secession",
+      "title": "Vienna Secession",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/vienna-secession.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/vienna-secession.json",
+      "status": "draft",
+      "summary": "Squares, checkerboards, and a little gold on white paper. The geometric Viennese branch of the new art, 1897 to about 1915.",
+      "moods": [
+        "geometric",
+        "austere",
+        "elegant",
+        "precise",
+        "refined"
+      ],
+      "uses": [
+        "Galleries, museums, and exhibition programmes",
+        "Architecture and interior studios",
+        "Jewellery, silver, and fashion",
+        "Cafés, patisseries, and concert halls",
+        "Book design and literary magazines"
+      ],
+      "avoid": [
+        "Loud, youth, or mass-market brands. The style is quiet and refined.",
+        "Dense data apps. Checkerboard ornament competes with tables and grids."
+      ],
+      "era": {
+        "from": 1897,
+        "to": 1915
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 8,
+        "websiteCaptures": 2,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "streamline-moderne",
+      "title": "Streamline Moderne",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/streamline-moderne.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/streamline-moderne.json",
+      "status": "draft",
+      "summary": "Rounded ends, portholes, and horizontal speed lines in cream, chrome, and navy. The streamlined look of 1930s trains, liners, and diners.",
+      "moods": [
+        "streamlined",
+        "optimistic",
+        "sleek",
+        "nautical",
+        "machine-age"
+      ],
+      "uses": [
+        "Travel, rail, and cruise brands",
+        "Diners, cafes, and ice cream parlors",
+        "Radio, audio, and appliance products",
+        "Cinemas and events with a 1930s theme"
+      ],
+      "avoid": [
+        "Products that must look contemporary. The style is retro 1930s.",
+        "Dense dashboards. Rounded bands and speed lines use a lot of space."
+      ],
+      "era": {
+        "from": 1930,
+        "to": 1945
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 1,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "pop-art",
+      "title": "Pop art",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/pop-art.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/pop-art.json",
+      "status": "draft",
+      "summary": "Ben-Day dots, heavy black outlines, and flat process primaries. The comic panel blown up to poster size.",
+      "moods": [
+        "loud",
+        "brash",
+        "ironic",
+        "commercial",
+        "graphic"
+      ],
+      "uses": [
+        "Food and drink packaging",
+        "Retail campaigns",
+        "Event and festival pages",
+        "Comic, games, and entertainment brands",
+        "Editorial features"
+      ],
+      "avoid": [
+        "Luxury brands and products where trust comes first. The style is brash and ironic.",
+        "Long reading. Dots and heavy outlines behind text reduce legibility."
+      ],
+      "era": {
+        "from": 1956,
+        "to": 1970
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 3,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "op-art",
+      "title": "Op art",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/op-art.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/op-art.json",
+      "status": "draft",
+      "summary": "Black and white stripes, checks, and rings so tight that the surface seems to move. The 1960s optical look.",
+      "moods": [
+        "vibrating",
+        "high-contrast",
+        "precise",
+        "disorienting",
+        "mod"
+      ],
+      "uses": [
+        "Fashion and textile brands",
+        "Exhibitions and galleries",
+        "Record sleeves and music sites",
+        "Event and festival identities",
+        "Editorial covers"
+      ],
+      "avoid": [
+        "Long reading and text-heavy interfaces. The patterns seem to move and strain the eyes.",
+        "Readers with vestibular or photosensitive conditions. Keep high-contrast stripes out of scrolling backgrounds and motion.",
+        "Dense data apps."
+      ],
+      "era": {
+        "from": 1960,
+        "to": 1970
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 3,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "new-wave-typography",
+      "title": "New Wave typography",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/new-wave-typography.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/new-wave-typography.json",
+      "status": "draft",
+      "summary": "Swiss grotesques set loose: wide and uneven letterspacing, stepped and tilted lines, dot screens, and heavy bars.",
+      "moods": [
+        "kinetic",
+        "rebellious",
+        "layered",
+        "experimental",
+        "intuitive"
+      ],
+      "uses": [
+        "Cultural posters and event sites",
+        "Design school and studio sites",
+        "Music and club promotion",
+        "Magazine and journal covers",
+        "Exhibition identities"
+      ],
+      "avoid": [
+        "Forms, dashboards, and tools that need fast, predictable reading. Tilted and unevenly spaced type slows it.",
+        "Conservative corporate brands."
+      ],
+      "era": {
+        "from": 1968,
+        "to": 1990
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "grunge-typography",
+      "title": "Grunge typography",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/grunge-typography.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/grunge-typography.json",
+      "status": "draft",
+      "summary": "Distressed letters, clashing typefaces, and photocopied layers. Type as noise and emotion.",
+      "moods": [
+        "raw",
+        "angsty",
+        "chaotic",
+        "intuitive",
+        "dirty"
+      ],
+      "uses": [
+        "Music magazines and band sites",
+        "Record labels and gig posters",
+        "Skate, surf, and streetwear brands",
+        "Film titles and horror or thriller promotion",
+        "Zines and alternative culture publications"
+      ],
+      "avoid": [
+        "Forms, checkout flows, and navigation. Distressed type reduces legibility.",
+        "Finance, healthcare, government, and other products where trust comes first.",
+        "Children's products."
+      ],
+      "era": {
+        "from": 1989,
+        "to": 2005
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 2,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "material-design",
+      "title": "Material Design",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/material-design.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/material-design.json",
+      "status": "draft",
+      "summary": "Flat color on sheets of paper that float at set heights. Soft shadows, a bold primary bar, and a round action button.",
+      "moods": [
+        "orderly",
+        "tactile",
+        "bright",
+        "systematic"
+      ],
+      "uses": [
+        "Android apps",
+        "Web applications and admin dashboards",
+        "Productivity and email clients",
+        "Settings and forms",
+        "Component libraries"
+      ],
+      "avoid": [
+        "Brands that need a distinct identity. The default style reads as Google or Android.",
+        "Native iOS apps. People there expect Apple's platform conventions.",
+        "Luxury, editorial, and cultural brands."
+      ],
+      "era": {
+        "from": 2014,
+        "to": 2020
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 6,
+        "capturesPassing": 1
+      }
+    },
+    {
+      "id": "neumorphism",
+      "title": "Neumorphism",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/neumorphism.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/neumorphism.json",
+      "status": "draft",
+      "summary": "Soft, extruded controls pressed out of one pale surface. Light and shadow instead of color.",
+      "moods": [
+        "soft",
+        "calm",
+        "tactile",
+        "quiet",
+        "minimal"
+      ],
+      "uses": [
+        "Smart-home and device control panels",
+        "Music players and remotes",
+        "Calculators, timers, and small utilities",
+        "Dashboards with few controls",
+        "Concept shots and portfolio pieces"
+      ],
+      "avoid": [
+        "Products where accessibility is critical. Low-contrast controls often fail WCAG contrast and hide their state.",
+        "Forms and apps with many controls. Buttons, inputs, and cards look alike.",
+        "Interfaces with many colors or photographs. The style needs one pale surface."
+      ],
+      "era": {
+        "from": 2019,
+        "to": 2021
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 8,
+        "capturesPassing": 3
+      }
+    },
+    {
+      "id": "corporate-memphis",
+      "title": "Corporate Memphis",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/corporate-memphis.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/corporate-memphis.json",
+      "status": "draft",
+      "summary": "Flat cartoon people with small heads, long bendy limbs, and purple or blue skin. The friendly face of Big Tech.",
+      "moods": [
+        "friendly",
+        "upbeat",
+        "inclusive",
+        "corporate",
+        "bland"
+      ],
+      "uses": [
+        "Startup and SaaS landing pages",
+        "Onboarding and empty states",
+        "Fintech and property marketing",
+        "Transit and public-service posters",
+        "Explainer videos"
+      ],
+      "avoid": [
+        "Brands that need a distinct voice. Many readers now see the style as generic Big Tech.",
+        "Audiences that distrust large technology companies.",
+        "Luxury, editorial, and serious cultural brands."
+      ],
+      "era": {
+        "from": 2017,
+        "to": 2023
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 8,
+        "capturesPassing": 3
+      }
+    }
+  ]
+}
