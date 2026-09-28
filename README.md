@@ -20,6 +20,8 @@ Open [index.html](index.html) in a browser. Browsing needs no build, install, se
 
 The skills in `.claude/skills/` describe how to prospect a style (`style-prospect`), collect references (`style-references`), and capture websites (`style-capture`).
 
+`skills/style-select/SKILL.md` is for agents that work in other projects. It chooses a style from a project's mood with `api/select.json`, applies the style's files, and checks the result. The deploy publishes it, so an agent can install it from the site.
+
 ## Structure
 
 - `data/styles/`, `data/references/`: one record per style and per reference. Schemas are in `data/schema/`.
@@ -29,7 +31,7 @@ The skills in `.claude/skills/` describe how to prospect a style (`style-prospec
 - `content/`: prose pages (collecting, rights) and the specimen content.
 - `templates/`: starting points for new records.
 - `tools/build.mjs`: the generator.
-- `tools/capture.mjs`: captures websites with headless Chrome (screenshot plus measurement). `--viewport=390x844` checks phone width, and `--specimen` saves a specimen screenshot.
+- `tools/capture.mjs`: captures websites with headless Chrome (screenshot plus measurement). `--viewport=390x844` checks phone width, `--specimen` saves a specimen screenshot, and `--out=<dir>` measures a page outside the catalogue without changing `data/` or `assets/`.
 - `tools/fetch.py`: fetches research URLs with a User-Agent. `tools/contact-sheet.py`: tiles captures for review.
 - `tools/extract-traits.js`, `tools/image-traits.py`, `tools/serve.py`, and `tools/lint-style.mjs`: measure pages and images, and check them against style fingerprints. `node tools/lint-style.mjs --matrix` checks that each specimen passes only its own style. `--table` compares metrics across specimens. `--captures` checks real website captures against every style.
 - Generated: the root HTML pages, `references/*.html`, `board-data.js`, `llms.txt`, `api/`, and `implementations/<style>/` (DTCG tokens, CSS variables, Tailwind v4, shadcn/ui, DESIGN.md, specimen page).

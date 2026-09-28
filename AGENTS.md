@@ -32,6 +32,8 @@ Follow these step-by-step procedures. They are plain Markdown, so any agent can 
 - `.claude/skills/style-references/SKILL.md`: collect references for one style from open sources.
 - `.claude/skills/style-capture/SKILL.md`: capture websites, write their records, and calibrate fingerprints.
 
+`skills/style-select/SKILL.md` is not a procedure for this repo. It is a published skill for agents in other projects: it chooses a style with `api/select.json` and applies it. When you change a style field that it reads, check that the skill still matches.
+
 ## Tools
 
 - Use `node tools/capture.mjs` to capture and measure websites. Use Claude in Chrome for web research and interactive browser checks. Chrome tool results are cut at about 1,000 characters, so save measurements through `tools/serve.py` instead of reading them back.

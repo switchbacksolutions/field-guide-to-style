@@ -6,7 +6,7 @@ import { fileURLToPath } from "node:url";
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), "..");
 const DIST = join(ROOT, "dist");
-const SHIP = ["llms.txt", "board-data.js", "api", "assets", "implementations", "references", "data", "templates", ...readdirSync(ROOT).filter((f) => f.endsWith(".html"))];
+const SHIP = ["llms.txt", "board-data.js", "api", "assets", "implementations", "references", "data", "templates", "skills", "tools/extract-traits.js", ...readdirSync(ROOT).filter((f) => f.endsWith(".html"))];
 
 rmSync(DIST, { recursive: true, force: true });
 for (const entry of SHIP) cpSync(join(ROOT, entry), join(DIST, entry), { recursive: true, filter: (src) => !src.endsWith(".DS_Store") });
