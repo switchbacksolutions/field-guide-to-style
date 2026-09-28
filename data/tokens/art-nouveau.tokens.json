@@ -1,0 +1,82 @@
+{
+  "$description": "Authored tokens for art-nouveau. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": { "$value": "#f1e6cc", "$description": "Parchment, the ground of a colour lithograph." },
+    "surface": { "$value": "#f8f0dc" },
+    "subtle": { "$value": "#e4d4ad" },
+    "text": { "$value": "#33291c", "$description": "Sepia brown, the colour of a lithograph key line." },
+    "muted": { "$value": "#6b5a3f" },
+    "border": { "$value": "#4a3d27", "$description": "Dark outline around panels, as in poster key lines." },
+    "primary": { "$value": "#56792a", "$description": "Moss and stem green." },
+    "on-primary": { "$value": "#f8f0dc" },
+    "secondary": { "$value": "#a9583f", "$description": "Terracotta and dusty rose." },
+    "on-secondary": { "$value": "#f8f0dc" },
+    "accent": { "$value": "#c4922f", "$description": "Ochre gold, for halos and highlights." },
+    "on-accent": { "$value": "#33291c" }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": { "$value": ["Optima", "Candara", "Segoe UI", "URW Classico", "sans-serif"] },
+    "body": { "$value": ["Iowan Old Style", "Palatino", "Palatino Linotype", "Book Antiqua", "Georgia", "serif"] },
+    "mono": { "$value": ["Optima", "Candara", "Segoe UI", "sans-serif"] }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": { "$value": 400 },
+    "bold": { "$value": 600 },
+    "display": { "$value": 400 }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": { "$value": "13px" },
+    "sm": { "$value": "15px" },
+    "base": { "$value": "18px" },
+    "lg": { "$value": "21px" },
+    "xl": { "$value": "27px" },
+    "2xl": { "$value": "36px" },
+    "3xl": { "$value": "48px" },
+    "4xl": { "$value": "64px" },
+    "5xl": { "$value": "84px" }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": { "$value": 1.05 },
+    "body": { "$value": 1.6 }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": { "$value": 0, "$extensions": { "style-inspiration": { "unit": "em" } } },
+    "heading": { "$value": 0.01, "$extensions": { "style-inspiration": { "unit": "em" } } },
+    "label": { "$value": 0.06, "$extensions": { "style-inspiration": { "unit": "em" } } }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": { "$value": "0px" },
+    "sm": { "$value": "8px" },
+    "md": { "$value": "24px", "$description": "Leaf corner: applied to two opposite corners only." },
+    "lg": { "$value": "160px", "$description": "Arch: applied to the two top corners of a panel." },
+    "pill": { "$value": "999px" }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": { "$value": "1.5px" },
+    "thick": { "$value": "3px" }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": { "$value": "6px" },
+    "sm": { "$value": "12px" },
+    "md": { "$value": "24px" },
+    "lg": { "$value": "40px" },
+    "xl": { "$value": "64px" },
+    "2xl": { "$value": "104px" }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": { "$value": { "fontFamily": "{font.display}", "fontSize": "{text.5xl}", "fontWeight": "{font-weight.display}", "lineHeight": "{leading.tight}", "letterSpacing": "{tracking.display}" } },
+    "heading": { "$value": { "fontFamily": "{font.display}", "fontSize": "{text.2xl}", "fontWeight": "{font-weight.display}", "lineHeight": "{leading.tight}", "letterSpacing": "{tracking.heading}" } },
+    "body": { "$value": { "fontFamily": "{font.body}", "fontSize": "{text.base}", "fontWeight": "{font-weight.regular}", "lineHeight": "{leading.body}" } },
+    "label": { "$value": { "fontFamily": "{font.mono}", "fontSize": "{text.xs}", "fontWeight": "{font-weight.bold}", "lineHeight": "{leading.body}", "letterSpacing": "{tracking.label}" } }
+  }
+}

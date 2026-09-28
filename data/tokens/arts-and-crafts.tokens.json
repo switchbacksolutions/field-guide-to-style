@@ -1,0 +1,82 @@
+{
+  "$description": "Authored tokens for arts-and-crafts. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": { "$value": "#eee6d3", "$description": "Unbleached linen and handmade paper." },
+    "surface": { "$value": "#f6f0e1" },
+    "subtle": { "$value": "#e2d5b8" },
+    "text": { "$value": "#1e1a15", "$description": "Dense printer’s ink." },
+    "muted": { "$value": "#594f42" },
+    "border": { "$value": "#1e1a15", "$description": "Ink rules that frame text blocks." },
+    "primary": { "$value": "#9b3324", "$description": "Madder red, the rubric colour of private-press books." },
+    "on-primary": { "$value": "#f6f0e1" },
+    "secondary": { "$value": "#24497f", "$description": "Indigo, the ground of discharge-printed textiles." },
+    "on-secondary": { "$value": "#f6f0e1" },
+    "accent": { "$value": "#4b7a2b", "$description": "Leaf green, from weld over woad." },
+    "on-accent": { "$value": "#f6f0e1" }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": { "$value": ["Hoefler Text", "Iowan Old Style", "Palatino", "Palatino Linotype", "Book Antiqua", "Georgia", "serif"] },
+    "body": { "$value": ["Iowan Old Style", "Palatino", "Palatino Linotype", "Book Antiqua", "Georgia", "serif"] },
+    "mono": { "$value": ["Hoefler Text", "Palatino", "Palatino Linotype", "Book Antiqua", "Georgia", "serif"] }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": { "$value": 400 },
+    "bold": { "$value": 700 },
+    "display": { "$value": 700 }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": { "$value": "13px" },
+    "sm": { "$value": "15px" },
+    "base": { "$value": "18px" },
+    "lg": { "$value": "21px" },
+    "xl": { "$value": "26px" },
+    "2xl": { "$value": "34px" },
+    "3xl": { "$value": "46px" },
+    "4xl": { "$value": "62px" },
+    "5xl": { "$value": "82px" }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": { "$value": 1.05 },
+    "body": { "$value": 1.5 }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": { "$value": 0, "$extensions": { "style-inspiration": { "unit": "em" } } },
+    "heading": { "$value": 0, "$extensions": { "style-inspiration": { "unit": "em" } } },
+    "label": { "$value": 0.04, "$extensions": { "style-inspiration": { "unit": "em" } } }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": { "$value": "0px" },
+    "sm": { "$value": "0px" },
+    "md": { "$value": "0px" },
+    "lg": { "$value": "0px" },
+    "pill": { "$value": "0px", "$description": "Frames are rectilinear, like a woodcut border or a joined box." }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": { "$value": "2px" },
+    "thick": { "$value": "6px", "$description": "Drawn as a double rule around framed blocks." }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": { "$value": "6px" },
+    "sm": { "$value": "12px" },
+    "md": { "$value": "22px" },
+    "lg": { "$value": "36px" },
+    "xl": { "$value": "56px" },
+    "2xl": { "$value": "88px" }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": { "$value": { "fontFamily": "{font.display}", "fontSize": "{text.5xl}", "fontWeight": "{font-weight.display}", "lineHeight": "{leading.tight}", "letterSpacing": "{tracking.display}" } },
+    "heading": { "$value": { "fontFamily": "{font.display}", "fontSize": "{text.2xl}", "fontWeight": "{font-weight.bold}", "lineHeight": "{leading.tight}", "letterSpacing": "{tracking.heading}" } },
+    "body": { "$value": { "fontFamily": "{font.body}", "fontSize": "{text.base}", "fontWeight": "{font-weight.regular}", "lineHeight": "{leading.body}" } },
+    "label": { "$value": { "fontFamily": "{font.mono}", "fontSize": "{text.xs}", "fontWeight": "{font-weight.regular}", "lineHeight": "{leading.body}", "letterSpacing": "{tracking.label}" } }
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "id": "mid-century-modern",
+  "title": "Mid-century modern",
+  "order": 11,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Midcentury modern",
+    "MCM",
+    "Mid-century modernism",
+    "Mid-century graphic design"
+  ],
+  "summary": "Warm flat color, cut-paper shapes, and playful type. Post-war modernism with a sense of humor.",
+  "lede": "The graphic and illustrative side of mid-century modern design (about 1945–1969): flat, overlapping shapes in mustard, burnt orange, teal, and olive on warm paper, simplified figures and objects, biomorphic and atomic motifs, and a loose mix of sans-serif, slab, and brush lettering. This record covers that graphic core. The architecture and furniture of the same name are related branches.",
+  "moods": [
+    "optimistic",
+    "warm",
+    "playful",
+    "crafted",
+    "modern"
+  ],
+  "era": {
+    "from": 1945,
+    "to": 1969,
+    "note": "Wikipedia: popular from roughly 1945 to 1970. Getty AAT dates the wider design style ca. 1933–1965. The name was in use by the mid-1950s and became a label for the period after Cara Greenberg’s 1983–1984 book on 1950s furniture."
+  },
+  "regions": [
+    "United States",
+    "United Kingdom",
+    "Scandinavia",
+    "Western Europe",
+    "Brazil",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q6840667",
+    "aat": "300343610"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Mid-century modern",
+      "url": "https://en.wikipedia.org/wiki/Mid-century_modern",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikidata: mid-century modern (Q6840667)",
+      "url": "https://www.wikidata.org/wiki/Q6840667",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Getty Art & Architecture Thesaurus: Mid-Century Modernist (300343610)",
+      "url": "https://vocab.getty.edu/page/aat/300343610",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Batsford: Theo Inglis, Mid-Century Modern Graphic Design (2019)",
+      "url": "https://www.batsfordbooks.com/products/mid-century-modern-graphic-design",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "style": "bauhaus",
+      "note": "Wikidata lists Bauhaus under “influenced by” and “based on”. Getty AAT names the Bauhaus as a source of the wider style. Herbert Bayer and Josef Albers, both named in Inglis’s survey, carried Bauhaus teaching to the United States."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "International Style",
+      "wikidata": "Q162324",
+      "note": "Wikidata lists the International Style in architecture under “influenced by” and “based on”. Wikipedia calls American mid-century modern a reflection of the International and Bauhaus movements, more organic and less formal."
+    },
+    {
+      "relation": "related-to",
+      "style": "international-typographic-style",
+      "note": "Contemporaries. Interpretation: the Swiss style is the objective, grid-bound branch of post-war graphic modernism. The graphic core of this record is the illustrative, hand-made branch that Inglis surveys (Rand, Lustig, Bass, Flora)."
+    },
+    {
+      "relation": "related-to",
+      "label": "Atomic Age (design)",
+      "wikidata": "Q4817248",
+      "note": "Wikipedia: design of roughly 1945–1967 that uses atomic motifs and space-age symbols. Its starbursts and orbit shapes recur in mid-century graphics and textiles. Treat it as a branch, not the core."
+    },
+    {
+      "relation": "related-to",
+      "label": "Scandinavian design",
+      "wikidata": "Q1793969",
+      "note": "Wikipedia: simplicity and functionality that flourished in the 1950s in the Nordic countries. Getty AAT names sleek Scandinavian furniture as an influence on the wider style."
+    },
+    {
+      "relation": "related-to",
+      "label": "Googie architecture",
+      "wikidata": "Q717220",
+      "note": "Wikipedia: futurist roadside architecture of about 1945 to the early 1970s, influenced by car culture and the Atomic Age. A commercial branch with neon signs and boomerang forms."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Warm secondary palette.",
+      "text": "Mustard, burnt orange, teal, olive, and brick on cream or off-white paper, with charcoal for type. Colors are flat and slightly muted, as in two- to four-color offset and screen printing."
+    },
+    {
+      "facet": "surface",
+      "term": "Overprint.",
+      "text": "Flat shapes overlap, and the overlap makes a third, darker color. Registration is loose, and edges can look cut or printed."
+    },
+    {
+      "facet": "imagery",
+      "term": "Cut-paper and biomorphic shapes.",
+      "text": "Kidney, pebble, boomerang, and leaf shapes, circles and half circles, and atomic starbursts. Figures, animals, and objects are reduced to a few flat geometric planes."
+    },
+    {
+      "facet": "type",
+      "term": "Mixed, playful lettering.",
+      "text": "Geometric sans-serif or slab headings next to brush script or hand lettering. Words may bounce off the baseline or tilt. Body text is a plain serif or sans-serif."
+    },
+    {
+      "facet": "layout",
+      "term": "Poster composition.",
+      "text": "One large image or shape group carries the page. Text sits beside it on open paper. Layouts are asymmetric but less strict than a Swiss grid."
+    },
+    {
+      "facet": "structure",
+      "term": "Pattern as a band.",
+      "text": "Textile-like repeats of small stars, dots, or plant forms fill one band or panel, not the whole page."
+    },
+    {
+      "facet": "motion",
+      "term": "Limited animation.",
+      "text": "In film (UPA, title sequences by Saul Bass), flat shapes slide, cut, and pop into place. Few in-betweens, no depth."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Three or more warm or earthy hues (mustard, orange, teal, olive) appear as flat areas on cream or white paper.",
+      "Shapes are biomorphic, circular, or cut-paper, not only rectangles.",
+      "Shapes overlap, and the overlap shows a darker overprinted color.",
+      "Figures or objects are drawn as a few flat, stylized planes.",
+      "A script or hand-drawn word appears next to a geometric sans-serif or slab."
+    ],
+    "counter": [
+      "Gradients, gloss, drop shadows, or photographic depth.",
+      "Neon, fluorescent, or clashing pastel colors.",
+      "Thick black outlines around every shape.",
+      "A strict modular grid with only one accent color and no illustration."
+    ],
+    "confusions": [
+      {
+        "with": "bauhaus",
+        "difference": "Bauhaus uses the primary triad, elementary geometry, and heavy black bars. Mid-century modern uses warm secondary colors, irregular biomorphic shapes, and illustration."
+      },
+      {
+        "with": "international-typographic-style",
+        "difference": "The Swiss style is objective: grotesque type, a strict grid, photography, and at most one accent. Mid-century modern is illustrative, uses several colors, and mixes playful lettering."
+      },
+      {
+        "with": "memphis",
+        "difference": "Memphis (1981–1987) uses loud, clashing brights, laminate patterns, and black outlines. Mid-century modern colors are warmer and more muted, and shapes are rarely outlined."
+      },
+      {
+        "with": "Art Nouveau",
+        "difference": "Art Nouveau fills the surface with flowing whiplash lines and plant ornament. Mid-century modern shapes are simple, flat, and separated by open paper."
+      },
+      {
+        "with": "Flat design",
+        "difference": "Flat design is a digital interface style with bright UI colors, icons, and no texture or illustration of scenes. Mid-century modern uses printed, earthy colors, overprint, and illustrated compositions."
+      },
+      {
+        "with": "Corporate Memphis",
+        "difference": "Corporate Memphis draws flat people with long limbs and bright, saturated colors. Mid-century figures are more geometric, and the palette is warm and muted."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a warm cream or off-white ground with charcoal text.",
+      "Use three or four flat, slightly muted hues: mustard, burnt orange, teal, and olive.",
+      "Build the hero from overlapping flat shapes: circles, half circles, pebbles, and one starburst. Let overlaps darken with a multiply blend.",
+      "Pair a geometric sans-serif or slab heading with one brush-script word.",
+      "Give panels one or two large rounded corners, like a leaf or pebble, and keep the other corners square.",
+      "Use a small textile-like repeat in one band only."
+    ],
+    "dont": [
+      "Do not use gradients, gloss, or drop shadows.",
+      "Do not use neon, fluorescent, or pure primary colors.",
+      "Do not outline every shape in black. Shapes meet by color.",
+      "Do not fill the whole page with pattern. Keep open paper around the shapes.",
+      "Do not use a strict Swiss grid with only one accent. That points to the International Typographic Style."
+    ],
+    "uses": [
+      "Furniture and interior brands",
+      "Cultural festivals and exhibitions",
+      "Book, record, and magazine covers",
+      "Travel and hospitality",
+      "Children’s books and education"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.hues",
+      "min": 3,
+      "note": "Three or more hue families (mustard, orange, teal, olive) appear together. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.accentChroma",
+      "min": 0.4,
+      "max": 0.62,
+      "note": "The colors are printed and slightly muted: stronger than earth tones, weaker than primaries, neon, or UI brights. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "min": 0.2,
+      "max": 0.6,
+      "note": "Flat color fields and shapes cover a large share of the page, with open paper around them. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.roundShare",
+      "min": 0.25,
+      "note": "Circles, pebbles, and leaf corners are common shapes. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.headingWeight",
+      "min": 600,
+      "note": "Display lettering is heavy: bold geometric sans-serif or slab. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "Print is flat. Drop shadows point to later digital styles. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Color is flat, as in offset and screen printing. Provisional: set from the specimen, recalibrate with measured references."
+    }
+  ]
+}

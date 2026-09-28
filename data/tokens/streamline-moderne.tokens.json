@@ -1,0 +1,239 @@
+{
+  "$description": "Authored tokens for streamline-moderne. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#f1e9d8"
+    },
+    "surface": {
+      "$value": "#faf5ea"
+    },
+    "subtle": {
+      "$value": "#e2d8c2"
+    },
+    "text": {
+      "$value": "#15263f"
+    },
+    "muted": {
+      "$value": "#4d5a68"
+    },
+    "border": {
+      "$value": "#8f99a3",
+      "$description": "Chrome: polished steel trim."
+    },
+    "primary": {
+      "$value": "#c23a2b",
+      "$description": "Signal red, as on streamliner noses and diner trim."
+    },
+    "on-primary": {
+      "$value": "#faf5ea"
+    },
+    "secondary": {
+      "$value": "#1c3354",
+      "$description": "Navy enamel."
+    },
+    "on-secondary": {
+      "$value": "#f1e9d8"
+    },
+    "accent": {
+      "$value": "#bcc4cb",
+      "$description": "Chrome highlight."
+    },
+    "on-accent": {
+      "$value": "#15263f"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Futura",
+        "Avenir Next",
+        "Century Gothic",
+        "Trebuchet MS",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Avenir Next",
+        "Futura",
+        "Century Gothic",
+        "Helvetica Neue",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Futura",
+        "Avenir Next",
+        "Century Gothic",
+        "sans-serif"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 800
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "21px"
+    },
+    "xl": {
+      "$value": "27px"
+    },
+    "2xl": {
+      "$value": "36px"
+    },
+    "3xl": {
+      "$value": "52px"
+    },
+    "4xl": {
+      "$value": "76px"
+    },
+    "5xl": {
+      "$value": "112px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.95
+    },
+    "body": {
+      "$value": 1.55
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": 0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.06,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.18,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "48px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "2px"
+    },
+    "thick": {
+      "$value": "6px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "96px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

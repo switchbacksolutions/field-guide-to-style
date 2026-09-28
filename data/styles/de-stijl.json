@@ -1,0 +1,215 @@
+{
+  "id": "de-stijl",
+  "title": "De Stijl",
+  "order": 10,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Neoplasticism",
+    "Neo-plasticism",
+    "Nieuwe Beelding",
+    "The Style"
+  ],
+  "summary": "Black lines, white planes, and blocks of red, yellow, and blue. Only horizontals and verticals.",
+  "lede": "The Dutch movement around the journal *De Stijl* (1917–1931) and Mondrian’s neoplasticism: compositions built only from horizontal and vertical lines and rectangular planes, in the three primary colors and the three non-colors black, white, and gray, balanced by asymmetry instead of symmetry.",
+  "moods": [
+    "orthogonal",
+    "balanced",
+    "austere",
+    "pure"
+  ],
+  "era": {
+    "from": 1917,
+    "to": 1931,
+    "note": "From the first issue of the journal to Theo van Doesburg’s death. The look continues in later revivals, often as a “Mondrian” pattern."
+  },
+  "regions": [
+    "Netherlands",
+    "France"
+  ],
+  "identifiers": {
+    "wikidata": "Q207445",
+    "aat": "300021259"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: De Stijl",
+      "url": "https://en.wikipedia.org/wiki/De_Stijl",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Tate art terms: De Stijl",
+      "url": "https://www.tate.org.uk/art/art-terms/d/de-stijl",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Getty AAT 300021259: De Stijl",
+      "url": "https://vocab.getty.edu/page/aat/300021259",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikidata Q207445: De Stijl",
+      "url": "https://www.wikidata.org/wiki/Q207445",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Cubism",
+      "wikidata": "Q42934",
+      "note": "Wikidata (P737) and Wikipedia name Cubist painting as an influence. Mondrian’s grids of about 1914–1916 grew out of Cubist work in Paris."
+    },
+    {
+      "relation": "related-to",
+      "label": "Neoplasticism",
+      "wikidata": "Q845421",
+      "note": "Mondrian’s theory, first named in the journal in 1917. Tate treats it as the name for the art that the De Stijl circle practised, so this record uses it as an alias for the core of the style."
+    },
+    {
+      "relation": "related-to",
+      "label": "Elementarism",
+      "wikidata": "Q97135829",
+      "note": "Van Doesburg’s later branch (from about 1924) that admits diagonals. Tate and Wikipedia record that Mondrian left the group over it. This record covers the orthogonal core and treats diagonal work as this branch."
+    },
+    {
+      "relation": "related-to",
+      "style": "bauhaus",
+      "note": "Van Doesburg taught informal De Stijl courses in Weimar in 1921–1922, and Wikipedia states that De Stijl influenced the Bauhaus style."
+    },
+    {
+      "relation": "related-to",
+      "label": "Constructivism",
+      "wikidata": "Q207103",
+      "note": "Wikidata (P737) and Wikipedia record that Malevich and Russian Constructivism influenced the group after about 1921."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Only horizontals and verticals.",
+      "text": "Straight black lines of equal or varied weight divide the surface into rectangles. There are no curves and, in the core style, no diagonals."
+    },
+    {
+      "facet": "color",
+      "term": "Primaries and non-colors.",
+      "text": "Red, yellow, and blue as flat, unmixed planes, with black, white, and gray. Mondrian’s paintings of 1920–1921 use several whites and grays and some solid black planes. White and gray usually cover most of the surface."
+    },
+    {
+      "facet": "layout",
+      "term": "Asymmetric balance.",
+      "text": "Planes of unequal size balance by opposition: a large colored plane against small ones in the far corners. Lines run to the edge of the field or stop just short of it."
+    },
+    {
+      "facet": "surface",
+      "term": "Flat planes.",
+      "text": "No modelling, texture, shadow, or gradient. In furniture and buildings, planes and bars overlap without joining, each one painted in its own color."
+    },
+    {
+      "facet": "type",
+      "term": "Rectilinear capitals.",
+      "text": "Blocky sans-serif letters built from straight strokes, as in van Doesburg’s 1919 alphabet. Capitals and letter-spaced titles are common."
+    },
+    {
+      "facet": "imagery",
+      "term": "No images of things.",
+      "text": "Pure abstraction. Nothing is depicted. Color and proportion carry the whole composition."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Every line and edge is horizontal or vertical.",
+      "Thick black lines divide the surface into rectangles.",
+      "Flat red, yellow, and blue planes sit among larger white or gray planes.",
+      "The composition is asymmetric but balanced."
+    ],
+    "counter": [
+      "Circles, curves, or rounded corners.",
+      "Diagonals as the main structure (that is Elementarism or Constructivism).",
+      "Secondary or pastel colors such as green, orange, purple, or pink.",
+      "Gradients, shadows, textures, or photographs."
+    ],
+    "confusions": [
+      {
+        "with": "bauhaus",
+        "difference": "Bauhaus uses circles, triangles, and diagonals and often lowercase type. De Stijl uses only rectangles and straight horizontal and vertical lines."
+      },
+      {
+        "with": "international-typographic-style",
+        "difference": "The Swiss style uses the grid invisibly and relies on type, often with one accent color. De Stijl makes the grid visible as thick black lines and fills cells with primary colors."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Neo-brutalism also uses thick black outlines and bright fills, but adds hard offset shadows, rounded corners, and pastel or secondary colors."
+      },
+      {
+        "with": "Constructivism",
+        "difference": "Constructivism is built on diagonals, red and black, and photomontage. De Stijl is orthogonal and does not use images."
+      },
+      {
+        "with": "memphis",
+        "difference": "Memphis clashes many colors, patterns, and irregular shapes. De Stijl keeps three primaries and three non-colors in plain rectangles."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Build the layout as a visible grid: thick black lines between rectangular cells.",
+      "Use flat red, yellow, and blue for a few cells. Keep most cells white or light gray.",
+      "Make the balance asymmetric: one large colored plane, and smaller ones in the opposite corners.",
+      "Use a condensed or square sans-serif in capitals for headings.",
+      "Let lines run through to the edge of the container."
+    ],
+    "dont": [
+      "Do not use rounded corners, circles, or curved shapes.",
+      "Do not use diagonals, rotation, or skew.",
+      "Do not use green, orange, purple, or tints of the primaries.",
+      "Do not use gradients, shadows, textures, or photographs."
+    ],
+    "uses": [
+      "Museums and exhibitions",
+      "Architecture and furniture studios",
+      "Design education",
+      "Posters and event sites"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.border.medianWidth",
+      "min": 5,
+      "note": "Positive marker. Thick black lines divide the planes; other catalogue styles use 3 px or less. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.hues",
+      "min": 3,
+      "max": 3,
+      "note": "Positive marker. Red, yellow, and blue all appear, and no fourth hue family. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "min": 0.05,
+      "max": 0.5,
+      "note": "Positive marker. The primaries fill real planes, but white and gray planes cover more of the surface. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "min": 0.2,
+      "note": "Positive marker. Headings, labels, and navigation are set in capitals, after the rectilinear capitals of the journal and van Doesburg’s alphabet. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.roundShare",
+      "max": 0.05,
+      "note": "No rounded corners or circles. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "Planes are flat. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Color is flat and unmixed. Provisional: set from the specimen, recalibrate with measured references."
+    }
+  ]
+}

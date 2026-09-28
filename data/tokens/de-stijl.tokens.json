@@ -1,0 +1,241 @@
+{
+  "$description": "Authored tokens for de-stijl. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#f3f2ec",
+      "$description": "Off-white ground, like Mondrian’s painted whites."
+    },
+    "surface": {
+      "$value": "#ffffff",
+      "$description": "Pure white planes set against the ground."
+    },
+    "subtle": {
+      "$value": "#d9d8d2",
+      "$description": "Light gray plane: gray is one of the three non-colors."
+    },
+    "text": {
+      "$value": "#111111"
+    },
+    "muted": {
+      "$value": "#6b6a66",
+      "$description": "Mid gray: secondary text, and the darker gray plane."
+    },
+    "border": {
+      "$value": "#111111",
+      "$description": "Black lines between planes."
+    },
+    "primary": {
+      "$value": "#d8231b",
+      "$description": "Red."
+    },
+    "on-primary": {
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$value": "#1b3e94",
+      "$description": "Blue."
+    },
+    "on-secondary": {
+      "$value": "#ffffff"
+    },
+    "accent": {
+      "$value": "#f4cd1b",
+      "$description": "Yellow."
+    },
+    "on-accent": {
+      "$value": "#111111"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "DIN Condensed",
+        "Avenir Next Condensed",
+        "Arial Narrow",
+        "Helvetica Neue",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Helvetica Neue",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "DIN Alternate",
+        "Helvetica Neue",
+        "Arial",
+        "sans-serif"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 700
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "21px"
+    },
+    "xl": {
+      "$value": "28px"
+    },
+    "2xl": {
+      "$value": "38px"
+    },
+    "3xl": {
+      "$value": "56px"
+    },
+    "4xl": {
+      "$value": "84px"
+    },
+    "5xl": {
+      "$value": "120px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.9
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": 0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.03,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.12,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "0px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "6px"
+    },
+    "thick": {
+      "$value": "12px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

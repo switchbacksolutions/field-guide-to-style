@@ -1,0 +1,224 @@
+{
+  "id": "streamline-moderne",
+  "title": "Streamline Moderne",
+  "order": 20,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Streamlined Moderne",
+    "Streamline style",
+    "Paquebot style",
+    "Style paquebot",
+    "Ocean liner style"
+  ],
+  "summary": "Rounded ends, portholes, and horizontal speed lines in cream, chrome, and navy. The streamlined look of 1930s trains, liners, and diners.",
+  "lede": "A 1930s style of architecture, industrial design, and graphics that took its forms from aerodynamic streamlining: curving forms, rounded corners, long horizontal lines, and nautical details such as portholes and railings, in smooth new materials such as chrome, Bakelite, and glass block. Wikipedia treats it as a late, stripped form of [Art Deco](style:art-deco); the Getty AAT lists it as a separate style.",
+  "moods": [
+    "streamlined",
+    "optimistic",
+    "sleek",
+    "nautical",
+    "machine-age"
+  ],
+  "era": {
+    "from": 1930,
+    "to": 1945,
+    "note": "Wikipedia: emerged in the 1930s, and the 1933–34 Chicago World’s Fair introduced it to the American public. Getty AAT: reached its height in the late 1930s in the United States. Precursors include Mendelsohn’s Mossehaus (1923), and streamlined cars continued after the war (Nash Airflyte, 1950)."
+  },
+  "regions": [
+    "United States",
+    "France",
+    "United Kingdom",
+    "Belgium",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q928960",
+    "aat": "300253564"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Streamline Moderne",
+      "url": "https://en.wikipedia.org/wiki/Streamline_Moderne",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikidata: Streamline Moderne (Q928960)",
+      "url": "https://www.wikidata.org/wiki/Q928960",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Getty Art & Architecture Thesaurus: Streamlined Moderne (300253564)",
+      "url": "https://vocab.getty.edu/page/aat/300253564",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "style": "art-deco",
+      "note": "Wikipedia calls it an international style of Art Deco and says industrial designers stripped Art Deco of its ornament in favor of an aerodynamic pure-line concept. Wikidata records it as a subclass of Art Deco (P279)."
+    },
+    {
+      "relation": "related-to",
+      "label": "Modernism",
+      "wikidata": "Q878985",
+      "note": "Wikidata also records it as a subclass of modernism and describes it as an art movement between Art Deco and modernism. Wikipedia lists shared traits with modern architecture: horizontal orientation, flat roofs, and ribbon windows."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "New Objectivity and Futurist architecture",
+      "note": "Wikipedia: the cylindrical forms and long horizontal windowing may have been influenced by New Objectivity artists and by Futurist architecture, with Mendelsohn and Neutra’s Mossehaus (Berlin, 1923) as an example."
+    },
+    {
+      "relation": "related-to",
+      "label": "Functionalism",
+      "note": "Wikipedia contrasts streamlined industrial design with European functionalism of the same years, which sought simple designs to lower production costs."
+    },
+    {
+      "relation": "related-to",
+      "style": "mid-century-modern",
+      "note": "Interpretation: Streamline Moderne precedes mid-century modern, and streamlined cars such as the 1950 Nash Airflyte overlap its first years. Mid-century modern drops the speed lines and chrome for biomorphic shapes and warmer colors."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Horizontal emphasis.",
+      "text": "Long, low forms. Bands, ribbon windows, and grooves run horizontally, so the eye moves sideways, as if the object were moving."
+    },
+    {
+      "facet": "layout",
+      "term": "Rounded corners and ends.",
+      "text": "Corners are rounded, and bands and panels often end in a full semicircle, like a racetrack or the nose of a train. Sharp angles are rare."
+    },
+    {
+      "facet": "imagery",
+      "term": "Speed lines and nautical details.",
+      "text": "Groups of two to four parallel lines trail from edges, corners, and letters. Portholes, ship railings, teardrop and bullet-nose shapes, trains, liners, and aircraft recur."
+    },
+    {
+      "facet": "type",
+      "term": "Bold geometric sans, leaning forward.",
+      "text": "Lettering is geometric or monoline sans serif, often in capitals, often slanted forward or with speed lines attached. Interpretation from 1930s transport graphics; to confirm with references."
+    },
+    {
+      "facet": "color",
+      "term": "White or pastel with chrome trim.",
+      "text": "Wikipedia: structures were often white or in subdued pastel colors. Chrome and stainless steel give silver trim. Transport graphics add navy and signal red."
+    },
+    {
+      "facet": "surface",
+      "term": "Smooth and unornamented.",
+      "text": "Smooth render, glass block, polished chrome, stainless steel, enamel, Bakelite, Formica, and Vitrolite. Applied ornament gives way to the line itself."
+    },
+    {
+      "facet": "motion",
+      "term": "Forward motion.",
+      "text": "Forms suggest speed even at rest. On screen, motion is a short horizontal glide, without bounce."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Two to four parallel horizontal lines (speed lines) run along a band, an edge, or a heading.",
+      "Corners are rounded, and bands or panels end in a semicircle.",
+      "The composition is long and horizontal rather than tall or centered on an axis.",
+      "Round portholes, ship railings, or teardrop and bullet-nose shapes appear.",
+      "Smooth white, cream, or pastel surfaces carry chrome, navy, or red trim."
+    ],
+    "counter": [
+      "Stepped setback outlines, sunbursts, or chevrons repeat as ornament.",
+      "Every box has square corners and there are no speed lines.",
+      "Boomerangs, starbursts, or upswept angled roofs.",
+      "Glossy translucent plastic, frosted blur, or aqua bubbles.",
+      "Flowing plant ornament or whiplash curves."
+    ],
+    "confusions": [
+      {
+        "with": "art-deco",
+        "difference": "Art Deco is vertical, symmetrical, and ornamental: steps, sunbursts, chevrons, and gold on black. Streamline Moderne strips the ornament and replaces it with rounded ends and horizontal speed lines, usually on a light ground."
+      },
+      {
+        "with": "International Style (architecture)",
+        "difference": "Both use white walls, flat roofs, and ribbon windows. The International Style keeps square, rectilinear volumes. Streamline Moderne rounds the corners and adds speed lines, portholes, and chrome."
+      },
+      {
+        "with": "bauhaus",
+        "difference": "Bauhaus graphics are asymmetric compositions of elementary shapes in primary colors, with square corners and heavy bars. Streamline Moderne uses rounded ends, parallel speed lines, and softer cream, chrome, and navy."
+      },
+      {
+        "with": "mid-century-modern",
+        "difference": "Mid-century modern uses irregular biomorphic shapes, illustration, and warm earthy colors. Streamline Moderne uses regular rounded bands, speed lines, and chrome."
+      },
+      {
+        "with": "Googie",
+        "difference": "Googie (1950s) is exuberant: boomerangs, starbursts, atomic motifs, and upswept angled roofs. Streamline Moderne is restrained and horizontal, with no angled or star shapes."
+      },
+      {
+        "with": "y2k",
+        "difference": "Y2K also likes chrome and rounded forms, but its surfaces are glossy gradients, translucent plastic, and glow, with techno type. Streamline Moderne surfaces are flat enamel and polished metal, with speed lines."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a cream or off-white ground, navy for text and large bands, one red accent, and silver-gray for rules and rings.",
+      "Round every panel. Give buttons, badges, and inputs fully rounded ends, and give at least one large band a semicircular end.",
+      "Draw speed lines as groups of two to four parallel horizontal lines, for example trailing from each section heading or running along the hero.",
+      "Set headings and labels in a bold geometric sans in capitals. Slant display text forward with an italic or oblique face.",
+      "Keep alignment to the left and let bands run the full width, so the page reads as long and horizontal.",
+      "Put small figures or icons in circular portholes with a thick silver ring."
+    ],
+    "dont": [
+      "Do not use sunbursts, chevrons, stepped outlines, or gold on black. That points to Art Deco.",
+      "Do not center the whole page on a vertical axis.",
+      "Do not use square corners on panels, cards, or buttons.",
+      "Do not use glossy gradients, glass blur, or glow effects.",
+      "Do not add applied ornament. The lines and curves are the decoration.",
+      "Do not use diagonal speed lines or starbursts. Speed lines stay horizontal."
+    ],
+    "uses": [
+      "Travel, rail, and cruise brands",
+      "Diners, cafes, and ice cream parlors",
+      "Radio, audio, and appliance products",
+      "Cinemas and events with a 1930s theme"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.radius.median",
+      "min": 16,
+      "note": "Panels, bands, and buttons have rounded corners or fully rounded ends. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.roundShare",
+      "min": 0.6,
+      "note": "Most boxes have rounded corners, not only the buttons. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.1,
+      "note": "Parallel speed lines, drawn as repeated stripes, cover a visible part of the page. Provisional: many real sites draw speed lines as SVG, borders, or images, which this metric does not count."
+    },
+    {
+      "metric": "surface.patternShare",
+      "min": 0.1,
+      "note": "Speed lines repeat on several surfaces: header, hero, cards, and bands. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "min": 0.15,
+      "note": "Headings, labels, and buttons are set in capitals. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.centerShare",
+      "max": 0.3,
+      "note": "Text aligns left and bands run sideways, unlike the central axis of Art Deco. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.1,
+      "note": "Surfaces are flat enamel and paint, not glossy gradients. Provisional: set from the specimen."
+    }
+  ]
+}

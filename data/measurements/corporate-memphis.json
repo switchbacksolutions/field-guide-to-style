@@ -1,0 +1,161 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/corporate-memphis/index.html",
+  "title": "Corporate Memphis specimen · A Field Guide to Style",
+  "captured": "2026-09-28T17:24:49.846Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Avenir Next",
+        "share": 0.98
+      },
+      {
+        "family": "SF Mono",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 18,
+    "maxSize": 80,
+    "sizeRange": 4.44,
+    "scaleRatio": 1.24,
+    "headingWeight": 800,
+    "bodyWeight": 400,
+    "headingTracking": -0.01,
+    "uppercaseShare": 0,
+    "monoShare": 0.02,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#fffaf4",
+        "share": 0.573
+      },
+      {
+        "hex": "#1d1b4f",
+        "share": 0.1
+      },
+      {
+        "hex": "#6147ff",
+        "share": 0.081
+      },
+      {
+        "hex": "#eee9ff",
+        "share": 0.072
+      },
+      {
+        "hex": "#ffe6dc",
+        "share": 0.058
+      },
+      {
+        "hex": "#ffc233",
+        "share": 0.043
+      },
+      {
+        "hex": "#4b4878",
+        "share": 0.033
+      },
+      {
+        "hex": "#d9f6ea",
+        "share": 0.024
+      },
+      {
+        "hex": "#18a36d",
+        "share": 0.006
+      },
+      {
+        "hex": "#3d9bff",
+        "share": 0.006
+      }
+    ],
+    "background": "#fffaf4",
+    "text": "#1d1b4f",
+    "contrast": 15.3,
+    "chroma": 0.17,
+    "lightness": 0.83,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.74,
+    "distinct": 8,
+    "hues": 4,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 20,
+    "radius": {
+      "median": 30.2,
+      "max": 40,
+      "roundShare": 1
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#fffaf4",
+        "share": 0.752
+      },
+      {
+        "hex": "#eee9ff",
+        "share": 0.1
+      },
+      {
+        "hex": "#1f1d51",
+        "share": 0.029
+      },
+      {
+        "hex": "#6047fc",
+        "share": 0.018
+      },
+      {
+        "hex": "#ffc233",
+        "share": 0.015
+      },
+      {
+        "hex": "#fc694c",
+        "share": 0.009
+      },
+      {
+        "hex": "#1aa36d",
+        "share": 0.008
+      },
+      {
+        "hex": "#fde5db",
+        "share": 0.007
+      },
+      {
+        "hex": "#dbd8de",
+        "share": 0.007
+      },
+      {
+        "hex": "#b1afbb",
+        "share": 0.007
+      }
+    ],
+    "background": "#fffaf4",
+    "chroma": 0.09,
+    "lightness": 0.92,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.67,
+    "distinct": 3,
+    "hues": 4
+  }
+}

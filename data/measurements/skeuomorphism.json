@@ -1,0 +1,169 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/skeuomorphism/index.html",
+  "title": "Skeuomorphism specimen · A Field Guide to Style",
+  "captured": "2026-09-28T16:55:51.823Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica Neue",
+        "share": 0.71
+      },
+      {
+        "family": "Marker Felt",
+        "share": 0.2
+      },
+      {
+        "family": "Georgia",
+        "share": 0.06
+      },
+      {
+        "family": "monospace",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 68,
+    "sizeRange": 4.25,
+    "scaleRatio": 1.27,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0.02,
+    "centerShare": 0.07
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#cdd0d5",
+        "share": 0.369
+      },
+      {
+        "hex": "#5e3b22",
+        "share": 0.164
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.112
+      },
+      {
+        "hex": "#262626",
+        "share": 0.068
+      },
+      {
+        "hex": "#fcf4b8",
+        "share": 0.057
+      },
+      {
+        "hex": "#2f6b3a",
+        "share": 0.057
+      },
+      {
+        "hex": "#4c566c",
+        "share": 0.046
+      },
+      {
+        "hex": "#f3e5c8",
+        "share": 0.036
+      },
+      {
+        "hex": "#eceef1",
+        "share": 0.033
+      },
+      {
+        "hex": "#9a6535",
+        "share": 0.032
+      }
+    ],
+    "background": "#cdd0d5",
+    "text": "#262626",
+    "contrast": 9.8,
+    "chroma": 0.11,
+    "lightness": 0.64,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.43,
+    "distinct": 10,
+    "hues": 2,
+    "imageShare": 0,
+    "gradientShare": 0.1,
+    "patternShare": 0.81
+  },
+  "surface": {
+    "boxes": 45,
+    "radius": {
+      "median": 2,
+      "max": 12,
+      "roundShare": 0.44
+    },
+    "border": {
+      "share": 0.87,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.53,
+      "hardShare": 0.04,
+      "medianBlur": 2.5,
+      "medianOffset": 1
+    },
+    "gradientShare": 0.33,
+    "patternShare": 0.27,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#cdd0d5",
+        "share": 0.372
+      },
+      {
+        "hex": "#462c19",
+        "share": 0.172
+      },
+      {
+        "hex": "#674832",
+        "share": 0.111
+      },
+      {
+        "hex": "#fdf5ba",
+        "share": 0.101
+      },
+      {
+        "hex": "#5c3d26",
+        "share": 0.084
+      },
+      {
+        "hex": "#a6b1c2",
+        "share": 0.021
+      },
+      {
+        "hex": "#e9e6bf",
+        "share": 0.019
+      },
+      {
+        "hex": "#6c85aa",
+        "share": 0.018
+      },
+      {
+        "hex": "#bdbfc3",
+        "share": 0.018
+      },
+      {
+        "hex": "#979eaa",
+        "share": 0.017
+      }
+    ],
+    "background": "#cdd0d5",
+    "chroma": 0.13,
+    "lightness": 0.58,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 6,
+    "hues": 0
+  }
+}

@@ -1,0 +1,352 @@
+{
+  "$description": "Authored tokens for y2k. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#dfe4ea",
+      "$description": "Cool silver."
+    },
+    "surface": {
+      "$value": "#f4f6f9"
+    },
+    "subtle": {
+      "$value": "#c9d0d9"
+    },
+    "text": {
+      "$value": "#0d1330"
+    },
+    "muted": {
+      "$value": "#3c4566"
+    },
+    "border": {
+      "$value": "#8e97a6",
+      "$description": "Brushed steel edge."
+    },
+    "primary": {
+      "$value": "#0079a8",
+      "$description": "Bondi blue, from the 1998 iMac casing."
+    },
+    "on-primary": {
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$value": "#ff6a13",
+      "$description": "Tangerine."
+    },
+    "on-secondary": {
+      "$value": "#0d1330"
+    },
+    "accent": {
+      "$value": "#a6e22e",
+      "$description": "Lime."
+    },
+    "on-accent": {
+      "$value": "#0d1330"
+    },
+    "grape": {
+      "$value": "#8a3ffc"
+    },
+    "pink": {
+      "$value": "#ff3ea5"
+    },
+    "ice": {
+      "$value": "#8ee6ff",
+      "$description": "Icy blue for glows."
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Eurostile Extended",
+        "Microgramma D Extended",
+        "Microgramma",
+        "Bank Gothic",
+        "Krungthep",
+        "Arial Black",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Verdana",
+        "Tahoma",
+        "Geneva",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "OCR A Std",
+        "OCR A Extended",
+        "Andale Mono",
+        "Menlo",
+        "monospace"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 700
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "11px"
+    },
+    "sm": {
+      "$value": "13px"
+    },
+    "base": {
+      "$value": "15px"
+    },
+    "lg": {
+      "$value": "18px"
+    },
+    "xl": {
+      "$value": "22px"
+    },
+    "2xl": {
+      "$value": "28px"
+    },
+    "3xl": {
+      "$value": "40px"
+    },
+    "4xl": {
+      "$value": "56px"
+    },
+    "5xl": {
+      "$value": "76px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 1
+    },
+    "body": {
+      "$value": 1.6
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": 0.08,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.12,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.2,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "10px"
+    },
+    "md": {
+      "$value": "22px"
+    },
+    "lg": {
+      "$value": "36px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "2px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "22px"
+    },
+    "lg": {
+      "$value": "36px"
+    },
+    "xl": {
+      "$value": "60px"
+    },
+    "2xl": {
+      "$value": "96px"
+    }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "glow": {
+      "$value": {
+        "color": "#8ee6ffb3",
+        "offsetX": "0px",
+        "offsetY": "0px",
+        "blur": "22px",
+        "spread": "2px"
+      },
+      "$description": "Halo, not a drop shadow: the light comes from the object."
+    },
+    "glow-lime": {
+      "$value": {
+        "color": "#a6e22ecc",
+        "offsetX": "0px",
+        "offsetY": "0px",
+        "blur": "18px",
+        "spread": "1px"
+      }
+    },
+    "glow-tangerine": {
+      "$value": {
+        "color": "#ff6a13a6",
+        "offsetX": "0px",
+        "offsetY": "0px",
+        "blur": "26px",
+        "spread": "2px"
+      }
+    }
+  },
+  "gradient": {
+    "$type": "gradient",
+    "chrome": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          { "color": "#fbfcfe", "position": 0 },
+          { "color": "#c3cad4", "position": 0.46 },
+          { "color": "#7d8696", "position": 0.5 },
+          { "color": "#d6dce4", "position": 0.78 },
+          { "color": "#f2f4f7", "position": 1 }
+        ]
+      },
+      "$description": "Mirror chrome: a hard horizon line near the middle."
+    },
+    "page": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          { "color": "#eef1f5", "position": 0 },
+          { "color": "#d3d9e1", "position": 0.5 },
+          { "color": "#e8ebf0", "position": 1 }
+        ]
+      }
+    },
+    "bondi": {
+      "$value": {
+        "angle": "160deg",
+        "stops": [
+          { "color": "#9ee9ff", "position": 0 },
+          { "color": "#1fb3dd", "position": 0.45 },
+          { "color": "#0079a8", "position": 1 }
+        ]
+      },
+      "$description": "Translucent Bondi blue plastic."
+    },
+    "tangerine": {
+      "$value": {
+        "angle": "160deg",
+        "stops": [
+          { "color": "#ffd29e", "position": 0 },
+          { "color": "#ff9a3d", "position": 0.45 },
+          { "color": "#ff6a13", "position": 1 }
+        ]
+      }
+    },
+    "lime": {
+      "$value": {
+        "angle": "160deg",
+        "stops": [
+          { "color": "#eaffb0", "position": 0 },
+          { "color": "#c4f050", "position": 0.45 },
+          { "color": "#8fcf1b", "position": 1 }
+        ]
+      }
+    },
+    "iridescent": {
+      "$value": {
+        "angle": "120deg",
+        "stops": [
+          { "color": "#ffd6f0", "position": 0 },
+          { "color": "#c9d9ff", "position": 0.35 },
+          { "color": "#c8fff0", "position": 0.7 },
+          { "color": "#fff3c4", "position": 1 }
+        ]
+      },
+      "$description": "A pale holographic film. Use sparingly: Eye on Design notes it was rarer in the period than in the revival."
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

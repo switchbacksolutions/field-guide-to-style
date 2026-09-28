@@ -1,0 +1,80 @@
+/* Arts and Crafts specimen. Uses tokens.css. A private-press page: linen ground, ink and madder-red type, double-ruled frames, and a flat trellis repeat on indigo. */
+* { box-sizing: border-box; }
+body { max-width: 1120px; margin: 0 auto; padding: 0 5%; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); line-height: var(--leading-body); }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 4px; }
+.specimen-back { margin: 0; padding: var(--spacing-sm) 0; font-size: var(--text-xs); }
+h1, h2, h3, .logo, .button, button, th, dt, dd, label, .card-number, .price, .site-header nav a { font-family: var(--font-display); }
+
+/* Trellis: red flower heads with four leaves on a green lattice over indigo, after Morris's Trellis wallpaper (1862). */
+:root { --trellis: radial-gradient(circle at 50% 50%, var(--color-subtle) 0 2.5px, var(--color-primary) 3px 7px, transparent 7.5px), radial-gradient(ellipse 3px 6px at 50% 24%, var(--color-accent) 0 90%, transparent 100%), radial-gradient(ellipse 3px 6px at 50% 76%, var(--color-accent) 0 90%, transparent 100%), radial-gradient(ellipse 6px 3px at 24% 50%, var(--color-accent) 0 90%, transparent 100%), radial-gradient(ellipse 6px 3px at 76% 50%, var(--color-accent) 0 90%, transparent 100%), radial-gradient(circle at 50% 50%, var(--color-subtle) 0 3px, transparent 3.5px), linear-gradient(45deg, transparent calc(50% - 0.8px), var(--color-accent) calc(50% - 0.8px) calc(50% + 0.8px), transparent calc(50% + 0.8px)), linear-gradient(-45deg, transparent calc(50% - 0.8px), var(--color-accent) calc(50% - 0.8px) calc(50% + 0.8px), transparent calc(50% + 0.8px)); }
+
+.site-header { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: var(--spacing-sm) var(--spacing-lg); padding: var(--spacing-md) 0 var(--spacing-sm); margin-bottom: var(--spacing-lg); border-bottom: var(--border-width-thick) double var(--color-border); }
+.logo { font-size: var(--text-xl); font-weight: var(--font-weight-bold); text-decoration: none; }
+.logo::before { content: "\2766"; margin-right: 8px; color: var(--color-primary); }
+.site-header nav { display: flex; flex-wrap: wrap; gap: var(--spacing-md); }
+.site-header nav a { font-size: var(--text-sm); font-style: italic; text-decoration: none; }
+.site-header nav a:hover { color: var(--color-primary); text-decoration: underline; }
+
+/* The hero is a title page: a wide trellis border around a plain text block. */
+.hero { display: grid; grid-template-columns: minmax(0, 1.35fr) minmax(0, 0.65fr); column-gap: var(--spacing-lg); align-items: start; padding: 44px; border: var(--border-width-thick) double var(--color-border); background-color: var(--color-surface); background-image: linear-gradient(var(--color-surface), var(--color-surface)), var(--trellis), linear-gradient(var(--color-secondary), var(--color-secondary)); background-size: auto, 44px 44px, 44px 44px, 44px 44px, 44px 44px, 44px 44px, 44px 44px, 44px 44px, 44px 44px, auto; background-position: 0 0, 0 0, 0 0, 0 0, 0 0, 0 0, 22px 22px, 0 0, 0 0, 0 0; background-clip: content-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box; background-origin: content-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box, padding-box; }
+.hero > * { grid-column: 1; margin-left: var(--spacing-lg); margin-right: 0; }
+.kicker { margin-top: var(--spacing-lg); margin-bottom: var(--spacing-sm); color: var(--color-primary); font-style: italic; font-size: var(--text-lg); }
+h1 { margin-top: 0; margin-bottom: 0; font-size: clamp(46px, 7vw, var(--text-5xl)); font-weight: var(--font-weight-display); line-height: var(--leading-tight); letter-spacing: var(--tracking-display); }
+h1 span { color: var(--color-primary); }
+.lede { max-width: 38ch; margin-top: var(--spacing-md); margin-bottom: var(--spacing-lg); font-size: var(--text-lg); }
+/* A decorated initial: a light letter cut out of a dark block, as in the Kelmscott woodcut initials. */
+.lede::first-letter { float: left; margin: 6px 12px 0 0; padding: 8px 12px 4px; border: var(--border-width-thin) solid var(--color-border); background: var(--color-secondary); color: var(--color-on-secondary); font-family: var(--font-display); font-size: 3.1em; font-weight: var(--font-weight-bold); line-height: 0.85; }
+.actions { display: flex; flex-wrap: wrap; gap: var(--spacing-sm) var(--spacing-md); margin-top: 0; margin-bottom: var(--spacing-lg); }
+.button, button { display: inline-block; padding: 12px 26px; border: var(--border-width-thin) solid var(--color-border); border-radius: var(--radius-none); background: var(--color-primary); color: var(--color-on-primary); font-size: var(--text-base); font-weight: var(--font-weight-bold); letter-spacing: var(--tracking-label); text-decoration: none; cursor: pointer; }
+.button:hover, button:hover { background: var(--color-text); }
+.button-secondary { background: var(--color-surface); color: var(--color-text); }
+.button-secondary:hover { background: var(--color-subtle); }
+
+.facts { grid-column: 2; grid-row: 1 / span 5; margin: var(--spacing-lg) var(--spacing-lg) var(--spacing-lg) 0; padding: var(--spacing-sm) var(--spacing-md); border: var(--border-width-thick) double var(--color-border); background: var(--color-bg); }
+.facts div { display: flex; align-items: baseline; justify-content: space-between; gap: var(--spacing-sm); padding: var(--spacing-sm) 0; }
+.facts div + div { border-top: var(--border-width-thick) double var(--color-border); }
+dt { font-size: var(--text-base); font-style: italic; color: var(--color-muted); }
+dd { margin: 0; font-size: var(--text-3xl); font-weight: var(--font-weight-bold); line-height: 1; color: var(--color-primary); }
+
+h2 { margin: var(--spacing-xl) 0 var(--spacing-md); font-size: var(--text-2xl); font-weight: var(--font-weight-display); line-height: var(--leading-tight); letter-spacing: var(--tracking-heading); }
+h2::before { content: "\2767"; margin-right: 12px; color: var(--color-primary); }
+h3 { margin: var(--spacing-sm) 0 var(--spacing-xs); font-size: var(--text-xl); font-weight: var(--font-weight-display); color: var(--color-primary); }
+.cards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: var(--spacing-md); }
+.card { padding: var(--spacing-md) var(--spacing-md) var(--spacing-lg); border: var(--border-width-thick) double var(--color-border); border-radius: var(--radius-none); background: var(--color-surface); }
+.card-number { display: inline-block; min-width: 46px; padding: 4px 8px; background: var(--color-accent); color: var(--color-on-accent); font-size: var(--text-lg); font-weight: var(--font-weight-bold); text-align: center; }
+.card p { margin: 0 0 var(--spacing-sm); }
+
+table { width: 100%; border-collapse: collapse; border: var(--border-width-thick) double var(--color-border); background: var(--color-surface); }
+th { padding: 12px 16px; font-size: var(--text-base); font-weight: var(--font-weight-bold); color: var(--color-primary); text-align: left; border-bottom: var(--border-width-thin) solid var(--color-border); }
+td { padding: 12px 16px; text-align: left; }
+tbody tr:nth-child(even) { background: var(--color-bg); }
+
+/* The quote sits in a cartouche on a length of the same trellis cloth. */
+.quote { margin: var(--spacing-2xl) 0 0; padding: var(--spacing-xl) 10%; border: var(--border-width-thick) double var(--color-border); background-color: var(--color-secondary); background-image: var(--trellis); background-size: 44px 44px; background-position: 0 0, 0 0, 0 0, 0 0, 0 0, 22px 22px, 0 0, 0 0; }
+.quote p { margin: 0; padding: var(--spacing-lg) var(--spacing-lg) var(--spacing-sm); border: var(--border-width-thick) double var(--color-border); border-bottom: 0; background: var(--color-surface); font-family: var(--font-display); font-size: var(--text-xl); font-style: italic; line-height: 1.4; }
+.quote footer { padding: 0 var(--spacing-lg) var(--spacing-lg); border: var(--border-width-thick) double var(--color-border); border-top: 0; background: var(--color-surface); color: var(--color-primary); font-size: var(--text-sm); }
+
+.card .price { margin: var(--spacing-xs) 0; font-size: var(--text-3xl); font-weight: var(--font-weight-bold); line-height: 1.1; color: var(--color-primary); }
+.card-featured { background: var(--color-subtle); }
+
+.signup { margin-top: var(--spacing-xl); padding: 0 var(--spacing-lg) var(--spacing-lg); border: var(--border-width-thick) double var(--color-border); background: var(--color-surface); }
+.signup h2 { margin-top: var(--spacing-lg); }
+form { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); align-items: stretch; max-width: 620px; }
+label { width: 100%; font-size: var(--text-base); font-style: italic; color: var(--color-muted); }
+input { flex: 1 1 240px; padding: 12px 14px; border: var(--border-width-thin) solid var(--color-border); border-radius: var(--radius-none); background: var(--color-bg); color: var(--color-text); font: inherit; }
+.note { margin-bottom: 0; font-size: var(--text-sm); font-style: italic; color: var(--color-muted); }
+.site-footer { margin-top: var(--spacing-xl); padding: var(--spacing-md) 0 var(--spacing-lg); border-top: var(--border-width-thick) double var(--color-border); font-size: var(--text-sm); color: var(--color-muted); }
+.site-footer p::before { content: "\2766"; margin-right: 8px; color: var(--color-primary); }
+
+@media (max-width: 760px) {
+  .hero { grid-template-columns: minmax(0, 1fr); padding: 22px; }
+  .hero > * { margin-left: var(--spacing-md); margin-right: var(--spacing-md); }
+  .facts { grid-column: 1; grid-row: auto; margin: 0 var(--spacing-md) var(--spacing-md); }
+  .quote { padding: var(--spacing-md); }
+  .quote p { padding: var(--spacing-md) var(--spacing-md) var(--spacing-sm); }
+  .quote footer { padding: 0 var(--spacing-md) var(--spacing-md); }
+  .signup { padding: 0 var(--spacing-md) var(--spacing-md); }
+  table { display: block; overflow-x: auto; }
+  th, td { padding: 10px 8px; }
+}

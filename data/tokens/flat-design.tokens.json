@@ -1,0 +1,258 @@
+{
+  "$description": "Authored tokens for flat-design. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#ffffff"
+    },
+    "surface": {
+      "$value": "#ffffff"
+    },
+    "subtle": {
+      "$value": "#ecf0f1",
+      "$description": "Clouds, the pale gray of the Flat UI kit (2013)."
+    },
+    "text": {
+      "$value": "#2c3e50",
+      "$description": "Midnight blue from the Flat UI kit. Text is a dark blue-gray, not black."
+    },
+    "muted": {
+      "$value": "#4f6273"
+    },
+    "border": {
+      "$value": "#bdc3c7",
+      "$description": "Silver. Rarely used: surfaces separate by fill, not by outline."
+    },
+    "primary": {
+      "$value": "#1abc9c",
+      "$description": "Turquoise, the Flat UI kit's secondary brand color. Carries dark text."
+    },
+    "on-primary": {
+      "$value": "#2c3e50"
+    },
+    "secondary": {
+      "$value": "#8e44ad",
+      "$description": "Wisteria from the Flat UI kit."
+    },
+    "on-secondary": {
+      "$value": "#ffffff"
+    },
+    "accent": {
+      "$value": "#c0392b",
+      "$description": "Pomegranate from the Flat UI kit."
+    },
+    "on-accent": {
+      "$value": "#ffffff"
+    },
+    "blue": {
+      "$value": "#1a6fb0",
+      "$description": "Belize hole (#2980b9) darkened so that white body text reaches 4.5:1."
+    },
+    "on-blue": {
+      "$value": "#ffffff"
+    },
+    "orange": {
+      "$value": "#f39c12",
+      "$description": "Orange from the Flat UI kit. Carries dark text."
+    },
+    "on-orange": {
+      "$value": "#2c3e50"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Segoe UI",
+        "Helvetica Neue",
+        "Lato",
+        "Open Sans",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Segoe UI",
+        "Helvetica Neue",
+        "Lato",
+        "Open Sans",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Consolas",
+        "Menlo",
+        "monospace"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 600
+    },
+    "display": {
+      "$value": 300,
+      "$description": "Light display type, as in Segoe WP Light on Windows Phone and Helvetica Neue Light on iOS 7."
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "16px"
+    },
+    "lg": {
+      "$value": "20px"
+    },
+    "xl": {
+      "$value": "26px"
+    },
+    "2xl": {
+      "$value": "42px"
+    },
+    "3xl": {
+      "$value": "60px"
+    },
+    "4xl": {
+      "$value": "84px"
+    },
+    "5xl": {
+      "$value": "120px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 1.0
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "4px",
+      "$description": "Controls, as in the Flat UI kit's 4 px base radius. Metro tiles stay square."
+    },
+    "md": {
+      "$value": "4px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "4px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "4px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "8px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "96px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.sm}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

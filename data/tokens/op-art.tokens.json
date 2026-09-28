@@ -1,0 +1,240 @@
+{
+  "$description": "Authored tokens for op-art. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#ffffff"
+    },
+    "surface": {
+      "$value": "#ffffff"
+    },
+    "subtle": {
+      "$value": "#e6e6e6",
+      "$description": "Light gray: a second step in the scale."
+    },
+    "text": {
+      "$value": "#000000"
+    },
+    "muted": {
+      "$value": "#3d3d3d"
+    },
+    "border": {
+      "$value": "#000000"
+    },
+    "primary": {
+      "$value": "#000000",
+      "$description": "Black: the figure. Op art works at the maximum value contrast."
+    },
+    "on-primary": {
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$value": "#ffffff",
+      "$description": "White: the ground, used as an inverted button and panel."
+    },
+    "on-secondary": {
+      "$value": "#000000"
+    },
+    "accent": {
+      "$value": "#6b6b6b",
+      "$description": "Mid gray: a step in Riley's gray scales, not a hue."
+    },
+    "on-accent": {
+      "$value": "#ffffff"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Avenir Next Condensed",
+        "Futura",
+        "Helvetica Neue",
+        "Arial Narrow",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ],
+      "$description": "Labels use the body grotesque. The style has no monospaced voice."
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 700
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "21px"
+    },
+    "xl": {
+      "$value": "28px"
+    },
+    "2xl": {
+      "$value": "40px"
+    },
+    "3xl": {
+      "$value": "60px"
+    },
+    "4xl": {
+      "$value": "92px"
+    },
+    "5xl": {
+      "$value": "148px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.9
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.12,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "9999px",
+      "$description": "Only for circles: discs and ring targets."
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "3px"
+    },
+    "thick": {
+      "$value": "8px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

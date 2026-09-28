@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/psychedelic-art/index.html",
+  "title": "Psychedelic art specimen · A Field Guide to Style",
+  "captured": "2026-09-28T16:57:16.733Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Optima",
+        "share": 0.72
+      },
+      {
+        "family": "Cooper Black",
+        "share": 0.26
+      },
+      {
+        "family": "monospace",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 18,
+    "maxSize": 144,
+    "sizeRange": 8,
+    "scaleRatio": 1.45,
+    "headingWeight": 900,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.06,
+    "monoShare": 0.02,
+    "centerShare": 1
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ff6a13",
+        "share": 0.547
+      },
+      {
+        "hex": "#240046",
+        "share": 0.113
+      },
+      {
+        "hex": "#b8f02a",
+        "share": 0.107
+      },
+      {
+        "hex": "#4a0e8f",
+        "share": 0.075
+      },
+      {
+        "hex": "#2a4dff",
+        "share": 0.055
+      },
+      {
+        "hex": "#ff3fa4",
+        "share": 0.037
+      },
+      {
+        "hex": "#ffd21f",
+        "share": 0.033
+      },
+      {
+        "hex": "#fff4d6",
+        "share": 0.033
+      }
+    ],
+    "background": "#ff6a13",
+    "text": "#240046",
+    "contrast": 6.3,
+    "chroma": 0.77,
+    "lightness": 0.5,
+    "chromaticShare": 0.85,
+    "accentChroma": 0.85,
+    "distinct": 8,
+    "hues": 6,
+    "imageShare": 0,
+    "gradientShare": 0.12,
+    "patternShare": 0.21
+  },
+  "surface": {
+    "boxes": 48,
+    "radius": {
+      "median": 28,
+      "max": 120,
+      "roundShare": 0.69
+    },
+    "border": {
+      "share": 0.19,
+      "medianWidth": 3
+    },
+    "shadow": {
+      "share": 0.1,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 0
+    },
+    "gradientShare": 0.04,
+    "patternShare": 0.04,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ff6a13",
+        "share": 0.632
+      },
+      {
+        "hex": "#4b0e8f",
+        "share": 0.113
+      },
+      {
+        "hex": "#fd3fa3",
+        "share": 0.049
+      },
+      {
+        "hex": "#fed220",
+        "share": 0.037
+      },
+      {
+        "hex": "#bbef2e",
+        "share": 0.026
+      },
+      {
+        "hex": "#2b4dfa",
+        "share": 0.02
+      },
+      {
+        "hex": "#f76529",
+        "share": 0.011
+      },
+      {
+        "hex": "#f35884",
+        "share": 0.01
+      },
+      {
+        "hex": "#5e1e83",
+        "share": 0.007
+      },
+      {
+        "hex": "#c95336",
+        "share": 0.007
+      }
+    ],
+    "background": "#ff6a13",
+    "chroma": 0.81,
+    "lightness": 0.51,
+    "chromaticShare": 0.98,
+    "accentChroma": 0.82,
+    "distinct": 5,
+    "hues": 8
+  }
+}

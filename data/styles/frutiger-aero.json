@@ -159,6 +159,11 @@
       "metric": "surface.shadow.hardShare",
       "max": 0.2,
       "note": "Shadows are blurred, not hard."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "max": 0.08,
+      "note": "Sentence-case type, not wide capitals. Calibrated 2026-09-28: the specimen and four website captures measure 0 to 0.01. Separates it from Y2K, which sets wide capitals."
     }
   ],
   "synthesis": [

@@ -1,0 +1,238 @@
+{
+  "id": "flat-design",
+  "title": "Flat design",
+  "order": 14,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Flat UI",
+    "Flat interface design",
+    "Metro (Microsoft design language)"
+  ],
+  "summary": "Solid color fields, plain sans-serif type, and no depth. Interfaces that stop imitating objects.",
+  "lede": "An interface style of about 2010–2016 that removed gradients, gloss, textures, and shadows from screens. Surfaces are solid fields of saturated color, type is a plain sans-serif that is often light, and icons are simple glyphs. This record covers the core of the style: Microsoft’s Metro design language and the flat web and app design that followed it. Material Design and “flat 2.0” are related branches that bring back some depth.",
+  "moods": [
+    "clean",
+    "bright",
+    "direct",
+    "digital"
+  ],
+  "era": {
+    "from": 2010,
+    "to": 2016,
+    "note": "Microsoft introduced Metro with Windows Phone 7 in 2010. Zune (2006) and Windows Media Center (2002) show earlier elements. NN/g dates the web trend from about 2012. Material Design (2014) and Fluent (2017) add depth again, but flat interfaces stay common."
+  },
+  "regions": [
+    "United States",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q15266360"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Flat design",
+      "url": "https://en.wikipedia.org/wiki/Flat_design",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikipedia: Metro (design language)",
+      "url": "https://en.wikipedia.org/wiki/Metro_(design_language)",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Nielsen Norman Group, Kate Moran, “Flat Design: Its Origins, Its Problems, and Why Flat 2.0 Is Better for Users” (2015)",
+      "url": "https://www.nngroup.com/articles/flat-design/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Designmodo, Flat UI Free kit on GitHub (first commit March 2013)",
+      "url": "https://github.com/designmodo/Flat-UI",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "style": "international-typographic-style",
+      "note": "Wikipedia names the International Typographic Style as the most substantial influence on flat design, and states that Metro is based on the principles of classic Swiss graphic design."
+    },
+    {
+      "relation": "influenced-by",
+      "style": "bauhaus",
+      "note": "Wikipedia lists the styles that came from the Bauhaus among the influences on flat design."
+    },
+    {
+      "relation": "reaction-against",
+      "style": "skeuomorphism",
+      "note": "NN/g (2015) describes flat design as a reaction against three-dimensional, skeuomorphic, and realistic styles. Microsoft’s documentation called Metro “authentically digital”. Apple’s iOS 7 (2013) replaced the textured interfaces of earlier versions."
+    },
+    {
+      "relation": "related-to",
+      "label": "Metro (Microsoft design language)",
+      "wikidata": "Q1148750",
+      "note": "The core branch of this record. Wikipedia describes Metro as based on flat design: typography, simplified icons, no clutter, and basic geometric shapes, with transit signage as the stated inspiration. Its colored live tiles on Windows Phone 7 (2010) and Windows 8 (2012) are the clearest examples of the style."
+    },
+    {
+      "relation": "related-to",
+      "label": "Material Design",
+      "wikidata": "Q17590603",
+      "note": "Google’s design language of 2014. NN/g (2015) calls it “flat 2.0”: flat color and type, with shadows and card layers that show hierarchy. This record treats it as a related branch, not the core."
+    },
+    {
+      "relation": "related-to",
+      "style": "minimalist-machine",
+      "note": "Both remove decoration. Minimalist Machine separates parts with thin outlines and monospaced labels. Flat design separates them with solid color fills."
+    },
+    {
+      "relation": "related-to",
+      "style": "neo-brutalism",
+      "note": "Neo-brutalism keeps flat color but adds thick outlines and hard shadows. Its record treats it as a reaction against flat design."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "No simulated depth.",
+      "text": "No gradients, gloss, bevels, textures, or drop shadows. A button is a solid color rectangle, and a panel is a solid color field."
+    },
+    {
+      "facet": "color",
+      "term": "Saturated solid fields.",
+      "text": "Several bright, clean hues, such as turquoise, blue, purple, orange, and red, fill whole bands, tiles, and buttons. Text is often a dark blue-gray instead of black, and the pale neutral is a cool gray."
+    },
+    {
+      "facet": "structure",
+      "term": "Fills, not outlines.",
+      "text": "Areas separate by a change of fill color and by space. Borders are rare or absent."
+    },
+    {
+      "facet": "type",
+      "term": "Plain, often light sans-serif.",
+      "text": "Segoe UI in Metro, Helvetica Neue in iOS 7, and Lato or Open Sans on the web. Large headings are often light or regular weight. Zune and Windows Phone set titles in large lowercase letters."
+    },
+    {
+      "facet": "layout",
+      "term": "Tiles and bands.",
+      "text": "Content sits in a grid of square or rectangular tiles, or in full-width color bands that stack down the page. Content replaces chrome."
+    },
+    {
+      "facet": "imagery",
+      "term": "Glyph icons and flat illustration.",
+      "text": "Single-color pictograms on colored squares or circles, and illustrations built from solid shapes. A 2013 branch adds long diagonal shadows to icons."
+    },
+    {
+      "facet": "motion",
+      "term": "Motion instead of depth.",
+      "text": "Metro uses motion to show state and structure: live tiles change, pages slide, and presses and swipes get an animated response. Hover and press states on the web change the fill color."
+    }
+  ],
+  "synthesis": [],
+  "rubric": {
+    "diagnostic": [
+      "Buttons, panels, and tiles are solid color fields with no gradient, gloss, or shadow.",
+      "Three or more saturated hues appear as fills, not only as text or icons.",
+      "Areas separate by fill color and space, not by outlines.",
+      "Type is a plain sans-serif, and large headings are light or regular weight.",
+      "Icons are single-color glyphs without shading."
+    ],
+    "counter": [
+      "Textures, gloss, bevels, or realistic materials.",
+      "Drop shadows or layered cards carry the hierarchy. This points to Material Design.",
+      "Thick black outlines or hard offset shadows.",
+      "Translucent, blurred panels.",
+      "A black-and-white page with one accent, where type and the grid carry the design."
+    ],
+    "confusions": [
+      {
+        "with": "international-typographic-style",
+        "difference": "The Swiss style is mostly black and white with one accent and relies on a grid and large bold type. Flat design fills large areas with several bright colors and often uses light headings."
+      },
+      {
+        "with": "minimalist-machine",
+        "difference": "Minimalist Machine outlines its boxes with thin rules and uses monospaced labels on a neutral ground. Flat design separates areas by color fill and has almost no borders."
+      },
+      {
+        "with": "bauhaus",
+        "difference": "Bauhaus uses the primary triad, heavy black bars, and circles, squares, and triangles as composition. Flat design uses a wider palette of clean secondary hues in plain rectangles and has no black bars."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Neo-brutalism outlines every block in thick black and adds hard offset shadows. Flat design has neither."
+      },
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphism imitates materials with texture, gloss, and shadow. Flat design removes all of them."
+      },
+      {
+        "with": "Material Design",
+        "difference": "Material Design keeps flat color and type but lifts cards and buttons with soft shadows and uses a floating action button. Core flat design has no shadows."
+      },
+      {
+        "with": "Corporate Memphis",
+        "difference": "Corporate Memphis is a flat illustration style of people with large limbs. It can appear on a flat interface, but it is an illustration style, not an interface style."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Fill buttons, tiles, and bands with solid colors. Change the fill on hover and press.",
+      "Use three to five saturated hues with a dark blue-gray for text and a cool pale gray for quiet areas.",
+      "Separate areas with color and space. Leave out borders on cards and panels.",
+      "Use one plain sans-serif. Set large headings in a light or regular weight and keep labels semibold.",
+      "Arrange content as tiles or full-width bands. Keep corners square, or round controls by 4 px or less.",
+      "Keep contrast at 4.5:1 for body text. Put dark text on light hues such as turquoise and white text on dark hues."
+    ],
+    "dont": [
+      "Do not use gradients, gloss, bevels, inner shadows, or textures.",
+      "Do not add drop shadows to cards or buttons. Shadows turn the page into Material Design.",
+      "Do not outline cards and tiles. Outlines turn the page into a wireframe or neo-brutalism.",
+      "Do not remove every signifier from links and buttons. NN/g found that flat elements without cues cause click uncertainty.",
+      "Do not put white text on light hues such as turquoise or yellow."
+    ],
+    "uses": [
+      "Mobile apps",
+      "Dashboards",
+      "Product and marketing sites",
+      "Operating-system shells",
+      "Infographics"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "pixels.chromaticShare",
+      "min": 0.13,
+      "note": "Saturated fills cover a large part of the first screen. Calibrated from the screenshot palette, because 2012–2014 sites draw many fills as images that computed styles do not see: color.chromaticShare failed 7 of 8 clear captures. Clear captures measured 0.14–0.63; the Flat UI demo (0.06) fails because its first screen is mostly white."
+    },
+    {
+      "metric": "pixels.hues",
+      "min": 2,
+      "note": "At least two saturated hues appear as fills. Calibrated from the screenshot palette: color.hues read 1 on 4 of 8 clear captures whose tiles are images. Clear captures measured 2–7."
+    },
+    {
+      "metric": "color.hues",
+      "min": 1,
+      "note": "At least one saturated hue is set in CSS, on bands, buttons, or links. Every clear capture measured 1–6. This keeps out image-only pages that have no measurable CSS."
+    },
+    {
+      "metric": "type.headingWeight",
+      "max": 400,
+      "note": "Large headings are light or regular, as in Metro and iOS 7. Six of eight clear captures measured 100–400. The Flat UI kit demo (700) and windows.microsoft.com 2013 (600) fail: the bold-heading web branch is real but had too few clear examples here to widen the range."
+    },
+    {
+      "metric": "surface.border.share",
+      "max": 0.7,
+      "note": "Fills, not outlines, separate the areas. Calibrated from 0.2: 4 of 8 clear captures measured 0.24–0.75, from 1 px hairline dividers and input borders on pages with few CSS-filled boxes. The Windows Dev Center 2012 capture (0.75, 4 boxes) fails. Outline-led specimens measure 0.84–1, and outlined neo-brutalist pages about 0.73."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "No drop shadows. Shadows point to Material Design. Six of eight clear captures measured 0–0.05. Flat UI Colors (0.13, 1 px blur) and Windows Azure 2013 (0.08, one page-frame shadow) fail."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Color is flat. Every clear capture measured 0."
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/new-wave-typography/index.html",
+  "title": "New Wave typography specimen · A Field Guide to Style",
+  "captured": "2026-09-28T17:16:49.326Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica Neue",
+        "share": 1
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 150,
+    "sizeRange": 9.38,
+    "scaleRatio": 1.43,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0.14,
+    "uppercaseShare": 0.22,
+    "monoShare": 0,
+    "centerShare": 0.12
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#f1efe9",
+        "share": 0.791
+      },
+      {
+        "hex": "#111111",
+        "share": 0.152
+      },
+      {
+        "hex": "#e4007c",
+        "share": 0.02
+      },
+      {
+        "hex": "#0094d4",
+        "share": 0.018
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.012
+      },
+      {
+        "hex": "#4a4a48",
+        "share": 0.004
+      },
+      {
+        "hex": "#ffe000",
+        "share": 0.003
+      }
+    ],
+    "background": "#f1efe9",
+    "text": "#111111",
+    "contrast": 16.4,
+    "chroma": 0.06,
+    "lightness": 0.78,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.87,
+    "distinct": 2,
+    "hues": 2,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0.35
+  },
+  "surface": {
+    "boxes": 47,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.79,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.19,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#f0efea",
+        "share": 0.739
+      },
+      {
+        "hex": "#0e0e0e",
+        "share": 0.048
+      },
+      {
+        "hex": "#c3c2bd",
+        "share": 0.047
+      },
+      {
+        "hex": "#0294d4",
+        "share": 0.042
+      },
+      {
+        "hex": "#9e9d98",
+        "share": 0.028
+      },
+      {
+        "hex": "#a8aaa6",
+        "share": 0.024
+      },
+      {
+        "hex": "#777670",
+        "share": 0.022
+      },
+      {
+        "hex": "#dcdad7",
+        "share": 0.012
+      },
+      {
+        "hex": "#1d2121",
+        "share": 0.01
+      },
+      {
+        "hex": "#3c3b36",
+        "share": 0.008
+      }
+    ],
+    "background": "#f0efea",
+    "chroma": 0.07,
+    "lightness": 0.81,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.77,
+    "distinct": 7,
+    "hues": 3
+  }
+}

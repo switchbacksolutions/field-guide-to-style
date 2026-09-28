@@ -1,0 +1,244 @@
+{
+  "id": "arts-and-crafts",
+  "title": "Arts and Crafts",
+  "order": 18,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Arts and Crafts movement",
+    "Arts & Crafts",
+    "Arts & Crafts Movement",
+    "Design Reform"
+  ],
+  "summary": "Flat, dense repeats of leaves and flowers, double-ruled frames, and red-and-black old-style type on linen. Handwork against the machine.",
+  "lede": "The British-led design reform movement of about 1880 to 1920, named after the Arts and Crafts Exhibition Society (1887), that set handwork and honest materials against factory production. This record covers its graphic and pattern core, the wallpapers and textiles of Morris & Co. and C. F. A. Voysey and the private-press books of the Kelmscott Press: flat, stylized plants in dense repeats, framed text blocks, and heavy old-style type. The American Craftsman and Glasgow branches are treated as related styles.",
+  "moods": [
+    "handmade",
+    "earnest",
+    "medieval",
+    "dense",
+    "rustic"
+  ],
+  "era": {
+    "from": 1880,
+    "to": 1920,
+    "note": "Wikipedia: the movement began in the 1880s, the term was first used in 1887, and it was over in the UK by about 1920. Wikidata gives 1880 to 1910. Its visual language is older: Morris’s firm began in 1861 and his first wallpaper, Trellis, dates from 1862."
+  },
+  "regions": [
+    "United Kingdom",
+    "Ireland",
+    "United States",
+    "Canada",
+    "Germany",
+    "Austria-Hungary",
+    "Finland"
+  ],
+  "identifiers": {
+    "wikidata": "Q330369",
+    "aat": "300266319"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Arts and Crafts movement",
+      "url": "https://en.wikipedia.org/wiki/Arts_and_Crafts_movement",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikidata: Arts and Crafts movement (Q330369)",
+      "url": "https://www.wikidata.org/wiki/Q330369",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Getty Art & Architecture Thesaurus: Arts and Crafts (movement) (300266319)",
+      "url": "https://vocab.getty.edu/page/aat/300266319",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "V&A: Arts and Crafts, an introduction",
+      "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Gothic Revival",
+      "wikidata": "Q186363",
+      "note": "Wikipedia: Pugin, a leader of the Gothic Revival, anticipated the movement’s truth to material, structure, and function, and medieval art was the model for much Arts and Crafts design. The Kelmscott Press books imitated 15th-century printing and were part of the Gothic revival."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Design reform (Owen Jones, The Grammar of Ornament, 1856)",
+      "note": "Wikipedia: the mid-century design reformers asked for flat, simplified natural motifs instead of illusionistic ones, and for ornament that stays secondary to the thing decorated. Flat decoration became Arts and Crafts orthodoxy. Getty AAT lists “design reform movement” as a variant name."
+    },
+    {
+      "relation": "reaction-against",
+      "label": "Industrial manufacture of the 1851 Great Exhibition",
+      "note": "Wikipedia: the reformers saw the exhibits as excessively ornate, artificial, and ignorant of their materials. Getty AAT: a reaction against industrialization and the quality of manufactured goods."
+    },
+    {
+      "relation": "related-to",
+      "style": "art-nouveau",
+      "note": "Wikipedia: some writers call Arts and Crafts the root of the British Modern Style, a form of Art Nouveau; others see the two as opposed, because Arts and Crafts criticised Art Nouveau’s industrial materials such as iron."
+    },
+    {
+      "relation": "related-to",
+      "label": "American Craftsman",
+      "wikidata": "Q463382",
+      "note": "Wikipedia: the American branch of Gustav Stickley’s Craftsman workshop and Elbert Hubbard’s Roycroft, about 1910 to 1925. Its furniture and houses are plainer, square, and use little pattern. This record treats it as related, not as the core."
+    },
+    {
+      "relation": "related-to",
+      "label": "Private press movement",
+      "wikidata": "Q748822",
+      "note": "Wikipedia: the Kelmscott Press (1891–1898) started the fine press movement, which focuses on the craft and design of hand-printed books."
+    },
+    {
+      "relation": "related-to",
+      "label": "Mingei",
+      "wikidata": "Q3314961",
+      "note": "Wikipedia: Yanagi Sōetsu’s Japanese folk-craft movement of the 1920s was influenced by Morris and Ruskin and, like Arts and Crafts, set traditional handwork against industry."
+    },
+    {
+      "relation": "related-to",
+      "style": "bauhaus",
+      "note": "Wikipedia: the simplicity of the Arts and Crafts style inspired De Stijl, the Vienna Secession, and eventually the Bauhaus; Pevsner read it as a prelude to Modernism. The Bauhaus kept the unity of art and craft and dropped the ornament."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "imagery",
+      "term": "Flat, stylized nature.",
+      "text": "Leaves, flowers, fruit, vines, and birds drawn flat with firm outlines and no shading or perspective. Voysey’s wallpapers show stylized bird and plant forms in bold outlines with flat colours."
+    },
+    {
+      "facet": "structure",
+      "term": "Dense all-over repeat.",
+      "text": "Pattern covers the whole surface on a hidden lattice, a trellis, a meander, or a turnover repeat, so that stems and leaves interlace with little plain ground showing. The repeat is symmetrical and static rather than flowing."
+    },
+    {
+      "facet": "layout",
+      "term": "Framed text block.",
+      "text": "In private-press books the text is a dense rectangular block with narrow word spaces and wide outer margins, framed by a floral border and opened by a decorated initial. Craftsman and Roycroft print frames text in heavy ruled boxes. Corners are square."
+    },
+    {
+      "facet": "type",
+      "term": "Heavy old-style roman and blackletter.",
+      "text": "Dark, sturdy type after 15th-century printers: Morris’s Golden type is a Venetian roman, and his Troy and Chaucer types are gothic. Text is black, and red marks headings, initials, and side notes."
+    },
+    {
+      "facet": "color",
+      "term": "Vegetable-dye palette.",
+      "text": "Indigo blue, madder red, leaf and olive green, weld yellow, and walnut brown on unbleached linen or cream paper. Morris rejected aniline dyes for indigo, madder, and walnut, so colours are deep but not bright."
+    },
+    {
+      "facet": "surface",
+      "term": "Visible handwork.",
+      "text": "Hand-block printing, woodcut, embroidery, and hand-hammered metal. Ashbee’s Guild of Handicraft used plain hammered silver and simple stone settings; furniture shows its oak and its joints."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "A flat, dense, all-over repeat of stylized leaves, flowers, fruit, or birds covers a field with little plain ground showing.",
+      "Motifs have firm outlines and flat colour, without shading or perspective.",
+      "Text sits in a rectilinear frame: a floral border or heavy rules, often with a decorated initial.",
+      "Type is a dark old-style roman or blackletter in black, with red for headings or initials.",
+      "Colours are dyestuff tones: indigo, madder red, leaf green, and ochre on linen or cream."
+    ],
+    "counter": [
+      "Long whiplash curves, arched panels, and open, asymmetric compositions. That points to Art Nouveau.",
+      "Stepped outlines, sunbursts, and metallic gold on black. That points to Art Deco.",
+      "Bright, saturated, or fluorescent colours.",
+      "Gradients, gloss, blur, or soft drop shadows.",
+      "Rounded cards, pill buttons, or sans-serif type with no ornament."
+    ],
+    "confusions": [
+      {
+        "with": "art-nouveau",
+        "difference": "Art Nouveau lets one long, asymmetric curve move across an open ground, inside arched or leaf-shaped panels. Arts and Crafts pattern is a dense, symmetrical repeat on a hidden lattice, inside square frames."
+      },
+      {
+        "with": "art-deco",
+        "difference": "Art Deco turns nature into rays, steps, and chevrons with machine precision, metallic colour, and spaced capitals. Arts and Crafts keeps recognizable leaves and flowers, dye colours, and mixed-case old-style type."
+      },
+      {
+        "with": "Gothic Revival and High Victorian design",
+        "difference": "Both look to the Middle Ages, but Gothic Revival ornament is architectural (pointed arches and tracery), and High Victorian goods model flowers with shading. Arts and Crafts keeps the medieval sources and draws them flat."
+      },
+      {
+        "with": "American Craftsman (Mission)",
+        "difference": "The American branch shares the ideals, but its furniture and houses are plain, square, and quartersawn oak with little pattern. This record covers the patterned graphic and textile core."
+      },
+      {
+        "with": "Glasgow Style",
+        "difference": "Mackintosh and the Glasgow School use tall, straight, elongated lines, a stylized rose, and white or lilac grounds. Arts and Crafts pattern is dense and its colours are deep dye tones."
+      },
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphism imitates materials with gradients, highlights, and shadows. Arts and Crafts shows material through flat pattern and printing, without illusion."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use an unbleached linen or cream ground with near-black ink for text, and madder red for headings, initials, and key numbers.",
+      "Fill one or two large fields with a flat, dense repeat of leaves and flowers on a lattice, in indigo, green, and red.",
+      "Frame text blocks with a double rule or a patterned border, and keep every corner square.",
+      "Set text in a sturdy old-style serif in mixed case. Open sections with a decorated initial or a fleuron such as ❦ or ❧.",
+      "Use italic for labels and secondary text instead of spaced capitals."
+    ],
+    "dont": [
+      "Do not use whiplash curves or arched panels. That points to Art Nouveau.",
+      "Do not use gradients, gloss, blur, or drop shadows. Pattern and colour stay flat.",
+      "Do not use bright aniline or fluorescent colours.",
+      "Do not shade or model the motifs. Draw them flat with outlines.",
+      "Do not round corners or use pill buttons.",
+      "Do not set headings in a sans-serif or in widely spaced capitals."
+    ],
+    "uses": [
+      "Publishers, bookshops, and letterpress studios",
+      "Craft studios and makers’ markets",
+      "Historic houses and museums",
+      "Textile, wallpaper, and interior brands"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.patternShare",
+      "min": 0.12,
+      "note": "A dense, flat repeat of flowers and leaves covers a large field, such as a border or a length of cloth. Provisional: many real sites show pattern as images, which this metric does not count."
+    },
+    {
+      "metric": "color.hues",
+      "min": 2,
+      "max": 3,
+      "note": "Two or three dye colours, such as madder red, indigo, and leaf green. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.border.medianWidth",
+      "min": 4,
+      "note": "Text blocks sit in heavy frames, drawn as double rules. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.accentChroma",
+      "min": 0.3,
+      "max": 0.55,
+      "note": "Deep vegetable-dye colours are present, weaker than primary, aniline, or neon colours. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Frames and boxes have square corners. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "Flat print and pattern, without drop shadows. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "max": 0.15,
+      "note": "Type is mixed case; labels use italic, not spaced capitals. Provisional: set from the specimen, recalibrate with measured references."
+    }
+  ]
+}

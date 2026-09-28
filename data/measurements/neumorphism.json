@@ -1,0 +1,137 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/neumorphism/index.html",
+  "title": "Neumorphism specimen · A Field Guide to Style",
+  "captured": "2026-09-28T17:16:31.422Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Nunito",
+        "share": 0.78
+      },
+      {
+        "family": "SF Pro Rounded",
+        "share": 0.2
+      },
+      {
+        "family": "SF Mono",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 88,
+    "sizeRange": 5.18,
+    "scaleRatio": 1.33,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": -0.01,
+    "uppercaseShare": 0,
+    "monoShare": 0.02,
+    "centerShare": 0.07
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#e4e9f0",
+        "share": 0.832
+      },
+      {
+        "hex": "#565c73",
+        "share": 0.096
+      },
+      {
+        "hex": "#31344b",
+        "share": 0.054
+      },
+      {
+        "hex": "#4d5ee8",
+        "share": 0.013
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.005
+      }
+    ],
+    "background": "#e4e9f0",
+    "text": "#565c73",
+    "contrast": 5.4,
+    "chroma": 0.06,
+    "lightness": 0.83,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.61,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 25,
+    "radius": {
+      "median": 20,
+      "max": 33.2,
+      "roundShare": 1
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 1,
+      "hardShare": 0,
+      "medianBlur": 12,
+      "medianOffset": 8.5
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#e4e9ef",
+        "share": 0.867
+      },
+      {
+        "hex": "#cbd3df",
+        "share": 0.052
+      },
+      {
+        "hex": "#f1f3f8",
+        "share": 0.028
+      },
+      {
+        "hex": "#b3bccf",
+        "share": 0.018
+      },
+      {
+        "hex": "#32344a",
+        "share": 0.011
+      },
+      {
+        "hex": "#5161e6",
+        "share": 0.01
+      },
+      {
+        "hex": "#9ba0b6",
+        "share": 0.01
+      },
+      {
+        "hex": "#666979",
+        "share": 0.004
+      }
+    ],
+    "background": "#e4e9ef",
+    "chroma": 0.05,
+    "lightness": 0.89,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.58,
+    "distinct": 3,
+    "hues": 1
+  }
+}

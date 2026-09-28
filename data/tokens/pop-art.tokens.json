@@ -1,0 +1,260 @@
+{
+  "$description": "Authored tokens for pop-art. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#fffbea",
+      "$description": "Newsprint white: the paper the comic panels were printed on."
+    },
+    "surface": {
+      "$value": "#ffffff",
+      "$description": "Speech balloons and caption boxes."
+    },
+    "subtle": {
+      "$value": "#fff4b8"
+    },
+    "text": {
+      "$value": "#111111"
+    },
+    "muted": {
+      "$value": "#3a3a3a"
+    },
+    "border": {
+      "$value": "#111111",
+      "$description": "Key-line black: every shape carries a heavy black outline."
+    },
+    "primary": {
+      "$value": "#d8202a",
+      "$description": "Process red. Lichtenstein used it for lips, explosions, and Ben-Day flesh tones."
+    },
+    "on-primary": {
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$value": "#1d5fc4",
+      "$description": "Process blue, for skies, hair, and dot fields."
+    },
+    "on-secondary": {
+      "$value": "#ffffff"
+    },
+    "accent": {
+      "$value": "#ffd400",
+      "$description": "Process yellow, for blondes, blasts, and caption boxes."
+    },
+    "on-accent": {
+      "$value": "#111111"
+    },
+    "dot": {
+      "$value": "#f4a3a8",
+      "$description": "Pale red for flesh-tone Ben-Day dots on white, where full red would be too dark."
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Impact",
+        "Haettenschweiler",
+        "Franklin Gothic Bold",
+        "Arial Black",
+        "sans-serif"
+      ],
+      "$description": "Condensed heavy sans for sound-effect lettering and headlines. These faces are heavy at weight 400."
+    },
+    "body": {
+      "$value": [
+        "Helvetica Neue",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Avenir Next Condensed",
+        "Arial Narrow",
+        "Helvetica Neue",
+        "sans-serif"
+      ],
+      "$description": "Caption-box and balloon lettering: bold capitals in a narrow sans, not a monospace."
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 400,
+      "$description": "Impact and Arial Black are already black faces. A synthetic bold would smear them."
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "21px"
+    },
+    "xl": {
+      "$value": "28px"
+    },
+    "2xl": {
+      "$value": "40px"
+    },
+    "3xl": {
+      "$value": "60px"
+    },
+    "4xl": {
+      "$value": "88px"
+    },
+    "5xl": {
+      "$value": "140px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.9
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": 0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.06,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px",
+      "$description": "Comic panels and caption boxes are square."
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "999px",
+      "$description": "Only for speech balloons and round badges."
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "4px",
+      "$description": "The lightest key line. Anything thinner reads as a hairline, not ink."
+    },
+    "thick": {
+      "$value": "6px",
+      "$description": "Panel borders and gutters."
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "20px"
+    },
+    "lg": {
+      "$value": "32px"
+    },
+    "xl": {
+      "$value": "56px"
+    },
+    "2xl": {
+      "$value": "96px"
+    }
+  },
+  "dot": {
+    "$type": "dimension",
+    "size": {
+      "$value": "14px",
+      "$description": "Ben-Day dot pitch. Keep the dots large enough to see as dots."
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}",
+        "textTransform": "uppercase"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}",
+        "textTransform": "uppercase"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.sm}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}",
+        "textTransform": "uppercase"
+      }
+    }
+  }
+}

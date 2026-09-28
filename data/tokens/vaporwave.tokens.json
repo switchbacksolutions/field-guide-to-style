@@ -1,0 +1,443 @@
+{
+  "$description": "Authored tokens for vaporwave. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#f7c9ec",
+      "$description": "Pale pink, under the sunset gradient."
+    },
+    "surface": {
+      "$value": "#c0c0c0",
+      "$description": "Windows 95 dialog gray."
+    },
+    "subtle": {
+      "$value": "#dfdfdf"
+    },
+    "text": {
+      "$value": "#000000"
+    },
+    "muted": {
+      "$value": "#3b3552"
+    },
+    "border": {
+      "$value": "#808080",
+      "$description": "Bevel shade."
+    },
+    "primary": {
+      "$value": "#000080",
+      "$description": "Title-bar navy."
+    },
+    "on-primary": {
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$value": "#01cdfe",
+      "$description": "Cyan."
+    },
+    "on-secondary": {
+      "$value": "#000000"
+    },
+    "accent": {
+      "$value": "#ff71ce",
+      "$description": "Hot pastel pink."
+    },
+    "on-accent": {
+      "$value": "#000000"
+    },
+    "purple": {
+      "$value": "#b967ff"
+    },
+    "mint": {
+      "$value": "#05ffa1"
+    },
+    "sun": {
+      "$value": "#fffb96"
+    },
+    "highlight": {
+      "$value": "#ffffff",
+      "$description": "Bevel light."
+    },
+    "shade": {
+      "$value": "#0a0a0a",
+      "$description": "Bevel dark edge."
+    },
+    "title-end": {
+      "$value": "#1084d0",
+      "$description": "Right end of the title-bar gradient."
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Times New Roman",
+        "Times",
+        "Liberation Serif",
+        "serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Tahoma",
+        "Verdana",
+        "MS Sans Serif",
+        "Geneva",
+        "DejaVu Sans",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "MS Gothic",
+        "Lucida Console",
+        "Courier New",
+        "monospace"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 400
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "16px"
+    },
+    "lg": {
+      "$value": "18px"
+    },
+    "xl": {
+      "$value": "22px"
+    },
+    "2xl": {
+      "$value": "28px"
+    },
+    "3xl": {
+      "$value": "40px"
+    },
+    "4xl": {
+      "$value": "56px"
+    },
+    "5xl": {
+      "$value": "88px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 1.05
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": 0.3,
+      "$description": "Imitates fullwidth letters.",
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.2,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.06,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "999px",
+      "$description": "For the sun disc only."
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "2px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "4px"
+    },
+    "sm": {
+      "$value": "8px"
+    },
+    "md": {
+      "$value": "16px"
+    },
+    "lg": {
+      "$value": "28px"
+    },
+    "xl": {
+      "$value": "48px"
+    },
+    "2xl": {
+      "$value": "80px"
+    }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "sm": {
+      "$value": [
+        {
+          "color": "#0a0a0a",
+          "offsetX": "-1px",
+          "offsetY": "-1px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        },
+        {
+          "color": "#ffffff",
+          "offsetX": "1px",
+          "offsetY": "1px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        },
+        {
+          "color": "#808080",
+          "offsetX": "-2px",
+          "offsetY": "-2px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        },
+        {
+          "color": "#dfdfdf",
+          "offsetX": "2px",
+          "offsetY": "2px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        }
+      ],
+      "$description": "Raised bevel for buttons."
+    },
+    "md": {
+      "$value": [
+        {
+          "color": "#0a0a0a",
+          "offsetX": "-1px",
+          "offsetY": "-1px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        },
+        {
+          "color": "#dfdfdf",
+          "offsetX": "1px",
+          "offsetY": "1px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        },
+        {
+          "color": "#808080",
+          "offsetX": "-2px",
+          "offsetY": "-2px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        },
+        {
+          "color": "#ffffff",
+          "offsetX": "2px",
+          "offsetY": "2px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        }
+      ],
+      "$description": "Raised bevel for windows."
+    },
+    "inset": {
+      "$value": [
+        {
+          "color": "#808080",
+          "offsetX": "1px",
+          "offsetY": "1px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        },
+        {
+          "color": "#ffffff",
+          "offsetX": "-1px",
+          "offsetY": "-1px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        },
+        {
+          "color": "#0a0a0a",
+          "offsetX": "2px",
+          "offsetY": "2px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        },
+        {
+          "color": "#dfdfdf",
+          "offsetX": "-2px",
+          "offsetY": "-2px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        }
+      ],
+      "$description": "Sunken bevel for fields and wells."
+    }
+  },
+  "gradient": {
+    "$type": "gradient",
+    "sunset": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#6f52c8",
+            "position": 0
+          },
+          {
+            "color": "#b967ff",
+            "position": 0.3
+          },
+          {
+            "color": "#ff71ce",
+            "position": 0.62
+          },
+          {
+            "color": "#ffb3b8",
+            "position": 0.85
+          },
+          {
+            "color": "#ffe0b8",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "title": {
+      "$value": {
+        "angle": "90deg",
+        "stops": [
+          {
+            "color": "#000080",
+            "position": 0
+          },
+          {
+            "color": "#1084d0",
+            "position": 1
+          }
+        ]
+      },
+      "$description": "Windows 98 title bar."
+    },
+    "sun": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#fffb96",
+            "position": 0
+          },
+          {
+            "color": "#ff9ad5",
+            "position": 0.55
+          },
+          {
+            "color": "#ff71ce",
+            "position": 1
+          }
+        ]
+      }
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.sm}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.label}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

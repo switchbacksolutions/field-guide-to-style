@@ -1,0 +1,383 @@
+{
+  "$description": "Authored tokens for material-design. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#f5f5f5",
+      "$description": "Grey 100: the pale ground under the sheets."
+    },
+    "surface": {
+      "$value": "#ffffff",
+      "$description": "Cards, sheets, and dialogs."
+    },
+    "subtle": {
+      "$value": "#eeeeee"
+    },
+    "text": {
+      "$value": "#212121",
+      "$description": "Black at 87 % opacity on white."
+    },
+    "muted": {
+      "$value": "#757575",
+      "$description": "Black at 54 % opacity on white."
+    },
+    "border": {
+      "$value": "#e0e0e0",
+      "$description": "Dividers: black at 12 % opacity."
+    },
+    "primary": {
+      "$value": "#3f51b5",
+      "$description": "Indigo 500: the app bar."
+    },
+    "on-primary": {
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$value": "#303f9f",
+      "$description": "Indigo 700: the dark primary for the status bar."
+    },
+    "on-secondary": {
+      "$value": "#ffffff"
+    },
+    "accent": {
+      "$value": "#ff4081",
+      "$description": "Pink A200: the floating action button and selection indicators. Use it for icons and large shapes, not small text."
+    },
+    "on-accent": {
+      "$value": "#ffffff"
+    },
+    "primary-light": {
+      "$value": "#c5cae9",
+      "$description": "Indigo 100."
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Roboto",
+        "Helvetica Neue",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Roboto",
+        "Helvetica Neue",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Roboto Mono",
+        "Menlo",
+        "Consolas",
+        "monospace"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 500,
+      "$description": "Roboto Medium: titles and button labels."
+    },
+    "display": {
+      "$value": 300,
+      "$description": "Roboto Light for the largest display lines."
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "16px"
+    },
+    "lg": {
+      "$value": "20px"
+    },
+    "xl": {
+      "$value": "24px"
+    },
+    "2xl": {
+      "$value": "34px"
+    },
+    "3xl": {
+      "$value": "48px"
+    },
+    "4xl": {
+      "$value": "60px"
+    },
+    "5xl": {
+      "$value": "96px"
+    },
+    "$description": "The Material Design 2 type scale: Caption, Body 2, Body 1, H6, H5, H4, H3, H2, H1."
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 1.1
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.015,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.09,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      },
+      "$description": "Button labels: 1.25 px at 14 px."
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "2px",
+      "$description": "Material 1 cards and buttons."
+    },
+    "md": {
+      "$value": "4px",
+      "$description": "Material 2 cards and buttons."
+    },
+    "lg": {
+      "$value": "8px"
+    },
+    "pill": {
+      "$value": "999px",
+      "$description": "The circular floating action button."
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "2px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "8px"
+    },
+    "sm": {
+      "$value": "16px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "96px"
+    },
+    "$description": "Multiples of the 8 dp grid."
+  },
+  "shadow": {
+    "$type": "shadow",
+    "sm": {
+      "$value": [
+        {
+          "color": "#00000024",
+          "offsetX": "0px",
+          "offsetY": "2px",
+          "blur": "2px",
+          "spread": "0px"
+        },
+        {
+          "color": "#0000001f",
+          "offsetX": "0px",
+          "offsetY": "3px",
+          "blur": "1px",
+          "spread": "-2px"
+        },
+        {
+          "color": "#00000033",
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "5px",
+          "spread": "0px"
+        }
+      ],
+      "$description": "2 dp: resting cards and raised buttons."
+    },
+    "md": {
+      "$value": [
+        {
+          "color": "#00000024",
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "5px",
+          "spread": "0px"
+        },
+        {
+          "color": "#0000001f",
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "10px",
+          "spread": "0px"
+        },
+        {
+          "color": "#00000033",
+          "offsetX": "0px",
+          "offsetY": "2px",
+          "blur": "4px",
+          "spread": "-1px"
+        }
+      ],
+      "$description": "4 dp: the app bar."
+    },
+    "fab": {
+      "$value": [
+        {
+          "color": "#00000024",
+          "offsetX": "0px",
+          "offsetY": "6px",
+          "blur": "10px",
+          "spread": "0px"
+        },
+        {
+          "color": "#0000001f",
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "18px",
+          "spread": "0px"
+        },
+        {
+          "color": "#00000033",
+          "offsetX": "0px",
+          "offsetY": "3px",
+          "blur": "5px",
+          "spread": "-1px"
+        }
+      ],
+      "$description": "6 dp: the resting floating action button."
+    },
+    "lg": {
+      "$value": [
+        {
+          "color": "#00000024",
+          "offsetX": "0px",
+          "offsetY": "8px",
+          "blur": "10px",
+          "spread": "1px"
+        },
+        {
+          "color": "#0000001f",
+          "offsetX": "0px",
+          "offsetY": "3px",
+          "blur": "14px",
+          "spread": "2px"
+        },
+        {
+          "color": "#00000033",
+          "offsetX": "0px",
+          "offsetY": "5px",
+          "blur": "5px",
+          "spread": "-3px"
+        }
+      ],
+      "$description": "8 dp: raised cards, menus, and pressed buttons."
+    }
+  },
+  "ease": {
+    "$type": "cubicBezier",
+    "standard": {
+      "$value": [
+        0.4,
+        0,
+        0.2,
+        1
+      ],
+      "$description": "The standard curve: quick acceleration, gentle deceleration."
+    }
+  },
+  "duration": {
+    "$type": "duration",
+    "short": {
+      "$value": "150ms"
+    },
+    "medium": {
+      "$value": "250ms"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.sm}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}",
+        "textTransform": "uppercase"
+      },
+      "$description": "Button labels: Medium 14 px in all capitals."
+    }
+  }
+}

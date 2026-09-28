@@ -1,0 +1,270 @@
+{
+  "$description": "Authored tokens for psychedelic-art. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#ff6a13",
+      "$description": "Hot orange ground. Color fills the whole sheet, as on a Fillmore handbill."
+    },
+    "surface": {
+      "$value": "#4a0e8f",
+      "$description": "Deep violet panel, the dark partner of the orange ground."
+    },
+    "subtle": {
+      "$value": "#ffd21f"
+    },
+    "text": {
+      "$value": "#240046",
+      "$description": "Aubergine ink instead of black. Body text keeps 4.5:1 or more on every light fill."
+    },
+    "muted": {
+      "$value": "#4a1a5e"
+    },
+    "border": {
+      "$value": "#240046"
+    },
+    "primary": {
+      "$value": "#ff3fa4",
+      "$description": "Magenta: vibrates against the orange ground and the lime accent."
+    },
+    "on-primary": {
+      "$value": "#240046"
+    },
+    "secondary": {
+      "$value": "#2a4dff",
+      "$description": "Electric blue: the complement of the orange ground."
+    },
+    "on-secondary": {
+      "$value": "#fff4d6"
+    },
+    "accent": {
+      "$value": "#b8f02a",
+      "$description": "Acid lime: the complement of magenta and violet."
+    },
+    "on-accent": {
+      "$value": "#240046"
+    },
+    "cream": {
+      "$value": "#fff4d6",
+      "$description": "Light ink for text on violet and blue."
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Cooper Black",
+        "Cooper Std",
+        "Arial Rounded MT Bold",
+        "Arial Rounded MT",
+        "Trebuchet MS",
+        "sans-serif"
+      ],
+      "$description": "Swollen, soft letters. Period posters used hand lettering. Cooper Black and rounded faces are the nearest system fonts."
+    },
+    "body": {
+      "$value": [
+        "Optima",
+        "Candara",
+        "Segoe UI",
+        "Trebuchet MS",
+        "sans-serif"
+      ],
+      "$description": "Flared humanist sans with an Art Nouveau echo."
+    },
+    "mono": {
+      "$value": [
+        "Optima",
+        "Candara",
+        "Segoe UI",
+        "sans-serif"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 900
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "13px"
+    },
+    "sm": {
+      "$value": "15px"
+    },
+    "base": {
+      "$value": "18px"
+    },
+    "lg": {
+      "$value": "22px"
+    },
+    "xl": {
+      "$value": "30px"
+    },
+    "2xl": {
+      "$value": "44px"
+    },
+    "3xl": {
+      "$value": "64px"
+    },
+    "4xl": {
+      "$value": "96px"
+    },
+    "5xl": {
+      "$value": "144px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.85
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.03,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": -0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.08,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "18px"
+    },
+    "md": {
+      "$value": "40px"
+    },
+    "lg": {
+      "$value": "96px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "3px"
+    },
+    "thick": {
+      "$value": "8px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "md": {
+      "$value": [
+        {
+          "color": "#b8f02a",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "0px",
+          "spread": "8px"
+        },
+        {
+          "color": "#ff3fa4",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "0px",
+          "spread": "16px"
+        }
+      ],
+      "$description": "Concentric echo rings around a shape, in two vibrating colors. Not depth."
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

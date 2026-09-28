@@ -1,0 +1,220 @@
+{
+  "id": "corporate-memphis",
+  "title": "Corporate Memphis",
+  "order": 27,
+  "status": "draft",
+  "naming": "internet-aesthetic",
+  "aliases": [
+    "Alegria",
+    "Alegria style",
+    "Big Tech art style",
+    "Corporate art style",
+    "Corporate tech style",
+    "Humans of Flat"
+  ],
+  "summary": "Flat cartoon people with small heads, long bendy limbs, and purple or blue skin. The friendly face of Big Tech.",
+  "lede": "A flat vector illustration style that tech companies used from about 2017 to the early 2020s: smiling figures with small heads, long elastic arms and legs, and skin in non-natural colors such as purple, blue, or pink, drawn in solid fills with no outlines or texture. The design agency Buck made the core example, the *Alegria* illustration system for Facebook (2017). Mike Merrill named the style after the Memphis Group in the title of an Are.na board, but it has almost nothing in common with that group’s work.",
+  "moods": [
+    "friendly",
+    "upbeat",
+    "inclusive",
+    "corporate",
+    "bland"
+  ],
+  "era": {
+    "from": 2017,
+    "to": 2023,
+    "note": "Facebook introduced Buck’s Alegria system in 2017. AIGA Eye on Design (2019) and Wired (2021) describe the style as everywhere in tech. Wikipedia cites Creative Bloq that by 2023 its popularity had fallen and it was used as parody. Free libraries such as Humaaans and unDraw keep it in use."
+  },
+  "regions": [
+    "United States",
+    "United Kingdom",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q105676972"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Corporate Memphis",
+      "url": "https://en.wikipedia.org/wiki/Corporate_Memphis",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "AIGA Eye on Design, Rachel Hawley, “Don’t Worry, These Gangly-armed Cartoons Are Here to Protect You From Big Tech” (21 August 2019)",
+      "url": "https://eyeondesign.aiga.org/dont-worry-these-gangley-armed-cartoons-are-here-to-protect-you-from-big-tech/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wired, Josh Gabert-Doyon, “Why does every advert look the same? Blame Corporate Memphis” (24 January 2021)",
+      "url": "https://www.wired.com/story/corporate-memphis-design-tech/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Consumer Aesthetics Research Institute: Corporate Memphis",
+      "url": "https://cari.institute/aesthetics/corporate-memphis",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "related-to",
+      "style": "memphis",
+      "note": "Named after the Memphis Group (Wikidata P138 on Q105676972). The Consumer Aesthetics Research Institute states that the style “rarely carries any resemblance” to the group’s work. The shared traits are bright color and geometric shapes, not pattern or furniture form."
+    },
+    {
+      "relation": "descendant-of",
+      "style": "flat-design",
+      "note": "Wikipedia dates the roots of the style to 2013, when Apple moved from skeuomorphism to flat design. The figures use the same solid fills, with no gradient, gloss, or texture, and the illustrations sit in flat interfaces."
+    },
+    {
+      "relation": "related-to",
+      "style": "material-design",
+      "note": "Wikipedia lists Material Design as a Google design language linked to Corporate Memphis. Google products and marketing used both at the same time."
+    },
+    {
+      "relation": "related-to",
+      "style": "frutiger-aero",
+      "note": "Wikipedia names Frutiger Aero as the prominent style that came before Corporate Memphis. Frutiger Aero is glossy, photographic, and skeuomorphic. Corporate Memphis replaced it with flat cartoon figures."
+    },
+    {
+      "relation": "related-to",
+      "label": "Modernist figure distortion",
+      "note": "Wikipedia compares the exaggerated proportions with modernist paintings such as Matisse’s *The Dance* (1910), and CARI lists Matisse-influenced graphics among the traits. This is a comparison, not a documented line of descent."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "imagery",
+      "term": "Gangly figures.",
+      "text": "Cartoon people with small heads, long elastic arms and legs, large hands and feet, and simple torsos. AIGA Eye on Design describes limbs “arching away from their bodies like giant wet noodles”. Faces have few features or none."
+    },
+    {
+      "facet": "color",
+      "term": "Non-natural skin.",
+      "text": "Skin is purple, blue, pink, orange, or green. The Buck illustrator Xoana Herrera describes the characters as “ethnically non-specific”. The rest of the palette is a small set of bright solid colors on white or a pale pastel."
+    },
+    {
+      "facet": "surface",
+      "term": "Flat vector fills.",
+      "text": "Solid fills with no outlines, no texture, and no shading, or one flat shadow tone at most. Wired quotes the illustrator Jack Hurley on its “simple shapes [and] untextured colours”."
+    },
+    {
+      "facet": "structure",
+      "term": "Assembled from simple shapes.",
+      "text": "Bodies are built from circles, pills, and rounded blocks, so many artists and libraries can make matching figures. Humaaans (Pablo Stanley, 2018) sells this as mix-and-match heads, tops, and legs."
+    },
+    {
+      "facet": "motion",
+      "term": "Always in action.",
+      "text": "Figures dance, run, high-five, water plants, or carry oversized objects such as a pencil, a trombone, or a calendar. In animation the long limbs swing and bend."
+    },
+    {
+      "facet": "layout",
+      "term": "Spot illustration in white space.",
+      "text": "Scenes fill hero areas, onboarding screens, and empty, error, and success states on a white or pale page. Pastel blobs and potted plants sit behind the figures. The interface around them uses rounded cards and pill buttons."
+    },
+    {
+      "facet": "type",
+      "term": "Friendly geometric sans.",
+      "text": "Headings are a bold geometric or rounded sans-serif in sentence case. CARI lists geometric sans typefaces among the traits of the friendly corporate look. The type supports the illustration and does not carry the style."
+    }
+  ],
+  "synthesis": [],
+  "rubric": {
+    "diagnostic": [
+      "People are drawn with small heads and long, bendy arms and legs.",
+      "Skin is a non-natural color such as purple, blue, pink, or green.",
+      "Shapes are solid fills with no outlines, texture, or shading.",
+      "Figures act out an activity, often with an oversized object: a pencil, a phone, a leaf, or a speech bubble.",
+      "The illustration sits on a white or pale page, often in front of a pastel blob."
+    ],
+    "counter": [
+      "Ink outlines, hatching, or grain texture on the figures.",
+      "Realistic proportions and natural skin tones throughout.",
+      "Photography, 3D rendering, or gloss carries the images.",
+      "Laminate patterns, squiggles, and toy-like furniture without figures. This points to Memphis.",
+      "An interface of color fields and glyph icons with no illustrated people. This points to flat design."
+    ],
+    "confusions": [
+      {
+        "with": "memphis",
+        "difference": "Memphis is about laminate pattern, clashing color, and toy-like object form, and has no gangly figures. Corporate Memphis borrows the name, not the look."
+      },
+      {
+        "with": "flat-design",
+        "difference": "Flat design is an interface style of solid color tiles and glyph icons. Corporate Memphis is an illustration style of people. A flat interface without figures is flat design."
+      },
+      {
+        "with": "material-design",
+        "difference": "Material Design lifts cards and buttons with shadows. Its product illustrations sometimes use flat figures, but the style of the interface is not the style of the illustration."
+      },
+      {
+        "with": "mid-century-modern",
+        "difference": "Mid-century figures are geometric, often outlined, and printed in warm, muted colors on paper. Corporate Memphis figures have smooth vector fills, bright saturated colors, and long bendy limbs."
+      },
+      {
+        "with": "Isometric illustration",
+        "difference": "A variant draws the same flat figures in isometric projection with buildings and devices. Treat it as Corporate Memphis when the figures have the gangly proportions."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Draw people from simple shapes: a small circle for the head, a rounded block for the torso, and long, curved limbs.",
+      "Give skin a non-natural color such as violet, blue, pink, or green, and keep hair and trousers in the dark text color.",
+      "Show each figure doing something with an oversized object, such as a pencil, a phone, or a leaf.",
+      "Put the illustration on a white or warm white page, in front of a pastel blob.",
+      "Use a small palette: one strong violet or blue, a coral, a yellow, and a green for plants.",
+      "Round every card, panel, and button. Use pill shapes for buttons and inputs.",
+      "Use a bold geometric sans-serif for headings in sentence case."
+    ],
+    "dont": [
+      "Do not outline shapes. Separate them by color.",
+      "Do not add texture, grain, gradients, or glossy highlights.",
+      "Do not use drop shadows on cards or buttons.",
+      "Do not draw detailed faces or realistic proportions.",
+      "Do not fill backgrounds with repeating patterns. That points to Memphis.",
+      "Do not let figures overlap body text. Keep the illustration in its own area."
+    ],
+    "uses": [
+      "Startup and SaaS landing pages",
+      "Onboarding and empty states",
+      "Fintech and property marketing",
+      "Transit and public-service posters",
+      "Explainer videos"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.radius.roundShare",
+      "min": 0.8,
+      "note": "Almost every card, panel, button, and input is rounded, and buttons and inputs are pills. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.median",
+      "min": 20,
+      "note": "Corners are large, not just softened: soft cards and blob-like panels. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "pixels.hues",
+      "min": 4,
+      "note": "The illustrations use several bright hues at once, such as violet skin, a yellow shirt, coral shoes, and green leaves. Measured on screenshot pixels so that colors in SVG and image illustrations count. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.headingWeight",
+      "min": 600,
+      "note": "Headings are a bold or heavy friendly sans-serif. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "Flat: no drop shadows on cards or buttons. Shadows point to Material Design or neumorphism. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Solid fills only, no gradients. Provisional: set from the specimen, recalibrate with measured references."
+    }
+  ]
+}

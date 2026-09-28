@@ -1,0 +1,169 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/vaporwave/index.html",
+  "title": "Vaporwave specimen · A Field Guide to Style",
+  "captured": "2026-09-28T16:56:27.256Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Tahoma",
+        "share": 0.84
+      },
+      {
+        "family": "Times New Roman",
+        "share": 0.1
+      },
+      {
+        "family": "MS Gothic",
+        "share": 0.05
+      },
+      {
+        "family": "monospace",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 76,
+    "sizeRange": 4.75,
+    "scaleRatio": 1.82,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0.2,
+    "uppercaseShare": 0.01,
+    "monoShare": 0.07,
+    "centerShare": 0.11
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#c0c0c0",
+        "share": 0.236
+      },
+      {
+        "hex": "#000000",
+        "share": 0.125
+      },
+      {
+        "hex": "#ff71ce",
+        "share": 0.104
+      },
+      {
+        "hex": "#6f52c8",
+        "share": 0.101
+      },
+      {
+        "hex": "#b967ff",
+        "share": 0.101
+      },
+      {
+        "hex": "#ffb3b8",
+        "share": 0.101
+      },
+      {
+        "hex": "#ffe0b8",
+        "share": 0.101
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.071
+      },
+      {
+        "hex": "#000080",
+        "share": 0.028
+      },
+      {
+        "hex": "#1084d0",
+        "share": 0.023
+      }
+    ],
+    "background": "#c0c0c0",
+    "text": "#000000",
+    "contrast": 11.5,
+    "chroma": 0.26,
+    "lightness": 0.64,
+    "chromaticShare": 0.36,
+    "accentChroma": 0.55,
+    "distinct": 10,
+    "hues": 4,
+    "imageShare": 0,
+    "gradientShare": 0.66,
+    "patternShare": 0.23
+  },
+  "surface": {
+    "boxes": 62,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.34,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.53,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 2.8
+    },
+    "gradientShare": 0.19,
+    "patternShare": 0.02,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#f472d6",
+        "share": 0.111
+      },
+      {
+        "hex": "#d26eef",
+        "share": 0.108
+      },
+      {
+        "hex": "#fe8ac8",
+        "share": 0.099
+      },
+      {
+        "hex": "#a464ef",
+        "share": 0.094
+      },
+      {
+        "hex": "#c0c1c1",
+        "share": 0.091
+      },
+      {
+        "hex": "#8658d9",
+        "share": 0.076
+      },
+      {
+        "hex": "#fec3b9",
+        "share": 0.072
+      },
+      {
+        "hex": "#be6bfb",
+        "share": 0.059
+      },
+      {
+        "hex": "#7252ca",
+        "share": 0.051
+      },
+      {
+        "hex": "#0d148d",
+        "share": 0.032
+      }
+    ],
+    "background": "#f472d6",
+    "chroma": 0.41,
+    "lightness": 0.68,
+    "chromaticShare": 0.75,
+    "accentChroma": 0.5,
+    "distinct": 15,
+    "hues": 5
+  }
+}

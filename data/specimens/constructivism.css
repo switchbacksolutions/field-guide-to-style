@@ -1,0 +1,83 @@
+/* Constructivism specimen. Uses tokens.css. Red and black on paper, heavy condensed capitals, diagonal bars and wedges. */
+* { box-sizing: border-box; }
+body { max-width: 1240px; margin: 0 auto; padding: 0 5%; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); line-height: var(--leading-body); }
+a { color: inherit; }
+:focus-visible { outline: 4px solid var(--color-primary); outline-offset: 3px; }
+.specimen-back { margin: 0; padding: var(--spacing-sm) 0; font-size: var(--text-xs); }
+h1, h2, h3, .logo, .kicker, nav a, .button, button, th, dt, dd, label, .price, .card-number, .quote p, .quote footer, .site-footer { font-family: var(--font-display); font-weight: var(--font-weight-display); text-transform: uppercase; }
+
+.site-header { display: flex; justify-content: space-between; align-items: center; gap: var(--spacing-md); flex-wrap: wrap; padding: var(--spacing-sm) 0; border-top: var(--border-width-thick) solid var(--color-text); border-bottom: var(--border-width-thin) solid var(--color-text); }
+.logo { display: inline-flex; align-items: center; gap: 12px; font-size: var(--text-xl); line-height: 1; text-decoration: none; }
+.logo::before { content: ""; width: 34px; height: 26px; background: var(--color-primary); clip-path: polygon(0 0, 100% 50%, 0 100%); }
+.site-header nav { display: flex; gap: var(--spacing-md); }
+.site-header nav a { text-decoration: none; font-size: var(--text-lg); letter-spacing: var(--tracking-label); }
+
+/* Hero: a red band crosses the page on the diagonal; the headline tilts against it. */
+main { overflow-x: clip; }
+.hero { position: relative; padding: var(--spacing-xl) 0 var(--spacing-lg); isolation: isolate; }
+.hero::before { content: ""; position: absolute; z-index: -1; right: -20%; top: 18%; width: 78%; height: 190px; background: var(--color-primary); transform: rotate(-24deg); }
+.hero::after { content: ""; position: absolute; z-index: -1; right: 6%; top: 4%; width: 230px; height: 230px; border-radius: 50%; background: var(--color-text); }
+.kicker { display: inline-block; margin: 0 0 var(--spacing-lg); padding: 8px 16px; background: var(--color-text); color: var(--color-bg); font-size: var(--text-lg); letter-spacing: var(--tracking-label); transform: rotate(-4deg); transform-origin: left bottom; }
+h1 { max-width: 8ch; margin: 0; font-size: clamp(64px, 13vw, var(--text-5xl)); line-height: var(--leading-tight); letter-spacing: var(--tracking-display); transform: rotate(-7deg); transform-origin: left top; }
+h1 span { display: inline-block; margin-top: 0.08em; padding: 0 0.12em; background: var(--color-primary); color: var(--color-on-primary); }
+.lede { max-width: 36ch; margin: var(--spacing-xl) 0 var(--spacing-lg); padding: var(--spacing-sm) var(--spacing-md); border-left: var(--border-width-thick) solid var(--color-primary); background: var(--color-bg); font-size: var(--text-lg); }
+.actions { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); margin: 0 0 var(--spacing-lg); }
+.button, button { display: inline-block; padding: 14px 26px; border: 0; border-radius: var(--radius-md); background: var(--color-text); color: var(--color-bg); font-size: var(--text-lg); letter-spacing: var(--tracking-label); line-height: 1.1; text-decoration: none; cursor: pointer; }
+.button-secondary { background: var(--color-primary); color: var(--color-on-primary); }
+.facts { display: flex; margin: 0; width: fit-content; background: var(--color-subtle); border: var(--border-width-thin) solid var(--color-text); }
+/* A second, darker bar runs parallel to the red band, as in layered poster bars. */
+.facts::after { content: ""; position: absolute; z-index: -1; right: -14%; bottom: 150px; width: 64%; height: 96px; background: var(--color-accent); transform: rotate(-24deg); }
+.facts div { padding: var(--spacing-sm) var(--spacing-md); border-right: var(--border-width-thin) solid var(--color-text); }
+.facts div:last-child { border-right: 0; }
+dt { font-size: var(--text-sm); letter-spacing: var(--tracking-label); }
+dd { margin: 0; color: var(--color-primary); font-size: var(--text-3xl); line-height: 0.9; }
+
+h2 { display: flex; align-items: center; gap: var(--spacing-md); margin: var(--spacing-2xl) 0 var(--spacing-md); font-size: var(--text-3xl); line-height: var(--leading-tight); letter-spacing: var(--tracking-display); }
+h2::before { content: ""; flex: 0 0 72px; height: 44px; background: var(--color-primary); clip-path: polygon(0 0, 100% 50%, 0 100%); }
+h3 { margin: var(--spacing-sm) 0 var(--spacing-xs); font-size: var(--text-xl); line-height: 1; }
+.cards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: var(--spacing-md); }
+.card { position: relative; padding: var(--spacing-md); border: var(--border-width-thin) solid var(--color-text); border-top-width: var(--border-width-thick); background: var(--color-surface); }
+.features .card { background: var(--color-subtle); }
+.card-number { position: absolute; top: var(--spacing-sm); right: var(--spacing-md); color: var(--color-primary); font-size: var(--text-3xl); line-height: 1; }
+.features .card:nth-child(2) { transform: translateY(var(--spacing-lg)); }
+.features .card:nth-child(3) { transform: translateY(calc(var(--spacing-lg) * 2)); }
+
+.programme { margin-top: var(--spacing-2xl); }
+table { width: 100%; border-collapse: collapse; }
+th { text-align: left; padding: 10px 12px; background: var(--color-accent); color: var(--color-on-accent); font-size: var(--text-lg); letter-spacing: var(--tracking-label); }
+td { padding: 12px; border-bottom: var(--border-width-thin) solid var(--color-text); }
+td:first-child, td:nth-child(2) { font-family: var(--font-display); font-weight: var(--font-weight-display); font-size: var(--text-xl); line-height: 1; text-transform: uppercase; }
+td:first-child { color: var(--color-primary); }
+tbody tr:nth-child(even) td { background: var(--color-subtle); }
+
+.quote { position: relative; margin: var(--spacing-2xl) 0 0; padding: var(--spacing-xl) var(--spacing-xl) var(--spacing-xl) 220px; overflow: hidden; background: var(--color-primary); color: var(--color-on-primary); }
+.quote::before { content: ""; position: absolute; left: -70px; top: 62%; width: 260px; height: 56px; background: var(--color-text); transform: rotate(-35deg); }
+.quote p { max-width: 24ch; margin: 0 0 var(--spacing-sm); font-size: var(--text-2xl); line-height: 0.98; }
+.quote footer { font-size: var(--text-lg); letter-spacing: var(--tracking-label); }
+
+.card .price { margin: 0; font-size: var(--text-4xl); line-height: 0.9; }
+.card-featured { background: var(--color-accent); color: var(--color-on-accent); border-color: var(--color-text); }
+.card-featured .button { background: var(--color-text); color: var(--color-bg); }
+
+form { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); align-items: end; }
+label { width: 100%; font-size: var(--text-xl); }
+input { flex: 1 1 260px; padding: 12px; border: 0; border-bottom: var(--border-width-thick) solid var(--color-text); border-radius: var(--radius-md); background: var(--color-subtle); font: inherit; }
+button { background: var(--color-primary); color: var(--color-on-primary); }
+.note { font-size: var(--text-sm); color: var(--color-muted); }
+.site-footer { margin-top: var(--spacing-xl); padding: var(--spacing-md) var(--spacing-md); background: var(--color-text); color: var(--color-bg); font-size: var(--text-sm); letter-spacing: var(--tracking-label); }
+.site-footer code { font-family: inherit; text-transform: none; }
+
+@media (max-width: 640px) {
+  .hero::before { width: 120%; height: 110px; right: -50%; top: 30%; }
+  .hero::after { width: 120px; height: 120px; right: -4%; }
+  .site-header nav { gap: var(--spacing-sm); }
+  .site-header nav a, .kicker { font-size: var(--text-base); }
+  h1 { font-size: 64px; }
+  h2 { font-size: var(--text-2xl); gap: var(--spacing-sm); }
+  h2::before { flex-basis: 40px; height: 26px; }
+  .facts::after { width: 90%; height: 48px; right: -30%; bottom: 40px; }
+  .features .card:nth-child(n) { transform: none; }
+  .quote { padding: 120px var(--spacing-md) var(--spacing-md); }
+  .quote::before { left: -20px; top: 40px; width: 220px; height: 40px; transform: rotate(-20deg); }
+  table { display: block; overflow-x: auto; }
+}

@@ -1,0 +1,153 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/arts-and-crafts/index.html",
+  "title": "Arts and Crafts specimen · A Field Guide to Style",
+  "captured": "2026-09-28T17:16:35.767Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Iowan Old Style",
+        "share": 0.64
+      },
+      {
+        "family": "Hoefler Text",
+        "share": 0.34
+      },
+      {
+        "family": "monospace",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 18,
+    "maxSize": 82,
+    "sizeRange": 4.56,
+    "scaleRatio": 1.31,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0.02,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#eee6d3",
+        "share": 0.455
+      },
+      {
+        "hex": "#f6f0e1",
+        "share": 0.316
+      },
+      {
+        "hex": "#1e1a15",
+        "share": 0.122
+      },
+      {
+        "hex": "#24497f",
+        "share": 0.036
+      },
+      {
+        "hex": "#e2d5b8",
+        "share": 0.026
+      },
+      {
+        "hex": "#9b3324",
+        "share": 0.026
+      },
+      {
+        "hex": "#594f42",
+        "share": 0.019
+      }
+    ],
+    "background": "#eee6d3",
+    "text": "#1e1a15",
+    "contrast": 13.9,
+    "chroma": 0.11,
+    "lightness": 0.75,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.4,
+    "distinct": 6,
+    "hues": 2,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0.17
+  },
+  "surface": {
+    "boxes": 31,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.84,
+      "medianWidth": 6
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.06,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#eee6d3",
+        "share": 0.566
+      },
+      {
+        "hex": "#f6f0e0",
+        "share": 0.228
+      },
+      {
+        "hex": "#23487d",
+        "share": 0.041
+      },
+      {
+        "hex": "#395f57",
+        "share": 0.019
+      },
+      {
+        "hex": "#9d9285",
+        "share": 0.019
+      },
+      {
+        "hex": "#2d526a",
+        "share": 0.017
+      },
+      {
+        "hex": "#943829",
+        "share": 0.015
+      },
+      {
+        "hex": "#7b766b",
+        "share": 0.014
+      },
+      {
+        "hex": "#8e7d70",
+        "share": 0.012
+      },
+      {
+        "hex": "#c5b4a4",
+        "share": 0.011
+      }
+    ],
+    "background": "#eee6d3",
+    "chroma": 0.12,
+    "lightness": 0.8,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.37,
+    "distinct": 3,
+    "hues": 2
+  }
+}

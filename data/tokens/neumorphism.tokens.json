@@ -1,0 +1,335 @@
+{
+  "$description": "Authored tokens for neumorphism. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#e4e9f0",
+      "$description": "One pale blue-gray surface. Not white, so the light shadow shows."
+    },
+    "surface": {
+      "$value": "#e4e9f0",
+      "$description": "Cards and controls share the background color."
+    },
+    "subtle": {
+      "$value": "#dde3eb",
+      "$description": "Pressed wells, a shade darker."
+    },
+    "text": {
+      "$value": "#31344b"
+    },
+    "muted": {
+      "$value": "#565c73"
+    },
+    "border": {
+      "$value": "#d1d9e6",
+      "$description": "Hairline for focus and table rows only."
+    },
+    "primary": {
+      "$value": "#4d5ee8",
+      "$description": "The single accent: primary action and active state."
+    },
+    "on-primary": {
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$value": "#e4e9f0",
+      "$description": "Secondary actions are raised surface, not a second hue."
+    },
+    "on-secondary": {
+      "$value": "#31344b"
+    },
+    "accent": {
+      "$value": "#4d5ee8",
+      "$description": "Same hue as primary; neumorphism keeps one accent."
+    },
+    "on-accent": {
+      "$value": "#ffffff"
+    },
+    "shade": {
+      "$value": "#a3b1c6",
+      "$description": "Dark shadow, down and right."
+    },
+    "light": {
+      "$value": "#ffffff",
+      "$description": "Light shadow, up and left."
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "SF Pro Rounded",
+        "Nunito",
+        "Varela Round",
+        "Avenir Next",
+        "Segoe UI",
+        "system-ui",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Nunito",
+        "Avenir Next",
+        "Segoe UI",
+        "system-ui",
+        "-apple-system",
+        "Helvetica Neue",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "SF Mono",
+        "Menlo",
+        "Consolas",
+        "monospace"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 700
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "21px"
+    },
+    "xl": {
+      "$value": "28px"
+    },
+    "2xl": {
+      "$value": "38px"
+    },
+    "3xl": {
+      "$value": "48px"
+    },
+    "4xl": {
+      "$value": "64px"
+    },
+    "5xl": {
+      "$value": "88px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 1.05
+    },
+    "body": {
+      "$value": 1.6
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": -0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.06,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "20px"
+    },
+    "lg": {
+      "$value": "32px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "2px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "8px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "md": {
+      "$value": "28px"
+    },
+    "lg": {
+      "$value": "48px"
+    },
+    "xl": {
+      "$value": "72px"
+    },
+    "2xl": {
+      "$value": "112px"
+    }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "sm": {
+      "$value": [
+        {
+          "color": "#a3b1c6",
+          "offsetX": "5px",
+          "offsetY": "5px",
+          "blur": "10px",
+          "spread": "0px"
+        },
+        {
+          "color": "#ffffff",
+          "offsetX": "-5px",
+          "offsetY": "-5px",
+          "blur": "10px",
+          "spread": "0px"
+        }
+      ],
+      "$description": "Raised: buttons, chips, knobs."
+    },
+    "md": {
+      "$value": [
+        {
+          "color": "#a3b1c6",
+          "offsetX": "10px",
+          "offsetY": "10px",
+          "blur": "20px",
+          "spread": "0px"
+        },
+        {
+          "color": "#ffffff",
+          "offsetX": "-10px",
+          "offsetY": "-10px",
+          "blur": "20px",
+          "spread": "0px"
+        }
+      ],
+      "$description": "Raised: cards and panels."
+    },
+    "lg": {
+      "$value": [
+        {
+          "color": "#a3b1c6",
+          "offsetX": "16px",
+          "offsetY": "16px",
+          "blur": "32px",
+          "spread": "0px"
+        },
+        {
+          "color": "#ffffff",
+          "offsetX": "-16px",
+          "offsetY": "-16px",
+          "blur": "32px",
+          "spread": "0px"
+        }
+      ],
+      "$description": "Raised: hero panel."
+    },
+    "inset": {
+      "$value": [
+        {
+          "color": "#a3b1c6",
+          "offsetX": "6px",
+          "offsetY": "6px",
+          "blur": "12px",
+          "spread": "0px",
+          "inset": true
+        },
+        {
+          "color": "#ffffff",
+          "offsetX": "-6px",
+          "offsetY": "-6px",
+          "blur": "12px",
+          "spread": "0px",
+          "inset": true
+        }
+      ],
+      "$description": "Pressed: inputs, wells, active states."
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

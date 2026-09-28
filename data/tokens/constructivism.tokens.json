@@ -1,0 +1,240 @@
+{
+  "$description": "Authored tokens for constructivism. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#eee6d6",
+      "$description": "Unprinted paper."
+    },
+    "surface": {
+      "$value": "#eee6d6"
+    },
+    "subtle": {
+      "$value": "#d6c9b1",
+      "$description": "Screened tint of black on paper, used for panels and rows."
+    },
+    "text": {
+      "$value": "#161412"
+    },
+    "muted": {
+      "$value": "#4b4540"
+    },
+    "border": {
+      "$value": "#161412"
+    },
+    "primary": {
+      "$value": "#d2231b",
+      "$description": "Poster red, the one strong hue."
+    },
+    "on-primary": {
+      "$value": "#f7f0e3"
+    },
+    "secondary": {
+      "$value": "#161412",
+      "$description": "Printing black: the second color of most posters."
+    },
+    "on-secondary": {
+      "$value": "#eee6d6"
+    },
+    "accent": {
+      "$value": "#9c1b14",
+      "$description": "Dark red for a second tone of the same hue, not a new hue."
+    },
+    "on-accent": {
+      "$value": "#f7f0e3"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Avenir Next Condensed",
+        "DIN Condensed",
+        "Impact",
+        "Haettenschweiler",
+        "Arial Narrow",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Avenir Next Condensed",
+        "DIN Condensed",
+        "Arial Narrow",
+        "sans-serif"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 800
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "21px"
+    },
+    "xl": {
+      "$value": "30px"
+    },
+    "2xl": {
+      "$value": "44px"
+    },
+    "3xl": {
+      "$value": "64px"
+    },
+    "4xl": {
+      "$value": "104px"
+    },
+    "5xl": {
+      "$value": "168px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.86
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.08,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "0px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "3px"
+    },
+    "thick": {
+      "$value": "14px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

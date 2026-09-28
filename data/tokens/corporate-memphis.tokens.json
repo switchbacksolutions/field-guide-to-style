@@ -1,0 +1,273 @@
+{
+  "$description": "Authored tokens for corporate-memphis. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#fffaf4",
+      "$description": "Warm white. Illustrations sit on white or near-white pages."
+    },
+    "surface": {
+      "$value": "#ffffff"
+    },
+    "subtle": {
+      "$value": "#eee9ff",
+      "$description": "Pale lavender for the blob behind a scene."
+    },
+    "text": {
+      "$value": "#1d1b4f",
+      "$description": "Deep indigo for text, hair, and trousers. Softer than black."
+    },
+    "muted": {
+      "$value": "#4b4878"
+    },
+    "border": {
+      "$value": "#d8d2f7",
+      "$description": "Rarely used: shapes separate by color, not outline."
+    },
+    "primary": {
+      "$value": "#6147ff",
+      "$description": "Violet: brand color and the most common non-natural skin tone."
+    },
+    "on-primary": {
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$value": "#ff6a4d",
+      "$description": "Coral for shoes, pots, and secondary actions."
+    },
+    "on-secondary": {
+      "$value": "#1d1b4f"
+    },
+    "accent": {
+      "$value": "#ffc233",
+      "$description": "Yellow for shirts and highlights."
+    },
+    "on-accent": {
+      "$value": "#1d1b4f"
+    },
+    "pink": {
+      "$value": "#ff8cbf",
+      "$description": "A second skin tone."
+    },
+    "on-pink": {
+      "$value": "#1d1b4f"
+    },
+    "sky": {
+      "$value": "#3d9bff",
+      "$description": "A third skin tone and a shirt color."
+    },
+    "on-sky": {
+      "$value": "#1d1b4f"
+    },
+    "leaf": {
+      "$value": "#18a36d",
+      "$description": "Plant green."
+    },
+    "on-leaf": {
+      "$value": "#1d1b4f"
+    },
+    "peach": {
+      "$value": "#ffe6dc",
+      "$description": "Pale peach blob."
+    },
+    "mint": {
+      "$value": "#d9f6ea",
+      "$description": "Pale mint blob."
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Avenir Next",
+        "Nunito",
+        "Segoe UI",
+        "Helvetica Neue",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Avenir Next",
+        "Nunito",
+        "Segoe UI",
+        "Helvetica Neue",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "SF Mono",
+        "Menlo",
+        "Consolas",
+        "monospace"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 800
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "13px"
+    },
+    "sm": {
+      "$value": "15px"
+    },
+    "base": {
+      "$value": "18px"
+    },
+    "lg": {
+      "$value": "21px"
+    },
+    "xl": {
+      "$value": "26px"
+    },
+    "2xl": {
+      "$value": "38px"
+    },
+    "3xl": {
+      "$value": "52px"
+    },
+    "4xl": {
+      "$value": "64px"
+    },
+    "5xl": {
+      "$value": "80px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 1.05
+    },
+    "body": {
+      "$value": 1.6
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": -0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "2px"
+    },
+    "thick": {
+      "$value": "4px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "8px"
+    },
+    "sm": {
+      "$value": "16px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "72px"
+    },
+    "2xl": {
+      "$value": "112px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

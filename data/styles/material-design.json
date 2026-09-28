@@ -1,0 +1,237 @@
+{
+  "id": "material-design",
+  "title": "Material Design",
+  "order": 25,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Quantum Paper (Google codename)",
+    "Google Material Design",
+    "Material Design 1 and 2",
+    "Flat 2.0 (partial)"
+  ],
+  "summary": "Flat color on sheets of paper that float at set heights. Soft shadows, a bold primary bar, and a round action button.",
+  "lede": "Google’s design language of 2014 to 2020. Interface parts are sheets of “material” that sit at fixed elevations above a pale ground, and soft shadows show how high each sheet floats. Color is flat: one bold primary fills the app bar, and a contrasting accent marks the floating action button. This record covers Material Design 1 (2014) and Material Design 2 (2018). Material You (Material Design 3, 2021) is a related branch with tonal color from the wallpaper and large rounded shapes.",
+  "moods": [
+    "orderly",
+    "tactile",
+    "bright",
+    "systematic"
+  ],
+  "era": {
+    "from": 2014,
+    "to": 2020,
+    "note": "Google announced Material Design at Google I/O on 25 June 2014, and Android 5.0 Lollipop shipped it later that year. The card interface of Google Now (2012) came first. Material Design 2 followed in 2018 with Android Pie. Material You replaced it on Android 12 in 2021, but Material 1 and 2 component libraries stay in wide use."
+  },
+  "regions": [
+    "United States",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q17590603"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Material Design",
+      "url": "https://en.wikipedia.org/wiki/Material_Design",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Google, Material Design 1 guidelines: Introduction",
+      "url": "https://m1.material.io/material-design/introduction.html",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Google, Material Design 1 guidelines: Elevation and shadows",
+      "url": "https://m1.material.io/material-design/elevation-shadows.html",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Google, Material Design 1 guidelines: Floating action button",
+      "url": "https://m1.material.io/components/buttons-floating-action-button.html",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Google, Material Design 1 guidelines: Color",
+      "url": "https://m1.material.io/style/color.html",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Nielsen Norman Group, Kate Moran, “Flat Design: Its Origins, Its Problems, and Why Flat 2.0 Is Better for Users” (27 September 2015)",
+      "url": "https://www.nngroup.com/articles/flat-design/",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "style": "flat-design",
+      "note": "Wikidata classes Material Design as a subclass of [flat design](style:flat-design), and Wikipedia’s flat design article calls it Google’s flat design language, with card-like sheets and shadows for depth. NN/g (2015) names it an example of “flat 2.0”: mostly flat, with subtle shadows and layers."
+    },
+    {
+      "relation": "related-to",
+      "style": "skeuomorphism",
+      "note": "Wikipedia states that Material Design is based on paper-and-ink and skeuomorphic interaction concepts. The Material 1 guidelines take edges, shadows, and lift from physical paper but leave out texture and ornament, so the metaphor is in behavior, not in surface, unlike [skeuomorphism](style:skeuomorphism)."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Google Now card interface",
+      "wikidata": "Q79564",
+      "note": "Wikipedia describes Material Design as an expansion of the “cards” interface that debuted in Google Now."
+    },
+    {
+      "relation": "related-to",
+      "label": "Material You (Material Design 3)",
+      "note": "Announced at Google I/O in May 2021 for Android 12. Wikipedia describes custom themes generated from the user’s wallpaper, more animation, and larger buttons. It keeps the component system but trades the bold primary and accent for tonal palettes and large rounded shapes, so this record treats it as a related branch."
+    },
+    {
+      "relation": "related-to",
+      "label": "Fluent Design System",
+      "wikidata": "Q29900635",
+      "note": "Microsoft’s design language of 2017. Wikipedia’s flat design article describes it as a departure from Metro through depth, light, and motion, which parallels Material’s return to shadow. Fluent adds translucent “acrylic” blur, which Material 1 and 2 do not use."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Sheets at set elevations.",
+      "text": "Every surface is a 1 dp sheet of material with a fixed resting height: a card at 2 dp, the app bar at 4 dp, the floating action button at 6 dp, the navigation drawer at 16 dp, and a dialog at 24 dp. Sheets can overlap but cannot pass through each other."
+    },
+    {
+      "facet": "surface",
+      "term": "Soft shadows from above.",
+      "text": "Shadows are the only cue for separation. They fall downward from a key light with a soft ambient halo, and a higher sheet casts a larger, softer shadow. Surfaces are matte and flat: no gradients, gloss, or texture. Cards round their corners by 2 dp in Material 1 and 4 dp in Material 2."
+    },
+    {
+      "facet": "color",
+      "term": "Bold primary, contrasting accent.",
+      "text": "One saturated primary, usually the 500 shade of a 19-hue palette such as indigo or teal, fills the app bar, and its 700 shade fills the status bar. A contrasting accent, often an A200 pink or amber, marks the floating action button, switches, and links. Everything else is white sheets on a pale gray ground, with text as black at 87 % and 54 % opacity."
+    },
+    {
+      "facet": "type",
+      "term": "Roboto on a fixed scale.",
+      "text": "Roboto in named styles: Display, Headline, Title, Subheading, Body, and Caption. Titles are Medium 20 sp, large display lines are Regular or Light, and buttons are Medium 14 sp in all capitals. Material 2 brings Google Sans to Google’s own products."
+    },
+    {
+      "facet": "layout",
+      "term": "8 dp grid and keylines.",
+      "text": "Everything aligns to an 8 dp grid with 16 dp screen margins and a 72 dp text keyline. A colored app bar sits at the top, cards and lists fill a pale column, and a 56 dp circular action button floats near the lower right, often across the seam between two surfaces."
+    },
+    {
+      "facet": "imagery",
+      "term": "Folded paper icons and full-bleed photos.",
+      "text": "Product icons are cut, folded, and lit like paper, with clean folds and subtle shade. System icons are simple 24 dp glyphs. Photographs run edge to edge at the top of cards."
+    },
+    {
+      "facet": "motion",
+      "term": "Ink ripples and lift.",
+      "text": "A touch sends an ink ripple outward from the point of contact, and a pressed card or button lifts to a higher elevation. New surfaces grow from the element that created them, on a standard ease-out curve."
+    }
+  ],
+  "synthesis": [],
+  "rubric": {
+    "diagnostic": [
+      "White cards on a pale gray ground, each lifted by a soft, short shadow that falls downward.",
+      "A full-width app bar filled with one saturated primary color, itself casting a shadow on the content.",
+      "A circular action button in a contrasting accent color that floats above the content with a larger shadow.",
+      "Flat fills with no gradients, gloss, or texture. Corners are square or round by only 2 to 4 px.",
+      "Roboto or a similar grotesque, with all-capital medium-weight button labels."
+    ],
+    "counter": [
+      "No shadows at all: areas separate only by fill color. This points to flat design.",
+      "Hard offset shadows with no blur, or thick black outlines.",
+      "Gradients, gloss, or material textures such as leather or linen.",
+      "Translucent, blurred panels.",
+      "Large pill-shaped containers with tonal pastel color taken from a wallpaper. This points to Material You."
+    ],
+    "confusions": [
+      {
+        "with": "flat-design",
+        "difference": "Flat design separates areas by solid color and space and has no shadows. Material Design keeps flat color but lifts white cards, the app bar, and the action button with soft shadows."
+      },
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphism imitates materials with texture, gloss, bevels, and stitching. Material Design keeps only the shadow and edge of paper, with flat matte fills."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Neo-brutalism uses hard offset shadows with no blur and thick black outlines. Material shadows are soft and short, and cards have no outlines."
+      },
+      {
+        "with": "glassmorphism",
+        "difference": "Glassmorphism uses translucent, blurred panels over colorful gradients. Material sheets are opaque and flat."
+      },
+      {
+        "with": "frutiger-aero",
+        "difference": "Frutiger Aero uses glossy gradients, sky and water imagery, and pill buttons. Material Design has matte flat color and small radii."
+      },
+      {
+        "with": "Material You (Material Design 3)",
+        "difference": "Material You uses tonal color from the wallpaper, large rounded and pill shapes, and fewer shadows. Material 1 and 2 use a bold primary with a contrasting accent, small radii, and shadows on every raised surface."
+      },
+      {
+        "with": "neumorphism",
+        "difference": "Neumorphism extrudes soft shapes from one pale color with a light and a dark shadow. Material Design uses one downward shadow and saturated primary and accent colors."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Put content on white cards over a pale gray ground (#fafafa or #f5f5f5).",
+      "Give each surface a resting elevation and a matching soft shadow: 2 dp for cards and raised buttons, 4 dp for the app bar, 6 dp for the action button.",
+      "Fill the app bar with one saturated primary color and use a darker shade of it for the top edge.",
+      "Use one contrasting accent color for the circular action button, links, and selected controls.",
+      "Set type in Roboto or a system grotesque. Make titles medium weight and button labels medium weight in all capitals.",
+      "Align to an 8 px grid. Round cards and buttons by 2 to 4 px, and make the action button a 56 px circle."
+    ],
+    "dont": [
+      "Do not use gradients, gloss, or textures. Material is matte and flat in color.",
+      "Do not use hard shadows with no blur, or outlines to separate cards. Separation comes from soft shadows.",
+      "Do not put two surfaces at the same height with different shadows, or different heights with the same shadow.",
+      "Do not use more than one floating action button on a screen, and do not use it for a destructive action.",
+      "Do not round cards into pills or large soft blobs. Those belong to Material You."
+    ],
+    "uses": [
+      "Android apps",
+      "Web applications and admin dashboards",
+      "Productivity and email clients",
+      "Settings and forms",
+      "Component libraries"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.3,
+      "note": "Cards, the app bar, raised buttons, and the action button all cast shadows. The specimen measures 0.56. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.medianBlur",
+      "min": 3,
+      "max": 20,
+      "note": "Shadows are soft. A 1 dp Material 2 card has a 3 px blur and a 2 dp Material 1 card a 5 px blur. Hard shadows with no blur point to neo-brutalism. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.medianOffset",
+      "min": 2,
+      "max": 10,
+      "note": "The key light is above, so shadows fall downward by 2 to 8 px as elevation rises. Glow and inset shadows have no offset. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "min": 0.05,
+      "max": 0.6,
+      "note": "A saturated primary fills the app bar. Material 2 products with white app bars can fall below this range. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 4,
+      "note": "Cards and buttons round by 2 px in Material 1 and 4 px in Material 2. Larger radii point to Material You, glassmorphism, or neumorphism. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Fills are flat and matte. Provisional: set from the specimen, recalibrate with measured references."
+    }
+  ]
+}

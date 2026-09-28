@@ -1,0 +1,220 @@
+{
+  "id": "psychedelic-art",
+  "title": "Psychedelic art",
+  "order": 12,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Psychedelic poster art",
+    "Psychedelia",
+    "Acid art",
+    "Nouveau Frisco"
+  ],
+  "summary": "Vibrating complementary colors, swollen hand lettering, and every inch filled. The 1960s rock poster.",
+  "lede": "The graphic style of the 1966–1972 psychedelic rock poster, centered on San Francisco: saturated complementary colors that vibrate against each other, hand lettering that swells and melts to fill a shape, dense symmetrical compositions, and Art Nouveau curves borrowed from Mucha and the Vienna Secession. This record covers that graphic core. Visionary painting, liquid light shows, and later revivals are related branches.",
+  "moods": [
+    "hallucinatory",
+    "saturated",
+    "dense",
+    "fluid",
+    "countercultural"
+  ],
+  "era": {
+    "from": 1965,
+    "to": 1972,
+    "note": "Wes Wilson’s first Fillmore posters appeared in 1966. Wikipedia dates the San Francisco poster style from about 1966 to 1972. Revivals continue in gig posters and album art."
+  },
+  "regions": [
+    "United States (San Francisco Bay Area)",
+    "United Kingdom (London)"
+  ],
+  "identifiers": {
+    "wikidata": "Q696160",
+    "aat": "300112743"
+  },
+  "attestation": [
+    {
+      "label": "Getty AAT: Psychedelic (style), with “Psychedelic Art”, “Acid Art”, and “Dayglo Art” as used-for terms",
+      "url": "https://vocab.getty.edu/page/aat/300112743",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikipedia: Psychedelic art, section “In 1960s counterculture”",
+      "url": "https://en.wikipedia.org/wiki/Psychedelic_art",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Cooper Hewitt, Smithsonian Design Museum: “Deliberately Disorienting” (Carey Gibbons, 2018)",
+      "url": "https://www.cooperhewitt.org/2018/10/23/deliberately-disorienting/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Smithsonian Magazine: “How a Psychedelic Concert Poster Rocked the World” (2016)",
+      "url": "https://www.smithsonianmag.com/arts-culture/psychedelic-concert-poster-rocked-world-180958780/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Poster House: “Wes Wilson: From Art Nouveau to Psychedelic” (2020)",
+      "url": "https://posterhouse.org/blog/wes-wilson-from-art-nouveau-to-psychedelic/",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "revival-of",
+      "style": "art-nouveau",
+      "note": "Wes Wilson cited Alphonse Mucha and Gustav Klimt as influences in a 1967 Time article, according to [Cooper Hewitt](https://www.cooperhewitt.org/2018/10/23/deliberately-disorienting/). [Poster House](https://posterhouse.org/blog/wes-wilson-from-art-nouveau-to-psychedelic/) sets his posters beside Mucha, Will Bradley, and Beardsley, and notes that Mouse and Kelley drew from Mucha too. [Smithsonian Magazine](https://www.smithsonianmag.com/arts-culture/psychedelic-concert-poster-rocked-world-180958780/) reports that a 1967 Time article called the style “Nouveau Frisco”."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Vienna Secession",
+      "wikidata": "Q208208",
+      "note": "Wilson warped the block lettering of Alfred Roller’s Secession posters (1902) into his swelling letterforms. Sources: Poster House and Smithsonian Magazine."
+    },
+    {
+      "relation": "related-to",
+      "label": "Op art",
+      "wikidata": "Q182331",
+      "note": "Victor Moscoso’s vibrating colors came from Josef Albers, his teacher at Yale (Wikipedia: Victor Moscoso). Wikipedia’s Psychedelic art article names Bridget Riley’s Op art as the British counterpart."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Pop art",
+      "wikidata": "Q134147",
+      "note": "Wikipedia lists Art Nouveau, Victoriana, Dada, and Pop Art as the sources of the San Francisco rock posters. The pop link shows in cartoon imagery and collage, for example in Moscoso’s and Griffin’s work."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Vibrating complements.",
+      "text": "Saturated complementary pairs of similar value, such as orange and blue, red and green, or magenta and lime, placed side by side so that the edge between them seems to flicker. Color covers the whole sheet. Black is rare."
+    },
+    {
+      "facet": "type",
+      "term": "Swollen, melting lettering.",
+      "text": "Hand-drawn letters stretch, bulge, and bend to fill a shape, often at the cost of legibility. Words and image merge. Soft, fat letterforms and echo outlines are common."
+    },
+    {
+      "facet": "layout",
+      "term": "Horror vacui and symmetry.",
+      "text": "The composition fills every part of the sheet. A central figure, medallion, or word block sits on a vertical axis, with text wrapped around it."
+    },
+    {
+      "facet": "structure",
+      "term": "Billowing forms.",
+      "text": "Panels and frames are blobs, arches, and bulging lozenges. Straight edges and square corners are rare."
+    },
+    {
+      "facet": "imagery",
+      "term": "Entoptic and Art Nouveau motifs.",
+      "text": "Concentric circles, spirals, radiating ripples, paisley, flowing hair, eyes, and haloed figures borrowed from Mucha. Photographic collage appears in Moscoso’s work."
+    },
+    {
+      "facet": "surface",
+      "term": "Flat ink.",
+      "text": "Offset or screen-printed flat colors. A split-fountain rainbow roll sometimes blends two inks across the sheet. No gloss and no modeled depth."
+    },
+    {
+      "facet": "motion",
+      "term": "Liquid light.",
+      "text": "Light shows projected oil and dye through lenses to pulse with the music. On screen, slow color cycling or undulation is the equivalent."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Saturated color covers nearly the whole surface, with two complementary hues side by side.",
+      "Lettering swells, bends, or melts to fill a shape, and is hard to read at a glance.",
+      "The composition is dense and symmetrical about a central figure or medallion.",
+      "Concentric rings, spirals, ripples, or flowing Art Nouveau curves fill the background."
+    ],
+    "counter": [
+      "Large areas of white or neutral paper.",
+      "Clean, legible sans-serif type set on a grid.",
+      "Square corners and hard geometric frames dominate.",
+      "Muted, earthy, or pastel palettes.",
+      "Glossy gradients, chrome, or glass effects."
+    ],
+    "confusions": [
+      {
+        "with": "art-nouveau",
+        "difference": "Art Nouveau uses the same whiplash curves and haloed women, but in muted greens, golds, and creams, with legible lettering. Psychedelic posters recolor those forms in clashing fluorescent complements and warp the lettering until it becomes image."
+      },
+      {
+        "with": "memphis",
+        "difference": "Memphis also clashes bright colors, but on white ground with geometric laminate patterns and playful blocky shapes. Psychedelic work covers the whole sheet in color and uses fluid curves, concentric rings, and swelling lettering."
+      },
+      {
+        "with": "art-deco",
+        "difference": "Both favor symmetry and repeating ornament. Art Deco ornament is geometric (sunbursts, steps, chevrons) in metallic gold on black. Psychedelic ornament is organic and melting, in acidic complements."
+      },
+      {
+        "with": "Op art",
+        "difference": "Op art is fine-art abstraction that makes the eye see motion with precise black-and-white or color patterns. Psychedelic posters borrow the vibration but combine it with figures, hand lettering, and event information."
+      },
+      {
+        "with": "vaporwave",
+        "difference": "Vaporwave also uses magenta and violet, but with smooth gradients, 1990s computer imagery, grids, and classical statues. Psychedelic color is flat ink with organic, hand-drawn forms."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Fill the whole page with saturated color. Use a colored ground, not white.",
+      "Put complementary colors next to each other: orange with blue, magenta with lime, violet with yellow.",
+      "Set display lettering in a soft, fat face, very large, with tight leading, and let it fill its panel.",
+      "Add echo outlines to display type and shapes in a second and third color.",
+      "Center the composition on a vertical axis. Use a medallion, blob, or arch as the main frame.",
+      "Use concentric rings, spirals, or ripples as background pattern.",
+      "Give panels and buttons bulging, organic, or pill shapes.",
+      "Keep body text at 4.5:1 contrast or more. Save the low-contrast vibrating pairs for display lettering and ornament.",
+      "Use a split-fountain blend of two inks on one section at most. Keep the rest of the color flat."
+    ],
+    "dont": [
+      "Do not use black text on white paper as the base.",
+      "Do not use glossy highlights, glass blur, or soft drop shadows for depth.",
+      "Do not set headings in a neutral grotesque on a strict grid.",
+      "Do not use square cards and hard rectangular frames as the main shapes.",
+      "Do not put vibrating low-contrast pairs on body text, form labels, or table cells."
+    ],
+    "uses": [
+      "Concert and festival posters",
+      "Album and music-label sites",
+      "Event and nightlife pages",
+      "Brewery, cannabis, and lifestyle packaging",
+      "Retro-themed campaigns"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.chromaticShare",
+      "min": 0.6,
+      "note": "Positive marker. Saturated color covers most of the page, not only accents. Other specimens measure 0.48 or less. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.1,
+      "note": "Positive marker. Concentric rings or ripples fill part of the page. Provisional: real sites often draw patterns as SVG or images, which this metric does not count."
+    },
+    {
+      "metric": "surface.radius.median",
+      "min": 20,
+      "note": "Positive marker. Panels, frames, and buttons bulge and curve. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.centerShare",
+      "min": 0.4,
+      "note": "Positive marker. The composition is symmetrical, so much of the text is centered. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.hues",
+      "min": 4,
+      "note": "Positive marker. Several complementary pairs appear at once. Provisional: many period posters use only two or three inks."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.4,
+      "note": "Most color is flat ink. A split-fountain blend may cover a section, but smooth gradients do not carry the page. Provisional: set from the specimen."
+    }
+  ]
+}

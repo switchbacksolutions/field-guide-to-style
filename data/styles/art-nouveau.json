@@ -1,0 +1,220 @@
+{
+  "id": "art-nouveau",
+  "title": "Art Nouveau",
+  "order": 8,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Jugendstil",
+    "Stile Liberty",
+    "Modernisme",
+    "Modern Style",
+    "Style 1900",
+    "Whiplash style"
+  ],
+  "summary": "Whiplash curves, lilies, and peacock eyes in moss, ochre, and rose on parchment. The new art of the 1890s.",
+  "lede": "The international decorative style of about 1890 to 1910, named after Siegfried Bing’s Paris gallery, the Maison de l’Art Nouveau: fluid, undulating lines taken from plant stems, flowers, and hair, the whiplash curve, and modern materials such as iron and glass, applied to posters, buildings, furniture, glass, and jewelry alike. This record covers the curvilinear core of Brussels and Paris. The geometric Vienna Secession and Glasgow branches are treated as related styles.",
+  "moods": [
+    "organic",
+    "sensuous",
+    "flowing",
+    "ornate",
+    "romantic"
+  ],
+  "era": {
+    "from": 1890,
+    "to": 1914,
+    "note": "Wikipedia: popular between 1890 and 1910; the first houses appeared in Brussels in the 1890s (Horta’s Hôtel Tassel, 1893), it peaked at the 1900 Paris Exposition, and it was largely exhausted by 1914. Wikidata gives 1880 to 1910. A revival followed in the 1960s and 1970s."
+  },
+  "regions": [
+    "Belgium",
+    "France",
+    "Germany",
+    "Austria-Hungary",
+    "Spain (Catalonia)",
+    "United Kingdom",
+    "United States",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q34636",
+    "aat": "300021430"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Art Nouveau",
+      "url": "https://en.wikipedia.org/wiki/Art_Nouveau",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikidata: Art Nouveau (Q34636)",
+      "url": "https://www.wikidata.org/wiki/Q34636",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Getty Art & Architecture Thesaurus: Art Nouveau (300021430)",
+      "url": "https://vocab.getty.edu/page/aat/300021430",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Arts and Crafts movement",
+      "wikidata": "Q330369",
+      "note": "Wikipedia: the new art had its roots in Britain, in the floral designs of William Morris and the Arts and Crafts movement. Unlike that movement, Art Nouveau accepted machines and new materials."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Japonisme",
+      "wikidata": "Q751880",
+      "note": "Wikipedia names Japonism, the enthusiasm for Hiroshige, Hokusai, and Kunisada prints, as another important influence. Bing published Le Japon artistique (1888–1891). Flat colour, outlines, and butterfly and dragonfly motifs came from this source."
+    },
+    {
+      "relation": "reaction-against",
+      "label": "Historicism",
+      "note": "Wikipedia: Art Nouveau was a reaction against the academicism, eclecticism, and historicism of 19th-century architecture and decorative art."
+    },
+    {
+      "relation": "related-to",
+      "label": "Vienna Secession",
+      "wikidata": "Q208208",
+      "note": "Wikipedia treats Secession as the Austro-Hungarian name for the style. After 1900 its decoration became geometric and symmetrical (Stoclet Palace, 1905–1911). This record treats that branch as related, not as the core."
+    },
+    {
+      "relation": "related-to",
+      "style": "art-deco",
+      "note": "Wikidata records Art Deco as the style that follows Art Nouveau. Wikipedia: in the 1920s Art Deco replaced it, and Art Nouveau was one of the factors that led to Art Deco."
+    },
+    {
+      "relation": "related-to",
+      "style": "psychedelic-art",
+      "note": "Wikipedia: Art Nouveau was one of the main sources for 1960s psychedelic rock posters, which replaced its earthy colours with saturated, contrasting colours and hard-to-read lettering."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Whiplash line.",
+      "text": "A long, S-shaped curve that swells and snaps back, taken from plant stems (Obrist’s Cyclamen, 1894). It runs through ornament, ironwork, and lettering, and it avoids parallels and right angles."
+    },
+    {
+      "facet": "imagery",
+      "term": "Plants, women, and peacocks.",
+      "text": "Lilies, irises, poppies, vines, and ginkgo; dragonflies, butterflies, swans, and peacock feathers; women with long hair that turns into ornament. Forms are stylized but stay recognizably natural."
+    },
+    {
+      "facet": "layout",
+      "term": "Arches and framed panels.",
+      "text": "Figures and text sit in arched, circular, or leaf-shaped panels framed by a dark outline. In posters a halo or medallion sits behind the head, and ornament flows across the frame edge."
+    },
+    {
+      "facet": "color",
+      "term": "Earthy, muted colours.",
+      "text": "Moss and olive green, ochre and old gold, terracotta and dusty rose, and peacock blue, on a cream or parchment ground, with sepia or dark green outlines. Colours are soft rather than saturated."
+    },
+    {
+      "facet": "type",
+      "term": "Hand-drawn, flared letters.",
+      "text": "Lettering is drawn to match the image, with swelling strokes, soft terminals, and unusual proportions. Mixed case and capitals both appear. Typefaces such as Eckmann and Arnold Böcklin copy this lettering."
+    },
+    {
+      "facet": "surface",
+      "term": "Iron, glass, and patterned fields.",
+      "text": "Curved wrought iron, stained and opalescent glass, mosaic, and ceramic tile. Flat areas carry a repeated plant or feather pattern, as in wallpaper and textiles."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "A long, flowing S-curve or whiplash line forms the ornament or the frame.",
+      "Plant stems, flowers, long hair, or peacock feathers are stylized into ornament.",
+      "Panels are arched, round, or leaf-shaped, and they have a dark outline.",
+      "The palette is earthy and muted: moss green, ochre, terracotta, or dusty rose on cream.",
+      "Lettering is hand-drawn or flared, with curved strokes that match the image."
+    ],
+    "counter": [
+      "Straight-edged geometry, stepped outlines, and sunbursts dominate. That points to Art Deco or the Vienna Secession.",
+      "Saturated, clashing, or fluorescent colours with vibrating contrast.",
+      "Square corners, flat primary colours, and no ornament.",
+      "Glossy gradients, glass blur, or soft drop shadows."
+    ],
+    "confusions": [
+      {
+        "with": "art-deco",
+        "difference": "Art Deco stylizes plants and figures into symmetrical geometry, steps, and rays, with metal on a dark ground. Art Nouveau keeps flowing, often asymmetric curves and earthy colours on a light ground."
+      },
+      {
+        "with": "Vienna Secession and Glasgow Style",
+        "difference": "These branches of the same movement use grids, squares, and tall straight lines, with ornament kept in rectangles. The core Art Nouveau style of Brussels and Paris is curvilinear."
+      },
+      {
+        "with": "psychedelic-art",
+        "difference": "Psychedelic posters borrow Art Nouveau curves and lettering but use saturated, contrasting colours and lettering that is hard to read. Art Nouveau colours are earthy and its lettering is legible."
+      },
+      {
+        "with": "Arts and Crafts",
+        "difference": "Arts and Crafts pattern is also floral, but it is flat, dense, and symmetrical, and its objects look handmade and rectilinear. Art Nouveau adds movement, the whiplash curve, and industrial materials."
+      },
+      {
+        "with": "mid-century-modern",
+        "difference": "Mid-century modern also uses organic curves and earthy colours, but its curves are simple boomerangs and kidneys, its type is a geometric sans-serif, and it has no plant ornament."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a cream or parchment ground, sepia text, and two or three muted colours such as moss green, ochre, and terracotta.",
+      "Give panels an arched top, a round medallion shape, or a leaf cut with two opposite corners curved.",
+      "Outline panels, cards, and buttons with a thin dark line in sepia or dark green.",
+      "Add one repeated plant or feather pattern on a framed field, for example behind key figures.",
+      "Draw dividers as one flowing S-curve, not as a straight rule.",
+      "Set headings in a flared or humanist face in mixed case, and allow italics for accents."
+    ],
+    "dont": [
+      "Do not use stepped corners, chevrons, or sunbursts. That points to Art Deco.",
+      "Do not use saturated or fluorescent colours.",
+      "Do not use glossy gradients, glass blur, or soft drop shadows.",
+      "Do not use a geometric sans-serif with wide letter spacing for headings.",
+      "Do not fill every surface with ornament. Keep a calm ground around the framed fields."
+    ],
+    "uses": [
+      "Botanical, florist, and garden brands",
+      "Perfume, tea, and cosmetics",
+      "Theatre, opera, and museum programmes",
+      "Book covers and editorial features"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.radius.median",
+      "min": 16,
+      "note": "Arched, round, and leaf-cut panels. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.03,
+      "note": "A repeated plant or feather field is present. Provisional: many real sites draw ornament as SVG or images, which this metric does not count."
+    },
+    {
+      "metric": "color.accentChroma",
+      "min": 0.3,
+      "max": 0.55,
+      "note": "Earthy, muted colours are present, weaker than primary or fluorescent colours. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.hues",
+      "min": 2,
+      "note": "At least two colour families, such as moss green and ochre or terracotta. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.border.share",
+      "min": 0.6,
+      "note": "Panels, cards, and buttons carry a thin dark outline, like the key line of a lithograph. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.1,
+      "note": "Flat, outlined surfaces without drop shadows. Provisional: set from the specimen."
+    }
+  ]
+}

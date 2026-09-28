@@ -1,0 +1,529 @@
+{
+  "$description": "Authored tokens for skeuomorphism. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#cdd0d5",
+      "$description": "Gray linen, the iOS 5–6 and Mac OS X Lion backdrop."
+    },
+    "surface": {
+      "$value": "#ffffff",
+      "$description": "Grouped table cells."
+    },
+    "subtle": {
+      "$value": "#e6e8eb"
+    },
+    "text": {
+      "$value": "#262626"
+    },
+    "muted": {
+      "$value": "#4c566c",
+      "$description": "Secondary label gray-blue."
+    },
+    "border": {
+      "$value": "#9ea3aa"
+    },
+    "primary": {
+      "$value": "#2a5fd0",
+      "$description": "Glossy iOS action blue."
+    },
+    "on-primary": {
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$value": "#6d84a2",
+      "$description": "Navigation bar steel blue."
+    },
+    "on-secondary": {
+      "$value": "#ffffff"
+    },
+    "accent": {
+      "$value": "#5e3b22",
+      "$description": "Stitched leather brown."
+    },
+    "on-accent": {
+      "$value": "#f3e5c8"
+    },
+    "linen-thread": {
+      "$value": "#ffffff2e"
+    },
+    "linen-shade": {
+      "$value": "#0000000f"
+    },
+    "pinstripe": {
+      "$value": "#c5ccd4"
+    },
+    "pinstripe-light": {
+      "$value": "#cbd2d8"
+    },
+    "leather-dark": {
+      "$value": "#3d2614"
+    },
+    "leather-grain": {
+      "$value": "#00000026"
+    },
+    "stitch": {
+      "$value": "#e9d3a4"
+    },
+    "paper": {
+      "$value": "#fcf4b8",
+      "$description": "Legal-pad yellow."
+    },
+    "paper-rule": {
+      "$value": "#9dbbd6"
+    },
+    "paper-margin": {
+      "$value": "#d98b8b"
+    },
+    "wood": {
+      "$value": "#9a6535"
+    },
+    "wood-light": {
+      "$value": "#b07a45"
+    },
+    "wood-dark": {
+      "$value": "#6e4421"
+    },
+    "felt": {
+      "$value": "#2f6b3a",
+      "$description": "Card-table felt."
+    },
+    "felt-fiber": {
+      "$value": "#ffffff14"
+    },
+    "metal": {
+      "$value": "#c8cacd"
+    },
+    "metal-line": {
+      "$value": "#ffffff59"
+    },
+    "metal-groove": {
+      "$value": "#0000000d"
+    },
+    "emboss-light": {
+      "$value": "#ffffffb3",
+      "$description": "Letterpress highlight under dark text."
+    },
+    "emboss-dark": {
+      "$value": "#00000080",
+      "$description": "Letterpress shade over light text."
+    },
+    "bar-edge": {
+      "$value": "#2d3642"
+    },
+    "pin": {
+      "$value": "#c8322b"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Menlo",
+        "Monaco",
+        "Courier New",
+        "monospace"
+      ]
+    },
+    "hand": {
+      "$value": [
+        "Marker Felt",
+        "Noteworthy",
+        "Chalkboard SE",
+        "Comic Sans MS",
+        "cursive"
+      ],
+      "$description": "Notes on iOS 6 used Marker Felt."
+    },
+    "serif": {
+      "$value": [
+        "Georgia",
+        "Times New Roman",
+        "serif"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 700
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "16px"
+    },
+    "lg": {
+      "$value": "18px"
+    },
+    "xl": {
+      "$value": "22px"
+    },
+    "2xl": {
+      "$value": "28px"
+    },
+    "3xl": {
+      "$value": "38px"
+    },
+    "4xl": {
+      "$value": "52px"
+    },
+    "5xl": {
+      "$value": "68px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 1.1
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "5px"
+    },
+    "md": {
+      "$value": "8px"
+    },
+    "lg": {
+      "$value": "12px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "2px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "10px"
+    },
+    "md": {
+      "$value": "18px"
+    },
+    "lg": {
+      "$value": "30px"
+    },
+    "xl": {
+      "$value": "50px"
+    },
+    "2xl": {
+      "$value": "80px"
+    }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "sm": {
+      "$value": [
+        {
+          "color": "#00000059",
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "2px",
+          "spread": "0px"
+        },
+        {
+          "color": "#ffffff66",
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        }
+      ]
+    },
+    "md": {
+      "$value": [
+        {
+          "color": "#00000066",
+          "offsetX": "0px",
+          "offsetY": "3px",
+          "blur": "8px",
+          "spread": "0px"
+        },
+        {
+          "color": "#ffffff40",
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        }
+      ]
+    },
+    "lg": {
+      "$value": {
+        "color": "#00000073",
+        "offsetX": "0px",
+        "offsetY": "8px",
+        "blur": "20px",
+        "spread": "0px"
+      }
+    },
+    "inset": {
+      "$value": [
+        {
+          "color": "#00000066",
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "3px",
+          "spread": "0px",
+          "inset": true
+        },
+        {
+          "color": "#ffffff99",
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "0px",
+          "spread": "0px"
+        }
+      ]
+    }
+  },
+  "gradient": {
+    "$type": "gradient",
+    "bar": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#b3c0d1",
+            "position": 0
+          },
+          {
+            "color": "#8a9cb5",
+            "position": 0.5
+          },
+          {
+            "color": "#7c90ac",
+            "position": 0.51
+          },
+          {
+            "color": "#6d84a2",
+            "position": 1
+          }
+        ]
+      },
+      "$description": "iOS navigation bar."
+    },
+    "button": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#83a6ea",
+            "position": 0
+          },
+          {
+            "color": "#4c7fe0",
+            "position": 0.5
+          },
+          {
+            "color": "#2f64d3",
+            "position": 0.51
+          },
+          {
+            "color": "#2a5fd0",
+            "position": 1
+          }
+        ]
+      },
+      "$description": "Glossy action button."
+    },
+    "button-plain": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#ffffff",
+            "position": 0
+          },
+          {
+            "color": "#eceef1",
+            "position": 0.5
+          },
+          {
+            "color": "#dcdfe3",
+            "position": 0.51
+          },
+          {
+            "color": "#cfd3d8",
+            "position": 1
+          }
+        ]
+      }
+    },
+    "metal": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#e4e5e7",
+            "position": 0
+          },
+          {
+            "color": "#c8cacd",
+            "position": 0.6
+          },
+          {
+            "color": "#b5b8bc",
+            "position": 1
+          }
+        ]
+      },
+      "$description": "Brushed aluminium light fall-off."
+    },
+    "leather": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#ffffff1f",
+            "position": 0
+          },
+          {
+            "color": "#00000000",
+            "position": 0.4
+          },
+          {
+            "color": "#00000040",
+            "position": 1
+          }
+        ]
+      },
+      "$description": "Light across a leather surface."
+    },
+    "shelf": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#c08a55",
+            "position": 0
+          },
+          {
+            "color": "#8c5a2d",
+            "position": 0.3
+          },
+          {
+            "color": "#5e3a1b",
+            "position": 1
+          }
+        ]
+      },
+      "$description": "The lip of a wooden shelf."
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

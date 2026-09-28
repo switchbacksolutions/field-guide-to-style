@@ -1,0 +1,207 @@
+{
+  "id": "skeuomorphism",
+  "title": "Skeuomorphism",
+  "order": 13,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Skeuomorphic design"
+  ],
+  "summary": "Leather, linen, wood, and paper on screen. Interfaces that imitate the objects they replace.",
+  "lede": "A graphical user interface style that imitates physical objects and materials: stitched leather, linen, wood, felt, brushed metal, and ruled paper, with bevels, embossed text, and realistic shadows. It peaked in Apple’s iPhone OS and iOS 1–6 and Mac OS X Lion (2007–2013). The catalogue record covers this interface style, not the wider concept of a skeuomorph in pottery, architecture, or sound.",
+  "moods": [
+    "tactile",
+    "familiar",
+    "crafted",
+    "warm",
+    "ornate"
+  ],
+  "era": {
+    "from": 2007,
+    "to": 2013,
+    "note": "From the first iPhone (2007) to iOS 7 (June 2013), which Apple announced as a move away from the style. NN/g places the peak in the early 2010s. Earlier examples include Microsoft Bob (1995) and brushed-metal windows in Mac OS X. The style returns in parts through neumorphism."
+  },
+  "regions": [
+    "United States",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q607446"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Skeuomorph (section “Virtual examples”)",
+      "url": "https://en.wikipedia.org/wiki/Skeuomorph",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Nielsen Norman Group, Megan Chan, “Skeuomorphism” (2024)",
+      "url": "https://www.nngroup.com/articles/skeuomorphism/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Motherboard, Claire Evans, “A Eulogy for Skeuomorphism” (2013)",
+      "url": "https://www.vice.com/en/article/a-eulogy-for-skeumorphism/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Interaction Design Foundation: Skeuomorphism",
+      "url": "https://www.interaction-design.org/literature/topics/skeuomorphism",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "label": "Desktop metaphor",
+      "wikidata": "Q1048818",
+      "note": "Wikipedia names the desktop metaphor, with files as folders and deletion as a trash can, as the prominent early example of skeuomorphic interfaces."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Aqua (user interface)",
+      "wikidata": "Q622898",
+      "note": "Aqua’s brushed-metal windows put a metal texture on the Mac OS X desktop. In Mac OS X Lion, Calendar, Contacts, and Notes took leather, book, and notepad looks, and Notification Center and Launchpad used linen. OS X Mavericks removed them."
+    },
+    {
+      "relation": "related-to",
+      "style": "frutiger-aero",
+      "note": "Wikipedia calls skeuomorphism a key component of Frutiger Aero. Both use gloss and realistic depth in the same years. Frutiger Aero imitates glass, water, and sky. Skeuomorphism imitates specific everyday objects and materials."
+    },
+    {
+      "relation": "related-to",
+      "label": "Neumorphism",
+      "wikidata": "Q102244095",
+      "note": "NN/g and Wikipedia describe neumorphism as a medium between skeuomorphism and flat design: soft extruded shapes without material textures."
+    },
+    {
+      "relation": "related-to",
+      "style": "flat-design",
+      "note": "Flat design began as a reaction against skeuomorphism. Wikipedia and Motherboard (2013) date Apple’s turn to iOS 7, announced at WWDC in June 2013."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "Material textures.",
+      "text": "Surfaces show a real material: linen, stitched leather, wood grain, green felt, brushed aluminium, or ruled paper. Textures tile across whole backgrounds."
+    },
+    {
+      "facet": "surface",
+      "term": "Bevels and wells.",
+      "text": "Buttons and bars have a top highlight line and a vertical gradient, often with a gloss break. Inputs and grouped tables sit in inset wells."
+    },
+    {
+      "facet": "type",
+      "term": "Letterpress text.",
+      "text": "Labels are pressed into the surface: dark text with a 1 px white shadow below, or light text with a 1 px dark shadow above. Helvetica Neue for interface text, with handwriting faces such as Marker Felt for notes."
+    },
+    {
+      "facet": "structure",
+      "term": "Object metaphors.",
+      "text": "An app becomes the object it replaces: a desk calendar with leather binding and torn pages, a bookshelf, a legal pad, a Rolodex, a reel-to-reel tape deck, or a card table."
+    },
+    {
+      "facet": "color",
+      "term": "Material color.",
+      "text": "Browns, creams, warm grays, and steel blue come from the materials. Saturated color is kept for small glossy buttons, badges, and pins."
+    },
+    {
+      "facet": "imagery",
+      "term": "Photoreal icons.",
+      "text": "Icons are small rendered objects with light, shadow, and reflection: a stamp, a camera lens, a notepad, a compass."
+    },
+    {
+      "facet": "motion",
+      "term": "Physical motion.",
+      "text": "Pages curl and turn, tickets shred, switches slide, and dials spin, as the real object would."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Background or panels show a recognizable material texture: linen, leather, wood, felt, brushed metal, or paper.",
+      "Details from the physical object remain without a function: stitching, binding, torn edges, screws, or page curls.",
+      "Text is embossed or debossed with a 1 px highlight or shade.",
+      "Buttons are beveled, with a vertical gradient and a top highlight, and corners are slightly rounded."
+    ],
+    "counter": [
+      "Flat fills with no texture, bevel, or shadow.",
+      "Depth only from blurred translucent glass, with no material.",
+      "Hard offset shadows and thick black outlines.",
+      "Large unbroken areas of bright saturated color."
+    ],
+    "confusions": [
+      {
+        "with": "frutiger-aero",
+        "difference": "Frutiger Aero imitates glass, water, and sky in airy blues and greens, with pill-shaped gloss buttons. Skeuomorphism imitates specific objects and materials such as leather, wood, and paper, in warmer, heavier colors, with stitching and embossed text."
+      },
+      {
+        "with": "Neumorphism",
+        "difference": "Neumorphism uses soft extruded shapes in one pale color, with no material texture and no object metaphor."
+      },
+      {
+        "with": "flat-design",
+        "difference": "Flat design removes texture, gradients, and shadows. It began as a reaction against skeuomorphism."
+      },
+      {
+        "with": "glassmorphism",
+        "difference": "Glassmorphism uses frosted, blurred panels over colorful backgrounds. It has no stitching, grain, or paper."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Choose one physical object for each screen, such as a notepad, bookshelf, or desk calendar, and show its materials.",
+      "Tile a subtle material texture (linen, leather grain, wood, felt, or brushed metal) over large surfaces.",
+      "Give bars and buttons a vertical gradient, a 1 px top highlight, and a soft drop shadow.",
+      "Emboss labels: dark text with a 1 px light shadow below, or light text with a 1 px dark shadow above.",
+      "Put inputs and lists in inset wells with slightly rounded corners of about 5 to 10 px.",
+      "Use Helvetica Neue for interface text and a handwriting face only where the object has handwriting."
+    ],
+    "dont": [
+      "Do not let textures reduce text contrast. Keep text on a calm area of the material.",
+      "Do not copy a metaphor that makes an action harder, such as a page turn for simple scrolling.",
+      "Do not mix many materials on one screen without a physical reason.",
+      "Do not use hard offset shadows or thick black outlines.",
+      "Do not use pill-shaped glass buttons and sky gradients alone. That is Frutiger Aero."
+    ],
+    "uses": [
+      "Note, calendar, and reading apps",
+      "Audio and music software",
+      "Games and hobby tools",
+      "Nostalgic interfaces"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.patternShare",
+      "min": 0.45,
+      "note": "Tiled material textures (linen, leather grain, paper rules, felt, brushed metal) cover most of the page. Provisional: set from the specimen until real references are measured."
+    },
+    {
+      "metric": "surface.patternShare",
+      "min": 0.15,
+      "note": "Many separate surfaces carry their own texture, not one patterned backdrop. Provisional."
+    },
+    {
+      "metric": "surface.gradientShare",
+      "min": 0.15,
+      "note": "Bars and buttons are beveled with vertical gradients. Provisional."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.25,
+      "note": "Objects sit on the surface with drop shadows or in inset wells. Provisional."
+    },
+    {
+      "metric": "surface.shadow.hardShare",
+      "max": 0.3,
+      "note": "Shadows are blurred like real light, not hard offsets. Provisional."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 8,
+      "note": "Corners are square or slightly rounded, not pill-shaped. Provisional."
+    }
+  ]
+}

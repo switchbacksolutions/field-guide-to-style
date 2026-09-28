@@ -1,0 +1,169 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/y2k/index.html",
+  "title": "Y2K aesthetic specimen · A Field Guide to Style",
+  "captured": "2026-09-28T17:00:44.721Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Verdana",
+        "share": 0.51
+      },
+      {
+        "family": "OCR A Std",
+        "share": 0.28
+      },
+      {
+        "family": "Eurostile Extended",
+        "share": 0.19
+      },
+      {
+        "family": "monospace",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 15,
+    "maxSize": 76,
+    "sizeRange": 5.07,
+    "scaleRatio": 1.27,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0.12,
+    "uppercaseShare": 0.32,
+    "monoShare": 0.3,
+    "centerShare": 0.07
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.242
+      },
+      {
+        "hex": "#eef1f5",
+        "share": 0.196
+      },
+      {
+        "hex": "#bfeaff",
+        "share": 0.137
+      },
+      {
+        "hex": "#0d1330",
+        "share": 0.118
+      },
+      {
+        "hex": "#d3d9e1",
+        "share": 0.082
+      },
+      {
+        "hex": "#3a4468",
+        "share": 0.033
+      },
+      {
+        "hex": "#9ee9ff",
+        "share": 0.022
+      },
+      {
+        "hex": "#9a5cff",
+        "share": 0.02
+      },
+      {
+        "hex": "#7a2ff0",
+        "share": 0.02
+      },
+      {
+        "hex": "#5b17c9",
+        "share": 0.02
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#0d1330",
+    "contrast": 18.2,
+    "chroma": 0.16,
+    "lightness": 0.76,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.61,
+    "distinct": 10,
+    "hues": 4,
+    "imageShare": 0,
+    "gradientShare": 0.97,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 51,
+    "radius": {
+      "median": 15.8,
+      "max": 36,
+      "roundShare": 0.57
+    },
+    "border": {
+      "share": 0.8,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.49,
+      "hardShare": 0.04,
+      "medianBlur": 22,
+      "medianOffset": 0
+    },
+    "gradientShare": 0.69,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#dce1e7",
+        "share": 0.26
+      },
+      {
+        "hex": "#fafcfe",
+        "share": 0.231
+      },
+      {
+        "hex": "#c5edfc",
+        "share": 0.213
+      },
+      {
+        "hex": "#e1f5fe",
+        "share": 0.112
+      },
+      {
+        "hex": "#bac6d1",
+        "share": 0.022
+      },
+      {
+        "hex": "#182141",
+        "share": 0.022
+      },
+      {
+        "hex": "#72d1ed",
+        "share": 0.022
+      },
+      {
+        "hex": "#c1d7e2",
+        "share": 0.021
+      },
+      {
+        "hex": "#8eddf5",
+        "share": 0.019
+      },
+      {
+        "hex": "#55c2e3",
+        "share": 0.018
+      }
+    ],
+    "background": "#dce1e7",
+    "chroma": 0.12,
+    "lightness": 0.87,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.45,
+    "distinct": 8,
+    "hues": 2
+  }
+}

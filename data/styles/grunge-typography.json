@@ -1,0 +1,227 @@
+{
+  "id": "grunge-typography",
+  "title": "Grunge typography",
+  "order": 24,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Grunge type",
+    "Grunge design",
+    "Ray Gun style"
+  ],
+  "summary": "Distressed letters, clashing typefaces, and photocopied layers. Type as noise and emotion.",
+  "lede": "An expressive typography of the 1990s, led by David Carson’s art direction of the magazine *Ray Gun* (1992–1995). Letters are torn, eroded, blurred, and redrawn. Several unrelated typefaces collide in one layout, lines are packed until they overlap, and type sits over murky, photocopied, and collaged textures. Legibility is secondary to mood.",
+  "moods": [
+    "raw",
+    "angsty",
+    "chaotic",
+    "intuitive",
+    "dirty"
+  ],
+  "era": {
+    "from": 1989,
+    "to": 2005,
+    "note": "Carson became art director of Beach Culture in 1989 and of Ray Gun in 1992. The T-26 foundry, which first sold mostly grunge fonts, opened in 1994. The Awl (2012) dates the decline to the mid-2000s."
+  },
+  "regions": [
+    "United States",
+    "United Kingdom",
+    "International"
+  ],
+  "attestation": [
+    {
+      "label": "Wikipedia: Grunge, section “Graphic design”",
+      "url": "https://en.wikipedia.org/wiki/Grunge#Graphic_design",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikipedia: Ray Gun (magazine)",
+      "url": "https://en.wikipedia.org/wiki/Ray_Gun_(magazine)",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Sharan Shetty, “The Rise and Fall of Grunge Typography”, The Awl (2012), archived copy",
+      "url": "https://web.archive.org/web/20150925150838/http://www.theawl.com/2012/08/grunge-typography",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Valentina Palladino, “Angst, imagination, and the Ray Gun Effect: a history of grunge typography”, The Verge (2013)",
+      "url": "https://www.theverge.com/2013/12/27/5247944/the-awl-history-of-grunge-typography",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Sven Lennartz, “The Secrets of Grunge Design”, Smashing Magazine (2008)",
+      "url": "https://www.smashingmagazine.com/2008/03/the-secrets-of-grunge-design/",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "label": "Punk visual art",
+      "wikidata": "Q16967926",
+      "note": "Wikipedia’s Grunge article says xeroxed covers and distressed lettering were “already a common feature of punk rock design”, and that the Macintosh let the grunge period extend them."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Dada",
+      "wikidata": "Q6034",
+      "note": "Wikipedia, citing Eskilson’s *Graphic Design: A New History* (2012), says the aggressively illegible approach of grunge designers such as Elliott Earls was influenced by Dada."
+    },
+    {
+      "relation": "reaction-against",
+      "style": "international-typographic-style",
+      "note": "The Awl (2012) describes grunge as a revolt against decades of typographic neutrality. Massimo Vignelli, a modernist, called its designers a generation “against everything”. The Verge (2013) says the style later gave way to “the Vignelli mindset”."
+    },
+    {
+      "relation": "related-to",
+      "style": "new-wave-typography",
+      "note": "Both break the Swiss grid and layer type. New Wave keeps clean letterforms and changes only spacing, angle, and position. Grunge damages the letters themselves. A direct line from Basel to Carson is often claimed but was not checked for this record."
+    },
+    {
+      "relation": "related-to",
+      "label": "Grunge web design",
+      "note": "Smashing Magazine (2008) describes a later web and Photoshop style with torn paper, tape, stains, and dirty background textures. It keeps the surfaces of 1990s grunge more than its typography."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "type",
+      "term": "Distressed letterforms.",
+      "text": "Letters look photocopied too many times, torn, scratched, blurred, or eroded. Fonts such as Droplet, Morire, and Reactor were drawn damaged. Carson also ripped and remade existing letters."
+    },
+    {
+      "facet": "type",
+      "term": "Clashing typefaces.",
+      "text": "Five or more unrelated faces in one layout: a heavy condensed grotesque, a high-contrast serif, a typewriter face, hand scrawl, and the default desktop serif. Case, size, and weight change without a system."
+    },
+    {
+      "facet": "type",
+      "term": "Crushed spacing.",
+      "text": "Letters are packed until they touch or overlap, and lines of display type overlap their neighbours. Kerning, leading, and baselines are ignored on purpose."
+    },
+    {
+      "facet": "layout",
+      "term": "Collage without a grid.",
+      "text": "Blocks of text, photos, and scraps are placed by eye, tilted, and allowed to overlap. Columns are narrow, very wide, or broken by gutters in odd places. Text can run over images."
+    },
+    {
+      "facet": "surface",
+      "term": "Photocopy and grime.",
+      "text": "Toner specks, scan lines, halftone noise, stains, tape, and torn paper edges. Surfaces look handled and reproduced, never clean."
+    },
+    {
+      "facet": "color",
+      "term": "Murky, subdued ink.",
+      "text": "Black on newsprint or dirty off-white, with muted rust, olive, brown, or mustard. Photographs are murky, miscolored, or high-contrast black and white."
+    },
+    {
+      "facet": "imagery",
+      "term": "Lo-fi photography.",
+      "text": "Blurred, uncropped, grainy, or badly registered photographs, often cut up and layered with type."
+    },
+    {
+      "facet": "motion",
+      "term": "Jitter and scratch.",
+      "text": "On screen and in film titles (for example Kyle Cooper’s titles for Se7en, 1995): flicker, scratched film, and letters that shake or misregister."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Letterforms are visibly damaged: eroded, torn, blurred, scratched, or photocopied.",
+      "Four or more unrelated typefaces appear in one composition.",
+      "Display letters or lines touch or overlap.",
+      "Type sits on dirty textures, tape, stains, or collaged photographs.",
+      "The palette is dark and muted: black, newsprint, brown, rust, or olive."
+    ],
+    "counter": [
+      "Clean, sharp letterforms in one family, with even or wide letterspacing.",
+      "A visible, consistent grid with flush-left text.",
+      "Bright flat fills, glossy gradients, or rounded cards.",
+      "Crisp outlines and hard offset shadows on tidy components."
+    ],
+    "confusions": [
+      {
+        "with": "new-wave-typography",
+        "difference": "New Wave letterforms stay clean and sharp. It spaces letters widely, steps and tilts lines, and adds dot screens and bars in one grotesque family. Grunge crushes letters together, damages them, and mixes many unrelated faces over dirt and collage."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Neo-brutalism is tidy: flat bright fills, thick black outlines, and hard shadows on orderly components. Grunge has no clean outlines, uses muddy color, and lets elements tear and overlap."
+      },
+      {
+        "with": "international-typographic-style",
+        "difference": "The Swiss style is the opposite pole: one grotesque, a strict grid, flush-left text, and legibility first. Grunge mixes faces, ignores the grid, and accepts illegibility."
+      },
+      {
+        "with": "constructivism",
+        "difference": "Constructivist posters are also loud, but their type is clean and geometric, set in heavy capitals on diagonals in flat red and black. Grunge letters are eroded and mixed, and its color is dirty."
+      },
+      {
+        "with": "Punk visual art",
+        "difference": "Punk flyers use ransom-note letters cut from print, glued, and photocopied by hand. Grunge continues that look on the Macintosh, with digital layering, custom distressed fonts, and magazine and advertising production."
+      },
+      {
+        "with": "Deconstructivist typography (Cranbrook, Emigre)",
+        "difference": "Cranbrook and Emigre work of the same years also layers text and breaks rules, but its letterforms are mostly clean digital drawings and its surfaces are not dirty. The two overlap. This record keeps the distressed, photocopied branch."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Mix at least five unrelated typefaces: a heavy condensed grotesque for display, a high-contrast serif, a typewriter face for captions, a rough hand face, and a plain serif for body text.",
+      "Set display type very large with negative letterspacing (about -0.05em to -0.08em) and leading below 0.85, so letters and lines touch.",
+      "Erode display letters with a speckled mask or a misregistered second print, so they look photocopied.",
+      "Cover the page with a subtle photocopy texture: toner specks, scan lines, or halftone noise.",
+      "Place blocks by eye. Tilt scraps by one to three degrees, let them overlap, and tear their edges with a jagged clip path.",
+      "Use black, newsprint, and one or two muted inks such as rust and mustard.",
+      "Keep body text, form labels, and table data readable. Put the damage in display type and surfaces."
+    ],
+    "dont": [
+      "Do not use rounded corners, glossy gradients, or soft drop shadows.",
+      "Do not use bright, clean, saturated fills.",
+      "Do not align everything to one grid or use one type family throughout.",
+      "Do not space letters widely. That points to New Wave typography.",
+      "Do not erode, rotate, or overlap body text, form fields, or table data until they cannot be read."
+    ],
+    "uses": [
+      "Music magazines and band sites",
+      "Record labels and gig posters",
+      "Skate, surf, and streetwear brands",
+      "Film titles and horror or thriller promotion",
+      "Zines and alternative culture publications"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "type.families.length",
+      "min": 5,
+      "note": "Positive marker: many unrelated typefaces in one page. The extractor lists at most six. Other specimens measure 4 or fewer. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.headingTracking",
+      "max": -0.04,
+      "note": "Positive marker: display letters are crushed until they touch. Other specimens measure -0.03 or more, and New Wave spaces letters out. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.3,
+      "note": "Positive marker: a photocopy texture covers the page. Provisional: real sites often use a tiled texture image at its natural size, which this metric counts as an image, not a pattern."
+    },
+    {
+      "metric": "type.monoShare",
+      "min": 0.08,
+      "note": "Positive marker: typewriter captions and data. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.accentChroma",
+      "max": 0.6,
+      "note": "Inks are dirty and muted, not bright. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Scraps are torn or cut, not rounded."
+    }
+  ]
+}

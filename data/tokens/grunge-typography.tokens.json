@@ -1,0 +1,241 @@
+{
+  "$description": "Authored tokens for grunge-typography. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#d6cdb8",
+      "$description": "Photocopied newsprint."
+    },
+    "surface": {
+      "$value": "#e8e1d0",
+      "$description": "A lighter scrap of paper pasted on top."
+    },
+    "subtle": {
+      "$value": "#b9ad93",
+      "$description": "Toner smudge and aged paper."
+    },
+    "text": {
+      "$value": "#1a1814"
+    },
+    "muted": {
+      "$value": "#4d463b"
+    },
+    "border": {
+      "$value": "#1a1814"
+    },
+    "primary": {
+      "$value": "#a13c22",
+      "$description": "Rust: a second ink that looks misregistered and dirty, not bright."
+    },
+    "on-primary": {
+      "$value": "#efe8d8"
+    },
+    "secondary": {
+      "$value": "#1a1814",
+      "$description": "Xerox black: solid bands where the copier filled in."
+    },
+    "on-secondary": {
+      "$value": "#e8e1d0"
+    },
+    "accent": {
+      "$value": "#c39a3c",
+      "$description": "Yellowed tape."
+    },
+    "on-accent": {
+      "$value": "#1a1814"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": ["Impact", "Haettenschweiler", "Arial Narrow Bold", "sans-serif"],
+      "$description": "Heavy condensed grotesque, set tight until the letters touch."
+    },
+    "body": {
+      "$value": ["Times New Roman", "Times", "serif"],
+      "$description": "Default desktop serif, as in photocopied zines."
+    },
+    "mono": {
+      "$value": ["American Typewriter", "Courier New", "Courier", "monospace"],
+      "$description": "Typewriter captions, in the spirit of FF Trixie."
+    },
+    "serif": {
+      "$value": ["Didot", "Bodoni 72", "Bodoni MT", "serif"],
+      "$description": "A high-contrast serif that clashes with the grotesque."
+    },
+    "condensed": {
+      "$value": ["Avenir Next Condensed", "Arial Narrow", "sans-serif"]
+    },
+    "scrawl": {
+      "$value": ["Chalkduster", "Marker Felt", "Bradley Hand", "cursive"],
+      "$description": "Rough hand lettering. Chalkduster already has broken edges."
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 400,
+      "$description": "Impact is heavy at its regular weight. Faux bold would blur it further."
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "22px"
+    },
+    "xl": {
+      "$value": "30px"
+    },
+    "2xl": {
+      "$value": "44px"
+    },
+    "3xl": {
+      "$value": "72px"
+    },
+    "4xl": {
+      "$value": "112px"
+    },
+    "5xl": {
+      "$value": "196px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.78,
+      "$description": "Display lines overlap."
+    },
+    "body": {
+      "$value": 1.4
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.07,
+      "$description": "Letters touch and overlap.",
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": -0.05,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "0px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "5px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "22px"
+    },
+    "lg": {
+      "$value": "36px"
+    },
+    "xl": {
+      "$value": "60px"
+    },
+    "2xl": {
+      "$value": "100px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.3xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

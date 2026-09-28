@@ -1,0 +1,239 @@
+{
+  "$description": "Authored tokens for new-wave-typography. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#f1efe9",
+      "$description": "Uncoated offset paper."
+    },
+    "surface": {
+      "$value": "#f1efe9"
+    },
+    "subtle": {
+      "$value": "#d9d6ce",
+      "$description": "Grey screen tint."
+    },
+    "text": {
+      "$value": "#111111"
+    },
+    "muted": {
+      "$value": "#4a4a48"
+    },
+    "border": {
+      "$value": "#111111"
+    },
+    "primary": {
+      "$value": "#e4007c",
+      "$description": "Process magenta: an overprinted film layer."
+    },
+    "on-primary": {
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$value": "#0094d4",
+      "$description": "Process cyan: a second film layer."
+    },
+    "on-secondary": {
+      "$value": "#111111"
+    },
+    "accent": {
+      "$value": "#ffe000",
+      "$description": "Process yellow, used in small bars."
+    },
+    "on-accent": {
+      "$value": "#111111"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial Black",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 900
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "11px"
+    },
+    "sm": {
+      "$value": "13px"
+    },
+    "base": {
+      "$value": "16px"
+    },
+    "lg": {
+      "$value": "20px"
+    },
+    "xl": {
+      "$value": "28px"
+    },
+    "2xl": {
+      "$value": "40px"
+    },
+    "3xl": {
+      "$value": "60px"
+    },
+    "4xl": {
+      "$value": "96px"
+    },
+    "5xl": {
+      "$value": "150px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.86
+    },
+    "body": {
+      "$value": 1.45
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.04,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.3,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.5,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "0px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "2px"
+    },
+    "thick": {
+      "$value": "14px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

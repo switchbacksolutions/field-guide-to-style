@@ -1,0 +1,237 @@
+{
+  "id": "op-art",
+  "title": "Op art",
+  "order": 22,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Optical art",
+    "Perceptual abstraction",
+    "Retinal art"
+  ],
+  "summary": "Black and white stripes, checks, and rings so tight that the surface seems to move. The 1960s optical look.",
+  "lede": "Optical art as a design style: hard-edged geometric patterns in black and white, such as parallel stripes, checkerboards, and concentric rings, set so close and so sharp that the eye sees vibration, swelling, and moiré. The movement peaked in 1964–1966 in painting and passed at once into fashion, textiles, and graphic design. This record covers that black-and-white graphic core. Color op painting (Anuszkiewicz, Riley after 1967) and kinetic art are related branches.",
+  "moods": [
+    "vibrating",
+    "high-contrast",
+    "precise",
+    "disorienting",
+    "mod"
+  ],
+  "era": {
+    "from": 1960,
+    "to": 1970,
+    "note": "Wikidata gives 1960 as the start. Time magazine named the style in October 1964, and MoMA’s The Responsive Eye opened in February 1965. The V&A dates the op-art fashion trend to 1965. Vasarely’s Zebras (1938) is an early precursor."
+  },
+  "regions": [
+    "United Kingdom",
+    "France",
+    "United States",
+    "Italy",
+    "Venezuela"
+  ],
+  "identifiers": {
+    "wikidata": "Q182331",
+    "aat": "300022195"
+  },
+  "attestation": [
+    {
+      "label": "Getty AAT: Op art (styles and periods), with “Optical art”, “Perceptual Abstract”, and “Retinal Art” as used-for terms",
+      "url": "https://vocab.getty.edu/page/aat/300022195",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Tate: Art term “Op art”",
+      "url": "https://www.tate.org.uk/art/art-terms/o/op-art",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikipedia: Op art (term coined by Time, 1964; The Responsive Eye, 1965; Grignani’s graphic design)",
+      "url": "https://en.wikipedia.org/wiki/Op_art",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "V&A: Biba mini-dress, 1965 (O133328), catalogued with the style “Op art” and dated to “the short lived Op Art fashion trend of 1965”",
+      "url": "https://collections.vam.ac.uk/item/O133328/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "V&A: Scott Paper Company paper dress, 1966 (O147891), “repeating black and white op art printed pattern”",
+      "url": "https://collections.vam.ac.uk/item/O147891/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "AIGA Eye on Design: “The Hypnotic, Mind-bending Work of Italian Designer Franco Grignani” (2019)",
+      "url": "https://eyeondesign.aiga.org/the-hypnotic-mind-bending-work-of-italian-designer-franco-grignani/",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "style": "bauhaus",
+      "note": "Wikipedia’s Op art article says op art “perhaps more closely derives from the constructivist practices of the Bauhaus”, and that Moholy-Nagy taught optical exercises there. Josef Albers carried Bauhaus color and perception studies to Black Mountain College and Yale."
+    },
+    {
+      "relation": "influenced-by",
+      "style": "constructivism",
+      "note": "Wikipedia’s Op art article, citing MoMA, lists Constructivism with Neo-Impressionism, Cubism, Futurism, and Dada as antecedents of op art’s graphic effects."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Neo-Impressionism",
+      "wikidata": "Q150091",
+      "note": "Wikipedia names the Divisionists, who used optics to raise the luminosity of their paintings, as antecedents."
+    },
+    {
+      "relation": "related-to",
+      "label": "Kinetic art",
+      "wikidata": "Q466521",
+      "note": "Tate notes “the close connection between kinetic and op art”, for example in Soto’s work. Vasarely’s 1955 “Yellow manifesto” for the Mouvements exhibition joined optical and kinetic aims (Wikipedia)."
+    },
+    {
+      "relation": "related-to",
+      "style": "psychedelic-art",
+      "note": "Both peak in the mid-1960s and use contrast that makes edges vibrate. The [Psychedelic art](style:psychedelic-art) record gives the sources for the link through Albers and Moscoso. Psychedelic posters took the vibration and added figures, hand lettering, and saturated color."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Black and white.",
+      "text": "Pure black on pure white, sometimes with a scale of grays. The maximum value contrast makes edges flicker. Color, when it appears, is one hue or a set of close tones, and it does not replace the black-and-white structure."
+    },
+    {
+      "facet": "imagery",
+      "term": "Line, check, and ring.",
+      "text": "Parallel stripes, checkerboards, concentric circles, dots, and chevrons. Units are identical and repeat edge to edge. There are no figures or objects."
+    },
+    {
+      "facet": "structure",
+      "term": "Progression and distortion.",
+      "text": "A regular pattern changes step by step: stripes narrow toward an edge, squares compress, or rings swell, so that the flat surface seems to bulge or sink. A field of one orientation meets a field of another, and the edge seems to float."
+    },
+    {
+      "facet": "surface",
+      "term": "Hard edges and moiré.",
+      "text": "Flat, sharp, even paint or print with no texture, gradient, or shadow. Two fine patterns laid over each other at a small offset make moiré fringes."
+    },
+    {
+      "facet": "layout",
+      "term": "All-over field.",
+      "text": "The pattern runs to the edges of the canvas, the dress, or the page. In graphic design, a large pattern panel sits beside plain type, or type is cut out of the pattern."
+    },
+    {
+      "facet": "type",
+      "term": "Plain sans-serif, patterned display.",
+      "text": "Text is a neutral or condensed grotesque, set black on white. Display letters sometimes carry stripes or concentric outlines, as in Grignani’s work, but body text stays plain."
+    },
+    {
+      "facet": "motion",
+      "term": "Apparent motion.",
+      "text": "The motion is in the eye: after-images, shimmer, and swelling. On screen, a slow shift of pattern phase is the equivalent. Most op works are still."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Black-and-white stripes, checks, or rings fill a large area, edge to edge.",
+      "The pattern is tight and sharp enough that it seems to shimmer, swell, or move.",
+      "A regular unit changes by steps (narrows, compresses, bends) to suggest depth on a flat surface.",
+      "Two patterns overlap to make moiré, or two fields of different orientation meet at a hard edge.",
+      "Type, when present, is a plain sans-serif in black or white."
+    ],
+    "counter": [
+      "Figures, faces, flowers, or other representational imagery carry the composition.",
+      "Hand-drawn, swelling, or ornamental lettering.",
+      "Soft gradients, drop shadows, gloss, or texture.",
+      "Several saturated hues side by side in large areas.",
+      "Isolated geometric shapes on a plain ground, with no repeating pattern."
+    ],
+    "confusions": [
+      {
+        "with": "psychedelic-art",
+        "difference": "Psychedelic posters also vibrate, but with saturated complementary colors, melting hand lettering, and figures. Op art is abstract, mostly black and white, and built from ruled geometry."
+      },
+      {
+        "with": "international-typographic-style",
+        "difference": "The Swiss style also uses black, white, and sans-serif type, but relies on the grid and white space. Op art fills the surface with a repeating pattern that makes the eye see motion."
+      },
+      {
+        "with": "memphis",
+        "difference": "Memphis also uses black-and-white stripes and grids, but as one laminate among many clashing colors and irregular shapes. Op art keeps to black and white and to one precise, regular pattern at a time."
+      },
+      {
+        "with": "bauhaus",
+        "difference": "Bauhaus composes a few elementary shapes in primary colors. Op art repeats one unit many times until it becomes a field."
+      },
+      {
+        "with": "Kinetic art",
+        "difference": "Kinetic works move physically, by motor, wind, or the viewer’s walk. Op art is still and makes the eye supply the motion."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use pure black and pure white. Add grays only as steps in a scale.",
+      "Fill large panels edge to edge with one repeating pattern: stripes, checks, or rings.",
+      "Make the pattern change by steps, for example stripes that narrow or rings that swell, to suggest a bulge.",
+      "Put a field of one orientation inside a field of another, such as a horizontal-stripe disc on vertical stripes.",
+      "Overlap two fine patterns at a small offset for moiré in one place.",
+      "Put text on solid white or black panels with hard edges, never directly on the pattern.",
+      "Use a plain or condensed grotesque. Stripes inside large display letters are allowed.",
+      "Give patterns a fixed size so that the effect is the same at every width, and offer a calm alternative for people who are sensitive to it."
+    ],
+    "dont": [
+      "Do not set body text, form fields, or table cells on top of stripes or checks.",
+      "Do not use gradients, drop shadows, glass, or gloss.",
+      "Do not add illustrations, photographs of people, or ornament to the pattern.",
+      "Do not use several saturated hues. One accent at most.",
+      "Do not animate patterns quickly or flash them. Fast flicker can trigger seizures."
+    ],
+    "uses": [
+      "Fashion and textile brands",
+      "Exhibitions and galleries",
+      "Record sleeves and music sites",
+      "Event and festival identities",
+      "Editorial covers"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.patternShare",
+      "min": 0.3,
+      "note": "Positive marker. Repeating stripes, checks, or rings fill a large part of the page; the specimen measures 0.54. Pop art, Streamline Moderne, Vienna Secession, Skeuomorphism, and Grunge typography specimens also pass this range and fail on contrast, hue, lightness, or shadow. Provisional: set from the specimen; real sites often draw patterns as SVG or images, which this metric does not count."
+    },
+    {
+      "metric": "surface.patternShare",
+      "min": 0.12,
+      "note": "Positive marker. Many boxes, not only one backdrop, carry a pattern: cards, bands, and panels. The specimen measures 0.18. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.contrast",
+      "min": 20,
+      "note": "Positive marker. Pure black text on pure white ground (21:1). Other specimens measure 19.3 or less. Provisional: set from the specimen; off-white or near-black grounds on real sites will fall below."
+    },
+    {
+      "metric": "color.lightness",
+      "min": 0.3,
+      "max": 0.72,
+      "note": "Positive marker. Black covers a large share of the page as solid ground and reversed panels, so figure and ground are closer to balance than on paper-white pages. The specimen measures 0.67; the Vienna Secession, Swiss, and Pop art specimens measure 0.73 or more. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.hues",
+      "max": 1,
+      "note": "Black and white, with one accent hue at most. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "max": 0.1,
+      "note": "Strong color covers little or no area. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "Flat print. No drop shadows. Provisional: set from the specimen."
+    }
+  ]
+}

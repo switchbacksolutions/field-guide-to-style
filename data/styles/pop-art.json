@@ -1,0 +1,236 @@
+{
+  "id": "pop-art",
+  "title": "Pop art",
+  "order": 21,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Pop",
+    "Comic-book pop art",
+    "Commodity art"
+  ],
+  "summary": "Ben-Day dots, heavy black outlines, and flat process primaries. The comic panel blown up to poster size.",
+  "lede": "The graphic idiom of 1960s Pop art, which took its look from comic strips, advertising, and packaging: flat red, yellow, and blue printed in solid areas or Ben-Day dots, heavy black key lines, speech balloons and caption boxes, and bold condensed lettering. This record covers that hard-edged, mass-print core of Lichtenstein, Warhol’s screenprints, and Robert Indiana. British collage, soft sculpture, and later Neo-pop are related branches.",
+  "moods": [
+    "loud",
+    "brash",
+    "ironic",
+    "commercial",
+    "graphic"
+  ],
+  "era": {
+    "from": 1956,
+    "to": 1970,
+    "note": "Tate dates the movement from the mid 1950s in Britain and the late 1950s in America, with a peak in the 1960s. The comic-strip idiom starts with Lichtenstein’s paintings of 1961. Revivals continue in advertising, packaging, and web design."
+  },
+  "regions": [
+    "United States",
+    "United Kingdom",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q134147",
+    "aat": "300022205"
+  },
+  "attestation": [
+    {
+      "label": "Getty AAT: Pop (fine arts styles), with “Pop art” as a used-for term",
+      "url": "https://vocab.getty.edu/page/aat/300022205",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikipedia: Pop art",
+      "url": "https://en.wikipedia.org/wiki/Pop_art",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Tate: Art term “Pop art”",
+      "url": "https://www.tate.org.uk/art/art-terms/p/pop-art",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "The Art Story: Pop Art movement overview",
+      "url": "https://www.theartstory.org/movement/pop-art/",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Comics",
+      "wikidata": "Q1004",
+      "note": "Wikidata lists comics, advertising, and popular culture as influences (P737). [The Art Story](https://www.theartstory.org/movement/pop-art/) reports that Lichtenstein took both the images and the techniques of comic books: bright colors, clear outlines, and Ben-Day dots."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Ben-Day process",
+      "wikidata": "Q439395",
+      "note": "A printing process of 1879 that makes tints from fine patterns of dots. [Wikipedia](https://en.wikipedia.org/wiki/Pop_art) describes Lichtenstein’s work as thick outlines, bold colors, and Ben-Day dots “as if created by photographic reproduction”."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Dada",
+      "wikidata": "Q6034",
+      "note": "The [Getty AAT](https://vocab.getty.edu/page/aat/300022205) scope note says the movement was influenced by Dada. Wikidata also lists Dada as an influence."
+    },
+    {
+      "relation": "reaction-against",
+      "label": "Abstract expressionism",
+      "wikidata": "Q177725",
+      "note": "The Getty AAT scope note calls Pop “a move toward a more objective, immediate art form after the dominance of Abstract Expressionism”. Tate describes it as a revolt against the dominant approaches to art."
+    },
+    {
+      "relation": "related-to",
+      "label": "Independent Group",
+      "wikidata": "Q1661096",
+      "note": "The London group of 1952–1955 that Wikipedia calls the precursor of Pop art. Its collage branch, led by Richard Hamilton and Eduardo Paolozzi, is related but outside this record’s graphic core."
+    },
+    {
+      "relation": "related-to",
+      "style": "memphis",
+      "note": "The Memphis record lists Pop art as an influence on its bright commercial color. Memphis turns that color into laminate pattern and toy-like objects."
+    },
+    {
+      "relation": "related-to",
+      "style": "psychedelic-art",
+      "note": "The Psychedelic art record lists Pop art among the sources of the San Francisco rock poster, through cartoon imagery and collage."
+    },
+    {
+      "relation": "related-to",
+      "label": "Neo-pop",
+      "wikidata": "Q3347103",
+      "note": "A 1980s and 1990s revival of Pop art’s commercial imagery, per Wikipedia. Takashi Murakami’s Superflat (Q1444581) is a Japanese branch."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "Ben-Day dots.",
+      "text": "Tints are made of large, even dots in one ink on white or on a second flat color: red dots for skin, blue dots for sky. The dots are big enough to see as dots."
+    },
+    {
+      "facet": "structure",
+      "term": "Heavy key lines.",
+      "text": "Every shape has a thick black outline of even weight, as in a comic’s inked line. Hairlines do not appear."
+    },
+    {
+      "facet": "color",
+      "term": "Process primaries.",
+      "text": "Flat red, yellow, and blue with black and white, the colors of cheap four-color printing. Warhol’s screenprints add hot pink, orange, and turquoise. No gradients and no modeled shading."
+    },
+    {
+      "facet": "layout",
+      "term": "Comic panel.",
+      "text": "The image is framed as one panel cropped from a strip, or as a grid of panels or repeated units, like Warhol’s rows of cans and faces."
+    },
+    {
+      "facet": "type",
+      "term": "Balloon and sound-effect lettering.",
+      "text": "Capital letters in speech balloons and yellow caption boxes. Sound effects in huge condensed or blocky letters with a black outline and a drop. Robert Indiana used stacked slab-serif words."
+    },
+    {
+      "facet": "imagery",
+      "term": "Mass-culture subjects.",
+      "text": "Close-ups of faces, explosions, brand packaging, food, and everyday objects, isolated and enlarged. Starbursts and speed lines mark action."
+    },
+    {
+      "facet": "motion",
+      "term": "Frozen action.",
+      "text": "Motion is drawn, not animated: speed lines, starbursts, and tilted lettering. On screen, a short jolt or pop on press is the equivalent."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Visible Ben-Day or halftone dots fill areas of flat color.",
+      "Thick black outlines of even weight surround shapes and panels.",
+      "Red, yellow, and blue (or Warhol’s hot pinks and turquoise) appear as flat fills.",
+      "Speech balloons, caption boxes, starbursts, or sound-effect lettering appear."
+    ],
+    "counter": [
+      "Smooth gradients, soft shadows, or modeled 3D shading.",
+      "Thin hairline borders or no outlines.",
+      "Muted, earthy, or pastel-only palettes.",
+      "Irregular laminate patterns such as squiggles and confetti."
+    ],
+    "confusions": [
+      {
+        "with": "memphis",
+        "difference": "Both use bright flat color and black outlines. Memphis fills surfaces with squiggles, confetti, and grids, and builds toy-like objects at odd angles. Pop art uses one pattern only, the regular Ben-Day dot, and frames its image as a comic panel with balloons and captions."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Both use thick black outlines and flat brights. Neo-brutalism gives every block a hard offset shadow and has no dot tints or comic devices. Pop art has dot fields, speech balloons, and sound-effect lettering, and its panels cast no shadow."
+      },
+      {
+        "with": "bauhaus",
+        "difference": "Both use red, yellow, and blue. Bauhaus uses them for elementary geometry on a clean grid with thin rules. Pop art uses them for comic-strip imagery with Ben-Day dots and heavy outlines."
+      },
+      {
+        "with": "psychedelic-art",
+        "difference": "Psychedelic posters cover the sheet in vibrating complementary colors with melting lettering and flowing curves. Pop art keeps legible block lettering, white paper, square panels, and regular dots."
+      },
+      {
+        "with": "Neo-pop",
+        "difference": "Neo-pop and Superflat reuse Pop art’s commercial imagery from the 1980s on, often with glossy digital finish, gradients, or anime characters. This record covers the flat, dot-printed look of the 1960s."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Frame sections as comic panels with 4 to 6 px black borders and square corners.",
+      "Fill some panels with Ben-Day dots: a tiled radial gradient of one strong ink on white or on a second flat color, at a pitch of about 10 to 14 px.",
+      "Use flat red, yellow, blue, black, and white. Add hot pink or turquoise only for a Warhol variant.",
+      "Put headings in yellow caption boxes and short statements in white speech balloons with an outlined tail.",
+      "Set display type in a condensed heavy sans in capitals. Give the biggest words a black outline and a hard drop, like a sound effect.",
+      "Put body text on solid white or yellow, never directly on dots.",
+      "Use starbursts and speed lines as decoration around the main headline."
+    ],
+    "dont": [
+      "Do not use gradients, blurred shadows, or glossy highlights.",
+      "Do not use thin gray borders. Outlines must read as black ink.",
+      "Do not give every block a hard offset shadow. That is neo-brutalism.",
+      "Do not use squiggle, confetti, or grid patterns. The only pattern is the dot.",
+      "Do not make the dots so small that they read as a smooth tint.",
+      "Do not reproduce a specific artist’s painting or a comic publisher’s characters."
+    ],
+    "uses": [
+      "Food and drink packaging",
+      "Retail campaigns",
+      "Event and festival pages",
+      "Comic, games, and entertainment brands",
+      "Editorial features"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.patternShare",
+      "min": 0.1,
+      "note": "Positive marker. Ben-Day dot fields fill many panels, not only the page background. Provisional: set from the specimen. Real sites often draw halftones as images or SVG, which this metric does not count."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.3,
+      "note": "Positive marker. Dots cover a large share of the visible page. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.border.medianWidth",
+      "min": 4,
+      "note": "Positive marker. Outlines are heavy black key lines. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.hues",
+      "min": 3,
+      "note": "Positive marker. Red, yellow, and blue appear together. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Color is flat ink. Dot tints count as pattern, not as gradient."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.1,
+      "note": "Panels cast no shadows, unlike neo-brutalism. Provisional: set from the specimen."
+    }
+  ]
+}

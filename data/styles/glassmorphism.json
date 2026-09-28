@@ -1,0 +1,226 @@
+{
+  "id": "glassmorphism",
+  "title": "Glassmorphism",
+  "order": 15,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Glassmorphic",
+    "Glasmorphismus",
+    "Acrylic (Microsoft Fluent)"
+  ],
+  "summary": "Frosted, translucent panels that float over vivid color. Interface glass of the 2020s.",
+  "lede": "An interface style of the 2020s: semi-transparent panels with a strong background blur, rounded corners, and a thin light edge, placed over vivid gradients or colorful shapes so that the color shows through as a soft glow. The designer Michał Malewicz named it in 2020. Microsoft’s Fluent design system calls the same material Acrylic.",
+  "moods": [
+    "airy",
+    "layered",
+    "luminous",
+    "premium",
+    "calm"
+  ],
+  "era": {
+    "from": 2020,
+    "note": "Named in 2020 and popular in web and app concepts from 2020–2021. Apple’s Liquid Glass (2025) and other operating systems brought translucency back into mainstream interfaces. Fluent Acrylic (2017) is an earlier implementation under another name."
+  },
+  "regions": [
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q138454357"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Glassmorphism",
+      "url": "https://en.wikipedia.org/wiki/Glassmorphism",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Nielsen Norman Group: Glassmorphism: Definition and Best Practices (Megan Brown, 2024-06-07)",
+      "url": "https://www.nngroup.com/articles/glassmorphism/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Michał Malewicz: Glassmorphism in user interfaces (Hype4 Academy; body behind a login, title and author checked)",
+      "url": "https://hype4.academy/articles/design/glassmorphism-in-user-interfaces",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "t3n: Design-Trend 2021: Das ist Glasmorphismus (Dieter Petereit, 2021-03-11)",
+      "url": "https://t3n.de/news/design-trend-2021-dir-bekannt-1365503/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Everyday UX: Glassmorphism in 2025 (Jess Eddy, 2025-08-12)",
+      "url": "https://www.everydayux.net/glassmorphism-apple-liquid-glass-interface-design/",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "label": "Neumorphism",
+      "wikidata": "Q102244095",
+      "note": "Wikipedia and t3n (2021) describe glassmorphism as the successor of neumorphism. Malewicz, who by his own account started the neumorphism trend a year earlier, named glassmorphism in 2020. It keeps the floating card but replaces low-contrast extruded shadows with translucency and color."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Fluent Design System (Acrylic)",
+      "wikidata": "Q29900635",
+      "note": "Microsoft’s Fluent Design System (2017) defines Acrylic, a translucent, blurred material. NN/g and t3n both name it as glassmorphism under another name."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Windows Aero",
+      "wikidata": "Q219710",
+      "note": "Wikipedia, citing UXMA, names the glass window borders of Windows Vista and Windows 7 as precursors."
+    },
+    {
+      "relation": "related-to",
+      "style": "frutiger-aero",
+      "note": "Both use translucent glass. Frutiger Aero adds a gloss highlight, reflections, sky gradients, and nature imagery. Glassmorphism uses matte, frosted glass over abstract color."
+    },
+    {
+      "relation": "related-to",
+      "style": "flat-design",
+      "note": "Wikipedia reports that glassmorphism began to replace flat design in interface design by the mid-2020s. The content inside the glass stays flat."
+    },
+    {
+      "relation": "related-to",
+      "label": "Liquid Glass",
+      "wikidata": "Q134784675",
+      "note": "Apple’s 2025 design language. Wikipedia and Everyday UX treat it as a development of glassmorphism that adds refraction, specular edges, and motion."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "Frosted glass.",
+      "text": "Panels have a semi-transparent white or tinted fill and a strong background blur. Shapes behind them show as soft, out-of-focus color."
+    },
+    {
+      "facet": "surface",
+      "term": "Light edge.",
+      "text": "A 1 px border in translucent white marks the edge of the glass. A soft, wide shadow lifts the panel."
+    },
+    {
+      "facet": "color",
+      "term": "Vivid backdrop.",
+      "text": "Saturated gradients or large colored blobs sit behind the glass, often violet, pink, blue, and orange on a dark or light base. The glass itself stays neutral."
+    },
+    {
+      "facet": "structure",
+      "term": "Floating cards.",
+      "text": "Content sits in separate rounded cards that float above the backdrop. Depth comes from layer order and from different levels of opacity, not from perspective."
+    },
+    {
+      "facet": "type",
+      "term": "Clean sans-serif.",
+      "text": "Geometric or neo-grotesque sans-serif type, often white on dark glass or dark on light glass, with little decoration."
+    },
+    {
+      "facet": "layout",
+      "term": "Large radii.",
+      "text": "Corners are round, typically 12–24 px on cards and fully rounded on buttons and chips."
+    },
+    {
+      "facet": "imagery",
+      "term": "Abstract color fields.",
+      "text": "Gradient spheres, mesh gradients, and colorful photos serve as the backdrop. The glass panels themselves carry little or no imagery."
+    }
+  ],
+  "synthesis": [
+    "No references are stored yet. The record rests on the attestation sources. The specimen follows the recipe that those sources describe: a translucent fill, a background blur, a thin light border, and large radii over colorful shapes."
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Panels are translucent, and the shapes behind them look blurred through the panel.",
+      "A vivid gradient or colorful shapes sit behind the panels.",
+      "Panels have a thin, light border and rounded corners.",
+      "Panels float as separate cards with soft shadows."
+    ],
+    "counter": [
+      "Panels are opaque, or translucent without any blur.",
+      "A glossy highlight band on the upper half of buttons or panels.",
+      "Visible material textures such as leather, wood, or brushed metal.",
+      "Hard offset shadows or thick black outlines."
+    ],
+    "confusions": [
+      {
+        "with": "frutiger-aero",
+        "difference": "Frutiger Aero glass is glossy, with a bright highlight on the upper half, reflections, sky-and-water gradients, and nature imagery. Glassmorphism glass is matte and frosted, and the backdrop is abstract color."
+      },
+      {
+        "with": "Neumorphism",
+        "difference": "Neumorphism shapes are opaque and the same color as the background. They rise or sink through paired light and dark shadows. Glassmorphism panels are translucent and contrast with a colorful backdrop."
+      },
+      {
+        "with": "flat-design",
+        "difference": "Flat design uses opaque, solid fills with no blur and little depth. Glassmorphism keeps the content flat but puts it on translucent, blurred layers over color."
+      },
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphic interfaces imitate specific physical objects and textures. Glassmorphism uses only one abstract material, frosted glass, and keeps the content flat."
+      },
+      {
+        "with": "Liquid Glass",
+        "difference": "Apple’s Liquid Glass bends and magnifies what is behind it and adds moving specular edges. Classic glassmorphism only blurs and tints."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Put a vivid gradient or large colored shapes behind the content, so that the glass has something to blur.",
+      "Give panels a translucent fill (10–40 % white or a tinted dark), a background blur of 12–40 px, a 1 px translucent white border, and a radius of 16–24 px.",
+      "Lift panels with a wide, soft shadow of low opacity.",
+      "Use layers of different opacity to show hierarchy: the more opaque the panel, the more important the content.",
+      "Use a clean sans-serif and keep the content inside the glass flat.",
+      "Give the primary action an opaque fill so that it stands out from the glass."
+    ],
+    "dont": [
+      "Do not put text directly on the busy backdrop. Put it on glass that is opaque and blurred enough for a contrast of at least 4.5:1.",
+      "Do not use translucency without blur. Clear transparency makes text hard to read.",
+      "Do not stack many glass layers on top of each other.",
+      "Do not add gloss highlights, reflections, or material textures.",
+      "Do not depend on backdrop-filter alone. Give the panel a fill that stays readable when the browser does not support blur or the user asks for reduced transparency."
+    ],
+    "uses": [
+      "Operating system and app interfaces",
+      "Dashboards and widgets",
+      "Fintech and crypto landing pages",
+      "Music and media players",
+      "Product launch pages"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.blurShare",
+      "min": 0.5,
+      "note": "Most surfaces have a background blur. Frutiger Aero glass uses it on a few panels only. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "min": 0.35,
+      "note": "A vivid backdrop shows through the glass and covers most of the page area. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.radius.median",
+      "min": 14,
+      "note": "Large radii on cards and pills. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.border.share",
+      "min": 0.5,
+      "note": "Most panels have a thin light edge. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.border.medianWidth",
+      "max": 1.5,
+      "note": "The edge is a hairline, not an outline. Provisional."
+    },
+    {
+      "metric": "surface.gradientShare",
+      "max": 0.3,
+      "note": "Glass fills are flat and frosted. Gloss gradients on surfaces point to Frutiger Aero. Provisional."
+    }
+  ]
+}

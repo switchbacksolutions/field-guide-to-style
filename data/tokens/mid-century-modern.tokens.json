@@ -1,0 +1,256 @@
+{
+  "$description": "Authored tokens for mid-century-modern. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#f3ead6",
+      "$description": "Warm cream paper."
+    },
+    "surface": {
+      "$value": "#fbf5e8"
+    },
+    "subtle": {
+      "$value": "#e8dcc0"
+    },
+    "text": {
+      "$value": "#2a2522",
+      "$description": "Charcoal ink, not pure black."
+    },
+    "muted": {
+      "$value": "#5a4f45"
+    },
+    "border": {
+      "$value": "#2a2522"
+    },
+    "primary": {
+      "$value": "#c9582b",
+      "$description": "Burnt orange."
+    },
+    "on-primary": {
+      "$value": "#fbf5e8"
+    },
+    "secondary": {
+      "$value": "#1d7a78",
+      "$description": "Teal."
+    },
+    "on-secondary": {
+      "$value": "#fbf5e8"
+    },
+    "accent": {
+      "$value": "#dea133",
+      "$description": "Mustard."
+    },
+    "on-accent": {
+      "$value": "#2a2522"
+    },
+    "olive": {
+      "$value": "#8a8f2e",
+      "$description": "Olive, the fourth print color."
+    },
+    "on-olive": {
+      "$value": "#fbf5e8"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Futura",
+        "Century Gothic",
+        "Avenir Next",
+        "Trebuchet MS",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Iowan Old Style",
+        "Palatino",
+        "Book Antiqua",
+        "Georgia",
+        "serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Futura",
+        "Century Gothic",
+        "Avenir Next",
+        "sans-serif"
+      ]
+    },
+    "script": {
+      "$value": [
+        "Brush Script MT",
+        "Snell Roundhand",
+        "Segoe Script",
+        "cursive"
+      ],
+      "$description": "Brush lettering for one word at a time."
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 700
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "18px"
+    },
+    "lg": {
+      "$value": "21px"
+    },
+    "xl": {
+      "$value": "28px"
+    },
+    "2xl": {
+      "$value": "38px"
+    },
+    "3xl": {
+      "$value": "56px"
+    },
+    "4xl": {
+      "$value": "84px"
+    },
+    "5xl": {
+      "$value": "104px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.95
+    },
+    "body": {
+      "$value": 1.55
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.12,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "4px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "72px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "2px"
+    },
+    "thick": {
+      "$value": "4px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

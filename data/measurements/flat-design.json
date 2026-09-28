@@ -1,0 +1,149 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/flat-design/index.html",
+  "title": "Flat design specimen · A Field Guide to Style",
+  "captured": "2026-09-28T16:59:24.967Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Segoe UI",
+        "share": 1
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 120,
+    "sizeRange": 7.5,
+    "scaleRatio": 1.41,
+    "headingWeight": 300,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.276
+      },
+      {
+        "hex": "#1abc9c",
+        "share": 0.181
+      },
+      {
+        "hex": "#2c3e50",
+        "share": 0.142
+      },
+      {
+        "hex": "#ecf0f1",
+        "share": 0.119
+      },
+      {
+        "hex": "#1a6fb0",
+        "share": 0.115
+      },
+      {
+        "hex": "#8e44ad",
+        "share": 0.111
+      },
+      {
+        "hex": "#f39c12",
+        "share": 0.032
+      },
+      {
+        "hex": "#c0392b",
+        "share": 0.023
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#ffffff",
+    "contrast": 1,
+    "chroma": 0.29,
+    "lightness": 0.62,
+    "chromaticShare": 0.46,
+    "accentChroma": 0.58,
+    "distinct": 8,
+    "hues": 5,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 41,
+    "radius": {
+      "median": 0,
+      "max": 4,
+      "roundShare": 0.15
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#1bbc9b",
+        "share": 0.504
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.164
+      },
+      {
+        "hex": "#2d3e50",
+        "share": 0.12
+      },
+      {
+        "hex": "#1c70b0",
+        "share": 0.043
+      },
+      {
+        "hex": "#8e46ae",
+        "share": 0.043
+      },
+      {
+        "hex": "#eaf0f1",
+        "share": 0.037
+      },
+      {
+        "hex": "#c1392b",
+        "share": 0.025
+      },
+      {
+        "hex": "#20aa95",
+        "share": 0.008
+      },
+      {
+        "hex": "#24716d",
+        "share": 0.008
+      },
+      {
+        "hex": "#218377",
+        "share": 0.007
+      }
+    ],
+    "background": "#1bbc9b",
+    "chroma": 0.41,
+    "lightness": 0.52,
+    "chromaticShare": 0.65,
+    "accentChroma": 0.6,
+    "distinct": 7,
+    "hues": 4
+  }
+}

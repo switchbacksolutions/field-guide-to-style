@@ -1,0 +1,228 @@
+{
+  "id": "neumorphism",
+  "title": "Neumorphism",
+  "order": 26,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Soft UI",
+    "Neomorphism",
+    "Neuomorphism",
+    "New skeuomorphism"
+  ],
+  "summary": "Soft, extruded controls pressed out of one pale surface. Light and shadow instead of color.",
+  "lede": "An interface style from late 2019 in which buttons, cards, and wells have the same color as the background and appear to rise out of it or sink into it. Each shape gets two soft shadows, a light one toward the light source and a dark one away from it, on a pale, low-contrast, near-monochrome surface. Designers named it as a “new skeuomorphism” and describe it as a middle point between skeuomorphism and flat design. Its popularity fell by 2021, mainly because of weak contrast.",
+  "moods": [
+    "soft",
+    "calm",
+    "tactile",
+    "quiet",
+    "minimal"
+  ],
+  "era": {
+    "from": 2019,
+    "to": 2021,
+    "note": "Michał Malewicz named the trend in a UX Collective article in December 2019, after a viral Dribbble banking concept by Alexander Plyuto. CSS-Tricks, Toptal, and Webflow date its peak to 2020. Wikipedia and Webflow report that designers moved away from it by 2021, toward glassmorphism. It remains in UI kits, smart-home and device concepts, and CSS generators."
+  },
+  "regions": [
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q102244095"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Neumorphism",
+      "url": "https://en.wikipedia.org/wiki/Neumorphism",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Michał Malewicz: Neumorphism in user interfaces (Hype4 Academy; first published on UX Collective, December 2019)",
+      "url": "https://hype4.academy/articles/design/neumorphism-in-user-interfaces",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "CSS-Tricks: Neumorphism and CSS (Adrian Bece, 2020-03-20)",
+      "url": "https://css-tricks.com/neumorphism-and-css/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Nielsen Norman Group: Skeuomorphism (Megan Chan, 2024-03-15), section on neumorphism",
+      "url": "https://www.nngroup.com/articles/skeuomorphism/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Toptal: The New Trend in UI Design: An Overview of Neumorphism (Kayode Osinusi, 2021-08-31)",
+      "url": "https://www.toptal.com/designers/ui/neumorphic-ui-design",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Webflow Blog: Neumorphism: Its rise and fall in UI design (Jeff Cardello)",
+      "url": "https://webflow.com/blog/neumorphism",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "style": "skeuomorphism",
+      "note": "Malewicz (2019) introduces the trend as a “new skeuomorphism”, and Wikipedia gives the name as a blend of “neo” and “skeuomorphism”. It keeps the physical light and shadow of [skeuomorphism](style:skeuomorphism) but drops its material textures and object metaphors."
+    },
+    {
+      "relation": "reaction-against",
+      "style": "flat-design",
+      "note": "Malewicz writes that the push toward “super flat and minimal” got a pushback. NN/g says the weak signifiers of flat design led to neumorphism. It keeps the flat palette and minimal layout of [flat design](style:flat-design) and adds depth back."
+    },
+    {
+      "relation": "related-to",
+      "label": "Material Design",
+      "wikidata": "Q17590603",
+      "note": "CSS-Tricks and Malewicz both define neumorphism against the Material card: a Material card floats above the background and casts one dark shadow; a neumorphic card is the same color as the background and has one light and one dark shadow."
+    },
+    {
+      "relation": "related-to",
+      "style": "glassmorphism",
+      "note": "Wikipedia and Webflow report that [glassmorphism](style:glassmorphism) replaced neumorphism as the popular interface trend from about 2021. Malewicz named both."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "Paired soft shadows.",
+      "text": "Every raised shape has two blurred shadows with equal and opposite offsets: a dark one toward the lower right and a white one toward the upper left, as if lit from the upper left. The blur is about twice the offset."
+    },
+    {
+      "facet": "surface",
+      "term": "Raised and pressed.",
+      "text": "The same shadows set inside the shape make it look pressed into the surface. Inputs, progress tracks, and active toggles sink; cards, buttons, and knobs rise. The change from raised to pressed shows state."
+    },
+    {
+      "facet": "color",
+      "term": "One pale surface.",
+      "text": "Background and elements share one light, slightly tinted gray or pastel, such as blue-gray #e0e5ec. The background cannot be pure white or black, because one of the two shadows would disappear."
+    },
+    {
+      "facet": "color",
+      "term": "One soft accent.",
+      "text": "A single accent color, often blue, violet, or orange, marks the active control, an icon, or a progress value. The rest of the palette is the surface color and two or three grays for text."
+    },
+    {
+      "facet": "structure",
+      "term": "Controls as physical objects.",
+      "text": "Round knobs, pill switches, sliders, dials, and square keys that look molded from one piece of soft plastic. Device remotes, music players, smart-home panels, and calculators are the usual subjects."
+    },
+    {
+      "facet": "layout",
+      "term": "Large radii, wide spacing.",
+      "text": "Corners are round, 12–30 px on cards and fully round on buttons and knobs. Elements need wide gaps so that their shadows do not overlap."
+    },
+    {
+      "facet": "type",
+      "term": "Rounded sans-serif.",
+      "text": "Geometric or rounded sans-serif type (Poppins, Nunito, Montserrat, SF Pro Rounded) in slate gray, medium to bold, with no borders and no text shadows."
+    },
+    {
+      "facet": "motion",
+      "term": "Press states.",
+      "text": "A button sinks when pressed: its outer shadows turn into inner shadows. Transitions are short and soft."
+    }
+  ],
+  "synthesis": [
+    "No references are stored yet. The record rests on the attestation sources. The specimen follows the recipe that those sources describe: one pale surface, elements in the same color, and paired light and dark shadows that make them rise or sink."
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Cards and controls have the same color as the background and are separated from it only by soft shadow and highlight.",
+      "Each raised shape has a white glow on one side and a gray shadow on the opposite side.",
+      "Some elements look pressed into the surface, with inner shadows, next to others that rise.",
+      "The palette is one pale, slightly tinted gray or pastel with at most one accent color.",
+      "Corners are large and round; buttons and knobs are pills and circles."
+    ],
+    "counter": [
+      "Cards in a different color or with a visible border.",
+      "Only dark drop shadows, so shapes float above the page instead of rising from it.",
+      "Material textures such as leather, wood, or linen.",
+      "Translucent, blurred panels over a vivid backdrop.",
+      "Hard offset shadows, thick outlines, or a pure white or pure black background."
+    ],
+    "confusions": [
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphism imitates specific objects and materials, with textures, stitching, glossy gradients, and embossed text. Neumorphism keeps only light and shadow on one plain, textureless surface."
+      },
+      {
+        "with": "glassmorphism",
+        "difference": "Glassmorphism panels are translucent, blurred, edged with a thin light border, and contrast with a colorful backdrop. Neumorphic shapes are opaque, the same color as the background, and have no border."
+      },
+      {
+        "with": "flat-design",
+        "difference": "Flat design uses several saturated fills and no shadows. Neumorphism uses one pale fill and depends on shadows."
+      },
+      {
+        "with": "Material Design",
+        "difference": "A Material card is often a different color from the background and casts one dark shadow downward, so it floats. A neumorphic card is the background color and has a light and a dark shadow, so it grows out of the surface."
+      },
+      {
+        "with": "frutiger-aero",
+        "difference": "Frutiger Aero uses glossy gradients, sky blues and greens, glass, and nature imagery. Neumorphism is matte and near-monochrome."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Choose one light, slightly tinted background, such as #e0e5ec, and give cards, buttons, and inputs the same color.",
+      "Give each raised element two shadows with equal and opposite offsets: dark (surface darkened by about 15–25 %) to the lower right, white to the upper left. Use a blur of about twice the offset.",
+      "Set inputs, tracks, and active or selected states as pressed wells with the same pair of shadows inset.",
+      "Keep text and icons dark enough for a contrast of at least 4.5:1, because the shapes themselves have almost none.",
+      "Mark the primary action with the single accent color, in its fill or its text, so it is visible without the shadows.",
+      "Use large radii and wide gaps so each shadow has room."
+    ],
+    "dont": [
+      "Do not use a pure white or pure black background. One of the two shadows would disappear.",
+      "Do not add borders, outlines, or a different card color. The shape must come from the surface.",
+      "Do not use only one dark drop shadow. That is Material Design.",
+      "Do not put important information into the shadow alone. Many people cannot see a contrast this low.",
+      "Do not add textures, gloss, or translucency.",
+      "Do not crowd elements. Overlapping shadows turn into gray smears."
+    ],
+    "uses": [
+      "Smart-home and device control panels",
+      "Music players and remotes",
+      "Calculators, timers, and small utilities",
+      "Dashboards with few controls",
+      "Concept shots and portfolio pieces"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.7,
+      "note": "Nearly every visible surface carries shadows: raised cards and buttons, pressed wells and inputs. Provisional: set from the specimen until real references are measured."
+    },
+    {
+      "metric": "surface.shadow.medianOffset",
+      "min": 6,
+      "note": "Shadows are offset diagonally by several pixels toward and away from the light, not stacked straight below. Glass and Aero shadows sit closer. Provisional: set from the specimen until real references are measured."
+    },
+    {
+      "metric": "surface.shadow.medianBlur",
+      "min": 8,
+      "note": "Both shadows are soft, with a blur of about twice the offset. Hard offset shadows point to neo-brutalism. Provisional."
+    },
+    {
+      "metric": "surface.radius.median",
+      "min": 10,
+      "note": "Large radii on cards, pills, and round knobs. Provisional."
+    },
+    {
+      "metric": "surface.border.share",
+      "max": 0.15,
+      "note": "Shapes come from the surface, not from outlines. A hairline edge on most panels points to glassmorphism. Provisional."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "max": 0.1,
+      "note": "One pale surface color covers the page. A single accent stays small. Provisional."
+    }
+  ]
+}

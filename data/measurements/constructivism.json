@@ -1,0 +1,149 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/constructivism/index.html",
+  "title": "Constructivism specimen · A Field Guide to Style",
+  "captured": "2026-09-28T17:00:52.254Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica Neue",
+        "share": 0.53
+      },
+      {
+        "family": "Avenir Next Condensed",
+        "share": 0.47
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 168,
+    "sizeRange": 9.88,
+    "scaleRatio": 1.46,
+    "headingWeight": 800,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.45,
+    "monoShare": 0,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#eee6d6",
+        "share": 0.6
+      },
+      {
+        "hex": "#d2231b",
+        "share": 0.14
+      },
+      {
+        "hex": "#161412",
+        "share": 0.12
+      },
+      {
+        "hex": "#d6c9b1",
+        "share": 0.082
+      },
+      {
+        "hex": "#f7f0e3",
+        "share": 0.03
+      },
+      {
+        "hex": "#9c1b14",
+        "share": 0.023
+      },
+      {
+        "hex": "#4b4540",
+        "share": 0.004
+      }
+    ],
+    "background": "#eee6d6",
+    "text": "#161412",
+    "contrast": 14.8,
+    "chroma": 0.19,
+    "lightness": 0.71,
+    "chromaticShare": 0.16,
+    "accentChroma": 0.69,
+    "distinct": 6,
+    "hues": 1,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 40,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.68,
+      "medianWidth": 3
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#eee7d7",
+        "share": 0.698
+      },
+      {
+        "hex": "#151412",
+        "share": 0.105
+      },
+      {
+        "hex": "#d1231a",
+        "share": 0.097
+      },
+      {
+        "hex": "#f8f0e3",
+        "share": 0.024
+      },
+      {
+        "hex": "#e3dacc",
+        "share": 0.014
+      },
+      {
+        "hex": "#7a766d",
+        "share": 0.011
+      },
+      {
+        "hex": "#9e988e",
+        "share": 0.01
+      },
+      {
+        "hex": "#56524a",
+        "share": 0.007
+      },
+      {
+        "hex": "#ccc6ba",
+        "share": 0.006
+      },
+      {
+        "hex": "#b6b0a5",
+        "share": 0.005
+      }
+    ],
+    "background": "#eee7d7",
+    "chroma": 0.15,
+    "lightness": 0.74,
+    "chromaticShare": 0.11,
+    "accentChroma": 0.69,
+    "distinct": 4,
+    "hues": 1
+  }
+}

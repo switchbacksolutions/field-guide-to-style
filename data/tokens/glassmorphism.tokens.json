@@ -1,0 +1,104 @@
+{
+  "$description": "Authored tokens for glassmorphism. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": { "$value": "#120e35", "$description": "Deep indigo base under the color blobs." },
+    "surface": { "$value": "#ffffff1f", "$description": "Frosted glass: 12 % white. Use with blur.md." },
+    "subtle": { "$value": "#ffffff14", "$description": "A fainter glass layer for rows and chips." },
+    "text": { "$value": "#ffffff" },
+    "muted": { "$value": "#ddd8fb" },
+    "border": { "$value": "#ffffff47", "$description": "The light edge of the glass." },
+    "primary": { "$value": "#ffffff", "$description": "Opaque white action on translucent glass." },
+    "on-primary": { "$value": "#2b1a78" },
+    "secondary": { "$value": "#ffffff29" },
+    "on-secondary": { "$value": "#ffffff" },
+    "accent": { "$value": "#ffb86b" },
+    "on-accent": { "$value": "#120e35" },
+    "violet": { "$value": "#7c3aed" },
+    "fuchsia": { "$value": "#b0209f" },
+    "blue": { "$value": "#2459e0" },
+    "orange": { "$value": "#f0661f" }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": { "$value": ["SF Pro Display", "Segoe UI Variable Display", "Inter", "system-ui", "-apple-system", "Helvetica Neue", "sans-serif"] },
+    "body": { "$value": ["SF Pro Text", "Segoe UI Variable Text", "Inter", "system-ui", "-apple-system", "Helvetica Neue", "sans-serif"] },
+    "mono": { "$value": ["SF Mono", "Cascadia Mono", "ui-monospace", "Menlo", "monospace"] }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": { "$value": 400 },
+    "bold": { "$value": 600 },
+    "display": { "$value": 700 }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": { "$value": "12px" },
+    "sm": { "$value": "14px" },
+    "base": { "$value": "16px" },
+    "lg": { "$value": "19px" },
+    "xl": { "$value": "24px" },
+    "2xl": { "$value": "30px" },
+    "3xl": { "$value": "40px" },
+    "4xl": { "$value": "56px" },
+    "5xl": { "$value": "76px" }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": { "$value": 1.05 },
+    "body": { "$value": 1.55 }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": { "$value": -0.03, "$extensions": { "style-inspiration": { "unit": "em" } } },
+    "heading": { "$value": -0.015, "$extensions": { "style-inspiration": { "unit": "em" } } },
+    "label": { "$value": 0.04, "$extensions": { "style-inspiration": { "unit": "em" } } }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": { "$value": "0px" },
+    "sm": { "$value": "12px" },
+    "md": { "$value": "18px" },
+    "lg": { "$value": "26px" },
+    "pill": { "$value": "999px" }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": { "$value": "1px" },
+    "thick": { "$value": "1.5px" }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": { "$value": "6px" },
+    "sm": { "$value": "12px" },
+    "md": { "$value": "20px" },
+    "lg": { "$value": "32px" },
+    "xl": { "$value": "56px" },
+    "2xl": { "$value": "88px" }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "sm": { "$value": { "color": "#0a062433", "offsetX": "0px", "offsetY": "4px", "blur": "16px", "spread": "0px" } },
+    "md": { "$value": { "color": "#0a06244d", "offsetX": "0px", "offsetY": "12px", "blur": "40px", "spread": "0px" } }
+  },
+  "blur": {
+    "$type": "dimension",
+    "sm": { "$value": "12px" },
+    "md": { "$value": "24px" },
+    "lg": { "$value": "40px" }
+  },
+  "gradient": {
+    "$type": "gradient",
+    "backdrop": {
+      "$value": { "angle": "160deg", "stops": [{ "color": "#120e35", "position": 0 }, { "color": "#1d1150", "position": 0.5 }, { "color": "#0d1a4a", "position": 1 }] },
+      "$description": "The base under the color blobs. The blobs carry the saturated color."
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": { "$value": { "fontFamily": "{font.display}", "fontSize": "{text.5xl}", "fontWeight": "{font-weight.display}", "lineHeight": "{leading.tight}", "letterSpacing": "{tracking.display}" } },
+    "heading": { "$value": { "fontFamily": "{font.display}", "fontSize": "{text.2xl}", "fontWeight": "{font-weight.bold}", "lineHeight": "{leading.tight}", "letterSpacing": "{tracking.heading}" } },
+    "body": { "$value": { "fontFamily": "{font.body}", "fontSize": "{text.base}", "fontWeight": "{font-weight.regular}", "lineHeight": "{leading.body}" } },
+    "label": { "$value": { "fontFamily": "{font.body}", "fontSize": "{text.xs}", "fontWeight": "{font-weight.bold}", "lineHeight": "{leading.body}", "letterSpacing": "{tracking.label}" } }
+  }
+}
