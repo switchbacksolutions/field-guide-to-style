@@ -1,10 +1,11 @@
 // Captures websites with headless Chrome: a viewport screenshot and an extract-traits.js measurement per URL.
-// Usage: node tools/capture.mjs [--no-image] [--force] [--specimen] [--viewport=WxH] [--wait=ms] <id>=<url> ...
-// --specimen saves the screenshot to assets/specimens/<id>.jpg instead of assets/references/. Uses a fresh temporary profile, no cookies,
+// Usage: node tools/capture.mjs [--no-image] [--force] [--specimen] [--out=dir] [--viewport=WxH] [--wait=ms] <id>=<url> ...
+// --specimen saves the screenshot to assets/specimens/<id>.jpg instead of assets/references/. --out writes both files to dir and nothing
+// into the catalogue, for checking a project that is not a reference. Uses a fresh temporary profile, no cookies,
 // and Chrome's own user agent. Set CHROME_PATH if Chrome is not in the default location.
 
 import { execFileSync, spawn } from "node:child_process";
-import { mkdtempSync, readFileSync, rmSync, writeFileSync, existsSync } from "node:fs";
+import { mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync, existsSync } from "node:fs";
 import { tmpdir } from "node:os";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
@@ -24,13 +25,14 @@ const VIEWPORT = { width: vw, height: vh };
 const specimen = args.includes("--specimen");
 const saveImage = !args.includes("--no-image");
 const force = args.includes("--force");
+const out = args.find((a) => a.startsWith("--out="))?.slice(6);
 const settle = Number(args.find((a) => a.startsWith("--wait="))?.slice(7) ?? 2500);
 const jobs = args.filter((a) => !a.startsWith("--")).map((a) => {
   const at = a.indexOf("=");
   return { id: a.slice(0, at), url: a.slice(at + 1) };
 });
 if (!jobs.length || jobs.some((j) => !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(j.id) || !/^https?:\/\//.test(j.url))) {
-  console.error("Usage: node tools/capture.mjs [--no-image] [--force] [--specimen] [--viewport=WxH] [--wait=ms] <id>=<url> ...");
+  console.error("Usage: node tools/capture.mjs [--no-image] [--force] [--specimen] [--out=dir] [--viewport=WxH] [--wait=ms] <id>=<url> ...");
   process.exit(2);
 }
 
@@ -100,6 +102,15 @@ for (const job of jobs) {
     const shot = Buffer.from((await send("Page.captureScreenshot", { format: "jpeg", quality: 80 }, sessionId)).data, "base64");
     const overflow = (await send("Runtime.evaluate", { expression: "document.documentElement.scrollWidth - innerWidth", returnByValue: true }, sessionId)).result.value;
     if (overflow > 0) console.warn(`${job.id}: page is ${overflow}px wider than the ${VIEWPORT.width}px viewport (horizontal scroll)`);
+    if (out) {
+      mkdirSync(out, { recursive: true });
+      const shotPath = join(out, `${job.id}.jpg`);
+      writeFileSync(shotPath, shot);
+      measurement.pixels = pixelTraits(shotPath);
+      writeFileSync(join(out, `${job.id}.json`), `${JSON.stringify(measurement, null, 2)}\n`);
+      console.log(`${job.id}: ${measurement.title || "(no title)"} | ${measurement.url} -> ${out}`);
+      continue;
+    }
     const imagePath = join(ROOT, specimen ? "assets/specimens" : "assets/references", `${job.id}.jpg`);
     const keep = saveImage && (!existsSync(imagePath) || force || specimen);
     // An image and its measurement must come from the same capture, so neither is replaced alone.
