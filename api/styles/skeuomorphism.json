@@ -1,0 +1,970 @@
+{
+  "id": "skeuomorphism",
+  "title": "Skeuomorphism",
+  "order": 13,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Skeuomorphic design"
+  ],
+  "summary": "Leather, linen, wood, and paper on screen. Interfaces that imitate the objects they replace.",
+  "lede": "A graphical user interface style that imitates physical objects and materials: stitched leather, linen, wood, felt, brushed metal, and ruled paper, with bevels, embossed text, and realistic shadows. It peaked in Apple’s iPhone OS and iOS 1–6 and Mac OS X Lion (2007–2013). The catalogue record covers this interface style, not the wider concept of a skeuomorph in pottery, architecture, or sound.",
+  "moods": [
+    "tactile",
+    "familiar",
+    "crafted",
+    "warm",
+    "ornate"
+  ],
+  "era": {
+    "from": 2007,
+    "to": 2013,
+    "note": "From the first iPhone (2007) to iOS 7 (June 2013), which Apple announced as a move away from the style. NN/g places the peak in the early 2010s. Earlier examples include Microsoft Bob (1995) and brushed-metal windows in Mac OS X. The style returns in parts through neumorphism."
+  },
+  "regions": [
+    "United States",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q607446"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Skeuomorph (section “Virtual examples”)",
+      "url": "https://en.wikipedia.org/wiki/Skeuomorph",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Nielsen Norman Group, Megan Chan, “Skeuomorphism” (2024)",
+      "url": "https://www.nngroup.com/articles/skeuomorphism/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Motherboard, Claire Evans, “A Eulogy for Skeuomorphism” (2013)",
+      "url": "https://www.vice.com/en/article/a-eulogy-for-skeumorphism/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Interaction Design Foundation: Skeuomorphism",
+      "url": "https://www.interaction-design.org/literature/topics/skeuomorphism",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "label": "Desktop metaphor",
+      "wikidata": "Q1048818",
+      "note": "Wikipedia names the desktop metaphor, with files as folders and deletion as a trash can, as the prominent early example of skeuomorphic interfaces."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Aqua (user interface)",
+      "wikidata": "Q622898",
+      "note": "Aqua’s brushed-metal windows put a metal texture on the Mac OS X desktop. In Mac OS X Lion, Calendar, Contacts, and Notes took leather, book, and notepad looks, and Notification Center and Launchpad used linen. OS X Mavericks removed them."
+    },
+    {
+      "relation": "related-to",
+      "style": "frutiger-aero",
+      "note": "Wikipedia calls skeuomorphism a key component of Frutiger Aero. Both use gloss and realistic depth in the same years. Frutiger Aero imitates glass, water, and sky. Skeuomorphism imitates specific everyday objects and materials."
+    },
+    {
+      "relation": "related-to",
+      "label": "Neumorphism",
+      "wikidata": "Q102244095",
+      "note": "NN/g and Wikipedia describe neumorphism as a medium between skeuomorphism and flat design: soft extruded shapes without material textures."
+    },
+    {
+      "relation": "related-to",
+      "style": "flat-design",
+      "note": "Flat design began as a reaction against skeuomorphism. Wikipedia and Motherboard (2013) date Apple’s turn to iOS 7, announced at WWDC in June 2013."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "Material textures.",
+      "text": "Surfaces show a real material: linen, stitched leather, wood grain, green felt, brushed aluminium, or ruled paper. Textures tile across whole backgrounds."
+    },
+    {
+      "facet": "surface",
+      "term": "Bevels and wells.",
+      "text": "Buttons and bars have a top highlight line and a vertical gradient, often with a gloss break. Inputs and grouped tables sit in inset wells."
+    },
+    {
+      "facet": "type",
+      "term": "Letterpress text.",
+      "text": "Labels are pressed into the surface: dark text with a 1 px white shadow below, or light text with a 1 px dark shadow above. Helvetica Neue for interface text, with handwriting faces such as Marker Felt for notes."
+    },
+    {
+      "facet": "structure",
+      "term": "Object metaphors.",
+      "text": "An app becomes the object it replaces: a desk calendar with leather binding and torn pages, a bookshelf, a legal pad, a Rolodex, a reel-to-reel tape deck, or a card table."
+    },
+    {
+      "facet": "color",
+      "term": "Material color.",
+      "text": "Browns, creams, warm grays, and steel blue come from the materials. Saturated color is kept for small glossy buttons, badges, and pins."
+    },
+    {
+      "facet": "imagery",
+      "term": "Photoreal icons.",
+      "text": "Icons are small rendered objects with light, shadow, and reflection: a stamp, a camera lens, a notepad, a compass."
+    },
+    {
+      "facet": "motion",
+      "term": "Physical motion.",
+      "text": "Pages curl and turn, tickets shred, switches slide, and dials spin, as the real object would."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Background or panels show a recognizable material texture: linen, leather, wood, felt, brushed metal, or paper.",
+      "Details from the physical object remain without a function: stitching, binding, torn edges, screws, or page curls.",
+      "Text is embossed or debossed with a 1 px highlight or shade.",
+      "Buttons are beveled, with a vertical gradient and a top highlight, and corners are slightly rounded."
+    ],
+    "counter": [
+      "Flat fills with no texture, bevel, or shadow.",
+      "Depth only from blurred translucent glass, with no material.",
+      "Hard offset shadows and thick black outlines.",
+      "Large unbroken areas of bright saturated color."
+    ],
+    "confusions": [
+      {
+        "with": "frutiger-aero",
+        "difference": "Frutiger Aero imitates glass, water, and sky in airy blues and greens, with pill-shaped gloss buttons. Skeuomorphism imitates specific objects and materials such as leather, wood, and paper, in warmer, heavier colors, with stitching and embossed text."
+      },
+      {
+        "with": "Neumorphism",
+        "difference": "Neumorphism uses soft extruded shapes in one pale color, with no material texture and no object metaphor."
+      },
+      {
+        "with": "flat-design",
+        "difference": "Flat design removes texture, gradients, and shadows. It began as a reaction against skeuomorphism."
+      },
+      {
+        "with": "glassmorphism",
+        "difference": "Glassmorphism uses frosted, blurred panels over colorful backgrounds. It has no stitching, grain, or paper."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Choose one physical object for each screen, such as a notepad, bookshelf, or desk calendar, and show its materials.",
+      "Tile a subtle material texture (linen, leather grain, wood, felt, or brushed metal) over large surfaces.",
+      "Give bars and buttons a vertical gradient, a 1 px top highlight, and a soft drop shadow.",
+      "Emboss labels: dark text with a 1 px light shadow below, or light text with a 1 px dark shadow above.",
+      "Put inputs and lists in inset wells with slightly rounded corners of about 5 to 10 px.",
+      "Use Helvetica Neue for interface text and a handwriting face only where the object has handwriting."
+    ],
+    "dont": [
+      "Do not let textures reduce text contrast. Keep text on a calm area of the material.",
+      "Do not copy a metaphor that makes an action harder, such as a page turn for simple scrolling.",
+      "Do not mix many materials on one screen without a physical reason.",
+      "Do not use hard offset shadows or thick black outlines.",
+      "Do not use pill-shaped glass buttons and sky gradients alone. That is Frutiger Aero."
+    ],
+    "uses": [
+      "Note, calendar, and reading apps",
+      "Audio and music software",
+      "Games and hobby tools",
+      "Nostalgic interfaces"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.patternShare",
+      "min": 0.45,
+      "note": "Tiled material textures (linen, leather grain, paper rules, felt, brushed metal) cover most of the page. Provisional: set from the specimen. Checked on 2026-09-28 against six archived sites of 2009–2012: 0 on five and 0.26 on one, because they tile bitmap textures at default size, which the extractor counts as images (image share 0.46 to 1). Range kept for CSS-built work; judge archived sites by the rubric."
+    },
+    {
+      "metric": "surface.patternShare",
+      "min": 0.15,
+      "note": "Many separate surfaces carry their own texture, not one patterned backdrop. Provisional. Checked on 2026-09-28 against six archived sites of 2009–2012: 0 on five, 0.64 on one, for the same bitmap reason."
+    },
+    {
+      "metric": "surface.gradientShare",
+      "min": 0.15,
+      "note": "Bars and buttons are beveled with vertical gradients. Provisional. Checked on 2026-09-28 against six archived sites of 2009–2012: passes three; the other three draw bevels in images."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.25,
+      "note": "Objects sit on the surface with drop shadows or in inset wells. Provisional. Checked on 2026-09-28 against six archived sites of 2009–2012: passes two; the others draw shadows in images."
+    },
+    {
+      "metric": "surface.shadow.hardShare",
+      "max": 0.3,
+      "note": "Shadows are blurred like real light, not hard offsets. Provisional."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 8,
+      "note": "Corners are square or slightly rounded, not pill-shaped. Provisional."
+    }
+  ],
+  "synthesis": [
+    "Apple’s own apps define the style’s core years. [iBooks](ref:ibooks-ipad-2010) and [Newsstand](ref:newsstand-ios-2011) put books and magazines on wooden shelves, [Game Center](ref:game-center-2010) used green felt, [iCal in Lion](ref:ical-os-x-lion-2011) used stitched leather, [Notes](ref:ios-notes-legal-pad) was a ruled pad, and the [Podcasts app](ref:podcasts-app-reel-to-reel-2012) showed a reel-to-reel deck until March 2013. Former Apple designers told Fast Company in 2012 that Steve Jobs pushed the felt and leather.",
+    "Precursors show where the metaphor came from: [Microsoft Bob](ref:microsoft-bob-1995) made the computer a house, [brushed-metal windows](ref:mac-os-x-brushed-metal) tied a metal texture to device-like apps, [Reason](ref:propellerhead-reason-2000) drew a studio rack with cables, and [Delicious Library](ref:delicious-library-2004) drew the wooden shelf that iBooks resembled. An interface can also imitate a plain object: the iOS calculator followed the [Braun ET66](ref:braun-et66-calculator-1987).",
+    "Independent Mac and iOS developers carried the style onto their websites. [Camera+](ref:camera-plus-website-2012) (leather grain, film strip, a hanging price tag) and [Bjango](ref:bjango-website-2011) (screwed-on plates, embossed labels) are clear examples. [Panic’s Transmit](ref:panic-transmit-website-2011) and [Coda 2](ref:panic-coda-website-2012) pages, [Reeder](ref:reeder-website-2011), and [Delicious Monster](ref:delicious-monster-website-2009) are borderline: photoreal objects or one texture on otherwise plain pages.",
+    "The fingerprint cannot see these sites’ materials. Before about 2012, textures, bevels, and shadows were bitmap images, which the extractor counts as images, so all six captures fail the pattern metrics and most fail the shadow metric. The ranges stay for CSS-built recreations such as the specimen. Judge archived sites by the rubric. The openly licensed [leather notepad illustration](ref:leather-notepad-illustration-2013) is the only stored image that shows the full vocabulary without an interface."
+  ],
+  "page": "skeuomorphism.html",
+  "implementation": {
+    "tokens": "implementations/skeuomorphism/tokens.json",
+    "css": "implementations/skeuomorphism/tokens.css",
+    "tailwind": "implementations/skeuomorphism/tailwind.css",
+    "shadcn": "implementations/skeuomorphism/shadcn.css",
+    "registry": "implementations/skeuomorphism/registry-item.json",
+    "designMd": "implementations/skeuomorphism/DESIGN.md",
+    "specimen": "implementations/skeuomorphism/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for skeuomorphism. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#cdd0d5",
+        "$description": "Gray linen, the iOS 5–6 and Mac OS X Lion backdrop."
+      },
+      "surface": {
+        "$value": "#ffffff",
+        "$description": "Grouped table cells."
+      },
+      "subtle": {
+        "$value": "#e6e8eb"
+      },
+      "text": {
+        "$value": "#262626"
+      },
+      "muted": {
+        "$value": "#4c566c",
+        "$description": "Secondary label gray-blue."
+      },
+      "border": {
+        "$value": "#9ea3aa"
+      },
+      "primary": {
+        "$value": "#2a5fd0",
+        "$description": "Glossy iOS action blue."
+      },
+      "on-primary": {
+        "$value": "#ffffff"
+      },
+      "secondary": {
+        "$value": "#6d84a2",
+        "$description": "Navigation bar steel blue."
+      },
+      "on-secondary": {
+        "$value": "#ffffff"
+      },
+      "accent": {
+        "$value": "#5e3b22",
+        "$description": "Stitched leather brown."
+      },
+      "on-accent": {
+        "$value": "#f3e5c8"
+      },
+      "linen-thread": {
+        "$value": "#ffffff2e"
+      },
+      "linen-shade": {
+        "$value": "#0000000f"
+      },
+      "pinstripe": {
+        "$value": "#c5ccd4"
+      },
+      "pinstripe-light": {
+        "$value": "#cbd2d8"
+      },
+      "leather-dark": {
+        "$value": "#3d2614"
+      },
+      "leather-grain": {
+        "$value": "#00000026"
+      },
+      "stitch": {
+        "$value": "#e9d3a4"
+      },
+      "paper": {
+        "$value": "#fcf4b8",
+        "$description": "Legal-pad yellow."
+      },
+      "paper-rule": {
+        "$value": "#9dbbd6"
+      },
+      "paper-margin": {
+        "$value": "#d98b8b"
+      },
+      "wood": {
+        "$value": "#9a6535"
+      },
+      "wood-light": {
+        "$value": "#b07a45"
+      },
+      "wood-dark": {
+        "$value": "#6e4421"
+      },
+      "felt": {
+        "$value": "#2f6b3a",
+        "$description": "Card-table felt."
+      },
+      "felt-fiber": {
+        "$value": "#ffffff14"
+      },
+      "metal": {
+        "$value": "#c8cacd"
+      },
+      "metal-line": {
+        "$value": "#ffffff59"
+      },
+      "metal-groove": {
+        "$value": "#0000000d"
+      },
+      "emboss-light": {
+        "$value": "#ffffffb3",
+        "$description": "Letterpress highlight under dark text."
+      },
+      "emboss-dark": {
+        "$value": "#00000080",
+        "$description": "Letterpress shade over light text."
+      },
+      "bar-edge": {
+        "$value": "#2d3642"
+      },
+      "pin": {
+        "$value": "#c8322b"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Menlo",
+          "Monaco",
+          "Courier New",
+          "monospace"
+        ]
+      },
+      "hand": {
+        "$value": [
+          "Marker Felt",
+          "Noteworthy",
+          "Chalkboard SE",
+          "Comic Sans MS",
+          "cursive"
+        ],
+        "$description": "Notes on iOS 6 used Marker Felt."
+      },
+      "serif": {
+        "$value": [
+          "Georgia",
+          "Times New Roman",
+          "serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 700
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "18px"
+      },
+      "xl": {
+        "$value": "22px"
+      },
+      "2xl": {
+        "$value": "28px"
+      },
+      "3xl": {
+        "$value": "38px"
+      },
+      "4xl": {
+        "$value": "52px"
+      },
+      "5xl": {
+        "$value": "68px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.1
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "5px"
+      },
+      "md": {
+        "$value": "8px"
+      },
+      "lg": {
+        "$value": "12px"
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "2px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "10px"
+      },
+      "md": {
+        "$value": "18px"
+      },
+      "lg": {
+        "$value": "30px"
+      },
+      "xl": {
+        "$value": "50px"
+      },
+      "2xl": {
+        "$value": "80px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "sm": {
+        "$value": [
+          {
+            "color": "#00000059",
+            "offsetX": "0px",
+            "offsetY": "1px",
+            "blur": "2px",
+            "spread": "0px"
+          },
+          {
+            "color": "#ffffff66",
+            "offsetX": "0px",
+            "offsetY": "1px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          }
+        ]
+      },
+      "md": {
+        "$value": [
+          {
+            "color": "#00000066",
+            "offsetX": "0px",
+            "offsetY": "3px",
+            "blur": "8px",
+            "spread": "0px"
+          },
+          {
+            "color": "#ffffff40",
+            "offsetX": "0px",
+            "offsetY": "1px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          }
+        ]
+      },
+      "lg": {
+        "$value": {
+          "color": "#00000073",
+          "offsetX": "0px",
+          "offsetY": "8px",
+          "blur": "20px",
+          "spread": "0px"
+        }
+      },
+      "inset": {
+        "$value": [
+          {
+            "color": "#00000066",
+            "offsetX": "0px",
+            "offsetY": "1px",
+            "blur": "3px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#ffffff99",
+            "offsetX": "0px",
+            "offsetY": "1px",
+            "blur": "0px",
+            "spread": "0px"
+          }
+        ]
+      }
+    },
+    "gradient": {
+      "$type": "gradient",
+      "bar": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#b3c0d1",
+              "position": 0
+            },
+            {
+              "color": "#8a9cb5",
+              "position": 0.5
+            },
+            {
+              "color": "#7c90ac",
+              "position": 0.51
+            },
+            {
+              "color": "#6d84a2",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "iOS navigation bar."
+      },
+      "button": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#83a6ea",
+              "position": 0
+            },
+            {
+              "color": "#4c7fe0",
+              "position": 0.5
+            },
+            {
+              "color": "#2f64d3",
+              "position": 0.51
+            },
+            {
+              "color": "#2a5fd0",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "Glossy action button."
+      },
+      "button-plain": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#ffffff",
+              "position": 0
+            },
+            {
+              "color": "#eceef1",
+              "position": 0.5
+            },
+            {
+              "color": "#dcdfe3",
+              "position": 0.51
+            },
+            {
+              "color": "#cfd3d8",
+              "position": 1
+            }
+          ]
+        }
+      },
+      "metal": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#e4e5e7",
+              "position": 0
+            },
+            {
+              "color": "#c8cacd",
+              "position": 0.6
+            },
+            {
+              "color": "#b5b8bc",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "Brushed aluminium light fall-off."
+      },
+      "leather": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#ffffff1f",
+              "position": 0
+            },
+            {
+              "color": "#00000000",
+              "position": 0.4
+            },
+            {
+              "color": "#00000040",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "Light across a leather surface."
+      },
+      "shelf": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#c08a55",
+              "position": 0
+            },
+            {
+              "color": "#8c5a2d",
+              "position": 0.3
+            },
+            {
+              "color": "#5e3a1b",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "The lip of a wooden shelf."
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "bjango-website-2011",
+      "title": "Bjango website, 2011",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: each panel is a metal-gray plate with a screw at every corner, buttons are beveled, labels are embossed, and the email field is an inset well.",
+      "page": "references/bjango-website-2011.html",
+      "source": "http://bjango.com/",
+      "image": "assets/references/bjango-website-2011.jpg",
+      "measurement": "data/measurements/bjango-website-2011.json"
+    },
+    {
+      "id": "braun-et66-calculator-1987",
+      "title": "Braun ET66 calculator, 1987",
+      "medium": "product",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Not an example of the style: the physical object that an interface imitated. It shows that the style also borrowed from restrained modern products, not only from leather and wood.",
+      "page": "references/braun-et66-calculator-1987.html",
+      "source": "https://collection.powerhouse.com.au/object/428164",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "mac-os-x-brushed-metal",
+      "title": "Brushed-metal windows in Mac OS X",
+      "medium": "operating-system",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "A precursor material: a metal texture tied to real devices, before the leather, wood, and paper of 2007–2013.",
+      "page": "references/mac-os-x-brushed-metal.html",
+      "source": "https://en.wikipedia.org/wiki/Aqua_(user_interface)",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "camera-plus-website-2012",
+      "title": "Camera+ website, 2012",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: a leather-grain background, a film strip and a hanging price tag without function, and embossed type on a textured card.",
+      "page": "references/camera-plus-website-2012.html",
+      "source": "http://campl.us/",
+      "image": "assets/references/camera-plus-website-2012.jpg",
+      "measurement": "data/measurements/camera-plus-website-2012.json"
+    },
+    {
+      "id": "delicious-library-2004",
+      "title": "Delicious Library, 2004",
+      "medium": "software",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "A precursor on the Mac: the wooden bookshelf that iBooks later resembled.",
+      "page": "references/delicious-library-2004.html",
+      "source": "https://en.wikipedia.org/wiki/Delicious_Monster",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "delicious-monster-website-2009",
+      "title": "Delicious Monster website, 2009",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the wood-grain header matches the style’s materials and the page shows the app’s bookshelf, but the vector flowers and flat olive panels come from mid-2000s illustration, not from an object metaphor.",
+      "page": "references/delicious-monster-website-2009.html",
+      "source": "http://www.delicious-monster.com/",
+      "image": "assets/references/delicious-monster-website-2009.jpg",
+      "measurement": "data/measurements/delicious-monster-website-2009.json"
+    },
+    {
+      "id": "game-center-2010",
+      "title": "Game Center, iOS 4.1, 2010",
+      "medium": "app",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "A clear object metaphor: a card table with felt cloth and chips, pushed by Steve Jobs according to former Apple designers.",
+      "page": "references/game-center-2010.html",
+      "source": "https://en.wikipedia.org/wiki/Game_Center",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "ibooks-ipad-2010",
+      "title": "iBooks on the iPad, 2010",
+      "medium": "app",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The reading view imitates a bound book, and the library imitates a wooden bookshelf: a clear object metaphor from the core years of the style.",
+      "page": "references/ibooks-ipad-2010.html",
+      "source": "https://en.wikipedia.org/wiki/Apple_Books",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "ical-os-x-lion-2011",
+      "title": "iCal in Mac OS X Lion, 2011",
+      "medium": "software",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The emblematic example of the style: a desk calendar with leather binding, stitching, and torn pages, all without function.",
+      "page": "references/ical-os-x-lion-2011.html",
+      "source": "https://web.archive.org/web/20110727225723/http://www.apple.com/macosx/whats-new/features.html",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "leather-notepad-illustration-2013",
+      "title": "Leather notepad illustration, 2013",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Shows the full vocabulary of the style in one image: leather grain, stitching, ruled paper, a photoreal pen, and embossed gold type. It is a demonstration, not a historical product.",
+      "page": "references/leather-notepad-illustration-2013.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Leather_Notepad.png",
+      "image": "assets/references/leather-notepad-illustration-2013.png",
+      "measurement": "data/measurements/leather-notepad-illustration-2013.json"
+    },
+    {
+      "id": "microsoft-bob-1995",
+      "title": "Microsoft Bob, 1995",
+      "medium": "software",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "A precursor: the whole computer becomes a set of household objects. It uses the metaphor fully but predates the material textures and bevels of 2007–2013.",
+      "page": "references/microsoft-bob-1995.html",
+      "source": "https://en.wikipedia.org/wiki/Microsoft_Bob",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "newsstand-ios-2011",
+      "title": "Newsstand, iOS 5 and 6",
+      "medium": "app",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Newsstand turned a folder into a shop shelf of light wood, the same bookshelf metaphor as iBooks.",
+      "page": "references/newsstand-ios-2011.html",
+      "source": "https://en.wikipedia.org/wiki/Newsstand_(software)",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "ios-notes-legal-pad",
+      "title": "Notes on iPhone, to iOS 6",
+      "medium": "app",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "A clear object metaphor: a paper notepad with ruled lines, textured paper, and a leather binding.",
+      "page": "references/ios-notes-legal-pad.html",
+      "source": "https://en.wikipedia.org/wiki/Notes_(Apple)",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "panic-coda-website-2012",
+      "title": "Panic Coda 2 website, 2012",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: a textured band, photoreal objects, and a paper clip, but the middle of the page is flat gray and black.",
+      "page": "references/panic-coda-website-2012.html",
+      "source": "http://panic.com/coda/",
+      "image": "assets/references/panic-coda-website-2012.jpg",
+      "measurement": "data/measurements/panic-coda-website-2012.json"
+    },
+    {
+      "id": "panic-transmit-website-2011",
+      "title": "Panic Transmit website, 2011",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the objects are fully skeuomorphic (a truck for file transfer, a paper clip on the logo tab, chrome lettering), but the page body is plain light gray with no material texture.",
+      "page": "references/panic-transmit-website-2011.html",
+      "source": "http://www.panic.com/transmit/",
+      "image": "assets/references/panic-transmit-website-2011.jpg",
+      "measurement": "data/measurements/panic-transmit-website-2011.json"
+    },
+    {
+      "id": "podcasts-app-reel-to-reel-2012",
+      "title": "Podcasts app, 2012",
+      "medium": "app",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "An extreme object metaphor from the style’s last year: an analog tape machine for a download app, with motion that follows the real reels.",
+      "page": "references/podcasts-app-reel-to-reel-2012.html",
+      "source": "https://thenextweb.com/news/apple-updates-podcasts-app-with-custom-stations-on-the-go-playlists-and-less-skeuomorphic-design",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "propellerhead-reason-2000",
+      "title": "Propellerhead Reason, 2000",
+      "medium": "software",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The audio branch of the style: hardware imitated down to rack rails, rivets, knobs, and cables. It predates the Apple period and continued through it.",
+      "page": "references/propellerhead-reason-2000.html",
+      "source": "https://www.soundonsound.com/reviews/propellerhead-software-reason",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "reeder-website-2011",
+      "title": "Reeder website, 2011",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the paper texture and debossed type are the style, but the page shows only those two traits.",
+      "page": "references/reeder-website-2011.html",
+      "source": "http://reederapp.com/",
+      "image": "assets/references/reeder-website-2011.jpg",
+      "measurement": "data/measurements/reeder-website-2011.json"
+    }
+  ]
+}

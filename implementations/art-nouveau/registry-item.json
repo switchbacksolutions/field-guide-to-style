@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "art-nouveau",
+  "type": "registry:theme",
+  "title": "Art Nouveau",
+  "description": "Whiplash curves, lilies, and peacock eyes in moss, ochre, and rose on parchment. The new art of the 1890s.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Iowan Old Style\", Palatino, \"Palatino Linotype\", \"Book Antiqua\", Georgia, serif",
+      "font-mono": "Optima, Candara, \"Segoe UI\", sans-serif"
+    },
+    "light": {
+      "background": "#f1e6cc",
+      "foreground": "#33291c",
+      "card": "#f8f0dc",
+      "card-foreground": "#33291c",
+      "popover": "#f8f0dc",
+      "popover-foreground": "#33291c",
+      "primary": "#56792a",
+      "primary-foreground": "#f8f0dc",
+      "secondary": "#a9583f",
+      "secondary-foreground": "#f8f0dc",
+      "muted": "#e4d4ad",
+      "muted-foreground": "#6b5a3f",
+      "accent": "#c4922f",
+      "accent-foreground": "#33291c",
+      "destructive": "#b42318",
+      "border": "#4a3d27",
+      "input": "#4a3d27",
+      "ring": "#56792a",
+      "radius": "24px"
+    }
+  }
+}

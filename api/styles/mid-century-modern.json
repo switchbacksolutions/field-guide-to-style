@@ -1,0 +1,693 @@
+{
+  "id": "mid-century-modern",
+  "title": "Mid-century modern",
+  "order": 11,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Midcentury modern",
+    "MCM",
+    "Mid-century modernism",
+    "Mid-century graphic design"
+  ],
+  "summary": "Warm flat color, cut-paper shapes, and playful type. Post-war modernism with a sense of humor.",
+  "lede": "The graphic and illustrative side of mid-century modern design (about 1945–1969): flat, overlapping shapes in mustard, burnt orange, teal, and olive on warm paper, simplified figures and objects, biomorphic and atomic motifs, and a loose mix of sans-serif, slab, and brush lettering. This record covers that graphic core. The architecture and furniture of the same name are related branches.",
+  "moods": [
+    "optimistic",
+    "warm",
+    "playful",
+    "crafted",
+    "modern"
+  ],
+  "era": {
+    "from": 1945,
+    "to": 1969,
+    "note": "Wikipedia: popular from roughly 1945 to 1970. Getty AAT dates the wider design style ca. 1933–1965. The name was in use by the mid-1950s and became a label for the period after Cara Greenberg’s 1983–1984 book on 1950s furniture."
+  },
+  "regions": [
+    "United States",
+    "United Kingdom",
+    "Scandinavia",
+    "Western Europe",
+    "Brazil",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q6840667",
+    "aat": "300343610"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Mid-century modern",
+      "url": "https://en.wikipedia.org/wiki/Mid-century_modern",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikidata: mid-century modern (Q6840667)",
+      "url": "https://www.wikidata.org/wiki/Q6840667",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Getty Art & Architecture Thesaurus: Mid-Century Modernist (300343610)",
+      "url": "https://vocab.getty.edu/page/aat/300343610",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Batsford: Theo Inglis, Mid-Century Modern Graphic Design (2019)",
+      "url": "https://www.batsfordbooks.com/products/mid-century-modern-graphic-design",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "style": "bauhaus",
+      "note": "Wikidata lists Bauhaus under “influenced by” and “based on”. Getty AAT names the Bauhaus as a source of the wider style. Herbert Bayer and Josef Albers, both named in Inglis’s survey, carried Bauhaus teaching to the United States."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "International Style",
+      "wikidata": "Q162324",
+      "note": "Wikidata lists the International Style in architecture under “influenced by” and “based on”. Wikipedia calls American mid-century modern a reflection of the International and Bauhaus movements, more organic and less formal."
+    },
+    {
+      "relation": "related-to",
+      "style": "international-typographic-style",
+      "note": "Contemporaries. Interpretation: the Swiss style is the objective, grid-bound branch of post-war graphic modernism. The graphic core of this record is the illustrative, hand-made branch that Inglis surveys (Rand, Lustig, Bass, Flora)."
+    },
+    {
+      "relation": "related-to",
+      "label": "Atomic Age (design)",
+      "wikidata": "Q4817248",
+      "note": "Wikipedia: design of roughly 1945–1967 that uses atomic motifs and space-age symbols. Its starbursts and orbit shapes recur in mid-century graphics and textiles. Treat it as a branch, not the core."
+    },
+    {
+      "relation": "related-to",
+      "label": "Scandinavian design",
+      "wikidata": "Q1793969",
+      "note": "Wikipedia: simplicity and functionality that flourished in the 1950s in the Nordic countries. Getty AAT names sleek Scandinavian furniture as an influence on the wider style."
+    },
+    {
+      "relation": "related-to",
+      "label": "Googie architecture",
+      "wikidata": "Q717220",
+      "note": "Wikipedia: futurist roadside architecture of about 1945 to the early 1970s, influenced by car culture and the Atomic Age. A commercial branch with neon signs and boomerang forms."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Warm secondary palette.",
+      "text": "Mustard, burnt orange, teal, olive, and brick on cream or off-white paper, with charcoal for type. Colors are flat and slightly muted, as in two- to four-color offset and screen printing."
+    },
+    {
+      "facet": "surface",
+      "term": "Overprint.",
+      "text": "Flat shapes overlap, and the overlap makes a third, darker color. Registration is loose, and edges can look cut or printed."
+    },
+    {
+      "facet": "imagery",
+      "term": "Cut-paper and biomorphic shapes.",
+      "text": "Kidney, pebble, boomerang, and leaf shapes, circles and half circles, and atomic starbursts. Figures, animals, and objects are reduced to a few flat geometric planes."
+    },
+    {
+      "facet": "type",
+      "term": "Mixed, playful lettering.",
+      "text": "Geometric sans-serif or slab headings next to brush script or hand lettering. Words may bounce off the baseline or tilt. Body text is a plain serif or sans-serif."
+    },
+    {
+      "facet": "layout",
+      "term": "Poster composition.",
+      "text": "One large image or shape group carries the page. Text sits beside it on open paper. Layouts are asymmetric but less strict than a Swiss grid."
+    },
+    {
+      "facet": "structure",
+      "term": "Pattern as a band.",
+      "text": "Textile-like repeats of small stars, dots, or plant forms fill one band or panel, not the whole page."
+    },
+    {
+      "facet": "motion",
+      "term": "Limited animation.",
+      "text": "In film (UPA, title sequences by Saul Bass), flat shapes slide, cut, and pop into place. Few in-betweens, no depth."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Three or more warm or earthy hues (mustard, orange, teal, olive) appear as flat areas on cream or white paper.",
+      "Shapes are biomorphic, circular, or cut-paper, not only rectangles.",
+      "Shapes overlap, and the overlap shows a darker overprinted color.",
+      "Figures or objects are drawn as a few flat, stylized planes.",
+      "A script or hand-drawn word appears next to a geometric sans-serif or slab."
+    ],
+    "counter": [
+      "Gradients, gloss, drop shadows, or photographic depth.",
+      "Neon, fluorescent, or clashing pastel colors.",
+      "Thick black outlines around every shape.",
+      "A strict modular grid with only one accent color and no illustration."
+    ],
+    "confusions": [
+      {
+        "with": "bauhaus",
+        "difference": "Bauhaus uses the primary triad, elementary geometry, and heavy black bars. Mid-century modern uses warm secondary colors, irregular biomorphic shapes, and illustration."
+      },
+      {
+        "with": "international-typographic-style",
+        "difference": "The Swiss style is objective: grotesque type, a strict grid, photography, and at most one accent. Mid-century modern is illustrative, uses several colors, and mixes playful lettering."
+      },
+      {
+        "with": "memphis",
+        "difference": "Memphis (1981–1987) uses loud, clashing brights, laminate patterns, and black outlines. Mid-century modern colors are warmer and more muted, and shapes are rarely outlined."
+      },
+      {
+        "with": "Art Nouveau",
+        "difference": "Art Nouveau fills the surface with flowing whiplash lines and plant ornament. Mid-century modern shapes are simple, flat, and separated by open paper."
+      },
+      {
+        "with": "Flat design",
+        "difference": "Flat design is a digital interface style with bright UI colors, icons, and no texture or illustration of scenes. Mid-century modern uses printed, earthy colors, overprint, and illustrated compositions."
+      },
+      {
+        "with": "Corporate Memphis",
+        "difference": "Corporate Memphis draws flat people with long limbs and bright, saturated colors. Mid-century figures are more geometric, and the palette is warm and muted."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a warm cream or off-white ground with charcoal text.",
+      "Use three or four flat, slightly muted hues: mustard, burnt orange, teal, and olive.",
+      "Build the hero from overlapping flat shapes: circles, half circles, pebbles, and one starburst. Let overlaps darken with a multiply blend.",
+      "Pair a geometric sans-serif or slab heading with one brush-script word.",
+      "Give panels one or two large rounded corners, like a leaf or pebble, and keep the other corners square.",
+      "Use a small textile-like repeat in one band only."
+    ],
+    "dont": [
+      "Do not use gradients, gloss, or drop shadows.",
+      "Do not use neon, fluorescent, or pure primary colors.",
+      "Do not outline every shape in black. Shapes meet by color.",
+      "Do not fill the whole page with pattern. Keep open paper around the shapes.",
+      "Do not use a strict Swiss grid with only one accent. That points to the International Typographic Style."
+    ],
+    "uses": [
+      "Furniture and interior brands",
+      "Cultural festivals and exhibitions",
+      "Book, record, and magazine covers",
+      "Travel and hospitality",
+      "Children’s books and education"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "pixels.hues",
+      "min": 2,
+      "note": "Two or more hue families in the screenshot palette. Calibrated 2026-09-28: the clear captures [Jim Flora](ref:jimflora-website) and [Shag](ref:shag-website) show 1 hue in computed styles, because their color is in images, and 2 in pixels. The specimen shows 4."
+    },
+    {
+      "metric": "pixels.accentChroma",
+      "min": 0.4,
+      "max": 0.6,
+      "note": "The colors are printed and slightly muted: stronger than earth tones, weaker than primaries, neon, or UI brights. Calibrated 2026-09-28: measured on the screenshot, because the computed styles of [Jim Flora](ref:jimflora-website) see only the page chrome (0.38) and miss the artwork (0.42). [Shag](ref:shag-website) (0.73) and Saul Bass’s posters are more saturated than this range. Max lowered from 0.62 to 0.6 on 2026-09-28: passing captures measure 0.41 to 0.56, and a psychedelic festival site measured 0.62."
+    },
+    {
+      "metric": "pixels.chroma",
+      "min": 0.1,
+      "max": 0.35,
+      "note": "Flat color covers a noticeable part of the screenshot, without neon saturation. Added 2026-09-28 as a positive marker from the five kept captures (0.10 to 0.33) and the specimen (0.18); near-white pages score below 0.10. Measured on the fixed 1440 × 900 screenshot, so it depends on how much of the first viewport the artwork fills."
+    },
+    {
+      "metric": "type.headingWeight",
+      "min": 600,
+      "note": "Display lettering is heavy: bold geometric sans-serif or slab. Checked 2026-09-28: four of five kept captures pass (600 to 700); [Jim Flora](ref:jimflora-website) fails at 400 because its display name is a light decorative face."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "Print is flat. Drop shadows point to later digital styles. Checked 2026-09-28: four of five kept captures measure 0; [Shag](ref:shag-website) measures 0.57 from its slider controls, not from the artwork."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Color is flat, as in offset and screen printing. Checked 2026-09-28: all five kept captures measure 0."
+    },
+    {
+      "metric": "type.centerShare",
+      "max": 0.7,
+      "note": "Layouts are asymmetric or mixed, not centered throughout. Calibrated 2026-09-28: the specimen and five captures measure 0.03 to 0.65; a centered streamline diner site measured 0.87."
+    }
+  ],
+  "synthesis": [
+    "Print carries the graphic core. Saul Bass’s film posters for [Anatomy of a Murder](ref:bass-anatomy-of-a-murder-poster-1959) and [Vertigo](ref:bass-vertigo-poster-1958) reduce figures to flat cut-paper silhouettes with hand-cut lettering. Paul Rand’s [Book Week poster](ref:rand-book-week-poster-1958) builds a child from torn shapes with a drifting black line layer, Lester Beall’s [S.S. United States poster](ref:beall-ss-united-states-poster-1952) mixes four typefaces with one looping arrow, and Alvin Lustig’s [Nausea jacket](ref:lustig-nausea-book-jacket) offsets black and white strokes like a print out of register.",
+    "Textiles and objects carry the biomorphic and atomic motifs: Lucienne Day’s [Calyx](ref:day-calyx-furnishing-fabric-1951), Alexander Girard’s [Fruit Trees](ref:girard-fruit-trees-fabric-1960), Charley Harper’s [Ladybug](ref:harper-ladybug-screen-print-1959), and the [Ball Clock](ref:nelson-ball-clock) from George Nelson Associates. UPA’s [Gerald McBoing-Boing](ref:upa-gerald-mcboing-boing-1950) is the documented source of the limited-animation trait.",
+    "Measured evidence qualifies the “muted” palette in the grammar. Image measurements of the stored posters give an accent chroma of 0.80 for Anatomy of a Murder and 0.69 for Vertigo, above the fingerprint’s range, with one or two hues. The muted, multi-hue palette describes the textile and children’s-book side (Calyx, Fruit Trees, the Rand poster at 0.53 with three hues) better than Bass’s film posters. A cream ground is also not universal: the Rand poster is charcoal and Calyx is terracotta.",
+    "Real websites in the style carry it in illustration, not in CSS. [Jim Flora](ref:jimflora-website) and [Shag](ref:shag-website) are clear examples; [Invisible Creature](ref:invisiblecreature-website), [DerekArt](ref:derekart-website), and [Tom Froese](ref:tomfroese-website) are borderline. Computed styles see only the page chrome (one hue family or none on four of the five), so on 2026-09-28 the hue and accent-chroma metrics moved to the screenshot palette, a screenshot chroma range was added, and the computed chromatic-share and round-share metrics were removed: both clear examples failed them because their color and round shapes are in images.",
+    "Of 40 sites tried, 5 were kept. Many sites about the style (Modernism Week, Atomic Ranch, the Eames Institute, the Alvin Lustig archive, the Charley Harper Art Studio shop) describe or sell it with photography and a plain modern layout. Others were blocked by bot checks or covered by consent dialogs."
+  ],
+  "page": "mid-century-modern.html",
+  "implementation": {
+    "tokens": "implementations/mid-century-modern/tokens.json",
+    "css": "implementations/mid-century-modern/tokens.css",
+    "tailwind": "implementations/mid-century-modern/tailwind.css",
+    "shadcn": "implementations/mid-century-modern/shadcn.css",
+    "registry": "implementations/mid-century-modern/registry-item.json",
+    "designMd": "implementations/mid-century-modern/DESIGN.md",
+    "specimen": "implementations/mid-century-modern/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for mid-century-modern. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#f3ead6",
+        "$description": "Warm cream paper."
+      },
+      "surface": {
+        "$value": "#fbf5e8"
+      },
+      "subtle": {
+        "$value": "#e8dcc0"
+      },
+      "text": {
+        "$value": "#2a2522",
+        "$description": "Charcoal ink, not pure black."
+      },
+      "muted": {
+        "$value": "#5a4f45"
+      },
+      "border": {
+        "$value": "#2a2522"
+      },
+      "primary": {
+        "$value": "#c9582b",
+        "$description": "Burnt orange."
+      },
+      "on-primary": {
+        "$value": "#fbf5e8"
+      },
+      "secondary": {
+        "$value": "#1d7a78",
+        "$description": "Teal."
+      },
+      "on-secondary": {
+        "$value": "#fbf5e8"
+      },
+      "accent": {
+        "$value": "#dea133",
+        "$description": "Mustard."
+      },
+      "on-accent": {
+        "$value": "#2a2522"
+      },
+      "olive": {
+        "$value": "#8a8f2e",
+        "$description": "Olive, the fourth print color."
+      },
+      "on-olive": {
+        "$value": "#fbf5e8"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Futura",
+          "Century Gothic",
+          "Avenir Next",
+          "Trebuchet MS",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Iowan Old Style",
+          "Palatino",
+          "Book Antiqua",
+          "Georgia",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Futura",
+          "Century Gothic",
+          "Avenir Next",
+          "sans-serif"
+        ]
+      },
+      "script": {
+        "$value": [
+          "Brush Script MT",
+          "Snell Roundhand",
+          "Segoe Script",
+          "cursive"
+        ],
+        "$description": "Brush lettering for one word at a time."
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 700
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "18px"
+      },
+      "lg": {
+        "$value": "21px"
+      },
+      "xl": {
+        "$value": "28px"
+      },
+      "2xl": {
+        "$value": "38px"
+      },
+      "3xl": {
+        "$value": "56px"
+      },
+      "4xl": {
+        "$value": "84px"
+      },
+      "5xl": {
+        "$value": "104px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.95
+      },
+      "body": {
+        "$value": 1.55
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.12,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "4px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "72px"
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "2px"
+      },
+      "thick": {
+        "$value": "4px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "104px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "bass-anatomy-of-a-murder-poster-1959",
+      "title": "Anatomy of a Murder poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical example of the graphic core: a figure reduced to flat cut-paper planes, hand-cut lettering, and a few flat printed colors. The orange is more saturated than the style’s muted range.",
+      "page": "references/bass-anatomy-of-a-murder-poster-1959.html",
+      "source": "https://commons.wikimedia.org/wiki/File:AnatomyMurder2.jpg",
+      "image": "assets/references/bass-anatomy-of-a-murder-poster-1959.jpg",
+      "measurement": "data/measurements/bass-anatomy-of-a-murder-poster-1959.json"
+    },
+    {
+      "id": "nelson-ball-clock",
+      "title": "Ball Clock",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: a product, not graphic design, but its ball-and-rod starburst is the atomic motif that the style’s graphics and textiles repeat.",
+      "page": "references/nelson-ball-clock.html",
+      "source": "https://www.artic.edu/artworks/154134/ball-clock",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "day-calyx-furnishing-fabric-1951",
+      "title": "Calyx furnishing fabric",
+      "medium": "textile",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A defining British example of the style’s biomorphic, plant-derived abstraction: flat and textured shapes in muted teal, lime, and cream on a warm earth ground.",
+      "page": "references/day-calyx-furnishing-fabric-1951.html",
+      "source": "https://collections.vam.ac.uk/item/O33775/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "derekart-website",
+      "title": "DerekArt website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the header and pattern band use the style’s bouncing hand lettering and a textile-like repeat confined to one band, but the prints below are loud and clashing, and the page is a shop.",
+      "page": "references/derekart-website.html",
+      "source": "https://derekart.com/",
+      "image": "assets/references/derekart-website.jpg",
+      "measurement": "data/measurements/derekart-website.json"
+    },
+    {
+      "id": "rand-book-week-poster-1958",
+      "title": "Explore with books, Book Week poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Cut-paper figure, flat mustard, orange, olive-green, and blue, loose black line drawing over the shapes, and friendly lettering: the illustrative core of the style. The ground is dark, not cream.",
+      "page": "references/rand-book-week-poster-1958.html",
+      "source": "https://www.loc.gov/item/2015646529/",
+      "image": "assets/references/rand-book-week-poster-1958.jpg",
+      "measurement": "data/measurements/rand-book-week-poster-1958.json"
+    },
+    {
+      "id": "girard-fruit-trees-fabric-1960",
+      "title": "Fruit Trees furnishing fabric",
+      "medium": "textile",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Flat geometric fruit and plant forms, a warm orange-pink-olive palette on white, and folk-derived pattern: Girard’s Herman Miller textiles are a core source for the style.",
+      "page": "references/girard-fruit-trees-fabric-1960.html",
+      "source": "https://www.artic.edu/artworks/71159/fruit-trees-furnishing-fabric",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "upa-gerald-mcboing-boing-1950",
+      "title": "Gerald McBoing-Boing",
+      "medium": "other",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The source of the style’s “limited animation” trait: flat shapes, few in-betweens, and sparse backgrounds.",
+      "page": "references/upa-gerald-mcboing-boing-1950.html",
+      "source": "https://en.wikipedia.org/wiki/Gerald_McBoing-Boing",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "invisiblecreature-website",
+      "title": "Invisible Creature website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: flat cut-shape figures, textured print fills, and several hues come from the mid-century children’s-book branch, but purple and bright green push the palette past the style’s warm, muted range, and a dark scrim covers the image.",
+      "page": "references/invisiblecreature-website.html",
+      "source": "https://invisiblecreature.com/",
+      "image": "assets/references/invisiblecreature-website.jpg",
+      "measurement": "data/measurements/invisiblecreature-website.json"
+    },
+    {
+      "id": "jimflora-website",
+      "title": "Jim Flora website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the header is a mid-century graphic composition, with flat two-color figures on warm paper and hand-drawn display lettering. The body below is a plain modern layout.",
+      "page": "references/jimflora-website.html",
+      "source": "https://www.jimflora.com/",
+      "image": "assets/references/jimflora-website.jpg",
+      "measurement": "data/measurements/jimflora-website.json"
+    },
+    {
+      "id": "harper-ladybug-screen-print-1959",
+      "title": "Ladybug screen print",
+      "medium": "illustration",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Harper reduces animals to flat geometric planes, a core trait of the illustrative side of the style.",
+      "page": "references/harper-ladybug-screen-print-1959.html",
+      "source": "https://collection.cincinnatiartmuseum.org/objects/26803/ladybug",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "lustig-nausea-book-jacket",
+      "title": "Nausea book jacket, New Classics series",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: Lustig’s New Directions jackets are central to the style’s graphic core, and this one shows hand-drawn marks and an off-register double image, but it uses only olive, black, and white.",
+      "page": "references/lustig-nausea-book-jacket.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Nausea.jpg",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "beall-ss-united-states-poster-1952",
+      "title": "S.S. United States poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: American corporate modernism of the early 1950s, with flat shapes on cream paper, a gestural arrow, and mixed type. The palette is red, blue, and black rather than the style’s warm earth tones.",
+      "page": "references/beall-ss-united-states-poster-1952.html",
+      "source": "https://commons.wikimedia.org/wiki/File:1951_SS_United_States_Travel_Poster_by_Lester_Thomas_Beall_(1).jpg",
+      "image": "assets/references/beall-ss-united-states-poster-1952.jpg",
+      "measurement": "data/measurements/beall-ss-united-states-poster-1952.json"
+    },
+    {
+      "id": "shag-website",
+      "title": "Shag website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: a contemporary revival of the illustrative core, with flat planes, a warm brown-orange-olive palette, atomic and biomorphic props, and stylized figures. The page is a full-bleed image slider, so the style is in the artwork, not in the page layout.",
+      "page": "references/shag-website.html",
+      "source": "https://www.shag.com/",
+      "image": "assets/references/shag-website.jpg",
+      "measurement": "data/measurements/shag-website.json"
+    },
+    {
+      "id": "tomfroese-website",
+      "title": "Tom Froese website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: it pairs a script word with a heavy geometric sans-serif and uses warm coral and sky blue, as the rubric describes, but it has no shapes or illustration in the first viewport and the ground is slate, not paper.",
+      "page": "references/tomfroese-website.html",
+      "source": "https://www.tomfroese.com/",
+      "image": "assets/references/tomfroese-website.jpg",
+      "measurement": "data/measurements/tomfroese-website.json"
+    },
+    {
+      "id": "bass-vertigo-poster-1958",
+      "title": "Vertigo poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Hand-cut lettering, flat silhouettes, and one flat printed ground: the Bass branch of the graphic core. Partial fit: only one hue, and it is saturated.",
+      "page": "references/bass-vertigo-poster-1958.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Vertigomovie_restoration.jpg",
+      "image": "assets/references/bass-vertigo-poster-1958.jpg",
+      "measurement": "data/measurements/bass-vertigo-poster-1958.json"
+    }
+  ]
+}

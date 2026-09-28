@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "flat-design",
+  "type": "registry:theme",
+  "title": "Flat design",
+  "description": "Solid color fields, plain sans-serif type, and no depth. Interfaces that stop imitating objects.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Segoe UI\", \"Helvetica Neue\", Lato, \"Open Sans\", Arial, sans-serif",
+      "font-mono": "Consolas, Menlo, monospace"
+    },
+    "light": {
+      "background": "#ffffff",
+      "foreground": "#2c3e50",
+      "card": "#ffffff",
+      "card-foreground": "#2c3e50",
+      "popover": "#ffffff",
+      "popover-foreground": "#2c3e50",
+      "primary": "#1abc9c",
+      "primary-foreground": "#2c3e50",
+      "secondary": "#8e44ad",
+      "secondary-foreground": "#ffffff",
+      "muted": "#ecf0f1",
+      "muted-foreground": "#4f6273",
+      "accent": "#c0392b",
+      "accent-foreground": "#ffffff",
+      "destructive": "#b42318",
+      "border": "#bdc3c7",
+      "input": "#bdc3c7",
+      "ring": "#1abc9c",
+      "radius": "4px"
+    }
+  }
+}

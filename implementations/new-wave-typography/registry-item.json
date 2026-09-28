@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "new-wave-typography",
+  "type": "registry:theme",
+  "title": "New Wave typography",
+  "description": "Swiss grotesques set loose: wide and uneven letterspacing, stepped and tilted lines, dot screens, and heavy bars.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "font-mono": "\"Helvetica Neue\", Helvetica, Arial, sans-serif"
+    },
+    "light": {
+      "background": "#f1efe9",
+      "foreground": "#111111",
+      "card": "#f1efe9",
+      "card-foreground": "#111111",
+      "popover": "#f1efe9",
+      "popover-foreground": "#111111",
+      "primary": "#e4007c",
+      "primary-foreground": "#ffffff",
+      "secondary": "#0094d4",
+      "secondary-foreground": "#111111",
+      "muted": "#d9d6ce",
+      "muted-foreground": "#4a4a48",
+      "accent": "#ffe000",
+      "accent-foreground": "#111111",
+      "destructive": "#b42318",
+      "border": "#111111",
+      "input": "#111111",
+      "ring": "#e4007c",
+      "radius": "0px"
+    }
+  }
+}

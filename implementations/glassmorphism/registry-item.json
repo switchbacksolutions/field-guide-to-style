@@ -1,0 +1,36 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "glassmorphism",
+  "type": "registry:theme",
+  "title": "Glassmorphism",
+  "description": "Frosted, translucent panels that float over vivid color. Interface glass of the 2020s.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"SF Pro Text\", \"Segoe UI Variable Text\", Inter, system-ui, -apple-system, \"Helvetica Neue\", sans-serif",
+      "font-mono": "\"SF Mono\", \"Cascadia Mono\", ui-monospace, Menlo, monospace",
+      "shadow-sm": "0px 4px 16px 0px #0a062433",
+      "shadow-md": "0px 12px 40px 0px #0a06244d"
+    },
+    "light": {
+      "background": "#120e35",
+      "foreground": "#ffffff",
+      "card": "#ffffff1f",
+      "card-foreground": "#ffffff",
+      "popover": "#ffffff1f",
+      "popover-foreground": "#ffffff",
+      "primary": "#ffffff",
+      "primary-foreground": "#2b1a78",
+      "secondary": "#ffffff29",
+      "secondary-foreground": "#ffffff",
+      "muted": "#ffffff14",
+      "muted-foreground": "#ddd8fb",
+      "accent": "#ffb86b",
+      "accent-foreground": "#120e35",
+      "destructive": "#b42318",
+      "border": "#ffffff47",
+      "input": "#ffffff47",
+      "ring": "#ffffff",
+      "radius": "18px"
+    }
+  }
+}

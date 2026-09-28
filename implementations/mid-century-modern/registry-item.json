@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "mid-century-modern",
+  "type": "registry:theme",
+  "title": "Mid-century modern",
+  "description": "Warm flat color, cut-paper shapes, and playful type. Post-war modernism with a sense of humor.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Iowan Old Style\", Palatino, \"Book Antiqua\", Georgia, serif",
+      "font-mono": "Futura, \"Century Gothic\", \"Avenir Next\", sans-serif"
+    },
+    "light": {
+      "background": "#f3ead6",
+      "foreground": "#2a2522",
+      "card": "#fbf5e8",
+      "card-foreground": "#2a2522",
+      "popover": "#fbf5e8",
+      "popover-foreground": "#2a2522",
+      "primary": "#c9582b",
+      "primary-foreground": "#fbf5e8",
+      "secondary": "#1d7a78",
+      "secondary-foreground": "#fbf5e8",
+      "muted": "#e8dcc0",
+      "muted-foreground": "#5a4f45",
+      "accent": "#dea133",
+      "accent-foreground": "#2a2522",
+      "destructive": "#b42318",
+      "border": "#2a2522",
+      "input": "#2a2522",
+      "ring": "#c9582b",
+      "radius": "24px"
+    }
+  }
+}

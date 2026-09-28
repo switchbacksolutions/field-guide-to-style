@@ -1,0 +1,695 @@
+{
+  "id": "pop-art",
+  "title": "Pop art",
+  "order": 21,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Pop",
+    "Comic-book pop art",
+    "Commodity art"
+  ],
+  "summary": "Ben-Day dots, heavy black outlines, and flat process primaries. The comic panel blown up to poster size.",
+  "lede": "The graphic idiom of 1960s Pop art, which took its look from comic strips, advertising, and packaging: flat red, yellow, and blue printed in solid areas or Ben-Day dots, heavy black key lines, speech balloons and caption boxes, and bold condensed lettering. This record covers that hard-edged, mass-print core of Lichtenstein, Warhol’s screenprints, and Robert Indiana. British collage, soft sculpture, and later Neo-pop are related branches.",
+  "moods": [
+    "loud",
+    "brash",
+    "ironic",
+    "commercial",
+    "graphic"
+  ],
+  "era": {
+    "from": 1956,
+    "to": 1970,
+    "note": "Tate dates the movement from the mid 1950s in Britain and the late 1950s in America, with a peak in the 1960s. The comic-strip idiom starts with Lichtenstein’s paintings of 1961. Revivals continue in advertising, packaging, and web design."
+  },
+  "regions": [
+    "United States",
+    "United Kingdom",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q134147",
+    "aat": "300022205"
+  },
+  "attestation": [
+    {
+      "label": "Getty AAT: Pop (fine arts styles), with “Pop art” as a used-for term",
+      "url": "https://vocab.getty.edu/page/aat/300022205",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikipedia: Pop art",
+      "url": "https://en.wikipedia.org/wiki/Pop_art",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Tate: Art term “Pop art”",
+      "url": "https://www.tate.org.uk/art/art-terms/p/pop-art",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "The Art Story: Pop Art movement overview",
+      "url": "https://www.theartstory.org/movement/pop-art/",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Comics",
+      "wikidata": "Q1004",
+      "note": "Wikidata lists comics, advertising, and popular culture as influences (P737). [The Art Story](https://www.theartstory.org/movement/pop-art/) reports that Lichtenstein took both the images and the techniques of comic books: bright colors, clear outlines, and Ben-Day dots."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Ben-Day process",
+      "wikidata": "Q439395",
+      "note": "A printing process of 1879 that makes tints from fine patterns of dots. [Wikipedia](https://en.wikipedia.org/wiki/Pop_art) describes Lichtenstein’s work as thick outlines, bold colors, and Ben-Day dots “as if created by photographic reproduction”."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Dada",
+      "wikidata": "Q6034",
+      "note": "The [Getty AAT](https://vocab.getty.edu/page/aat/300022205) scope note says the movement was influenced by Dada. Wikidata also lists Dada as an influence."
+    },
+    {
+      "relation": "reaction-against",
+      "label": "Abstract expressionism",
+      "wikidata": "Q177725",
+      "note": "The Getty AAT scope note calls Pop “a move toward a more objective, immediate art form after the dominance of Abstract Expressionism”. Tate describes it as a revolt against the dominant approaches to art."
+    },
+    {
+      "relation": "related-to",
+      "label": "Independent Group",
+      "wikidata": "Q1661096",
+      "note": "The London group of 1952–1955 that Wikipedia calls the precursor of Pop art. Its collage branch, led by Richard Hamilton and Eduardo Paolozzi, is related but outside this record’s graphic core."
+    },
+    {
+      "relation": "related-to",
+      "style": "memphis",
+      "note": "The Memphis record lists Pop art as an influence on its bright commercial color. Memphis turns that color into laminate pattern and toy-like objects."
+    },
+    {
+      "relation": "related-to",
+      "style": "psychedelic-art",
+      "note": "The Psychedelic art record lists Pop art among the sources of the San Francisco rock poster, through cartoon imagery and collage."
+    },
+    {
+      "relation": "related-to",
+      "label": "Neo-pop",
+      "wikidata": "Q3347103",
+      "note": "A 1980s and 1990s revival of Pop art’s commercial imagery, per Wikipedia. Takashi Murakami’s Superflat (Q1444581) is a Japanese branch."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "Ben-Day dots.",
+      "text": "Tints are made of large, even dots in one ink on white or on a second flat color: red dots for skin, blue dots for sky. The dots are big enough to see as dots."
+    },
+    {
+      "facet": "structure",
+      "term": "Heavy key lines.",
+      "text": "Every shape has a thick black outline of even weight, as in a comic’s inked line. Hairlines do not appear."
+    },
+    {
+      "facet": "color",
+      "term": "Process primaries.",
+      "text": "Flat red, yellow, and blue with black and white, the colors of cheap four-color printing. Warhol’s screenprints add hot pink, orange, and turquoise. No gradients and no modeled shading."
+    },
+    {
+      "facet": "layout",
+      "term": "Comic panel.",
+      "text": "The image is framed as one panel cropped from a strip, or as a grid of panels or repeated units, like Warhol’s rows of cans and faces."
+    },
+    {
+      "facet": "type",
+      "term": "Balloon and sound-effect lettering.",
+      "text": "Capital letters in speech balloons and yellow caption boxes. Sound effects in huge condensed or blocky letters with a black outline and a drop. Robert Indiana used stacked slab-serif words."
+    },
+    {
+      "facet": "imagery",
+      "term": "Mass-culture subjects.",
+      "text": "Close-ups of faces, explosions, brand packaging, food, and everyday objects, isolated and enlarged. Starbursts and speed lines mark action."
+    },
+    {
+      "facet": "motion",
+      "term": "Frozen action.",
+      "text": "Motion is drawn, not animated: speed lines, starbursts, and tilted lettering. On screen, a short jolt or pop on press is the equivalent."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Visible Ben-Day or halftone dots fill areas of flat color.",
+      "Thick black outlines of even weight surround shapes and panels.",
+      "Red, yellow, and blue (or Warhol’s hot pinks and turquoise) appear as flat fills.",
+      "Speech balloons, caption boxes, starbursts, or sound-effect lettering appear."
+    ],
+    "counter": [
+      "Smooth gradients, soft shadows, or modeled 3D shading.",
+      "Thin hairline borders or no outlines.",
+      "Muted, earthy, or pastel-only palettes.",
+      "Irregular laminate patterns such as squiggles and confetti."
+    ],
+    "confusions": [
+      {
+        "with": "memphis",
+        "difference": "Both use bright flat color and black outlines. Memphis fills surfaces with squiggles, confetti, and grids, and builds toy-like objects at odd angles. Pop art uses one pattern only, the regular Ben-Day dot, and frames its image as a comic panel with balloons and captions."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Both use thick black outlines and flat brights. Neo-brutalism gives every block a hard offset shadow and has no dot tints or comic devices. Pop art has dot fields, speech balloons, and sound-effect lettering, and its panels cast no shadow."
+      },
+      {
+        "with": "bauhaus",
+        "difference": "Both use red, yellow, and blue. Bauhaus uses them for elementary geometry on a clean grid with thin rules. Pop art uses them for comic-strip imagery with Ben-Day dots and heavy outlines."
+      },
+      {
+        "with": "psychedelic-art",
+        "difference": "Psychedelic posters cover the sheet in vibrating complementary colors with melting lettering and flowing curves. Pop art keeps legible block lettering, white paper, square panels, and regular dots."
+      },
+      {
+        "with": "Neo-pop",
+        "difference": "Neo-pop and Superflat reuse Pop art’s commercial imagery from the 1980s on, often with glossy digital finish, gradients, or anime characters. This record covers the flat, dot-printed look of the 1960s."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Frame sections as comic panels with 4 to 6 px black borders and square corners.",
+      "Fill some panels with Ben-Day dots: a tiled radial gradient of one strong ink on white or on a second flat color, at a pitch of about 10 to 14 px.",
+      "Use flat red, yellow, blue, black, and white. Add hot pink or turquoise only for a Warhol variant.",
+      "Put headings in yellow caption boxes and short statements in white speech balloons with an outlined tail.",
+      "Set display type in a condensed heavy sans in capitals. Give the biggest words a black outline and a hard drop, like a sound effect.",
+      "Put body text on solid white or yellow, never directly on dots.",
+      "Use starbursts and speed lines as decoration around the main headline."
+    ],
+    "dont": [
+      "Do not use gradients, blurred shadows, or glossy highlights.",
+      "Do not use thin gray borders. Outlines must read as black ink.",
+      "Do not give every block a hard offset shadow. That is neo-brutalism.",
+      "Do not use squiggle, confetti, or grid patterns. The only pattern is the dot.",
+      "Do not make the dots so small that they read as a smooth tint.",
+      "Do not reproduce a specific artist’s painting or a comic publisher’s characters."
+    ],
+    "uses": [
+      "Food and drink packaging",
+      "Retail campaigns",
+      "Event and festival pages",
+      "Comic, games, and entertainment brands",
+      "Editorial features"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.patternShare",
+      "min": 0.1,
+      "note": "Positive marker. Ben-Day dot fields fill many panels, not only the page background. Provisional: set from the specimen. Real sites often draw halftones as images or SVG, which this metric does not count."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.3,
+      "note": "Positive marker. Dots cover a large share of the visible page. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.border.medianWidth",
+      "min": 4,
+      "note": "Positive marker. Outlines are heavy black key lines. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.hues",
+      "min": 3,
+      "note": "Positive marker. Red, yellow, and blue appear together. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Color is flat ink. Dot tints count as pattern, not as gradient."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.1,
+      "note": "Panels cast no shadows, unlike neo-brutalism. Provisional: set from the specimen."
+    }
+  ],
+  "synthesis": [
+    "The painted canon sets the panel grammar. [Whaam!](ref:lichtenstein-whaam-1963) and [Drowning Girl](ref:lichtenstein-drowning-girl-1963) use every device in the record: dot tints for sky, water, and skin, even black key lines, a yellow caption box or a thought balloon, and an outlined sound effect. Dots are always a tint under solid figures and lettering, and large solid black shapes carry as much weight as the outlines.",
+    "Print shows that the idiom needs few inks. The [Crak! poster](ref:lichtenstein-crak-poster-1963) uses yellow, red, and black on paper; [Shipboard Girl](ref:lichtenstein-shipboard-girl-1965) balances red and blue dot fields against flat yellow and ultramarine; the [BRATATAT T-shirt](ref:lichtenstein-bratatat-t-shirt-1981) carries a coarse blue dot field onto cotton. The comic page it all came from, such as [Atomic War! #1](ref:atomic-war-1-page-6-1952), has the same panels, balloons, and sound effects at a size where the dots cannot be seen.",
+    "Warhol and Indiana supply the other branches, which are partial fits because they have no dots or key lines: the grid of repeated units ([Marilyn Diptych](ref:warhol-marilyn-diptych-1962), [Campbell’s Soup Cans](ref:warhol-campbells-soup-cans-1962), and the [“Souper” paper dress](ref:campbells-souper-paper-dress-1967)), hot flat color under a black photographic layer ([Marilyn screenprint](ref:warhol-marilyn-screenprint-1967)), and the stacked slab-serif word ([Love](ref:indiana-love-screenprint-1967), [LOVE stamp](ref:love-stamp-1973)).",
+    "Real websites in the core idiom are rare. Of about 30 candidates captured in September 2026, three were kept: [Comicraft](ref:comicraft-website) as a clear example, and [KABOOM! UI](ref:kaboom-ui-website) and [Butcher Billy](ref:butcher-billy-website) as borderline. Most comic and entertainment sites use painted or gradient art, and sites about Pop artists describe the style without using it.",
+    "On Comicraft and Butcher Billy the dots and outlines are inside images, so the extractor records no CSS pattern and thin or no CSS borders; judge such pages by the rubric. KABOOM! UI draws its dots in CSS and passes `color.patternShare`, but its hard offset shadows on 43% of boxes pass the [neo-brutalism](style:neo-brutalism) fingerprint in full. It marks the border between the two styles. The fingerprint is unchanged, because no metric failed for the same measured reason on three clear captures."
+  ],
+  "page": "pop-art.html",
+  "implementation": {
+    "tokens": "implementations/pop-art/tokens.json",
+    "css": "implementations/pop-art/tokens.css",
+    "tailwind": "implementations/pop-art/tailwind.css",
+    "shadcn": "implementations/pop-art/shadcn.css",
+    "registry": "implementations/pop-art/registry-item.json",
+    "designMd": "implementations/pop-art/DESIGN.md",
+    "specimen": "implementations/pop-art/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for pop-art. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#fffbea",
+        "$description": "Newsprint white: the paper the comic panels were printed on."
+      },
+      "surface": {
+        "$value": "#ffffff",
+        "$description": "Speech balloons and caption boxes."
+      },
+      "subtle": {
+        "$value": "#fff4b8"
+      },
+      "text": {
+        "$value": "#111111"
+      },
+      "muted": {
+        "$value": "#3a3a3a"
+      },
+      "border": {
+        "$value": "#111111",
+        "$description": "Key-line black: every shape carries a heavy black outline."
+      },
+      "primary": {
+        "$value": "#d8202a",
+        "$description": "Process red. Lichtenstein used it for lips, explosions, and Ben-Day flesh tones."
+      },
+      "on-primary": {
+        "$value": "#ffffff"
+      },
+      "secondary": {
+        "$value": "#1d5fc4",
+        "$description": "Process blue, for skies, hair, and dot fields."
+      },
+      "on-secondary": {
+        "$value": "#ffffff"
+      },
+      "accent": {
+        "$value": "#ffd400",
+        "$description": "Process yellow, for blondes, blasts, and caption boxes."
+      },
+      "on-accent": {
+        "$value": "#111111"
+      },
+      "dot": {
+        "$value": "#f4a3a8",
+        "$description": "Pale red for flesh-tone Ben-Day dots on white, where full red would be too dark."
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Impact",
+          "Haettenschweiler",
+          "Franklin Gothic Bold",
+          "Arial Black",
+          "sans-serif"
+        ],
+        "$description": "Condensed heavy sans for sound-effect lettering and headlines. These faces are heavy at weight 400."
+      },
+      "body": {
+        "$value": [
+          "Helvetica Neue",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Avenir Next Condensed",
+          "Arial Narrow",
+          "Helvetica Neue",
+          "sans-serif"
+        ],
+        "$description": "Caption-box and balloon lettering: bold capitals in a narrow sans, not a monospace."
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 400,
+        "$description": "Impact and Arial Black are already black faces. A synthetic bold would smear them."
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "21px"
+      },
+      "xl": {
+        "$value": "28px"
+      },
+      "2xl": {
+        "$value": "40px"
+      },
+      "3xl": {
+        "$value": "60px"
+      },
+      "4xl": {
+        "$value": "88px"
+      },
+      "5xl": {
+        "$value": "140px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.9
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.06,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px",
+        "$description": "Comic panels and caption boxes are square."
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "999px",
+        "$description": "Only for speech balloons and round badges."
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "4px",
+        "$description": "The lightest key line. Anything thinner reads as a hairline, not ink."
+      },
+      "thick": {
+        "$value": "6px",
+        "$description": "Panel borders and gutters."
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "20px"
+      },
+      "lg": {
+        "$value": "32px"
+      },
+      "xl": {
+        "$value": "56px"
+      },
+      "2xl": {
+        "$value": "96px"
+      }
+    },
+    "dot": {
+      "$type": "dimension",
+      "size": {
+        "$value": "14px",
+        "$description": "Ben-Day dot pitch. Keep the dots large enough to see as dots."
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}",
+          "textTransform": "uppercase"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}",
+          "textTransform": "uppercase"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.sm}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}",
+          "textTransform": "uppercase"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "campbells-souper-paper-dress-1967",
+      "title": "“Souper” paper dress",
+      "medium": "textile",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Pop art’s packaging grid returned to commerce: the soup label repeated in rows as a textile print. Partial fit: it has no dots or comic devices.",
+      "page": "references/campbells-souper-paper-dress-1967.html",
+      "source": "https://collections.vam.ac.uk/item/O1330466/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "atomic-war-1-page-6-1952",
+      "title": "Atomic War! #1, page 6",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: source material, not Pop art. It shows the comic devices Pop art borrowed (panels, balloons, caption boxes, sound effects, black ink lines) at their original size, where the Ben-Day dots are too fine to see.",
+      "page": "references/atomic-war-1-page-6-1952.html",
+      "source": "https://commons.wikimedia.org/wiki/File:AtomicWar0106.jpg",
+      "image": "assets/references/atomic-war-1-page-6-1952.jpg",
+      "measurement": "data/measurements/atomic-war-1-page-6-1952.json"
+    },
+    {
+      "id": "lichtenstein-bratatat-t-shirt-1981",
+      "title": "BRATATAT T-shirt",
+      "medium": "textile",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The comic-panel idiom on a garment: a coarse blue dot field, black key lines, flat red and yellow, and a sound effect. It is later than the style’s era but reuses a 1964 image.",
+      "page": "references/lichtenstein-bratatat-t-shirt-1981.html",
+      "source": "https://collections.vam.ac.uk/item/O301462/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "butcher-billy-website",
+      "title": "Butcher Billy website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the page is a grid of pop-art comic images with flat primaries, heavy black outlines, captions, and cover lettering, but the style lives in the artworks, not in the page’s own interface, and no Ben-Day dots are visible.",
+      "page": "references/butcher-billy-website.html",
+      "source": "https://www.butcherbilly.com/",
+      "image": "assets/references/butcher-billy-website.jpg",
+      "measurement": "data/measurements/butcher-billy-website.json"
+    },
+    {
+      "id": "warhol-campbells-soup-cans-1962",
+      "title": "Campbell’s Soup Cans",
+      "medium": "painting",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The founding packaging work of American Pop: a product label repeated as a grid of flat, uniform panels. Partial fit: it has no dots or comic devices.",
+      "page": "references/warhol-campbells-soup-cans-1962.html",
+      "source": "https://www.moma.org/collection/works/79809",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "comicraft-website",
+      "title": "Comicraft website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example: halftone dot shading, heavy black ink lines, a speech balloon with lettering, a sunburst, and yellow and red. The panel is a contemporary comic drawing, not a Lichtenstein pastiche, and the palette leans orange rather than blue.",
+      "page": "references/comicraft-website.html",
+      "source": "https://www.comicbookfonts.com/",
+      "image": "assets/references/comicraft-website.jpg",
+      "measurement": "data/measurements/comicraft-website.json"
+    },
+    {
+      "id": "lichtenstein-crak-poster-1963",
+      "title": "Crak! Now, Mes Petits… Pour la France!",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A Pop exhibition poster printed with the same means as a comic: three inks, a dot tint, black key lines, a speech balloon, and a sound effect.",
+      "page": "references/lichtenstein-crak-poster-1963.html",
+      "source": "https://collections.vam.ac.uk/item/O74122/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "lichtenstein-drowning-girl-1963",
+      "title": "Drowning Girl",
+      "medium": "painting",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical romance-comic panel: dot-tinted skin, even black key lines, flat primary blue, and a thought balloon with hand-lettered capitals.",
+      "page": "references/lichtenstein-drowning-girl-1963.html",
+      "source": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=452",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "kaboom-ui-website",
+      "title": "KABOOM! UI website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: speech balloons, a sound-effect logotype, and a CSS dot field are Pop devices, but the dots are pale and small, the outlines are 2 px, and most blocks carry hard offset shadows.",
+      "page": "references/kaboom-ui-website.html",
+      "source": "https://kaboom-ui-kit.pages.dev/",
+      "image": "assets/references/kaboom-ui-website.jpg",
+      "measurement": "data/measurements/kaboom-ui-website.json"
+    },
+    {
+      "id": "love-stamp-1973",
+      "title": "LOVE stamp",
+      "medium": "other",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Pop art’s word-as-image carried into mass print on hundreds of millions of stamps. Partial fit: it has no dots, key lines, or comic devices.",
+      "page": "references/love-stamp-1973.html",
+      "source": "https://en.wikipedia.org/wiki/Love_(image)",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "indiana-love-screenprint-1967",
+      "title": "Love, screenprint",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The type branch of the style: a single word in stacked slab-serif capitals, flat saturated color, and no modeling. Partial fit: it has no dots, outlines, or comic panel.",
+      "page": "references/indiana-love-screenprint-1967.html",
+      "source": "https://collections.vam.ac.uk/item/O76309/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "warhol-marilyn-diptych-1962",
+      "title": "Marilyn Diptych",
+      "medium": "painting",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The key source for the style’s grid of repeated units and for the Warhol color variant. Partial fit: it has no dots, key lines, or comic devices.",
+      "page": "references/warhol-marilyn-diptych-1962.html",
+      "source": "https://www.tate.org.uk/art/artworks/warhol-marilyn-diptych-t03093",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "warhol-marilyn-screenprint-1967",
+      "title": "Marilyn Monroe (Marilyn), shocking pink colourway",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The Warhol branch of the style: flat off-register color blocks under a black photographic screen, in hot pink and yellow instead of process primaries. It has no dots, outlines, or comic devices, so it fits the color grammar more than the panel grammar.",
+      "page": "references/warhol-marilyn-screenprint-1967.html",
+      "source": "https://collections.vam.ac.uk/item/O72301/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "lichtenstein-shipboard-girl-1965",
+      "title": "Shipboard Girl",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example of the full process palette: red and blue dot fields, flat yellow and blue, and heavy black outlines on white paper.",
+      "page": "references/lichtenstein-shipboard-girl-1965.html",
+      "source": "https://collections.vam.ac.uk/item/O1034308/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "lichtenstein-whaam-1963",
+      "title": "Whaam!",
+      "medium": "painting",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The canonical comic-panel painting: Ben-Day dot fields, even black outlines, a yellow caption box, and a huge outlined sound effect.",
+      "page": "references/lichtenstein-whaam-1963.html",
+      "source": "https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897",
+      "image": null,
+      "measurement": null
+    }
+  ]
+}

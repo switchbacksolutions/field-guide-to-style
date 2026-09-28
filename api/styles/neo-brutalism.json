@@ -664,6 +664,18 @@
       "source": "https://media.snowball.xyz/",
       "image": "assets/references/snowball-website.jpg",
       "measurement": "data/measurements/snowball-website.json"
+    },
+    {
+      "id": "kaboom-ui-website",
+      "title": "KABOOM! UI website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Its structure is neo-brutalist: every box has a black border, hard unblurred shadows cover 43% of boxes, and radii are zero. It passes every neo-brutalism fingerprint metric.",
+      "page": "references/kaboom-ui-website.html",
+      "source": "https://kaboom-ui-kit.pages.dev/",
+      "image": "assets/references/kaboom-ui-website.jpg",
+      "measurement": "data/measurements/kaboom-ui-website.json"
     }
   ]
 }

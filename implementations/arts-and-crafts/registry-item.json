@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "arts-and-crafts",
+  "type": "registry:theme",
+  "title": "Arts and Crafts",
+  "description": "Flat, dense repeats of leaves and flowers, double-ruled frames, and red-and-black old-style type on linen. Handwork against the machine.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Iowan Old Style\", Palatino, \"Palatino Linotype\", \"Book Antiqua\", Georgia, serif",
+      "font-mono": "\"Hoefler Text\", Palatino, \"Palatino Linotype\", \"Book Antiqua\", Georgia, serif"
+    },
+    "light": {
+      "background": "#eee6d3",
+      "foreground": "#1e1a15",
+      "card": "#f6f0e1",
+      "card-foreground": "#1e1a15",
+      "popover": "#f6f0e1",
+      "popover-foreground": "#1e1a15",
+      "primary": "#9b3324",
+      "primary-foreground": "#f6f0e1",
+      "secondary": "#24497f",
+      "secondary-foreground": "#f6f0e1",
+      "muted": "#e2d5b8",
+      "muted-foreground": "#594f42",
+      "accent": "#4b7a2b",
+      "accent-foreground": "#f6f0e1",
+      "destructive": "#b42318",
+      "border": "#1e1a15",
+      "input": "#1e1a15",
+      "ring": "#9b3324",
+      "radius": "0px"
+    }
+  }
+}

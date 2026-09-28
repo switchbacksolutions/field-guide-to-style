@@ -1,0 +1,144 @@
+/* Corporate Memphis specimen. Uses tokens.css. Flat cartoon figures with small heads and long bendy limbs, drawn with pseudo-elements.
+   Figures are decoration only: every shape is content-free, and the text never sits on them. */
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); line-height: var(--leading-body); }
+a { color: inherit; text-underline-offset: .2em; }
+:focus-visible { outline: 3px solid var(--color-primary); outline-offset: 3px; }
+.specimen-back { margin: 0; padding: var(--spacing-xs) var(--gutter); font-size: var(--text-xs); }
+:root { --gutter: max(24px, calc((100vw - 1200px) / 2)); }
+
+.site-header, .hero, .features, .programme, .tickets, .site-footer { padding-left: var(--gutter); padding-right: var(--gutter); }
+
+.site-header { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: var(--spacing-sm); padding-top: var(--spacing-sm); padding-bottom: var(--spacing-sm); }
+.logo { display: inline-flex; align-items: center; gap: 10px; font-family: var(--font-display); font-size: var(--text-lg); font-weight: var(--font-weight-display); text-decoration: none; }
+.logo::before { content: ""; width: 30px; height: 30px; border-radius: 50%; background: var(--color-primary); box-shadow: 12px -6px 0 -6px var(--color-accent); }
+.site-header nav { display: flex; flex-wrap: wrap; gap: var(--spacing-md); }
+.site-header nav a { font-weight: var(--font-weight-bold); text-decoration: none; }
+.site-header nav a:hover { color: var(--color-primary); }
+
+/* ---- Hero: text on the left, an illustrated scene on the right. ---- */
+.hero { --u: 1px; --sx: calc(100% - var(--gutter) - 560 * var(--u)); --sy: calc(100% - 32px - 540 * var(--u)); position: relative; isolation: isolate; display: grid; grid-template-columns: minmax(0, 540px); align-content: center; min-height: 660px; padding-top: var(--spacing-lg); padding-bottom: var(--spacing-xl); }
+.kicker { margin: 0 0 var(--spacing-sm); color: var(--color-primary); font-weight: var(--font-weight-bold); letter-spacing: var(--tracking-label); }
+h1 { margin: 0; font-family: var(--font-display); font-size: clamp(48px, 6.4vw, var(--text-5xl)); font-weight: var(--font-weight-display); line-height: var(--leading-tight); letter-spacing: var(--tracking-display); }
+h1 span { color: var(--color-primary); }
+.lede { margin: var(--spacing-md) 0 var(--spacing-lg); color: var(--color-muted); font-size: var(--text-lg); }
+.actions { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); margin: 0; }
+.button, button { display: inline-block; padding: 16px 30px; border: 0; border-radius: var(--radius-pill); background: var(--color-primary); color: var(--color-on-primary); font: var(--font-weight-bold) var(--text-base)/1.2 var(--font-body); text-decoration: none; cursor: pointer; transition: background-color .15s, transform .15s; }
+.button:hover, button:hover { background: var(--color-text); transform: translateY(-2px); }
+.button-secondary { background: var(--color-subtle); color: var(--color-text); }
+.button-secondary:hover { background: var(--color-accent); color: var(--color-on-accent); }
+.facts { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); margin: var(--spacing-lg) 0 0; }
+.facts div { display: flex; flex-direction: column; min-width: 112px; padding: 14px 22px; border-radius: var(--radius-md); background: var(--color-surface); }
+.facts div:nth-child(2) { background: var(--color-peach); }
+.facts div:nth-child(3) { background: var(--color-mint); }
+dt { order: 2; color: var(--color-muted); font-size: var(--text-sm); font-weight: var(--font-weight-bold); }
+dd { order: 1; margin: 0; font-family: var(--font-display); font-size: var(--text-2xl); font-weight: var(--font-weight-display); line-height: 1.1; }
+
+/* Scene shapes sit on a 560 x 540 stage. --x, --y, --w, and --h are stage units. */
+.hero::before, .hero::after, .kicker::before, .kicker::after, h1::before, h1::after, h1 span::before, h1 span::after,
+.lede::before, .lede::after, .actions::before, .actions::after, .facts::before, .facts::after,
+.facts div::before, .facts div::after {
+  content: ""; position: absolute; left: calc(var(--sx) + var(--x) * var(--u)); top: calc(var(--sy) + var(--y) * var(--u));
+  width: calc(var(--w) * var(--u)); height: calc(var(--h) * var(--u)); box-sizing: border-box; pointer-events: none;
+}
+/* Pastel blob behind the scene. */
+.hero::before { --x: 0; --y: 70; --w: 560; --h: 440; z-index: -1; border-radius: 46% 54% 42% 58% / 52% 40% 60% 48%; background: var(--color-subtle); }
+/* Potted plant. */
+.hero::after { --x: 438; --y: 404; --w: 96; --h: 104; z-index: 3; background: var(--color-secondary); clip-path: polygon(0 0, 100% 0, 84% 100%, 16% 100%); }
+.actions::before { --x: 446; --y: 236; --w: 58; --h: 176; z-index: 2; border-radius: 0 100%; background: var(--color-leaf); transform: rotate(-14deg); }
+.actions::after { --x: 492; --y: 296; --w: 48; --h: 120; z-index: 2; border-radius: 100% 0; background: var(--color-leaf); transform: rotate(32deg); }
+.facts::before { --x: 404; --y: 318; --w: 44; --h: 106; z-index: 2; border-radius: 100% 0; background: var(--color-leaf); transform: rotate(-48deg); }
+
+/* The standing figure: violet skin, yellow shirt, long arms. */
+h1 span::before { --x: 158; --y: 290; --w: 116; --h: 196; z-index: 2; border: calc(40 * var(--u)) solid var(--color-text); border-width: calc(30 * var(--u)) calc(40 * var(--u)) 0; border-radius: 44% 44% 4px 4px / 30% 30% 4px 4px; }
+h1 span::after { --x: 126; --y: 478; --w: 78; --h: 30; z-index: 3; border-radius: var(--radius-pill); background: var(--color-secondary); box-shadow: calc(104 * var(--u)) 0 0 var(--color-secondary); }
+.kicker::before { --x: 150; --y: 150; --w: 132; --h: 166; z-index: 3; border-radius: 50% 50% 20px 20px / 40% 40% 20px 20px; background: var(--color-accent); }
+.kicker::after { --x: 190; --y: 90; --w: 54; --h: 62; z-index: 4; border-radius: 50%; background: var(--color-primary); box-shadow: calc(-9 * var(--u)) calc(-9 * var(--u)) 0 calc(3 * var(--u)) var(--color-text); }
+h1::before { --x: 259; --y: 34; --w: 100; --h: 162; z-index: 4; border: 0 solid var(--color-primary); border-right-width: calc(28 * var(--u)); border-radius: 50%; transform: rotate(30deg); }
+h1::after { --x: 95; --y: 181; --w: 80; --h: 144; z-index: 4; border: 0 solid var(--color-primary); border-left-width: calc(28 * var(--u)); border-radius: 50%; transform: rotate(20deg); }
+.facts div:nth-child(1)::before { --x: 334; --y: 29; --w: 32; --h: 32; z-index: 6; border-radius: 50%; background: var(--color-primary); }
+.facts div:nth-child(1)::after { --x: 94; --y: 304; --w: 32; --h: 32; z-index: 6; border-radius: 50%; background: var(--color-primary); }
+/* A giant pencil in the raised hand. */
+.lede::before { --x: 344; --y: -40; --w: 38; --h: 214; z-index: 3; border-radius: 50% 50% 10px 10px / 30% 30% 10px 10px; background: linear-gradient(var(--color-text) 0 7%, var(--color-peach) 7% 20%, var(--color-sky) 20%); transform: rotate(22deg); }
+/* Speech bubble. */
+.lede::after { --x: 30; --y: 36; --w: 132; --h: 84; z-index: 2; border-radius: 42px 42px 42px 8px; background: radial-gradient(circle at 30% 50%, var(--color-primary) 0 7px, transparent 8px), radial-gradient(circle at 50% 50%, var(--color-primary) 0 7px, transparent 8px), radial-gradient(circle at 70% 50%, var(--color-primary) 0 7px, transparent 8px), var(--color-surface); }
+
+/* ---- Content sections ---- */
+h2 { margin: 0 0 var(--spacing-lg); font-family: var(--font-display); font-size: var(--text-3xl); font-weight: var(--font-weight-display); line-height: var(--leading-tight); letter-spacing: var(--tracking-heading); }
+h3 { margin: 0 0 var(--spacing-xs); font-family: var(--font-display); font-size: var(--text-xl); font-weight: var(--font-weight-bold); }
+.features, .programme, .tickets { padding-top: var(--spacing-xl); padding-bottom: var(--spacing-xl); }
+
+.cards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: var(--spacing-md); }
+.features .card { position: relative; overflow: hidden; min-height: 300px; padding: var(--spacing-lg) var(--spacing-md) var(--spacing-md); border-radius: var(--radius-lg); background: var(--color-subtle); }
+.features .card:nth-child(2) { background: var(--color-peach); }
+.features .card:nth-child(3) { background: var(--color-mint); }
+.card-number { display: grid; place-items: center; width: 60px; height: 60px; margin-bottom: 72px; border-radius: 50%; background: var(--color-primary); color: var(--color-on-primary); font-family: var(--font-display); font-weight: var(--font-weight-display); }
+.card:nth-child(2) .card-number { background: var(--color-secondary); color: var(--color-on-secondary); }
+.card:nth-child(3) .card-number { background: var(--color-leaf); color: var(--color-on-leaf); }
+.card p { margin: 0; }
+/* One oversized object per card: a speech bubble, a pencil, a leaf. */
+.features .card::after { content: ""; position: absolute; box-sizing: border-box; pointer-events: none; }
+.features .card:nth-child(1)::after { top: 36px; right: 32px; width: 104px; height: 64px; border-radius: 32px 32px 6px 32px; background: var(--color-surface); }
+.features .card:nth-child(2)::after { top: 12px; right: 64px; width: 30px; height: 150px; border-radius: 8px 8px 50% 50% / 8px 8px 24% 24%; background: var(--color-accent); transform: rotate(38deg); }
+.features .card:nth-child(3)::after { top: 24px; right: 44px; width: 64px; height: 120px; border-radius: 0 100%; background: var(--color-leaf); transform: rotate(24deg); }
+
+.programme table { width: 100%; border-collapse: separate; border-spacing: 0; padding: var(--spacing-sm) var(--spacing-md); border-radius: var(--radius-lg); background: var(--color-surface); }
+th { padding: var(--spacing-sm); color: var(--color-muted); font-size: var(--text-sm); font-weight: var(--font-weight-bold); text-align: left; }
+td { padding: var(--spacing-sm); vertical-align: middle; }
+td:first-child { width: 88px; }
+td:nth-child(3) { font-weight: var(--font-weight-bold); }
+
+/* Quote panel with a waving figure on the right. */
+.quote { position: relative; overflow: hidden; margin: 0 var(--gutter); padding: var(--spacing-xl) max(var(--spacing-lg), 34%) var(--spacing-xl) var(--spacing-lg); border-radius: var(--radius-lg); background: var(--color-primary); color: var(--color-on-primary); }
+.quote p { margin: 0; font-family: var(--font-display); font-size: clamp(26px, 3vw, var(--text-2xl)); font-weight: var(--font-weight-display); line-height: 1.2; }
+.quote footer { margin-top: var(--spacing-md); font-weight: var(--font-weight-bold); }
+.quote::before, .quote::after, .quote p::before, .quote p::after, .quote footer::before { content: ""; position: absolute; box-sizing: border-box; pointer-events: none; }
+.quote::before { right: 7%; bottom: -30px; width: 170px; height: 170px; border-radius: 50% 50% 0 0; background: var(--color-sky); }
+.quote::after { right: calc(7% + 58px); bottom: 142px; width: 52px; height: 58px; border-radius: 50%; background: var(--color-pink); box-shadow: 8px -8px 0 2px var(--color-text); }
+.quote p::before { right: calc(7% - 30px); bottom: 90px; width: 80px; height: 150px; border: 0 solid var(--color-pink); border-right-width: 26px; border-radius: 50%; }
+.quote p::after { right: calc(7% - 8px); bottom: 222px; width: 36px; height: 36px; border-radius: 50%; background: var(--color-pink); }
+.quote footer::before { right: calc(7% + 150px); bottom: -20px; width: 120px; height: 120px; border-radius: 50%; background: var(--color-accent); }
+
+.tickets .cards { grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); }
+.tickets .card { display: flex; flex-direction: column; align-items: flex-start; gap: var(--spacing-xs); padding: var(--spacing-lg); border-radius: var(--radius-lg); background: var(--color-peach); }
+.tickets .card p { margin: 0 0 var(--spacing-sm); }
+.tickets .card .price { margin: 0; font-family: var(--font-display); font-size: var(--text-4xl); font-weight: var(--font-weight-display); line-height: 1; }
+.tickets .card-featured { background: var(--color-accent); color: var(--color-on-accent); }
+.tickets .card-featured .button { background: var(--color-text); color: var(--color-surface); }
+.card .button { margin-top: auto; }
+.tickets .card:first-child .button { background: var(--color-surface); }
+
+/* Signup panel with a long arm reaching in to post a letter. */
+.signup { position: relative; overflow: hidden; margin: 0 var(--gutter) var(--spacing-xl); padding: var(--spacing-xl) var(--spacing-lg); border-radius: var(--radius-lg); background: var(--color-mint); }
+.signup h2 { margin-bottom: var(--spacing-md); }
+form { display: flex; flex-wrap: wrap; gap: var(--spacing-xs); max-width: 560px; }
+label { width: 100%; font-weight: var(--font-weight-bold); }
+input { flex: 1 1 240px; padding: 16px 24px; border: 0; border-radius: var(--radius-pill); background: var(--color-surface); color: var(--color-text); font: inherit; }
+.note { margin: var(--spacing-sm) 0 0; color: var(--color-muted); font-size: var(--text-sm); }
+.signup::before, .signup::after, .signup .note::before { content: ""; position: absolute; box-sizing: border-box; pointer-events: none; }
+.signup::before { right: -60px; top: 40%; width: 360px; height: 200px; border: 0 solid var(--color-sky); border-top-width: 30px; border-radius: 50%; }
+.signup::after { right: 280px; top: calc(40% + 78px); width: 44px; height: 44px; border-radius: 50%; background: var(--color-sky); }
+.signup .note::before { right: 292px; top: calc(40% + 36px); width: 110px; height: 74px; border-radius: 10px; background: var(--color-surface); transform: rotate(-12deg); }
+
+.site-footer { padding-top: var(--spacing-md); padding-bottom: var(--spacing-lg); color: var(--color-muted); font-size: var(--text-sm); }
+.site-footer p { margin: 0; }
+code { font-family: var(--font-mono); font-size: .9em; }
+
+@media (max-width: 1159px) {
+  .hero { --u: .72px; grid-template-columns: minmax(0, calc(100vw - 2 * var(--gutter) - 440px)); }
+}
+@media (max-width: 900px) {
+  .hero { --u: .58px; --sx: calc(50% - 280 * var(--u)); grid-template-columns: minmax(0, 540px); min-height: 0; padding-bottom: calc(560 * var(--u) + 40px); }
+  .programme table { padding: var(--spacing-xs); font-size: var(--text-sm); }
+  th, td { padding: var(--spacing-xs); }
+  td:first-child { width: auto; }
+  .quote { padding-right: var(--spacing-lg); padding-bottom: 260px; }
+  .signup { padding-bottom: 200px; }
+  .signup::before { top: auto; bottom: -60px; }
+  .signup::after { top: auto; bottom: 70px; right: 200px; }
+  .signup .note::before { top: auto; bottom: 64px; right: 212px; }
+}
+@media (max-width: 480px) {
+  .quote, .signup { margin-left: 16px; margin-right: 16px; padding-left: var(--spacing-md); padding-right: var(--spacing-md); }
+}
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; } }

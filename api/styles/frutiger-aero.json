@@ -159,6 +159,21 @@
       "metric": "surface.shadow.hardShare",
       "max": 0.2,
       "note": "Shadows are blurred, not hard."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "max": 0.08,
+      "note": "Sentence-case type, not wide capitals. Calibrated 2026-09-28: the specimen and four website captures measure 0 to 0.01. Separates it from Y2K, which sets wide capitals."
+    },
+    {
+      "metric": "type.headingWeight",
+      "max": 450,
+      "note": "Light or regular headings, as in Segoe UI and Frutiger. Calibrated 2026-09-28: the specimen and four website captures measure 100 to 400. Separates it from glassmorphism and neumorphism sites with semibold headings."
+    },
+    {
+      "metric": "surface.border.share",
+      "min": 0.25,
+      "note": "Thin outlines frame most panels. Calibrated 2026-09-28: the specimen and four website captures measure 0.29 to 0.88. Separates it from borderless glass and soft-UI cards."
     }
   ],
   "synthesis": [

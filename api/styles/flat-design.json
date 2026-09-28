@@ -1,0 +1,736 @@
+{
+  "id": "flat-design",
+  "title": "Flat design",
+  "order": 14,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Flat UI",
+    "Flat interface design",
+    "Metro (Microsoft design language)"
+  ],
+  "summary": "Solid color fields, plain sans-serif type, and no depth. Interfaces that stop imitating objects.",
+  "lede": "An interface style of about 2010–2016 that removed gradients, gloss, textures, and shadows from screens. Surfaces are solid fields of saturated color, type is a plain sans-serif that is often light, and icons are simple glyphs. This record covers the core of the style: Microsoft’s Metro design language and the flat web and app design that followed it. Material Design and “flat 2.0” are related branches that bring back some depth.",
+  "moods": [
+    "clean",
+    "bright",
+    "direct",
+    "digital"
+  ],
+  "era": {
+    "from": 2010,
+    "to": 2016,
+    "note": "Microsoft introduced Metro with Windows Phone 7 in 2010. Zune (2006) and Windows Media Center (2002) show earlier elements. NN/g dates the web trend from about 2012. Material Design (2014) and Fluent (2017) add depth again, but flat interfaces stay common."
+  },
+  "regions": [
+    "United States",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q15266360"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Flat design",
+      "url": "https://en.wikipedia.org/wiki/Flat_design",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikipedia: Metro (design language)",
+      "url": "https://en.wikipedia.org/wiki/Metro_(design_language)",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Nielsen Norman Group, Kate Moran, “Flat Design: Its Origins, Its Problems, and Why Flat 2.0 Is Better for Users” (2015)",
+      "url": "https://www.nngroup.com/articles/flat-design/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Designmodo, Flat UI Free kit on GitHub (first commit March 2013)",
+      "url": "https://github.com/designmodo/Flat-UI",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "style": "international-typographic-style",
+      "note": "Wikipedia names the International Typographic Style as the most substantial influence on flat design, and states that Metro is based on the principles of classic Swiss graphic design."
+    },
+    {
+      "relation": "influenced-by",
+      "style": "bauhaus",
+      "note": "Wikipedia lists the styles that came from the Bauhaus among the influences on flat design."
+    },
+    {
+      "relation": "reaction-against",
+      "style": "skeuomorphism",
+      "note": "NN/g (2015) describes flat design as a reaction against three-dimensional, skeuomorphic, and realistic styles. Microsoft’s documentation called Metro “authentically digital”. Apple’s iOS 7 (2013) replaced the textured interfaces of earlier versions."
+    },
+    {
+      "relation": "related-to",
+      "label": "Metro (Microsoft design language)",
+      "wikidata": "Q1148750",
+      "note": "The core branch of this record. Wikipedia describes Metro as based on flat design: typography, simplified icons, no clutter, and basic geometric shapes, with transit signage as the stated inspiration. Its colored live tiles on Windows Phone 7 (2010) and Windows 8 (2012) are the clearest examples of the style."
+    },
+    {
+      "relation": "related-to",
+      "label": "Material Design",
+      "wikidata": "Q17590603",
+      "note": "Google’s design language of 2014. NN/g (2015) calls it “flat 2.0”: flat color and type, with shadows and card layers that show hierarchy. This record treats it as a related branch, not the core."
+    },
+    {
+      "relation": "related-to",
+      "style": "minimalist-machine",
+      "note": "Both remove decoration. Minimalist Machine separates parts with thin outlines and monospaced labels. Flat design separates them with solid color fills."
+    },
+    {
+      "relation": "related-to",
+      "style": "neo-brutalism",
+      "note": "Neo-brutalism keeps flat color but adds thick outlines and hard shadows. Its record treats it as a reaction against flat design."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "No simulated depth.",
+      "text": "No gradients, gloss, bevels, textures, or drop shadows. A button is a solid color rectangle, and a panel is a solid color field."
+    },
+    {
+      "facet": "color",
+      "term": "Saturated solid fields.",
+      "text": "Several bright, clean hues, such as turquoise, blue, purple, orange, and red, fill whole bands, tiles, and buttons. Text is often a dark blue-gray instead of black, and the pale neutral is a cool gray."
+    },
+    {
+      "facet": "structure",
+      "term": "Fills, not outlines.",
+      "text": "Areas separate by a change of fill color and by space. Borders are rare or absent."
+    },
+    {
+      "facet": "type",
+      "term": "Plain, often light sans-serif.",
+      "text": "Segoe UI in Metro, Helvetica Neue in iOS 7, and Lato or Open Sans on the web. Large headings are often light or regular weight. Zune and Windows Phone set titles in large lowercase letters."
+    },
+    {
+      "facet": "layout",
+      "term": "Tiles and bands.",
+      "text": "Content sits in a grid of square or rectangular tiles, or in full-width color bands that stack down the page. Content replaces chrome."
+    },
+    {
+      "facet": "imagery",
+      "term": "Glyph icons and flat illustration.",
+      "text": "Single-color pictograms on colored squares or circles, and illustrations built from solid shapes. A 2013 branch adds long diagonal shadows to icons."
+    },
+    {
+      "facet": "motion",
+      "term": "Motion instead of depth.",
+      "text": "Metro uses motion to show state and structure: live tiles change, pages slide, and presses and swipes get an animated response. Hover and press states on the web change the fill color."
+    }
+  ],
+  "synthesis": [
+    "Microsoft set the look. [Windows Phone 7](ref:windows-phone-7-metro-2010) introduced Metro in 2010; the [Windows 8.1 Start screen](ref:windows-8-1-start-screen) and the [Calculator app](ref:windows-8-1-calculator-app) show its tiles, thin type, and single-accent controls, and [Pentagram’s 2012 Windows logo](ref:windows-8-logo-pentagram-2012) applies the “authentically digital” rule to the brand mark. [NN/g (2015)](ref:nngroup-flat-design-article-2015) names Metro and Windows 8 as the main origin of the web trend.",
+    "The style reached Apple through third-party apps: [Letterpress](ref:letterpress-app-2012) borrowed from Windows Phone, and Apple’s designers cited it for [iOS 7](ref:ios-7-interface-2013). Apple’s own [iOS 7 page](ref:apple-ios-7-website-2013) shows thin type and flatter icons under a still-glossy navigation bar.",
+    "The web branch spread through free resources: Designmodo’s [Flat UI kit](ref:flat-ui-free-kit-designmodo) with its named twenty-color palette, republished on [Flat UI Colors](ref:flatuicolors-com-website-2014); the free [Lato](ref:lato-typeface) typeface; flat icon sets such as [Elegant Themes’ icons](ref:elegant-themes-flat-icons-2013); and [Metro UI CSS](ref:metroui-org-ua-website-2013), which rebuilt Metro for the web.",
+    "Microsoft’s own sites of 2012–2013 are the clearest websites: [Windows Azure](ref:windowsazure-com-website-2013), [Windows Phone](ref:windowsphone-com-website-2013), [Office.com](ref:office-com-website-2013), the [Windows Dev Center](ref:dev-windows-com-website-2012), and [windows.microsoft.com](ref:windows-com-website-2013). Few non-Microsoft sites of the period kept a usable Wayback copy in the style; most tried copies lost their CSS or relied on photographs.",
+    "Captures calibrated the fingerprint. Many 2012–2014 pages draw tiles and bands with images, so computed-style color missed them; the fingerprint reads color from the screenshot instead (`pixels.chromaticShare`, `pixels.hues`). Hairline dividers and input borders are common, so the border limit is loose on share and strict on width. Light headings hold for Metro pages, but the [Flat UI kit](ref:flat-ui-free-kit-designmodo) and [windows.microsoft.com](ref:windows-com-website-2013) use bold headings (700 and 600), so the weight range describes the Metro branch more than the web branch.",
+    "Two branches bend the rules. The [Elegant Themes icons](ref:elegant-themes-flat-icons-2013) add short solid shadows, a mild form of the 2013 long-shadow trend, and the Windows 8.1 tiles carry a faint gradient. Measurement cannot see gradients or shadows drawn in images, and archived pages often render in a fallback face because Segoe UI is not served, so judge archived pages with the rubric as well as the fingerprint."
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Buttons, panels, and tiles are solid color fields with no gradient, gloss, or shadow.",
+      "Three or more saturated hues appear as fills, not only as text or icons.",
+      "Areas separate by fill color and space, not by outlines.",
+      "Type is a plain sans-serif, and large headings are light or regular weight.",
+      "Icons are single-color glyphs without shading."
+    ],
+    "counter": [
+      "Textures, gloss, bevels, or realistic materials.",
+      "Drop shadows or layered cards carry the hierarchy. This points to Material Design.",
+      "Thick black outlines or hard offset shadows.",
+      "Translucent, blurred panels.",
+      "A black-and-white page with one accent, where type and the grid carry the design."
+    ],
+    "confusions": [
+      {
+        "with": "international-typographic-style",
+        "difference": "The Swiss style is mostly black and white with one accent and relies on a grid and large bold type. Flat design fills large areas with several bright colors and often uses light headings."
+      },
+      {
+        "with": "minimalist-machine",
+        "difference": "Minimalist Machine outlines its boxes with thin rules and uses monospaced labels on a neutral ground. Flat design separates areas by color fill and has almost no borders."
+      },
+      {
+        "with": "bauhaus",
+        "difference": "Bauhaus uses the primary triad, heavy black bars, and circles, squares, and triangles as composition. Flat design uses a wider palette of clean secondary hues in plain rectangles and has no black bars."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Neo-brutalism outlines every block in thick black and adds hard offset shadows. Flat design has neither."
+      },
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphism imitates materials with texture, gloss, and shadow. Flat design removes all of them."
+      },
+      {
+        "with": "Material Design",
+        "difference": "Material Design keeps flat color and type but lifts cards and buttons with soft shadows and uses a floating action button. Core flat design has no shadows."
+      },
+      {
+        "with": "Corporate Memphis",
+        "difference": "Corporate Memphis is a flat illustration style of people with large limbs. It can appear on a flat interface, but it is an illustration style, not an interface style."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Fill buttons, tiles, and bands with solid colors. Change the fill on hover and press.",
+      "Use three to five saturated hues with a dark blue-gray for text and a cool pale gray for quiet areas.",
+      "Separate areas with color and space. Leave out borders on cards and panels.",
+      "Use one plain sans-serif. Set large headings in a light or regular weight and keep labels semibold.",
+      "Arrange content as tiles or full-width bands. Keep corners square, or round controls by 4 px or less.",
+      "Keep contrast at 4.5:1 for body text. Put dark text on light hues such as turquoise and white text on dark hues."
+    ],
+    "dont": [
+      "Do not use gradients, gloss, bevels, inner shadows, or textures.",
+      "Do not add drop shadows to cards or buttons. Shadows turn the page into Material Design.",
+      "Do not outline cards and tiles. Outlines turn the page into a wireframe or neo-brutalism.",
+      "Do not remove every signifier from links and buttons. NN/g found that flat elements without cues cause click uncertainty.",
+      "Do not put white text on light hues such as turquoise or yellow."
+    ],
+    "uses": [
+      "Mobile apps",
+      "Dashboards",
+      "Product and marketing sites",
+      "Operating-system shells",
+      "Infographics"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "pixels.chromaticShare",
+      "min": 0.13,
+      "note": "Saturated fills cover a large part of the first screen. Calibrated from the screenshot palette, because 2012–2014 sites draw many fills as images that computed styles do not see: color.chromaticShare failed 7 of 8 clear captures. Clear captures measured 0.14–0.63; the Flat UI demo (0.06) fails because its first screen is mostly white."
+    },
+    {
+      "metric": "pixels.hues",
+      "min": 2,
+      "note": "At least two saturated hues appear as fills. Calibrated from the screenshot palette: color.hues read 1 on 4 of 8 clear captures whose tiles are images. Clear captures measured 2–7."
+    },
+    {
+      "metric": "color.hues",
+      "min": 1,
+      "note": "At least one saturated hue is set in CSS, on bands, buttons, or links. Every clear capture measured 1–6. This keeps out image-only pages that have no measurable CSS."
+    },
+    {
+      "metric": "type.headingWeight",
+      "max": 400,
+      "note": "Large headings are light or regular, as in Metro and iOS 7. Six of eight clear captures measured 100–400. The Flat UI kit demo (700) and windows.microsoft.com 2013 (600) fail: the bold-heading web branch is real but had too few clear examples here to widen the range."
+    },
+    {
+      "metric": "surface.border.share",
+      "max": 0.7,
+      "note": "Fills, not outlines, separate the areas. Calibrated from 0.2: 4 of 8 clear captures measured 0.24–0.75, from 1 px hairline dividers and input borders on pages with few CSS-filled boxes. The Windows Dev Center 2012 capture (0.75, 4 boxes) fails. Outline-led specimens measure 0.84–1, and outlined neo-brutalist pages about 0.73."
+    },
+    {
+      "metric": "surface.border.medianWidth",
+      "max": 2,
+      "note": "Where borders appear, they are hairlines: dividers and input fields. Seven of eight clear captures measured 1–2 px; windows.microsoft.com 2013 (5.5 px) fails. Outlined styles measure 3 px or more."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "No drop shadows. Shadows point to Material Design. Six of eight clear captures measured 0–0.05. Flat UI Colors (0.13, 1 px blur) and Windows Azure 2013 (0.08, one page-frame shadow) fail."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Color is flat. Every clear capture measured 0."
+    }
+  ],
+  "page": "flat-design.html",
+  "implementation": {
+    "tokens": "implementations/flat-design/tokens.json",
+    "css": "implementations/flat-design/tokens.css",
+    "tailwind": "implementations/flat-design/tailwind.css",
+    "shadcn": "implementations/flat-design/shadcn.css",
+    "registry": "implementations/flat-design/registry-item.json",
+    "designMd": "implementations/flat-design/DESIGN.md",
+    "specimen": "implementations/flat-design/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for flat-design. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#ffffff"
+      },
+      "surface": {
+        "$value": "#ffffff"
+      },
+      "subtle": {
+        "$value": "#ecf0f1",
+        "$description": "Clouds, the pale gray of the Flat UI kit (2013)."
+      },
+      "text": {
+        "$value": "#2c3e50",
+        "$description": "Midnight blue from the Flat UI kit. Text is a dark blue-gray, not black."
+      },
+      "muted": {
+        "$value": "#4f6273"
+      },
+      "border": {
+        "$value": "#bdc3c7",
+        "$description": "Silver. Rarely used: surfaces separate by fill, not by outline."
+      },
+      "primary": {
+        "$value": "#1abc9c",
+        "$description": "Turquoise, the Flat UI kit's secondary brand color. Carries dark text."
+      },
+      "on-primary": {
+        "$value": "#2c3e50"
+      },
+      "secondary": {
+        "$value": "#8e44ad",
+        "$description": "Wisteria from the Flat UI kit."
+      },
+      "on-secondary": {
+        "$value": "#ffffff"
+      },
+      "accent": {
+        "$value": "#c0392b",
+        "$description": "Pomegranate from the Flat UI kit."
+      },
+      "on-accent": {
+        "$value": "#ffffff"
+      },
+      "blue": {
+        "$value": "#1a6fb0",
+        "$description": "Belize hole (#2980b9) darkened so that white body text reaches 4.5:1."
+      },
+      "on-blue": {
+        "$value": "#ffffff"
+      },
+      "orange": {
+        "$value": "#f39c12",
+        "$description": "Orange from the Flat UI kit. Carries dark text."
+      },
+      "on-orange": {
+        "$value": "#2c3e50"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Segoe UI",
+          "Helvetica Neue",
+          "Lato",
+          "Open Sans",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Segoe UI",
+          "Helvetica Neue",
+          "Lato",
+          "Open Sans",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Consolas",
+          "Menlo",
+          "monospace"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 600
+      },
+      "display": {
+        "$value": 300,
+        "$description": "Light display type, as in Segoe WP Light on Windows Phone and Helvetica Neue Light on iOS 7."
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "20px"
+      },
+      "xl": {
+        "$value": "26px"
+      },
+      "2xl": {
+        "$value": "42px"
+      },
+      "3xl": {
+        "$value": "60px"
+      },
+      "4xl": {
+        "$value": "84px"
+      },
+      "5xl": {
+        "$value": "120px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "4px",
+        "$description": "Controls, as in the Flat UI kit's 4 px base radius. Metro tiles stay square."
+      },
+      "md": {
+        "$value": "4px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "4px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "4px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "8px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "96px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.sm}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "apple-ios-7-website-2013",
+      "title": "Apple iOS 7 website, 2013",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the thin type and flatter icons show the iOS 7 turn to flat design, but the page has few color fills, the navigation bar is glossy, and the icons keep soft gradients.",
+      "page": "references/apple-ios-7-website-2013.html",
+      "source": "http://www.apple.com/ios/",
+      "image": "assets/references/apple-ios-7-website-2013.jpg",
+      "measurement": "data/measurements/apple-ios-7-website-2013.json"
+    },
+    {
+      "id": "elegant-themes-flat-icons-2013",
+      "title": "Elegant Themes “Beautiful Flat Icons”",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear for the imagery facet: single objects drawn in solid fills on solid circles, with no gradients or gloss.",
+      "page": "references/elegant-themes-flat-icons-2013.html",
+      "source": "https://www.elegantthemes.com/blog/freebie-of-the-week/beautiful-flat-icons-for-free",
+      "image": "assets/references/elegant-themes-flat-icons-2013.png",
+      "measurement": "data/measurements/elegant-themes-flat-icons-2013.json"
+    },
+    {
+      "id": "flatuicolors-com-website-2014",
+      "title": "Flat UI Colors website, 2014",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the whole page is solid, borderless color tiles in the canonical flat palette, with flat label buttons.",
+      "page": "references/flatuicolors-com-website-2014.html",
+      "source": "http://flatuicolors.com/",
+      "image": "assets/references/flatuicolors-com-website-2014.jpg",
+      "measurement": "data/measurements/flatuicolors-com-website-2014.json"
+    },
+    {
+      "id": "flat-ui-free-kit-designmodo",
+      "title": "Flat UI Free kit",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear for surfaces and color: solid buttons in a named palette of saturated hues, no gradients or shadows. Its headings are bold (weight 700), which departs from the light Metro headings.",
+      "page": "references/flat-ui-free-kit-designmodo.html",
+      "source": "https://github.com/designmodo/Flat-UI",
+      "image": "assets/references/flat-ui-free-kit-designmodo.jpg",
+      "measurement": "data/measurements/flat-ui-free-kit-designmodo.json"
+    },
+    {
+      "id": "ios-7-interface-2013",
+      "title": "iOS 7 interface",
+      "medium": "operating-system",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The turn of the most skeuomorphic mobile system to flat design; partial fit, because the icons keep soft gradients and the system uses translucent blurred panels.",
+      "page": "references/ios-7-interface-2013.html",
+      "source": "https://en.wikipedia.org/wiki/IOS_7",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "lato-typeface",
+      "title": "Lato typeface",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The base font of the Flat UI kit and one of the free web faces that the style record names for the flat web; the web counterpart of Segoe in Metro.",
+      "page": "references/lato-typeface.html",
+      "source": "https://en.wikipedia.org/wiki/Lato_(typeface)",
+      "image": "assets/references/lato-typeface.png",
+      "measurement": "data/measurements/lato-typeface.json"
+    },
+    {
+      "id": "letterpress-app-2012",
+      "title": "Letterpress word game",
+      "medium": "app",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "A link between Metro and iOS 7: its interface borrows from Windows Phone, and Apple’s designers cited it for iOS 7.",
+      "page": "references/letterpress-app-2012.html",
+      "source": "https://en.wikipedia.org/wiki/Letterpress_(video_game)",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "metroui-org-ua-website-2013",
+      "title": "Metro UI CSS website, 2013",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: square solid tiles in blue, green, and yellow with light white titles and single-color line icons; the framework imitates Windows 8 Metro by design.",
+      "page": "references/metroui-org-ua-website-2013.html",
+      "source": "http://metroui.org.ua/",
+      "image": "assets/references/metroui-org-ua-website-2013.jpg",
+      "measurement": "data/measurements/metroui-org-ua-website-2013.json"
+    },
+    {
+      "id": "nngroup-flat-design-article-2015",
+      "title": "NN/g, “Flat Design: Its Origins, Its Problems, and Why Flat 2.0 Is Better for Users”",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "An authoritative UX source that defines the style, dates it, names Metro as its main origin, and names flat 2.0 and Material Design as its successors.",
+      "page": "references/nngroup-flat-design-article-2015.html",
+      "source": "https://www.nngroup.com/articles/flat-design/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "office-com-website-2013",
+      "title": "Office.com website, 2013",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: a solid red-orange panel with a flat green button and light headings; the rest is white space, light headings, and blue text links.",
+      "page": "references/office-com-website-2013.html",
+      "source": "http://office.microsoft.com/en-us/",
+      "image": "assets/references/office-com-website-2013.jpg",
+      "measurement": "data/measurements/office-com-website-2013.json"
+    },
+    {
+      "id": "windows-8-logo-pentagram-2012",
+      "title": "Windows 8 logo",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the brand mark itself drops gradient, gloss, and the four colors for one flat hue, and Pentagram ties it to Metro’s “authentically digital” rule.",
+      "page": "references/windows-8-logo-pentagram-2012.html",
+      "source": "https://www.pentagram.com/work/windows",
+      "image": "assets/references/windows-8-logo-pentagram-2012.png",
+      "measurement": "data/measurements/windows-8-logo-pentagram-2012.json"
+    },
+    {
+      "id": "windows-8-1-calculator-app",
+      "title": "Windows 8.1 Calculator app",
+      "medium": "app",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear for the Metro branch: flat rectangles, thin type, and color used only for the one primary key.",
+      "page": "references/windows-8-1-calculator-app.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Windows_8.1_Calculator.png",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "windows-8-1-start-screen",
+      "title": "Windows 8.1 Start screen (geometric version)",
+      "medium": "operating-system",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear, and the core of the Metro branch: a grid of solid colored rectangles with light type and no chrome.",
+      "page": "references/windows-8-1-start-screen.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Start81.png",
+      "image": "assets/references/windows-8-1-start-screen.png",
+      "measurement": "data/measurements/windows-8-1-start-screen.json"
+    },
+    {
+      "id": "windowsazure-com-website-2013",
+      "title": "Windows Azure website, 2013",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: square-cornered solid tiles in orange, magenta, and purple, a lime button, and a cyan hero, with large light lowercase tabs and no outlines.",
+      "page": "references/windowsazure-com-website-2013.html",
+      "source": "http://www.windowsazure.com/en-us/",
+      "image": "assets/references/windowsazure-com-website-2013.jpg",
+      "measurement": "data/measurements/windowsazure-com-website-2013.json"
+    },
+    {
+      "id": "dev-windows-com-website-2012",
+      "title": "Windows Dev Center website, 2012",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: a solid lime band, a flat cyan button, and headings and links separated only by space.",
+      "page": "references/dev-windows-com-website-2012.html",
+      "source": "http://msdn.microsoft.com/en-US/windows/apps",
+      "image": "assets/references/dev-windows-com-website-2012.jpg",
+      "measurement": "data/measurements/dev-windows-com-website-2012.json"
+    },
+    {
+      "id": "windows-phone-7-metro-2010",
+      "title": "Windows Phone 7 and the Metro interface",
+      "medium": "operating-system",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The first product in which Microsoft named and shipped Metro; the origin of the tile grammar of this record.",
+      "page": "references/windows-phone-7-metro-2010.html",
+      "source": "https://en.wikipedia.org/wiki/Windows_Phone_7",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "windowsphone-com-website-2013",
+      "title": "Windows Phone website, 2013",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: stacked full-width bands of solid cyan and orange carry white text, links are text with circled arrows, and nothing has a border, shadow, or gradient.",
+      "page": "references/windowsphone-com-website-2013.html",
+      "source": "http://www.windowsphone.com/en-US",
+      "image": "assets/references/windowsphone-com-website-2013.jpg",
+      "measurement": "data/measurements/windowsphone-com-website-2013.json"
+    },
+    {
+      "id": "windows-com-website-2013",
+      "title": "Windows website, 2013",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: a flat black header, a square cyan button, and a full-width solid yellow band; the headings are heavier than Metro’s usual light weight.",
+      "page": "references/windows-com-website-2013.html",
+      "source": "http://windows.microsoft.com/en-US/windows/home",
+      "image": "assets/references/windows-com-website-2013.jpg",
+      "measurement": "data/measurements/windows-com-website-2013.json"
+    }
+  ]
+}

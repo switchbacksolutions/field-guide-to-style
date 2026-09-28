@@ -13,6 +13,26 @@ Use it like this: choose a style from the list, read its JSON record for rules a
 - [Frutiger Aero](api/styles/frutiger-aero.json): Glass, water, sky, and gloss. Optimistic technology from the mid-2000s. Tokens: implementations/frutiger-aero/tokens.css
 - [Neo-brutalism](api/styles/neo-brutalism.json): Thick outlines, hard shadows, and loud flat color. Interfaces that look built. Tokens: implementations/neo-brutalism/tokens.css
 - [Art Deco](api/styles/art-deco.json): Stepped forms, sunbursts, and spaced capitals in metal on dark lacquer. Modern luxury from the 1920s. Tokens: implementations/art-deco/tokens.css
+- [Art Nouveau](api/styles/art-nouveau.json): Whiplash curves, lilies, and peacock eyes in moss, ochre, and rose on parchment. The new art of the 1890s. Tokens: implementations/art-nouveau/tokens.css
+- [Constructivism](api/styles/constructivism.json): Red and black, heavy capitals, and diagonal bars. The poster as a tool of agitation. Tokens: implementations/constructivism/tokens.css
+- [De Stijl](api/styles/de-stijl.json): Black lines, white planes, and blocks of red, yellow, and blue. Only horizontals and verticals. Tokens: implementations/de-stijl/tokens.css
+- [Mid-century modern](api/styles/mid-century-modern.json): Warm flat color, cut-paper shapes, and playful type. Post-war modernism with a sense of humor. Tokens: implementations/mid-century-modern/tokens.css
+- [Psychedelic art](api/styles/psychedelic-art.json): Vibrating complementary colors, swollen hand lettering, and every inch filled. The 1960s rock poster. Tokens: implementations/psychedelic-art/tokens.css
+- [Skeuomorphism](api/styles/skeuomorphism.json): Leather, linen, wood, and paper on screen. Interfaces that imitate the objects they replace. Tokens: implementations/skeuomorphism/tokens.css
+- [Flat design](api/styles/flat-design.json): Solid color fields, plain sans-serif type, and no depth. Interfaces that stop imitating objects. Tokens: implementations/flat-design/tokens.css
+- [Glassmorphism](api/styles/glassmorphism.json): Frosted, translucent panels that float over vivid color. Interface glass of the 2020s. Tokens: implementations/glassmorphism/tokens.css
+- [Vaporwave](api/styles/vaporwave.json): Pastel sunsets, old-OS windows, marble busts, and fullwidth type. 1990s consumer tech remembered with irony. Tokens: implementations/vaporwave/tokens.css
+- [Y2K aesthetic](api/styles/y2k.json): Chrome, candy-colored plastic, and blobs. The future as it looked around the year 2000. Tokens: implementations/y2k/tokens.css
+- [Arts and Crafts](api/styles/arts-and-crafts.json): Flat, dense repeats of leaves and flowers, double-ruled frames, and red-and-black old-style type on linen. Handwork against the machine. Tokens: implementations/arts-and-crafts/tokens.css
+- [Vienna Secession](api/styles/vienna-secession.json): Squares, checkerboards, and a little gold on white paper. The geometric Viennese branch of the new art, 1897 to about 1915. Tokens: implementations/vienna-secession/tokens.css
+- [Streamline Moderne](api/styles/streamline-moderne.json): Rounded ends, portholes, and horizontal speed lines in cream, chrome, and navy. The streamlined look of 1930s trains, liners, and diners. Tokens: implementations/streamline-moderne/tokens.css
+- [Pop art](api/styles/pop-art.json): Ben-Day dots, heavy black outlines, and flat process primaries. The comic panel blown up to poster size. Tokens: implementations/pop-art/tokens.css
+- [Op art](api/styles/op-art.json): Black and white stripes, checks, and rings so tight that the surface seems to move. The 1960s optical look. Tokens: implementations/op-art/tokens.css
+- [New Wave typography](api/styles/new-wave-typography.json): Swiss grotesques set loose: wide and uneven letterspacing, stepped and tilted lines, dot screens, and heavy bars. Tokens: implementations/new-wave-typography/tokens.css
+- [Grunge typography](api/styles/grunge-typography.json): Distressed letters, clashing typefaces, and photocopied layers. Type as noise and emotion. Tokens: implementations/grunge-typography/tokens.css
+- [Material Design](api/styles/material-design.json): Flat color on sheets of paper that float at set heights. Soft shadows, a bold primary bar, and a round action button. Tokens: implementations/material-design/tokens.css
+- [Neumorphism](api/styles/neumorphism.json): Soft, extruded controls pressed out of one pale surface. Light and shadow instead of color. Tokens: implementations/neumorphism/tokens.css
+- [Corporate Memphis](api/styles/corporate-memphis.json): Flat cartoon people with small heads, long bendy limbs, and purple or blue skin. The friendly face of Big Tech. Tokens: implementations/corporate-memphis/tokens.css
 
 ## Data
 

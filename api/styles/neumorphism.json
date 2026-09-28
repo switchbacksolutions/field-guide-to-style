@@ -1,0 +1,782 @@
+{
+  "id": "neumorphism",
+  "title": "Neumorphism",
+  "order": 26,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Soft UI",
+    "Neomorphism",
+    "Neuomorphism",
+    "New skeuomorphism"
+  ],
+  "summary": "Soft, extruded controls pressed out of one pale surface. Light and shadow instead of color.",
+  "lede": "An interface style from late 2019 in which buttons, cards, and wells have the same color as the background and appear to rise out of it or sink into it. Each shape gets two soft shadows, a light one toward the light source and a dark one away from it, on a pale, low-contrast, near-monochrome surface. Designers named it as a “new skeuomorphism” and describe it as a middle point between skeuomorphism and flat design. Its popularity fell by 2021, mainly because of weak contrast.",
+  "moods": [
+    "soft",
+    "calm",
+    "tactile",
+    "quiet",
+    "minimal"
+  ],
+  "era": {
+    "from": 2019,
+    "to": 2021,
+    "note": "Michał Malewicz named the trend in a UX Collective article in December 2019, after a viral Dribbble banking concept by Alexander Plyuto. CSS-Tricks, Toptal, and Webflow date its peak to 2020. Wikipedia and Webflow report that designers moved away from it by 2021, toward glassmorphism. It remains in UI kits, smart-home and device concepts, and CSS generators."
+  },
+  "regions": [
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q102244095"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Neumorphism",
+      "url": "https://en.wikipedia.org/wiki/Neumorphism",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Michał Malewicz: Neumorphism in user interfaces (Hype4 Academy; first published on UX Collective, December 2019)",
+      "url": "https://hype4.academy/articles/design/neumorphism-in-user-interfaces",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "CSS-Tricks: Neumorphism and CSS (Adrian Bece, 2020-03-20)",
+      "url": "https://css-tricks.com/neumorphism-and-css/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Nielsen Norman Group: Skeuomorphism (Megan Chan, 2024-03-15), section on neumorphism",
+      "url": "https://www.nngroup.com/articles/skeuomorphism/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Toptal: The New Trend in UI Design: An Overview of Neumorphism (Kayode Osinusi, 2021-08-31)",
+      "url": "https://www.toptal.com/designers/ui/neumorphic-ui-design",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Webflow Blog: Neumorphism: Its rise and fall in UI design (Jeff Cardello)",
+      "url": "https://webflow.com/blog/neumorphism",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "style": "skeuomorphism",
+      "note": "Malewicz (2019) introduces the trend as a “new skeuomorphism”, and Wikipedia gives the name as a blend of “neo” and “skeuomorphism”. It keeps the physical light and shadow of [skeuomorphism](style:skeuomorphism) but drops its material textures and object metaphors."
+    },
+    {
+      "relation": "reaction-against",
+      "style": "flat-design",
+      "note": "Malewicz writes that the push toward “super flat and minimal” got a pushback. NN/g says the weak signifiers of flat design led to neumorphism. It keeps the flat palette and minimal layout of [flat design](style:flat-design) and adds depth back."
+    },
+    {
+      "relation": "related-to",
+      "label": "Material Design",
+      "wikidata": "Q17590603",
+      "note": "CSS-Tricks and Malewicz both define neumorphism against the Material card: a Material card floats above the background and casts one dark shadow; a neumorphic card is the same color as the background and has one light and one dark shadow."
+    },
+    {
+      "relation": "related-to",
+      "style": "glassmorphism",
+      "note": "Wikipedia and Webflow report that [glassmorphism](style:glassmorphism) replaced neumorphism as the popular interface trend from about 2021. Malewicz named both."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "Paired soft shadows.",
+      "text": "Every raised shape has two blurred shadows with equal and opposite offsets: a dark one toward the lower right and a white one toward the upper left, as if lit from the upper left. The blur is about twice the offset."
+    },
+    {
+      "facet": "surface",
+      "term": "Raised and pressed.",
+      "text": "The same shadows set inside the shape make it look pressed into the surface. Inputs, progress tracks, and active toggles sink; cards, buttons, and knobs rise. The change from raised to pressed shows state."
+    },
+    {
+      "facet": "color",
+      "term": "One pale surface.",
+      "text": "Background and elements share one light, slightly tinted gray or pastel, such as blue-gray #e0e5ec. The background cannot be pure white or black, because one of the two shadows would disappear."
+    },
+    {
+      "facet": "color",
+      "term": "One soft accent.",
+      "text": "A single accent color, often blue, violet, or orange, marks the active control, an icon, or a progress value. The rest of the palette is the surface color and two or three grays for text."
+    },
+    {
+      "facet": "structure",
+      "term": "Controls as physical objects.",
+      "text": "Round knobs, pill switches, sliders, dials, and square keys that look molded from one piece of soft plastic. Device remotes, music players, smart-home panels, and calculators are the usual subjects."
+    },
+    {
+      "facet": "layout",
+      "term": "Large radii, wide spacing.",
+      "text": "Corners are round, 12–30 px on cards and fully round on buttons and knobs. Elements need wide gaps so that their shadows do not overlap."
+    },
+    {
+      "facet": "type",
+      "term": "Rounded sans-serif.",
+      "text": "Geometric or rounded sans-serif type (Poppins, Nunito, Montserrat, SF Pro Rounded) in slate gray, medium to bold, with no borders and no text shadows."
+    },
+    {
+      "facet": "motion",
+      "term": "Press states.",
+      "text": "A button sinks when pressed: its outer shadows turn into inner shadows. Transitions are short and soft."
+    }
+  ],
+  "synthesis": [
+    "The references confirm the recipe of the attestation sources. The founding concept, [Plyuto’s banking app](ref:plyuto-skeuomorph-mobile-banking-2019) (November 2019), already has one pale surface with raised and pressed shapes, but it keeps skeuomorphic objects: a glossy rocker switch and a foil card. Within two months, concepts such as the [Sleep Cycle redesign](ref:sleep-cycle-neumorphism-redesign-2020) had dropped them and kept only surface, paired shadows, and one accent. [Malewicz](ref:malewicz-neumorphism-article-2019) named the style in December 2019 and [CSS-Tricks](ref:css-tricks-neumorphism-and-css-2020) turned it into CSS in March 2020.",
+    "Most of the evidence is concepts, stock sheets ([Vectorium](ref:vectorium-neumorphic-ui-elements-2020)), and component kits for every platform: [Flutter](ref:flutter-neumorphic-package), [SwiftUI](ref:costachung-neumorphic-swiftui), React ([ui-neumorphism](ref:ui-neumorphism-docs-website)), Bootstrap ([Themesberg](ref:themesberg-neumorphism-ui-website)), and Tailwind ([demo](ref:tailwindcss-neumorphism-demo-website)). Shipped products are rare. The strongest is the [CRED app](ref:cred-app-synth-neumorphic-ui), which moved its whole interface to a dark variant and open-sourced its framework in January 2021. [Lovelace Soft UI](ref:lovelace-soft-ui-home-assistant) brought it to smart-home dashboards, in a form so faint on near-white that only the dark shadow shows.",
+    "Real websites in the style are scarce. Of 23 candidate sites captured on 2026-09-28, eight were kept, and all the clear ones are tools, kit demos, or Webflow experiments ([neumorphism.io](ref:neumorphism-io-website), [Dashon](ref:neumorph-dashboard-webflow-website)). Commercial sites listed as neumorphic in listicles did not use it in their current first viewport. The personal site [samxie.net](ref:samxie-website) and the dark [Nicecard](ref:nicecard-website) page are borderline.",
+    "Calibration: the captured kits use smaller shadows than the specimen (median offset 2.8–4.2 px, blur 4.8–7 px) and smaller median radii (6–8.8 px), so those minimums were lowered. The border limit stays at 0.15, although [Themesberg](ref:themesberg-neumorphism-ui-website) adds a faint border to most components; more captures are needed. The measurement cannot see the defining trait, a light and a dark shadow on the same box, because it records only the largest offset and blur. High shadow share with near-zero chromatic share and no backdrop blur remains the practical marker; judge borderline cases by the rubric."
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Cards and controls have the same color as the background and are separated from it only by soft shadow and highlight.",
+      "Each raised shape has a white glow on one side and a gray shadow on the opposite side.",
+      "Some elements look pressed into the surface, with inner shadows, next to others that rise.",
+      "The palette is one pale, slightly tinted gray or pastel with at most one accent color.",
+      "Corners are large and round; buttons and knobs are pills and circles."
+    ],
+    "counter": [
+      "Cards in a different color or with a visible border.",
+      "Only dark drop shadows, so shapes float above the page instead of rising from it.",
+      "Material textures such as leather, wood, or linen.",
+      "Translucent, blurred panels over a vivid backdrop.",
+      "Hard offset shadows, thick outlines, or a pure white or pure black background."
+    ],
+    "confusions": [
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphism imitates specific objects and materials, with textures, stitching, glossy gradients, and embossed text. Neumorphism keeps only light and shadow on one plain, textureless surface."
+      },
+      {
+        "with": "glassmorphism",
+        "difference": "Glassmorphism panels are translucent, blurred, edged with a thin light border, and contrast with a colorful backdrop. Neumorphic shapes are opaque, the same color as the background, and have no border."
+      },
+      {
+        "with": "flat-design",
+        "difference": "Flat design uses several saturated fills and no shadows. Neumorphism uses one pale fill and depends on shadows."
+      },
+      {
+        "with": "Material Design",
+        "difference": "A Material card is often a different color from the background and casts one dark shadow downward, so it floats. A neumorphic card is the background color and has a light and a dark shadow, so it grows out of the surface."
+      },
+      {
+        "with": "frutiger-aero",
+        "difference": "Frutiger Aero uses glossy gradients, sky blues and greens, glass, and nature imagery. Neumorphism is matte and near-monochrome."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Choose one light, slightly tinted background, such as #e0e5ec, and give cards, buttons, and inputs the same color.",
+      "Give each raised element two shadows with equal and opposite offsets: dark (surface darkened by about 15–25 %) to the lower right, white to the upper left. Use a blur of about twice the offset.",
+      "Set inputs, tracks, and active or selected states as pressed wells with the same pair of shadows inset.",
+      "Keep text and icons dark enough for a contrast of at least 4.5:1, because the shapes themselves have almost none.",
+      "Mark the primary action with the single accent color, in its fill or its text, so it is visible without the shadows.",
+      "Use large radii and wide gaps so each shadow has room."
+    ],
+    "dont": [
+      "Do not use a pure white or pure black background. One of the two shadows would disappear.",
+      "Do not add borders, outlines, or a different card color. The shape must come from the surface.",
+      "Do not use only one dark drop shadow. That is Material Design.",
+      "Do not put important information into the shadow alone. Many people cannot see a contrast this low.",
+      "Do not add textures, gloss, or translucency.",
+      "Do not crowd elements. Overlapping shadows turn into gray smears."
+    ],
+    "uses": [
+      "Smart-home and device control panels",
+      "Music players and remotes",
+      "Calculators, timers, and small utilities",
+      "Dashboards with few controls",
+      "Concept shots and portfolio pieces"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.7,
+      "note": "Nearly every visible surface carries shadows: raised cards and buttons, pressed wells and inputs. Checked 2026-09-28: four of five clear captures measure 0.70–0.85; [neumorphism.io](ref:neumorphism-io-website) measures 0.11 because its page is mostly plain text around one demo shape."
+    },
+    {
+      "metric": "surface.shadow.medianOffset",
+      "min": 2.5,
+      "note": "Shadows are offset diagonally toward and away from the light. Calibrated 2026-09-28 from 6 (the specimen) to 2.5: four of five clear captures use small offsets of 2.8–4.2 px ([Themesberg](ref:themesberg-neumorphism-ui-website), [ui-neumorphism](ref:ui-neumorphism-docs-website), [tailwindcss-neumorphism](ref:tailwindcss-neumorphism-demo-website), [Dashon](ref:neumorph-dashboard-webflow-website))."
+    },
+    {
+      "metric": "surface.shadow.medianBlur",
+      "min": 4.5,
+      "note": "Both shadows are soft. Calibrated 2026-09-28 from 8 to 4.5: three of five clear captures blur 4.8–7 px. Hard offset shadows (blur 0) point to neo-brutalism."
+    },
+    {
+      "metric": "surface.radius.median",
+      "min": 6,
+      "note": "Large radii on cards, pills, and round knobs. Calibrated 2026-09-28 from 10 to 6: three of five clear captures have medians of 6–8.8 px, because small controls and inputs use modest radii."
+    },
+    {
+      "metric": "surface.border.share",
+      "max": 0.15,
+      "note": "Shapes come from the surface, not from outlines. A hairline edge on most panels points to glassmorphism. Kept at 0.15 on 2026-09-28: three of five clear captures pass, but [Themesberg](ref:themesberg-neumorphism-ui-website) (0.68) and [neumorphism.io](ref:neumorphism-io-website) (0.25) outline many controls, the “optional subtle border” that CSS-Tricks allows. Revisit with more captures."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "max": 0.1,
+      "note": "One pale surface color covers the page, and a single accent stays small. All five clear captures measure 0.01–0.06."
+    }
+  ],
+  "page": "neumorphism.html",
+  "implementation": {
+    "tokens": "implementations/neumorphism/tokens.json",
+    "css": "implementations/neumorphism/tokens.css",
+    "tailwind": "implementations/neumorphism/tailwind.css",
+    "shadcn": "implementations/neumorphism/shadcn.css",
+    "registry": "implementations/neumorphism/registry-item.json",
+    "designMd": "implementations/neumorphism/DESIGN.md",
+    "specimen": "implementations/neumorphism/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for neumorphism. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#e4e9f0",
+        "$description": "One pale blue-gray surface. Not white, so the light shadow shows."
+      },
+      "surface": {
+        "$value": "#e4e9f0",
+        "$description": "Cards and controls share the background color."
+      },
+      "subtle": {
+        "$value": "#dde3eb",
+        "$description": "Pressed wells, a shade darker."
+      },
+      "text": {
+        "$value": "#31344b"
+      },
+      "muted": {
+        "$value": "#565c73"
+      },
+      "border": {
+        "$value": "#d1d9e6",
+        "$description": "Hairline for focus and table rows only."
+      },
+      "primary": {
+        "$value": "#4d5ee8",
+        "$description": "The single accent: primary action and active state."
+      },
+      "on-primary": {
+        "$value": "#ffffff"
+      },
+      "secondary": {
+        "$value": "#e4e9f0",
+        "$description": "Secondary actions are raised surface, not a second hue."
+      },
+      "on-secondary": {
+        "$value": "#31344b"
+      },
+      "accent": {
+        "$value": "#4d5ee8",
+        "$description": "Same hue as primary; neumorphism keeps one accent."
+      },
+      "on-accent": {
+        "$value": "#ffffff"
+      },
+      "shade": {
+        "$value": "#a3b1c6",
+        "$description": "Dark shadow, down and right."
+      },
+      "light": {
+        "$value": "#ffffff",
+        "$description": "Light shadow, up and left."
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "SF Pro Rounded",
+          "Nunito",
+          "Varela Round",
+          "Avenir Next",
+          "Segoe UI",
+          "system-ui",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Nunito",
+          "Avenir Next",
+          "Segoe UI",
+          "system-ui",
+          "-apple-system",
+          "Helvetica Neue",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "SF Mono",
+          "Menlo",
+          "Consolas",
+          "monospace"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 700
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "21px"
+      },
+      "xl": {
+        "$value": "28px"
+      },
+      "2xl": {
+        "$value": "38px"
+      },
+      "3xl": {
+        "$value": "48px"
+      },
+      "4xl": {
+        "$value": "64px"
+      },
+      "5xl": {
+        "$value": "88px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.05
+      },
+      "body": {
+        "$value": 1.6
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": -0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.06,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "20px"
+      },
+      "lg": {
+        "$value": "32px"
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "2px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "8px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "md": {
+        "$value": "28px"
+      },
+      "lg": {
+        "$value": "48px"
+      },
+      "xl": {
+        "$value": "72px"
+      },
+      "2xl": {
+        "$value": "112px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "sm": {
+        "$value": [
+          {
+            "color": "#a3b1c6",
+            "offsetX": "5px",
+            "offsetY": "5px",
+            "blur": "10px",
+            "spread": "0px"
+          },
+          {
+            "color": "#ffffff",
+            "offsetX": "-5px",
+            "offsetY": "-5px",
+            "blur": "10px",
+            "spread": "0px"
+          }
+        ],
+        "$description": "Raised: buttons, chips, knobs."
+      },
+      "md": {
+        "$value": [
+          {
+            "color": "#a3b1c6",
+            "offsetX": "10px",
+            "offsetY": "10px",
+            "blur": "20px",
+            "spread": "0px"
+          },
+          {
+            "color": "#ffffff",
+            "offsetX": "-10px",
+            "offsetY": "-10px",
+            "blur": "20px",
+            "spread": "0px"
+          }
+        ],
+        "$description": "Raised: cards and panels."
+      },
+      "lg": {
+        "$value": [
+          {
+            "color": "#a3b1c6",
+            "offsetX": "16px",
+            "offsetY": "16px",
+            "blur": "32px",
+            "spread": "0px"
+          },
+          {
+            "color": "#ffffff",
+            "offsetX": "-16px",
+            "offsetY": "-16px",
+            "blur": "32px",
+            "spread": "0px"
+          }
+        ],
+        "$description": "Raised: hero panel."
+      },
+      "inset": {
+        "$value": [
+          {
+            "color": "#a3b1c6",
+            "offsetX": "6px",
+            "offsetY": "6px",
+            "blur": "12px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#ffffff",
+            "offsetX": "-6px",
+            "offsetY": "-6px",
+            "blur": "12px",
+            "spread": "0px",
+            "inset": true
+          }
+        ],
+        "$description": "Pressed: inputs, wells, active states."
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "css-tricks-neumorphism-and-css-2020",
+      "title": "“Neumorphism and CSS”",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "A widely cited developer text that defines the style by its two shadows, one light and one dark, and by elements that share the background color.",
+      "page": "references/css-tricks-neumorphism-and-css-2020.html",
+      "source": "https://css-tricks.com/neumorphism-and-css/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "malewicz-neumorphism-article-2019",
+      "title": "“Neumorphism in user interfaces”",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The text that named the style and set out its rules: same material as the background, one light and one dark shadow, and a tinted background that is neither white nor black.",
+      "page": "references/malewicz-neumorphism-article-2019.html",
+      "source": "https://hype4.academy/articles/design/neumorphism-in-user-interfaces",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "vectorium-neumorphic-ui-elements-2020",
+      "title": "Collection of elements in neumorphic style",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear catalogue of the style’s control grammar: every knob, switch, slider, and menu is molded from one pale gray surface, and one blue marks selection.",
+      "page": "references/vectorium-neumorphic-ui-elements-2020.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Neumorphism.jpg",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "cred-app-synth-neumorphic-ui",
+      "title": "CRED app and the Synth framework",
+      "medium": "app",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A shipped consumer product, not a concept, that applied the style across the whole app. It is the dark variant: controls and panels share one charcoal surface and rise from it with soft shadows.",
+      "page": "references/cred-app-synth-neumorphic-ui.html",
+      "source": "https://github.com/CRED-CLUB/synth-android",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "neumorph-dashboard-webflow-website",
+      "title": "Dashon neumorphic dashboard",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear. The whole dashboard is one pale surface; cards, search field, icon buttons, and the Logout button rise with white and gray shadows, and progress tracks are pressed.",
+      "page": "references/neumorph-dashboard-webflow-website.html",
+      "source": "https://neumorph-dashboard.webflow.io/",
+      "image": "assets/references/neumorph-dashboard-webflow-website.jpg",
+      "measurement": "data/measurements/neumorph-dashboard-webflow-website.json"
+    },
+    {
+      "id": "flutter-neumorphic-package",
+      "title": "Flutter Neumorphic",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The kit is built for the style: every widget shares the surface color and gets a light and a dark shadow set by a depth value, positive to rise and negative to sink.",
+      "page": "references/flutter-neumorphic-package.html",
+      "source": "https://github.com/Idean/Flutter-Neumorphic",
+      "image": "assets/references/flutter-neumorphic-package.png",
+      "measurement": "data/measurements/flutter-neumorphic-package.json"
+    },
+    {
+      "id": "lovelace-soft-ui-home-assistant",
+      "title": "Lovelace Soft UI for Home Assistant",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit. The README calls it “a neumorphic theme” and its CSS gives each card a white shadow up-left and a gray shadow down-right on the page color, but the shadows are so faint that the cards read as soft floating tiles.",
+      "page": "references/lovelace-soft-ui-home-assistant.html",
+      "source": "https://github.com/qiz-li/lovelace-soft-ui",
+      "image": "assets/references/lovelace-soft-ui-home-assistant.jpg",
+      "measurement": "data/measurements/lovelace-soft-ui-home-assistant.json"
+    },
+    {
+      "id": "costachung-neumorphic-swiftui",
+      "title": "Neumorphic for SwiftUI",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear specimen sheet of the style: squares, circles, rings, and buttons raised from and pressed into one surface, in a light and a dark version.",
+      "page": "references/costachung-neumorphic-swiftui.html",
+      "source": "https://github.com/costachung/neumorphic",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "neumorphism-day-and-night-webflow-website",
+      "title": "Neumorphism Day and Night",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline. The buttons, toggle, and inactive tabs are clear neumorphic shapes on a pale gray surface, but the main content card is plain white with a drop shadow.",
+      "page": "references/neumorphism-day-and-night-webflow-website.html",
+      "source": "https://neumorphism-day-and-night.webflow.io/",
+      "image": "assets/references/neumorphism-day-and-night-webflow-website.jpg",
+      "measurement": "data/measurements/neumorphism-day-and-night-webflow-website.json"
+    },
+    {
+      "id": "themesberg-neumorphism-ui-website",
+      "title": "Neumorphism UI by Themesberg",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear. Buttons, the logo tile, and round icon badges are the page color and rise with a white highlight and a gray shadow. Many components also carry a faint 1 px border.",
+      "page": "references/themesberg-neumorphism-ui-website.html",
+      "source": "https://demo.themesberg.com/neumorphism-ui/",
+      "image": "assets/references/themesberg-neumorphism-ui-website.jpg",
+      "measurement": "data/measurements/themesberg-neumorphism-ui-website.json"
+    },
+    {
+      "id": "neumorphism-io-website",
+      "title": "Neumorphism.io",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear. The demo shape and the control panel share the gray page color and rise from it with a white glow and a gray shadow. The tool is also the most-used source of the style’s CSS.",
+      "page": "references/neumorphism-io-website.html",
+      "source": "https://neumorphism.io/",
+      "image": "assets/references/neumorphism-io-website.jpg",
+      "measurement": "data/measurements/neumorphism-io-website.json"
+    },
+    {
+      "id": "nicecard-website",
+      "title": "Nicecard",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline. The navigation and hero pills are dark neumorphic shapes (charcoal on charcoal, lit edge above, dark shadow below), but the main image is floating 3D cards and many elements carry outlines.",
+      "page": "references/nicecard-website.html",
+      "source": "https://nicecard.webflow.io/",
+      "image": "assets/references/nicecard-website.jpg",
+      "measurement": "data/measurements/nicecard-website.json"
+    },
+    {
+      "id": "samxie-website",
+      "title": "Sam Xie portfolio",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline. The pale gray surface, the raised “Browse products” pill, and the raised panel below follow the style, but the first viewport is mostly type and a 3D render, and the shadows are small.",
+      "page": "references/samxie-website.html",
+      "source": "https://samxie.net/",
+      "image": "assets/references/samxie-website.jpg",
+      "measurement": "data/measurements/samxie-website.json"
+    },
+    {
+      "id": "plyuto-skeuomorph-mobile-banking-2019",
+      "title": "Skeuomorph Mobile Banking",
+      "medium": "app",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The shot that Malewicz, CSS-Tricks, and Wikipedia name as the origin of the style. Cards, buttons, and wells rise from or sink into one pale surface.",
+      "page": "references/plyuto-skeuomorph-mobile-banking-2019.html",
+      "source": "https://dribbble.com/shots/7994421-Skeuomorph-Mobile-Banking",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "sleep-cycle-neumorphism-redesign-2020",
+      "title": "Sleep Cycle App – Neumorphism Redesign",
+      "medium": "app",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example: phones, buttons, tabs, and chart tracks all share one pale surface and differ only by soft raised or pressed shadows; one coral accent marks values and the main action.",
+      "page": "references/sleep-cycle-neumorphism-redesign-2020.html",
+      "source": "https://dribbble.com/shots/9236283-Sleep-Cycle-App-Neumorphism-Redesign",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "tailwindcss-neumorphism-demo-website",
+      "title": "tailwindcss-neumorphism demo",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear. Inputs are pressed wells, buttons and the select are raised pills, and toggles and progress tracks are soft, all in the page color.",
+      "page": "references/tailwindcss-neumorphism-demo-website.html",
+      "source": "https://tailwindcss-neumorphism-demo.netlify.app/",
+      "image": "assets/references/tailwindcss-neumorphism-demo-website.jpg",
+      "measurement": "data/measurements/tailwindcss-neumorphism-demo-website.json"
+    },
+    {
+      "id": "ui-neumorphism-docs-website",
+      "title": "ui-neumorphism documentation",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear. Cards, tiles, a round counter, and nav buttons share the pale blue-gray page and rise from it; the active tab is pressed in.",
+      "page": "references/ui-neumorphism-docs-website.html",
+      "source": "https://akaspanion.github.io/ui-neumorphism/",
+      "image": "assets/references/ui-neumorphism-docs-website.jpg",
+      "measurement": "data/measurements/ui-neumorphism-docs-website.json"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "constructivism",
+  "type": "registry:theme",
+  "title": "Constructivism",
+  "description": "Red and black, heavy capitals, and diagonal bars. The poster as a tool of agitation.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "font-mono": "\"Avenir Next Condensed\", \"DIN Condensed\", \"Arial Narrow\", sans-serif"
+    },
+    "light": {
+      "background": "#eee6d6",
+      "foreground": "#161412",
+      "card": "#eee6d6",
+      "card-foreground": "#161412",
+      "popover": "#eee6d6",
+      "popover-foreground": "#161412",
+      "primary": "#d2231b",
+      "primary-foreground": "#f7f0e3",
+      "secondary": "#161412",
+      "secondary-foreground": "#eee6d6",
+      "muted": "#d6c9b1",
+      "muted-foreground": "#4b4540",
+      "accent": "#9c1b14",
+      "accent-foreground": "#f7f0e3",
+      "destructive": "#b42318",
+      "border": "#161412",
+      "input": "#161412",
+      "ring": "#d2231b",
+      "radius": "0px"
+    }
+  }
+}

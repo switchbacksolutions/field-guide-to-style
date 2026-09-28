@@ -1,0 +1,662 @@
+{
+  "id": "vienna-secession",
+  "title": "Vienna Secession",
+  "order": 19,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Wiener Secession",
+    "Secessionsstil",
+    "Wiener Jugendstil",
+    "Wiener Werkstätte style",
+    "Secession style"
+  ],
+  "summary": "Squares, checkerboards, and a little gold on white paper. The geometric Viennese branch of the new art, 1897 to about 1915.",
+  "lede": "The style of the Vienna Secession, the artists’ association founded in 1897 by Klimt, Hoffmann, Moser, Olbrich, and Wagner, and of the Wiener Werkstätte workshops that Hoffmann and Moser founded in 1903: black and white surfaces, squares and grids of small squares, symmetrical framed compositions, and gold, applied to posters, the magazine Ver Sacrum, buildings, furniture, silver, and textiles. This record covers the geometric phase from about 1899. The early floral Secession work belongs to [Art Nouveau](style:art-nouveau).",
+  "moods": [
+    "geometric",
+    "austere",
+    "elegant",
+    "precise",
+    "refined"
+  ],
+  "era": {
+    "from": 1897,
+    "to": 1915,
+    "note": "Wikidata gives the founding date of the Secession as 3 April 1897. Wagner’s Linke Wienzeile buildings date from 1898–1899, the Wiener Werkstätte opened in 1903, and Klimt, Hoffmann, and Moser left the Secession in 1905. The Werkstätte ran until 1932, but its later work moves toward Art Deco. The end year of about 1915 is a catalogue choice."
+  },
+  "regions": [
+    "Austria (Vienna)",
+    "Austria-Hungary",
+    "Germany (Darmstadt)",
+    "Belgium (Stoclet Palace)"
+  ],
+  "identifiers": {
+    "wikidata": "Q208208",
+    "aat": "300435340"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Vienna Secession",
+      "url": "https://en.wikipedia.org/wiki/Vienna_Secession",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikidata: Vienna Secession (Q208208), an instance of art movement and architectural style",
+      "url": "https://www.wikidata.org/wiki/Q208208",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Getty Art & Architecture Thesaurus: Wiener Secession (300435340)",
+      "url": "https://vocab.getty.edu/page/aat/300435340",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikipedia: Wiener Werkstätte (Wiener-Werkstätte-Stil)",
+      "url": "https://en.wikipedia.org/wiki/Wiener_Werkst%C3%A4tte",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikipedia: Josef Hoffmann (squares and black and white surfaces)",
+      "url": "https://en.wikipedia.org/wiki/Josef_Hoffmann",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "related-to",
+      "style": "art-nouveau",
+      "note": "Wikipedia calls the Vienna Secession a movement closely related to Art Nouveau, and in Austria-Hungary the whole style was called Secessionsstil. Wikipedia’s Art Nouveau article says that after 1900 the curves became polygons and cubes in the work of Olbrich, Wagner, Moser, and Hoffmann. Getty AAT files Wiener Secession under the Secession Movement, not under Art Nouveau."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Glasgow Style (Charles Rennie Mackintosh)",
+      "note": "Wikipedia’s Art Nouveau article: Mackintosh showed in Vienna from 1895, and his designs particularly influenced the Secession style. Wikipedia’s Hoffmann article: the eighth Secession exhibition, which Hoffmann designed, featured Charles Rennie Mackintosh and Margaret Macdonald Mackintosh."
+    },
+    {
+      "relation": "influenced-by",
+      "style": "arts-and-crafts",
+      "note": "Wikipedia: the Wiener Werkstätte was founded to reform the applied arts, and the model houses on the Hohe Warte shown at the eighth Secession exhibition had Arts and Crafts features such as windows divided into small squares."
+    },
+    {
+      "relation": "reaction-against",
+      "label": "Historicism",
+      "note": "Wikipedia: the founders resigned from the Künstlerhaus in 1897 in protest against its support for more traditional styles."
+    },
+    {
+      "relation": "related-to",
+      "style": "art-deco",
+      "note": "Wikipedia’s Wiener Werkstätte article names Art Deco among the movements that the Werkstätte strongly influenced, and calls Hoffmann’s Stoclet Palace (1905–1911) a pioneering work of Art Deco."
+    },
+    {
+      "relation": "related-to",
+      "style": "bauhaus",
+      "note": "Wikipedia’s Wiener Werkstätte article: the Bauhaus continued the Werkstätte’s emphasis on geometric shapes and simple design. Hoffmann was a founding member of the Deutscher Werkbund in 1907."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "The square as module.",
+      "text": "Squares and cubes organize the design, from posters and book pages to lattice silver and windows divided into small squares. Hoffmann used them so much that he was called Quadratl-Hoffmann, “Square Hoffmann”."
+    },
+    {
+      "facet": "surface",
+      "term": "Checkerboard and square lattice.",
+      "text": "Black and white checks and grids of small squares fill borders, bands, floors, and fabrics, as in the Fledermaus cabaret floor (1907). Surfaces are flat, without shading, relief, or gloss."
+    },
+    {
+      "facet": "layout",
+      "term": "Central axis and framed fields.",
+      "text": "Pages, posters, and façades are symmetrical. Text and images sit in rectangles outlined by thin black lines, ornament stays in the frame and in bands, and a wide margin of plain paper surrounds the block."
+    },
+    {
+      "facet": "color",
+      "term": "Black, white, and gold.",
+      "text": "Black on white paper carries most designs. Gold leaf is the one luxury (Klimt, the Secession dome). Some posters add one flat accent colour, never a full spectrum."
+    },
+    {
+      "facet": "type",
+      "term": "Capitals fitted to a block.",
+      "text": "Lettering is hand-drawn capitals, often condensed or squared, set close and stretched to fill a rectangle. Body text in Ver Sacrum and Werkstätte printing is a plain roman."
+    },
+    {
+      "facet": "imagery",
+      "term": "Motifs reduced to geometry.",
+      "text": "Roses, laurel, and trees become circles, squares, and rows of dots. Groups of three small squares repeat as a mark. Figures are flat and framed, often against gold or pattern."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Squares organize the design: square panels, square badges, or a grid of small squares.",
+      "A black and white checkerboard or square lattice appears as a border, a band, or one field.",
+      "The composition is symmetrical about a central axis, and ornament stays in frames and bands.",
+      "The palette is black and white with gold, or with at most one flat accent colour.",
+      "Capitals are drawn to fill a rectangle: condensed or squared, with tight spacing."
+    ],
+    "counter": [
+      "Long whiplash curves or plant stems flow across the frame. That points to Art Nouveau.",
+      "Sunbursts, stepped setbacks, chevrons, or widely spaced capitals on black. That points to Art Deco.",
+      "An asymmetric layout in flat primary colours with no ornament.",
+      "Rounded corners, gradients, or drop shadows."
+    ],
+    "confusions": [
+      {
+        "with": "art-nouveau",
+        "difference": "The core Art Nouveau of Brussels and Paris is curvilinear, with whiplash lines and earthy colours. The Secession keeps some plant motifs but reduces them to squares, circles, and grids in black, white, and gold."
+      },
+      {
+        "with": "art-deco",
+        "difference": "Art Deco also uses symmetry, geometry, and gold, but its motifs are sunbursts, chevrons, and setbacks, often on a black ground, with wide letter spacing. The Secession uses squares and checks on white paper, with tightly packed capitals."
+      },
+      {
+        "with": "Glasgow Style",
+        "difference": "Mackintosh’s Glasgow work shares the tall grids and small squares, but it adds the elongated Glasgow rose and soft pinks and lilacs. The Secession is more strictly black, white, and gold."
+      },
+      {
+        "with": "arts-and-crafts",
+        "difference": "Arts and Crafts pattern is dense, flat, and floral, and its objects look handmade and historical. The Secession reduces pattern to squares and checks and leaves wide plain areas."
+      },
+      {
+        "with": "bauhaus",
+        "difference": "Bauhaus is also geometric, but it is asymmetric, unornamented, and uses primary colours. The Secession is symmetrical, ornamental, and uses black, white, and gold."
+      },
+      {
+        "with": "de-stijl",
+        "difference": "De Stijl divides the plane with thick black bars and primary colour fields in an asymmetric balance. The Secession uses thin lines, small repeated squares, and a central axis."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a white paper ground, black for text, rules, and solid blocks, and gold for one or two accents.",
+      "Build from squares: square fact boxes, square number badges, and a grid module based on the square.",
+      "Put a black and white checkerboard or square lattice in bands, borders, or one framed field.",
+      "Center headings and key blocks on one axis, and outline panels with thin black lines.",
+      "Set headings in condensed capitals with tight letter spacing and tight line spacing. Set body text in a roman serif.",
+      "Use a group of three small squares as a divider or a bullet."
+    ],
+    "dont": [
+      "Do not use whiplash curves or flowing plant stems. That points to Art Nouveau.",
+      "Do not use sunbursts, chevrons, stepped setbacks, or wide letter spacing. That points to Art Deco.",
+      "Do not round corners, and do not add gradients or drop shadows.",
+      "Do not use more than one strong colour beside gold.",
+      "Do not cover every surface with checks. Keep ornament in frames and bands, and keep wide plain areas."
+    ],
+    "uses": [
+      "Galleries, museums, and exhibition programmes",
+      "Architecture and interior studios",
+      "Jewellery, silver, and fashion",
+      "Cafés, patisseries, and concert halls",
+      "Book design and literary magazines"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.patternShare",
+      "min": 0.08,
+      "note": "Checkerboard or square-lattice bands sit on several panels, not on one background only. Provisional: set from the specimen; real sites often draw checks as images, which this metric does not count."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.1,
+      "note": "A patterned field or frame covers a visible part of the page. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "min": 0.25,
+      "note": "Headings, labels, and navigation are capitals. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.centerShare",
+      "min": 0.4,
+      "note": "Most text sits on a central axis. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.headingTracking",
+      "max": 0.04,
+      "note": "Capitals are packed into a block, not spaced out as in Art Deco. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Square corners. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.1,
+      "note": "Flat panels without drop shadows, as the rubric requires. The specimen and both kept captures measure 0. Added on 2026-09-28 because the [Poolsuite capture](ref:poolsuite-website), a hard-shadowed retro desktop (0.6), passed every other metric."
+    },
+    {
+      "metric": "color.hues",
+      "max": 1,
+      "note": "Black and white with gold, or one accent colour. Provisional: set from the specimen."
+    }
+  ],
+  "synthesis": [
+    "Print carries the style’s lettering rule most clearly. Moser’s [13th exhibition poster](ref:moser-13th-secession-exhibition-poster-1902), Roller’s [16th exhibition poster](ref:roller-16th-secession-exhibition-poster-1903), Moser’s [bookplate for Otto Zuckerkandl](ref:moser-ex-libris-otto-zuckerkandl-1906), and Olbrich’s [Cologne poster stamp](ref:olbrich-cologne-exhibition-poster-stamp-1907) all rule each line of capitals and stretch or compress the letters until the line is full, breaking words where needed. Checkered bands and repeated three-part emblems work as rules and fields between the text blocks.",
+    "Objects and buildings show the square as a module in material: the lattice of Moser’s [bud vase](ref:moser-gitterwerk-bud-vase) and Hoffmann’s [basket](ref:hoffmann-gitterwerk-basket), the stone plates and glass grid of Wagner’s [Postal Savings Bank](ref:wagner-austrian-postal-savings-bank), the outlined planes of the [Stoclet Palace](ref:hoffmann-stoclet-palace), and the checkerboard floor of the [Cabaret Fledermaus](ref:hoffmann-cabaret-fledermaus). Wagner’s [armchair](ref:wagner-armchair-model-718) and Olbrich’s [Secession Building](ref:olbrich-secession-building) are partial fits: black and metal or white cubes, but with bentwood curves or plant reliefs from the earlier phase. Klimt’s [Adele Bloch-Bauer I](ref:klimt-adele-bloch-bauer-i-1907) is the source of the gold.",
+    "Image measurements qualify the colour rule. The ex libris, the poster stamp, the bank booklet, and the lattice vase measure no strong hue, but Moser’s 13th poster (blue and ochre) and the Roller scan measure two, and the Fledermaus bar used many tile colours. Black and white with one accent is the norm in the Werkstätte’s printed and metal work, not a law; two of seven stored clear examples exceed `color.hues` 1, which is not enough to change the range.",
+    "Few real websites use the style. Of 37 candidate sites tried and 27 captured (Vienna museums, the Secession itself, Wiener Werkstätte licensees, cafés, and dealers), only two were kept, both borderline: the [Klimt Foundation](ref:klimt-foundation-website), whose square logo of justified capitals is a Secession device, and the Japanese site for the 2019 exhibition [Vienna on the Path to Modernism](ref:wienmodern2019-website), whose framed title block and checkered corner marks borrow the lettering. Both fail `type.centerShare`, and the fingerprint cannot see the Klimt Foundation’s patterned ground, which is a CSS background image. The fingerprint therefore stays specimen-based and provisional.",
+    "`surface.shadow.share` (max 0.1) was added because the hard-shadowed [Poolsuite](ref:poolsuite-website) capture passed every other metric; the specimen and both kept captures measure 0. The [Op Art](style:op-art) specimen still fails this fingerprint by one metric only (`type.uppercaseShare` 0.18); no measured reference gave evidence for a better separator."
+  ],
+  "page": "vienna-secession.html",
+  "implementation": {
+    "tokens": "implementations/vienna-secession/tokens.json",
+    "css": "implementations/vienna-secession/tokens.css",
+    "tailwind": "implementations/vienna-secession/tailwind.css",
+    "shadcn": "implementations/vienna-secession/shadcn.css",
+    "registry": "implementations/vienna-secession/registry-item.json",
+    "designMd": "implementations/vienna-secession/DESIGN.md",
+    "specimen": "implementations/vienna-secession/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for vienna-secession. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#faf8f2",
+        "$description": "White paper, as in Ver Sacrum and the Werkstätte catalogues."
+      },
+      "surface": {
+        "$value": "#ffffff"
+      },
+      "subtle": {
+        "$value": "#ece8dc"
+      },
+      "text": {
+        "$value": "#111111",
+        "$description": "Printer's black."
+      },
+      "muted": {
+        "$value": "#55524a"
+      },
+      "border": {
+        "$value": "#111111"
+      },
+      "primary": {
+        "$value": "#111111",
+        "$description": "Black, the main colour of the square and the checkerboard."
+      },
+      "on-primary": {
+        "$value": "#faf8f2"
+      },
+      "secondary": {
+        "$value": "#faf8f2",
+        "$description": "White, the other half of the checkerboard."
+      },
+      "on-secondary": {
+        "$value": "#111111"
+      },
+      "accent": {
+        "$value": "#b08a2e",
+        "$description": "Gold leaf, used sparingly (Klimt, the Secession dome)."
+      },
+      "on-accent": {
+        "$value": "#111111"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Avenir Next Condensed",
+          "DIN Condensed",
+          "Arial Narrow",
+          "Roboto Condensed",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Baskerville",
+          "Georgia",
+          "Times New Roman",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Avenir Next Condensed",
+          "DIN Condensed",
+          "Arial Narrow",
+          "sans-serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 600
+      },
+      "display": {
+        "$value": 600
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "20px"
+      },
+      "xl": {
+        "$value": "26px"
+      },
+      "2xl": {
+        "$value": "34px"
+      },
+      "3xl": {
+        "$value": "44px"
+      },
+      "4xl": {
+        "$value": "60px"
+      },
+      "5xl": {
+        "$value": "84px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.95
+      },
+      "body": {
+        "$value": 1.6
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.04,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "2px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "72px"
+      },
+      "2xl": {
+        "$value": "112px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "wagner-armchair-model-718",
+      "title": "Armchair, model no. 718 F/B",
+      "medium": "furniture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: black and metal with square panels and no ornament, as in Wagner’s bank interiors, but the frame is a bentwood curve and the photographed upholstery is bright red.",
+      "page": "references/wagner-armchair-model-718.html",
+      "source": "https://collections.artsmia.org/art/60713/armchair-model-no-718-fb-otto-wagner",
+      "image": "assets/references/wagner-armchair-model-718.jpg",
+      "measurement": "data/measurements/wagner-armchair-model-718.json"
+    },
+    {
+      "id": "wagner-austrian-postal-savings-bank",
+      "title": "Austrian Postal Savings Bank, Vienna",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example in architecture: the façade and the banking hall are built from repeated squares and grids, with the fixings shown as ornament.",
+      "page": "references/wagner-austrian-postal-savings-bank.html",
+      "source": "https://en.wikipedia.org/wiki/Austrian_Postal_Savings_Bank",
+      "image": "assets/references/wagner-austrian-postal-savings-bank.jpg",
+      "measurement": "data/measurements/wagner-austrian-postal-savings-bank.json"
+    },
+    {
+      "id": "moser-ex-libris-otto-zuckerkandl-1906",
+      "title": "Bookplate for Otto Zuckerkandl",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example of the geometric phase: a square format, thick ruled frame and bands, capitals stretched to fill each band, and strict symmetry in black on white.",
+      "page": "references/moser-ex-libris-otto-zuckerkandl-1906.html",
+      "source": "https://sammlung.mak.at/en/collect/exlibris-fuer-otto-zuckerkandl_134107",
+      "image": "assets/references/moser-ex-libris-otto-zuckerkandl-1906.jpg",
+      "measurement": "data/measurements/moser-ex-libris-otto-zuckerkandl-1906.json"
+    },
+    {
+      "id": "hoffmann-cabaret-fledermaus",
+      "title": "Cabaret Fledermaus bar room, Vienna",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example: the checkerboard floor and the square-tiled bar are the style’s signature surfaces, and the postcard’s lettering is packed into ruled bands.",
+      "page": "references/hoffmann-cabaret-fledermaus.html",
+      "source": "https://de.wikipedia.org/wiki/Cabaret_Fledermaus",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "klimt-foundation-website",
+      "title": "Gustav Klimt | Wien 1900 Foundation website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the logo is a Secession device (a black square with capitals set to fill each line, and gold), and the ground is patterned, but the layout is asymmetric and the tiles use several colours.",
+      "page": "references/klimt-foundation-website.html",
+      "source": "https://www.klimt-foundation.com/en/",
+      "image": "assets/references/klimt-foundation-website.jpg",
+      "measurement": "data/measurements/klimt-foundation-website.json"
+    },
+    {
+      "id": "hoffmann-gitterwerk-basket",
+      "title": "Lattice basket (Gitterwerk)",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example of Hoffmann’s square lattice (Gitterwerk), the object type behind his nickname “Quadratl-Hoffmann”.",
+      "page": "references/hoffmann-gitterwerk-basket.html",
+      "source": "https://collections.artsmia.org/art/7097/basket-josef-hoffmann",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "moser-gitterwerk-bud-vase",
+      "title": "Lattice bud vase (Gitterwerk)",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example: the square lattice is both structure and ornament, in plain white, with no applied decoration.",
+      "page": "references/moser-gitterwerk-bud-vase.html",
+      "source": "https://collections.artsmia.org/art/6990/bud-vase-koloman-moser",
+      "image": "assets/references/moser-gitterwerk-bud-vase.jpg",
+      "measurement": "data/measurements/moser-gitterwerk-bud-vase.json"
+    },
+    {
+      "id": "klimt-adele-bloch-bauer-i-1907",
+      "title": "Portrait of Adele Bloch-Bauer I",
+      "medium": "painting",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear for the gold and the geometric ornament: a square format, grids of small squares, and a checkered strip, around a flat figure. It is denser and richer than Secession graphics, which keep wide plain areas.",
+      "page": "references/klimt-adele-bloch-bauer-i-1907.html",
+      "source": "https://en.wikipedia.org/wiki/Portrait_of_Adele_Bloch-Bauer_I",
+      "image": "assets/references/klimt-adele-bloch-bauer-i-1907.jpg",
+      "measurement": "data/measurements/klimt-adele-bloch-bauer-i-1907.json"
+    },
+    {
+      "id": "moser-13th-secession-exhibition-poster-1902",
+      "title": "Poster for the 13th Secession exhibition",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example: strict symmetry, capitals packed into ruled bands, checkerboard bands, and a frame, with flat colour. It uses two accent colours (blue and ochre brown), one more than the rubric’s limit.",
+      "page": "references/moser-13th-secession-exhibition-poster-1902.html",
+      "source": "https://gallica.bnf.fr/ark:/12148/btv1b52506931h",
+      "image": "assets/references/moser-13th-secession-exhibition-poster-1902.jpg",
+      "measurement": "data/measurements/moser-13th-secession-exhibition-poster-1902.json"
+    },
+    {
+      "id": "roller-16th-secession-exhibition-poster-1903",
+      "title": "Poster for the 16th Secession exhibition",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear for lettering and pattern: capitals packed into a solid block, a repeated three-part emblem, and black with one accent colour. The long curved strokes from the S of SECESSION keep a trace of the early curvilinear phase.",
+      "page": "references/roller-16th-secession-exhibition-poster-1903.html",
+      "source": "https://onlinecollection.leopoldmuseum.org/en/object/1246-poster-for-the-16th-exhibition-at-the-vienna-secession/",
+      "image": "assets/references/roller-16th-secession-exhibition-poster-1903.jpg",
+      "measurement": "data/measurements/roller-16th-secession-exhibition-poster-1903.json"
+    },
+    {
+      "id": "olbrich-cologne-exhibition-poster-stamp-1907",
+      "title": "Poster stamp for the Cologne exhibition, 1907",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear for the lettering and layout: symmetrical, framed, with capitals packed into ruled bands. It is a German commission by one of the founders of the Secession.",
+      "page": "references/olbrich-cologne-exhibition-poster-stamp-1907.html",
+      "source": "https://sammlung.mak.at/en/collect/werbemarke-zur-koelner-ausstellung-1907_276583",
+      "image": "assets/references/olbrich-cologne-exhibition-poster-stamp-1907.jpg",
+      "measurement": "data/measurements/olbrich-cologne-exhibition-poster-stamp-1907.json"
+    },
+    {
+      "id": "olbrich-secession-building",
+      "title": "Secession Building, Vienna",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the movement’s own building, with cubic masses, square pylons, and a laurel dome, but its 1898 relief ornament of trees and leaves belongs to the early floral phase.",
+      "page": "references/olbrich-secession-building.html",
+      "source": "https://en.wikipedia.org/wiki/Secession_Building",
+      "image": "assets/references/olbrich-secession-building.jpg",
+      "measurement": "data/measurements/olbrich-secession-building.json"
+    },
+    {
+      "id": "hoffmann-stoclet-palace",
+      "title": "Stoclet Palace, Brussels",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example of the late geometric phase: flat planes outlined by continuous bands, and windows of small squares. The style record lists Belgium for this building.",
+      "page": "references/hoffmann-stoclet-palace.html",
+      "source": "https://en.wikipedia.org/wiki/Stoclet_Palace",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "wienmodern2019-website",
+      "title": "Vienna on the Path to Modernism exhibition website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the logo and the gold date panels are drawn in the Secession manner, but most of the viewport is a painting and the navigation is an ordinary dark bar.",
+      "page": "references/wienmodern2019-website.html",
+      "source": "https://artexhibition.jp/wienmodern2019/",
+      "image": "assets/references/wienmodern2019-website.jpg",
+      "measurement": "data/measurements/wienmodern2019-website.json"
+    }
+  ]
+}

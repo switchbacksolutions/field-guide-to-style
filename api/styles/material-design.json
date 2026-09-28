@@ -1,0 +1,829 @@
+{
+  "id": "material-design",
+  "title": "Material Design",
+  "order": 25,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Quantum Paper (Google codename)",
+    "Google Material Design",
+    "Material Design 1 and 2",
+    "Flat 2.0 (partial)"
+  ],
+  "summary": "Flat color on sheets of paper that float at set heights. Soft shadows, a bold primary bar, and a round action button.",
+  "lede": "Google’s design language of 2014 to 2020. Interface parts are sheets of “material” that sit at fixed elevations above a pale ground, and soft shadows show how high each sheet floats. Color is flat: one bold primary fills the app bar, and a contrasting accent marks the floating action button. This record covers Material Design 1 (2014) and Material Design 2 (2018). Material You (Material Design 3, 2021) is a related branch with tonal color from the wallpaper and large rounded shapes.",
+  "moods": [
+    "orderly",
+    "tactile",
+    "bright",
+    "systematic"
+  ],
+  "era": {
+    "from": 2014,
+    "to": 2020,
+    "note": "Google announced Material Design at Google I/O on 25 June 2014, and Android 5.0 Lollipop shipped it later that year. The card interface of Google Now (2012) came first. Material Design 2 followed in 2018 with Android Pie. Material You replaced it on Android 12 in 2021, but Material 1 and 2 component libraries stay in wide use."
+  },
+  "regions": [
+    "United States",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q17590603"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Material Design",
+      "url": "https://en.wikipedia.org/wiki/Material_Design",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Google, Material Design 1 guidelines: Introduction",
+      "url": "https://m1.material.io/material-design/introduction.html",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Google, Material Design 1 guidelines: Elevation and shadows",
+      "url": "https://m1.material.io/material-design/elevation-shadows.html",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Google, Material Design 1 guidelines: Floating action button",
+      "url": "https://m1.material.io/components/buttons-floating-action-button.html",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Google, Material Design 1 guidelines: Color",
+      "url": "https://m1.material.io/style/color.html",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Nielsen Norman Group, Kate Moran, “Flat Design: Its Origins, Its Problems, and Why Flat 2.0 Is Better for Users” (27 September 2015)",
+      "url": "https://www.nngroup.com/articles/flat-design/",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "style": "flat-design",
+      "note": "Wikidata classes Material Design as a subclass of [flat design](style:flat-design), and Wikipedia’s flat design article calls it Google’s flat design language, with card-like sheets and shadows for depth. NN/g (2015) names it an example of “flat 2.0”: mostly flat, with subtle shadows and layers."
+    },
+    {
+      "relation": "related-to",
+      "style": "skeuomorphism",
+      "note": "Wikipedia states that Material Design is based on paper-and-ink and skeuomorphic interaction concepts. The Material 1 guidelines take edges, shadows, and lift from physical paper but leave out texture and ornament, so the metaphor is in behavior, not in surface, unlike [skeuomorphism](style:skeuomorphism)."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Google Now card interface",
+      "wikidata": "Q79564",
+      "note": "Wikipedia describes Material Design as an expansion of the “cards” interface that debuted in Google Now."
+    },
+    {
+      "relation": "related-to",
+      "label": "Material You (Material Design 3)",
+      "note": "Announced at Google I/O in May 2021 for Android 12. Wikipedia describes custom themes generated from the user’s wallpaper, more animation, and larger buttons. It keeps the component system but trades the bold primary and accent for tonal palettes and large rounded shapes, so this record treats it as a related branch."
+    },
+    {
+      "relation": "related-to",
+      "label": "Fluent Design System",
+      "wikidata": "Q29900635",
+      "note": "Microsoft’s design language of 2017. Wikipedia’s flat design article describes it as a departure from Metro through depth, light, and motion, which parallels Material’s return to shadow. Fluent adds translucent “acrylic” blur, which Material 1 and 2 do not use."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Sheets at set elevations.",
+      "text": "Every surface is a 1 dp sheet of material with a fixed resting height: a card at 2 dp, the app bar at 4 dp, the floating action button at 6 dp, the navigation drawer at 16 dp, and a dialog at 24 dp. Sheets can overlap but cannot pass through each other."
+    },
+    {
+      "facet": "surface",
+      "term": "Soft shadows from above.",
+      "text": "Shadows are the only cue for separation. They fall downward from a key light with a soft ambient halo, and a higher sheet casts a larger, softer shadow. Surfaces are matte and flat: no gradients, gloss, or texture. Cards round their corners by 2 dp in Material 1 and 4 dp in Material 2."
+    },
+    {
+      "facet": "color",
+      "term": "Bold primary, contrasting accent.",
+      "text": "One saturated primary, usually the 500 shade of a 19-hue palette such as indigo or teal, fills the app bar, and its 700 shade fills the status bar. A contrasting accent, often an A200 pink or amber, marks the floating action button, switches, and links. Everything else is white sheets on a pale gray ground, with text as black at 87 % and 54 % opacity."
+    },
+    {
+      "facet": "type",
+      "term": "Roboto on a fixed scale.",
+      "text": "Roboto in named styles: Display, Headline, Title, Subheading, Body, and Caption. Titles are Medium 20 sp, large display lines are Regular or Light, and buttons are Medium 14 sp in all capitals. Material 2 brings Google Sans to Google’s own products."
+    },
+    {
+      "facet": "layout",
+      "term": "8 dp grid and keylines.",
+      "text": "Everything aligns to an 8 dp grid with 16 dp screen margins and a 72 dp text keyline. A colored app bar sits at the top, cards and lists fill a pale column, and a 56 dp circular action button floats near the lower right, often across the seam between two surfaces."
+    },
+    {
+      "facet": "imagery",
+      "term": "Folded paper icons and full-bleed photos.",
+      "text": "Product icons are cut, folded, and lit like paper, with clean folds and subtle shade. System icons are simple 24 dp glyphs. Photographs run edge to edge at the top of cards."
+    },
+    {
+      "facet": "motion",
+      "term": "Ink ripples and lift.",
+      "text": "A touch sends an ink ripple outward from the point of contact, and a pressed card or button lifts to a higher elevation. New surfaces grow from the element that created them, on a standard ease-out curve."
+    }
+  ],
+  "synthesis": [
+    "Google’s own documents define the style: the [Material Design 1 guidelines](ref:material-design-guidelines-2014), the [color palette](ref:material-color-palette-2014) of 19 hues, the flat [system icons](ref:material-system-icons-2014), the paper-fold [product icons](ref:material-product-icons-2014), and the redesigned [Roboto](ref:roboto-typeface-2014). [Android 5.0 Lollipop](ref:android-5-lollipop-2014) and [Inbox by Gmail](ref:inbox-by-gmail-2014) shipped it in 2014 with the textbook pairing of a saturated app bar and a round accent button.",
+    "The web took the style mainly through component libraries: Google’s [Material Design Lite](ref:material-design-lite-2015) and [AngularJS Material](ref:angularjs-material-website-2016), and the independent [Materialize](ref:materializecss-website), [Material-UI](ref:material-ui-website-2018), and [Vuetify](ref:vuetify-v1-website). Their documentation sites are built with their own components, so most web references here are library sites. [Google Play in 2016](ref:play-google-com-website-2016) is the clearest product page: white cards with 2 dp shadows on pale gray.",
+    "Captures show the fingerprint’s weak points. Soft, short, downward shadows and small radii hold on every clear capture. Shadow share and chromatic share each fail on two of five clear captures: documentation pages have many flat tiles, and many pages keep color to one bar, one tab, or the buttons. [Angular Material 12](ref:angular-material-v12-website) passes every metric. [Vuetify 1.5](ref:vuetify-v1-website) is borderline, with a gradient hero and large shadows.",
+    "Material Design 2 is documented but not yet observed on a real product: see [Google Material Theme](ref:google-material-theme-2018). Wayback copies of 2015 to 2017 Google pages (getmdl.io, material.io, google.com/keep, android.com) rendered without their web fonts, header images, or style sheets on 28 September 2026, so they were not kept. [Evernote for Android](ref:evernote-android-2015), NN/g’s example of flat 2.0, still needs a usable image."
+  ],
+  "rubric": {
+    "diagnostic": [
+      "White cards on a pale gray ground, each lifted by a soft, short shadow that falls downward.",
+      "A full-width app bar filled with one saturated primary color, itself casting a shadow on the content.",
+      "A circular action button in a contrasting accent color that floats above the content with a larger shadow.",
+      "Flat fills with no gradients, gloss, or texture. Corners are square or round by only 2 to 4 px.",
+      "Roboto or a similar grotesque, with all-capital medium-weight button labels."
+    ],
+    "counter": [
+      "No shadows at all: areas separate only by fill color. This points to flat design.",
+      "Hard offset shadows with no blur, or thick black outlines.",
+      "Gradients, gloss, or material textures such as leather or linen.",
+      "Translucent, blurred panels.",
+      "Large pill-shaped containers with tonal pastel color taken from a wallpaper. This points to Material You."
+    ],
+    "confusions": [
+      {
+        "with": "flat-design",
+        "difference": "Flat design separates areas by solid color and space and has no shadows. Material Design keeps flat color but lifts white cards, the app bar, and the action button with soft shadows."
+      },
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphism imitates materials with texture, gloss, bevels, and stitching. Material Design keeps only the shadow and edge of paper, with flat matte fills."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Neo-brutalism uses hard offset shadows with no blur and thick black outlines. Material shadows are soft and short, and cards have no outlines."
+      },
+      {
+        "with": "glassmorphism",
+        "difference": "Glassmorphism uses translucent, blurred panels over colorful gradients. Material sheets are opaque and flat."
+      },
+      {
+        "with": "frutiger-aero",
+        "difference": "Frutiger Aero uses glossy gradients, sky and water imagery, and pill buttons. Material Design has matte flat color and small radii."
+      },
+      {
+        "with": "Material You (Material Design 3)",
+        "difference": "Material You uses tonal color from the wallpaper, large rounded and pill shapes, and fewer shadows. Material 1 and 2 use a bold primary with a contrasting accent, small radii, and shadows on every raised surface."
+      },
+      {
+        "with": "neumorphism",
+        "difference": "Neumorphism extrudes soft shapes from one pale color with a light and a dark shadow. Material Design uses one downward shadow and saturated primary and accent colors."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Put content on white cards over a pale gray ground (#fafafa or #f5f5f5).",
+      "Give each surface a resting elevation and a matching soft shadow: 2 dp for cards and raised buttons, 4 dp for the app bar, 6 dp for the action button.",
+      "Fill the app bar with one saturated primary color and use a darker shade of it for the top edge.",
+      "Use one contrasting accent color for the circular action button, links, and selected controls.",
+      "Set type in Roboto or a system grotesque. Make titles medium weight and button labels medium weight in all capitals.",
+      "Align to an 8 px grid. Round cards and buttons by 2 to 4 px, and make the action button a 56 px circle."
+    ],
+    "dont": [
+      "Do not use gradients, gloss, or textures. Material is matte and flat in color.",
+      "Do not use hard shadows with no blur, or outlines to separate cards. Separation comes from soft shadows.",
+      "Do not put two surfaces at the same height with different shadows, or different heights with the same shadow.",
+      "Do not use more than one floating action button on a screen, and do not use it for a destructive action.",
+      "Do not round cards into pills or large soft blobs. Those belong to Material You."
+    ],
+    "uses": [
+      "Android apps",
+      "Web applications and admin dashboards",
+      "Productivity and email clients",
+      "Settings and forms",
+      "Component libraries"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.3,
+      "note": "Cards, the app bar, raised buttons, and the action button all cast shadows. The specimen measures 0.56. Checked against five clear captures on 28 September 2026: [Angular Material 12](ref:angular-material-v12-website) 0.55, [Materialize](ref:materializecss-website) 0.40, and [Google Play 2016](ref:play-google-com-website-2016) 0.36 pass. [AngularJS Material 2016](ref:angularjs-material-website-2016) 0.08 and [Material-UI 2018](ref:material-ui-website-2018) 0.10 fail, because documentation pages have many flat gray tiles and rows. Two of five is below the recalibration threshold, so the minimum stays. A minimum of 0.05 was tested and causes no confusion."
+    },
+    {
+      "metric": "surface.shadow.medianBlur",
+      "min": 3,
+      "max": 20,
+      "note": "Shadows are soft. A 1 dp Material 2 card has a 3 px blur and a 2 dp Material 1 card a 5 px blur. Hard shadows with no blur point to neo-brutalism. All five clear captures pass, from 3 px to 18 px (the Material-UI snackbar)."
+    },
+    {
+      "metric": "surface.shadow.medianOffset",
+      "min": 2,
+      "max": 10,
+      "note": "The key light is above, so shadows fall downward by 2 to 8 px as elevation rises. Glow and inset shadows have no offset. All five clear captures pass, from 2 px to 6 px."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "min": 0.05,
+      "max": 0.6,
+      "note": "A saturated primary fills the app bar. All-white pages fall below this range: [Materialize](ref:materializecss-website) measures 0.04 and [Google Play 2016](ref:play-google-com-website-2016) 0.01, where color is limited to one tab, buttons, and photographs. Two of five clear captures fail, which is below the recalibration threshold. Material 2 products with white app bars are likely to fail too."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 4,
+      "note": "Cards and buttons round by 2 px in Material 1 and 4 px in Material 2. Larger radii point to Material You, glassmorphism, or neumorphism. All five clear captures measure 0 or 4 px."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Fills are flat and matte. Four of five clear captures pass. [Google Play 2016](ref:play-google-com-website-2016) measures 0.14 from dark scrims under photo captions, which the Material guidelines allow for text over images."
+    }
+  ],
+  "page": "material-design.html",
+  "implementation": {
+    "tokens": "implementations/material-design/tokens.json",
+    "css": "implementations/material-design/tokens.css",
+    "tailwind": "implementations/material-design/tailwind.css",
+    "shadcn": "implementations/material-design/shadcn.css",
+    "registry": "implementations/material-design/registry-item.json",
+    "designMd": "implementations/material-design/DESIGN.md",
+    "specimen": "implementations/material-design/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for material-design. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#f5f5f5",
+        "$description": "Grey 100: the pale ground under the sheets."
+      },
+      "surface": {
+        "$value": "#ffffff",
+        "$description": "Cards, sheets, and dialogs."
+      },
+      "subtle": {
+        "$value": "#eeeeee"
+      },
+      "text": {
+        "$value": "#212121",
+        "$description": "Black at 87 % opacity on white."
+      },
+      "muted": {
+        "$value": "#757575",
+        "$description": "Black at 54 % opacity on white."
+      },
+      "border": {
+        "$value": "#e0e0e0",
+        "$description": "Dividers: black at 12 % opacity."
+      },
+      "primary": {
+        "$value": "#3f51b5",
+        "$description": "Indigo 500: the app bar."
+      },
+      "on-primary": {
+        "$value": "#ffffff"
+      },
+      "secondary": {
+        "$value": "#303f9f",
+        "$description": "Indigo 700: the dark primary for the status bar."
+      },
+      "on-secondary": {
+        "$value": "#ffffff"
+      },
+      "accent": {
+        "$value": "#ff4081",
+        "$description": "Pink A200: the floating action button and selection indicators. Use it for icons and large shapes, not small text."
+      },
+      "on-accent": {
+        "$value": "#ffffff"
+      },
+      "primary-light": {
+        "$value": "#c5cae9",
+        "$description": "Indigo 100."
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Roboto",
+          "Helvetica Neue",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Roboto",
+          "Helvetica Neue",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Roboto Mono",
+          "Menlo",
+          "Consolas",
+          "monospace"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 500,
+        "$description": "Roboto Medium: titles and button labels."
+      },
+      "display": {
+        "$value": 300,
+        "$description": "Roboto Light for the largest display lines."
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "20px"
+      },
+      "xl": {
+        "$value": "24px"
+      },
+      "2xl": {
+        "$value": "34px"
+      },
+      "3xl": {
+        "$value": "48px"
+      },
+      "4xl": {
+        "$value": "60px"
+      },
+      "5xl": {
+        "$value": "96px"
+      },
+      "$description": "The Material Design 2 type scale: Caption, Body 2, Body 1, H6, H5, H4, H3, H2, H1."
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.1
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.015,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.09,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        },
+        "$description": "Button labels: 1.25 px at 14 px."
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "2px",
+        "$description": "Material 1 cards and buttons."
+      },
+      "md": {
+        "$value": "4px",
+        "$description": "Material 2 cards and buttons."
+      },
+      "lg": {
+        "$value": "8px"
+      },
+      "pill": {
+        "$value": "999px",
+        "$description": "The circular floating action button."
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "2px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "8px"
+      },
+      "sm": {
+        "$value": "16px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "96px"
+      },
+      "$description": "Multiples of the 8 dp grid."
+    },
+    "shadow": {
+      "$type": "shadow",
+      "sm": {
+        "$value": [
+          {
+            "color": "#00000024",
+            "offsetX": "0px",
+            "offsetY": "2px",
+            "blur": "2px",
+            "spread": "0px"
+          },
+          {
+            "color": "#0000001f",
+            "offsetX": "0px",
+            "offsetY": "3px",
+            "blur": "1px",
+            "spread": "-2px"
+          },
+          {
+            "color": "#00000033",
+            "offsetX": "0px",
+            "offsetY": "1px",
+            "blur": "5px",
+            "spread": "0px"
+          }
+        ],
+        "$description": "2 dp: resting cards and raised buttons."
+      },
+      "md": {
+        "$value": [
+          {
+            "color": "#00000024",
+            "offsetX": "0px",
+            "offsetY": "4px",
+            "blur": "5px",
+            "spread": "0px"
+          },
+          {
+            "color": "#0000001f",
+            "offsetX": "0px",
+            "offsetY": "1px",
+            "blur": "10px",
+            "spread": "0px"
+          },
+          {
+            "color": "#00000033",
+            "offsetX": "0px",
+            "offsetY": "2px",
+            "blur": "4px",
+            "spread": "-1px"
+          }
+        ],
+        "$description": "4 dp: the app bar."
+      },
+      "fab": {
+        "$value": [
+          {
+            "color": "#00000024",
+            "offsetX": "0px",
+            "offsetY": "6px",
+            "blur": "10px",
+            "spread": "0px"
+          },
+          {
+            "color": "#0000001f",
+            "offsetX": "0px",
+            "offsetY": "1px",
+            "blur": "18px",
+            "spread": "0px"
+          },
+          {
+            "color": "#00000033",
+            "offsetX": "0px",
+            "offsetY": "3px",
+            "blur": "5px",
+            "spread": "-1px"
+          }
+        ],
+        "$description": "6 dp: the resting floating action button."
+      },
+      "lg": {
+        "$value": [
+          {
+            "color": "#00000024",
+            "offsetX": "0px",
+            "offsetY": "8px",
+            "blur": "10px",
+            "spread": "1px"
+          },
+          {
+            "color": "#0000001f",
+            "offsetX": "0px",
+            "offsetY": "3px",
+            "blur": "14px",
+            "spread": "2px"
+          },
+          {
+            "color": "#00000033",
+            "offsetX": "0px",
+            "offsetY": "5px",
+            "blur": "5px",
+            "spread": "-3px"
+          }
+        ],
+        "$description": "8 dp: raised cards, menus, and pressed buttons."
+      }
+    },
+    "ease": {
+      "$type": "cubicBezier",
+      "standard": {
+        "$value": [
+          0.4,
+          0,
+          0.2,
+          1
+        ],
+        "$description": "The standard curve: quick acceleration, gentle deceleration."
+      }
+    },
+    "duration": {
+      "$type": "duration",
+      "short": {
+        "$value": "150ms"
+      },
+      "medium": {
+        "$value": "250ms"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.sm}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}",
+          "textTransform": "uppercase"
+        },
+        "$description": "Button labels: Medium 14 px in all capitals."
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "android-5-lollipop-2014",
+      "title": "Android 5.0 Lollipop",
+      "medium": "operating-system",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The first system-wide release of the style. Its settings dialogs show the elevation, accent color, and text-button rules on a working interface.",
+      "page": "references/android-5-lollipop-2014.html",
+      "source": "https://en.wikipedia.org/wiki/Android_Lollipop",
+      "image": "assets/references/android-5-lollipop-2014.jpg",
+      "measurement": "data/measurements/android-5-lollipop-2014.json"
+    },
+    {
+      "id": "angularjs-material-website-2016",
+      "title": "Angular Material (AngularJS) documentation website, 2016",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example of a Material 1 documentation layout: a saturated blue navigation drawer, all-capital medium labels, Material system icons, Roboto, and a header bar that casts a thin shadow. The tiles themselves are flat.",
+      "page": "references/angularjs-material-website-2016.html",
+      "source": "https://material.angularjs.org/latest/",
+      "image": "assets/references/angularjs-material-website-2016.jpg",
+      "measurement": "data/measurements/angularjs-material-website-2016.json"
+    },
+    {
+      "id": "angular-material-v12-website",
+      "title": "Angular Material 12 documentation website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example of Material 2: an indigo primary app bar with a soft shadow, a small white raised button, Roboto throughout, and a pale gray ground. It passes every metric of the fingerprint.",
+      "page": "references/angular-material-v12-website.html",
+      "source": "https://v12.material.angular.io/",
+      "image": "assets/references/angular-material-v12-website.jpg",
+      "measurement": "data/measurements/angular-material-v12-website.json"
+    },
+    {
+      "id": "evernote-android-2015",
+      "title": "Evernote for Android",
+      "medium": "app",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Partial fit, documented only: NN/g names it as Material-style flat 2.0, with shadows on the bar and the action button and a card metaphor.",
+      "page": "references/evernote-android-2015.html",
+      "source": "https://www.nngroup.com/articles/flat-design/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "google-material-theme-2018",
+      "title": "Google Material Theme (Material Design 2)",
+      "medium": "app",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Documents the Material 2 branch of the style, in which white app bars and rounder corners replace the bold primary bar of 2014.",
+      "page": "references/google-material-theme-2018.html",
+      "source": "https://en.wikipedia.org/wiki/Material_Design",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "play-google-com-website-2016",
+      "title": "Google Play store website, 2016",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example of Material 1 on the web: white cards at a low elevation on a pale gray ground, one saturated green for the current section, a blue raised sign-in button, and Roboto. Scrims over the carousel photos add gradients.",
+      "page": "references/play-google-com-website-2016.html",
+      "source": "https://play.google.com/store/apps",
+      "image": "assets/references/play-google-com-website-2016.jpg",
+      "measurement": "data/measurements/play-google-com-website-2016.json"
+    },
+    {
+      "id": "inbox-by-gmail-2014",
+      "title": "Inbox by Gmail",
+      "medium": "app",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example: blue primary app bar, white cards and list rows on pale gray, and a red floating action button in the lower right.",
+      "page": "references/inbox-by-gmail-2014.html",
+      "source": "https://gmail.googleblog.com/2014/10/an-inbox-that-works-for-you.html",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "material-color-palette-2014",
+      "title": "Material Design color palette",
+      "medium": "other",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The palette sets the style’s color grammar: one bold 500 shade for the app bar, a darker 700 for the status bar, and a contrasting accent.",
+      "page": "references/material-color-palette-2014.html",
+      "source": "https://m1.material.io/style/color.html",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "material-design-guidelines-2014",
+      "title": "Material Design guidelines, first edition",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The source document of the style. Its illustrations use the style’s own grammar: flat color, sheets at named heights, soft shadows, and a round action button.",
+      "page": "references/material-design-guidelines-2014.html",
+      "source": "https://m1.material.io/material-design/introduction.html",
+      "image": "assets/references/material-design-guidelines-2014.png",
+      "measurement": "data/measurements/material-design-guidelines-2014.json"
+    },
+    {
+      "id": "material-design-lite-2015",
+      "title": "Material Design Lite",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A Google implementation of the style for the web. Its templates show drawers, cards with soft shadows, tab bars with an accent underline, and Roboto.",
+      "page": "references/material-design-lite-2015.html",
+      "source": "https://github.com/google/material-design-lite",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "material-product-icons-2014",
+      "title": "Material Design product icons",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The imagery facet of the style: product icons use the same paper metaphor as the interface, with flat color, clean folds, and soft light from above.",
+      "page": "references/material-product-icons-2014.html",
+      "source": "https://m1.material.io/style/icons.html",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "material-system-icons-2014",
+      "title": "Material Design system icons",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The standard glyph set of the style. Every Material 1 and 2 app bar, list, and action button uses these icons or ones drawn to the same rules.",
+      "page": "references/material-system-icons-2014.html",
+      "source": "https://m1.material.io/style/icons.html",
+      "image": "assets/references/material-system-icons-2014.png",
+      "measurement": "data/measurements/material-system-icons-2014.json"
+    },
+    {
+      "id": "material-ui-website-2018",
+      "title": "Material-UI website, 2018",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example: a primary blue app bar, a dark snackbar with a soft shadow and an all-capital accent action, Roboto, and an all-capital outlined button. The gray panels below are flat.",
+      "page": "references/material-ui-website-2018.html",
+      "source": "https://material-ui.com/",
+      "image": "assets/references/material-ui-website-2018.jpg",
+      "measurement": "data/measurements/material-ui-website-2018.json"
+    },
+    {
+      "id": "materializecss-website",
+      "title": "Materialize documentation website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example: raised buttons with soft, short shadows, all-capital medium labels, square corners, and one coral primary with a teal secondary. It is a framework’s own documentation, but the page is built with the framework.",
+      "page": "references/materializecss-website.html",
+      "source": "https://materializecss.com/",
+      "image": "assets/references/materializecss-website.jpg",
+      "measurement": "data/measurements/materializecss-website.json"
+    },
+    {
+      "id": "roboto-typeface-2014",
+      "title": "Roboto",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The style’s typeface. The Material 1 and 2 type scale is defined in Roboto, and the 2014 redesign was announced with Material Design.",
+      "page": "references/roboto-typeface-2014.html",
+      "source": "https://en.wikipedia.org/wiki/Roboto",
+      "image": "assets/references/roboto-typeface-2014.png",
+      "measurement": "data/measurements/roboto-typeface-2014.json"
+    },
+    {
+      "id": "vuetify-v1-website",
+      "title": "Vuetify 1.5 documentation website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: white cards on a blue field with soft shadows, all-capital buttons, and Roboto follow the style, but the hero is a vertical blue gradient and the card shadows are larger than Material’s resting elevations.",
+      "page": "references/vuetify-v1-website.html",
+      "source": "https://v15.vuetifyjs.com/en/",
+      "image": "assets/references/vuetify-v1-website.jpg",
+      "measurement": "data/measurements/vuetify-v1-website.json"
+    }
+  ]
+}

@@ -1,0 +1,604 @@
+{
+  "id": "new-wave-typography",
+  "title": "New Wave typography",
+  "order": 23,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Swiss Punk",
+    "Swiss Punk typography",
+    "New Wave (design)",
+    "California New Wave"
+  ],
+  "summary": "Swiss grotesques set loose: wide and uneven letterspacing, stepped and tilted lines, dot screens, and heavy bars.",
+  "lede": "A typographic approach that started at the Basel School of Design around 1968, when Wolfgang Weingart took the tools of the [International Typographic Style](style:international-typographic-style) and broke its grid. Type stays sans-serif, but its spacing, weight, angle, and alignment change inside one composition, and dot screens, rules, and film layers pile up around it. Students such as April Greiman and Dan Friedman took it to the United States.",
+  "moods": [
+    "kinetic",
+    "rebellious",
+    "layered",
+    "experimental",
+    "intuitive"
+  ],
+  "era": {
+    "from": 1968,
+    "to": 1990,
+    "note": "Weingart started to teach typography at Basel in 1968. Greiman’s California work dates from 1976. By about 1990 the Macintosh, Cranbrook, and Emigre carried the ideas into digital and deconstructed typography."
+  },
+  "regions": [
+    "Switzerland",
+    "Germany",
+    "United States"
+  ],
+  "identifiers": {
+    "wikidata": "Q11851144"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: New Wave (design)",
+      "url": "https://en.wikipedia.org/wiki/New_Wave_(design)",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "V&A: Kunsthalle Basel Kunstkredit 76-77, Wolfgang Weingart, 1977 (O1155283)",
+      "url": "https://collections.vam.ac.uk/item/O1155283/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Nedved, “Swiss Punk Style’s Experimental Typography”, JSSD conference, 2011",
+      "url": "https://www.jstage.jst.go.jp/article/jssd/58/0/58_0_95/_article/-char/en",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "designhistory.org: The New Wave of Graphic Design",
+      "url": "http://www.designhistory.org/PostModern_pages/NewWave.html",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "reaction-against",
+      "style": "international-typographic-style",
+      "note": "Wikipedia calls New Wave a reaction to the Swiss Style and records a debate on whether it is a break or a natural next step. Weingart said: “I took ‘Swiss Typography’ as my starting point, but then I blew it apart” (quoted on designhistory.org)."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Punk subculture",
+      "note": "Wikipedia names punk and postmodern language theory as influences. The alias “Swiss Punk” comes from this link. The V&A calls Weingart “the father of the ‘new wave’ or ‘swiss punk’”."
+    },
+    {
+      "relation": "related-to",
+      "style": "memphis",
+      "note": "Both are 1980s postmodern design, and Greiman’s California work shares Memphis’s pastels and floating geometric fragments. Memphis starts from objects and surface pattern. New Wave starts from type."
+    },
+    {
+      "relation": "related-to",
+      "note": "designhistory.org places New Wave before Cranbrook and type deconstruction in its sequence of design after modernism. Grunge typography of the 1990s is rougher, distressed, and digital. New Wave type stays clean and sharp inside a complex layout.",
+      "style": "grunge-typography"
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "type",
+      "term": "Swiss grotesques, set loose.",
+      "text": "Akzidenz-Grotesk, Univers, and Helvetica, as in the Swiss style. The difference is the handling: very wide or uneven letterspacing, several weights inside one word or line, and very large type next to very small type."
+    },
+    {
+      "facet": "layout",
+      "term": "Broken grid.",
+      "text": "Blocks shift off the column lines. Lines of type step down in a staircase, tilt at angles that are not right angles, and change between flush left, flush right, and centered in one composition."
+    },
+    {
+      "facet": "surface",
+      "term": "Dot screens and line screens.",
+      "text": "Coarse halftone dots, ruled line screens, and grey tints fill panels and bars. They come from the film and screen material of offset lithography."
+    },
+    {
+      "facet": "structure",
+      "term": "Layers and overlaps.",
+      "text": "Type, screens, and images overlap. Transparent film layers overprint, so a shape can sit half on top of a headline."
+    },
+    {
+      "facet": "structure",
+      "term": "Heavy rules and small marks.",
+      "text": "Thick black bars, short rules, small squares, and bullets act as punctuation and point the eye through the layout."
+    },
+    {
+      "facet": "color",
+      "term": "Black plus process colors.",
+      "text": "Weingart’s Basel work is mostly black and grey on paper, with cyan, magenta, or yellow film layers. Greiman’s California work adds pastels such as pink, turquoise, and lavender."
+    },
+    {
+      "facet": "imagery",
+      "term": "Collage of fragments.",
+      "text": "Cut-up photographs, geometric forms, and printed textures combined in one field. In the 1980s this moves to video stills and early Macintosh bitmaps."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Sans-serif type with visibly wide or uneven letterspacing in headings or labels.",
+      "Weight or size changes inside one word or one line.",
+      "Lines of type that step, tilt, or change alignment inside one layout.",
+      "Halftone dot screens, line screens, or grey tints used as surfaces.",
+      "Thick bars, rules, and small squares used as punctuation among overlapping layers."
+    ],
+    "counter": [
+      "Every block sits on one visible grid and every line is flush left.",
+      "Serif, script, or decorative display faces carry the message.",
+      "Rounded corners, soft shadows, or glossy gradients.",
+      "Rough, distressed, or photocopied letterforms, which point to grunge typography."
+    ],
+    "confusions": [
+      {
+        "with": "international-typographic-style",
+        "difference": "The Swiss style keeps one grid, even letterspacing, and flush-left lines. New Wave uses the same typefaces but breaks the grid: it steps and tilts lines, spaces letters widely and unevenly, and layers dot screens and bars."
+      },
+      {
+        "with": "memphis",
+        "difference": "Memphis fills surfaces with squiggles, terrazzo, and bright solid shapes, and type is secondary. New Wave is led by type, and its textures are print screens, not decorative patterns."
+      },
+      {
+        "with": "constructivism",
+        "difference": "Constructivism uses heavy capitals, red and black, and diagonal wedges for a political message. New Wave mixes cases and weights, spaces letters out, and adds halftone screens and film layers."
+      },
+      {
+        "with": "grunge-typography",
+        "difference": "Grunge type of the 1990s is distressed, blurred, and often unreadable, with damaged letterforms. New Wave letterforms stay clean and sharp. Only their spacing, angle, and position change."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Neo-brutalism uses thick outlines, hard offset shadows, and flat bright fills on web components. New Wave has no shadows. Its bars and screens are print marks, and letterspacing does the expressive work."
+      },
+      {
+        "with": "pop-art",
+        "difference": "Pop art enlarges Ben-Day dots in bright primaries inside comic and advertising images with bold outlines. New Wave dot screens are black or grey print texture behind and beside letterspaced grotesque type, and there is no cartoon imagery."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use one grotesque sans-serif family. Change its weight, size, and letterspacing inside headings.",
+      "Set headings and labels with wide letterspacing, from 0.2em to 0.5em, and keep the display line tight.",
+      "Break the grid in a few places: indent lines in steps, rotate a label or number, and change the alignment of one block.",
+      "Fill panels and bars with dot screens or line screens made from repeating gradients.",
+      "Add thick black bars and small squares as punctuation.",
+      "Let a screen or color block overlap part of a heading.",
+      "Keep body text flush left and readable. Put the disorder in display type and structure."
+    ],
+    "dont": [
+      "Do not use rounded corners, soft shadows, or glossy gradients.",
+      "Do not use serif, script, or decorative display faces.",
+      "Do not distress, blur, or break the letterforms themselves.",
+      "Do not rotate or overlap body text, form fields, or table data.",
+      "Do not align everything to one grid."
+    ],
+    "uses": [
+      "Cultural posters and event sites",
+      "Design school and studio sites",
+      "Music and club promotion",
+      "Magazine and journal covers",
+      "Exhibition identities"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.patternShare",
+      "min": 0.1,
+      "note": "Positive marker. Dot screens and line screens fill panels, bars, and cells. Provisional until real references are measured."
+    },
+    {
+      "metric": "type.headingTracking",
+      "min": 0.08,
+      "note": "Positive marker. Display type and statements are letterspaced wide. Provisional: tight display lines lower the median on some works."
+    },
+    {
+      "metric": "type.centerShare",
+      "min": 0.06,
+      "max": 0.6,
+      "note": "Positive marker. Alignment changes inside one layout, so some text is centered but most is not. Provisional. The metric does not see flush-right text."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Corners are square. Provisional."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "No shadows. Depth comes from overlapping layers and overprints. Provisional."
+    },
+    {
+      "metric": "type.monoShare",
+      "max": 0.1,
+      "note": "One grotesque family. Typewriter and monospaced faces point to grunge typography or Minimalist Machine. Provisional."
+    }
+  ],
+  "synthesis": [
+    "Weingart’s Basel print defines the style: the [TM covers of 1972–73](ref:weingart-typografische-monatsblatter-covers-1972-1973) set Akzidenz-Grotesk in steps, arcs, and very wide letterspacing inside a fixed frame; the [December 1976 TM issue](ref:weingart-tm-special-issue-1976) and the [Nine Collages poster](ref:weingart-nine-collages-poster-1974) add film collage; the [Kunstkredit poster](ref:weingart-kunsthalle-basel-kunstkredit-poster-1977) shows the full layered form.",
+    "Greiman carried it to California and added colour and depth: [Vertigo business cards](ref:greiman-vertigo-business-cards-1980), [China Club sign](ref:greiman-china-club-sign-1980), and the [Your Turn My Turn poster](ref:greiman-your-turn-my-turn-poster-1983). Her [Sci-Arc poster](ref:greiman-sci-arc-changing-concepts-poster-1986), [Design Quarterly 133](ref:greiman-design-quarterly-133-1986), and [Pacific Wave](ref:greiman-pacific-wave-poster-1987) move to Macintosh bitmaps and mark the end of the period. Katherine McCoy’s [Cranbrook poster](ref:mccoy-cranbrook-graduate-program-poster-1989) shows the American academic branch just before deconstruction.",
+    "Two observations qualify the fingerprint. Wide letterspacing is common but not universal: the [Kunstkredit poster](ref:weingart-kunsthalle-basel-kunstkredit-poster-1977) keeps its display lines tight and gets its disorder from cut blocks and overlap. Monospaced and slab type appear in the digital works, such as [Design Quarterly 133](ref:greiman-design-quarterly-133-1986), so a small monospaced share is not a counter-sign by itself. These are print observations, not measurements; no fingerprint range was changed.",
+    "No website was kept. About 45 candidates were tried on 28 September 2026 and 36 rendered: studios and schools linked to the style (April Greiman’s current site and Wayback copies from 1998, 2002, and 2003, Willi Kunz, SCI-Arc, Cranbrook, Basel schools, the TM Research Archive), Swiss studios and venues with experimental typography, and student essay sites about Weingart. None uses the grammar in its own HTML: most are plain grids or photography, and one Weingart essay site puts the style only in a hero image above serif body text. The fingerprint is still uncalibrated against real pages."
+  ],
+  "page": "new-wave-typography.html",
+  "implementation": {
+    "tokens": "implementations/new-wave-typography/tokens.json",
+    "css": "implementations/new-wave-typography/tokens.css",
+    "tailwind": "implementations/new-wave-typography/tailwind.css",
+    "shadcn": "implementations/new-wave-typography/shadcn.css",
+    "registry": "implementations/new-wave-typography/registry-item.json",
+    "designMd": "implementations/new-wave-typography/DESIGN.md",
+    "specimen": "implementations/new-wave-typography/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for new-wave-typography. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#f1efe9",
+        "$description": "Uncoated offset paper."
+      },
+      "surface": {
+        "$value": "#f1efe9"
+      },
+      "subtle": {
+        "$value": "#d9d6ce",
+        "$description": "Grey screen tint."
+      },
+      "text": {
+        "$value": "#111111"
+      },
+      "muted": {
+        "$value": "#4a4a48"
+      },
+      "border": {
+        "$value": "#111111"
+      },
+      "primary": {
+        "$value": "#e4007c",
+        "$description": "Process magenta: an overprinted film layer."
+      },
+      "on-primary": {
+        "$value": "#ffffff"
+      },
+      "secondary": {
+        "$value": "#0094d4",
+        "$description": "Process cyan: a second film layer."
+      },
+      "on-secondary": {
+        "$value": "#111111"
+      },
+      "accent": {
+        "$value": "#ffe000",
+        "$description": "Process yellow, used in small bars."
+      },
+      "on-accent": {
+        "$value": "#111111"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial Black",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 900
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "11px"
+      },
+      "sm": {
+        "$value": "13px"
+      },
+      "base": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "20px"
+      },
+      "xl": {
+        "$value": "28px"
+      },
+      "2xl": {
+        "$value": "40px"
+      },
+      "3xl": {
+        "$value": "60px"
+      },
+      "4xl": {
+        "$value": "96px"
+      },
+      "5xl": {
+        "$value": "150px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.86
+      },
+      "body": {
+        "$value": 1.45
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.04,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.3,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.5,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "2px"
+      },
+      "thick": {
+        "$value": "14px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "104px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "weingart-tm-special-issue-1976",
+      "title": "“Ist diese Typografie noch zu retten?”, TM special issue",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example. It shows the style’s film collage and the banded, struck-through text at the scale of a whole issue.",
+      "page": "references/weingart-tm-special-issue-1976.html",
+      "source": "https://letterformarchive.org/news/from-the-collection-legacies-of-swiss-style-part-2-wolfgang-weingart/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "greiman-china-club-sign-1980",
+      "title": "China Club sign and invitation",
+      "medium": "signage",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example of the style in three dimensions: spaced letters, a doubled offset layer, bars, and loose geometric marks, carried into neon and a die-cut card.",
+      "page": "references/greiman-china-club-sign-1980.html",
+      "source": "https://peoplesgdarchive.org/item/4146/signage-for-china-club",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "mccoy-cranbrook-graduate-program-poster-1989",
+      "title": "Cranbrook Graduate Program in Design poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example of the American academic branch: letterspacing, weight changes inside words, layers, and bars, used to carry an argument about reading.",
+      "page": "references/mccoy-cranbrook-graduate-program-poster-1989.html",
+      "source": "https://collections.vam.ac.uk/item/O120192/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "greiman-design-quarterly-133-1986",
+      "title": "Design Quarterly 133: “Does It Make Sense?”",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example of the style’s move to the computer: layered fragments, spaced lines of type, and bars, made in MacDraw.",
+      "page": "references/greiman-design-quarterly-133-1986.html",
+      "source": "https://peoplesgdarchive.org/item/1804/does-it-make-sense-design-quarterly-133",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "weingart-kunsthalle-basel-kunstkredit-poster-1977",
+      "title": "Kunsthalle Basel Kunstkredit 76-77 poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example by the style’s founder. The V&A calls this poster an example of Weingart’s “new wave” or “swiss punk” style.",
+      "page": "references/weingart-kunsthalle-basel-kunstkredit-poster-1977.html",
+      "source": "https://collections.vam.ac.uk/item/O1155283/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "weingart-nine-collages-poster-1974",
+      "title": "Nine Collages: The New Graphics by Weingart",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example. The small collages collect the style’s marks: spaced letters, stepped lines, dot fields, heavy bars, and halftone fragments.",
+      "page": "references/weingart-nine-collages-poster-1974.html",
+      "source": "https://letterformarchive.org/news/from-the-collection-legacies-of-swiss-style-part-2-wolfgang-weingart/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "greiman-pacific-wave-poster-1987",
+      "title": "Pacific Wave, Museo Fortuny poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the tilted type, gradient bars, and layered fields belong to the style, but the letters are rough bitmaps and type plays a small part.",
+      "page": "references/greiman-pacific-wave-poster-1987.html",
+      "source": "https://collections.vam.ac.uk/item/O1176678/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "greiman-sci-arc-changing-concepts-poster-1986",
+      "title": "Sci-Arc “Changing Concepts” poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example from the late, digital phase: letterspacing, weight changes inside a phrase, dot screens, and overlapping panels, with early bitmap letters.",
+      "page": "references/greiman-sci-arc-changing-concepts-poster-1986.html",
+      "source": "https://collections.vam.ac.uk/item/O1176682/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "weingart-typografische-monatsblatter-covers-1972-1973",
+      "title": "Typografische Monatsblätter covers, 1972–1973",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example. The covers are the first public statement of the style, and Letterform Archive connects them with the name “Swiss Punk”.",
+      "page": "references/weingart-typografische-monatsblatter-covers-1972-1973.html",
+      "source": "https://letterformarchive.org/news/from-the-collection-legacies-of-swiss-style-part-2-wolfgang-weingart/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "greiman-vertigo-business-cards-1980",
+      "title": "Vertigo business cards",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example of Greiman’s California New Wave at the scale of stationery: wide letterspacing, tilted bars, and scattered geometric marks.",
+      "page": "references/greiman-vertigo-business-cards-1980.html",
+      "source": "https://peoplesgdarchive.org/item/3133/vertigo-business-cards",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "greiman-your-turn-my-turn-poster-1983",
+      "title": "Your Turn My Turn poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example. It has almost every trait in the rubric: tilted and stepped lines, dot screens, overlapping layers, wedges and bars, and spaced numerals.",
+      "page": "references/greiman-your-turn-my-turn-poster-1983.html",
+      "source": "https://peoplesgdarchive.org/item/738/your-turn-my-turn-pacific-design-center-event",
+      "image": null,
+      "measurement": null
+    }
+  ]
+}

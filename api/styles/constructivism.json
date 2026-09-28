@@ -1,0 +1,663 @@
+{
+  "id": "constructivism",
+  "title": "Constructivism",
+  "order": 9,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Russian Constructivism",
+    "Soviet Constructivism",
+    "Constructivist",
+    "Constructivist graphic design"
+  ],
+  "summary": "Red and black, heavy capitals, and diagonal bars. The poster as a tool of agitation.",
+  "lede": "The graphic design of Russian and Soviet Constructivism (about 1919–1934): posters, books, and magazines built from red and black on paper, heavy sans-serif capitals, diagonal bars and wedges, and photomontage. The movement also covers sculpture and architecture. This record covers its printed work and treats the other branches as related styles.",
+  "moods": [
+    "agitational",
+    "dynamic",
+    "urgent",
+    "industrial",
+    "bold"
+  ],
+  "era": {
+    "from": 1919,
+    "to": 1934,
+    "note": "From El Lissitzky’s Red Wedge poster (1919) to the official adoption of Socialist Realism (about 1934). The movement itself dates from about 1915."
+  },
+  "regions": [
+    "Russia",
+    "Soviet Union"
+  ],
+  "identifiers": {
+    "wikidata": "Q207103",
+    "aat": "300021393"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Constructivism (art), section Graphic design",
+      "url": "https://en.wikipedia.org/wiki/Constructivism_(art)",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Getty AAT 300021393: Constructivist",
+      "url": "https://vocab.getty.edu/page/aat/300021393",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Tate: Constructivism (art term)",
+      "url": "https://www.tate.org.uk/art/art-terms/c/constructivism",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "MoMA: Constructivism (art term)",
+      "url": "https://www.moma.org/collection/terms/constructivism",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Suprematism",
+      "wikidata": "Q191970",
+      "note": "Wikipedia states that Constructivism’s geometric abstraction “owed something to the Suprematism of Kazimir Malevich”. Lissitzky made the Red Wedge poster (1919) in Malevich’s UNOVIS group in Vitebsk."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Cubism",
+      "wikidata": "Q42934",
+      "note": "Wikidata lists Cubism as an influence (P737). Tate records that Tatlin saw Picasso’s cubist constructions in Paris in 1913 and then made abstract constructions from industrial materials."
+    },
+    {
+      "relation": "related-to",
+      "label": "Constructivist architecture",
+      "wikidata": "Q841977",
+      "note": "The architectural branch of the same movement. This record covers the printed work only."
+    },
+    {
+      "relation": "related-to",
+      "style": "bauhaus",
+      "note": "The Wikipedia infobox lists Bauhaus as indirectly influenced. László Moholy-Nagy took part in the Constructivist International of 1922 and brought constructivist photomontage and typography to the Bauhaus in 1923."
+    },
+    {
+      "relation": "related-to",
+      "style": "international-typographic-style",
+      "note": "Wikipedia names the book designs of Rodchenko and Lissitzky as a major inspiration for Jan Tschichold. His New Typography is commonly read as a source of the later Swiss style."
+    },
+    {
+      "relation": "related-to",
+      "note": "The Constructivist International met with De Stijl artists in Germany in 1922, according to Wikipedia.",
+      "style": "de-stijl"
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Red and black on paper.",
+      "text": "Red and black printed on the paper color, sometimes with a darker red or a screened tint of black. A third hue is rare. The Stenberg brothers’ film posters are the colorful exception."
+    },
+    {
+      "facet": "layout",
+      "term": "Diagonal thrust.",
+      "text": "Lines of type, bars, and wedges run at steep angles and cross the page. The composition moves toward one point instead of resting on a grid."
+    },
+    {
+      "facet": "type",
+      "term": "Heavy block capitals.",
+      "text": "Bold sans-serif capitals, often drawn by hand and condensed. Words are stacked, enlarged, turned on the diagonal, or set vertically."
+    },
+    {
+      "facet": "structure",
+      "term": "Bars, wedges, and circles.",
+      "text": "Thick rules, triangular wedges, and circles are active parts of the message, as in Lissitzky’s Red Wedge, not decoration."
+    },
+    {
+      "facet": "imagery",
+      "term": "Photomontage.",
+      "text": "Black-and-white photographs are cut out and combined with type and flat shapes, often at extreme angles (Rodchenko, Klutsis, Kulagina)."
+    },
+    {
+      "facet": "surface",
+      "term": "Flat print.",
+      "text": "Solid ink areas from letterpress and lithography. No gradients, shadows, or ornament."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Red and black dominate on a light paper ground.",
+      "At least one major element (a line of type, a bar, or a wedge) runs on a diagonal.",
+      "Headlines are heavy sans-serif capitals, often stacked or rotated.",
+      "Photographs are black and white and cut out, combined with type and flat shapes."
+    ],
+    "counter": [
+      "Three or more strong hues, for example a primary triad.",
+      "A calm, strictly orthogonal grid with no diagonals.",
+      "Serif, script, or ornamental letterforms carry the message.",
+      "Gradients, soft shadows, rounded corners, or ornament.",
+      "Painted, figurative illustration without geometry (Socialist Realism)."
+    ],
+    "confusions": [
+      {
+        "with": "bauhaus",
+        "difference": "Bauhaus uses the primary triad, elementary shapes, and often lowercase type. Constructivism is mostly red and black, uses capitals, and depends on diagonals and photomontage. Late Bauhaus print borrowed from Constructivism, so some pieces sit between the two."
+      },
+      {
+        "with": "international-typographic-style",
+        "difference": "The Swiss style is calm and orthogonal, with a strict grid, sentence-case grotesque type, and much white space. Constructivism is loud: diagonals, capitals, and large red fields."
+      },
+      {
+        "with": "de-stijl",
+        "difference": "De Stijl allows only horizontal and vertical lines and uses the primaries. Constructivism is built on diagonals and uses red and black."
+      },
+      {
+        "with": "art-deco",
+        "difference": "Art Deco posters (Cassandre) also use diagonals and bold sans-serif type, but add airbrushed gradients, symmetry, metallic color, and ornament."
+      },
+      {
+        "with": "Socialist Realism",
+        "difference": "Soviet posters after about 1934 use painted, figurative illustration. Constructivist posters use geometry, type, and photomontage."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a paper-colored ground with red and black as the only strong colors.",
+      "Set headings in heavy condensed sans-serif capitals. Stack words and use a steep scale contrast.",
+      "Put at least one element on a diagonal: a red wedge, a black bar, or a rotated heading or label.",
+      "Use large solid red fields for the elements that need the most emphasis, such as the hero, a quote, or the featured offer.",
+      "Use thick black bars and rules to direct the eye across the page.",
+      "When a page needs images, use black-and-white photographs, cut out and combined with type."
+    ],
+    "dont": [
+      "Do not add a third strong hue such as yellow or blue. The page then reads as Bauhaus or De Stijl.",
+      "Do not use gradients, soft shadows, rounded corners, or ornament.",
+      "Do not rotate body text. Rotate headings, labels, and shapes only.",
+      "Do not use Soviet emblems such as the hammer and sickle or the red star as decoration. They carry political meaning.",
+      "Do not imitate Cyrillic with Latin letters, for example a reversed R for Я."
+    ],
+    "uses": [
+      "Event and festival posters",
+      "Editorial and magazine covers",
+      "Campaign and activist sites",
+      "Theatre and film",
+      "Exhibitions about the avant-garde"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.hues",
+      "min": 1,
+      "max": 1,
+      "note": "Positive marker: red is the one strong hue; black, paper, and tints do not count. A second hue points to Pop Art, a triad to Bauhaus or De Stijl. Checked on 28 September 2026: image measurements find exactly one hue in all six stored print references and in all three kept website captures. The Stenberg brothers’ multicolor film posters are the documented exception and fall outside this range."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "min": 0.08,
+      "max": 0.6,
+      "note": "Positive marker: red covers real area as bands, wedges, and blocks, not only as an accent line. Print references measure 0.05–0.12 on paper grounds; the red-ground Veshch cover measures 0.69, above the maximum. Websites from before about 2010 draw their red bars as images, which computed styles do not see. Not recalibrated: only one clear website capture exists. Provisional."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "min": 0.35,
+      "note": "Positive marker: headings, labels, buttons, and slogans are set in capitals. The kept 2006 and 2010 captures set their capitals in images, so they measure 0.06–0.11. Provisional: set from the specimen; too few clear captures to recalibrate."
+    },
+    {
+      "metric": "type.headingWeight",
+      "min": 700,
+      "note": "Positive marker: headings are heavy block letters. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Flat printed ink."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 1,
+      "note": "Corners are square. Circles appear as shapes."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "No depth effects."
+    }
+  ],
+  "synthesis": [
+    "El Lissitzky’s printed work defines the grammar: the [Red Wedge poster](ref:lissitzky-beat-the-whites-red-wedge-poster), the [Veshch cover](ref:lissitzky-veshch-cover-1922), [About Two Squares](ref:lissitzky-about-two-squares-1922), and [Dlia golosa](ref:lissitzky-dlia-golosa-1923) share one red, black, paper, a steep bar or wedge, a circle, and letters built from bars. Rodchenko’s [Lef cover](ref:rodchenko-lef-journal-cover-1924) shows the same palette without a diagonal.",
+    "Photomontage takes over after about 1924: Lissitzky’s [Zurich poster](ref:lissitzky-russische-ausstellung-poster-1929), Klutsis’s [election poster](ref:klutsis-everyone-vote-poster-1930), and Kulagina’s [1905 poster](ref:kulagina-1905-road-to-october-poster) cut black-and-white photographs into red fields and diagonals. The [Stenberg film poster](ref:stenberg-man-with-a-movie-camera-poster-1929) keeps the rotation and capitals but is multicolored, the style’s known exception.",
+    "The textiles of [Popova](ref:popova-stars-in-circles-textile-design) and [Stepanova](ref:stepanova-printed-flannel-1924) carry the geometry into industrial production without type. Stepanova’s swatch uses a muted red and olive, so the strict red-and-black rule belongs to print.",
+    "Image measurements support `color.hues = 1`: all six stored print references measure one hue. Chromatic area ranges from 5% on paper grounds to 69% on the red-ground [Veshch cover](ref:lissitzky-veshch-cover-1922), so full red fields, as in Klutsis, exceed the website range.",
+    "Real websites in the style are rare. The clearest is the [Franz Ferdinand site of 2006](ref:franz-ferdinand-website-2006), made for the band’s Rodchenko-based album; Shepard Fairey’s [Obey Giant](ref:obeygiant-website) and its [2010 version](ref:obeygiant-website-2010) are borderline. The two older sites draw their red bars and capitals as images, so the computed fingerprint fails them on `color.chromaticShare` and `type.uppercaseShare`; judge them by the rubric. About 35 other sites were captured and dropped: theatres, museums, publishers, and left-wing media with a red accent but no constructivist composition."
+  ],
+  "page": "constructivism.html",
+  "implementation": {
+    "tokens": "implementations/constructivism/tokens.json",
+    "css": "implementations/constructivism/tokens.css",
+    "tailwind": "implementations/constructivism/tailwind.css",
+    "shadcn": "implementations/constructivism/shadcn.css",
+    "registry": "implementations/constructivism/registry-item.json",
+    "designMd": "implementations/constructivism/DESIGN.md",
+    "specimen": "implementations/constructivism/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for constructivism. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#eee6d6",
+        "$description": "Unprinted paper."
+      },
+      "surface": {
+        "$value": "#eee6d6"
+      },
+      "subtle": {
+        "$value": "#d6c9b1",
+        "$description": "Screened tint of black on paper, used for panels and rows."
+      },
+      "text": {
+        "$value": "#161412"
+      },
+      "muted": {
+        "$value": "#4b4540"
+      },
+      "border": {
+        "$value": "#161412"
+      },
+      "primary": {
+        "$value": "#d2231b",
+        "$description": "Poster red, the one strong hue."
+      },
+      "on-primary": {
+        "$value": "#f7f0e3"
+      },
+      "secondary": {
+        "$value": "#161412",
+        "$description": "Printing black: the second color of most posters."
+      },
+      "on-secondary": {
+        "$value": "#eee6d6"
+      },
+      "accent": {
+        "$value": "#9c1b14",
+        "$description": "Dark red for a second tone of the same hue, not a new hue."
+      },
+      "on-accent": {
+        "$value": "#f7f0e3"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Avenir Next Condensed",
+          "DIN Condensed",
+          "Impact",
+          "Haettenschweiler",
+          "Arial Narrow",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Avenir Next Condensed",
+          "DIN Condensed",
+          "Arial Narrow",
+          "sans-serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 800
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "21px"
+      },
+      "xl": {
+        "$value": "30px"
+      },
+      "2xl": {
+        "$value": "44px"
+      },
+      "3xl": {
+        "$value": "64px"
+      },
+      "4xl": {
+        "$value": "104px"
+      },
+      "5xl": {
+        "$value": "168px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.86
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.08,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "3px"
+      },
+      "thick": {
+        "$value": "14px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "104px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "kulagina-1905-road-to-october-poster",
+      "title": "1905: The Road to October",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A late constructivist photomontage poster by one of the style’s women designers: red and black, a steep diagonal, photographs cut into flat shapes, and block capitals.",
+      "page": "references/kulagina-1905-road-to-october-poster.html",
+      "source": "https://collections.vam.ac.uk/item/O76004/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "lissitzky-about-two-squares-1922",
+      "title": "About Two Squares",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: a Suprematist tale from the UNOVIS circle that became a model for constructivist book design. It has the red and black, the elementary shapes, and the rotated type, but it is calm and sparse rather than agitational.",
+      "page": "references/lissitzky-about-two-squares-1922.html",
+      "source": "https://www.ibiblio.org/eldritch/el/pro.html",
+      "image": "assets/references/lissitzky-about-two-squares-1922.jpg",
+      "measurement": "data/measurements/lissitzky-about-two-squares-1922.json"
+    },
+    {
+      "id": "lissitzky-beat-the-whites-red-wedge-poster",
+      "title": "Beat the Whites with the Red Wedge",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The founding image of the style’s graphic language: red and black on paper, a diagonal wedge, a circle, and rotated block capitals.",
+      "page": "references/lissitzky-beat-the-whites-red-wedge-poster.html",
+      "source": "https://dlib.rsl.ru/viewer/01004879579#?page=1",
+      "image": "assets/references/lissitzky-beat-the-whites-red-wedge-poster.jpg",
+      "measurement": "data/measurements/lissitzky-beat-the-whites-red-wedge-poster.json"
+    },
+    {
+      "id": "lissitzky-dlia-golosa-1923",
+      "title": "Dlia golosa (For the Voice)",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The canonical constructivist book: red and black type material, stacked heavy capitals, a diagonal bar, and pictures built from rules.",
+      "page": "references/lissitzky-dlia-golosa-1923.html",
+      "source": "https://josefchladek.com/book/el_lissitzky_vladimir_mayakovsky_-_dlia_golosa",
+      "image": "assets/references/lissitzky-dlia-golosa-1923.jpg",
+      "measurement": "data/measurements/lissitzky-dlia-golosa-1923.json"
+    },
+    {
+      "id": "franz-ferdinand-website-2006",
+      "title": "Franz Ferdinand website, 2006",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear in its frame, generic in its content: the header, the section bars, and the left border use red and black, a diagonal, and capitals. The news text is ordinary small Arial. The band based the album cover of the time on Rodchenko’s Lengiz poster.",
+      "page": "references/franz-ferdinand-website-2006.html",
+      "source": "http://www.franzferdinand.co.uk/",
+      "image": "assets/references/franz-ferdinand-website-2006.jpg",
+      "measurement": "data/measurements/franz-ferdinand-website-2006.json"
+    },
+    {
+      "id": "rodchenko-lef-journal-cover-1924",
+      "title": "Lef journal, issue 4",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical constructivist journal cover: red and black on paper, giant block capitals, a heavy black bar, and stepped text.",
+      "page": "references/rodchenko-lef-journal-cover-1924.html",
+      "source": "https://www.artic.edu/artworks/199233",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "rodchenko-lengiz-books-poster-1924",
+      "title": "Lengiz “Books” poster",
+      "medium": "poster",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The best-known constructivist advertisement: a cut-out photograph joined with geometric type, used here to promote reading.",
+      "page": "references/rodchenko-lengiz-books-poster-1924.html",
+      "source": "https://en.wikipedia.org/wiki/Alexander_Rodchenko",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "stenberg-man-with-a-movie-camera-poster-1929",
+      "title": "Man with a Movie Camera poster",
+      "medium": "poster",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Partial fit: a canonical constructivist film poster in its composition and lettering, but it is the colorful exception the style record names. It uses several hues and drawn, tonal imagery.",
+      "page": "references/stenberg-man-with-a-movie-camera-poster-1929.html",
+      "source": "https://cdm15851.contentdm.oclc.org/digital/collection/p15851coll19/id/33/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "obeygiant-website",
+      "title": "Obey Giant website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: a contemporary propaganda aesthetic that Wikipedia traces to Russian Constructivism. The hero has the red field, white capitals, and black-and-white photograph, but no diagonal, and the featured mural brings in several hues.",
+      "page": "references/obeygiant-website.html",
+      "source": "https://obeygiant.com/",
+      "image": "assets/references/obeygiant-website.jpg",
+      "measurement": "data/measurements/obeygiant-website.json"
+    },
+    {
+      "id": "obeygiant-website-2010",
+      "title": "Obey Giant website, 2010",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: red, black, and white only, with capitals and slanted tabs, but on a black page with small body text and no large diagonal composition. See the live site.",
+      "page": "references/obeygiant-website-2010.html",
+      "source": "http://obeygiant.com/",
+      "image": "assets/references/obeygiant-website-2010.jpg",
+      "measurement": "data/measurements/obeygiant-website-2010.json"
+    },
+    {
+      "id": "stepanova-printed-flannel-1924",
+      "title": "Printed flannel with chevrons",
+      "medium": "textile",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: a productivist textile from the constructivist circle. It shares the flat, repeated geometry and diagonal movement, but it uses two muted hues instead of red and black and has no type.",
+      "page": "references/stepanova-printed-flannel-1924.html",
+      "source": "https://collections.vam.ac.uk/item/O1371413/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "popova-stars-in-circles-textile-design",
+      "title": "Textile design with stars in circles",
+      "medium": "textile",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: constructivist textile design, the branch that applied the style to industrial production. It keeps the red-and-black palette and elementary shapes but has no type and no diagonal composition.",
+      "page": "references/popova-stars-in-circles-textile-design.html",
+      "source": "https://www.wikidata.org/wiki/Q65965662",
+      "image": "assets/references/popova-stars-in-circles-textile-design.jpg",
+      "measurement": "data/measurements/popova-stars-in-circles-textile-design.json"
+    },
+    {
+      "id": "lissitzky-russische-ausstellung-poster-1929",
+      "title": "USSR Russische Ausstellung poster, Zurich",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical constructivist photomontage poster: black-and-white photographs cut and combined with red block capitals, a red bar, and a diagonal architectural fragment.",
+      "page": "references/lissitzky-russische-ausstellung-poster-1929.html",
+      "source": "https://www.recherche-plakatsammlungbasel.ch/objects/6370",
+      "image": "assets/references/lissitzky-russische-ausstellung-poster-1929.jpg",
+      "measurement": "data/measurements/lissitzky-russische-ausstellung-poster-1929.json"
+    },
+    {
+      "id": "lissitzky-veshch-cover-1922",
+      "title": "Veshch/Gegenstand/Objet cover, issue 1–2",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical constructivist cover: a steep black bar, a circle, and letters built from bars and blocks. It inverts the usual palette and prints black on a red ground.",
+      "page": "references/lissitzky-veshch-cover-1922.html",
+      "source": "https://en.wikipedia.org/wiki/Veshch%27/Gegenstand/Objet",
+      "image": "assets/references/lissitzky-veshch-cover-1922.jpg",
+      "measurement": "data/measurements/lissitzky-veshch-cover-1922.json"
+    },
+    {
+      "id": "klutsis-everyone-vote-poster-1930",
+      "title": "Worker Men and Women: Everyone Vote in the Soviet Elections",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical Klutsis photomontage poster: one red field, cut-out black-and-white photographs, and heavy condensed capitals on the diagonal.",
+      "page": "references/klutsis-everyone-vote-poster-1930.html",
+      "source": "https://www.artic.edu/artworks/199171",
+      "image": null,
+      "measurement": null
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+/* Vienna Secession specimen. Uses tokens.css. Black and white on paper with a little gold, a central axis, squares, and checkerboard bands. */
+* { box-sizing: border-box; }
+body { max-width: 1080px; margin: 0 auto; padding: 0 5%; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); line-height: var(--leading-body); text-align: center; }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--color-accent); outline-offset: 4px; }
+.specimen-back { margin: 0; padding: var(--spacing-sm) 0; font-size: var(--text-xs); }
+h1, h2, h3, .logo, .kicker, .button, button, th, dt, dd, label, .card-number, .price, .quote footer, .site-header nav a { font-family: var(--font-display); font-weight: var(--font-weight-bold); letter-spacing: var(--tracking-heading); text-transform: uppercase; }
+
+/* Checkerboard bands are real element backgrounds: a paper layer covers all but one edge of the checker layer. */
+.site-header { display: flex; flex-direction: column; align-items: center; gap: var(--spacing-sm); padding: var(--spacing-md) 0 calc(var(--spacing-md) + 12px); background: linear-gradient(var(--color-bg), var(--color-bg)) top / 100% calc(100% - 12px) no-repeat, repeating-conic-gradient(var(--color-primary) 0 25%, var(--color-secondary) 0 50%) 0 0 / 12px 12px; }
+.logo { display: inline-block; padding: 10px 18px 8px; background: var(--color-primary); color: var(--color-on-primary); font-size: var(--text-xl); line-height: 1; text-decoration: none; }
+.site-header nav { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--spacing-lg); }
+.site-header nav a { font-size: var(--text-sm); letter-spacing: var(--tracking-label); text-decoration: none; }
+.site-header nav a:hover { color: var(--color-accent); }
+
+/* The hero is a framed square field: a checker border band around a paper panel, all on one element. */
+.hero { margin: var(--spacing-lg) 0 0; padding: calc(var(--spacing-lg) + 24px) calc(var(--spacing-lg) + 16px); border: var(--border-width-thin) solid var(--color-border); outline: var(--border-width-thin) solid var(--color-border); outline-offset: -26px; background: linear-gradient(var(--color-bg), var(--color-bg)) center / calc(100% - 32px) calc(100% - 32px) no-repeat, repeating-conic-gradient(var(--color-primary) 0 25%, var(--color-secondary) 0 50%) 0 0 / 16px 16px; }
+.kicker { display: inline-block; margin: 0 0 var(--spacing-md); padding: 4px 0; border-top: var(--border-width-thin) solid var(--color-border); border-bottom: var(--border-width-thin) solid var(--color-border); font-size: var(--text-sm); letter-spacing: var(--tracking-label); }
+/* Capitals packed into a block, as Moser and Roller drew them: tight tracking and leading. */
+h1 { margin: 0 auto; max-width: 9ch; font-size: clamp(52px, 10vw, var(--text-5xl)); font-weight: var(--font-weight-display); line-height: var(--leading-tight); letter-spacing: var(--tracking-display); }
+h1 span { display: block; color: var(--color-accent); }
+.lede { max-width: 34ch; margin: var(--spacing-md) auto var(--spacing-lg); font-size: var(--text-lg); }
+.actions { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--spacing-sm); margin: 0 0 var(--spacing-lg); }
+.button, button { display: inline-block; padding: 13px 26px 11px; border: var(--border-width-thin) solid var(--color-border); border-radius: var(--radius-md); background: var(--color-primary); color: var(--color-on-primary); font-size: var(--text-sm); letter-spacing: var(--tracking-label); text-decoration: none; cursor: pointer; }
+.button:hover, button:hover { background: var(--color-accent); color: var(--color-on-accent); }
+.button-secondary { background: var(--color-surface); color: var(--color-text); }
+.facts { display: flex; justify-content: center; gap: var(--spacing-sm); margin: 0; }
+/* Each fact is a true square with a thin outline, the module of the style. */
+.facts div { display: flex; flex-direction: column; justify-content: center; width: 104px; aspect-ratio: 1; border: var(--border-width-thin) solid var(--color-border); background: var(--color-surface); }
+dt { font-size: var(--text-xs); letter-spacing: var(--tracking-label); color: var(--color-muted); }
+dd { margin: 0; font-size: var(--text-3xl); line-height: 1; }
+
+h2 { margin: var(--spacing-xl) 0 var(--spacing-lg); font-size: var(--text-2xl); font-weight: var(--font-weight-bold); line-height: var(--leading-tight); }
+/* Three small squares over each heading, the Werkstätte motif; the middle one is gold. */
+h2::before { content: ""; display: block; width: 44px; height: 10px; margin: 0 auto var(--spacing-sm); background: linear-gradient(var(--color-primary), var(--color-primary)) left / 10px 10px no-repeat, linear-gradient(var(--color-accent), var(--color-accent)) center / 10px 10px no-repeat, linear-gradient(var(--color-primary), var(--color-primary)) right / 10px 10px no-repeat; }
+h3 { margin: var(--spacing-sm) 0 var(--spacing-xs); font-size: var(--text-xl); line-height: 1.1; }
+.cards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: var(--spacing-md); }
+.card { padding: calc(var(--spacing-md) + 10px) var(--spacing-md) var(--spacing-md); border: var(--border-width-thin) solid var(--color-border); background: linear-gradient(var(--color-surface), var(--color-surface)) bottom / 100% calc(100% - 10px) no-repeat, repeating-conic-gradient(var(--color-primary) 0 25%, var(--color-secondary) 0 50%) 0 0 / 10px 10px; }
+.card p { margin: 0; }
+.card-number { display: inline-flex; align-items: center; justify-content: center; width: 44px; height: 44px; margin-top: var(--spacing-sm); background: var(--color-primary); color: var(--color-on-primary); font-size: var(--text-lg); }
+
+table { width: 100%; border-collapse: collapse; border-top: var(--border-width-thick) solid var(--color-border); border-bottom: var(--border-width-thick) solid var(--color-border); text-align: left; }
+th { padding: 12px; font-size: var(--text-sm); letter-spacing: var(--tracking-label); border-bottom: var(--border-width-thin) solid var(--color-border); }
+td { padding: 12px; border-bottom: var(--border-width-thin) solid var(--color-subtle); }
+td:first-child, th:first-child { width: 72px; }
+
+/* The quote sits in a black square panel with a checker border, like a Ver Sacrum vignette. */
+.quote { max-width: 640px; margin: var(--spacing-2xl) auto 0; padding: calc(var(--spacing-xl) + 12px) calc(var(--spacing-lg) + 12px); background: linear-gradient(var(--color-primary), var(--color-primary)) center / calc(100% - 24px) calc(100% - 24px) no-repeat, repeating-conic-gradient(var(--color-primary) 0 25%, var(--color-secondary) 0 50%) 0 0 / 12px 12px; border: var(--border-width-thin) solid var(--color-border); color: var(--color-on-primary); }
+.quote p { max-width: 28ch; margin: 0 auto var(--spacing-md); font-size: var(--text-xl); font-style: italic; line-height: 1.4; }
+.quote footer { font-size: var(--text-sm); letter-spacing: var(--tracking-label); color: var(--color-accent); }
+
+.tickets .cards { max-width: 720px; margin: 0 auto; }
+.tickets .card { display: flex; flex-direction: column; align-items: center; gap: var(--spacing-xs); }
+.price { margin: 0; font-size: var(--text-4xl); line-height: 1; }
+.card-featured { color: var(--color-on-primary); background: linear-gradient(var(--color-primary), var(--color-primary)) bottom / 100% calc(100% - 10px) no-repeat, repeating-conic-gradient(var(--color-primary) 0 25%, var(--color-secondary) 0 50%) 0 0 / 10px 10px; }
+.card-featured .price { color: var(--color-accent); }
+.card-featured .button { border-color: var(--color-on-primary); background: var(--color-on-primary); color: var(--color-primary); }
+.tickets .card .button { margin-top: var(--spacing-sm); }
+
+form { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--spacing-sm); max-width: 560px; margin: 0 auto; }
+label { width: 100%; font-size: var(--text-sm); letter-spacing: var(--tracking-label); }
+input { flex: 1 1 240px; padding: 12px; border: var(--border-width-thin) solid var(--color-border); border-radius: var(--radius-md); background: var(--color-surface); color: var(--color-text); font: inherit; }
+.note { font-size: var(--text-sm); color: var(--color-muted); }
+.site-footer { margin-top: var(--spacing-xl); padding: calc(var(--spacing-md) + 12px) 0 var(--spacing-md); font-size: var(--text-xs); color: var(--color-muted); background: linear-gradient(var(--color-bg), var(--color-bg)) bottom / 100% calc(100% - 12px) no-repeat, repeating-conic-gradient(var(--color-primary) 0 25%, var(--color-secondary) 0 50%) 0 0 / 12px 12px; }
+
+@media (max-width: 640px) {
+  .hero { padding: calc(var(--spacing-lg) + 12px) calc(var(--spacing-sm) + 12px); background-size: calc(100% - 24px) calc(100% - 24px), 12px 12px; }
+  .site-header nav { gap: var(--spacing-md); }
+  .facts div { width: 88px; }
+  dd { font-size: var(--text-2xl); }
+  .quote { padding: var(--spacing-lg) calc(var(--spacing-md) + 12px); }
+  table { display: block; overflow-x: auto; }
+}

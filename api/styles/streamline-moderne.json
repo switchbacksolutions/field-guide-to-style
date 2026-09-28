@@ -1,0 +1,625 @@
+{
+  "id": "streamline-moderne",
+  "title": "Streamline Moderne",
+  "order": 20,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Streamlined Moderne",
+    "Streamline style",
+    "Paquebot style",
+    "Style paquebot",
+    "Ocean liner style"
+  ],
+  "summary": "Rounded ends, portholes, and horizontal speed lines in cream, chrome, and navy. The streamlined look of 1930s trains, liners, and diners.",
+  "lede": "A 1930s style of architecture, industrial design, and graphics that took its forms from aerodynamic streamlining: curving forms, rounded corners, long horizontal lines, and nautical details such as portholes and railings, in smooth new materials such as chrome, Bakelite, and glass block. Wikipedia treats it as a late, stripped form of [Art Deco](style:art-deco); the Getty AAT lists it as a separate style.",
+  "moods": [
+    "streamlined",
+    "optimistic",
+    "sleek",
+    "nautical",
+    "machine-age"
+  ],
+  "era": {
+    "from": 1930,
+    "to": 1945,
+    "note": "Wikipedia: emerged in the 1930s, and the 1933–34 Chicago World’s Fair introduced it to the American public. Getty AAT: reached its height in the late 1930s in the United States. Precursors include Mendelsohn’s Mossehaus (1923), and streamlined cars continued after the war (Nash Airflyte, 1950)."
+  },
+  "regions": [
+    "United States",
+    "France",
+    "United Kingdom",
+    "Belgium",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q928960",
+    "aat": "300253564"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Streamline Moderne",
+      "url": "https://en.wikipedia.org/wiki/Streamline_Moderne",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikidata: Streamline Moderne (Q928960)",
+      "url": "https://www.wikidata.org/wiki/Q928960",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Getty Art & Architecture Thesaurus: Streamlined Moderne (300253564)",
+      "url": "https://vocab.getty.edu/page/aat/300253564",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "style": "art-deco",
+      "note": "Wikipedia calls it an international style of Art Deco and says industrial designers stripped Art Deco of its ornament in favor of an aerodynamic pure-line concept. Wikidata records it as a subclass of Art Deco (P279)."
+    },
+    {
+      "relation": "related-to",
+      "label": "Modernism",
+      "wikidata": "Q878985",
+      "note": "Wikidata also records it as a subclass of modernism and describes it as an art movement between Art Deco and modernism. Wikipedia lists shared traits with modern architecture: horizontal orientation, flat roofs, and ribbon windows."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "New Objectivity and Futurist architecture",
+      "note": "Wikipedia: the cylindrical forms and long horizontal windowing may have been influenced by New Objectivity artists and by Futurist architecture, with Mendelsohn and Neutra’s Mossehaus (Berlin, 1923) as an example."
+    },
+    {
+      "relation": "related-to",
+      "label": "Functionalism",
+      "note": "Wikipedia contrasts streamlined industrial design with European functionalism of the same years, which sought simple designs to lower production costs."
+    },
+    {
+      "relation": "related-to",
+      "style": "mid-century-modern",
+      "note": "Interpretation: Streamline Moderne precedes mid-century modern, and streamlined cars such as the 1950 Nash Airflyte overlap its first years. Mid-century modern drops the speed lines and chrome for biomorphic shapes and warmer colors."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Horizontal emphasis.",
+      "text": "Long, low forms. Bands, ribbon windows, and grooves run horizontally, so the eye moves sideways, as if the object were moving."
+    },
+    {
+      "facet": "layout",
+      "term": "Rounded corners and ends.",
+      "text": "Corners are rounded, and bands and panels often end in a full semicircle, like a racetrack or the nose of a train. Sharp angles are rare."
+    },
+    {
+      "facet": "imagery",
+      "term": "Speed lines and nautical details.",
+      "text": "Groups of two to four parallel lines trail from edges, corners, and letters. Portholes, ship railings, teardrop and bullet-nose shapes, trains, liners, and aircraft recur."
+    },
+    {
+      "facet": "type",
+      "term": "Bold geometric sans, leaning forward.",
+      "text": "Lettering is geometric or monoline sans serif, often in capitals, often slanted forward or with speed lines attached. Interpretation from 1930s transport graphics; to confirm with references."
+    },
+    {
+      "facet": "color",
+      "term": "White or pastel with chrome trim.",
+      "text": "Wikipedia: structures were often white or in subdued pastel colors. Chrome and stainless steel give silver trim. Transport graphics add navy and signal red."
+    },
+    {
+      "facet": "surface",
+      "term": "Smooth and unornamented.",
+      "text": "Smooth render, glass block, polished chrome, stainless steel, enamel, Bakelite, Formica, and Vitrolite. Applied ornament gives way to the line itself."
+    },
+    {
+      "facet": "motion",
+      "term": "Forward motion.",
+      "text": "Forms suggest speed even at rest. On screen, motion is a short horizontal glide, without bounce."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Two to four parallel horizontal lines (speed lines) run along a band, an edge, or a heading.",
+      "Corners are rounded, and bands or panels end in a semicircle.",
+      "The composition is long and horizontal rather than tall or centered on an axis.",
+      "Round portholes, ship railings, or teardrop and bullet-nose shapes appear.",
+      "Smooth white, cream, or pastel surfaces carry chrome, navy, or red trim."
+    ],
+    "counter": [
+      "Stepped setback outlines, sunbursts, or chevrons repeat as ornament.",
+      "Every box has square corners and there are no speed lines.",
+      "Boomerangs, starbursts, or upswept angled roofs.",
+      "Glossy translucent plastic, frosted blur, or aqua bubbles.",
+      "Flowing plant ornament or whiplash curves."
+    ],
+    "confusions": [
+      {
+        "with": "art-deco",
+        "difference": "Art Deco is vertical, symmetrical, and ornamental: steps, sunbursts, chevrons, and gold on black. Streamline Moderne strips the ornament and replaces it with rounded ends and horizontal speed lines, usually on a light ground."
+      },
+      {
+        "with": "International Style (architecture)",
+        "difference": "Both use white walls, flat roofs, and ribbon windows. The International Style keeps square, rectilinear volumes. Streamline Moderne rounds the corners and adds speed lines, portholes, and chrome."
+      },
+      {
+        "with": "bauhaus",
+        "difference": "Bauhaus graphics are asymmetric compositions of elementary shapes in primary colors, with square corners and heavy bars. Streamline Moderne uses rounded ends, parallel speed lines, and softer cream, chrome, and navy."
+      },
+      {
+        "with": "mid-century-modern",
+        "difference": "Mid-century modern uses irregular biomorphic shapes, illustration, and warm earthy colors. Streamline Moderne uses regular rounded bands, speed lines, and chrome."
+      },
+      {
+        "with": "Googie",
+        "difference": "Googie (1950s) is exuberant: boomerangs, starbursts, atomic motifs, and upswept angled roofs. Streamline Moderne is restrained and horizontal, with no angled or star shapes."
+      },
+      {
+        "with": "y2k",
+        "difference": "Y2K also likes chrome and rounded forms, but its surfaces are glossy gradients, translucent plastic, and glow, with techno type. Streamline Moderne surfaces are flat enamel and polished metal, with speed lines."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a cream or off-white ground, navy for text and large bands, one red accent, and silver-gray for rules and rings.",
+      "Round every panel. Give buttons, badges, and inputs fully rounded ends, and give at least one large band a semicircular end.",
+      "Draw speed lines as groups of two to four parallel horizontal lines, for example trailing from each section heading or running along the hero.",
+      "Set headings and labels in a bold geometric sans in capitals. Slant display text forward with an italic or oblique face.",
+      "Keep alignment to the left and let bands run the full width, so the page reads as long and horizontal.",
+      "Put small figures or icons in circular portholes with a thick silver ring."
+    ],
+    "dont": [
+      "Do not use sunbursts, chevrons, stepped outlines, or gold on black. That points to Art Deco.",
+      "Do not center the whole page on a vertical axis.",
+      "Do not use square corners on panels, cards, or buttons.",
+      "Do not use glossy gradients, glass blur, or glow effects.",
+      "Do not add applied ornament. The lines and curves are the decoration.",
+      "Do not use diagonal speed lines or starbursts. Speed lines stay horizontal."
+    ],
+    "uses": [
+      "Travel, rail, and cruise brands",
+      "Diners, cafes, and ice cream parlors",
+      "Radio, audio, and appliance products",
+      "Cinemas and events with a 1930s theme"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.radius.median",
+      "min": 16,
+      "note": "Panels, bands, and buttons have rounded corners or fully rounded ends. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.roundShare",
+      "min": 0.6,
+      "note": "Most boxes have rounded corners, not only the buttons. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.1,
+      "note": "Parallel speed lines, drawn as repeated stripes, cover a visible part of the page. Provisional: many real sites draw speed lines as SVG, borders, or images, which this metric does not count."
+    },
+    {
+      "metric": "surface.patternShare",
+      "min": 0.1,
+      "note": "Speed lines repeat on several surfaces: header, hero, cards, and bands. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "min": 0.15,
+      "note": "Headings, labels, and buttons are set in capitals. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.centerShare",
+      "max": 0.3,
+      "note": "Text aligns left and bands run sideways, unlike the central axis of Art Deco. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.1,
+      "note": "Surfaces are flat enamel and paint, not glossy gradients. Provisional: set from the specimen."
+    }
+  ],
+  "synthesis": [
+    "Architecture shows the style most completely. The [Aquatic Park Bathhouse](ref:aquatic-park-bathhouse-san-francisco) and the [Coca-Cola Building](ref:coca-cola-building-los-angeles) turn a building into a white ocean liner, with rounded decks, railings, and rows of portholes. The [Greyhound station in Huntington](ref:greyhound-bus-station-huntington) (1953) applies the same forms to a roadside brand, and [Flagey](ref:flagey-building-brussels) in Brussels gives a European version with continuous ribbon windows and a round tower.",
+    "Transport is the style’s source. The [Pioneer Zephyr](ref:pioneer-zephyr-1934), the [Chrysler Airflow](ref:chrysler-airflow-1934), and Loewy’s [S1 locomotive](ref:pennsylvania-railroad-s1-locomotive-1939) show where the rounded nose and the parallel speed lines come from: fluting, bumpers, and trim lines on moving machines. The [Zephyr brochure](ref:pioneer-zephyr-brochure-1934) shows the same lines used as a graphic device in 1934, trailing from script lettering.",
+    "Domestic products reduce the style to two signs: a block of horizontal bars and a circle. Bel Geddes’s [Patriot radio](ref:emerson-patriot-radio-1940) keeps a rectangular case, and Teague’s [Nocturne](ref:sparton-nocturne-radio-teague) and Binder’s [World’s Fair poster](ref:new-york-worlds-fair-poster-binder-1939) sit on the boundary with [Art Deco](style:art-deco): horizontal streamline elements inside a vertical, symmetrical composition. Cassandre’s Normandie poster, already in the catalogue under Art Deco, was not added here because its composition is symmetrical and vertical.",
+    "Websites in the style are rare. 49 candidate sites were tried and 37 captured (diners, streamline hotels and theaters, Art Deco societies, Airstream, and Wayback copies); only the [Silver Diner site](ref:silver-diner-website) was kept, as a borderline example. There, the speed lines are part of the logo image, so the page measures 0 on both pattern metrics, 0 radius, and 0.87 centered text. Real sites use the style as a logo and palette, not as layout. With no clear website examples, the fingerprint stays provisional and was not recalibrated."
+  ],
+  "page": "streamline-moderne.html",
+  "implementation": {
+    "tokens": "implementations/streamline-moderne/tokens.json",
+    "css": "implementations/streamline-moderne/tokens.css",
+    "tailwind": "implementations/streamline-moderne/tailwind.css",
+    "shadcn": "implementations/streamline-moderne/shadcn.css",
+    "registry": "implementations/streamline-moderne/registry-item.json",
+    "designMd": "implementations/streamline-moderne/DESIGN.md",
+    "specimen": "implementations/streamline-moderne/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for streamline-moderne. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#f1e9d8"
+      },
+      "surface": {
+        "$value": "#faf5ea"
+      },
+      "subtle": {
+        "$value": "#e2d8c2"
+      },
+      "text": {
+        "$value": "#15263f"
+      },
+      "muted": {
+        "$value": "#4d5a68"
+      },
+      "border": {
+        "$value": "#8f99a3",
+        "$description": "Chrome: polished steel trim."
+      },
+      "primary": {
+        "$value": "#c23a2b",
+        "$description": "Signal red, as on streamliner noses and diner trim."
+      },
+      "on-primary": {
+        "$value": "#faf5ea"
+      },
+      "secondary": {
+        "$value": "#1c3354",
+        "$description": "Navy enamel."
+      },
+      "on-secondary": {
+        "$value": "#f1e9d8"
+      },
+      "accent": {
+        "$value": "#bcc4cb",
+        "$description": "Chrome highlight."
+      },
+      "on-accent": {
+        "$value": "#15263f"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Futura",
+          "Avenir Next",
+          "Century Gothic",
+          "Trebuchet MS",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Avenir Next",
+          "Futura",
+          "Century Gothic",
+          "Helvetica Neue",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Futura",
+          "Avenir Next",
+          "Century Gothic",
+          "sans-serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 800
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "21px"
+      },
+      "xl": {
+        "$value": "27px"
+      },
+      "2xl": {
+        "$value": "36px"
+      },
+      "3xl": {
+        "$value": "52px"
+      },
+      "4xl": {
+        "$value": "76px"
+      },
+      "5xl": {
+        "$value": "112px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.95
+      },
+      "body": {
+        "$value": 1.55
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.06,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.18,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "48px"
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "2px"
+      },
+      "thick": {
+        "$value": "6px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "96px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "aquatic-park-bathhouse-san-francisco",
+      "title": "Aquatic Park Bathhouse, San Francisco",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical Streamline Moderne building: long horizontal decks, rounded ends, ship railings, and portholes on a smooth white wall.",
+      "page": "references/aquatic-park-bathhouse-san-francisco.html",
+      "source": "https://www.loc.gov/pictures/item/ca1404/",
+      "image": "assets/references/aquatic-park-bathhouse-san-francisco.jpg",
+      "measurement": "data/measurements/aquatic-park-bathhouse-san-francisco.json"
+    },
+    {
+      "id": "chrysler-airflow-1934",
+      "title": "Chrysler Airflow, 1934",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The car that brought streamlining to American production cars: rounded body, waterfall grille, and horizontal chrome lines. Its commercial failure is part of the style’s story.",
+      "page": "references/chrysler-airflow-1934.html",
+      "source": "https://en.wikipedia.org/wiki/Chrysler_Airflow",
+      "image": "assets/references/chrysler-airflow-1934.jpg",
+      "measurement": "data/measurements/chrysler-airflow-1934.json"
+    },
+    {
+      "id": "coca-cola-building-los-angeles",
+      "title": "Coca-Cola Building, Los Angeles",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The most literal ocean-liner building of the style: a whole factory block drawn as a hull, with portholes, rivets, a bridge, and horizontal bands.",
+      "page": "references/coca-cola-building-los-angeles.html",
+      "source": "https://www.loc.gov/pictures/item/ca0218/",
+      "image": "assets/references/coca-cola-building-los-angeles.jpg",
+      "measurement": "data/measurements/coca-cola-building-los-angeles.json"
+    },
+    {
+      "id": "emerson-patriot-radio-1940",
+      "title": "Emerson Patriot radio",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the case is a rectangle, as the V&A notes, but the grille of stacked horizontal bars and the round dial are streamline signs.",
+      "page": "references/emerson-patriot-radio-1940.html",
+      "source": "https://collections.vam.ac.uk/item/O85202/patriot-midget-radio-bel-geddes-norman/",
+      "image": "assets/references/emerson-patriot-radio-1940.jpg",
+      "measurement": "data/measurements/emerson-patriot-radio-1940.json"
+    },
+    {
+      "id": "flagey-building-brussels",
+      "title": "Flagey Building, Brussels",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A European paquebot building: curved facades, horizontal bands of windows, and a round tower like a ship’s funnel.",
+      "page": "references/flagey-building-brussels.html",
+      "source": "https://en.wikipedia.org/wiki/Flagey_Building",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "greyhound-bus-station-huntington",
+      "title": "Greyhound bus station, Huntington, West Virginia",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear fit on form, late in date: rounded ends, portholes, a ribbon window with semicircular ends, and a ribbed canopy. Built in 1953, after the style’s main period.",
+      "page": "references/greyhound-bus-station-huntington.html",
+      "source": "https://www.loc.gov/item/2015631799/",
+      "image": "assets/references/greyhound-bus-station-huntington.jpg",
+      "measurement": "data/measurements/greyhound-bus-station-huntington.json"
+    },
+    {
+      "id": "new-york-worlds-fair-poster-binder-1939",
+      "title": "New York World’s Fair poster by Joseph Binder",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the streamlined train and liner, the white speed swoosh, and the forward-slanting capitals are streamline; the vertical searchlight composition is Art Deco.",
+      "page": "references/new-york-worlds-fair-poster-binder-1939.html",
+      "source": "https://www.christies.com/en/lot/lot-5720313",
+      "image": "assets/references/new-york-worlds-fair-poster-binder-1939.jpg",
+      "measurement": "data/measurements/new-york-worlds-fair-poster-binder-1939.json"
+    },
+    {
+      "id": "pennsylvania-railroad-s1-locomotive-1939",
+      "title": "Pennsylvania Railroad S1 locomotive at the 1939 World’s Fair",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Loewy’s best-known streamline design: a bullet nose, a round headlamp, and groups of parallel speed lines along a very long horizontal body.",
+      "page": "references/pennsylvania-railroad-s1-locomotive-1939.html",
+      "source": "https://en.wikipedia.org/wiki/Pennsylvania_Railroad_class_S1",
+      "image": "assets/references/pennsylvania-railroad-s1-locomotive-1939.jpg",
+      "measurement": "data/measurements/pennsylvania-railroad-s1-locomotive-1939.json"
+    },
+    {
+      "id": "pioneer-zephyr-brochure-1934",
+      "title": "Pioneer Zephyr brochure, 1934",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Period transport graphics in the style: script and capitals with trailing horizontal speed lines, a round badge, and the word “Streamline” in the title.",
+      "page": "references/pioneer-zephyr-brochure-1934.html",
+      "source": "https://commons.wikimedia.org/wiki/File:1934_Pioneer_Zephyr_brochure.JPG",
+      "image": "assets/references/pioneer-zephyr-brochure-1934.jpg",
+      "measurement": "data/measurements/pioneer-zephyr-brochure-1934.json"
+    },
+    {
+      "id": "pioneer-zephyr-1934",
+      "title": "Pioneer Zephyr, 1934",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A founding object of American streamlining: a rounded, sloping nose, polished metal, and horizontal fluting along the sides.",
+      "page": "references/pioneer-zephyr-1934.html",
+      "source": "https://en.wikipedia.org/wiki/Pioneer_Zephyr",
+      "image": "assets/references/pioneer-zephyr-1934.jpg",
+      "measurement": "data/measurements/pioneer-zephyr-1934.json"
+    },
+    {
+      "id": "silver-diner-website",
+      "title": "Silver Diner website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the logo and header use triple horizontal speed lines and a navy, red, and white palette, but the rest of the first screen is a full-width food photograph with square corners.",
+      "page": "references/silver-diner-website.html",
+      "source": "https://www.silverdiner.com/",
+      "image": "assets/references/silver-diner-website.jpg",
+      "measurement": "data/measurements/silver-diner-website.json"
+    },
+    {
+      "id": "sparton-nocturne-radio-teague",
+      "title": "Sparton Nocturne radio, model 1186",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the big circle and chrome horizontal bars are streamline, but the vertical frame and luxury mirror glass are closer to Art Deco.",
+      "page": "references/sparton-nocturne-radio-teague.html",
+      "source": "https://encyclopedia.design/2023/04/28/nocturne-model-1186-designed-by-walter-dorwin-teague/",
+      "image": "assets/references/sparton-nocturne-radio-teague.jpg",
+      "measurement": "data/measurements/sparton-nocturne-radio-teague.json"
+    }
+  ]
+}

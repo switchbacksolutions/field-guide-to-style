@@ -1,0 +1,113 @@
+/* Skeuomorphism specimen. Uses tokens.css. Each section is a physical object: linen desk, stitched leather, legal pad, grouped table, felt, wood shelf, brushed metal. */
+* { box-sizing: border-box; }
+html {
+  min-height: 100%;
+  background-color: var(--color-bg);
+  background-image:
+    repeating-linear-gradient(0deg, var(--color-linen-thread) 0 1px, transparent 1px 3px),
+    repeating-linear-gradient(90deg, var(--color-linen-shade) 0 1px, transparent 1px 4px);
+}
+body { max-width: 1120px; min-height: 100vh; margin: 0 auto; padding: 0 4% var(--spacing-xl); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); line-height: var(--leading-body); }
+a { color: var(--color-primary); }
+:focus-visible { outline: 3px solid var(--color-primary); outline-offset: 2px; }
+.specimen-back { margin: 0; padding: var(--spacing-sm) 0; font-size: var(--text-xs); text-shadow: 0 1px 0 var(--color-emboss-light); }
+
+/* Navigation bar: steel-blue gradient with a gloss break, a dark lower edge, and debossed white title. */
+.site-header { display: flex; justify-content: space-between; align-items: center; gap: var(--spacing-sm); flex-wrap: wrap; padding: 8px var(--spacing-sm); background: var(--gradient-bar); border: var(--border-width-thin) solid var(--color-bar-edge); border-radius: var(--radius-sm) var(--radius-sm) 0 0; box-shadow: var(--shadow-md); }
+.logo { color: var(--color-on-secondary); font-size: var(--text-xl); font-weight: var(--font-weight-bold); text-decoration: none; text-shadow: 0 -1px 0 var(--color-emboss-dark); }
+.site-header nav { display: flex; flex-wrap: wrap; gap: var(--spacing-xs); }
+.site-header nav a { padding: 5px 12px; border: var(--border-width-thin) solid var(--color-bar-edge); border-radius: var(--radius-sm); background: var(--gradient-bar); color: var(--color-on-secondary); font-size: var(--text-sm); font-weight: var(--font-weight-bold); text-decoration: none; text-shadow: 0 -1px 0 var(--color-emboss-dark); box-shadow: var(--shadow-sm); }
+
+/* Hero: a stitched leather cover, lit from above, with grain tiles and a dashed seam. */
+.hero {
+  position: relative; margin: 0 0 var(--spacing-lg); padding: var(--spacing-xl) var(--spacing-lg);
+  background-color: var(--color-accent);
+  background-image:
+    var(--gradient-leather),
+    radial-gradient(circle at 30% 30%, var(--color-leather-grain) 0 1px, transparent 1.6px),
+    radial-gradient(circle at 70% 60%, var(--color-leather-grain) 0 1px, transparent 1.6px);
+  background-size: 100% 100%, 5px 5px, 7px 7px;
+  border: var(--border-width-thin) solid var(--color-leather-dark);
+  border-radius: 0 0 var(--radius-md) var(--radius-md);
+  outline: var(--border-width-thick) dashed var(--color-stitch);
+  outline-offset: -12px;
+  box-shadow: var(--shadow-lg);
+  color: var(--color-on-accent);
+}
+.kicker { margin: 0 0 var(--spacing-sm); font-size: var(--text-sm); font-weight: var(--font-weight-bold); letter-spacing: var(--tracking-label); text-shadow: 0 -1px 0 var(--color-emboss-dark); }
+h1 { max-width: 14ch; margin: 0; font-family: var(--font-display); font-size: clamp(40px, 7vw, var(--text-5xl)); font-weight: var(--font-weight-display); line-height: var(--leading-tight); letter-spacing: var(--tracking-display); color: var(--color-stitch); text-shadow: 0 -1px 0 var(--color-leather-dark), 0 1px 0 var(--color-linen-thread); }
+h1 span { color: var(--color-on-accent); }
+.lede { max-width: 44ch; margin: var(--spacing-md) 0 var(--spacing-lg); font-size: var(--text-lg); text-shadow: 0 -1px 0 var(--color-emboss-dark); }
+.actions { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); margin: 0 0 var(--spacing-lg); }
+
+/* Buttons: bevel with a gloss break, a top highlight, and letterpress labels. */
+.button, button { display: inline-block; padding: 10px 22px; border: var(--border-width-thin) solid var(--color-bar-edge); border-radius: var(--radius-md); background: var(--gradient-button); color: var(--color-on-primary); font: var(--font-weight-bold) var(--text-base)/1.2 var(--font-body); text-decoration: none; text-shadow: 0 -1px 0 var(--color-emboss-dark); box-shadow: var(--shadow-sm); cursor: pointer; }
+.button-secondary { background: var(--gradient-button-plain); color: var(--color-text); border-color: var(--color-border); text-shadow: 0 1px 0 var(--color-emboss-light); }
+/* Facts: metal plates screwed onto the leather. */
+.facts { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); margin: 0; }
+.facts div { min-width: 104px; padding: var(--spacing-xs) var(--spacing-md); border: var(--border-width-thin) solid var(--color-border); border-radius: var(--radius-sm); background-color: var(--color-metal); background-image: repeating-linear-gradient(0deg, var(--color-metal-line) 0 1px, var(--color-metal-groove) 1px 2px, transparent 2px 3px); box-shadow: var(--shadow-sm); color: var(--color-text); }
+dt { color: var(--color-muted); font-size: var(--text-xs); font-weight: var(--font-weight-bold); text-shadow: 0 1px 0 var(--color-emboss-light); }
+dd { margin: 0; font-size: var(--text-2xl); font-weight: var(--font-weight-bold); line-height: 1.2; text-shadow: 0 1px 0 var(--color-emboss-light); }
+
+/* Section titles are debossed into the linen. */
+h2 { margin: 0 0 var(--spacing-md); font-size: var(--text-2xl); font-weight: var(--font-weight-bold); line-height: var(--leading-tight); color: var(--color-muted); text-shadow: 0 1px 0 var(--color-emboss-light); }
+h3 { margin: 0 0 var(--spacing-xs); font-size: var(--text-lg); }
+section:not(.hero) { margin: var(--spacing-lg) 0; }
+.cards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: var(--spacing-md); }
+
+/* Features: pages torn from a legal pad, with blue rules, a red margin line, and a pin. */
+.features .card {
+  position: relative; min-height: 190px; padding: 27px var(--spacing-md) 27px 52px;
+  background-color: var(--color-paper);
+  background-image:
+    linear-gradient(90deg, transparent 38px, var(--color-paper-margin) 38px 39px, transparent 39px),
+    repeating-linear-gradient(180deg, transparent 0 26px, var(--color-paper-rule) 26px 27px);
+  background-size: 100% 100%, 100% 27px;
+  border-radius: 2px;
+  box-shadow: var(--shadow-md);
+  font-family: var(--font-hand); line-height: 27px; color: var(--color-text);
+}
+.features .card:nth-child(2) { transform: rotate(-1deg); }
+.features .card:nth-child(3) { transform: rotate(0.8deg); }
+.features .card h3 { margin: 0; font-family: var(--font-hand); font-size: var(--text-xl); line-height: 27px; }
+.features .card p { margin: 0; }
+.features .card::before { content: ""; position: absolute; top: -9px; left: calc(50% - 11px); width: 22px; height: 22px; border-radius: 50%; background: radial-gradient(circle at 35% 30%, var(--color-on-primary) 0 12%, var(--color-pin) 40%, var(--color-leather-dark) 100%); box-shadow: var(--shadow-sm); }
+.card-number { position: absolute; top: 4px; right: 14px; color: var(--color-paper-margin); font-size: var(--text-sm); }
+
+/* Programme: an iOS grouped table on pinstripes. */
+.programme { padding: var(--spacing-lg); background-color: var(--color-pinstripe); background-image: repeating-linear-gradient(90deg, var(--color-pinstripe) 0 5px, var(--color-pinstripe-light) 5px 7px); border-radius: var(--radius-md); box-shadow: var(--shadow-inset); }
+table { width: 100%; border-collapse: separate; border-spacing: 0; overflow: hidden; background: var(--color-surface); border: var(--border-width-thin) solid var(--color-border); border-radius: var(--radius-md); box-shadow: 0 1px 0 var(--color-emboss-light); }
+th { padding: 8px 14px; text-align: left; font-size: var(--text-sm); color: var(--color-text); background: var(--gradient-button-plain); border-bottom: var(--border-width-thin) solid var(--color-border); text-shadow: 0 1px 0 var(--color-emboss-light); }
+td { padding: 11px 14px; border-top: var(--border-width-thin) solid var(--color-subtle); }
+td:first-child { font-weight: var(--font-weight-bold); }
+td:last-child { color: var(--color-muted); }
+
+/* Quote: green felt in a wooden frame. */
+.quote { margin: var(--spacing-lg) 0; padding: var(--spacing-lg) var(--spacing-xl); background-color: var(--color-felt); background-image: radial-gradient(circle at 50% 50%, var(--color-felt-fiber) 0 0.8px, transparent 1.2px), radial-gradient(circle at 20% 70%, var(--color-leather-grain) 0 0.8px, transparent 1.2px); background-size: 4px 4px, 3px 3px; border: 10px solid var(--color-wood); border-radius: var(--radius-sm); box-shadow: var(--shadow-inset), var(--shadow-md); color: var(--color-on-accent); }
+.quote p { max-width: 38ch; margin: 0 0 var(--spacing-xs); font-family: var(--font-serif); font-size: var(--text-xl); font-style: italic; text-shadow: 0 -1px 0 var(--color-emboss-dark); }
+.quote footer { font-size: var(--text-sm); text-shadow: 0 -1px 0 var(--color-emboss-dark); }
+
+/* Passes: tickets standing on a wooden shelf. */
+.tickets { padding: var(--spacing-lg) var(--spacing-lg) 0; background-color: var(--color-wood); background-image: repeating-linear-gradient(178deg, var(--color-wood) 0 9px, var(--color-wood-light) 9px 12px, var(--color-wood) 12px 23px, var(--color-wood-dark) 23px 24px, var(--color-wood) 24px 31px, var(--color-wood-light) 31px 32px, var(--color-wood) 32px 45px); border-radius: var(--radius-sm); box-shadow: var(--shadow-inset); }
+.tickets h2 { color: var(--color-on-accent); text-shadow: 0 -1px 0 var(--color-emboss-dark); }
+.tickets .cards { padding-bottom: 22px; background: var(--gradient-shelf) bottom / 100% 22px no-repeat; }
+.tickets .card { position: relative; margin-bottom: 4px; padding: var(--spacing-md); background-color: var(--color-surface); background-image: linear-gradient(180deg, var(--color-surface) 0%, var(--color-subtle) 100%); border-radius: var(--radius-md); border-top: var(--border-width-thick) dashed var(--color-border); box-shadow: var(--shadow-md); }
+.tickets .card p { color: var(--color-muted); }
+.card .price { margin: 0; color: var(--color-text); font-size: var(--text-3xl); font-weight: var(--font-weight-bold); text-shadow: 0 1px 0 var(--color-emboss-light); }
+.card-featured { border-top-color: var(--color-primary); }
+
+/* Newsletter: a brushed-aluminium panel with an inset field. */
+.signup { padding: var(--spacing-lg); background-color: var(--color-metal); background-image: var(--gradient-metal), repeating-linear-gradient(0deg, var(--color-metal-line) 0 1px, var(--color-metal-groove) 1px 2px, transparent 2px 3px); background-size: 100% 100%, 100% 3px; border: var(--border-width-thin) solid var(--color-border); border-radius: var(--radius-lg); box-shadow: var(--shadow-md); }
+form { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); align-items: center; }
+label { width: 100%; font-weight: var(--font-weight-bold); font-size: var(--text-sm); text-shadow: 0 1px 0 var(--color-emboss-light); }
+input { flex: 1 1 240px; padding: 10px 14px; border: var(--border-width-thin) solid var(--color-border); border-radius: var(--radius-md); background: var(--color-surface); box-shadow: var(--shadow-inset); font: inherit; }
+.note { margin-bottom: 0; color: var(--color-muted); font-size: var(--text-sm); text-shadow: 0 1px 0 var(--color-emboss-light); }
+.site-footer { margin-top: var(--spacing-lg); color: var(--color-muted); font-size: var(--text-xs); text-align: center; text-shadow: 0 1px 0 var(--color-emboss-light); }
+
+@media (max-width: 640px) {
+  .hero { padding: var(--spacing-lg) var(--spacing-md); }
+  .programme, .tickets, .signup { padding: var(--spacing-md); }
+  .tickets { padding-bottom: 0; }
+  .quote { padding: var(--spacing-md); }
+  table { display: block; overflow-x: auto; }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "streamline-moderne",
+  "type": "registry:theme",
+  "title": "Streamline Moderne",
+  "description": "Rounded ends, portholes, and horizontal speed lines in cream, chrome, and navy. The streamlined look of 1930s trains, liners, and diners.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Avenir Next\", Futura, \"Century Gothic\", \"Helvetica Neue\", sans-serif",
+      "font-mono": "Futura, \"Avenir Next\", \"Century Gothic\", sans-serif"
+    },
+    "light": {
+      "background": "#f1e9d8",
+      "foreground": "#15263f",
+      "card": "#faf5ea",
+      "card-foreground": "#15263f",
+      "popover": "#faf5ea",
+      "popover-foreground": "#15263f",
+      "primary": "#c23a2b",
+      "primary-foreground": "#faf5ea",
+      "secondary": "#1c3354",
+      "secondary-foreground": "#f1e9d8",
+      "muted": "#e2d8c2",
+      "muted-foreground": "#4d5a68",
+      "accent": "#bcc4cb",
+      "accent-foreground": "#15263f",
+      "destructive": "#b42318",
+      "border": "#8f99a3",
+      "input": "#8f99a3",
+      "ring": "#c23a2b",
+      "radius": "24px"
+    }
+  }
+}

@@ -86,6 +86,262 @@ globalThis.styleHub = {
         "optimistic"
       ],
       "status": "draft"
+    },
+    {
+      "id": "art-nouveau",
+      "title": "Art Nouveau",
+      "href": "art-nouveau.html",
+      "moods": [
+        "organic",
+        "sensuous",
+        "flowing",
+        "ornate",
+        "romantic"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "constructivism",
+      "title": "Constructivism",
+      "href": "constructivism.html",
+      "moods": [
+        "agitational",
+        "dynamic",
+        "urgent",
+        "industrial",
+        "bold"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "de-stijl",
+      "title": "De Stijl",
+      "href": "de-stijl.html",
+      "moods": [
+        "orthogonal",
+        "balanced",
+        "austere",
+        "pure"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "mid-century-modern",
+      "title": "Mid-century modern",
+      "href": "mid-century-modern.html",
+      "moods": [
+        "optimistic",
+        "warm",
+        "playful",
+        "crafted",
+        "modern"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "psychedelic-art",
+      "title": "Psychedelic art",
+      "href": "psychedelic-art.html",
+      "moods": [
+        "hallucinatory",
+        "saturated",
+        "dense",
+        "fluid",
+        "countercultural"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "skeuomorphism",
+      "title": "Skeuomorphism",
+      "href": "skeuomorphism.html",
+      "moods": [
+        "tactile",
+        "familiar",
+        "crafted",
+        "warm",
+        "ornate"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "flat-design",
+      "title": "Flat design",
+      "href": "flat-design.html",
+      "moods": [
+        "clean",
+        "bright",
+        "direct",
+        "digital"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "glassmorphism",
+      "title": "Glassmorphism",
+      "href": "glassmorphism.html",
+      "moods": [
+        "airy",
+        "layered",
+        "luminous",
+        "premium",
+        "calm"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "vaporwave",
+      "title": "Vaporwave",
+      "href": "vaporwave.html",
+      "moods": [
+        "nostalgic",
+        "ironic",
+        "dreamlike",
+        "melancholic",
+        "kitsch"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "y2k",
+      "title": "Y2K aesthetic",
+      "href": "y2k.html",
+      "moods": [
+        "techno-optimistic",
+        "shiny",
+        "playful",
+        "futuristic"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "arts-and-crafts",
+      "title": "Arts and Crafts",
+      "href": "arts-and-crafts.html",
+      "moods": [
+        "handmade",
+        "earnest",
+        "medieval",
+        "dense",
+        "rustic"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "vienna-secession",
+      "title": "Vienna Secession",
+      "href": "vienna-secession.html",
+      "moods": [
+        "geometric",
+        "austere",
+        "elegant",
+        "precise",
+        "refined"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "streamline-moderne",
+      "title": "Streamline Moderne",
+      "href": "streamline-moderne.html",
+      "moods": [
+        "streamlined",
+        "optimistic",
+        "sleek",
+        "nautical",
+        "machine-age"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "pop-art",
+      "title": "Pop art",
+      "href": "pop-art.html",
+      "moods": [
+        "loud",
+        "brash",
+        "ironic",
+        "commercial",
+        "graphic"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "op-art",
+      "title": "Op art",
+      "href": "op-art.html",
+      "moods": [
+        "vibrating",
+        "high-contrast",
+        "precise",
+        "disorienting",
+        "mod"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "new-wave-typography",
+      "title": "New Wave typography",
+      "href": "new-wave-typography.html",
+      "moods": [
+        "kinetic",
+        "rebellious",
+        "layered",
+        "experimental",
+        "intuitive"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "grunge-typography",
+      "title": "Grunge typography",
+      "href": "grunge-typography.html",
+      "moods": [
+        "raw",
+        "angsty",
+        "chaotic",
+        "intuitive",
+        "dirty"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "material-design",
+      "title": "Material Design",
+      "href": "material-design.html",
+      "moods": [
+        "orderly",
+        "tactile",
+        "bright",
+        "systematic"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "neumorphism",
+      "title": "Neumorphism",
+      "href": "neumorphism.html",
+      "moods": [
+        "soft",
+        "calm",
+        "tactile",
+        "quiet",
+        "minimal"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "corporate-memphis",
+      "title": "Corporate Memphis",
+      "href": "corporate-memphis.html",
+      "moods": [
+        "friendly",
+        "upbeat",
+        "inclusive",
+        "corporate",
+        "bland"
+      ],
+      "status": "draft"
     }
   ],
   "references": [
@@ -1054,6 +1310,3407 @@ globalThis.styleHub = {
       "medium": "website",
       "styles": [
         "international-typographic-style"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "galle-autumn-crocus-vase",
+      "title": "“Autumn Crocus” vase by Émile Gallé",
+      "href": "references/galle-autumn-crocus-vase.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "malewicz-glassmorphism-article-2020",
+      "title": "“Glassmorphism in user interfaces”",
+      "href": "references/malewicz-glassmorphism-article-2020.html",
+      "type": "website",
+      "medium": "editorial",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "weingart-tm-special-issue-1976",
+      "title": "“Ist diese Typografie noch zu retten?”, TM special issue",
+      "href": "references/weingart-tm-special-issue-1976.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "new-wave-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "css-tricks-neumorphism-and-css-2020",
+      "title": "“Neumorphism and CSS”",
+      "href": "references/css-tricks-neumorphism-and-css-2020.html",
+      "type": "website",
+      "medium": "editorial",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "malewicz-neumorphism-article-2019",
+      "title": "“Neumorphism in user interfaces”",
+      "href": "references/malewicz-neumorphism-article-2019.html",
+      "type": "website",
+      "medium": "editorial",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "driscoll-tiffany-pony-wisteria-lamp",
+      "title": "“Pony” Wisteria lamp, Tiffany Studios",
+      "href": "references/driscoll-tiffany-pony-wisteria-lamp.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "campbells-souper-paper-dress-1967",
+      "title": "“Souper” paper dress",
+      "href": "references/campbells-souper-paper-dress-1967.html",
+      "type": "object",
+      "medium": "textile",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "nsync-website-2000",
+      "title": "*NSYNC website, 2000",
+      "href": "references/nsync-website-2000.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "100jaardestijl-website-2021",
+      "title": "100 jaar De Stijl placeholder page",
+      "href": "references/100jaardestijl-website-2021.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "electronicon-flyer-2019",
+      "title": "100% ElectroniCON flyer",
+      "href": "references/electronicon-flyer-2019.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "kulagina-1905-road-to-october-poster",
+      "title": "1905: The Road to October",
+      "href": "references/kulagina-1905-road-to-october-poster.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "maclean-six-days-of-sound-poster-1967",
+      "title": "6 Days of Sound, Fillmore at Winterland",
+      "href": "references/maclean-six-days-of-sound-poster-1967.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lissitzky-about-two-squares-1922",
+      "title": "About Two Squares",
+      "href": "references/lissitzky-about-two-squares-1922.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "agora-road-website",
+      "title": "Agora Road’s Macintosh Cafe portal",
+      "href": "references/agora-road-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "airbnb-illustration-guidelines-2018",
+      "title": "Airbnb illustration guidelines, “Your Face Here” (Jennifer Hom)",
+      "href": "references/airbnb-illustration-guidelines-2018.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "airtable-website-2018",
+      "title": "Airtable website, 2018",
+      "href": "references/airtable-website-2018.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "facebook-alegria-illustration-system-2017",
+      "title": "Alegria illustration system for Facebook (Buck)",
+      "href": "references/facebook-alegria-illustration-system-2017.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "grignani-alfieri-lacroix-ad-1959",
+      "title": "Alfieri & Lacroix advertising page",
+      "href": "references/grignani-alfieri-lacroix-ad-1959.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "van-doesburg-alphabet-1919",
+      "title": "Alphabet in “Stijl letters”",
+      "href": "references/van-doesburg-alphabet-1919.html",
+      "type": "image",
+      "medium": "typeface",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "bass-anatomy-of-a-murder-poster-1959",
+      "title": "Anatomy of a Murder poster",
+      "href": "references/bass-anatomy-of-a-murder-poster-1959.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "android-5-lollipop-2014",
+      "title": "Android 5.0 Lollipop",
+      "href": "references/android-5-lollipop-2014.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "angularjs-material-website-2016",
+      "title": "Angular Material (AngularJS) documentation website, 2016",
+      "href": "references/angularjs-material-website-2016.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "angular-material-v12-website",
+      "title": "Angular Material 12 documentation website",
+      "href": "references/angular-material-v12-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "apple-ios-7-website-2013",
+      "title": "Apple iOS 7 website, 2013",
+      "href": "references/apple-ios-7-website-2013.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "apple-liquid-glass-2025",
+      "title": "Apple Liquid Glass",
+      "href": "references/apple-liquid-glass-2025.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "apple-visionos-glass-material",
+      "title": "Apple visionOS glass material",
+      "href": "references/apple-visionos-glass-material.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "aquatic-park-bathhouse-san-francisco",
+      "title": "Aquatic Park Bathhouse, San Francisco",
+      "href": "references/aquatic-park-bathhouse-san-francisco.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "streamline-moderne"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "wagner-armchair-model-718",
+      "title": "Armchair, model no. 718 F/B",
+      "href": "references/wagner-armchair-model-718.html",
+      "type": "object",
+      "medium": "furniture",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "crane-arts-and-crafts-exhibition-season-ticket-1890",
+      "title": "Arts and Crafts Exhibition Society season ticket, 1890",
+      "href": "references/crane-arts-and-crafts-exhibition-season-ticket-1890.html",
+      "type": "print",
+      "medium": "other",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "atomic-war-1-page-6-1952",
+      "title": "Atomic War! #1, page 6",
+      "href": "references/atomic-war-1-page-6-1952.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "wagner-austrian-postal-savings-bank",
+      "title": "Austrian Postal Savings Bank, Vienna",
+      "href": "references/wagner-austrian-postal-savings-bank.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "nelson-ball-clock",
+      "title": "Ball Clock",
+      "href": "references/nelson-ball-clock.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "beach-culture-5-1991",
+      "title": "Beach Culture no. 5",
+      "href": "references/beach-culture-5-1991.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "grunge-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lissitzky-beat-the-whites-red-wedge-poster",
+      "title": "Beat the Whites with the Red Wedge",
+      "href": "references/lissitzky-beat-the-whites-red-wedge-poster.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "biba-op-art-mini-dress-1965",
+      "title": "Biba op-art mini-dress",
+      "href": "references/biba-op-art-mini-dress-1965.html",
+      "type": "object",
+      "medium": "textile",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "bjango-website-2011",
+      "title": "Bjango website, 2011",
+      "href": "references/bjango-website-2011.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "bjork-all-is-full-of-love-video-1999",
+      "title": "Björk, “All Is Full of Love” music video",
+      "href": "references/bjork-all-is-full-of-love-video-1999.html",
+      "type": "product",
+      "medium": "other",
+      "styles": [
+        "y2k"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "blank-banshee-0-cover-2012",
+      "title": "Blank Banshee 0 cover art",
+      "href": "references/blank-banshee-0-cover-2012.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "designers-republic-blech-ticket-1996",
+      "title": "Blech club night ticket",
+      "href": "references/designers-republic-blech-ticket-1996.html",
+      "type": "print",
+      "medium": "other",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "moser-ex-libris-otto-zuckerkandl-1906",
+      "title": "Bookplate for Otto Zuckerkandl",
+      "href": "references/moser-ex-libris-otto-zuckerkandl-1906.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lichtenstein-bratatat-t-shirt-1981",
+      "title": "BRATATAT T-shirt",
+      "href": "references/lichtenstein-bratatat-t-shirt-1981.html",
+      "type": "object",
+      "medium": "textile",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "braun-et66-calculator-1987",
+      "title": "Braun ET66 calculator, 1987",
+      "href": "references/braun-et66-calculator-1987.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "mac-os-x-brushed-metal",
+      "title": "Brushed-metal windows in Mac OS X",
+      "href": "references/mac-os-x-brushed-metal.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "butcher-billy-website",
+      "title": "Butcher Billy website",
+      "href": "references/butcher-billy-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "voysey-society-website",
+      "title": "C. F. A. Voysey Society website",
+      "href": "references/voysey-society-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hoffmann-cabaret-fledermaus",
+      "title": "Cabaret Fledermaus bar room, Vienna",
+      "href": "references/hoffmann-cabaret-fledermaus.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "cafe-de-unie-rotterdam",
+      "title": "Café De Unie, Rotterdam",
+      "href": "references/cafe-de-unie-rotterdam.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "day-calyx-furnishing-fabric-1951",
+      "title": "Calyx furnishing fabric",
+      "href": "references/day-calyx-furnishing-fabric-1951.html",
+      "type": "object",
+      "medium": "textile",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "camera-plus-website-2012",
+      "title": "Camera+ website, 2012",
+      "href": "references/camera-plus-website-2012.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "warhol-campbells-soup-cans-1962",
+      "title": "Campbell’s Soup Cans",
+      "href": "references/warhol-campbells-soup-cans-1962.html",
+      "type": "object",
+      "medium": "painting",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "greiman-china-club-sign-1980",
+      "title": "China Club sign and invitation",
+      "href": "references/greiman-china-club-sign-1980.html",
+      "type": "object",
+      "medium": "signage",
+      "styles": [
+        "new-wave-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "chrysler-airflow-1934",
+      "title": "Chrysler Airflow, 1934",
+      "href": "references/chrysler-airflow-1934.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "streamline-moderne"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "eccojams-vol-1-cassette-2010",
+      "title": "Chuck Person’s Eccojams Vol. 1 cassette",
+      "href": "references/eccojams-vol-1-cassette-2010.html",
+      "type": "print",
+      "medium": "packaging",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "aubette-cine-dancing-strasbourg",
+      "title": "Ciné-dancing, Aubette, Strasbourg",
+      "href": "references/aubette-cine-dancing-strasbourg.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "coca-cola-building-los-angeles",
+      "title": "Coca-Cola Building, Los Angeles",
+      "href": "references/coca-cola-building-los-angeles.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "streamline-moderne"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "vectorium-neumorphic-ui-elements-2020",
+      "title": "Collection of elements in neumorphic style",
+      "href": "references/vectorium-neumorphic-ui-elements-2020.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "comicraft-website",
+      "title": "Comicraft website",
+      "href": "references/comicraft-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mondrian-composition-large-blue-plane-1921",
+      "title": "Composition with Large Blue Plane, Red, Black, Yellow, and Gray",
+      "href": "references/mondrian-composition-large-blue-plane-1921.html",
+      "type": "image",
+      "medium": "painting",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mondrian-composition-yellow-red-black-blue-gray-1920",
+      "title": "Composition with Yellow, Red, Black, Blue, and Gray",
+      "href": "references/mondrian-composition-yellow-red-black-blue-gray-1920.html",
+      "type": "image",
+      "medium": "painting",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "van-doesburg-composition-xxii-1922",
+      "title": "Composition XXII",
+      "href": "references/van-doesburg-composition-xxii-1922.html",
+      "type": "image",
+      "medium": "painting",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lichtenstein-crak-poster-1963",
+      "title": "Crak! Now, Mes Petits… Pour la France!",
+      "href": "references/lichtenstein-crak-poster-1963.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mccoy-cranbrook-graduate-program-poster-1989",
+      "title": "Cranbrook Graduate Program in Design poster",
+      "href": "references/mccoy-cranbrook-graduate-program-poster-1989.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "new-wave-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "cred-app-synth-neumorphic-ui",
+      "title": "CRED app and the Synth framework",
+      "href": "references/cred-app-synth-neumorphic-ui.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "css-backdrop-filter-property",
+      "title": "CSS backdrop-filter property",
+      "href": "references/css-backdrop-filter-property.html",
+      "type": "object",
+      "medium": "other",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "obrist-cyclamen-wall-hanging-1895",
+      "title": "Cyclamen (“Whiplash”) wall hanging by Hermann Obrist",
+      "href": "references/obrist-cyclamen-wall-hanging-1895.html",
+      "type": "object",
+      "medium": "textile",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "neumorph-dashboard-webflow-website",
+      "title": "Dashon neumorphic dashboard",
+      "href": "references/neumorph-dashboard-webflow-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "de-stijl-journal-cover-and-advertisements-1922",
+      "title": "De Stijl journal cover and advertisement page, 1922",
+      "href": "references/de-stijl-journal-cover-and-advertisements-1922.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "destijl-neocities-website",
+      "title": "De Stijl student site on Neocities",
+      "href": "references/destijl-neocities-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "dead-and-company-website",
+      "title": "Dead & Company website",
+      "href": "references/dead-and-company-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "delicious-library-2004",
+      "title": "Delicious Library, 2004",
+      "href": "references/delicious-library-2004.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "delicious-monster-website-2009",
+      "title": "Delicious Monster website, 2009",
+      "href": "references/delicious-monster-website-2009.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "derekart-website",
+      "title": "DerekArt website",
+      "href": "references/derekart-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "van-doesburg-section-dor-poster-design-1920",
+      "title": "Design for a poster for La Section d’Or",
+      "href": "references/van-doesburg-section-dor-poster-design-1920.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "greiman-design-quarterly-133-1986",
+      "title": "Design Quarterly 133: “Does It Make Sense?”",
+      "href": "references/greiman-design-quarterly-133-1986.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "new-wave-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lissitzky-dlia-golosa-1923",
+      "title": "Dlia golosa (For the Voice)",
+      "href": "references/lissitzky-dlia-golosa-1923.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lalique-dragonfly-brooch",
+      "title": "Dragonfly brooch by René Lalique",
+      "href": "references/lalique-dragonfly-brooch.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "droplet-typeface-1996",
+      "title": "Droplet typeface",
+      "href": "references/droplet-typeface-1996.html",
+      "type": "product",
+      "medium": "typeface",
+      "styles": [
+        "grunge-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lichtenstein-drowning-girl-1963",
+      "title": "Drowning Girl",
+      "href": "references/lichtenstein-drowning-girl-1963.html",
+      "type": "object",
+      "medium": "painting",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mclaren-cnd-easter-67-poster",
+      "title": "Easter ’67 poster",
+      "href": "references/mclaren-cnd-easter-67-poster.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "elegant-themes-flat-icons-2013",
+      "title": "Elegant Themes “Beautiful Flat Icons”",
+      "href": "references/elegant-themes-flat-icons-2013.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "emerson-patriot-radio-1940",
+      "title": "Emerson Patriot radio",
+      "href": "references/emerson-patriot-radio-1940.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "streamline-moderne"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "emery-walker-trust-website",
+      "title": "Emery Walker’s House website",
+      "href": "references/emery-walker-trust-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "evernote-android-2015",
+      "title": "Evernote for Android",
+      "href": "references/evernote-android-2015.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "material-design"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "evolution-oliva-barbero-2019",
+      "title": "Evolution (Daniel Oliva Barbero)",
+      "href": "references/evolution-oliva-barbero-2019.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "exptypo-website-2008",
+      "title": "EXP.TYPO website, 2008",
+      "href": "references/exptypo-website-2008.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "grunge-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "barbara-brown-expansion-fabric-1966",
+      "title": "Expansion furnishing fabric",
+      "href": "references/barbara-brown-expansion-fabric-1966.html",
+      "type": "object",
+      "medium": "textile",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "rand-book-week-poster-1958",
+      "title": "Explore with books, Book Week poster",
+      "href": "references/rand-book-week-poster-1958.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "riley-fall-1963",
+      "title": "Fall",
+      "href": "references/riley-fall-1963.html",
+      "type": "image",
+      "medium": "painting",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "far-side-virtual-cover-2011",
+      "title": "Far Side Virtual cover art",
+      "href": "references/far-side-virtual-cover-2011.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "fastmail-website-2020",
+      "title": "Fastmail website, 2020",
+      "href": "references/fastmail-website-2020.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ff-trixie-typeface-1991",
+      "title": "FF Trixie typeface",
+      "href": "references/ff-trixie-typeface-1991.html",
+      "type": "product",
+      "medium": "typeface",
+      "styles": [
+        "grunge-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "flagey-building-brussels",
+      "title": "Flagey Building, Brussels",
+      "href": "references/flagey-building-brussels.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "streamline-moderne"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "flatuicolors-com-website-2014",
+      "title": "Flat UI Colors website, 2014",
+      "href": "references/flatuicolors-com-website-2014.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "flat-ui-free-kit-designmodo",
+      "title": "Flat UI Free kit",
+      "href": "references/flat-ui-free-kit-designmodo.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "floral-shoppe-cover-2011",
+      "title": "Floral Shoppe cover art",
+      "href": "references/floral-shoppe-cover-2011.html",
+      "type": "print",
+      "medium": "packaging",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "flutter-neumorphic-package",
+      "title": "Flutter Neumorphic",
+      "href": "references/flutter-neumorphic-package.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "franco-grignani-info-website",
+      "title": "Franco Grignani blog",
+      "href": "references/franco-grignani-info-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "franz-ferdinand-website-2006",
+      "title": "Franz Ferdinand website, 2006",
+      "href": "references/franz-ferdinand-website-2006.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "girard-fruit-trees-fabric-1960",
+      "title": "Fruit Trees furnishing fabric",
+      "href": "references/girard-fruit-trees-fabric-1960.html",
+      "type": "object",
+      "medium": "textile",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "game-boy-color-atomic-purple-1998",
+      "title": "Game Boy Color in Atomic Purple",
+      "href": "references/game-boy-color-atomic-purple-1998.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "game-center-2010",
+      "title": "Game Center, iOS 4.1, 2010",
+      "href": "references/game-center-2010.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "rashid-garbo-waste-can-1996",
+      "title": "Garbo waste can",
+      "href": "references/rashid-garbo-waste-can-1996.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "y2k"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "generalitat-catalunya-election-video-2024",
+      "title": "Generalitat de Catalunya election information video",
+      "href": "references/generalitat-catalunya-election-video-2024.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "genesis-soil-website",
+      "title": "Genesis soil intelligence website",
+      "href": "references/genesis-soil-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "upa-gerald-mcboing-boing-1950",
+      "title": "Gerald McBoing-Boing",
+      "href": "references/upa-gerald-mcboing-boing-1950.html",
+      "type": "object",
+      "medium": "other",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "majorelle-gilt-bench-1900",
+      "title": "Gilt bench by Louis Majorelle",
+      "href": "references/majorelle-gilt-bench-1900.html",
+      "type": "object",
+      "medium": "furniture",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mucha-gismonda-poster-1894",
+      "title": "Gismonda poster by Alphonse Mucha",
+      "href": "references/mucha-gismonda-poster-1894.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "going-under-video-game-2020",
+      "title": "Going Under (Aggro Crab, 2020)",
+      "href": "references/going-under-video-game-2020.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "google-material-theme-2018",
+      "title": "Google Material Theme (Material Design 2)",
+      "href": "references/google-material-theme-2018.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "material-design"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "play-google-com-website-2016",
+      "title": "Google Play store website, 2016",
+      "href": "references/play-google-com-website-2016.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "skeleton-and-roses-avalon-poster-1966",
+      "title": "Grateful Dead at the Avalon Ballroom (Skeleton and Roses)",
+      "href": "references/skeleton-and-roses-avalon-poster-1966.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "aoxomoxoa-album-cover-1969",
+      "title": "Grateful Dead, Aoxomoxoa, album cover",
+      "href": "references/aoxomoxoa-album-cover-1969.html",
+      "type": "print",
+      "medium": "packaging",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "greyhound-bus-station-huntington",
+      "title": "Greyhound bus station, Huntington, West Virginia",
+      "href": "references/greyhound-bus-station-huntington.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "streamline-moderne"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "guimard-paris-metro-entrance-1900",
+      "title": "Guimard Métro entrance, Porte Dauphine, Paris",
+      "href": "references/guimard-paris-metro-entrance-1900.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "klimt-foundation-website",
+      "title": "Gustav Klimt | Wien 1900 Foundation website",
+      "href": "references/klimt-foundation-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "handspring-visor-deluxe-2000",
+      "title": "Handspring Visor Deluxe",
+      "href": "references/handspring-visor-deluxe-2000.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "handspring-website-2000",
+      "title": "Handspring website, 2000",
+      "href": "references/handspring-website-2000.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hit-vibes-cover-2013",
+      "title": "Hit Vibes cover art",
+      "href": "references/hit-vibes-cover-2013.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hortamuseum-website-2013",
+      "title": "Horta Museum website, 2013",
+      "href": "references/hortamuseum-website-2013.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "humaaans-illustration-library-2018",
+      "title": "Humaaans illustration library (Pablo Stanley)",
+      "href": "references/humaaans-illustration-library-2018.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hype4-glassmorphism-generator",
+      "title": "Hype4 Academy glassmorphism CSS generator",
+      "href": "references/hype4-glassmorphism-generator.html",
+      "type": "website",
+      "medium": "software",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ibooks-ipad-2010",
+      "title": "iBooks on the iPad, 2010",
+      "href": "references/ibooks-ipad-2010.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ical-os-x-lion-2011",
+      "title": "iCal in Mac OS X Lion, 2011",
+      "href": "references/ical-os-x-lion-2011.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "brenner-big-tech-cartoons-illustration-2019",
+      "title": "Illustration for “Don’t Worry, These Gangly-armed Cartoons…” (Katharina Brenner)",
+      "href": "references/brenner-big-tech-cartoons-illustration-2019.html",
+      "type": "image",
+      "medium": "editorial",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "imac-g3-bondi-blue-1998",
+      "title": "iMac G3 in Bondi Blue",
+      "href": "references/imac-g3-bondi-blue-1998.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "inbox-by-gmail-2014",
+      "title": "Inbox by Gmail",
+      "href": "references/inbox-by-gmail-2014.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "invisiblecreature-website",
+      "title": "Invisible Creature website",
+      "href": "references/invisiblecreature-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ios-7-interface-2013",
+      "title": "iOS 7 interface",
+      "href": "references/ios-7-interface-2013.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "ios-7-interface",
+      "title": "iOS 7 interface",
+      "href": "references/ios-7-interface.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "jefferson-airplane-fillmore-poster-1966",
+      "title": "Jefferson Airplane at the Fillmore Auditorium (BG-1)",
+      "href": "references/jefferson-airplane-fillmore-poster-1966.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "jimflora-website",
+      "title": "Jim Flora website",
+      "href": "references/jimflora-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "flying-eyeball-hendrix-poster-1968",
+      "title": "Jimi Hendrix, John Mayall, Albert King (Flying Eyeball)",
+      "href": "references/flying-eyeball-hendrix-poster-1968.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "jotform-website",
+      "title": "Jotform website",
+      "href": "references/jotform-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "jotform-website-2018",
+      "title": "JotForm website, 2018",
+      "href": "references/jotform-website-2018.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kaboom-ui-website",
+      "title": "KABOOM! UI website",
+      "href": "references/kaboom-ui-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "pop-art",
+        "neo-brutalism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kde-plasma-6-desktop",
+      "title": "KDE Plasma 6 desktop",
+      "href": "references/kde-plasma-6-desktop.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "weingart-kunsthalle-basel-kunstkredit-poster-1977",
+      "title": "Kunsthalle Basel Kunstkredit 76-77 poster",
+      "href": "references/weingart-kunsthalle-basel-kunstkredit-poster-1977.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "new-wave-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kunsthaus-graz-2003",
+      "title": "Kunsthaus Graz",
+      "href": "references/kunsthaus-graz-2003.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "harper-ladybug-screen-print-1959",
+      "title": "Ladybug screen print",
+      "href": "references/harper-ladybug-screen-print-1959.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "lato-typeface",
+      "title": "Lato typeface",
+      "href": "references/lato-typeface.html",
+      "type": "object",
+      "medium": "typeface",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hoffmann-gitterwerk-basket",
+      "title": "Lattice basket (Gitterwerk)",
+      "href": "references/hoffmann-gitterwerk-basket.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "moser-gitterwerk-bud-vase",
+      "title": "Lattice bud vase (Gitterwerk)",
+      "href": "references/moser-gitterwerk-bud-vase.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "cercle-guimard-website",
+      "title": "Le Cercle Guimard website",
+      "href": "references/cercle-guimard-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "leather-notepad-illustration-2013",
+      "title": "Leather notepad illustration, 2013",
+      "href": "references/leather-notepad-illustration-2013.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "rodchenko-lef-journal-cover-1924",
+      "title": "Lef journal, issue 4",
+      "href": "references/rodchenko-lef-journal-cover-1924.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "rodchenko-lengiz-books-poster-1924",
+      "title": "Lengiz “Books” poster",
+      "href": "references/rodchenko-lengiz-books-poster-1924.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "letterpress-app-2012",
+      "title": "Letterpress word game",
+      "href": "references/letterpress-app-2012.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "love-stamp-1973",
+      "title": "LOVE stamp",
+      "href": "references/love-stamp-1973.html",
+      "type": "print",
+      "medium": "other",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "indiana-love-screenprint-1967",
+      "title": "Love, screenprint",
+      "href": "references/indiana-love-screenprint-1967.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lovelace-soft-ui-home-assistant",
+      "title": "Lovelace Soft UI for Home Assistant",
+      "href": "references/lovelace-soft-ui-home-assistant.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "crane-maw-lustre-vase-1889",
+      "title": "Lustre vase by Walter Crane for Maw & Co.",
+      "href": "references/crane-maw-lustre-vase-1889.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "macos-big-sur-interface",
+      "title": "macOS Big Sur interface",
+      "href": "references/macos-big-sur-interface.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "stenberg-man-with-a-movie-camera-poster-1929",
+      "title": "Man with a Movie Camera poster",
+      "href": "references/stenberg-man-with-a-movie-camera-poster-1929.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "warhol-marilyn-diptych-1962",
+      "title": "Marilyn Diptych",
+      "href": "references/warhol-marilyn-diptych-1962.html",
+      "type": "object",
+      "medium": "painting",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "warhol-marilyn-screenprint-1967",
+      "title": "Marilyn Monroe (Marilyn), shocking pink colourway",
+      "href": "references/warhol-marilyn-screenprint-1967.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "marina-apollonio-website",
+      "title": "Marina Apollonio website",
+      "href": "references/marina-apollonio-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "material-color-palette-2014",
+      "title": "Material Design color palette",
+      "href": "references/material-color-palette-2014.html",
+      "type": "product",
+      "medium": "other",
+      "styles": [
+        "material-design"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "material-design-guidelines-2014",
+      "title": "Material Design guidelines, first edition",
+      "href": "references/material-design-guidelines-2014.html",
+      "type": "product",
+      "medium": "other",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "material-design-lite-2015",
+      "title": "Material Design Lite",
+      "href": "references/material-design-lite-2015.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "material-product-icons-2014",
+      "title": "Material Design product icons",
+      "href": "references/material-product-icons-2014.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "material-system-icons-2014",
+      "title": "Material Design system icons",
+      "href": "references/material-system-icons-2014.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "material-ui-website-2018",
+      "title": "Material-UI website, 2018",
+      "href": "references/material-ui-website-2018.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "materializecss-website",
+      "title": "Materialize documentation website",
+      "href": "references/materializecss-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mercury-weather-website",
+      "title": "Mercury Weather website",
+      "href": "references/mercury-weather-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "metroui-org-ua-website-2013",
+      "title": "Metro UI CSS website, 2013",
+      "href": "references/metroui-org-ua-website-2013.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "klein-artificial-beauty-venus-1998",
+      "title": "Micha Klein, Artificial Beauty “Venus”",
+      "href": "references/klein-artificial-beauty-venus-1998.html",
+      "type": "image",
+      "medium": "photograph",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "vasarely-com-website",
+      "title": "Michèle Vasarely Foundation website",
+      "href": "references/vasarely-com-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "microsoft-bob-1995",
+      "title": "Microsoft Bob, 1995",
+      "href": "references/microsoft-bob-1995.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "microsoft-fluent-acrylic-material",
+      "title": "Microsoft Fluent Acrylic material",
+      "href": "references/microsoft-fluent-acrylic-material.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mindtwitch-website-2008",
+      "title": "Mindtwitch Interactive website, 2008",
+      "href": "references/mindtwitch-website-2008.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "grunge-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "sharp-mister-tambourine-man-poster-1967",
+      "title": "Mister Tambourine Man",
+      "href": "references/sharp-mister-tambourine-man-poster-1967.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mondriaanhuis-website",
+      "title": "Mondriaanhuis website",
+      "href": "references/mondriaanhuis-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mondriangenerator-com-website",
+      "title": "Mondrian Generator (mondriangenerator.com)",
+      "href": "references/mondriangenerator-com-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "morire-typeface",
+      "title": "Morire typeface",
+      "href": "references/morire-typeface.html",
+      "type": "product",
+      "medium": "typeface",
+      "styles": [
+        "grunge-typography"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "morris-and-co-sussex-armchair",
+      "title": "Morris & Co. Sussex armchair",
+      "href": "references/morris-and-co-sussex-armchair.html",
+      "type": "object",
+      "medium": "furniture",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "morris-and-co-website-2020",
+      "title": "Morris & Co. website, 2020",
+      "href": "references/morris-and-co-website-2020.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mtv-international-rebrand-2015",
+      "title": "MTV International rebrand, 2015",
+      "href": "references/mtv-international-rebrand-2015.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "musee-ecole-de-nancy-website",
+      "title": "Musée de l’École de Nancy website",
+      "href": "references/musee-ecole-de-nancy-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "museu-modernisme-website",
+      "title": "Museu del Modernisme de Barcelona website",
+      "href": "references/museu-modernisme-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lustig-nausea-book-jacket",
+      "title": "Nausea book jacket, New Classics series",
+      "href": "references/lustig-nausea-book-jacket.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "costachung-neumorphic-swiftui",
+      "title": "Neumorphic for SwiftUI",
+      "href": "references/costachung-neumorphic-swiftui.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "neumorphism-day-and-night-webflow-website",
+      "title": "Neumorphism Day and Night",
+      "href": "references/neumorphism-day-and-night-webflow-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "themesberg-neumorphism-ui-website",
+      "title": "Neumorphism UI by Themesberg",
+      "href": "references/themesberg-neumorphism-ui-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "neumorphism-io-website",
+      "title": "Neumorphism.io",
+      "href": "references/neumorphism-io-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "neuropol-typeface-1996",
+      "title": "Neuropol typeface",
+      "href": "references/neuropol-typeface-1996.html",
+      "type": "product",
+      "medium": "typeface",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "new-york-worlds-fair-poster-binder-1939",
+      "title": "New York World’s Fair poster by Joseph Binder",
+      "href": "references/new-york-worlds-fair-poster-binder-1939.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "streamline-moderne",
+        "art-deco"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "news-at-11-cover-2016",
+      "title": "News at 11 cover art",
+      "href": "references/news-at-11-cover-2016.html",
+      "type": "print",
+      "medium": "packaging",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "newsstand-ios-2011",
+      "title": "Newsstand, iOS 5 and 6",
+      "href": "references/newsstand-ios-2011.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "nicecard-website",
+      "title": "Nicecard",
+      "href": "references/nicecard-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "nightwave-plaza-website",
+      "title": "Nightwave Plaza",
+      "href": "references/nightwave-plaza-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "weingart-nine-collages-poster-1974",
+      "title": "Nine Collages: The New Graphics by Weingart",
+      "href": "references/weingart-nine-collages-poster-1974.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "new-wave-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "noll-ninety-parallel-sinusoids-1964",
+      "title": "Ninety Parallel Sinusoids with Linearly Increasing Period",
+      "href": "references/noll-ninety-parallel-sinusoids-1964.html",
+      "type": "image",
+      "medium": "photograph",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "nintendo-website-2001",
+      "title": "Nintendo website, 2001",
+      "href": "references/nintendo-website-2001.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "nngroup-flat-design-article-2015",
+      "title": "NN/g, “Flat Design: Its Origins, Its Problems, and Why Flat 2.0 Is Better for Users”",
+      "href": "references/nngroup-flat-design-article-2015.html",
+      "type": "website",
+      "medium": "editorial",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "ios-notes-legal-pad",
+      "title": "Notes on iPhone, to iOS 6",
+      "href": "references/ios-notes-legal-pad.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "obeygiant-website",
+      "title": "Obey Giant website",
+      "href": "references/obeygiant-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "obeygiant-website-2010",
+      "title": "Obey Giant website, 2010",
+      "href": "references/obeygiant-website-2010.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "vasarely-oeta-screenprint-1959",
+      "title": "Oeta – 1956",
+      "href": "references/vasarely-oeta-screenprint-1959.html",
+      "type": "print",
+      "medium": "painting",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "office-com-website-2013",
+      "title": "Office.com website, 2013",
+      "href": "references/office-com-website-2013.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "okeechobee-fest-website",
+      "title": "Okeechobee Music & Arts Festival website",
+      "href": "references/okeechobee-fest-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "scott-paper-op-art-paper-dress-1966",
+      "title": "Op-art paper dress",
+      "href": "references/scott-paper-op-art-paper-dress-1966.html",
+      "type": "object",
+      "medium": "textile",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ramshaw-watkins-optik-art-earrings",
+      "title": "Optik Art earrings",
+      "href": "references/ramshaw-watkins-optik-art-earrings.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "wes-wilson-otis-rush-grateful-dead-poster-1967",
+      "title": "Otis Rush, Grateful Dead, Canned Heat at the Fillmore",
+      "href": "references/wes-wilson-otis-rush-grateful-dead-poster-1967.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "oz-magazine-4-cover-1967",
+      "title": "Oz magazine no. 4, cover",
+      "href": "references/oz-magazine-4-cover-1967.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "greiman-pacific-wave-poster-1987",
+      "title": "Pacific Wave, Museo Fortuny poster",
+      "href": "references/greiman-pacific-wave-poster-1987.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "new-wave-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "panic-coda-website-2012",
+      "title": "Panic Coda 2 website, 2012",
+      "href": "references/panic-coda-website-2012.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "panic-transmit-website-2011",
+      "title": "Panic Transmit website, 2011",
+      "href": "references/panic-transmit-website-2011.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "morris-peacock-and-dragon-textile-1878",
+      "title": "Peacock and Dragon woven wool",
+      "href": "references/morris-peacock-and-dragon-textile-1878.html",
+      "type": "object",
+      "medium": "textile",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "pennsylvania-railroad-s1-locomotive-1939",
+      "title": "Pennsylvania Railroad S1 locomotive at the 1939 World’s Fair",
+      "href": "references/pennsylvania-railroad-s1-locomotive-1939.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "streamline-moderne"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "pioneer-zephyr-brochure-1934",
+      "title": "Pioneer Zephyr brochure, 1934",
+      "href": "references/pioneer-zephyr-brochure-1934.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "streamline-moderne"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "pioneer-zephyr-1934",
+      "title": "Pioneer Zephyr, 1934",
+      "href": "references/pioneer-zephyr-1934.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "streamline-moderne"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "playstation-website-2000",
+      "title": "PlayStation website, 2000",
+      "href": "references/playstation-website-2000.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "firefox-pocket-rainbow-reader-2020",
+      "title": "Pocket “rainbow reader” illustration in Firefox",
+      "href": "references/firefox-pocket-rainbow-reader-2020.html",
+      "type": "image",
+      "medium": "software",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "podcasts-app-reel-to-reel-2012",
+      "title": "Podcasts app, 2012",
+      "href": "references/podcasts-app-reel-to-reel-2012.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "poolsuite-website",
+      "title": "Poolsuite",
+      "href": "references/poolsuite-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mucha-documents-decoratifs-poppies-1902",
+      "title": "Poppy plate from Mucha’s Documents décoratifs",
+      "href": "references/mucha-documents-decoratifs-poppies-1902.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "klimt-adele-bloch-bauer-i-1907",
+      "title": "Portrait of Adele Bloch-Bauer I",
+      "href": "references/klimt-adele-bloch-bauer-i-1907.html",
+      "type": "image",
+      "medium": "painting",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "moser-13th-secession-exhibition-poster-1902",
+      "title": "Poster for the 13th Secession exhibition",
+      "href": "references/moser-13th-secession-exhibition-poster-1902.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "roller-16th-secession-exhibition-poster-1903",
+      "title": "Poster for the 16th Secession exhibition",
+      "href": "references/roller-16th-secession-exhibition-poster-1903.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "olbrich-cologne-exhibition-poster-stamp-1907",
+      "title": "Poster stamp for the Cologne exhibition, 1907",
+      "href": "references/olbrich-cologne-exhibition-poster-stamp-1907.html",
+      "type": "print",
+      "medium": "other",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "stepanova-printed-flannel-1924",
+      "title": "Printed flannel with chevrons",
+      "href": "references/stepanova-printed-flannel-1924.html",
+      "type": "object",
+      "medium": "textile",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "propellerhead-reason-2000",
+      "title": "Propellerhead Reason, 2000",
+      "href": "references/propellerhead-reason-2000.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "ray-gun-bryan-ferry-dingbats-spread-1994",
+      "title": "Ray Gun Bryan Ferry interview in Zapf Dingbats",
+      "href": "references/ray-gun-bryan-ferry-dingbats-spread-1994.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "grunge-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ray-gun-12-l7-issue-1993",
+      "title": "Ray Gun no. 12, “The LA episode”",
+      "href": "references/ray-gun-12-l7-issue-1993.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "grunge-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ray-gun-premiere-issue-1992",
+      "title": "Ray Gun, premiere issue",
+      "href": "references/ray-gun-premiere-issue-1992.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "grunge-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "reactor-typeface-fuse-1993",
+      "title": "Reactor typeface, FUSE poster",
+      "href": "references/reactor-typeface-fuse-1993.html",
+      "type": "product",
+      "medium": "typeface",
+      "styles": [
+        "grunge-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "rietveld-red-blue-chair",
+      "title": "Red Blue Chair",
+      "href": "references/rietveld-red-blue-chair.html",
+      "type": "object",
+      "medium": "furniture",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "red-house-bexleyheath",
+      "title": "Red House, Bexleyheath",
+      "href": "references/red-house-bexleyheath.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "reeder-website-2011",
+      "title": "Reeder website, 2011",
+      "href": "references/reeder-website-2011.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "skeuomorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "reflect-app-website",
+      "title": "Reflect notes website",
+      "href": "references/reflect-app-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "rietveld-schroder-house",
+      "title": "Rietveld Schröder House, Utrecht",
+      "href": "references/rietveld-schroder-house.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "riga-art-nouveau-centre-website",
+      "title": "Riga Art Nouveau Centre website",
+      "href": "references/riga-art-nouveau-centre-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "roboto-typeface-2014",
+      "title": "Roboto",
+      "href": "references/roboto-typeface-2014.html",
+      "type": "object",
+      "medium": "typeface",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "beall-ss-united-states-poster-1952",
+      "title": "S.S. United States poster",
+      "href": "references/beall-ss-united-states-poster-1952.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "samxie-website",
+      "title": "Sam Xie portfolio",
+      "href": "references/samxie-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "san-francisco-oracle-10-cover-1967",
+      "title": "San Francisco Oracle, vol. 1 no. 10, cover",
+      "href": "references/san-francisco-oracle-10-cover-1967.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "greiman-sci-arc-changing-concepts-poster-1986",
+      "title": "Sci-Arc “Changing Concepts” poster",
+      "href": "references/greiman-sci-arc-changing-concepts-poster-1986.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "new-wave-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "se7en-title-sequence-1995",
+      "title": "Se7en title sequence",
+      "href": "references/se7en-title-sequence-1995.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "grunge-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "olbrich-secession-building",
+      "title": "Secession Building, Vienna",
+      "href": "references/olbrich-secession-building.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "shag-website",
+      "title": "Shag website",
+      "href": "references/shag-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lichtenstein-shipboard-girl-1965",
+      "title": "Shipboard Girl",
+      "href": "references/lichtenstein-shipboard-girl-1965.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "guimard-chair-1907",
+      "title": "Side chair by Hector Guimard",
+      "href": "references/guimard-chair-1907.html",
+      "type": "object",
+      "medium": "furniture",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "silver-diner-website",
+      "title": "Silver Diner website",
+      "href": "references/silver-diner-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "streamline-moderne"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ashbee-silver-kettle-1900",
+      "title": "Silver kettle by C. R. Ashbee",
+      "href": "references/ashbee-silver-kettle-1900.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "plyuto-skeuomorph-mobile-banking-2019",
+      "title": "Skeuomorph Mobile Banking",
+      "href": "references/plyuto-skeuomorph-mobile-banking-2019.html",
+      "type": "image",
+      "medium": "app",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "slack-website-2018",
+      "title": "Slack website, 2018",
+      "href": "references/slack-website-2018.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "sleep-cycle-neumorphism-redesign-2020",
+      "title": "Sleep Cycle App – Neumorphism Redesign",
+      "href": "references/sleep-cycle-neumorphism-redesign-2020.html",
+      "type": "image",
+      "medium": "app",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "paperpillar-smart-calendar-app-2020",
+      "title": "Smart Calendar App (Dribbble shot)",
+      "href": "references/paperpillar-smart-calendar-app-2020.html",
+      "type": "image",
+      "medium": "app",
+      "styles": [
+        "glassmorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "sony-memory-stick-walkman-nw-ms7-2000",
+      "title": "Sony Memory Stick Walkman NW-MS7",
+      "href": "references/sony-memory-stick-walkman-nw-ms7-2000.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "sparton-nocturne-radio-teague",
+      "title": "Sparton Nocturne radio, model 1186",
+      "href": "references/sparton-nocturne-radio-teague.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "streamline-moderne"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "van-doesburg-stained-glass-composition-iv-1917",
+      "title": "Stained-Glass Composition IV",
+      "href": "references/van-doesburg-stained-glass-composition-iv-1917.html",
+      "type": "object",
+      "medium": "other",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "horta-hotel-tassel-staircase-1893",
+      "title": "Staircase hall of the Hôtel Tassel, Brussels",
+      "href": "references/horta-hotel-tassel-staircase-1893.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "stasher-website-2018",
+      "title": "Stasher website, 2018",
+      "href": "references/stasher-website-2018.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hoffmann-stoclet-palace",
+      "title": "Stoclet Palace, Brussels",
+      "href": "references/hoffmann-stoclet-palace.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "morris-strawberry-thief-textile",
+      "title": "Strawberry Thief furnishing textile",
+      "href": "references/morris-strawberry-thief-textile.html",
+      "type": "object",
+      "medium": "textile",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "riley-study-for-intake-1964",
+      "title": "Study for the painting “Intake”",
+      "href": "references/riley-study-for-intake-1964.html",
+      "type": "image",
+      "medium": "painting",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hulaween-website",
+      "title": "Suwannee Hulaween festival website",
+      "href": "references/hulaween-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "tailwindcss-neumorphism-demo-website",
+      "title": "tailwindcss-neumorphism demo",
+      "href": "references/tailwindcss-neumorphism-demo-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "tamagotchi-1997",
+      "title": "Tamagotchi",
+      "href": "references/tamagotchi-1997.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "popova-stars-in-circles-textile-design",
+      "title": "Textile design with stars in circles",
+      "href": "references/popova-stars-in-circles-textile-design.html",
+      "type": "print",
+      "medium": "textile",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "the-craftsman-magazine-february-1915",
+      "title": "The Craftsman, February 1915",
+      "href": "references/the-craftsman-magazine-february-1915.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "end-of-print-carson-1995",
+      "title": "The End of Print: The Graphic Design of David Carson",
+      "href": "references/end-of-print-carson-1995.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "grunge-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "whatisthematrix-website-2000",
+      "title": "The Matrix website, 2000",
+      "href": "references/whatisthematrix-website-2000.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "y2k"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "moscoso-miller-blues-band-matrix-poster-1967",
+      "title": "The Miller Blues Band at the Matrix (Neon Rose #2)",
+      "href": "references/moscoso-miller-blues-band-matrix-poster-1967.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hapshash-move-pink-floyd-ufo-poster-1967",
+      "title": "The Move and Pink Floyd at UFO",
+      "href": "references/hapshash-move-pink-floyd-ufo-poster-1967.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "beardsley-peacock-skirt-1894",
+      "title": "The Peacock Skirt, Beardsley’s illustration for Salome",
+      "href": "references/beardsley-peacock-skirt-1894.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "art-nouveau"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "the-responsive-eye-catalogue-1965",
+      "title": "The Responsive Eye",
+      "href": "references/the-responsive-eye-catalogue-1965.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "trps-website",
+      "title": "The Rock Poster Society website",
+      "href": "references/trps-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "the-source-psychedelic-art-store-1967",
+      "title": "The Source, a psychedelic art store in Washington, D.C.",
+      "href": "references/the-source-psychedelic-art-store-1967.html",
+      "type": "image",
+      "medium": "photograph",
+      "styles": [
+        "psychedelic-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kelmscott-chaucer-1896",
+      "title": "The Works of Geoffrey Chaucer (Kelmscott Chaucer)",
+      "href": "references/kelmscott-chaucer-1896.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "tokywoky-website-2020",
+      "title": "TokyWoky website, 2020",
+      "href": "references/tokywoky-website-2020.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "tomfroese-website",
+      "title": "Tom Froese website",
+      "href": "references/tomfroese-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "morris-trellis-wallpaper",
+      "title": "Trellis wallpaper",
+      "href": "references/morris-trellis-wallpaper.html",
+      "type": "object",
+      "medium": "other",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "trustworth-studios-website",
+      "title": "Trustworth Studios website",
+      "href": "references/trustworth-studios-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "twist-website-2018",
+      "title": "Twist website, 2018",
+      "href": "references/twist-website-2018.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "weingart-typografische-monatsblatter-covers-1972-1973",
+      "title": "Typografische Monatsblätter covers, 1972–1973",
+      "href": "references/weingart-typografische-monatsblatter-covers-1972-1973.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "new-wave-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ui-neumorphism-docs-website",
+      "title": "ui-neumorphism documentation",
+      "href": "references/ui-neumorphism-docs-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "neumorphism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "undraw-illustration-library",
+      "title": "unDraw illustration library (Katerina Limpitsouni)",
+      "href": "references/undraw-illustration-library.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "lissitzky-russische-ausstellung-poster-1929",
+      "title": "USSR Russische Ausstellung poster, Zurich",
+      "href": "references/lissitzky-russische-ausstellung-poster-1929.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "vandoesburghuis-website",
+      "title": "Van Doesburghuis website",
+      "href": "references/vandoesburghuis-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "de-stijl"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "vaporesources-website",
+      "title": "Vaporesources",
+      "href": "references/vaporesources-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "vaporwave-guide-neocities-website",
+      "title": "Vaporwave Guide (Neocities)",
+      "href": "references/vaporwave-guide-neocities-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "grauer-vaporwave-wallpaper-2018",
+      "title": "Vaporwave wallpaper (Mike Grauer Jr)",
+      "href": "references/grauer-vaporwave-wallpaper-2018.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "vaporwave-neocities-website",
+      "title": "vaporwave.neocities.org",
+      "href": "references/vaporwave-neocities-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "greiman-vertigo-business-cards-1980",
+      "title": "Vertigo business cards",
+      "href": "references/greiman-vertigo-business-cards-1980.html",
+      "type": "print",
+      "medium": "other",
+      "styles": [
+        "new-wave-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "bass-vertigo-poster-1958",
+      "title": "Vertigo poster",
+      "href": "references/bass-vertigo-poster-1958.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "mid-century-modern"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lissitzky-veshch-cover-1922",
+      "title": "Veshch/Gegenstand/Objet cover, issue 1–2",
+      "href": "references/lissitzky-veshch-cover-1922.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "wienmodern2019-website",
+      "title": "Vienna on the Path to Modernism exhibition website",
+      "href": "references/wienmodern2019-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "vienna-secession"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "voysey-block-printed-silk-bed-cover",
+      "title": "Voysey block-printed silk bed cover",
+      "href": "references/voysey-block-printed-silk-bed-cover.html",
+      "type": "object",
+      "medium": "textile",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "voysey-tulip-wallpaper",
+      "title": "Voysey Tulip wallpaper",
+      "href": "references/voysey-tulip-wallpaper.html",
+      "type": "object",
+      "medium": "other",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "vuetify-v1-website",
+      "title": "Vuetify 1.5 documentation website",
+      "href": "references/vuetify-v1-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "material-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lichtenstein-whaam-1963",
+      "title": "Whaam!",
+      "href": "references/lichtenstein-whaam-1963.html",
+      "type": "object",
+      "medium": "painting",
+      "styles": [
+        "pop-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "wikicon-brasil-2022-figure",
+      "title": "WikiCon Brasil 2022 visual identity figure (Isadora Pinheiro)",
+      "href": "references/wikicon-brasil-2022-figure.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "wikimedia-android-microcontributions-report-2019",
+      "title": "Wikimedia Foundation research report cover with Humaaans figures",
+      "href": "references/wikimedia-android-microcontributions-report-2019.html",
+      "type": "print",
+      "medium": "other",
+      "styles": [
+        "corporate-memphis"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "wikiwave-vaporwave-art-2020",
+      "title": "Wikiwave 00000",
+      "href": "references/wikiwave-vaporwave-art-2020.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "vaporwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "william-morris-archive-website",
+      "title": "William Morris Archive website",
+      "href": "references/william-morris-archive-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "morris-society-us-website",
+      "title": "William Morris Society in the United States website",
+      "href": "references/morris-society-us-website.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "arts-and-crafts"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "windows-8-logo-pentagram-2012",
+      "title": "Windows 8 logo",
+      "href": "references/windows-8-logo-pentagram-2012.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "windows-8-1-calculator-app",
+      "title": "Windows 8.1 Calculator app",
+      "href": "references/windows-8-1-calculator-app.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "windows-8-1-start-screen",
+      "title": "Windows 8.1 Start screen (geometric version)",
+      "href": "references/windows-8-1-start-screen.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "windowsazure-com-website-2013",
+      "title": "Windows Azure website, 2013",
+      "href": "references/windowsazure-com-website-2013.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "dev-windows-com-website-2012",
+      "title": "Windows Dev Center website, 2012",
+      "href": "references/dev-windows-com-website-2012.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "windows-phone-7-metro-2010",
+      "title": "Windows Phone 7 and the Metro interface",
+      "href": "references/windows-phone-7-metro-2010.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "windowsphone-com-website-2013",
+      "title": "Windows Phone website, 2013",
+      "href": "references/windowsphone-com-website-2013.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "windows-com-website-2013",
+      "title": "Windows website, 2013",
+      "href": "references/windows-com-website-2013.html",
+      "type": "website",
+      "medium": "website",
+      "styles": [
+        "flat-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "wipeout-2097-designers-republic-1996",
+      "title": "Wipeout 2097 graphics by The Designers Republic",
+      "href": "references/wipeout-2097-designers-republic-1996.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "y2k"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "grignani-woolmark-logo-1964",
+      "title": "Woolmark logo",
+      "href": "references/grignani-woolmark-logo-1964.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "op-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "klutsis-everyone-vote-poster-1930",
+      "title": "Worker Men and Women: Everyone Vote in the Soviet Elections",
+      "href": "references/klutsis-everyone-vote-poster-1930.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "constructivism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "greiman-your-turn-my-turn-poster-1983",
+      "title": "Your Turn My Turn poster",
+      "href": "references/greiman-your-turn-my-turn-poster-1983.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "new-wave-typography"
       ],
       "status": "observed"
     }

@@ -1,0 +1,710 @@
+{
+  "id": "glassmorphism",
+  "title": "Glassmorphism",
+  "order": 15,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Glassmorphic",
+    "Glasmorphismus",
+    "Acrylic (Microsoft Fluent)"
+  ],
+  "summary": "Frosted, translucent panels that float over vivid color. Interface glass of the 2020s.",
+  "lede": "An interface style of the 2020s: semi-transparent panels with a strong background blur, rounded corners, and a thin light edge, placed over vivid gradients or colorful shapes so that the color shows through as a soft glow. The designer Michał Malewicz named it in 2020. Microsoft’s Fluent design system calls the same material Acrylic.",
+  "moods": [
+    "airy",
+    "layered",
+    "luminous",
+    "premium",
+    "calm"
+  ],
+  "era": {
+    "from": 2020,
+    "note": "Named in 2020 and popular in web and app concepts from 2020–2021. Apple’s Liquid Glass (2025) and other operating systems brought translucency back into mainstream interfaces. Fluent Acrylic (2017) is an earlier implementation under another name."
+  },
+  "regions": [
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q138454357"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Glassmorphism",
+      "url": "https://en.wikipedia.org/wiki/Glassmorphism",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Nielsen Norman Group: Glassmorphism: Definition and Best Practices (Megan Brown, 2024-06-07)",
+      "url": "https://www.nngroup.com/articles/glassmorphism/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Michał Malewicz: Glassmorphism in user interfaces (Hype4 Academy; body behind a login, title and author checked)",
+      "url": "https://hype4.academy/articles/design/glassmorphism-in-user-interfaces",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "t3n: Design-Trend 2021: Das ist Glasmorphismus (Dieter Petereit, 2021-03-11)",
+      "url": "https://t3n.de/news/design-trend-2021-dir-bekannt-1365503/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Everyday UX: Glassmorphism in 2025 (Jess Eddy, 2025-08-12)",
+      "url": "https://www.everydayux.net/glassmorphism-apple-liquid-glass-interface-design/",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "label": "Neumorphism",
+      "wikidata": "Q102244095",
+      "note": "Wikipedia and t3n (2021) describe glassmorphism as the successor of neumorphism. Malewicz, who by his own account started the neumorphism trend a year earlier, named glassmorphism in 2020. It keeps the floating card but replaces low-contrast extruded shadows with translucency and color."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Fluent Design System (Acrylic)",
+      "wikidata": "Q29900635",
+      "note": "Microsoft’s Fluent Design System (2017) defines Acrylic, a translucent, blurred material. NN/g and t3n both name it as glassmorphism under another name."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Windows Aero",
+      "wikidata": "Q219710",
+      "note": "Wikipedia, citing UXMA, names the glass window borders of Windows Vista and Windows 7 as precursors."
+    },
+    {
+      "relation": "related-to",
+      "style": "frutiger-aero",
+      "note": "Both use translucent glass. Frutiger Aero adds a gloss highlight, reflections, sky gradients, and nature imagery. Glassmorphism uses matte, frosted glass over abstract color."
+    },
+    {
+      "relation": "related-to",
+      "style": "flat-design",
+      "note": "Wikipedia reports that glassmorphism began to replace flat design in interface design by the mid-2020s. The content inside the glass stays flat."
+    },
+    {
+      "relation": "related-to",
+      "label": "Liquid Glass",
+      "wikidata": "Q134784675",
+      "note": "Apple’s 2025 design language. Wikipedia and Everyday UX treat it as a development of glassmorphism that adds refraction, specular edges, and motion."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "Frosted glass.",
+      "text": "Panels have a semi-transparent white or tinted fill and a strong background blur. Shapes behind them show as soft, out-of-focus color."
+    },
+    {
+      "facet": "surface",
+      "term": "Light edge.",
+      "text": "A 1 px border in translucent white marks the edge of the glass. A soft, wide shadow lifts the panel."
+    },
+    {
+      "facet": "color",
+      "term": "Vivid backdrop.",
+      "text": "Saturated gradients or large colored blobs sit behind the glass, often violet, pink, blue, and orange on a dark or light base. The glass itself stays neutral."
+    },
+    {
+      "facet": "structure",
+      "term": "Floating cards.",
+      "text": "Content sits in separate rounded cards that float above the backdrop. Depth comes from layer order and from different levels of opacity, not from perspective."
+    },
+    {
+      "facet": "type",
+      "term": "Clean sans-serif.",
+      "text": "Geometric or neo-grotesque sans-serif type, often white on dark glass or dark on light glass, with little decoration."
+    },
+    {
+      "facet": "layout",
+      "term": "Large radii.",
+      "text": "Corners are round, typically 12–24 px on cards and fully rounded on buttons and chips."
+    },
+    {
+      "facet": "imagery",
+      "term": "Abstract color fields.",
+      "text": "Gradient spheres, mesh gradients, and colorful photos serve as the backdrop. The glass panels themselves carry little or no imagery."
+    }
+  ],
+  "synthesis": [
+    "The references confirm the recipe that the record gives. [Malewicz’s naming article](ref:malewicz-glassmorphism-article-2020) lists four traits: background blur, floating layers, vivid color, and a subtle light border. Its header image and the [Smart Calendar App](ref:paperpillar-smart-calendar-app-2020) shot that it cites show all four. The [Hype4 generator](ref:hype4-glassmorphism-generator) turns them into CSS: a 15 % white fill, a 20 px blur, a 20 px radius, and a 1 px border at 30 % white.",
+    "The style names a material that operating systems already had. [iOS 7](ref:ios-7-interface) brought blurred layers to phones in 2013, [Fluent Acrylic](ref:microsoft-fluent-acrylic-material) fixed a recipe of blur, tint, and noise in 2017, and [macOS Big Sur](ref:macos-big-sur-interface) showed it on a vivid wallpaper in 2020. [visionOS](ref:apple-visionos-glass-material) and [Liquid Glass](ref:apple-liquid-glass-2025) continue it, but over rooms and photos and with refraction. The web version depended on [backdrop-filter](ref:css-backdrop-filter-property), which Chrome shipped in 2019.",
+    "Real websites in the full style are rare. About 55 candidates were captured and three were kept: [Genesis](ref:genesis-soil-website) and [Mercury Weather](ref:mercury-weather-website) as clear examples, and [Reflect](ref:reflect-app-website) as borderline. Most product sites use glass only on the navigation bar or show glass as rendered imagery. The css.glass generator passes every metric but was dropped because it describes the style. On real sites the blur sits on a minority of boxes, so the blur threshold was lowered from 0.5 to 0.3.",
+    "Two limits of the measurement remain. A photo backdrop keeps the chromatic share low ([Genesis](ref:genesis-soil-website): 0.10), so judge photo-backed glass by the rubric. Real glass cards often use gradient fills and inset shadows instead of a CSS border, so [Genesis](ref:genesis-soil-website) and [Reflect](ref:reflect-app-website) fail the border and gradient metrics and also pass the [Frutiger Aero](style:frutiger-aero) fingerprint."
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Panels are translucent, and the shapes behind them look blurred through the panel.",
+      "A vivid gradient or colorful shapes sit behind the panels.",
+      "Panels have a thin, light border and rounded corners.",
+      "Panels float as separate cards with soft shadows."
+    ],
+    "counter": [
+      "Panels are opaque, or translucent without any blur.",
+      "A glossy highlight band on the upper half of buttons or panels.",
+      "Visible material textures such as leather, wood, or brushed metal.",
+      "Hard offset shadows or thick black outlines."
+    ],
+    "confusions": [
+      {
+        "with": "frutiger-aero",
+        "difference": "Frutiger Aero glass is glossy, with a bright highlight on the upper half, reflections, sky-and-water gradients, and nature imagery. Glassmorphism glass is matte and frosted, and the backdrop is abstract color."
+      },
+      {
+        "with": "Neumorphism",
+        "difference": "Neumorphism shapes are opaque and the same color as the background. They rise or sink through paired light and dark shadows. Glassmorphism panels are translucent and contrast with a colorful backdrop."
+      },
+      {
+        "with": "flat-design",
+        "difference": "Flat design uses opaque, solid fills with no blur and little depth. Glassmorphism keeps the content flat but puts it on translucent, blurred layers over color."
+      },
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphic interfaces imitate specific physical objects and textures. Glassmorphism uses only one abstract material, frosted glass, and keeps the content flat."
+      },
+      {
+        "with": "Liquid Glass",
+        "difference": "Apple’s Liquid Glass bends and magnifies what is behind it and adds moving specular edges. Classic glassmorphism only blurs and tints."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Put a vivid gradient or large colored shapes behind the content, so that the glass has something to blur.",
+      "Give panels a translucent fill (10–40 % white or a tinted dark), a background blur of 12–40 px, a 1 px translucent white border, and a radius of 16–24 px.",
+      "Lift panels with a wide, soft shadow of low opacity.",
+      "Use layers of different opacity to show hierarchy: the more opaque the panel, the more important the content.",
+      "Use a clean sans-serif and keep the content inside the glass flat.",
+      "Give the primary action an opaque fill so that it stands out from the glass."
+    ],
+    "dont": [
+      "Do not put text directly on the busy backdrop. Put it on glass that is opaque and blurred enough for a contrast of at least 4.5:1.",
+      "Do not use translucency without blur. Clear transparency makes text hard to read.",
+      "Do not stack many glass layers on top of each other.",
+      "Do not add gloss highlights, reflections, or material textures.",
+      "Do not depend on backdrop-filter alone. Give the panel a fill that stays readable when the browser does not support blur or the user asks for reduced transparency."
+    ],
+    "uses": [
+      "Operating system and app interfaces",
+      "Dashboards and widgets",
+      "Fintech and crypto landing pages",
+      "Music and media players",
+      "Product launch pages"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.blurShare",
+      "min": 0.3,
+      "note": "Background blur sits on the glass panels and chips, not on the text and link boxes inside them. Calibrated from 0.5 to 0.3: the clear captures [Genesis](ref:genesis-soil-website) (0.37) and [Mercury Weather](ref:mercury-weather-website) (0.40) both failed 0.5 for that reason."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "min": 0.3,
+      "note": "A vivid backdrop shows through the glass. Calibrated from 0.35 to 0.3 on [Mercury Weather](ref:mercury-weather-website) (0.33, dark violet glow). Photo backdrops fail it: [Genesis](ref:genesis-soil-website) measures 0.10."
+    },
+    {
+      "metric": "surface.radius.median",
+      "min": 14,
+      "note": "Large radii on cards and pills. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.border.share",
+      "min": 0.5,
+      "note": "Most panels have a thin light edge. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.border.medianWidth",
+      "max": 1.5,
+      "note": "The edge is a hairline, not an outline. Provisional."
+    },
+    {
+      "metric": "surface.gradientShare",
+      "max": 0.3,
+      "note": "Glass fills are flat and frosted. Gloss gradients on surfaces point to Frutiger Aero. Provisional."
+    }
+  ],
+  "page": "glassmorphism.html",
+  "implementation": {
+    "tokens": "implementations/glassmorphism/tokens.json",
+    "css": "implementations/glassmorphism/tokens.css",
+    "tailwind": "implementations/glassmorphism/tailwind.css",
+    "shadcn": "implementations/glassmorphism/shadcn.css",
+    "registry": "implementations/glassmorphism/registry-item.json",
+    "designMd": "implementations/glassmorphism/DESIGN.md",
+    "specimen": "implementations/glassmorphism/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for glassmorphism. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#120e35",
+        "$description": "Deep indigo base under the color blobs."
+      },
+      "surface": {
+        "$value": "#ffffff1f",
+        "$description": "Frosted glass: 12 % white. Use with blur.md."
+      },
+      "subtle": {
+        "$value": "#ffffff14",
+        "$description": "A fainter glass layer for rows and chips."
+      },
+      "text": {
+        "$value": "#ffffff"
+      },
+      "muted": {
+        "$value": "#ddd8fb"
+      },
+      "border": {
+        "$value": "#ffffff47",
+        "$description": "The light edge of the glass."
+      },
+      "primary": {
+        "$value": "#ffffff",
+        "$description": "Opaque white action on translucent glass."
+      },
+      "on-primary": {
+        "$value": "#2b1a78"
+      },
+      "secondary": {
+        "$value": "#ffffff29"
+      },
+      "on-secondary": {
+        "$value": "#ffffff"
+      },
+      "accent": {
+        "$value": "#ffb86b"
+      },
+      "on-accent": {
+        "$value": "#120e35"
+      },
+      "violet": {
+        "$value": "#7c3aed"
+      },
+      "fuchsia": {
+        "$value": "#b0209f"
+      },
+      "blue": {
+        "$value": "#2459e0"
+      },
+      "orange": {
+        "$value": "#f0661f"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "SF Pro Display",
+          "Segoe UI Variable Display",
+          "Inter",
+          "system-ui",
+          "-apple-system",
+          "Helvetica Neue",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "SF Pro Text",
+          "Segoe UI Variable Text",
+          "Inter",
+          "system-ui",
+          "-apple-system",
+          "Helvetica Neue",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "SF Mono",
+          "Cascadia Mono",
+          "ui-monospace",
+          "Menlo",
+          "monospace"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 600
+      },
+      "display": {
+        "$value": 700
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "19px"
+      },
+      "xl": {
+        "$value": "24px"
+      },
+      "2xl": {
+        "$value": "30px"
+      },
+      "3xl": {
+        "$value": "40px"
+      },
+      "4xl": {
+        "$value": "56px"
+      },
+      "5xl": {
+        "$value": "76px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.05
+      },
+      "body": {
+        "$value": 1.55
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.03,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": -0.015,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.04,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "18px"
+      },
+      "lg": {
+        "$value": "26px"
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "1.5px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "20px"
+      },
+      "lg": {
+        "$value": "32px"
+      },
+      "xl": {
+        "$value": "56px"
+      },
+      "2xl": {
+        "$value": "88px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "sm": {
+        "$value": {
+          "color": "#0a062433",
+          "offsetX": "0px",
+          "offsetY": "4px",
+          "blur": "16px",
+          "spread": "0px"
+        }
+      },
+      "md": {
+        "$value": {
+          "color": "#0a06244d",
+          "offsetX": "0px",
+          "offsetY": "12px",
+          "blur": "40px",
+          "spread": "0px"
+        }
+      }
+    },
+    "blur": {
+      "$type": "dimension",
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      }
+    },
+    "gradient": {
+      "$type": "gradient",
+      "backdrop": {
+        "$value": {
+          "angle": "160deg",
+          "stops": [
+            {
+              "color": "#120e35",
+              "position": 0
+            },
+            {
+              "color": "#1d1150",
+              "position": 0.5
+            },
+            {
+              "color": "#0d1a4a",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "The base under the color blobs. The blobs carry the saturated color."
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "malewicz-glassmorphism-article-2020",
+      "title": "“Glassmorphism in user interfaces”",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The naming text of the style. Its header illustration is itself a textbook example: frosted cards with light edges over a cyan-to-magenta gradient.",
+      "page": "references/malewicz-glassmorphism-article-2020.html",
+      "source": "https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "apple-liquid-glass-2025",
+      "title": "Apple Liquid Glass",
+      "medium": "operating-system",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Related branch, partial fit. It keeps the frosted, floating layer but adds refraction and specular edges, which the style’s rubric treats as a separate confusion.",
+      "page": "references/apple-liquid-glass-2025.html",
+      "source": "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "apple-visionos-glass-material",
+      "title": "Apple visionOS glass material",
+      "medium": "operating-system",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit. The glass, blur, radii, and opacity levels match, but the backdrop is a real room, not vivid color. NN/g and Everyday UX use it as a current example.",
+      "page": "references/apple-visionos-glass-material.html",
+      "source": "https://developer.apple.com/design/human-interface-guidelines/materials",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "css-backdrop-filter-property",
+      "title": "CSS backdrop-filter property",
+      "medium": "other",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The enabling technology. The style’s web spread in 2020–2021 followed Chrome’s support in 2019.",
+      "page": "references/css-backdrop-filter-property.html",
+      "source": "https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "genesis-soil-website",
+      "title": "Genesis soil intelligence website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example: translucent, blurred cards with large radii float over the backdrop, and the content inside them stays flat. The backdrop is a photo, not abstract color.",
+      "page": "references/genesis-soil-website.html",
+      "source": "https://www.genesis.live/",
+      "image": "assets/references/genesis-soil-website.jpg",
+      "measurement": "data/measurements/genesis-soil-website.json"
+    },
+    {
+      "id": "hype4-glassmorphism-generator",
+      "title": "Hype4 Academy glassmorphism CSS generator",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Documents the style as code, from the person who named it. The CSS values it outputs are a direct recipe for the specimen.",
+      "page": "references/hype4-glassmorphism-generator.html",
+      "source": "https://hype4.academy/tools/glassmorphism-generator",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "ios-7-interface",
+      "title": "iOS 7 interface",
+      "medium": "operating-system",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Precursor. Malewicz writes that background blur “was first widely introduced in 2013 with iOS 7”.",
+      "page": "references/ios-7-interface.html",
+      "source": "https://www.apple.com/newsroom/2013/06/10Apple-Unveils-iOS-7/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "kde-plasma-6-desktop",
+      "title": "KDE Plasma 6 desktop",
+      "medium": "operating-system",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit. Only the launcher and the panel are glass; the application windows are opaque and grey.",
+      "page": "references/kde-plasma-6-desktop.html",
+      "source": "https://commons.wikimedia.org/wiki/File:KDE_Plasma_6.4.5_Light.png",
+      "image": "assets/references/kde-plasma-6-desktop.jpg",
+      "measurement": "data/measurements/kde-plasma-6-desktop.json"
+    },
+    {
+      "id": "macos-big-sur-interface",
+      "title": "macOS Big Sur interface",
+      "medium": "operating-system",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Malewicz’s naming article and Everyday UX both name Big Sur as the moment the style entered a mainstream desktop. Its Control Center matches every diagnostic trait.",
+      "page": "references/macos-big-sur-interface.html",
+      "source": "https://www.apple.com/newsroom/2020/06/apple-introduces-macos-big-sur-with-a-beautiful-new-design/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "mercury-weather-website",
+      "title": "Mercury Weather website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear example: translucent chips and cards with hairline light borders and large radii over a colored glow. The glass is dark and tinted rather than white.",
+      "page": "references/mercury-weather-website.html",
+      "source": "https://mercuryweather.app/",
+      "image": "assets/references/mercury-weather-website.jpg",
+      "measurement": "data/measurements/mercury-weather-website.json"
+    },
+    {
+      "id": "microsoft-fluent-acrylic-material",
+      "title": "Microsoft Fluent Acrylic material",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "NN/g and t3n name Acrylic as glassmorphism under another name, and Malewicz quotes it in the naming article. It is the style’s material in a shipping design system.",
+      "page": "references/microsoft-fluent-acrylic-material.html",
+      "source": "https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "reflect-app-website",
+      "title": "Reflect notes website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the app window is dark translucent glass that the violet glow shows through, but the page is mostly near-black and uses small radii.",
+      "page": "references/reflect-app-website.html",
+      "source": "https://reflect.app/",
+      "image": "assets/references/reflect-app-website.jpg",
+      "measurement": "data/measurements/reflect-app-website.json"
+    },
+    {
+      "id": "paperpillar-smart-calendar-app-2020",
+      "title": "Smart Calendar App (Dribbble shot)",
+      "medium": "app",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear concept example from the Dribbble wave, cited by Malewicz for its 1 pt semi-transparent white outline that simulates the glass edge.",
+      "page": "references/paperpillar-smart-calendar-app-2020.html",
+      "source": "https://dribbble.com/shots/13842720-Smart-Calendar-App",
+      "image": null,
+      "measurement": null
+    }
+  ]
+}

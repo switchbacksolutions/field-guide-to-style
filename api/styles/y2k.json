@@ -1,0 +1,870 @@
+{
+  "id": "y2k",
+  "title": "Y2K aesthetic",
+  "order": 17,
+  "status": "draft",
+  "naming": "internet-aesthetic",
+  "aliases": [
+    "Y2K",
+    "Y2K style",
+    "Y2K futurism",
+    "Cybercore"
+  ],
+  "summary": "Chrome, candy-colored plastic, and blobs. The future as it looked around the year 2000.",
+  "lede": "The techno-optimist look of the late 1990s and early 2000s: chrome and silver surfaces, translucent candy-colored plastic, blobby capsule shapes, glows, and wide techno type. The Consumer Aesthetics Research Institute and its founder Evan Collins collected and named it. Since about 2020 “Y2K” also means 2000s fashion in general. This record covers the retrofuturist core, which Wikipedia says is sometimes called Cybercore.",
+  "moods": [
+    "techno-optimistic",
+    "shiny",
+    "playful",
+    "futuristic"
+  ],
+  "era": {
+    "from": 1997,
+    "to": 2004,
+    "note": "Wikipedia: the late 1990s and early 2000s, after Memphis and before Frutiger Aero. The translucent iMac G3 appeared in 1998. Wikidata gives 1990–2007, and the Guardian (2016) places the peak around the dot-com boom. A revival runs from about 2020."
+  },
+  "regions": [
+    "International",
+    "United States",
+    "Japan",
+    "United Kingdom"
+  ],
+  "identifiers": {
+    "wikidata": "Q130484971"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Y2K aesthetic",
+      "url": "https://en.wikipedia.org/wiki/Y2K_aesthetic",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Consumer Aesthetics Research Institute: Y2K Aesthetic",
+      "url": "https://cari.institute/aesthetics/y2k-aesthetic",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "The Guardian (19 May 2016): The Y2K aesthetic: who knew the look of the year 2000 would endure?",
+      "url": "https://www.theguardian.com/technology/2016/may/19/year-2000-y2k-millennium-design-aesthetic",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "AIGA Eye on Design (27 October 2022): The Y2K aesthetic is fully back, but can it stick around?",
+      "url": "https://eyeondesign.aiga.org/the-y2k-aesthetic-is-fully-back-but-can-it-stick-around/",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Retrofuturism",
+      "wikidata": "Q919036",
+      "note": "Wikipedia calls Y2K a retrofuturistic aesthetic with notable influence from 1970s design trends."
+    },
+    {
+      "relation": "related-to",
+      "label": "Blobject",
+      "wikidata": "Q4927065",
+      "note": "Wikipedia names blobjects as a core trait. In the Guardian, Evan Collins says that new CAD software let designers try curves, blobs, gradients, layered transparencies, and lens flares for the first time."
+    },
+    {
+      "relation": "related-to",
+      "label": "The Designers Republic",
+      "wikidata": "Q377192",
+      "note": "Wikipedia says the Sheffield studio is sometimes associated with popularizing the look."
+    },
+    {
+      "relation": "related-to",
+      "style": "memphis",
+      "note": "Wikipedia places Y2K directly after Memphis design (mid-1980s to mid-1990s). Bright colors and bold forms continue, but plastic and metal replace laminate patterns."
+    },
+    {
+      "relation": "related-to",
+      "style": "frutiger-aero",
+      "note": "Wikipedia and CARI treat Frutiger Aero as the separate aesthetic that followed Y2K in the mid-2000s. It keeps the gloss but swaps chrome and cyber-futurism for water, sky, and nature."
+    },
+    {
+      "relation": "related-to",
+      "style": "vaporwave",
+      "note": "In the Guardian, Collins says he began to collect Y2K material because vaporwave had explored the earlier 1990s but not the late 1990s and early 2000s."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "surface",
+      "term": "Chrome and mirror.",
+      "text": "Silver metallic gradients with a hard highlight line, reflective text and logos, and lens flares."
+    },
+    {
+      "facet": "surface",
+      "term": "Translucent candy plastic.",
+      "text": "See-through colored casings, as on the 1998 iMac G3, in blue, tangerine, lime, grape, and pink. Frosted or glittered finishes are common."
+    },
+    {
+      "facet": "structure",
+      "term": "Blobs and capsules.",
+      "text": "Curves, pills, droplets, and soft organic “blobjects”. Sharp corners are rare."
+    },
+    {
+      "facet": "type",
+      "term": "Techno and bubble type.",
+      "text": "Wide extended sans-serifs such as Eurostile and Microgramma, rounded or inflated letters, and pixel or OCR faces at small sizes. Headings are often uppercase and widely spaced."
+    },
+    {
+      "facet": "color",
+      "term": "Silver with electric accents.",
+      "text": "Silver, white, and icy blue carry the surface. Lime, orange, hot pink, and purple appear as bright accents."
+    },
+    {
+      "facet": "imagery",
+      "term": "The digital future.",
+      "text": "3D renders, cyborgs, orbit rings, sparkle stars, digital rain, and interface motifs such as loading bars and rendered buttons."
+    },
+    {
+      "facet": "layout",
+      "term": "Interface as device.",
+      "text": "Panels frame content like a device screen or a spacecraft console, with thin technical lines, small coded labels, and capsule controls."
+    },
+    {
+      "facet": "motion",
+      "term": "Glow and shine.",
+      "text": "Elements glow from within instead of casting shadows. Highlights sweep across chrome, and buttons pulse."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Chrome or silver surfaces with metallic gradients and a hard highlight line.",
+      "Translucent or glossy plastic in candy colors such as blue, tangerine, lime, or pink.",
+      "Blobby, capsule, or droplet shapes. Corners are rounded.",
+      "Wide techno or inflated display type, often uppercase with wide spacing.",
+      "Futuristic motifs: sparkle stars, orbit rings, glows, interface lines, or 3D renders."
+    ],
+    "counter": [
+      "Water, grass, and open sky as the main imagery.",
+      "Flat color with no metal, gloss, or transparency.",
+      "Square gray window bevels, classical statues, and sunset grids.",
+      "Warm natural materials such as leather, wood, or paper.",
+      "Serif or script display type."
+    ],
+    "confusions": [
+      {
+        "with": "frutiger-aero",
+        "difference": "Frutiger Aero is sky, water, and green nature in airy blues, with humanist type. Y2K is chrome, silver, and candy plastic with cyber-futurist motifs and techno type."
+      },
+      {
+        "with": "vaporwave",
+        "difference": "Vaporwave looks back ironically at earlier 1990s software and consumer culture: gray square windows, Greek statues, pink and purple sunset grids. Y2K looks forward with sincere optimism, in silver and rounded plastic."
+      },
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphism imitates specific everyday objects and warm materials such as leather and paper. Y2K uses abstract futuristic materials: chrome, glow, and translucent plastic."
+      },
+      {
+        "with": "glassmorphism",
+        "difference": "Glassmorphism uses matte frosted panels with a subtle border and no metal. Y2K surfaces are shiny, metallic, or saturated plastic, with glows and techno type."
+      },
+      {
+        "with": "McBling",
+        "difference": "McBling is 2000s celebrity and fashion glamour: pink, rhinestones, and logo branding. Wikipedia says the two are sometimes conflated. Y2K core is technological rather than glamorous."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use silver chrome gradients with a hard highlight line for bars, frames, and headings.",
+      "Give panels a translucent candy color, such as Bondi blue, tangerine, or lime, with a light inner glow.",
+      "Round corners generously. Use capsules, pills, and blob shapes.",
+      "Set headings in a wide techno sans-serif, uppercase and widely spaced. Use a pixel or OCR face for small labels.",
+      "Make light come from objects: use glows with no offset instead of drop shadows.",
+      "Add small futuristic motifs: sparkle stars, orbit rings, loading bars, coded labels."
+    ],
+    "dont": [
+      "Do not use nature imagery such as water, grass, or clouds as the theme. That is Frutiger Aero.",
+      "Do not use square gray window bevels or sunset grids. That is Vaporwave.",
+      "Do not let iridescent rainbow film dominate. It was rarer in the period than in the revival.",
+      "Do not put body text on chrome or saturated plastic without checking contrast.",
+      "Do not use serif, script, or condensed grotesque display type."
+    ],
+    "uses": [
+      "Music and club events",
+      "Consumer technology launches",
+      "Fashion and beauty",
+      "Games",
+      "Nostalgic campaigns"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.gradientShare",
+      "min": 0.4,
+      "note": "Chrome and plastic: most surfaces carry metallic or candy gradients. Provisional: set from the specimen. The 2000–2001 website captures measure 0 or nothing here because they drew this with images or Flash (see the synthesis)."
+    },
+    {
+      "metric": "type.headingTracking",
+      "min": 0.06,
+      "note": "Techno display type is wide and widely spaced. Provisional: set from the specimen. The 2000–2001 website captures measure 0 or nothing here because they drew this with images or Flash (see the synthesis)."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "min": 0.12,
+      "note": "Headings, labels, and controls are set in capitals. Provisional: set from the specimen. The 2000–2001 website captures measure 0 or nothing here because they drew this with images or Flash (see the synthesis)."
+    },
+    {
+      "metric": "color.hues",
+      "min": 3,
+      "note": "Candy-plastic accents in several hues on the silver base. Provisional: set from the specimen. The 2000–2001 website captures measure 0 or nothing here because they drew this with images or Flash (see the synthesis)."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.2,
+      "note": "Glows are common: objects give off light. Provisional: set from the specimen. The 2000–2001 website captures measure 0 or nothing here because they drew this with images or Flash (see the synthesis)."
+    },
+    {
+      "metric": "surface.shadow.hardShare",
+      "max": 0.2,
+      "note": "Glows and halos are blurred, not hard offset shadows or square bevels. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.median",
+      "min": 10,
+      "note": "Capsules and blobs: corners are generously rounded. Provisional: set from the specimen. The 2000–2001 website captures measure 0 or nothing here because they drew this with images or Flash (see the synthesis)."
+    }
+  ],
+  "synthesis": [
+    "Products carry the style most clearly. The [iMac G3](ref:imac-g3-bondi-blue-1998) set translucent candy plastic in 1998, and the [Game Boy Color](ref:game-boy-color-atomic-purple-1998), the [Handspring Visor](ref:handspring-visor-deluxe-2000), and the [Memory Stick Walkman](ref:sony-memory-stick-walkman-nw-ms7-2000) spread it through small electronics, the last with silver and a wide techno wordmark. The [Tamagotchi](ref:tamagotchi-1997) and the [Garbo waste can](ref:rashid-garbo-waste-can-1996) show the candy blobject before the iMac, and the [Kunsthaus Graz](ref:kunsthaus-graz-2003) shows it at building scale at the end of the period.",
+    "Graphics supply the type and the coded labels. The Designers Republic’s [Wipeout 2097](ref:wipeout-2097-designers-republic-1996) and [Blech ticket](ref:designers-republic-blech-ticket-1996) use model codes, warnings, and LCD type; [Neuropol](ref:neuropol-typeface-1996) is the wide techno face that spread as freeware, with a chrome version. [Micha Klein](ref:klein-artificial-beauty-venus-1998) shows rendered crystals and lens flares, and the [All Is Full of Love](ref:bjork-all-is-full-of-love-video-1999) video shows the white, clinical edge of the cyborg motif.",
+    "Websites of the period: the [Nintendo](ref:nintendo-website-2001) page (2001) draws the whole page as a device, and the [*NSYNC](ref:nsync-website-2000) Flash intro (2000) gathers orbs, reflections, glows, and slanted techno type; both are clear. The [Handspring](ref:handspring-website-2000), [PlayStation](ref:playstation-website-2000), and [Matrix](ref:whatisthematrix-website-2000) pages are borderline. Of 24 archived pages tried, most were dropped: images missing from the archive, Flash that did not render, redirects, or pages that did not use the style.",
+    "The fingerprint describes CSS implementations, such as revival sites and the specimen. All five period captures fail it for the same reason: gloss, capsules, glows, and spaced capitals are GIF, JPEG, or Flash, so computed styles report no gradients, shadows, radii, or capitals. The ranges were not changed. Judge historical pages with the rubric, not the fingerprint."
+  ],
+  "page": "y2k.html",
+  "implementation": {
+    "tokens": "implementations/y2k/tokens.json",
+    "css": "implementations/y2k/tokens.css",
+    "tailwind": "implementations/y2k/tailwind.css",
+    "shadcn": "implementations/y2k/shadcn.css",
+    "registry": "implementations/y2k/registry-item.json",
+    "designMd": "implementations/y2k/DESIGN.md",
+    "specimen": "implementations/y2k/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for y2k. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#dfe4ea",
+        "$description": "Cool silver."
+      },
+      "surface": {
+        "$value": "#f4f6f9"
+      },
+      "subtle": {
+        "$value": "#c9d0d9"
+      },
+      "text": {
+        "$value": "#0d1330"
+      },
+      "muted": {
+        "$value": "#3c4566"
+      },
+      "border": {
+        "$value": "#8e97a6",
+        "$description": "Brushed steel edge."
+      },
+      "primary": {
+        "$value": "#0079a8",
+        "$description": "Bondi blue, from the 1998 iMac casing."
+      },
+      "on-primary": {
+        "$value": "#ffffff"
+      },
+      "secondary": {
+        "$value": "#ff6a13",
+        "$description": "Tangerine."
+      },
+      "on-secondary": {
+        "$value": "#0d1330"
+      },
+      "accent": {
+        "$value": "#a6e22e",
+        "$description": "Lime."
+      },
+      "on-accent": {
+        "$value": "#0d1330"
+      },
+      "grape": {
+        "$value": "#8a3ffc"
+      },
+      "pink": {
+        "$value": "#ff3ea5"
+      },
+      "ice": {
+        "$value": "#8ee6ff",
+        "$description": "Icy blue for glows."
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Eurostile Extended",
+          "Microgramma D Extended",
+          "Microgramma",
+          "Bank Gothic",
+          "Krungthep",
+          "Arial Black",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Verdana",
+          "Tahoma",
+          "Geneva",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "OCR A Std",
+          "OCR A Extended",
+          "Andale Mono",
+          "Menlo",
+          "monospace"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 700
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "11px"
+      },
+      "sm": {
+        "$value": "13px"
+      },
+      "base": {
+        "$value": "15px"
+      },
+      "lg": {
+        "$value": "18px"
+      },
+      "xl": {
+        "$value": "22px"
+      },
+      "2xl": {
+        "$value": "28px"
+      },
+      "3xl": {
+        "$value": "40px"
+      },
+      "4xl": {
+        "$value": "56px"
+      },
+      "5xl": {
+        "$value": "76px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1
+      },
+      "body": {
+        "$value": 1.6
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0.08,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.12,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.2,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "10px"
+      },
+      "md": {
+        "$value": "22px"
+      },
+      "lg": {
+        "$value": "36px"
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "2px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "22px"
+      },
+      "lg": {
+        "$value": "36px"
+      },
+      "xl": {
+        "$value": "60px"
+      },
+      "2xl": {
+        "$value": "96px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "glow": {
+        "$value": {
+          "color": "#8ee6ffb3",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "22px",
+          "spread": "2px"
+        },
+        "$description": "Halo, not a drop shadow: the light comes from the object."
+      },
+      "glow-lime": {
+        "$value": {
+          "color": "#a6e22ecc",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "18px",
+          "spread": "1px"
+        }
+      },
+      "glow-tangerine": {
+        "$value": {
+          "color": "#ff6a13a6",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "26px",
+          "spread": "2px"
+        }
+      }
+    },
+    "gradient": {
+      "$type": "gradient",
+      "chrome": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#fbfcfe",
+              "position": 0
+            },
+            {
+              "color": "#c3cad4",
+              "position": 0.46
+            },
+            {
+              "color": "#7d8696",
+              "position": 0.5
+            },
+            {
+              "color": "#d6dce4",
+              "position": 0.78
+            },
+            {
+              "color": "#f2f4f7",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "Mirror chrome: a hard horizon line near the middle."
+      },
+      "page": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#eef1f5",
+              "position": 0
+            },
+            {
+              "color": "#d3d9e1",
+              "position": 0.5
+            },
+            {
+              "color": "#e8ebf0",
+              "position": 1
+            }
+          ]
+        }
+      },
+      "bondi": {
+        "$value": {
+          "angle": "160deg",
+          "stops": [
+            {
+              "color": "#9ee9ff",
+              "position": 0
+            },
+            {
+              "color": "#1fb3dd",
+              "position": 0.45
+            },
+            {
+              "color": "#0079a8",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "Translucent Bondi blue plastic."
+      },
+      "tangerine": {
+        "$value": {
+          "angle": "160deg",
+          "stops": [
+            {
+              "color": "#ffd29e",
+              "position": 0
+            },
+            {
+              "color": "#ff9a3d",
+              "position": 0.45
+            },
+            {
+              "color": "#ff6a13",
+              "position": 1
+            }
+          ]
+        }
+      },
+      "lime": {
+        "$value": {
+          "angle": "160deg",
+          "stops": [
+            {
+              "color": "#eaffb0",
+              "position": 0
+            },
+            {
+              "color": "#c4f050",
+              "position": 0.45
+            },
+            {
+              "color": "#8fcf1b",
+              "position": 1
+            }
+          ]
+        }
+      },
+      "iridescent": {
+        "$value": {
+          "angle": "120deg",
+          "stops": [
+            {
+              "color": "#ffd6f0",
+              "position": 0
+            },
+            {
+              "color": "#c9d9ff",
+              "position": 0.35
+            },
+            {
+              "color": "#c8fff0",
+              "position": 0.7
+            },
+            {
+              "color": "#fff3c4",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "A pale holographic film. Use sparingly: Eye on Design notes it was rarer in the period than in the revival."
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "nsync-website-2000",
+      "title": "*NSYNC website, 2000",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: glossy orbs, a floor reflection, wide slanted techno lettering, a glowing halo, a blob-edged panel, and speed lines with a star. The page draws its graphics with images, so the CSS fingerprint measures flat, square, unshadowed boxes (see the style page). Judge it by the rubric.",
+      "page": "references/nsync-website-2000.html",
+      "source": "http://www.nsync.com/",
+      "image": "assets/references/nsync-website-2000.jpg",
+      "measurement": "data/measurements/nsync-website-2000.json"
+    },
+    {
+      "id": "bjork-all-is-full-of-love-video-1999",
+      "title": "Björk, “All Is Full of Love” music video",
+      "medium": "other",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Partial fit: the humanoid robot and white-lab future of the period. The palette is white and clinical, not chrome or candy plastic.",
+      "page": "references/bjork-all-is-full-of-love-video-1999.html",
+      "source": "https://en.wikipedia.org/wiki/All_Is_Full_of_Love",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "designers-republic-blech-ticket-1996",
+      "title": "Blech club night ticket",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the Designers Republic’s Japanese-pop, coded-label side of Y2K graphics. Interface-like labels and LCD type are present; chrome and translucency are not.",
+      "page": "references/designers-republic-blech-ticket-1996.html",
+      "source": "https://collections.vam.ac.uk/item/O1681781/blech-ticket-the-designers-republic/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "game-boy-color-atomic-purple-1998",
+      "title": "Game Boy Color in Atomic Purple",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: translucent candy-colored plastic that displays the technology inside, released the same year as the iMac G3.",
+      "page": "references/game-boy-color-atomic-purple-1998.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Game-Boy-Color-Purple.jpg",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "rashid-garbo-waste-can-1996",
+      "title": "Garbo waste can",
+      "medium": "product",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Partial fit: a soft, curvy blobject in bright molded plastic from the Y2K period. It has no chrome or techno motifs.",
+      "page": "references/rashid-garbo-waste-can-1996.html",
+      "source": "https://collections.artsmia.org/art/58170/garbo-waste-can-karim-rashid",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "handspring-visor-deluxe-2000",
+      "title": "Handspring Visor Deluxe",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: translucent candy-orange plastic, visible circuit board, silver capsule buttons, and a frosted blob-shaped cradle.",
+      "page": "references/handspring-visor-deluxe-2000.html",
+      "source": "https://collections.vam.ac.uk/item/O59892/visor-deluxe-handheld-computer-handspring-international/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "handspring-website-2000",
+      "title": "Handspring website, 2000",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the translucent candy product and the rounded tab shapes carry the style; the page around them is a plain white table layout. The page draws its graphics with images, so the CSS fingerprint measures flat, square, unshadowed boxes (see the style page). Judge it by the rubric.",
+      "page": "references/handspring-website-2000.html",
+      "source": "http://www.handspring.com/",
+      "image": "assets/references/handspring-website-2000.jpg",
+      "measurement": "data/measurements/handspring-website-2000.json"
+    },
+    {
+      "id": "imac-g3-bondi-blue-1998",
+      "title": "iMac G3 in Bondi Blue",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The canonical Y2K object: translucent candy plastic, a blobby rounded shell, and a matching round mouse. Wikipedia’s Y2K article uses it as its blobject example.",
+      "page": "references/imac-g3-bondi-blue-1998.html",
+      "source": "https://collections.vam.ac.uk/item/O158296/imac-g3-personal-computer-ive-jonathan/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "kunsthaus-graz-2003",
+      "title": "Kunsthaus Graz",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: blob architecture at the end of the period, with a glossy blue translucent skin and a pixel light facade. It is architecture, so type and interface traits do not apply.",
+      "page": "references/kunsthaus-graz-2003.html",
+      "source": "https://en.wikipedia.org/wiki/Kunsthaus_Graz",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "klein-artificial-beauty-venus-1998",
+      "title": "Micha Klein, Artificial Beauty “Venus”",
+      "medium": "photograph",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: late-1990s digital-render imagery with 3D crystals, lens flares, and electric purple, blue, and pink. It has no chrome, plastic, or type.",
+      "page": "references/klein-artificial-beauty-venus-1998.html",
+      "source": "https://www.kunsthuizen.nl/kunstwerken/venus-micha-klein/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "neuropol-typeface-1996",
+      "title": "Neuropol typeface",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the wide techno type of the grammar, made in the period and spread as free software. Its companion Neurochrome renders the same letters as 3D chrome.",
+      "page": "references/neuropol-typeface-1996.html",
+      "source": "https://typodermicfonts.com/public-domain/#neuropol",
+      "image": "assets/references/neuropol-typeface-1996.png",
+      "measurement": "data/measurements/neuropol-typeface-1996.json"
+    },
+    {
+      "id": "nintendo-website-2001",
+      "title": "Nintendo website, 2001",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the page is built as a device, with a rounded periwinkle casing, dark control rails, pixel labels, and small capsule buttons. It has little chrome. The page draws its graphics with images, so the CSS fingerprint measures flat, square, unshadowed boxes (see the style page). Judge it by the rubric.",
+      "page": "references/nintendo-website-2001.html",
+      "source": "http://www.nintendo.com/",
+      "image": "assets/references/nintendo-website-2001.jpg",
+      "measurement": "data/measurements/nintendo-website-2001.json"
+    },
+    {
+      "id": "playstation-website-2000",
+      "title": "PlayStation website, 2000",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: a gateway page with Y2K motifs (orbit rings, space, widely spaced capitals) but no chrome or plastic, and very little content. The page draws its graphics with images, so the CSS fingerprint measures flat, square, unshadowed boxes (see the style page). Judge it by the rubric.",
+      "page": "references/playstation-website-2000.html",
+      "source": "http://www.playstation.com/",
+      "image": "assets/references/playstation-website-2000.jpg",
+      "measurement": "data/measurements/playstation-website-2000.json"
+    },
+    {
+      "id": "sony-memory-stick-walkman-nw-ms7-2000",
+      "title": "Sony Memory Stick Walkman NW-MS7",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: silver metallic plastic, a translucent blue panel, a rounded capsule form, chrome earbuds, and wide rounded techno lettering.",
+      "page": "references/sony-memory-stick-walkman-nw-ms7-2000.html",
+      "source": "https://collections.vam.ac.uk/item/O60018/sony-memory-stick-walkman-nw-personal-stereo-sony-corporation/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "tamagotchi-1997",
+      "title": "Tamagotchi",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: an egg-shaped blobject in candy pink and lime with a clear plastic bubble, marketed as coming from cyberspace. The card art is hand-drawn, not techno.",
+      "page": "references/tamagotchi-1997.html",
+      "source": "https://collections.vam.ac.uk/item/O37315/tamagotchi-video-game-yokoi-akihiro/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "whatisthematrix-website-2000",
+      "title": "The Matrix website, 2000",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the cyber side of the period (black, digital green, spaced techno capitals). It has no chrome, candy color, or rounded plastic. The page draws its graphics with images, so the CSS fingerprint measures flat, square, unshadowed boxes (see the style page). Judge it by the rubric.",
+      "page": "references/whatisthematrix-website-2000.html",
+      "source": "http://whatisthematrix.warnerbros.com/",
+      "image": "assets/references/whatisthematrix-website-2000.jpg",
+      "measurement": "data/measurements/whatisthematrix-website-2000.json"
+    },
+    {
+      "id": "wipeout-2097-designers-republic-1996",
+      "title": "Wipeout 2097 graphics by The Designers Republic",
+      "medium": "software",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "A documented source of the look: Wikipedia’s Y2K article names The Designers Republic as sometimes credited with popularizing it, and Wipeout is their best-known work. Its visual traits are not observed here.",
+      "page": "references/wipeout-2097-designers-republic-1996.html",
+      "source": "https://en.wikipedia.org/wiki/Wipeout_2097",
+      "image": null,
+      "measurement": null
+    }
+  ]
+}

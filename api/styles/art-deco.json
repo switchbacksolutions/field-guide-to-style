@@ -578,6 +578,18 @@
       "source": "https://www.artic.edu/artworks/18896/vase",
       "image": null,
       "measurement": null
+    },
+    {
+      "id": "new-york-worlds-fair-poster-binder-1939",
+      "title": "New York World’s Fair poster by Joseph Binder",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Late Art Deco poster: a monumental vertical axis, radiating searchlight beams, and airbrushed gradients on deep blue.",
+      "page": "references/new-york-worlds-fair-poster-binder-1939.html",
+      "source": "https://www.christies.com/en/lot/lot-5720313",
+      "image": "assets/references/new-york-worlds-fair-poster-binder-1939.jpg",
+      "measurement": "data/measurements/new-york-worlds-fair-poster-binder-1939.json"
     }
   ]
 }

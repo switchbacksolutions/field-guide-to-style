@@ -1,0 +1,729 @@
+{
+  "id": "arts-and-crafts",
+  "title": "Arts and Crafts",
+  "order": 18,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Arts and Crafts movement",
+    "Arts & Crafts",
+    "Arts & Crafts Movement",
+    "Design Reform"
+  ],
+  "summary": "Flat, dense repeats of leaves and flowers, double-ruled frames, and red-and-black old-style type on linen. Handwork against the machine.",
+  "lede": "The British-led design reform movement of about 1880 to 1920, named after the Arts and Crafts Exhibition Society (1887), that set handwork and honest materials against factory production. This record covers its graphic and pattern core, the wallpapers and textiles of Morris & Co. and C. F. A. Voysey and the private-press books of the Kelmscott Press: flat, stylized plants in dense repeats, framed text blocks, and heavy old-style type. The American Craftsman and Glasgow branches are treated as related styles.",
+  "moods": [
+    "handmade",
+    "earnest",
+    "medieval",
+    "dense",
+    "rustic"
+  ],
+  "era": {
+    "from": 1880,
+    "to": 1920,
+    "note": "Wikipedia: the movement began in the 1880s, the term was first used in 1887, and it was over in the UK by about 1920. Wikidata gives 1880 to 1910. Its visual language is older: Morris’s firm began in 1861 and his first wallpaper, Trellis, dates from 1862."
+  },
+  "regions": [
+    "United Kingdom",
+    "Ireland",
+    "United States",
+    "Canada",
+    "Germany",
+    "Austria-Hungary",
+    "Finland"
+  ],
+  "identifiers": {
+    "wikidata": "Q330369",
+    "aat": "300266319"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Arts and Crafts movement",
+      "url": "https://en.wikipedia.org/wiki/Arts_and_Crafts_movement",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikidata: Arts and Crafts movement (Q330369)",
+      "url": "https://www.wikidata.org/wiki/Q330369",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Getty Art & Architecture Thesaurus: Arts and Crafts (movement) (300266319)",
+      "url": "https://vocab.getty.edu/page/aat/300266319",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "V&A: Arts and Crafts, an introduction",
+      "url": "https://www.vam.ac.uk/articles/arts-and-crafts-an-introduction",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Gothic Revival",
+      "wikidata": "Q186363",
+      "note": "Wikipedia: Pugin, a leader of the Gothic Revival, anticipated the movement’s truth to material, structure, and function, and medieval art was the model for much Arts and Crafts design. The Kelmscott Press books imitated 15th-century printing and were part of the Gothic revival."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Design reform (Owen Jones, The Grammar of Ornament, 1856)",
+      "note": "Wikipedia: the mid-century design reformers asked for flat, simplified natural motifs instead of illusionistic ones, and for ornament that stays secondary to the thing decorated. Flat decoration became Arts and Crafts orthodoxy. Getty AAT lists “design reform movement” as a variant name."
+    },
+    {
+      "relation": "reaction-against",
+      "label": "Industrial manufacture of the 1851 Great Exhibition",
+      "note": "Wikipedia: the reformers saw the exhibits as excessively ornate, artificial, and ignorant of their materials. Getty AAT: a reaction against industrialization and the quality of manufactured goods."
+    },
+    {
+      "relation": "related-to",
+      "style": "art-nouveau",
+      "note": "Wikipedia: some writers call Arts and Crafts the root of the British Modern Style, a form of Art Nouveau; others see the two as opposed, because Arts and Crafts criticised Art Nouveau’s industrial materials such as iron."
+    },
+    {
+      "relation": "related-to",
+      "label": "American Craftsman",
+      "wikidata": "Q463382",
+      "note": "Wikipedia: the American branch of Gustav Stickley’s Craftsman workshop and Elbert Hubbard’s Roycroft, about 1910 to 1925. Its furniture and houses are plainer, square, and use little pattern. This record treats it as related, not as the core."
+    },
+    {
+      "relation": "related-to",
+      "label": "Private press movement",
+      "wikidata": "Q748822",
+      "note": "Wikipedia: the Kelmscott Press (1891–1898) started the fine press movement, which focuses on the craft and design of hand-printed books."
+    },
+    {
+      "relation": "related-to",
+      "label": "Mingei",
+      "wikidata": "Q3314961",
+      "note": "Wikipedia: Yanagi Sōetsu’s Japanese folk-craft movement of the 1920s was influenced by Morris and Ruskin and, like Arts and Crafts, set traditional handwork against industry."
+    },
+    {
+      "relation": "related-to",
+      "style": "bauhaus",
+      "note": "Wikipedia: the simplicity of the Arts and Crafts style inspired De Stijl, the Vienna Secession, and eventually the Bauhaus; Pevsner read it as a prelude to Modernism. The Bauhaus kept the unity of art and craft and dropped the ornament."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "imagery",
+      "term": "Flat, stylized nature.",
+      "text": "Leaves, flowers, fruit, vines, and birds drawn flat with firm outlines and no shading or perspective. Voysey’s wallpapers show stylized bird and plant forms in bold outlines with flat colours."
+    },
+    {
+      "facet": "structure",
+      "term": "Dense all-over repeat.",
+      "text": "Pattern covers the whole surface on a hidden lattice, a trellis, a meander, or a turnover repeat, so that stems and leaves interlace with little plain ground showing. The repeat is symmetrical and static rather than flowing."
+    },
+    {
+      "facet": "layout",
+      "term": "Framed text block.",
+      "text": "In private-press books the text is a dense rectangular block with narrow word spaces and wide outer margins, framed by a floral border and opened by a decorated initial. Craftsman and Roycroft print frames text in heavy ruled boxes. Corners are square."
+    },
+    {
+      "facet": "type",
+      "term": "Heavy old-style roman and blackletter.",
+      "text": "Dark, sturdy type after 15th-century printers: Morris’s Golden type is a Venetian roman, and his Troy and Chaucer types are gothic. Text is black, and red marks headings, initials, and side notes."
+    },
+    {
+      "facet": "color",
+      "term": "Vegetable-dye palette.",
+      "text": "Indigo blue, madder red, leaf and olive green, weld yellow, and walnut brown on unbleached linen or cream paper. Morris rejected aniline dyes for indigo, madder, and walnut, so colours are deep but not bright."
+    },
+    {
+      "facet": "surface",
+      "term": "Visible handwork.",
+      "text": "Hand-block printing, woodcut, embroidery, and hand-hammered metal. Ashbee’s Guild of Handicraft used plain hammered silver and simple stone settings; furniture shows its oak and its joints."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "A flat, dense, all-over repeat of stylized leaves, flowers, fruit, or birds covers a field with little plain ground showing.",
+      "Motifs have firm outlines and flat colour, without shading or perspective.",
+      "Text sits in a rectilinear frame: a floral border or heavy rules, often with a decorated initial.",
+      "Type is a dark old-style roman or blackletter in black, with red for headings or initials.",
+      "Colours are dyestuff tones: indigo, madder red, leaf green, and ochre on linen or cream."
+    ],
+    "counter": [
+      "Long whiplash curves, arched panels, and open, asymmetric compositions. That points to Art Nouveau.",
+      "Stepped outlines, sunbursts, and metallic gold on black. That points to Art Deco.",
+      "Bright, saturated, or fluorescent colours.",
+      "Gradients, gloss, blur, or soft drop shadows.",
+      "Rounded cards, pill buttons, or sans-serif type with no ornament."
+    ],
+    "confusions": [
+      {
+        "with": "art-nouveau",
+        "difference": "Art Nouveau lets one long, asymmetric curve move across an open ground, inside arched or leaf-shaped panels. Arts and Crafts pattern is a dense, symmetrical repeat on a hidden lattice, inside square frames."
+      },
+      {
+        "with": "art-deco",
+        "difference": "Art Deco turns nature into rays, steps, and chevrons with machine precision, metallic colour, and spaced capitals. Arts and Crafts keeps recognizable leaves and flowers, dye colours, and mixed-case old-style type."
+      },
+      {
+        "with": "Gothic Revival and High Victorian design",
+        "difference": "Both look to the Middle Ages, but Gothic Revival ornament is architectural (pointed arches and tracery), and High Victorian goods model flowers with shading. Arts and Crafts keeps the medieval sources and draws them flat."
+      },
+      {
+        "with": "American Craftsman (Mission)",
+        "difference": "The American branch shares the ideals, but its furniture and houses are plain, square, and quartersawn oak with little pattern. This record covers the patterned graphic and textile core."
+      },
+      {
+        "with": "Glasgow Style",
+        "difference": "Mackintosh and the Glasgow School use tall, straight, elongated lines, a stylized rose, and white or lilac grounds. Arts and Crafts pattern is dense and its colours are deep dye tones."
+      },
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphism imitates materials with gradients, highlights, and shadows. Arts and Crafts shows material through flat pattern and printing, without illusion."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use an unbleached linen or cream ground with near-black ink for text, and madder red for headings, initials, and key numbers.",
+      "Fill one or two large fields with a flat, dense repeat of leaves and flowers on a lattice, in indigo, green, and red.",
+      "Frame text blocks with a double rule or a patterned border, and keep every corner square.",
+      "Set text in a sturdy old-style serif in mixed case. Open sections with a decorated initial or a fleuron such as ❦ or ❧.",
+      "Use italic for labels and secondary text instead of spaced capitals."
+    ],
+    "dont": [
+      "Do not use whiplash curves or arched panels. That points to Art Nouveau.",
+      "Do not use gradients, gloss, blur, or drop shadows. Pattern and colour stay flat.",
+      "Do not use bright aniline or fluorescent colours.",
+      "Do not shade or model the motifs. Draw them flat with outlines.",
+      "Do not round corners or use pill buttons.",
+      "Do not set headings in a sans-serif or in widely spaced capitals."
+    ],
+    "uses": [
+      "Publishers, bookshops, and letterpress studios",
+      "Craft studios and makers’ markets",
+      "Historic houses and museums",
+      "Textile, wallpaper, and interior brands"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.patternShare",
+      "min": 0.12,
+      "note": "A dense, flat repeat of flowers and leaves covers a large field, such as a border or a length of cloth. The metric counts only pattern drawn in CSS. The six captured websites show pattern as images and measure 0 to 0.06, so judge real sites by the rubric (see the synthesis)."
+    },
+    {
+      "metric": "color.hues",
+      "min": 2,
+      "max": 3,
+      "note": "Two or three dye colours, such as madder red, indigo, and leaf green. Checked 2026-09-28: two of three clear captures pass; the Emery Walker site measures 1 because its colour sits in images. Widening to 1 would let the Vienna Secession and Art Deco specimens pass."
+    },
+    {
+      "metric": "color.accentChroma",
+      "min": 0.3,
+      "max": 0.55,
+      "note": "Deep vegetable-dye colours are present, weaker than primary, aniline, or neon colours. Checked 2026-09-28: all six captures measure 0.36 to 0.54."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Frames and boxes have square corners. Checked 2026-09-28: all six captures measure 0."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "Flat print and pattern, without drop shadows. Checked 2026-09-28: the three clear captures measure 0, 0, and 0.15 (Emery Walker’s cookie bar and cards); one borderline site exceeds it."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "max": 0.5,
+      "note": "Mostly mixed case, but capitals are part of the style: Crane’s 1890 exhibition ticket and the Kelmscott Chaucer headings are set in capitals. Calibrated 2026-09-28 from 0.15 to 0.5: two of three clear captures measure 0.16 and 0.46."
+    },
+    {
+      "metric": "type.monoShare",
+      "max": 0.1,
+      "note": "Old-style serif and blackletter, never monospace. All six captures measure 0. Added 2026-09-28 to replace the border-width marker, which let the grunge specimen through once removed."
+    }
+  ],
+  "synthesis": [
+    "The rubric’s dense, symmetrical repeat is the mode of Morris’s mature textiles. [Strawberry Thief](ref:morris-strawberry-thief-textile) and [Peacock and Dragon](ref:morris-peacock-and-dragon-textile-1878) mirror birds and plants across a vertical axis and leave only thin lines of ground, and Voysey’s [bed cover](ref:voysey-block-printed-silk-bed-cover) stacks mirrored flowers in rows on blue.",
+    "Correction to the prospect record: not all Arts and Crafts pattern is dense or symmetrical. Morris’s first wallpaper, [Trellis](ref:morris-trellis-wallpaper), leaves about half the sheet as open cream ground and places its birds irregularly, and Voysey’s [Tulip](ref:voysey-tulip-wallpaper) paper uses long, unmirrored S-curves in pale colours that come close to [Art Nouveau](style:art-nouveau). Judge a pattern by flat drawing with firm outlines first, and by density and symmetry second.",
+    "The deep indigo and madder palette belongs mainly to the indigo-discharge cottons. The woven wools, the wallpapers, and Voysey’s work run lighter: salmon, sage, cream, pale blue, and orange. Red appears most often in fruit and flowers, and on paper in one-colour prints such as Crane’s [lustre vase](ref:crane-maw-lustre-vase-1889).",
+    "In print, the [Kelmscott Chaucer](ref:kelmscott-chaucer-1896) keeps its dense vine borders for opening spreads; its text pages are plain two-column blackletter with small red side notes. Its frames are single lines. Crane’s [exhibition ticket](ref:crane-arts-and-crafts-exhibition-season-ticket-1890) has a double-line frame, but its lettering is all capitals with middle dots between words. Capitals, red side notes, and single or double rules all belong to the style; the specimen’s heavy double-ruled boxes are one choice among them.",
+    "The objects show the plain side of the movement: hammered silver in [Ashbee’s kettle](ref:ashbee-silver-kettle-1900), the turned, rush-seated [Sussex armchair](ref:morris-and-co-sussex-armchair), and the red brick and medieval arches of [Red House](ref:red-house-bexleyheath). They share honest material and visible making, not pattern.",
+    "Few websites use the style; most sites about it are modern templates. The clearest are institutions tied to the movement: [Emery Walker’s House](ref:emery-walker-trust-website) puts a woven Morris pattern behind red serif headings, the [Voysey Society](ref:voysey-society-website) uses Voysey-style red lettering, a serif text face, and olive rules, and the [William Morris Archive](ref:william-morris-archive-website) sets its title in a Troy type revival between pattern corners. The [Morris Society in the United States](ref:morris-society-us-website), [Trustworth Studios](ref:trustworth-studios-website), and the 2020 [Morris & Co.](ref:morris-and-co-website-2020) page are borderline: they add a pattern image or a lettered wordmark to a conventional layout.",
+    "The fingerprint describes CSS implementations. Real sites show pattern as photographs or image files, so `color.patternShare` measures 0 to 0.06 on all six captures; judge sites by the rubric for that trait. The captures draw frames with 1 px rules, so the heavy-border marker was removed, and they set navigation and link blocks in capitals, so the uppercase limit was raised to 0.5. A no-monospace marker keeps the grunge specimen out."
+  ],
+  "page": "arts-and-crafts.html",
+  "implementation": {
+    "tokens": "implementations/arts-and-crafts/tokens.json",
+    "css": "implementations/arts-and-crafts/tokens.css",
+    "tailwind": "implementations/arts-and-crafts/tailwind.css",
+    "shadcn": "implementations/arts-and-crafts/shadcn.css",
+    "registry": "implementations/arts-and-crafts/registry-item.json",
+    "designMd": "implementations/arts-and-crafts/DESIGN.md",
+    "specimen": "implementations/arts-and-crafts/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for arts-and-crafts. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#eee6d3",
+        "$description": "Unbleached linen and handmade paper."
+      },
+      "surface": {
+        "$value": "#f6f0e1"
+      },
+      "subtle": {
+        "$value": "#e2d5b8"
+      },
+      "text": {
+        "$value": "#1e1a15",
+        "$description": "Dense printer’s ink."
+      },
+      "muted": {
+        "$value": "#594f42"
+      },
+      "border": {
+        "$value": "#1e1a15",
+        "$description": "Ink rules that frame text blocks."
+      },
+      "primary": {
+        "$value": "#9b3324",
+        "$description": "Madder red, the rubric colour of private-press books."
+      },
+      "on-primary": {
+        "$value": "#f6f0e1"
+      },
+      "secondary": {
+        "$value": "#24497f",
+        "$description": "Indigo, the ground of discharge-printed textiles."
+      },
+      "on-secondary": {
+        "$value": "#f6f0e1"
+      },
+      "accent": {
+        "$value": "#4b7a2b",
+        "$description": "Leaf green, from weld over woad."
+      },
+      "on-accent": {
+        "$value": "#f6f0e1"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Hoefler Text",
+          "Iowan Old Style",
+          "Palatino",
+          "Palatino Linotype",
+          "Book Antiqua",
+          "Georgia",
+          "serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Iowan Old Style",
+          "Palatino",
+          "Palatino Linotype",
+          "Book Antiqua",
+          "Georgia",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Hoefler Text",
+          "Palatino",
+          "Palatino Linotype",
+          "Book Antiqua",
+          "Georgia",
+          "serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 700
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "13px"
+      },
+      "sm": {
+        "$value": "15px"
+      },
+      "base": {
+        "$value": "18px"
+      },
+      "lg": {
+        "$value": "21px"
+      },
+      "xl": {
+        "$value": "26px"
+      },
+      "2xl": {
+        "$value": "34px"
+      },
+      "3xl": {
+        "$value": "46px"
+      },
+      "4xl": {
+        "$value": "62px"
+      },
+      "5xl": {
+        "$value": "82px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.05
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.04,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px",
+        "$description": "Frames are rectilinear, like a woodcut border or a joined box."
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "2px"
+      },
+      "thick": {
+        "$value": "6px",
+        "$description": "Drawn as a double rule around framed blocks."
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "22px"
+      },
+      "lg": {
+        "$value": "36px"
+      },
+      "xl": {
+        "$value": "56px"
+      },
+      "2xl": {
+        "$value": "88px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "crane-arts-and-crafts-exhibition-season-ticket-1890",
+      "title": "Arts and Crafts Exhibition Society season ticket, 1890",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A primary document of the movement: Crane’s ticket for the Arts and Crafts Exhibition Society, with a framed figure panel and hand-drawn capitals.",
+      "page": "references/crane-arts-and-crafts-exhibition-season-ticket-1890.html",
+      "source": "https://collections.vam.ac.uk/item/O1024286/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "voysey-society-website",
+      "title": "C. F. A. Voysey Society website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear in type and colour: hand-drawn Arts and Crafts capitals in red, an old-style serif, cream grounds, and ruled boxes. It has no pattern.",
+      "page": "references/voysey-society-website.html",
+      "source": "https://www.voyseysociety.org/",
+      "image": "assets/references/voysey-society-website.jpg",
+      "measurement": "data/measurements/voysey-society-website.json"
+    },
+    {
+      "id": "emery-walker-trust-website",
+      "title": "Emery Walker’s House website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: a dense Morris textile fills the hero, and the headings are a red old-style serif under a woodcut-style device.",
+      "page": "references/emery-walker-trust-website.html",
+      "source": "https://www.emerywalker.org.uk/",
+      "image": "assets/references/emery-walker-trust-website.jpg",
+      "measurement": "data/measurements/emery-walker-trust-website.json"
+    },
+    {
+      "id": "crane-maw-lustre-vase-1889",
+      "title": "Lustre vase by Walter Crane for Maw & Co.",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: shown at the Arts and Crafts Exhibition Society and drawn in flat outline, but its diagonal, flowing band is looser than the movement’s symmetrical repeats.",
+      "page": "references/crane-maw-lustre-vase-1889.html",
+      "source": "https://clevelandart.org/art/2017.208",
+      "image": "assets/references/crane-maw-lustre-vase-1889.jpg",
+      "measurement": "data/measurements/crane-maw-lustre-vase-1889.json"
+    },
+    {
+      "id": "morris-and-co-sussex-armchair",
+      "title": "Morris & Co. Sussex armchair",
+      "medium": "furniture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: Morris & Co. furniture that shows the movement’s plain, vernacular side, with no pattern.",
+      "page": "references/morris-and-co-sussex-armchair.html",
+      "source": "https://collection.cooperhewitt.org/objects/18700699",
+      "image": "assets/references/morris-and-co-sussex-armchair.jpg",
+      "measurement": "data/measurements/morris-and-co-sussex-armchair.json"
+    },
+    {
+      "id": "morris-and-co-website-2020",
+      "title": "Morris & Co. website, 2020",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: a Morris pattern ground, a Golden Type heading, and rules, inside a grey retail frame with sans-serif navigation.",
+      "page": "references/morris-and-co-website-2020.html",
+      "source": "https://www.stylelibrary.com/morris&co/",
+      "image": "assets/references/morris-and-co-website-2020.jpg",
+      "measurement": "data/measurements/morris-and-co-website-2020.json"
+    },
+    {
+      "id": "morris-peacock-and-dragon-textile-1878",
+      "title": "Peacock and Dragon woven wool",
+      "medium": "textile",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A Morris woven textile with a strictly mirrored, dense repeat of birds and plants in muted dye colours.",
+      "page": "references/morris-peacock-and-dragon-textile-1878.html",
+      "source": "https://clevelandart.org/art/1953.330",
+      "image": "assets/references/morris-peacock-and-dragon-textile-1878.jpg",
+      "measurement": "data/measurements/morris-peacock-and-dragon-textile-1878.json"
+    },
+    {
+      "id": "red-house-bexleyheath",
+      "title": "Red House, Bexleyheath",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The movement’s founding house: vernacular red brick and medieval forms, built as the setting for Morris’s craft work.",
+      "page": "references/red-house-bexleyheath.html",
+      "source": "https://en.wikipedia.org/wiki/Red_House,_Bexleyheath",
+      "image": "assets/references/red-house-bexleyheath.jpg",
+      "measurement": "data/measurements/red-house-bexleyheath.json"
+    },
+    {
+      "id": "ashbee-silver-kettle-1900",
+      "title": "Silver kettle by C. R. Ashbee",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: Arts and Crafts metalwork with visible hammer marks and a simple stone setting, but none of the movement’s pattern.",
+      "page": "references/ashbee-silver-kettle-1900.html",
+      "source": "https://clevelandart.org/art/1976.23",
+      "image": "assets/references/ashbee-silver-kettle-1900.jpg",
+      "measurement": "data/measurements/ashbee-silver-kettle-1900.json"
+    },
+    {
+      "id": "morris-strawberry-thief-textile",
+      "title": "Strawberry Thief furnishing textile",
+      "medium": "textile",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A core Morris & Co. printed textile: a flat, dense, mirror-symmetrical repeat of birds and plants in dye colours on indigo.",
+      "page": "references/morris-strawberry-thief-textile.html",
+      "source": "https://clevelandart.org/art/1937.696",
+      "image": "assets/references/morris-strawberry-thief-textile.jpg",
+      "measurement": "data/measurements/morris-strawberry-thief-textile.json"
+    },
+    {
+      "id": "the-craftsman-magazine-february-1915",
+      "title": "The Craftsman, February 1915",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the American branch. Heavy capitals, a device, and a woodcut initial over dense text, without the British pattern.",
+      "page": "references/the-craftsman-magazine-february-1915.html",
+      "source": "https://archive.org/details/sim_craftsman-an-illustrated-monthly-magazine_1915-02_27_5",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "kelmscott-chaucer-1896",
+      "title": "The Works of Geoffrey Chaucer (Kelmscott Chaucer)",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The canonical private-press book: dense framed borders, woodcut lettering, blackletter text, and red side notes on the text pages.",
+      "page": "references/kelmscott-chaucer-1896.html",
+      "source": "https://commons.wikimedia.org/wiki/File:William_Morris_-_The_Works_of_Geoffrey_Chaucer_(The_Kelmscott_Chaucer)_-_Google_Art_Project.jpg",
+      "image": "assets/references/kelmscott-chaucer-1896.jpg",
+      "measurement": "data/measurements/kelmscott-chaucer-1896.json"
+    },
+    {
+      "id": "morris-trellis-wallpaper",
+      "title": "Trellis wallpaper",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A founding Morris & Co. pattern, but an open one: flat, outlined motifs on a square lattice with much plain ground, not the dense repeat of the later work.",
+      "page": "references/morris-trellis-wallpaper.html",
+      "source": "https://www.metmuseum.org/art/collection/search/384020",
+      "image": "assets/references/morris-trellis-wallpaper.jpg",
+      "measurement": "data/measurements/morris-trellis-wallpaper.json"
+    },
+    {
+      "id": "trustworth-studios-website",
+      "title": "Trustworth Studios website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the wordmark and cream ground follow Voysey, and the pattern is its own product. The text is a modern sans-serif.",
+      "page": "references/trustworth-studios-website.html",
+      "source": "https://www.trustworth.com/",
+      "image": "assets/references/trustworth-studios-website.jpg",
+      "measurement": "data/measurements/trustworth-studios-website.json"
+    },
+    {
+      "id": "voysey-block-printed-silk-bed-cover",
+      "title": "Voysey block-printed silk bed cover",
+      "medium": "textile",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A Voysey textile with a flat, outlined, mirrored repeat on a lattice, in indigo, orange, and cream.",
+      "page": "references/voysey-block-printed-silk-bed-cover.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Bed_cover_LACMA_AC1995.250.46.jpg",
+      "image": "assets/references/voysey-block-printed-silk-bed-cover.jpg",
+      "measurement": "data/measurements/voysey-block-printed-silk-bed-cover.json"
+    },
+    {
+      "id": "voysey-tulip-wallpaper",
+      "title": "Voysey Tulip wallpaper",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: flat, outlined Voysey pattern, but its long S-curves and pale colours point toward Art Nouveau.",
+      "page": "references/voysey-tulip-wallpaper.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Charles_Francis_Annesley_Voysey_-_Tulip_-_Google_Art_Project.jpg",
+      "image": "assets/references/voysey-tulip-wallpaper.jpg",
+      "measurement": "data/measurements/voysey-tulip-wallpaper.json"
+    },
+    {
+      "id": "william-morris-archive-website",
+      "title": "William Morris Archive website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: Morris pattern bands, a blackletter title set in a revival of Morris’s own Troy type, and flat blocks in dye colours. The navigation is in sans-serif capitals.",
+      "page": "references/william-morris-archive-website.html",
+      "source": "https://morrisarchive.lib.uiowa.edu/",
+      "image": "assets/references/william-morris-archive-website.jpg",
+      "measurement": "data/measurements/william-morris-archive-website.json"
+    },
+    {
+      "id": "morris-society-us-website",
+      "title": "William Morris Society in the United States website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: a Morris wallpaper panel and serif capitals, but the layout is a modern template with soft shadows and spaced sans-serif labels.",
+      "page": "references/morris-society-us-website.html",
+      "source": "https://morrissociety.org/",
+      "image": "assets/references/morris-society-us-website.jpg",
+      "measurement": "data/measurements/morris-society-us-website.json"
+    }
+  ]
+}

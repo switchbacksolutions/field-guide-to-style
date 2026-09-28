@@ -1,0 +1,107 @@
+/* Op art specimen. Uses tokens.css. Black-and-white stripes, checks, and rings fill the panels; text sits on solid ground. */
+* { box-sizing: border-box; }
+html { background: var(--color-bg); }
+body { margin: 0; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); line-height: var(--leading-body); }
+a { color: inherit; }
+:focus-visible { outline: 4px solid currentColor; outline-offset: 4px; }
+.specimen-back { margin: 0; padding: var(--spacing-sm) 4vw; font-size: var(--text-xs); }
+h1, h2, h3, .logo, .price, dd, .quote p { font-family: var(--font-display); font-weight: var(--font-weight-display); line-height: var(--leading-tight); letter-spacing: var(--tracking-heading); }
+.kicker, nav a, th, dt, label, .card-number, .quote footer, .button, button { font-family: var(--font-mono); font-weight: var(--font-weight-bold); font-size: var(--text-sm); letter-spacing: var(--tracking-label); text-transform: uppercase; }
+
+.site-header { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: var(--spacing-md); padding: var(--spacing-md) 4vw; border-top: var(--border-width-thick) solid var(--color-border); border-bottom: var(--border-width-thin) solid var(--color-border); }
+.logo { font-size: var(--text-xl); text-decoration: none; }
+.site-header nav { display: flex; flex-wrap: wrap; gap: var(--spacing-md); }
+.site-header nav a { text-decoration: none; border-bottom: var(--border-width-thin) solid var(--color-border); }
+
+/* Hero: a white panel on a stripe field whose stripes narrow toward the edges, so the field seems to bulge; a striped disc floats on each side. */
+.hero {
+  --k: var(--color-primary); --w: var(--color-bg); --panel: min(780px, 100% - 40px); --inset: 48px;
+  --swell: linear-gradient(90deg, var(--k) 0px 3px, var(--w) 3px 6px, var(--k) 6px 9px, var(--w) 9px 12px, var(--k) 12px 15px, var(--w) 15px 18px, var(--k) 18px 21px, var(--w) 21px 24px, var(--k) 24px 27px, var(--w) 27px 30px, var(--k) 30px 33px, var(--w) 33px 36px, var(--k) 36px 39px, var(--w) 39px 42px, var(--k) 42px 45px, var(--w) 45px 48px, var(--k) 48px 51px, var(--w) 51px 54px, var(--k) 54px 57px, var(--w) 57px 60px, var(--k) 60px 63px, var(--w) 63px 66px, var(--k) 66px 69px, var(--w) 69px 72px, var(--k) 72px 76px, var(--w) 76px 80px, var(--k) 80px 84px, var(--w) 84px 88px, var(--k) 88px 92px, var(--w) 92px 96px, var(--k) 96px 100px, var(--w) 100px 104px, var(--k) 104px 108px, var(--w) 108px 112px, var(--k) 112px 116px, var(--w) 116px 120px, var(--k) 120px 124px, var(--w) 124px 128px, var(--k) 128px 132px, var(--w) 132px 136px, var(--k) 136px 140px, var(--w) 140px 144px, var(--k) 144px 148px, var(--w) 148px 153px, var(--k) 153px 158px, var(--w) 158px 163px, var(--k) 163px 168px, var(--w) 168px 173px, var(--k) 173px 178px, var(--w) 178px 183px, var(--k) 183px 188px, var(--w) 188px 193px, var(--k) 193px 198px, var(--w) 198px 203px, var(--k) 203px 208px, var(--w) 208px 214px, var(--k) 214px 220px, var(--w) 220px 226px, var(--k) 226px 232px, var(--w) 232px 238px, var(--k) 238px 244px, var(--w) 244px 250px, var(--k) 250px 256px, var(--w) 256px 262px, var(--k) 262px 269px, var(--w) 269px 276px, var(--k) 276px 283px, var(--w) 283px 290px, var(--k) 290px 297px, var(--w) 297px 304px, var(--k) 304px 311px, var(--w) 311px 319px, var(--k) 319px 327px, var(--w) 327px 335px, var(--k) 335px 343px, var(--w) 343px 351px, var(--k) 351px 360px, var(--w) 360px 369px, var(--k) 369px 378px, var(--w) 378px 387px, var(--k) 387px 396px, var(--w) 396px 406px, var(--k) 406px 416px, var(--w) 416px 426px, var(--k) 426px 436px, var(--w) 436px 447px, var(--k) 447px 458px, var(--w) 458px 469px, var(--k) 469px 481px, var(--w) 481px 493px, var(--k) 493px 505px, var(--w) 505px 518px, var(--k) 518px 531px, var(--w) 531px 544px, var(--k) 544px 558px, var(--w) 558px 572px, var(--k) 572px 586px, var(--w) 586px 601px, var(--k) 601px 616px, var(--w) 616px 632px, var(--k) 632px 648px, var(--w) 648px 665px, var(--k) 665px 682px, var(--w) 682px 700px, var(--k) 700px 719px, var(--w) 719px 738px, var(--k) 738px 758px, var(--w) 758px 779px, var(--k) 779px 800px, var(--w) 800px 822px, var(--k) 822px 843px, var(--w) 843px 863px, var(--k) 863px 883px, var(--w) 883px 902px, var(--k) 902px 920px, var(--w) 920px 938px, var(--k) 938px 955px, var(--w) 955px 972px, var(--k) 972px 988px, var(--w) 988px 1004px, var(--k) 1004px 1019px, var(--w) 1019px 1034px, var(--k) 1034px 1048px, var(--w) 1048px 1062px, var(--k) 1062px 1075px, var(--w) 1075px 1088px, var(--k) 1088px 1101px, var(--w) 1101px 1113px, var(--k) 1113px 1125px, var(--w) 1125px 1137px, var(--k) 1137px 1148px, var(--w) 1148px 1159px, var(--k) 1159px 1170px, var(--w) 1170px 1180px, var(--k) 1180px 1190px, var(--w) 1190px 1200px, var(--k) 1200px 1210px, var(--w) 1210px 1219px, var(--k) 1219px 1228px, var(--w) 1228px 1237px, var(--k) 1237px 1246px, var(--w) 1246px 1255px, var(--k) 1255px 1263px, var(--w) 1263px 1271px, var(--k) 1271px 1279px, var(--w) 1279px 1287px, var(--k) 1287px 1295px, var(--w) 1295px 1302px, var(--k) 1302px 1309px, var(--w) 1309px 1316px, var(--k) 1316px 1323px, var(--w) 1323px 1330px, var(--k) 1330px 1337px, var(--w) 1337px 1344px, var(--k) 1344px 1350px, var(--w) 1350px 1356px, var(--k) 1356px 1362px, var(--w) 1362px 1368px, var(--k) 1368px 1374px, var(--w) 1374px 1380px, var(--k) 1380px 1386px, var(--w) 1386px 1392px, var(--k) 1392px 1398px, var(--w) 1398px 1403px, var(--k) 1403px 1408px, var(--w) 1408px 1413px, var(--k) 1413px 1418px, var(--w) 1418px 1423px, var(--k) 1423px 1428px, var(--w) 1428px 1433px, var(--k) 1433px 1438px, var(--w) 1438px 1443px, var(--k) 1443px 1448px, var(--w) 1448px 1453px, var(--k) 1453px 1457px, var(--w) 1457px 1461px, var(--k) 1461px 1465px, var(--w) 1465px 1469px, var(--k) 1469px 1473px, var(--w) 1473px 1477px, var(--k) 1477px 1481px, var(--w) 1481px 1485px, var(--k) 1485px 1489px, var(--w) 1489px 1493px, var(--k) 1493px 1497px, var(--w) 1497px 1501px, var(--k) 1501px 1505px, var(--w) 1505px 1509px, var(--k) 1509px 1513px, var(--w) 1513px 1517px, var(--k) 1517px 1521px, var(--w) 1521px 1525px, var(--k) 1525px 1529px, var(--w) 1529px 1533px, var(--k) 1533px 1536px, var(--w) 1536px 1539px, var(--k) 1539px 1542px, var(--w) 1542px 1545px, var(--k) 1545px 1548px, var(--w) 1548px 1551px, var(--k) 1551px 1554px, var(--w) 1554px 1557px, var(--k) 1557px 1560px, var(--w) 1560px 1563px, var(--k) 1563px 1566px, var(--w) 1566px 1569px, var(--k) 1569px 1572px, var(--w) 1572px 1575px, var(--k) 1575px 1578px, var(--w) 1578px 1581px, var(--k) 1581px 1584px, var(--w) 1584px 1587px, var(--k) 1587px 1590px, var(--w) 1590px 1593px, var(--k) 1593px 1596px, var(--w) 1596px 1599px, var(--k) 1599px 1600px);
+  position: relative; overflow: hidden; text-align: center;
+  padding: calc(var(--inset) + var(--spacing-lg)) max(52px, 50% - 340px);
+  border-bottom: var(--border-width-thick) solid var(--color-border);
+  background:
+    linear-gradient(var(--w), var(--w)) 50% 50% / var(--panel) calc(100% - 2 * var(--inset)) no-repeat,
+    linear-gradient(var(--k), var(--k)) 50% 50% / calc(var(--panel) + 16px) calc(100% - 2 * var(--inset) + 16px) no-repeat,
+    var(--swell) 50% 0 / 1600px 100% no-repeat,
+    repeating-linear-gradient(90deg, var(--k) 0 3px, var(--w) 3px 6px);
+}
+.hero::before, .hero::after { content: ""; position: absolute; top: 50%; width: 240px; height: 240px; margin-top: -120px; border-radius: var(--radius-pill); background: repeating-linear-gradient(0deg, var(--k) 0 6px, var(--w) 6px 12px); }
+.hero::before { left: calc(25% - 290px); }
+.hero::after { right: calc(25% - 290px); }
+.kicker { margin: 0 0 var(--spacing-md); }
+h1 { margin: 0; font-size: clamp(64px, 8vw, var(--text-5xl)); letter-spacing: var(--tracking-display); }
+/* Striped display letters, after the op lettering of Grignani; body text stays plain. */
+h1 span { display: block; color: transparent; background: repeating-linear-gradient(180deg, var(--color-text) 0 7px, transparent 7px 11px); -webkit-background-clip: text; background-clip: text; }
+.lede { max-width: 34ch; margin: var(--spacing-md) auto; font-size: var(--text-lg); }
+.actions { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--spacing-sm); margin: 0 0 var(--spacing-lg); }
+.button, button { display: inline-block; padding: 16px 28px; border: var(--border-width-thin) solid var(--color-primary); border-radius: var(--radius-none); background: var(--color-primary); color: var(--color-on-primary); text-decoration: none; cursor: pointer; }
+.button-secondary { background: var(--color-secondary); color: var(--color-on-secondary); }
+/* Facts as ring targets: a border and an offset outline make two concentric rings. */
+.facts { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--spacing-lg); margin: 0; padding: 10px; }
+.facts div { display: grid; place-content: center; width: 116px; height: 116px; border: var(--border-width-thin) solid var(--color-border); border-radius: var(--radius-pill); outline: var(--border-width-thin) solid var(--color-border); outline-offset: 6px; text-align: center; }
+dt { font-size: var(--text-xs); }
+dd { margin: 0; font-size: var(--text-2xl); }
+
+section:not(.hero) { padding: var(--spacing-xl) 4vw; }
+/* Symmetry: headings, cards, and forms sit on the center axis; the table stays flush left for reading. */
+h2, .cards, .signup { text-align: center; }
+.cards, table, form, .note { margin-left: auto; margin-right: auto; }
+h2 { margin: 0 0 var(--spacing-lg); font-size: clamp(40px, 5vw, var(--text-3xl)); }
+h3 { margin: 0 0 var(--spacing-xs); font-size: var(--text-xl); }
+.cards { list-style: none; margin: 0 auto; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: var(--spacing-lg); }
+.card { position: relative; border: var(--border-width-thin) solid var(--color-border); }
+.card p { margin: 0; }
+.card-number { position: absolute; top: var(--spacing-sm); left: 50%; transform: translateX(-50%); padding: 4px 10px; border: var(--border-width-thin) solid var(--color-border); background: var(--color-bg); }
+
+/* Figure and ground reverse: the formats sit on black. Each card shows one op unit (line, check, ring) above a white text field. */
+.features { background: var(--color-primary); color: var(--color-on-primary); }
+.features .card { color: var(--color-text); border-color: var(--color-secondary); }
+.features .card { --k: var(--color-primary); --w: var(--color-bg); padding: 164px var(--spacing-md) var(--spacing-md); }
+.features .card:nth-child(1) { background: linear-gradient(var(--w), var(--w)) bottom / 100% calc(100% - 140px) no-repeat, repeating-linear-gradient(0deg, var(--k) 0 4px, var(--w) 4px 9px); }
+.features .card:nth-child(2) { background: linear-gradient(var(--w), var(--w)) bottom / 100% calc(100% - 140px) no-repeat, repeating-conic-gradient(var(--k) 0 25%, var(--w) 0 50%) 0 0 / 28px 28px; }
+.features .card:nth-child(3) { background: linear-gradient(var(--w), var(--w)) bottom / 100% calc(100% - 140px) no-repeat, repeating-radial-gradient(circle at 50% 140px, var(--k) 0 5px, var(--w) 5px 10px); }
+
+.programme { border-top: var(--border-width-thick) solid var(--color-border); }
+table { width: 100%; max-width: 1040px; border-collapse: collapse; border: var(--border-width-thin) solid var(--color-border); }
+th, td { padding: 14px 16px; text-align: left; border-bottom: var(--border-width-thin) solid var(--color-border); }
+th { background: var(--color-primary); color: var(--color-on-primary); }
+tbody tr:nth-child(even) td { background: var(--color-subtle); }
+td:first-child { font-weight: var(--font-weight-bold); }
+
+/* Moiré: two sets of concentric rings a little apart interfere. */
+.quote {
+  --k: var(--color-primary); --w: var(--color-bg);
+  margin: 0; padding: var(--spacing-2xl) 4vw; text-align: center;
+  background: repeating-radial-gradient(circle at 42% 50%, var(--k) 0 3px, transparent 3px 9px), repeating-radial-gradient(circle at 58% 50%, var(--k) 0 3px, var(--w) 3px 9px);
+}
+.quote p { max-width: 860px; margin: 0 auto; padding: var(--spacing-lg); border: var(--border-width-thin) solid var(--color-border); background: var(--color-bg); font-size: var(--text-2xl); line-height: 1.1; }
+.quote footer { display: block; max-width: 860px; margin: 0 auto; padding: var(--spacing-sm); border: var(--border-width-thin) solid var(--color-border); border-top: 0; background: var(--color-primary); color: var(--color-on-primary); }
+
+.tickets .cards { max-width: 820px; }
+.tickets .card { --k: var(--color-primary); --w: var(--color-bg); padding: 72px var(--spacing-md) var(--spacing-md); background: linear-gradient(var(--w), var(--w)) bottom / 100% calc(100% - 48px) no-repeat, repeating-linear-gradient(90deg, var(--k) 0 4px, var(--w) 4px 8px); }
+/* The featured pass reverses figure and ground. */
+.tickets .card-featured { color: var(--color-on-primary); background: linear-gradient(var(--k), var(--k)) bottom / 100% calc(100% - 48px) no-repeat, repeating-linear-gradient(90deg, var(--k) 0 8px, var(--w) 8px 16px); }
+.card .price { margin: var(--spacing-xs) 0; font-size: var(--text-3xl); }
+.card .button { margin-top: var(--spacing-md); }
+.card-featured .button { background: var(--color-secondary); color: var(--color-on-secondary); border-color: var(--color-secondary); }
+
+.signup { background: var(--color-primary); color: var(--color-on-primary); }
+form { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--spacing-sm); max-width: 680px; }
+label { width: 100%; }
+input { flex: 1 1 260px; padding: 15px 16px; border: var(--border-width-thin) solid var(--color-secondary); border-radius: var(--radius-none); background: var(--color-bg); color: var(--color-text); font: inherit; }
+.signup button { background: var(--color-secondary); color: var(--color-on-secondary); border-color: var(--color-secondary); }
+.note { margin: var(--spacing-sm) 0 0; font-size: var(--text-sm); }
+
+.site-footer { --k: var(--color-primary); --w: var(--color-bg); padding: 56px 4vw var(--spacing-md); font-size: var(--text-sm); background: linear-gradient(var(--w), var(--w)) bottom / 100% calc(100% - 32px) no-repeat, repeating-linear-gradient(90deg, var(--k) 0 2px, var(--w) 2px 6px); }
+
+@media (max-width: 900px) {
+  .hero { --inset: 20px; padding: calc(var(--inset) + var(--spacing-md)) 36px calc(var(--inset) + 220px); background-size: var(--panel) calc(100% - 2 * var(--inset) - 200px), calc(var(--panel) + 16px) calc(100% - 2 * var(--inset) - 184px), 1600px 100%, auto; background-position: 50% var(--inset), 50% calc(var(--inset) - 8px), 50% 0, 0 0; }
+  .hero::before, .hero::after { top: auto; bottom: 40px; width: 150px; height: 150px; margin-top: 0; }
+  .hero::before { left: calc(50% - 165px); }
+  .hero::after { right: calc(50% - 165px); }
+  .site-header, section:not(.hero), .quote, .site-footer { padding-left: 20px; padding-right: 20px; }
+  .facts { gap: var(--spacing-md); }
+  .facts div { width: 92px; height: 92px; }
+  table { display: block; overflow-x: auto; }
+}

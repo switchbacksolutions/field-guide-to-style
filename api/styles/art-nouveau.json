@@ -1,0 +1,675 @@
+{
+  "id": "art-nouveau",
+  "title": "Art Nouveau",
+  "order": 8,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Jugendstil",
+    "Stile Liberty",
+    "Modernisme",
+    "Modern Style",
+    "Style 1900",
+    "Whiplash style"
+  ],
+  "summary": "Whiplash curves, lilies, and peacock eyes in moss, ochre, and rose on parchment. The new art of the 1890s.",
+  "lede": "The international decorative style of about 1890 to 1910, named after Siegfried Bing’s Paris gallery, the Maison de l’Art Nouveau: fluid, undulating lines taken from plant stems, flowers, and hair, the whiplash curve, and modern materials such as iron and glass, applied to posters, buildings, furniture, glass, and jewelry alike. This record covers the curvilinear core of Brussels and Paris. The geometric Vienna Secession and Glasgow branches are treated as related styles.",
+  "moods": [
+    "organic",
+    "sensuous",
+    "flowing",
+    "ornate",
+    "romantic"
+  ],
+  "era": {
+    "from": 1890,
+    "to": 1914,
+    "note": "Wikipedia: popular between 1890 and 1910; the first houses appeared in Brussels in the 1890s (Horta’s Hôtel Tassel, 1893), it peaked at the 1900 Paris Exposition, and it was largely exhausted by 1914. Wikidata gives 1880 to 1910. A revival followed in the 1960s and 1970s."
+  },
+  "regions": [
+    "Belgium",
+    "France",
+    "Germany",
+    "Austria-Hungary",
+    "Spain (Catalonia)",
+    "United Kingdom",
+    "United States",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q34636",
+    "aat": "300021430"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Art Nouveau",
+      "url": "https://en.wikipedia.org/wiki/Art_Nouveau",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikidata: Art Nouveau (Q34636)",
+      "url": "https://www.wikidata.org/wiki/Q34636",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Getty Art & Architecture Thesaurus: Art Nouveau (300021430)",
+      "url": "https://vocab.getty.edu/page/aat/300021430",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Arts and Crafts movement",
+      "wikidata": "Q330369",
+      "note": "Wikipedia: the new art had its roots in Britain, in the floral designs of William Morris and the Arts and Crafts movement. Unlike that movement, Art Nouveau accepted machines and new materials."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Japonisme",
+      "wikidata": "Q751880",
+      "note": "Wikipedia names Japonism, the enthusiasm for Hiroshige, Hokusai, and Kunisada prints, as another important influence. Bing published Le Japon artistique (1888–1891). Flat colour, outlines, and butterfly and dragonfly motifs came from this source."
+    },
+    {
+      "relation": "reaction-against",
+      "label": "Historicism",
+      "note": "Wikipedia: Art Nouveau was a reaction against the academicism, eclecticism, and historicism of 19th-century architecture and decorative art."
+    },
+    {
+      "relation": "related-to",
+      "label": "Vienna Secession",
+      "wikidata": "Q208208",
+      "note": "Wikipedia treats Secession as the Austro-Hungarian name for the style. After 1900 its decoration became geometric and symmetrical (Stoclet Palace, 1905–1911). This record treats that branch as related, not as the core."
+    },
+    {
+      "relation": "related-to",
+      "style": "art-deco",
+      "note": "Wikidata records Art Deco as the style that follows Art Nouveau. Wikipedia: in the 1920s Art Deco replaced it, and Art Nouveau was one of the factors that led to Art Deco."
+    },
+    {
+      "relation": "related-to",
+      "style": "psychedelic-art",
+      "note": "Wikipedia: Art Nouveau was one of the main sources for 1960s psychedelic rock posters, which replaced its earthy colours with saturated, contrasting colours and hard-to-read lettering."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Whiplash line.",
+      "text": "A long, S-shaped curve that swells and snaps back, taken from plant stems (Obrist’s Cyclamen, 1894). It runs through ornament, ironwork, and lettering, and it avoids parallels and right angles."
+    },
+    {
+      "facet": "imagery",
+      "term": "Plants, women, and peacocks.",
+      "text": "Lilies, irises, poppies, vines, and ginkgo; dragonflies, butterflies, swans, and peacock feathers; women with long hair that turns into ornament. Forms are stylized but stay recognizably natural."
+    },
+    {
+      "facet": "layout",
+      "term": "Arches and framed panels.",
+      "text": "Figures and text sit in arched, circular, or leaf-shaped panels framed by a dark outline. In posters a halo or medallion sits behind the head, and ornament flows across the frame edge."
+    },
+    {
+      "facet": "color",
+      "term": "Earthy, muted colours.",
+      "text": "Moss and olive green, ochre and old gold, terracotta and dusty rose, and peacock blue, on a cream or parchment ground, with sepia or dark green outlines. Colours are soft rather than saturated."
+    },
+    {
+      "facet": "type",
+      "term": "Hand-drawn, flared letters.",
+      "text": "Lettering is drawn to match the image, with swelling strokes, soft terminals, and unusual proportions. Mixed case and capitals both appear. Typefaces such as Eckmann and Arnold Böcklin copy this lettering."
+    },
+    {
+      "facet": "surface",
+      "term": "Iron, glass, and patterned fields.",
+      "text": "Curved wrought iron, stained and opalescent glass, mosaic, and ceramic tile. Flat areas carry a repeated plant or feather pattern, as in wallpaper and textiles."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "A long, flowing S-curve or whiplash line forms the ornament or the frame.",
+      "Plant stems, flowers, long hair, or peacock feathers are stylized into ornament.",
+      "Panels are arched, round, or leaf-shaped, and they have a dark outline.",
+      "The palette is earthy and muted: moss green, ochre, terracotta, or dusty rose on cream.",
+      "Lettering is hand-drawn or flared, with curved strokes that match the image."
+    ],
+    "counter": [
+      "Straight-edged geometry, stepped outlines, and sunbursts dominate. That points to Art Deco or the Vienna Secession.",
+      "Saturated, clashing, or fluorescent colours with vibrating contrast.",
+      "Square corners, flat primary colours, and no ornament.",
+      "Glossy gradients, glass blur, or soft drop shadows."
+    ],
+    "confusions": [
+      {
+        "with": "art-deco",
+        "difference": "Art Deco stylizes plants and figures into symmetrical geometry, steps, and rays, with metal on a dark ground. Art Nouveau keeps flowing, often asymmetric curves and earthy colours on a light ground."
+      },
+      {
+        "with": "Vienna Secession and Glasgow Style",
+        "difference": "These branches of the same movement use grids, squares, and tall straight lines, with ornament kept in rectangles. The core Art Nouveau style of Brussels and Paris is curvilinear."
+      },
+      {
+        "with": "psychedelic-art",
+        "difference": "Psychedelic posters borrow Art Nouveau curves and lettering but use saturated, contrasting colours and lettering that is hard to read. Art Nouveau colours are earthy and its lettering is legible."
+      },
+      {
+        "with": "Arts and Crafts",
+        "difference": "Arts and Crafts pattern is also floral, but it is flat, dense, and symmetrical, and its objects look handmade and rectilinear. Art Nouveau adds movement, the whiplash curve, and industrial materials."
+      },
+      {
+        "with": "mid-century-modern",
+        "difference": "Mid-century modern also uses organic curves and earthy colours, but its curves are simple boomerangs and kidneys, its type is a geometric sans-serif, and it has no plant ornament."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a cream or parchment ground, sepia text, and two or three muted colours such as moss green, ochre, and terracotta.",
+      "Give panels an arched top, a round medallion shape, or a leaf cut with two opposite corners curved.",
+      "Outline panels, cards, and buttons with a thin dark line in sepia or dark green.",
+      "Add one repeated plant or feather pattern on a framed field, for example behind key figures.",
+      "Draw dividers as one flowing S-curve, not as a straight rule.",
+      "Set headings in a flared or humanist face in mixed case, and allow italics for accents."
+    ],
+    "dont": [
+      "Do not use stepped corners, chevrons, or sunbursts. That points to Art Deco.",
+      "Do not use saturated or fluorescent colours.",
+      "Do not use glossy gradients, glass blur, or soft drop shadows.",
+      "Do not use a geometric sans-serif with wide letter spacing for headings.",
+      "Do not fill every surface with ornament. Keep a calm ground around the framed fields."
+    ],
+    "uses": [
+      "Botanical, florist, and garden brands",
+      "Perfume, tea, and cosmetics",
+      "Theatre, opera, and museum programmes",
+      "Book covers and editorial features"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.radius.median",
+      "min": 16,
+      "note": "Arched, round, and leaf-cut panels. Specimen marker: every website capture so far measures 0, because its curved panels and frames are images (see synthesis)."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.03,
+      "note": "A repeated plant or feather field is present. Specimen marker: the website captures measure 0, because their pattern is a background image ([Cercle Guimard](ref:cercle-guimard-website)) or a sliced graphic ([Horta Museum 2013](ref:hortamuseum-website-2013))."
+    },
+    {
+      "metric": "color.accentChroma",
+      "min": 0.3,
+      "max": 0.55,
+      "note": "Earthy, muted colours are present, weaker than primary or fluorescent colours. Provisional: set from the specimen."
+    },
+    {
+      "metric": "pixels.hues",
+      "min": 2,
+      "note": "At least two colour families, such as moss green and ochre or terracotta, counted in the screenshot pixels. Calibrated 2026-09-28: the two clear website captures draw their colour in images, so computed styles count 1 ([Cercle Guimard](ref:cercle-guimard-website)) and 0 ([Horta Museum 2013](ref:hortamuseum-website-2013)) families, while their pixels count 2 each, as does the specimen."
+    },
+    {
+      "metric": "surface.border.share",
+      "min": 0.6,
+      "note": "Panels, cards, and buttons carry a thin dark outline, like the key line of a lithograph. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.1,
+      "note": "Flat, outlined surfaces without drop shadows. Provisional: set from the specimen."
+    }
+  ],
+  "synthesis": [
+    "The core is well documented in open museum collections. Graphic work: Mucha’s [Gismonda](ref:mucha-gismonda-poster-1894) sets the arched halo, flower crown, flared hand lettering, and pastel palette; his [Documents décoratifs plate](ref:mucha-documents-decoratifs-poppies-1902) shows one plant as frieze, field, and flat repeat; Beardsley’s [Peacock Skirt](ref:beardsley-peacock-skirt-1894) is a black-and-white British source and a partial fit.",
+    "The whiplash line has a single origin object, Obrist’s [Cyclamen hanging](ref:obrist-cyclamen-wall-hanging-1895), and becomes structure in Horta’s [Hôtel Tassel stair hall](ref:horta-hotel-tassel-staircase-1893) and Guimard’s [Métro entrance](ref:guimard-paris-metro-entrance-1900), whose sign is the model for the style’s lettering. Guimard’s [chair](ref:guimard-chair-1907) and Majorelle’s [bench](ref:majorelle-gilt-bench-1900) turn the leaf-shaped and arched panel into furniture.",
+    "Objects share one construction: coloured cells inside thin dark or metal lines, as in Driscoll’s [Wisteria lamp](ref:driscoll-tiffany-pony-wisteria-lamp) and Lalique’s [dragonfly brooch](ref:lalique-dragonfly-brooch), and forms that grow like the plant they show, as in Gallé’s [Autumn Crocus vase](ref:galle-autumn-crocus-vase).",
+    "Few websites use the style; most Art Nouveau institutions describe it with photographs and a neutral modern interface. Two clear examples use it in the page itself: [Le Cercle Guimard](ref:cercle-guimard-website) sets its content on a whiplash textile repeat, and the 2013 [Horta Museum](ref:hortamuseum-website-2013) page is an ochre, outlined, rounded panel with flared capitals. [Riga Art Nouveau Centre](ref:riga-art-nouveau-centre-website), [Musée de l’École de Nancy](ref:musee-ecole-de-nancy-website), and [Museu del Modernisme](ref:museu-modernisme-website) are borderline: the style appears only in a drawn header, a wordmark, or a mosaic frame.",
+    "The computed-style measurement cannot see how these sites draw the style. Their curved panels, patterns, and ornaments are background images or sliced graphics, so every capture measures radius 0 and pattern share 0, and the fingerprint fails all of them. The colour-family marker now reads the screenshot pixels. Judge real sites by the rubric, and treat the radius and pattern ranges as specimen markers only."
+  ],
+  "page": "art-nouveau.html",
+  "implementation": {
+    "tokens": "implementations/art-nouveau/tokens.json",
+    "css": "implementations/art-nouveau/tokens.css",
+    "tailwind": "implementations/art-nouveau/tailwind.css",
+    "shadcn": "implementations/art-nouveau/shadcn.css",
+    "registry": "implementations/art-nouveau/registry-item.json",
+    "designMd": "implementations/art-nouveau/DESIGN.md",
+    "specimen": "implementations/art-nouveau/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for art-nouveau. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#f1e6cc",
+        "$description": "Parchment, the ground of a colour lithograph."
+      },
+      "surface": {
+        "$value": "#f8f0dc"
+      },
+      "subtle": {
+        "$value": "#e4d4ad"
+      },
+      "text": {
+        "$value": "#33291c",
+        "$description": "Sepia brown, the colour of a lithograph key line."
+      },
+      "muted": {
+        "$value": "#6b5a3f"
+      },
+      "border": {
+        "$value": "#4a3d27",
+        "$description": "Dark outline around panels, as in poster key lines."
+      },
+      "primary": {
+        "$value": "#56792a",
+        "$description": "Moss and stem green."
+      },
+      "on-primary": {
+        "$value": "#f8f0dc"
+      },
+      "secondary": {
+        "$value": "#a9583f",
+        "$description": "Terracotta and dusty rose."
+      },
+      "on-secondary": {
+        "$value": "#f8f0dc"
+      },
+      "accent": {
+        "$value": "#c4922f",
+        "$description": "Ochre gold, for halos and highlights."
+      },
+      "on-accent": {
+        "$value": "#33291c"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Optima",
+          "Candara",
+          "Segoe UI",
+          "URW Classico",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Iowan Old Style",
+          "Palatino",
+          "Palatino Linotype",
+          "Book Antiqua",
+          "Georgia",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Optima",
+          "Candara",
+          "Segoe UI",
+          "sans-serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 600
+      },
+      "display": {
+        "$value": 400
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "13px"
+      },
+      "sm": {
+        "$value": "15px"
+      },
+      "base": {
+        "$value": "18px"
+      },
+      "lg": {
+        "$value": "21px"
+      },
+      "xl": {
+        "$value": "27px"
+      },
+      "2xl": {
+        "$value": "36px"
+      },
+      "3xl": {
+        "$value": "48px"
+      },
+      "4xl": {
+        "$value": "64px"
+      },
+      "5xl": {
+        "$value": "84px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.05
+      },
+      "body": {
+        "$value": 1.6
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.06,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "8px"
+      },
+      "md": {
+        "$value": "24px",
+        "$description": "Leaf corner: applied to two opposite corners only."
+      },
+      "lg": {
+        "$value": "160px",
+        "$description": "Arch: applied to the two top corners of a panel."
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1.5px"
+      },
+      "thick": {
+        "$value": "3px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "104px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "galle-autumn-crocus-vase",
+      "title": "“Autumn Crocus” vase by Émile Gallé",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Nancy School glass: the vessel takes the shape of the plant it shows, and the flowers are modelled into the surface.",
+      "page": "references/galle-autumn-crocus-vase.html",
+      "source": "https://www.metmuseum.org/art/collection/search/483825",
+      "image": "assets/references/galle-autumn-crocus-vase.jpg",
+      "measurement": "data/measurements/galle-autumn-crocus-vase.json"
+    },
+    {
+      "id": "driscoll-tiffany-pony-wisteria-lamp",
+      "title": "“Pony” Wisteria lamp, Tiffany Studios",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The American branch of Art Nouveau: a plant is the whole form, the base grows into the shade, and coloured glass is set in dark lead lines like a key line.",
+      "page": "references/driscoll-tiffany-pony-wisteria-lamp.html",
+      "source": "https://clevelandart.org/art/2018.261",
+      "image": "assets/references/driscoll-tiffany-pony-wisteria-lamp.jpg",
+      "measurement": "data/measurements/driscoll-tiffany-pony-wisteria-lamp.json"
+    },
+    {
+      "id": "obrist-cyclamen-wall-hanging-1895",
+      "title": "Cyclamen (“Whiplash”) wall hanging by Hermann Obrist",
+      "medium": "textile",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The canonical whiplash line: a whole plant turned into long, swelling, looping strokes on a calm ground.",
+      "page": "references/obrist-cyclamen-wall-hanging-1895.html",
+      "source": "https://sammlungonline.muenchner-stadtmuseum.de/objekt/grosser-wandbehang-mit-seidenstickerei-peitschenhieb-10035267",
+      "image": "assets/references/obrist-cyclamen-wall-hanging-1895.jpg",
+      "measurement": "data/measurements/obrist-cyclamen-wall-hanging-1895.json"
+    },
+    {
+      "id": "lalique-dragonfly-brooch",
+      "title": "Dragonfly brooch by René Lalique",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Paris Art Nouveau jewellery: a Japonisme insect motif, translucent enamel in outlined cells, and looping gold lines.",
+      "page": "references/lalique-dragonfly-brooch.html",
+      "source": "https://clevelandart.org/art/1964.448",
+      "image": "assets/references/lalique-dragonfly-brooch.jpg",
+      "measurement": "data/measurements/lalique-dragonfly-brooch.json"
+    },
+    {
+      "id": "majorelle-gilt-bench-1900",
+      "title": "Gilt bench by Louis Majorelle",
+      "medium": "furniture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Nancy School furniture: continuous curves, arched panel ends, and carved plant tops. It is a partial fit, because its gilding and Rococo echo are more courtly than the whiplash core.",
+      "page": "references/majorelle-gilt-bench-1900.html",
+      "source": "https://clevelandart.org/art/1971.28",
+      "image": "assets/references/majorelle-gilt-bench-1900.jpg",
+      "measurement": "data/measurements/majorelle-gilt-bench-1900.json"
+    },
+    {
+      "id": "mucha-gismonda-poster-1894",
+      "title": "Gismonda poster by Alphonse Mucha",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The founding Mucha poster: a figure framed by an arched halo, flowers in the hair, flared hand-drawn capitals, and soft pastel colours with dark outlines.",
+      "page": "references/mucha-gismonda-poster-1894.html",
+      "source": "https://gallica.bnf.fr/ark:/12148/btv1b90163096",
+      "image": "assets/references/mucha-gismonda-poster-1894.jpg",
+      "measurement": "data/measurements/mucha-gismonda-poster-1894.json"
+    },
+    {
+      "id": "guimard-paris-metro-entrance-1900",
+      "title": "Guimard Métro entrance, Porte Dauphine, Paris",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The work that gave the style its French nickname, “Style Métro”: plant-stem ironwork, a winged glass canopy, and custom flared lettering in public use.",
+      "page": "references/guimard-paris-metro-entrance-1900.html",
+      "source": "https://en.wikipedia.org/wiki/Paris_M%C3%A9tro_entrances_by_Hector_Guimard",
+      "image": "assets/references/guimard-paris-metro-entrance-1900.jpg",
+      "measurement": "data/measurements/guimard-paris-metro-entrance-1900.json"
+    },
+    {
+      "id": "hortamuseum-website-2013",
+      "title": "Horta Museum website, 2013",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: earthy ochre and brown on a light ground, a rounded panel with a light outline, flared Art Nouveau capitals, and a whiplash ornament.",
+      "page": "references/hortamuseum-website-2013.html",
+      "source": "http://www.hortamuseum.be/",
+      "image": "assets/references/hortamuseum-website-2013.jpg",
+      "measurement": "data/measurements/hortamuseum-website-2013.json"
+    },
+    {
+      "id": "cercle-guimard-website",
+      "title": "Le Cercle Guimard website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the page background is a whiplash textile repeat, the logo is a curling plant spiral, and the headings use a soft, flared display face. Only the slate-blue header is plain.",
+      "page": "references/cercle-guimard-website.html",
+      "source": "https://www.lecercleguimard.fr/en/",
+      "image": "assets/references/cercle-guimard-website.jpg",
+      "measurement": "data/measurements/cercle-guimard-website.json"
+    },
+    {
+      "id": "musee-ecole-de-nancy-website",
+      "title": "Musée de l’École de Nancy website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the wordmark is drawn in Art Nouveau letterforms and the palette is moss and olive green, but the layout and body type are a plain modern sans-serif grid.",
+      "page": "references/musee-ecole-de-nancy-website.html",
+      "source": "https://musee-ecole-de-nancy.nancy.fr/accueil",
+      "image": "assets/references/musee-ecole-de-nancy-website.jpg",
+      "measurement": "data/measurements/musee-ecole-de-nancy-website.json"
+    },
+    {
+      "id": "museu-modernisme-website",
+      "title": "Museu del Modernisme de Barcelona website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the Catalan branch. The mosaic columns and the looping monogram carry the style, but the colours are saturated red and orange and the type is a condensed sans-serif.",
+      "page": "references/museu-modernisme-website.html",
+      "source": "https://www.mmbcn.cat/",
+      "image": "assets/references/museu-modernisme-website.jpg",
+      "measurement": "data/measurements/museu-modernisme-website.json"
+    },
+    {
+      "id": "mucha-documents-decoratifs-poppies-1902",
+      "title": "Poppy plate from Mucha’s Documents décoratifs",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A teaching sheet for the style: one plant shown as a frieze, a dense field, and a stylized repeat, in the earthy pastel palette.",
+      "page": "references/mucha-documents-decoratifs-poppies-1902.html",
+      "source": "https://clevelandart.org/art/1969.236",
+      "image": "assets/references/mucha-documents-decoratifs-poppies-1902.jpg",
+      "measurement": "data/measurements/mucha-documents-decoratifs-poppies-1902.json"
+    },
+    {
+      "id": "riga-art-nouveau-centre-website",
+      "title": "Riga Art Nouveau Centre website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the header is a drawn Art Nouveau facade ornament with flared hand lettering, but the rest of the page is a plain blue grid.",
+      "page": "references/riga-art-nouveau-centre-website.html",
+      "source": "https://jugendstils.riga.lv/",
+      "image": "assets/references/riga-art-nouveau-centre-website.jpg",
+      "measurement": "data/measurements/riga-art-nouveau-centre-website.json"
+    },
+    {
+      "id": "guimard-chair-1907",
+      "title": "Side chair by Hector Guimard",
+      "medium": "furniture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Paris Art Nouveau furniture by the designer of the Métro entrances: the frame reads as one carved plant stem that divides and joins.",
+      "page": "references/guimard-chair-1907.html",
+      "source": "https://clevelandart.org/art/1985.96",
+      "image": "assets/references/guimard-chair-1907.jpg",
+      "measurement": "data/measurements/guimard-chair-1907.json"
+    },
+    {
+      "id": "horta-hotel-tassel-staircase-1893",
+      "title": "Staircase hall of the Hôtel Tassel, Brussels",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The founding building of the Brussels core: whiplash iron, wall painting, and structure fused into one curving interior.",
+      "page": "references/horta-hotel-tassel-staircase-1893.html",
+      "source": "https://en.wikipedia.org/wiki/H%C3%B4tel_Tassel",
+      "image": "assets/references/horta-hotel-tassel-staircase-1893.jpg",
+      "measurement": "data/measurements/horta-hotel-tassel-staircase-1893.json"
+    },
+    {
+      "id": "beardsley-peacock-skirt-1894",
+      "title": "The Peacock Skirt, Beardsley’s illustration for Salome",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: British graphic Art Nouveau with peacock ornament, long curving lines, and Japonisme, but in black and white rather than the earthy palette.",
+      "page": "references/beardsley-peacock-skirt-1894.html",
+      "source": "https://en.wikipedia.org/wiki/The_Peacock_Skirt",
+      "image": "assets/references/beardsley-peacock-skirt-1894.png",
+      "measurement": "data/measurements/beardsley-peacock-skirt-1894.json"
+    }
+  ]
+}

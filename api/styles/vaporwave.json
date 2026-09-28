@@ -1,0 +1,882 @@
+{
+  "id": "vaporwave",
+  "title": "Vaporwave",
+  "order": 16,
+  "status": "draft",
+  "naming": "internet-aesthetic",
+  "aliases": [
+    "Vapourwave",
+    "ＡＥＳＴＨＥＴＩＣＳ",
+    "Corporate Vaporwave"
+  ],
+  "summary": "Pastel sunsets, old-OS windows, marble busts, and fullwidth type. 1990s consumer tech remembered with irony.",
+  "lede": "The visual side of the vaporwave music microgenre of the early 2010s: pastel pink, purple, and cyan sunsets, Windows 95 dialog boxes, wireframe grid floors, Greco-Roman statues, palm trees, Japanese text and fullwidth Latin letters, collaged with 1980s and 1990s consumer technology and degraded by glitch and VHS effects. Wikipedia describes it as a nostalgic, surreal, and often ironic take on the advertising and digital technology of that period.",
+  "moods": [
+    "nostalgic",
+    "ironic",
+    "dreamlike",
+    "melancholic",
+    "kitsch"
+  ],
+  "era": {
+    "from": 2011,
+    "to": 2019,
+    "note": "Floral Shoppe (December 2011) set the template, per Wikipedia. CARI dates its relevance from the early to the late 2010s. The imagery continues as a meme and a marketing look into the 2020s."
+  },
+  "regions": [
+    "International (online)",
+    "United States"
+  ],
+  "identifiers": {
+    "wikidata": "Q15733887"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Vaporwave",
+      "url": "https://en.wikipedia.org/wiki/Vaporwave",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Consumer Aesthetics Research Institute: Corporate Vaporwave",
+      "url": "https://cari.institute/aesthetics/corporate-vaporwave",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Aesthetics Wiki: Vaporwave",
+      "url": "https://aesthetics.fandom.com/wiki/Vaporwave",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "style": "memphis",
+      "note": "Wikipedia lists “Memphis Design geometric shapes” among the visual sources. The Aesthetics Wiki calls the Memphis Group “one of the big early inspirations”, through the 1980s youth products that copied it."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Seapunk",
+      "wikidata": "Q3476798",
+      "note": "Wikipedia: seapunk (2011) presaged vaporwave with its GeoCities web graphics and aquatic imagery, and both belonged to the same Tumblr aesthetic."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Glitch art",
+      "wikidata": "Q5569949",
+      "note": "Wikipedia lists glitch art and VHS degradation among the style’s visual devices."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Windows 95",
+      "wikidata": "Q83370",
+      "note": "The Aesthetics Wiki names Windows 95 “a particularly common motif”. Its gray bevelled dialog boxes recur in cover art and web pages."
+    },
+    {
+      "relation": "related-to",
+      "style": "frutiger-aero",
+      "note": "Wikipedia: the utopian virtual offshoot, begun with James Ferraro’s Far Side Virtual (2011), “later became associated with the Frutiger Aero internet aesthetic”."
+    },
+    {
+      "relation": "related-to",
+      "label": "Synthwave",
+      "wikidata": "Q19938910",
+      "note": "A neighbouring 1980s-nostalgia genre. The Aesthetics Wiki contrasts synthwave’s high-contrast neon grids on black with vaporwave’s soft, faded pastels."
+    },
+    {
+      "relation": "related-to",
+      "label": "Y2K aesthetic",
+      "wikidata": "Q130484971",
+      "note": "The Aesthetics Wiki lists Y2K Futurism as a related aesthetic. Both draw on late-1990s technology, with different palettes and attitudes."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Pastel neon sunset.",
+      "text": "Pink, lavender, purple, and cyan, often as a sunset gradient behind the whole image. Mint and pale yellow are secondary."
+    },
+    {
+      "facet": "structure",
+      "term": "Old operating-system chrome.",
+      "text": "Gray Windows 95 dialog boxes with bevelled edges, navy title bars, and square buttons frame images and text."
+    },
+    {
+      "facet": "layout",
+      "term": "Floating collage over a grid floor.",
+      "text": "Cut-out objects float in a gradient sky above a receding wireframe grid or a checkered floor. Compositions are sparse and surreal."
+    },
+    {
+      "facet": "imagery",
+      "term": "Classical kitsch and dated consumer goods.",
+      "text": "Greco-Roman busts, columns, palm trees, dolphins, early 3D renders, CRT monitors, VHS tapes, drink cans, malls, and 1980s Japanese cityscapes and anime."
+    },
+    {
+      "facet": "type",
+      "term": "Fullwidth and Japanese text.",
+      "text": "Latin text set in fullwidth forms (ＡＥＳＴＨＥＴＩＣ) or widely spaced, Japanese katakana or kanji as decoration, and default system fonts such as Times New Roman, Arial, and MS Gothic."
+    },
+    {
+      "facet": "surface",
+      "term": "Glitch and VHS degradation.",
+      "text": "Scan lines, color-channel offsets, tracking noise, and low-resolution compression make the image look copied from old media."
+    },
+    {
+      "facet": "motion",
+      "term": "Slowed loops.",
+      "text": "Short GIF loops and slowed, repeated video clips, echoing the chopped and screwed music."
+    }
+  ],
+  "synthesis": [
+    "The template is [Floral Shoppe](ref:floral-shoppe-cover-2011) (2011): a classical bust, flat salmon pink, a perspective checkerboard, a degraded video still, and a Japanese title. Its precursors look different. [Eccojams](ref:eccojams-vol-1-cassette-2010) copied a game box and [Far Side Virtual](ref:far-side-virtual-cover-2011) collaged a tablet over a noisy street, so the irony toward consumer products came before the pastel palette. [Blank Banshee 0](ref:blank-banshee-0-cover-2012) reduced the look to one gradient and one early 3D object.",
+    "The style is mostly collage, so most of its traits are inside images: statues, grid floors, sunsets, and glitches. The open examples [Evolution](ref:evolution-oliva-barbero-2019) and [Wikiwave](ref:wikiwave-vaporwave-art-2020) contain almost the whole rubric in one picture. [Grauer’s wallpaper](ref:grauer-vaporwave-wallpaper-2018) shows the grid-and-sun motif alone, which is shared with synthwave. Later branches keep only parts: [News at 11](ref:news-at-11-cover-2016) keeps the VHS damage and Japanese packaging without pastels, [Hit Vibes](ref:hit-vibes-cover-2013) keeps the 1980s sleeve graphics, and the scene’s own [2019 festival flyer](ref:electronicon-flyer-2019) keeps only a soft gradient. The [MTV International rebrand](ref:mtv-international-rebrand-2015) of 2015 is the documented corporate adoption, and it was criticised as such.",
+    "Real websites in the style are fan and community pages, not label or artist sites: the 100% Electronica, George Clanton, Blank Banshee, and Geometric Lullaby sites use plain commerce templates. Two sites draw Windows 9x chrome in CSS, [Agora Road](ref:agora-road-website) and [Nightwave Plaza](ref:nightwave-plaza-website), and put the pastel colour in a background image. Three plain-HTML pages, [the Vaporwave Guide](ref:vaporwave-guide-neocities-website), [Vaporesources](ref:vaporesources-website), and [vaporwave.neocities.org](ref:vaporwave-neocities-website), carry the style in a background colour or gradient, pasted collages, and letter spacing typed as spaces. [Poolsuite](ref:poolsuite-website) is a borderline pastel retro-Mac neighbour.",
+    "The fingerprint was recalibrated on 28 September 2026. Heading tracking, gradient share, and pattern share were removed, because all five clear captures failed tracking (letters are spaced with typed spaces, which the extractor reads as 0), four failed gradient share (the sunset is in an image or absent), and all five failed pattern share (grids are drawn in images). What remains detects the Windows 9x bevel: hard, 1 to 3 px offset shadows on 1 px square boxes. It passes only the two chrome-drawing sites and the specimen. Judge the plain-HTML pages and all print and image references by the rubric."
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Pastel pink, purple, and cyan dominate, often as a sunset gradient.",
+      "Retro-digital elements appear: Windows 95 dialogs, a wireframe grid floor, early 3D objects, or VHS artefacts.",
+      "Classical statues, palm trees, or dolphins are collaged with dated consumer technology.",
+      "Fullwidth or widely spaced Latin text, or Japanese characters, serve as decoration."
+    ],
+    "counter": [
+      "A black night sky with a neon-magenta grid and chrome lettering as the whole image, with no pastels or collage: that is synthwave.",
+      "Clean, current interface design with no reference to 1980s or 1990s media.",
+      "Optimistic blue-and-green nature imagery with gloss: that is Frutiger Aero.",
+      "Sharp, high-resolution finish with no sign of degradation, irony, or quotation."
+    ],
+    "confusions": [
+      {
+        "with": "memphis",
+        "difference": "Memphis is flat, clashing, full-saturation color with printed patterns on objects. Vaporwave borrows a few Memphis squiggles but sets them in pastel gradients, digital chrome, and collage."
+      },
+      {
+        "with": "frutiger-aero",
+        "difference": "Frutiger Aero is sincere and glossy: blue and green, water, grass, rounded glass controls. Vaporwave is ironic and pastel pink and purple, with square, bevelled old-OS windows."
+      },
+      {
+        "with": "Synthwave",
+        "difference": "Synthwave is dark and high-contrast: black sky, neon magenta grid, chrome logotype, and a striped sun. Vaporwave shares the grid and sun but is pastel, faded, and collaged with statues and consumer goods."
+      },
+      {
+        "with": "Y2K aesthetic",
+        "difference": "Y2K looks forward: chrome, silver, iridescent blobs, and cyber-futurism. Vaporwave looks back at the 1980s and 1990s with pastel sunsets and Windows 95 chrome."
+      },
+      {
+        "with": "Seapunk",
+        "difference": "Seapunk centers on aquatic imagery, teal, and early-1990s 3D. Vaporwave covers a wider range of sources and centers on pink, purple, and consumer nostalgia."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a pastel sunset gradient of purple, pink, and peach or cyan as the page or hero background.",
+      "Put a receding wireframe grid floor or a checkered floor under the hero, and a striped sun above it.",
+      "Frame content in Windows 95-style windows: gray panels, two-step bevelled edges with no blur, navy title bars, and square corners.",
+      "Space display headings very wide, in capitals, to imitate fullwidth letters.",
+      "Offset pink and cyan copies of display text for a color-channel glitch, and add faint scan lines over the hero.",
+      "Keep body text in plain black on the gray window panels, in a system sans-serif such as Tahoma or Verdana."
+    ],
+    "dont": [
+      "Do not round the window corners or give windows soft, blurred drop shadows.",
+      "Do not use a black background with saturated neon as the base. That reads as synthwave.",
+      "Do not set real text in fullwidth Unicode characters. Screen readers and search treat them as different letters, so use letter spacing and keep fullwidth forms for decoration.",
+      "Do not add Japanese text that you cannot read or check. Use short, correct phrases, or none.",
+      "Do not put body text directly on the gradient or the grid. Put it in a window panel."
+    ],
+    "uses": [
+      "Music releases and labels",
+      "Club nights and festivals",
+      "Retro games and game jams",
+      "Streetwear",
+      "Nostalgic campaigns"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.25,
+      "note": "Bevelled Windows 9x window chrome gives many boxes an edge shadow. Real sites that draw the chrome in CSS measure 0.29 (Agora Road) and 0.56 (Nightwave Plaza); plain-HTML fan pages measure 0 and are judged by the rubric."
+    },
+    {
+      "metric": "surface.shadow.hardShare",
+      "min": 0.8,
+      "note": "Bevels are unblurred. Both chrome-drawing sites measure 1."
+    },
+    {
+      "metric": "surface.shadow.medianOffset",
+      "max": 3,
+      "note": "Bevels are 1 to 2 px offset lines: not zero-offset rings, and not the 5 px or larger blocks of neo-brutalism. Added 28 September 2026: Agora Road and Nightwave Plaza measure 1.4, the specimen 2.8.",
+      "min": 1
+    },
+    {
+      "metric": "surface.border.medianWidth",
+      "max": 1.5,
+      "note": "Window edges are 1 px lines. Agora Road, Nightwave Plaza, and the specimen measure 1; neo-brutalist retro kits measure 2 or more. Added 28 September 2026."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Windows and buttons are square. All five clear captures measure 0 where boxes exist."
+    }
+  ],
+  "page": "vaporwave.html",
+  "implementation": {
+    "tokens": "implementations/vaporwave/tokens.json",
+    "css": "implementations/vaporwave/tokens.css",
+    "tailwind": "implementations/vaporwave/tailwind.css",
+    "shadcn": "implementations/vaporwave/shadcn.css",
+    "registry": "implementations/vaporwave/registry-item.json",
+    "designMd": "implementations/vaporwave/DESIGN.md",
+    "specimen": "implementations/vaporwave/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for vaporwave. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#f7c9ec",
+        "$description": "Pale pink, under the sunset gradient."
+      },
+      "surface": {
+        "$value": "#c0c0c0",
+        "$description": "Windows 95 dialog gray."
+      },
+      "subtle": {
+        "$value": "#dfdfdf"
+      },
+      "text": {
+        "$value": "#000000"
+      },
+      "muted": {
+        "$value": "#3b3552"
+      },
+      "border": {
+        "$value": "#808080",
+        "$description": "Bevel shade."
+      },
+      "primary": {
+        "$value": "#000080",
+        "$description": "Title-bar navy."
+      },
+      "on-primary": {
+        "$value": "#ffffff"
+      },
+      "secondary": {
+        "$value": "#01cdfe",
+        "$description": "Cyan."
+      },
+      "on-secondary": {
+        "$value": "#000000"
+      },
+      "accent": {
+        "$value": "#ff71ce",
+        "$description": "Hot pastel pink."
+      },
+      "on-accent": {
+        "$value": "#000000"
+      },
+      "purple": {
+        "$value": "#b967ff"
+      },
+      "mint": {
+        "$value": "#05ffa1"
+      },
+      "sun": {
+        "$value": "#fffb96"
+      },
+      "highlight": {
+        "$value": "#ffffff",
+        "$description": "Bevel light."
+      },
+      "shade": {
+        "$value": "#0a0a0a",
+        "$description": "Bevel dark edge."
+      },
+      "title-end": {
+        "$value": "#1084d0",
+        "$description": "Right end of the title-bar gradient."
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Times New Roman",
+          "Times",
+          "Liberation Serif",
+          "serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Tahoma",
+          "Verdana",
+          "MS Sans Serif",
+          "Geneva",
+          "DejaVu Sans",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "MS Gothic",
+          "Lucida Console",
+          "Courier New",
+          "monospace"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 400
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "18px"
+      },
+      "xl": {
+        "$value": "22px"
+      },
+      "2xl": {
+        "$value": "28px"
+      },
+      "3xl": {
+        "$value": "40px"
+      },
+      "4xl": {
+        "$value": "56px"
+      },
+      "5xl": {
+        "$value": "88px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.05
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0.3,
+        "$description": "Imitates fullwidth letters.",
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.2,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.06,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "999px",
+        "$description": "For the sun disc only."
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "2px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "4px"
+      },
+      "sm": {
+        "$value": "8px"
+      },
+      "md": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "28px"
+      },
+      "xl": {
+        "$value": "48px"
+      },
+      "2xl": {
+        "$value": "80px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "sm": {
+        "$value": [
+          {
+            "color": "#0a0a0a",
+            "offsetX": "-1px",
+            "offsetY": "-1px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#ffffff",
+            "offsetX": "1px",
+            "offsetY": "1px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#808080",
+            "offsetX": "-2px",
+            "offsetY": "-2px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#dfdfdf",
+            "offsetX": "2px",
+            "offsetY": "2px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          }
+        ],
+        "$description": "Raised bevel for buttons."
+      },
+      "md": {
+        "$value": [
+          {
+            "color": "#0a0a0a",
+            "offsetX": "-1px",
+            "offsetY": "-1px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#dfdfdf",
+            "offsetX": "1px",
+            "offsetY": "1px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#808080",
+            "offsetX": "-2px",
+            "offsetY": "-2px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#ffffff",
+            "offsetX": "2px",
+            "offsetY": "2px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          }
+        ],
+        "$description": "Raised bevel for windows."
+      },
+      "inset": {
+        "$value": [
+          {
+            "color": "#808080",
+            "offsetX": "1px",
+            "offsetY": "1px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#ffffff",
+            "offsetX": "-1px",
+            "offsetY": "-1px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#0a0a0a",
+            "offsetX": "2px",
+            "offsetY": "2px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#dfdfdf",
+            "offsetX": "-2px",
+            "offsetY": "-2px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          }
+        ],
+        "$description": "Sunken bevel for fields and wells."
+      }
+    },
+    "gradient": {
+      "$type": "gradient",
+      "sunset": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#6f52c8",
+              "position": 0
+            },
+            {
+              "color": "#b967ff",
+              "position": 0.3
+            },
+            {
+              "color": "#ff71ce",
+              "position": 0.62
+            },
+            {
+              "color": "#ffb3b8",
+              "position": 0.85
+            },
+            {
+              "color": "#ffe0b8",
+              "position": 1
+            }
+          ]
+        }
+      },
+      "title": {
+        "$value": {
+          "angle": "90deg",
+          "stops": [
+            {
+              "color": "#000080",
+              "position": 0
+            },
+            {
+              "color": "#1084d0",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "Windows 98 title bar."
+      },
+      "sun": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#fffb96",
+              "position": 0
+            },
+            {
+              "color": "#ff9ad5",
+              "position": 0.55
+            },
+            {
+              "color": "#ff71ce",
+              "position": 1
+            }
+          ]
+        }
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.sm}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.label}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "electronicon-flyer-2019",
+      "title": "100% ElectroniCON flyer",
+      "medium": "poster",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Partial fit. The scene’s own festival flyer uses only the soft airbrushed gradient; it has no statues, grid, OS chrome, or fullwidth type. Evidence that the scene itself had moved past the meme imagery by 2019.",
+      "page": "references/electronicon-flyer-2019.html",
+      "source": "https://donyc.com/events/2019/8/31/100-electronicon-elsewhere-takeover-w-george-clanton-saint-pepsi-and-many-more",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "agora-road-website",
+      "title": "Agora Road’s Macintosh Cafe portal",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: a community site for the genre that uses its signature device, bevelled Windows 95 windows, in a lavender palette with a pixel-art figure. Its window chrome is real CSS, so it passes the shadow and radius metrics.",
+      "page": "references/agora-road-website.html",
+      "source": "https://agoraroad.neocities.org/",
+      "image": "assets/references/agora-road-website.jpg",
+      "measurement": "data/measurements/agora-road-website.json"
+    },
+    {
+      "id": "blank-banshee-0-cover-2012",
+      "title": "Blank Banshee 0 cover art",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear on two diagnostics: a smooth purple-to-cyan gradient and an early 3D render. Wikipedia names the album, with Floral Shoppe, as a turning point of the genre.",
+      "page": "references/blank-banshee-0-cover-2012.html",
+      "source": "https://blankbanshee.bandcamp.com/album/blank-banshee-0",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "eccojams-vol-1-cassette-2010",
+      "title": "Chuck Person’s Eccojams Vol. 1 cassette",
+      "medium": "packaging",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "A precursor: Wikipedia credits it and Far Side Virtual with the musical template, and its game-box packaging set the habit of quoting 1990s consumer products. Partial fit, because it has none of the later pastel palette.",
+      "page": "references/eccojams-vol-1-cassette-2010.html",
+      "source": "https://en.wikipedia.org/wiki/Chuck_Person%27s_Eccojams_Vol._1",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "evolution-oliva-barbero-2019",
+      "title": "Evolution (Daniel Oliva Barbero)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: it combines every diagnostic in one image, with pastel pink, violet, and cyan, a Windows 9x window, classical statues, palm trees, and a grid floor under a striped sun.",
+      "page": "references/evolution-oliva-barbero-2019.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Vaprwave_97346.png",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "far-side-virtual-cover-2011",
+      "title": "Far Side Virtual cover art",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A precursor and the start of the “utopian virtual” branch. Partial fit: it quotes then-current tablets and stock imagery rather than 1980s–1990s media, and it has no pastel palette.",
+      "page": "references/far-side-virtual-cover-2011.html",
+      "source": "https://en.wikipedia.org/wiki/Far_Side_Virtual",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "floral-shoppe-cover-2011",
+      "title": "Floral Shoppe cover art",
+      "medium": "packaging",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Wikipedia calls it the first album “properly considered of the genre” and its cover the image most associated with vaporwave: classical bust, pastel pink, checkered floor, Japanese text, and pre-2001 media.",
+      "page": "references/floral-shoppe-cover-2011.html",
+      "source": "https://en.wikipedia.org/wiki/Floral_Shoppe",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "hit-vibes-cover-2013",
+      "title": "Hit Vibes cover art",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit, from the future-funk branch: it quotes 1980s commercial graphics, the Memphis-derived shapes Wikipedia lists among the style’s sources, but has no pastel gradient, statue, or digital chrome.",
+      "page": "references/hit-vibes-cover-2013.html",
+      "source": "https://musicbrainz.org/release/ff881a14-c23e-4728-bfb9-7b11bb5b6ecd",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "mtv-international-rebrand-2015",
+      "title": "MTV International rebrand, 2015",
+      "medium": "other",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The best-documented corporate adoption: Wikipedia says the rebrand was “heavily inspired by vaporwave and seapunk.” Its appearance is documented, not observed here.",
+      "page": "references/mtv-international-rebrand-2015.html",
+      "source": "https://www.vice.com/en/article/53989n/what-the-hell-is-mtvs-new-rebrand-about",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "news-at-11-cover-2016",
+      "title": "News at 11 cover art",
+      "medium": "packaging",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit, from the signalwave and mallsoft branches: VHS degradation, a CRT frame, and Japanese text are clear, but the palette is dark red, white, and blue instead of pastel.",
+      "page": "references/news-at-11-cover-2016.html",
+      "source": "https://catsystemcorp.bandcamp.com/album/news-at-11",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "nightwave-plaza-website",
+      "title": "Nightwave Plaza",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the site calls itself “Online Vaporwave Radio”, and it combines Windows 9x chrome with a faded 1980s-style anime image in dusty pink and teal. The CSS bevels pass the shadow and radius metrics.",
+      "page": "references/nightwave-plaza-website.html",
+      "source": "https://plaza.one/",
+      "image": "assets/references/nightwave-plaza-website.jpg",
+      "measurement": "data/measurements/nightwave-plaza-website.json"
+    },
+    {
+      "id": "poolsuite-website",
+      "title": "Poolsuite",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: pastel pink, square retro-OS windows, TV static, and a 1997 clock match the style, but the source is summer and classic Mac leisure culture, with no statues, gradients, or Japanese text. The brand does not call itself vaporwave on this page.",
+      "page": "references/poolsuite-website.html",
+      "source": "https://poolsuite.net/",
+      "image": "assets/references/poolsuite-website.jpg",
+      "measurement": "data/measurements/poolsuite-website.json"
+    },
+    {
+      "id": "vaporesources-website",
+      "title": "Vaporesources",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear on imagery and type, not on palette: a CRT monitor on a receding grid, a fragment of a classical head, spaced capitals, and an embedded vaporwave track, but on a sage-green ground instead of pastel pink.",
+      "page": "references/vaporesources-website.html",
+      "source": "https://vaporesources.neocities.org/",
+      "image": "assets/references/vaporesources-website.jpg",
+      "measurement": "data/measurements/vaporesources-website.json"
+    },
+    {
+      "id": "vaporwave-guide-neocities-website",
+      "title": "Vaporwave Guide (Neocities)",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: a fan site that describes the genre and uses it too, with a saturated pink ground, a collage of the Windows 95 logo, Game Boys, palms, and drink bottles, and vertical Japanese text. The CSS is plain, so the fingerprint cannot see the style; it lives in the image and the colour.",
+      "page": "references/vaporwave-guide-neocities-website.html",
+      "source": "https://thevaporwaveguide.neocities.org/",
+      "image": "assets/references/vaporwave-guide-neocities-website.jpg",
+      "measurement": "data/measurements/vaporwave-guide-neocities-website.json"
+    },
+    {
+      "id": "grauer-vaporwave-wallpaper-2018",
+      "title": "Vaporwave wallpaper (Mike Grauer Jr)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the author calls it a vaporwave wallpaper and it has the grid floor and striped sun, but it has no collage, statue, or software chrome, and the grid-and-sun scene alone is shared with synthwave. The violet sky, not black, keeps it on the vaporwave side.",
+      "page": "references/grauer-vaporwave-wallpaper-2018.html",
+      "source": "https://www.flickr.com/photos/mike_grauer/26310058937/",
+      "image": "assets/references/grauer-vaporwave-wallpaper-2018.jpg",
+      "measurement": "data/measurements/grauer-vaporwave-wallpaper-2018.json"
+    },
+    {
+      "id": "vaporwave-neocities-website",
+      "title": "vaporwave.neocities.org",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: a pastel cyan-to-pink gradient behind the whole page, a Japanese greeting, a letter-spaced subtitle, and dated clip art. The only capture that passes the gradient metric.",
+      "page": "references/vaporwave-neocities-website.html",
+      "source": "https://vaporwave.neocities.org/",
+      "image": "assets/references/vaporwave-neocities-website.jpg",
+      "measurement": "data/measurements/vaporwave-neocities-website.json"
+    },
+    {
+      "id": "wikiwave-vaporwave-art-2020",
+      "title": "Wikiwave 00000",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear, if amateur, example that uses almost every diagnostic: floating software windows, a pink-purple-orange sunset, a checkered floor, katakana, and glitch text. Chosen because it is openly licensed, not because it is canonical.",
+      "page": "references/wikiwave-vaporwave-art-2020.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Wikiwave_00000.png",
+      "image": "assets/references/wikiwave-vaporwave-art-2020.jpg",
+      "measurement": "data/measurements/wikiwave-vaporwave-art-2020.json"
+    }
+  ]
+}

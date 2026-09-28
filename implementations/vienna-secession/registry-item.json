@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "vienna-secession",
+  "type": "registry:theme",
+  "title": "Vienna Secession",
+  "description": "Squares, checkerboards, and a little gold on white paper. The geometric Viennese branch of the new art, 1897 to about 1915.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "Baskerville, Georgia, \"Times New Roman\", serif",
+      "font-mono": "\"Avenir Next Condensed\", \"DIN Condensed\", \"Arial Narrow\", sans-serif"
+    },
+    "light": {
+      "background": "#faf8f2",
+      "foreground": "#111111",
+      "card": "#ffffff",
+      "card-foreground": "#111111",
+      "popover": "#ffffff",
+      "popover-foreground": "#111111",
+      "primary": "#111111",
+      "primary-foreground": "#faf8f2",
+      "secondary": "#faf8f2",
+      "secondary-foreground": "#111111",
+      "muted": "#ece8dc",
+      "muted-foreground": "#55524a",
+      "accent": "#b08a2e",
+      "accent-foreground": "#111111",
+      "destructive": "#b42318",
+      "border": "#111111",
+      "input": "#111111",
+      "ring": "#111111",
+      "radius": "0px"
+    }
+  }
+}

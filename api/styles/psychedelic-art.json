@@ -1,0 +1,701 @@
+{
+  "id": "psychedelic-art",
+  "title": "Psychedelic art",
+  "order": 12,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Psychedelic poster art",
+    "Psychedelia",
+    "Acid art",
+    "Nouveau Frisco"
+  ],
+  "summary": "Vibrating complementary colors, swollen hand lettering, and every inch filled. The 1960s rock poster.",
+  "lede": "The graphic style of the 1966–1972 psychedelic rock poster, centered on San Francisco: saturated complementary colors that vibrate against each other, hand lettering that swells and melts to fill a shape, dense symmetrical compositions, and Art Nouveau curves borrowed from Mucha and the Vienna Secession. This record covers that graphic core. Visionary painting, liquid light shows, and later revivals are related branches.",
+  "moods": [
+    "hallucinatory",
+    "saturated",
+    "dense",
+    "fluid",
+    "countercultural"
+  ],
+  "era": {
+    "from": 1965,
+    "to": 1972,
+    "note": "Wes Wilson’s first Fillmore posters appeared in 1966. Wikipedia dates the San Francisco poster style from about 1966 to 1972. Revivals continue in gig posters and album art."
+  },
+  "regions": [
+    "United States (San Francisco Bay Area)",
+    "United Kingdom (London)"
+  ],
+  "identifiers": {
+    "wikidata": "Q696160",
+    "aat": "300112743"
+  },
+  "attestation": [
+    {
+      "label": "Getty AAT: Psychedelic (style), with “Psychedelic Art”, “Acid Art”, and “Dayglo Art” as used-for terms",
+      "url": "https://vocab.getty.edu/page/aat/300112743",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Wikipedia: Psychedelic art, section “In 1960s counterculture”",
+      "url": "https://en.wikipedia.org/wiki/Psychedelic_art",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Cooper Hewitt, Smithsonian Design Museum: “Deliberately Disorienting” (Carey Gibbons, 2018)",
+      "url": "https://www.cooperhewitt.org/2018/10/23/deliberately-disorienting/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Smithsonian Magazine: “How a Psychedelic Concert Poster Rocked the World” (2016)",
+      "url": "https://www.smithsonianmag.com/arts-culture/psychedelic-concert-poster-rocked-world-180958780/",
+      "checked": "2026-09-28"
+    },
+    {
+      "label": "Poster House: “Wes Wilson: From Art Nouveau to Psychedelic” (2020)",
+      "url": "https://posterhouse.org/blog/wes-wilson-from-art-nouveau-to-psychedelic/",
+      "checked": "2026-09-28"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "revival-of",
+      "style": "art-nouveau",
+      "note": "Wes Wilson cited Alphonse Mucha and Gustav Klimt as influences in a 1967 Time article, according to [Cooper Hewitt](https://www.cooperhewitt.org/2018/10/23/deliberately-disorienting/). [Poster House](https://posterhouse.org/blog/wes-wilson-from-art-nouveau-to-psychedelic/) sets his posters beside Mucha, Will Bradley, and Beardsley, and notes that Mouse and Kelley drew from Mucha too. [Smithsonian Magazine](https://www.smithsonianmag.com/arts-culture/psychedelic-concert-poster-rocked-world-180958780/) reports that a 1967 Time article called the style “Nouveau Frisco”."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Vienna Secession",
+      "wikidata": "Q208208",
+      "note": "Wilson warped the block lettering of Alfred Roller’s Secession posters (1902) into his swelling letterforms. Sources: Poster House and Smithsonian Magazine."
+    },
+    {
+      "relation": "related-to",
+      "label": "Op art",
+      "wikidata": "Q182331",
+      "note": "Victor Moscoso’s vibrating colors came from Josef Albers, his teacher at Yale (Wikipedia: Victor Moscoso). Wikipedia’s Psychedelic art article names Bridget Riley’s Op art as the British counterpart."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Pop art",
+      "wikidata": "Q134147",
+      "note": "Wikipedia lists Art Nouveau, Victoriana, Dada, and Pop Art as the sources of the San Francisco rock posters. The pop link shows in cartoon imagery and collage, for example in Moscoso’s and Griffin’s work."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Vibrating complements.",
+      "text": "Saturated complementary pairs of similar value, such as orange and blue, red and green, or magenta and lime, placed side by side so that the edge between them seems to flicker. Color covers the whole sheet. Black is rare."
+    },
+    {
+      "facet": "type",
+      "term": "Swollen, melting lettering.",
+      "text": "Hand-drawn letters stretch, bulge, and bend to fill a shape, often at the cost of legibility. Words and image merge. Soft, fat letterforms and echo outlines are common."
+    },
+    {
+      "facet": "layout",
+      "term": "Horror vacui and symmetry.",
+      "text": "The composition fills every part of the sheet. A central figure, medallion, or word block sits on a vertical axis, with text wrapped around it."
+    },
+    {
+      "facet": "structure",
+      "term": "Billowing forms.",
+      "text": "Panels and frames are blobs, arches, and bulging lozenges. Straight edges and square corners are rare."
+    },
+    {
+      "facet": "imagery",
+      "term": "Entoptic and Art Nouveau motifs.",
+      "text": "Concentric circles, spirals, radiating ripples, paisley, flowing hair, eyes, and haloed figures borrowed from Mucha. Photographic collage appears in Moscoso’s work."
+    },
+    {
+      "facet": "surface",
+      "term": "Flat ink.",
+      "text": "Offset or screen-printed flat colors. A split-fountain rainbow roll sometimes blends two inks across the sheet. No gloss and no modeled depth."
+    },
+    {
+      "facet": "motion",
+      "term": "Liquid light.",
+      "text": "Light shows projected oil and dye through lenses to pulse with the music. On screen, slow color cycling or undulation is the equivalent."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Saturated color covers nearly the whole surface, with two complementary hues side by side.",
+      "Lettering swells, bends, or melts to fill a shape, and is hard to read at a glance.",
+      "The composition is dense and symmetrical about a central figure or medallion.",
+      "Concentric rings, spirals, ripples, or flowing Art Nouveau curves fill the background."
+    ],
+    "counter": [
+      "Large areas of white or neutral paper.",
+      "Clean, legible sans-serif type set on a grid.",
+      "Square corners and hard geometric frames dominate.",
+      "Muted, earthy, or pastel palettes.",
+      "Glossy gradients, chrome, or glass effects."
+    ],
+    "confusions": [
+      {
+        "with": "art-nouveau",
+        "difference": "Art Nouveau uses the same whiplash curves and haloed women, but in muted greens, golds, and creams, with legible lettering. Psychedelic posters recolor those forms in clashing fluorescent complements and warp the lettering until it becomes image."
+      },
+      {
+        "with": "memphis",
+        "difference": "Memphis also clashes bright colors, but on white ground with geometric laminate patterns and playful blocky shapes. Psychedelic work covers the whole sheet in color and uses fluid curves, concentric rings, and swelling lettering."
+      },
+      {
+        "with": "art-deco",
+        "difference": "Both favor symmetry and repeating ornament. Art Deco ornament is geometric (sunbursts, steps, chevrons) in metallic gold on black. Psychedelic ornament is organic and melting, in acidic complements."
+      },
+      {
+        "with": "Op art",
+        "difference": "Op art is fine-art abstraction that makes the eye see motion with precise black-and-white or color patterns. Psychedelic posters borrow the vibration but combine it with figures, hand lettering, and event information."
+      },
+      {
+        "with": "vaporwave",
+        "difference": "Vaporwave also uses magenta and violet, but with smooth gradients, 1990s computer imagery, grids, and classical statues. Psychedelic color is flat ink with organic, hand-drawn forms."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Fill the whole page with saturated color. Use a colored ground, not white.",
+      "Put complementary colors next to each other: orange with blue, magenta with lime, violet with yellow.",
+      "Set display lettering in a soft, fat face, very large, with tight leading, and let it fill its panel.",
+      "Add echo outlines to display type and shapes in a second and third color.",
+      "Center the composition on a vertical axis. Use a medallion, blob, or arch as the main frame.",
+      "Use concentric rings, spirals, or ripples as background pattern.",
+      "Give panels and buttons bulging, organic, or pill shapes.",
+      "Keep body text at 4.5:1 contrast or more. Save the low-contrast vibrating pairs for display lettering and ornament.",
+      "Use a split-fountain blend of two inks on one section at most. Keep the rest of the color flat."
+    ],
+    "dont": [
+      "Do not use black text on white paper as the base.",
+      "Do not use glossy highlights, glass blur, or soft drop shadows for depth.",
+      "Do not set headings in a neutral grotesque on a strict grid.",
+      "Do not use square cards and hard rectangular frames as the main shapes.",
+      "Do not put vibrating low-contrast pairs on body text, form labels, or table cells."
+    ],
+    "uses": [
+      "Concert and festival posters",
+      "Album and music-label sites",
+      "Event and nightlife pages",
+      "Brewery, cannabis, and lifestyle packaging",
+      "Retro-themed campaigns"
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.chromaticShare",
+      "min": 0.6,
+      "note": "Positive marker. Saturated color covers most of the page, not only accents. Other specimens measure 0.48 or less. Provisional: set from the specimen. On 2026-09-28 only 1 of 4 borderline captures passed (dead-and-company-website 0.73); dark photo grounds and image-drawn color fail it. Period posters also vary: screenshot-palette values on scratch scans ranged from 0 (Wilson, pink and gray on white) to 0.9 (Moscoso). Not changed: no clear capture yet."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.1,
+      "note": "Positive marker. Concentric rings or ripples fill part of the page. Provisional: all 4 captures of 2026-09-28 measure 0, because their rings, ripples, and stipple are images or SVG, which this metric does not count. Judge those by the rubric."
+    },
+    {
+      "metric": "surface.radius.median",
+      "min": 20,
+      "note": "Positive marker. Panels, frames, and buttons bulge and curve. Provisional: set from the specimen. All 4 captures of 2026-09-28 measure 7 or less; real sites put the curves in lettering and imagery, not in box corners. Not changed: none of them is a clear example."
+    },
+    {
+      "metric": "type.centerShare",
+      "min": 0.4,
+      "note": "Positive marker. The composition is symmetrical, so much of the text is centered. Provisional: set from the specimen. 3 of 4 captures of 2026-09-28 pass (0.77 to 1.0)."
+    },
+    {
+      "metric": "color.hues",
+      "min": 4,
+      "note": "Positive marker. Several complementary pairs appear at once. Provisional: many period posters use only two or three inks (screenshot-palette hues on scratch scans: Wilson 0, Mouse and Kelley 2, Moscoso 7). Captures of 2026-09-28 measure 1 to 5."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.4,
+      "note": "Most color is flat ink. A split-fountain blend may cover a section, but smooth gradients do not carry the page. Provisional: set from the specimen. All 4 captures of 2026-09-28 pass (0.04 or less)."
+    }
+  ],
+  "synthesis": [
+    "The poster is the core medium. Wes Wilson’s [Otis Rush poster](ref:wes-wilson-otis-rush-grateful-dead-poster-1967) makes lettering into image; Victor Moscoso’s [Neon Rose #2](ref:moscoso-miller-blues-band-matrix-poster-1967) shows the vibrating complements; Mouse and Kelley’s [Skeleton and Roses](ref:skeleton-and-roses-avalon-poster-1966), Rick Griffin’s [Flying Eyeball](ref:flying-eyeball-hendrix-poster-1968), and Bonnie MacLean’s [6 Days of Sound](ref:maclean-six-days-of-sound-poster-1967) show the symmetrical medallion and the Art Nouveau revival. [BG-1](ref:jefferson-airplane-fillmore-poster-1966) shows the Fillmore series before the style formed.",
+    "London added its own branch: Hapshash and the Coloured Coat’s [UFO poster](ref:hapshash-move-pink-floyd-ufo-poster-1967) and [Oz cover](ref:oz-magazine-4-cover-1967), and Martin Sharp’s [Mister Tambourine Man](ref:sharp-mister-tambourine-man-poster-1967). The [San Francisco Oracle](ref:san-francisco-oracle-10-cover-1967) carried the style onto newsprint, [Aoxomoxoa](ref:aoxomoxoa-album-cover-1969) onto record sleeves, and a [1967 photograph](ref:the-source-psychedelic-art-store-1967) shows the posters sold as goods in Washington, D.C.",
+    "The references do not all follow the color rule. Wilson often used two or three soft inks on white, and Family Dog posters often used two inks on cream. Full-sheet vibrating complements are strongest in Moscoso’s and MacLean’s work and in the Oracle. The lettering and the dense, symmetrical composition are the more constant traits.",
+    "Real websites in the style are rare. The four kept captures are borderline: [Dead & Company](ref:dead-and-company-website) (saturated ground, outlined poster lettering), [Hulaween](ref:hulaween-website) (melting wordmark on a dark photo), [Okeechobee](ref:okeechobee-fest-website) (viewport-scale concentric rings), and [The Rock Poster Society](ref:trps-website) (a frame for poster art on a rippling ground). Most festival and band sites checked use dark photo heroes and keep the style only in a logo.",
+    "The measurements miss much of what these sites show. Rings, ripples, and stipple are images or SVG, so `color.patternShare` reads 0 on all four; curves live in lettering, so `surface.radius.median` reads 7 or less. The fingerprint stays specimen-based until clear website examples exist."
+  ],
+  "page": "psychedelic-art.html",
+  "implementation": {
+    "tokens": "implementations/psychedelic-art/tokens.json",
+    "css": "implementations/psychedelic-art/tokens.css",
+    "tailwind": "implementations/psychedelic-art/tailwind.css",
+    "shadcn": "implementations/psychedelic-art/shadcn.css",
+    "registry": "implementations/psychedelic-art/registry-item.json",
+    "designMd": "implementations/psychedelic-art/DESIGN.md",
+    "specimen": "implementations/psychedelic-art/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for psychedelic-art. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#ff6a13",
+        "$description": "Hot orange ground. Color fills the whole sheet, as on a Fillmore handbill."
+      },
+      "surface": {
+        "$value": "#4a0e8f",
+        "$description": "Deep violet panel, the dark partner of the orange ground."
+      },
+      "subtle": {
+        "$value": "#ffd21f"
+      },
+      "text": {
+        "$value": "#240046",
+        "$description": "Aubergine ink instead of black. Body text keeps 4.5:1 or more on every light fill."
+      },
+      "muted": {
+        "$value": "#4a1a5e"
+      },
+      "border": {
+        "$value": "#240046"
+      },
+      "primary": {
+        "$value": "#ff3fa4",
+        "$description": "Magenta: vibrates against the orange ground and the lime accent."
+      },
+      "on-primary": {
+        "$value": "#240046"
+      },
+      "secondary": {
+        "$value": "#2a4dff",
+        "$description": "Electric blue: the complement of the orange ground."
+      },
+      "on-secondary": {
+        "$value": "#fff4d6"
+      },
+      "accent": {
+        "$value": "#b8f02a",
+        "$description": "Acid lime: the complement of magenta and violet."
+      },
+      "on-accent": {
+        "$value": "#240046"
+      },
+      "cream": {
+        "$value": "#fff4d6",
+        "$description": "Light ink for text on violet and blue."
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Cooper Black",
+          "Cooper Std",
+          "Arial Rounded MT Bold",
+          "Arial Rounded MT",
+          "Trebuchet MS",
+          "sans-serif"
+        ],
+        "$description": "Swollen, soft letters. Period posters used hand lettering. Cooper Black and rounded faces are the nearest system fonts."
+      },
+      "body": {
+        "$value": [
+          "Optima",
+          "Candara",
+          "Segoe UI",
+          "Trebuchet MS",
+          "sans-serif"
+        ],
+        "$description": "Flared humanist sans with an Art Nouveau echo."
+      },
+      "mono": {
+        "$value": [
+          "Optima",
+          "Candara",
+          "Segoe UI",
+          "sans-serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 900
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "13px"
+      },
+      "sm": {
+        "$value": "15px"
+      },
+      "base": {
+        "$value": "18px"
+      },
+      "lg": {
+        "$value": "22px"
+      },
+      "xl": {
+        "$value": "30px"
+      },
+      "2xl": {
+        "$value": "44px"
+      },
+      "3xl": {
+        "$value": "64px"
+      },
+      "4xl": {
+        "$value": "96px"
+      },
+      "5xl": {
+        "$value": "144px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.85
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.03,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": -0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.08,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "18px"
+      },
+      "md": {
+        "$value": "40px"
+      },
+      "lg": {
+        "$value": "96px"
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "3px"
+      },
+      "thick": {
+        "$value": "8px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "104px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "md": {
+        "$value": [
+          {
+            "color": "#b8f02a",
+            "offsetX": "0px",
+            "offsetY": "0px",
+            "blur": "0px",
+            "spread": "8px"
+          },
+          {
+            "color": "#ff3fa4",
+            "offsetX": "0px",
+            "offsetY": "0px",
+            "blur": "0px",
+            "spread": "16px"
+          }
+        ],
+        "$description": "Concentric echo rings around a shape, in two vibrating colors. Not depth."
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "maclean-six-days-of-sound-poster-1967",
+      "title": "6 Days of Sound, Fillmore at Winterland",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear on color and density: saturated blue ground, violet, pink, and orange, with lettering in every free space. Partial fit on type: the letters are bold slab-serif capitals that stay legible.",
+      "page": "references/maclean-six-days-of-sound-poster-1967.html",
+      "source": "https://collections.vam.ac.uk/item/O108960/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "dead-and-company-website",
+      "title": "Dead & Company website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: a full-bleed saturated ground, centered layout, and fat display lettering with echo outlines, but the letters stay legible and the body type is a clean geometric sans. The colors do not vibrate.",
+      "page": "references/dead-and-company-website.html",
+      "source": "https://deadandcompany.com/",
+      "image": "assets/references/dead-and-company-website.jpg",
+      "measurement": "data/measurements/dead-and-company-website.json"
+    },
+    {
+      "id": "skeleton-and-roses-avalon-poster-1966",
+      "title": "Grateful Dead at the Avalon Ballroom (Skeleton and Roses)",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The Art Nouveau revival side of the style: a borrowed nineteenth-century illustration, symmetrical ribbons, and swollen hand lettering. Partial fit on color: red and blue on cream paper, with a white margin.",
+      "page": "references/skeleton-and-roses-avalon-poster-1966.html",
+      "source": "https://collections.vam.ac.uk/item/O111021/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "aoxomoxoa-album-cover-1969",
+      "title": "Grateful Dead, Aoxomoxoa, album cover",
+      "medium": "packaging",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The poster style carried onto a record sleeve by one of its main artists. Documented only; the fit is taken from the sources, not from inspection.",
+      "page": "references/aoxomoxoa-album-cover-1969.html",
+      "source": "https://en.wikipedia.org/wiki/Aoxomoxoa",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "jefferson-airplane-fillmore-poster-1966",
+      "title": "Jefferson Airplane at the Fillmore Auditorium (BG-1)",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit, kept as the starting point: full-bleed saturated color and hand-drawn lettering, but the letters stay legible, the layout is diagonal, and there is no ornament or pattern. Compare Wilson’s Otis Rush poster a year later.",
+      "page": "references/jefferson-airplane-fillmore-poster-1966.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Jefferson_airplane_fillmore_poster_1966.jpg",
+      "image": "assets/references/jefferson-airplane-fillmore-poster-1966.jpg",
+      "measurement": "data/measurements/jefferson-airplane-fillmore-poster-1966.json"
+    },
+    {
+      "id": "flying-eyeball-hendrix-poster-1968",
+      "title": "Jimi Hendrix, John Mayall, Albert King (Flying Eyeball)",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example: saturated red over the whole sheet against a blue central circle, a symmetrical medallion composition, and ornate lettering that is hard to read at a glance.",
+      "page": "references/flying-eyeball-hendrix-poster-1968.html",
+      "source": "https://collections.vam.ac.uk/item/O1376448/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "sharp-mister-tambourine-man-poster-1967",
+      "title": "Mister Tambourine Man",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear on density and motif: concentric circles fill the whole sheet and the title is broken up into patterned letters. Partial fit on color: red-orange, black, and silver, not a pair of vibrating complements.",
+      "page": "references/sharp-mister-tambourine-man-poster-1967.html",
+      "source": "https://collections.vam.ac.uk/item/O76010/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "okeechobee-fest-website",
+      "title": "Okeechobee Music & Arts Festival website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the concentric rings and warped wordmark are psychedelic motifs, but the palette is lime and neutral gray, not complements, and the type is a condensed grotesque.",
+      "page": "references/okeechobee-fest-website.html",
+      "source": "https://www.okeechobeefest.com/",
+      "image": "assets/references/okeechobee-fest-website.jpg",
+      "measurement": "data/measurements/okeechobee-fest-website.json"
+    },
+    {
+      "id": "wes-wilson-otis-rush-grateful-dead-poster-1967",
+      "title": "Otis Rush, Grateful Dead, Canned Heat at the Fillmore",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The type trait in its purest form: Wilson’s lettering bends and swells until the band names become the hair of the figure. The palette is the exception: pale pink and gray on white, not vibrating complements.",
+      "page": "references/wes-wilson-otis-rush-grateful-dead-poster-1967.html",
+      "source": "https://collections.vam.ac.uk/item/O108984/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "oz-magazine-4-cover-1967",
+      "title": "Oz magazine no. 4, cover",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The style applied to a magazine cover: full-bleed saturated yellow, flowing Art Nouveau hair that fills the page, and swollen lettering in a clashing magenta.",
+      "page": "references/oz-magazine-4-cover-1967.html",
+      "source": "https://collections.vam.ac.uk/item/O1328452/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "san-francisco-oracle-10-cover-1967",
+      "title": "San Francisco Oracle, vol. 1 no. 10, cover",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example in newsprint: every part of the page is patterned, the masthead swells to fill an arch, and magenta, violet, and turquoise sit side by side.",
+      "page": "references/san-francisco-oracle-10-cover-1967.html",
+      "source": "https://archive.org/details/SanFranciscoOracleVol.1No.10Oct.D.D.TeoliJr.A.C.1",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "hulaween-website",
+      "title": "Suwannee Hulaween festival website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the wordmark is close to Wes Wilson’s lettering, and the lineup poster is dense and patterned, but the page ground is a dark photograph and the interface is plain.",
+      "page": "references/hulaween-website.html",
+      "source": "https://hulaween.com/",
+      "image": "assets/references/hulaween-website.jpg",
+      "measurement": "data/measurements/hulaween-website.json"
+    },
+    {
+      "id": "moscoso-miller-blues-band-matrix-poster-1967",
+      "title": "The Miller Blues Band at the Matrix (Neon Rose #2)",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The color trait in its purest form: two complements of similar value in tight alternating stripes, so the edges seem to move. Moscoso learned this from Josef Albers.",
+      "page": "references/moscoso-miller-blues-band-matrix-poster-1967.html",
+      "source": "https://collections.vam.ac.uk/item/O1023103/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "hapshash-move-pink-floyd-ufo-poster-1967",
+      "title": "The Move and Pink Floyd at UFO",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The London branch of the style: swollen, melting lettering with a two-ink rainbow blend, radiating rays, and Art Nouveau patterning. Partial fit on color: much white paper and a metallic gold instead of complements.",
+      "page": "references/hapshash-move-pink-floyd-ufo-poster-1967.html",
+      "source": "https://collections.vam.ac.uk/item/O129217/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "trps-website",
+      "title": "The Rock Poster Society website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Borderline: the poster image and the rippling background pattern are in the style, and the logo uses psychedelic lettering, but the page chrome is a dark, conventional layout with a plain sans. Much of the style here is in the displayed artwork.",
+      "page": "references/trps-website.html",
+      "source": "https://trps.org/",
+      "image": "assets/references/trps-website.jpg",
+      "measurement": "data/measurements/trps-website.json"
+    },
+    {
+      "id": "the-source-psychedelic-art-store-1967",
+      "title": "The Source, a psychedelic art store in Washington, D.C.",
+      "medium": "photograph",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Context, not an exemplar: posters in the style hang on the walls of a commercial store in Washington, D.C., in April 1967.",
+      "page": "references/the-source-psychedelic-art-store-1967.html",
+      "source": "https://www.loc.gov/item/2024640512/",
+      "image": "assets/references/the-source-psychedelic-art-store-1967.jpg",
+      "measurement": "data/measurements/the-source-psychedelic-art-store-1967.json"
+    }
+  ]
+}

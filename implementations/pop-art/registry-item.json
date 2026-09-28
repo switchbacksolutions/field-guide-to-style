@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "pop-art",
+  "type": "registry:theme",
+  "title": "Pop art",
+  "description": "Ben-Day dots, heavy black outlines, and flat process primaries. The comic panel blown up to poster size.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Helvetica Neue\", Arial, sans-serif",
+      "font-mono": "\"Avenir Next Condensed\", \"Arial Narrow\", \"Helvetica Neue\", sans-serif"
+    },
+    "light": {
+      "background": "#fffbea",
+      "foreground": "#111111",
+      "card": "#ffffff",
+      "card-foreground": "#111111",
+      "popover": "#ffffff",
+      "popover-foreground": "#111111",
+      "primary": "#d8202a",
+      "primary-foreground": "#ffffff",
+      "secondary": "#1d5fc4",
+      "secondary-foreground": "#ffffff",
+      "muted": "#fff4b8",
+      "muted-foreground": "#3a3a3a",
+      "accent": "#ffd400",
+      "accent-foreground": "#111111",
+      "destructive": "#b42318",
+      "border": "#111111",
+      "input": "#111111",
+      "ring": "#d8202a",
+      "radius": "0px"
+    }
+  }
+}

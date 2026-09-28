@@ -1,0 +1,36 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "vaporwave",
+  "type": "registry:theme",
+  "title": "Vaporwave",
+  "description": "Pastel sunsets, old-OS windows, marble busts, and fullwidth type. 1990s consumer tech remembered with irony.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "Tahoma, Verdana, \"MS Sans Serif\", Geneva, \"DejaVu Sans\", sans-serif",
+      "font-mono": "\"MS Gothic\", \"Lucida Console\", \"Courier New\", monospace",
+      "shadow-sm": "inset -1px -1px 0px 0px #0a0a0a, inset 1px 1px 0px 0px #ffffff, inset -2px -2px 0px 0px #808080, inset 2px 2px 0px 0px #dfdfdf",
+      "shadow-md": "inset -1px -1px 0px 0px #0a0a0a, inset 1px 1px 0px 0px #dfdfdf, inset -2px -2px 0px 0px #808080, inset 2px 2px 0px 0px #ffffff"
+    },
+    "light": {
+      "background": "#f7c9ec",
+      "foreground": "#000000",
+      "card": "#c0c0c0",
+      "card-foreground": "#000000",
+      "popover": "#c0c0c0",
+      "popover-foreground": "#000000",
+      "primary": "#000080",
+      "primary-foreground": "#ffffff",
+      "secondary": "#01cdfe",
+      "secondary-foreground": "#000000",
+      "muted": "#dfdfdf",
+      "muted-foreground": "#3b3552",
+      "accent": "#ff71ce",
+      "accent-foreground": "#000000",
+      "destructive": "#b42318",
+      "border": "#808080",
+      "input": "#808080",
+      "ring": "#000080",
+      "radius": "0px"
+    }
+  }
+}
