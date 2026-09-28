@@ -84,13 +84,15 @@ for (const job of jobs) {
   const { sessionId } = await send("Target.attachToTarget", { targetId, flatten: true });
   try {
     await send("Page.enable", {}, sessionId);
+    // Some old pages replace the global JSON object (tapbots.com 2011), so keep the built-in serializer.
+    await send("Page.addScriptToEvaluateOnNewDocument", { source: "window.__captureStringify = JSON.stringify;" }, sessionId);
     await send("Emulation.setDeviceMetricsOverride", { ...VIEWPORT, deviceScaleFactor: 1, mobile: false }, sessionId);
     const loaded = waitFor("Page.loadEventFired", sessionId, 45000);
     const nav = await send("Page.navigate", { url: job.url }, sessionId);
     if (nav.errorText) throw new Error(nav.errorText);
     if (!(await loaded)) console.warn(`${job.id}: load event timed out, measuring anyway`);
     await new Promise((r) => setTimeout(r, settle));
-    const { result, exceptionDetails } = await send("Runtime.evaluate", { expression: `${extractor}\nextractTraits().then((r) => JSON.stringify(r))`, awaitPromise: true, returnByValue: true, timeout: 60000 }, sessionId);
+    const { result, exceptionDetails } = await send("Runtime.evaluate", { expression: `${extractor}\nextractTraits().then((r) => (window.__captureStringify ?? JSON.stringify)(r))`, awaitPromise: true, returnByValue: true, timeout: 60000 }, sessionId);
     if (exceptionDetails) throw new Error(exceptionDetails.exception?.description ?? exceptionDetails.text);
     const measurement = JSON.parse(result.value);
     await send("Runtime.evaluate", { expression: "(document.scrollingElement ?? document.documentElement).scrollTop = 0" }, sessionId);
