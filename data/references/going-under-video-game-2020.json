@@ -1,0 +1,55 @@
+{
+  "id": "going-under-video-game-2020",
+  "title": "Going Under (Aggro Crab, 2020)",
+  "type": "product",
+  "medium": "software",
+  "lede": "A satirical dungeon-crawler about failed tech startups, whose characters and office spaces take the style’s colors and shapes into 3D.",
+  "summary": "A 3D game that parodies startup culture with the style’s pastel palette, blob furniture, and bright-skinned characters. 2020.",
+  "source": {
+    "url": "https://store.steampowered.com/app/1154810/Going_Under/",
+    "label": "Steam: Going Under"
+  },
+  "creator": {
+    "name": "Aggro Crab (developer); Team17 (publisher)"
+  },
+  "made": "Released 24 September 2020",
+  "moods": [
+    "satirical",
+    "bright",
+    "chaotic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected two 1920 × 1080 screenshots from the Steam store API (a boss fight and the company lobby). No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Partial fit: a parody in 3D. It uses the style’s palette, pill-shaped furniture, and potted plants, and blue-skinned monsters, but it has painted texture and 3D light, not flat vector fills.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Steam describes it as “a satirical dungeon crawler about exploring the cursed ruins of failed tech startups”, with the player as an unpaid intern in the city of Neo-Cascadia. Developer Aggro Crab, publisher Team17, released 24 September 2020. [Steam](https://store.steampowered.com/app/1154810/Going_Under/).",
+    "Reviews and essays describe its art as a parody of Corporate Memphis, for example [Merry-Go-Round Magazine](https://merrygoroundmagazine.com/going-under-reclaims-corporate-aesthetics/)."
+  ],
+  "observed": [
+    "The lobby screenshot shows pink and peach walls, a green floor with orange paths, and long yellow and purple pill-shaped benches.",
+    "Rounded teal trees stand in violet pots on red bases; giant soda cans float over a fountain.",
+    "The boss screenshot shows a violet brick room with a zig-zag stripe, and a large monster with blue arms and an orange body.",
+    "Surfaces carry a brushed, speckled texture and soft 3D shading."
+  ],
+  "interpretation": [
+    "Going Under shows how recognizable the style became by 2020: a game could use its palette and props as shorthand for startup culture and make fun of it."
+  ],
+  "borrow": [
+    "For a satirical or self-aware brand, keep the style’s palette and props but add texture to signal distance from it."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Aggro Crab and Team17. No image is stored."
+  }
+}

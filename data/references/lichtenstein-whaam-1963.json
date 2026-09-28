@@ -1,0 +1,67 @@
+{
+  "id": "lichtenstein-whaam-1963",
+  "title": "Whaam!",
+  "type": "object",
+  "medium": "painting",
+  "lede": "Roy Lichtenstein’s two-canvas war comic: a fighter plane fires on the left, and the target explodes on the right under the sound effect WHAAM!",
+  "summary": "A comic panel blown up to 4 m: Ben-Day blue sky, black key lines, a yellow caption box, and a red and yellow explosion. Roy Lichtenstein, 1963.",
+  "source": {
+    "url": "https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897",
+    "label": "Tate: ‘Whaam!’, Roy Lichtenstein, 1963"
+  },
+  "creator": {
+    "name": "Roy Lichtenstein",
+    "url": "https://www.wikidata.org/wiki/Q151679"
+  },
+  "made": "1963",
+  "moods": [
+    "loud",
+    "graphic",
+    "ironic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Tate’s image of the painting, Tate T00897 (1536 × 660 px), in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "The canonical comic-panel painting: Ben-Day dot fields, even black outlines, a yellow caption box, and a huge outlined sound effect.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Tate gives the medium as acrylic paint and oil paint on canvas. [Tate](https://www.tate.org.uk/art/artworks/lichtenstein-whaam-t00897).",
+    "The diptych was first shown at the Leo Castelli Gallery, New York, in 1963 and bought by the Tate Gallery in 1966. Lichtenstein adapted it from several comic-book panels; the main source is a panel drawn by Irv Novick for a 1962 war comic. [Wikipedia](https://en.wikipedia.org/wiki/Whaam!).",
+    "The exhibition poster for the same 1963 Castelli show is [Crak!](ref:lichtenstein-crak-poster-1963)."
+  ],
+  "observed": [
+    "Two canvases side by side, each framed as one comic panel; the thin gap between them acts as a gutter.",
+    "The sky on both canvases is a field of small, even blue dots on white. The plane’s shadows use a lavender dot tint.",
+    "Every shape has a black outline of even weight. Clouds, smoke, and flames are closed shapes with flat fills.",
+    "A yellow caption box with a black outline sits at top left and holds hand-lettered capitals: “I PRESSED THE FIRE CONTROL… AND AHEAD OF ME ROCKETS BLAZED THROUGH THE SKY…”.",
+    "“WHAAM!” runs down the right canvas in tall yellow slanted capitals with black outlines.",
+    "The explosion is flat red and yellow with white and black; bundles of black speed lines radiate from it.",
+    "The rocket trail is a band of parallel red, yellow, and black stripes."
+  ],
+  "interpretation": [
+    "Whaam! shows every device in the style record at once: dot tints, key lines, a caption box, a sound effect, and speed lines. It is the best single reference for the comic-panel branch.",
+    "The dots are used only as tints for sky and shadow. Figures, flames, and lettering stay solid, which keeps the image legible at a distance."
+  ],
+  "borrow": [
+    "Split a hero into two panels with a narrow white gutter, and let one action continue across the gap.",
+    "Use one dot tint for the whole background and keep the foreground in solid flat color.",
+    "Put a short narration in a yellow outlined caption box in the top corner."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The painting is © Estate of Roy Lichtenstein; Lichtenstein died in 1997."
+  },
+  "identifiers": {
+    "wikidata": "Q3567592",
+    "tate": "T00897"
+  }
+}

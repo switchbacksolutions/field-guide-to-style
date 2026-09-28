@@ -1,0 +1,62 @@
+{
+  "id": "plyuto-skeuomorph-mobile-banking-2019",
+  "title": "Skeuomorph Mobile Banking",
+  "type": "image",
+  "medium": "app",
+  "lede": "The Dribbble concept that started the trend: a banking app molded out of one pale blue-gray surface.",
+  "summary": "Alexander Plyuto’s viral 2019 banking-app concept, the usual starting point of neumorphism.",
+  "source": {
+    "url": "https://dribbble.com/shots/7994421-Skeuomorph-Mobile-Banking",
+    "label": "Dribbble",
+    "archive": "https://web.archive.org/web/20191115232107/https://dribbble.com/shots/7994421-Skeuomorph-Mobile-Banking"
+  },
+  "creator": {
+    "name": "Alexander (Oleksandr) Plyuto, for Heartbeat Agency",
+    "url": "https://dribbble.com/alexplyuto"
+  },
+  "made": "2019 (posted 5 November 2019, per the Wayback copy of the shot page)",
+  "moods": [
+    "soft",
+    "tactile",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Opened the shot’s main image (`frame_8_4x.png`, 1600 × 1200) from cdn.dribbble.com, found through the Wayback capture of 15 November 2019. The live Dribbble page returned an empty body to scripts. Only the first image of the shot was inspected; the other images in the shot were not."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "The shot that [Malewicz](ref:malewicz-neumorphism-article-2019), [CSS-Tricks](ref:css-tricks-neumorphism-and-css-2020), and Wikipedia name as the origin of the style. Cards, buttons, and wells rise from or sink into one pale surface.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The description reads: “Let’s imagine that we live in a dimension where skeuomorph is still alive and continued its evolution in mobile interfaces. What would applications look like then? Here is my vision.” A later update links a Figma file, “Skeuomorph Style Guide”.",
+    "The Wayback capture of 15 November 2019 shows 129,538 views and 2,644 likes. Malewicz wrote in December 2019 that the shot “gained over 3000 likes and pushed the trend forward”.",
+    "In 2019 Dribbble credited the shot to “Alexander Plyuto for Heartbeat Agency”; search results in 2026 show the name “Oleksandr Plyuto”."
+  ],
+  "observed": [
+    "Two phone-sized panels and a settings card on a pale blue-gray background. The panels, cards, and buttons have the same color as the background.",
+    "Each raised shape has a white highlight on its upper left and a soft blue-gray shadow on its lower right. The credit-limit bar, the active tab in the bottom bar, and the back/menu button pair look pressed in.",
+    "A large round chart is carved into the surface with ridges between segments. One segment is a raised orange wedge with a gradient; a small red button sits in its center.",
+    "Two accents break the monochrome: a glossy red rocker switch with ridges (“OFF”) and an iridescent patch on the credit card.",
+    "Type is a geometric sans-serif in dark navy, bold for “Statistic” and “Balance”, regular for labels. The card number uses a monospaced face."
+  ],
+  "interpretation": [
+    "This is neumorphism before its name. The surface recipe is already complete, but the red rocker switch, the chip, and the iridescent foil keep objects from [skeuomorphism](style:skeuomorphism). Later work dropped them and kept only the pale surface and the paired shadows."
+  ],
+  "borrow": [
+    "Carve a chart into the surface as a pressed dial and raise only the selected segment, so that selection reads as height."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Alexander Plyuto / Heartbeat Agency. Link only."
+  },
+  "identifiers": {
+    "dribbble": "7994421"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "wikimedia-android-microcontributions-report-2019",
+  "title": "Wikimedia Foundation research report cover with Humaaans figures",
+  "type": "print",
+  "medium": "other",
+  "lede": "The title slide of a 2019 Wikimedia Foundation design research report: bold black type on the left and two Humaaans figures passing an image card in front of a pale app window on the right.",
+  "summary": "Two flat Humaaans figures in front of a grey wireframe window, beside bold sans-serif titles. Research slide deck, 2019.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Android_Microcontributions_Phase1%262_Findings_Report.pdf",
+    "label": "Wikimedia Commons: Android Microcontributions Phase 1 & 2 Findings Report"
+  },
+  "creator": {
+    "name": "Daisy Chen, Wikimedia Foundation Product Design Strategy"
+  },
+  "made": "2019 (dated 2 December 2019)",
+  "moods": [
+    "friendly",
+    "corporate",
+    "clean"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1280 × 720 rendering of page 1 of the PDF on Wikimedia Commons and stored it. Only the title slide was reviewed."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Clear fit in use: stock [Humaaans](ref:humaaans-illustration-library-2018) figures as a spot illustration in white space next to a wireframe interface, the typical layout of tech decks and landing pages.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes the file as user research on what motivates and retains Wikipedia editors who use the section editor in the Android app, by Daisy Chen, under CC BY-SA 4.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Android_Microcontributions_Phase1%262_Findings_Report.pdf).",
+    "The slide credits its image to humaaans.com."
+  ],
+  "observed": [
+    "The left half has a short rule and a heavy black sans-serif title, “Android Microcontributions”, with three bullet lines and the author’s name.",
+    "On the right, a pale grey browser window shows grey placeholder lines and circles like a wireframe list.",
+    "Two figures stand in front of it: one in a blue top and red trousers holds out a blue image card, the other in a red jacket and navy trousers reaches for it.",
+    "The figures have small blank heads, long limbs, and flat fills without outlines; the page is white."
+  ],
+  "interpretation": [
+    "It shows the style as off-the-shelf corporate furniture: free figures added to a research deck to make it friendly, with no custom drawing."
+  ],
+  "borrow": [
+    "Pair one flat figure scene with a wireframe window behind it to signal “product” without showing a real screen."
+  ],
+  "images": [
+    {
+      "file": "assets/references/wikimedia-android-microcontributions-report-2019.jpg",
+      "alt": "Title slide: bold black text “Android Microcontributions” on the left; on the right two flat long-limbed figures pass a blue image card in front of a pale grey wireframe browser window.",
+      "width": 1280,
+      "height": 720,
+      "kind": "source-image",
+      "caption": "Title slide of “Android Microcontributions Phase 1 & 2 Findings Report” by Daisy Chen, Wikimedia Foundation, 2019. CC BY-SA 4.0. Figures from Humaaans. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Android_Microcontributions_Phase1%262_Findings_Report.pdf).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/30/Android_Microcontributions_Phase1%262_Findings_Report.pdf",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Released under CC BY-SA 4.0 on Wikimedia Commons. The figures are from Humaaans by Pablo Stanley (CC0). Credit: Daisy Chen, Wikimedia Foundation."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "upa-gerald-mcboing-boing-1950",
+  "title": "Gerald McBoing-Boing",
+  "type": "object",
+  "medium": "other",
+  "lede": "UPA’s Oscar-winning short animated a Dr. Seuss story with flat, sparse drawings and limited movement, and set the look of mid-century “cartoon modern”.",
+  "summary": "Animated short film by United Productions of America, directed by Robert Cannon, released by Columbia in 1950.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Gerald_McBoing-Boing",
+    "label": "Wikipedia: Gerald McBoing-Boing"
+  },
+  "creator": {
+    "name": "United Productions of America (UPA)",
+    "url": "https://www.wikidata.org/wiki/Q642996"
+  },
+  "made": "1950 (released 4 November 1950)",
+  "moods": [
+    "playful",
+    "sparse",
+    "modern"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the Wikipedia article and its quotation from The New York Times. No frames of the film were inspected for this record."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "The source of the style’s “limited animation” trait: flat shapes, few in-betweens, and sparse backgrounds.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Gerald McBoing-Boing is a 1950 animated short directed by Robert Cannon and produced by United Productions of America. Columbia Pictures released it on 4 November 1950. Phil Eastman and Bill Scott adapted a story by Dr. Seuss. [Wikipedia](https://en.wikipedia.org/wiki/Gerald_McBoing-Boing).",
+    "It won the 1950 Academy Award for Best Animated Short. The Library of Congress selected it for the National Film Registry in 1995. [Wikipedia](https://en.wikipedia.org/wiki/Gerald_McBoing-Boing).",
+    "Wikipedia quotes The New York Times: Cannon “was primarily responsible for the drawings, strongly reminiscent of a [Saul] Steinberg cartoon”, and Bill Hurtz and Herb Klynn did the design and the color. [Wikipedia](https://en.wikipedia.org/wiki/Gerald_McBoing-Boing)."
+  ],
+  "interpretation": [
+    "UPA’s films moved studio animation away from rounded, fully animated characters toward flat, graphic drawing. That link between print illustration and motion is why the style record names limited animation as a trait."
+  ],
+  "borrow": [
+    "Animate by moving, cutting, and swapping flat shapes rather than by smooth tweening, as the style’s motion facet describes."
+  ],
+  "next": [
+    "Inspect frames from a licensed copy of the film and record what they show."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The film’s copyright status was not checked."
+  },
+  "identifiers": {
+    "wikidata": "Q1509967"
+  }
+}

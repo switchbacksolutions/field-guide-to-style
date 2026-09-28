@@ -1,0 +1,63 @@
+{
+  "id": "designers-republic-blech-ticket-1996",
+  "title": "Blech club night ticket",
+  "type": "print",
+  "medium": "other",
+  "lede": "A Designers Republic ticket for the Warp Records club night Blech, mixing manga, Japanese katakana, coded labels, and LCD-style type.",
+  "summary": "Lime ticket with a big-eyed manga face, katakana, a pixel “BL-3CH” code, and a pink warning arrow. The Designers Republic, 1996–97.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1681781/blech-ticket-the-designers-republic/",
+    "label": "V&A: Blech ticket, E.50-2022"
+  },
+  "creator": {
+    "name": "The Designers Republic"
+  },
+  "made": "1996–7 (V&A)",
+  "moods": [
+    "playful",
+    "coded",
+    "futuristic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A photograph of object E.50-2022 (image 2025PD1388, 1600 × 1298) in a scratchpad copy. Not stored. The V&A record has no description; the name Warp Records comes from the context below, not from the ticket."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Partial fit: the Designers Republic’s Japanese-pop, coded-label side of Y2K graphics. Interface-like labels and LCD type are present; chrome and translucency are not.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "The V&A holds the ticket as E.50-2022, titled “Blech”, by The Designers Republic, UK, 1996–7, given by The Designers Republic. [V&A E.50-2022](https://collections.vam.ac.uk/item/O1681781/blech-ticket-the-designers-republic/).",
+    "Wikipedia says The Designers Republic is sometimes associated with popularizing the Y2K look. [Wikipedia: Y2K aesthetic](https://en.wikipedia.org/wiki/Y2K_aesthetic)."
+  ],
+  "observed": [
+    "The ground is flat lime green. A large manga-style face with huge blue eyes, white highlights, and freckles fills the lower two thirds.",
+    "The heading “BLECH:” is in heavy orange-red sans-serif capitals, followed by katakana in bright blue.",
+    "A purple-edged box holds “BL-3CH” in a dotted, LCD-like pixel face; next to it are outlined rounded pictogram characters.",
+    "Small type reads “FORMAT: DISCOCLUB PASS”, “ADMITS ONE. PRICE £4.00”, and “THIS TICKET VALID MAY 11 ONLY” in magenta.",
+    "A pink double-headed arrow at right carries “WARNING! THIS PASS MUST BE SURRENDERED ON ENTRY” set vertically, and a small round “DR” badge sits at top right."
+  ],
+  "interpretation": [
+    "The ticket treats a club pass like a product label from a Japanese future: format codes, model numbers, warnings, and trademark signs. This coded-label habit is the graphic side of the style’s “interface as device” layout.",
+    "It shows the flat, bright end of Y2K graphics before gloss and chrome became common in print."
+  ],
+  "borrow": [
+    "Add fake model codes, format labels, and warnings in small capitals around a main image.",
+    "Set a short code in a dotted LCD face inside a thin outlined box.",
+    "Mix Latin headings with a second script or pictograms as texture."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is © Victoria and Albert Museum, London; the design belongs to The Designers Republic."
+  },
+  "identifiers": {
+    "vam": "O1681781"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20180614205120if_/https://stasher.com/",
+  "title": "Stasher - Luggage Storage Everywhere",
+  "captured": "2018-06-14T20:51:27.296Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Roboto",
+        "share": 1
+      }
+    ],
+    "baseSize": 18,
+    "maxSize": 120,
+    "sizeRange": 6.67,
+    "scaleRatio": 1.58,
+    "headingWeight": 500,
+    "bodyWeight": 400,
+    "headingTracking": -0.025,
+    "uppercaseShare": 0.02,
+    "monoShare": 0,
+    "centerShare": 0.07
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.654
+      },
+      {
+        "hex": "#0270e6",
+        "share": 0.232
+      },
+      {
+        "hex": "#212429",
+        "share": 0.092
+      },
+      {
+        "hex": "#818699",
+        "share": 0.011
+      },
+      {
+        "hex": "#afb5c7",
+        "share": 0.01
+      },
+      {
+        "hex": "#69b1ff",
+        "share": 0.001
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#212429",
+    "contrast": 15.6,
+    "chroma": 0.21,
+    "lightness": 0.79,
+    "chromaticShare": 0.23,
+    "accentChroma": 0.89,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0.02,
+    "gradientShare": 0,
+    "patternShare": 0.23
+  },
+  "surface": {
+    "boxes": 52,
+    "radius": {
+      "median": 0,
+      "max": 32,
+      "roundShare": 0.42
+    },
+    "border": {
+      "share": 0.23,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.38,
+      "hardShare": 0.55,
+      "medianBlur": 0,
+      "medianOffset": 0
+    },
+    "gradientShare": 0.02,
+    "patternShare": 0.04,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.778
+      },
+      {
+        "hex": "#f5943f",
+        "share": 0.041
+      },
+      {
+        "hex": "#0270e7",
+        "share": 0.04
+      },
+      {
+        "hex": "#e96663",
+        "share": 0.022
+      },
+      {
+        "hex": "#5cdcb1",
+        "share": 0.019
+      },
+      {
+        "hex": "#f0d669",
+        "share": 0.012
+      },
+      {
+        "hex": "#f0f0ef",
+        "share": 0.011
+      },
+      {
+        "hex": "#1477e0",
+        "share": 0.01
+      },
+      {
+        "hex": "#e2e3e4",
+        "share": 0.009
+      },
+      {
+        "hex": "#4091e1",
+        "share": 0.009
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.12,
+    "lightness": 0.92,
+    "chromaticShare": 0.17,
+    "accentChroma": 0.68,
+    "distinct": 4,
+    "hues": 5
+  }
+}

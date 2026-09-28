@@ -1,0 +1,63 @@
+{
+  "id": "angular-material-v12-website",
+  "title": "Angular Material 12 documentation website",
+  "type": "website",
+  "medium": "website",
+  "lede": "Google’s Angular component library, documented in its own Material 2 components: an indigo app bar, a white raised button, and Roboto on pale gray.",
+  "summary": "Indigo app bar and hero, a white raised button with a soft shadow, and Roboto text on pale gray.",
+  "source": {
+    "url": "https://v12.material.angular.io/",
+    "label": "Angular Material 12.2 documentation (v12.material.angular.io)"
+  },
+  "creator": {
+    "name": "Google, Angular team"
+  },
+  "moods": [
+    "orderly",
+    "confident",
+    "systematic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A small cookie notice covers part of the lower left corner."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "Clear example of Material 2: an indigo primary app bar with a soft shadow, a small white raised button, Roboto throughout, and a pale gray ground. It passes every metric of the fingerprint.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "This is the archived documentation for version 12 (2021). The current Angular Material site uses Material 3.",
+  "observed": [
+    "A full-width indigo app bar holds the white labels Material, Components, CDK, and Guides, a version menu reading 12.2.13, and a GitHub link. A soft shadow falls from the bar onto the hero.",
+    "The hero is the same indigo, with a large pale Angular shield behind the bold white title “Angular Material” and the line “Material Design components for Angular”.",
+    "A small white “Get started” button has slightly rounded corners and a soft shadow.",
+    "Below, three columns of gray Roboto text (High quality, Versatile, Frictionless) sit on a pale gray ground.",
+    "A white cookie notice with a soft shadow covers part of the lower left corner. Its OK, GOT IT button is indigo text in all capitals."
+  ],
+  "interpretation": [
+    "The page measures a shadow on 55 % of its boxes, a median blur of 3 px and offset of 2 px (a 1 dp Material 2 surface), a 4 px median radius, and a chromatic share of 0.46."
+  ],
+  "borrow": [
+    "Let the primary color of the app bar continue into the hero, and separate the two only by the bar’s shadow."
+  ],
+  "images": [
+    {
+      "file": "assets/references/angular-material-v12-website.jpg",
+      "alt": "Angular Material 12 documentation home: an indigo app bar and hero with the title Angular Material over a pale Angular shield, a white Get started button, three columns of gray text, and a small cookie notice at lower left.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [v12.material.angular.io](https://v12.material.angular.io/). The live site at material.angular.io now uses Material 3.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners. Screenshot captured for commentary."
+  }
+}

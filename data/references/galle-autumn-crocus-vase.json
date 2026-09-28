@@ -1,0 +1,75 @@
+{
+  "id": "galle-autumn-crocus-vase",
+  "title": "“Autumn Crocus” vase by Émile Gallé",
+  "type": "object",
+  "medium": "product",
+  "lede": "A tall Nancy glass vase that grows like its subject: a pink-streaked stem swells up from a dark bulb-shaped foot and carries applied orange and violet crocus flowers.",
+  "summary": "Tall glass vase with applied crocus flowers on a pink-streaked body. Émile Gallé, Nancy, c. 1900.",
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/483825",
+    "label": "The Metropolitan Museum of Art: “Autumn Crocus” Vase, 1984.553"
+  },
+  "creator": {
+    "name": "Émile Gallé (designer); Établissements Gallé (manufacturer)",
+    "url": "https://www.wikidata.org/wiki/Q275085"
+  },
+  "made": "ca. 1900",
+  "moods": [
+    "organic",
+    "delicate",
+    "botanical"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Met’s open-access primary image of object 1984.553 (2166 × 4000 px). Read the object record through the Met collection API."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "art-nouveau",
+      "note": "Nancy School glass: the vessel takes the shape of the plant it shows, and the flowers are modelled into the surface.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Met records the object as a vase with tray, glass, ca. 1900, 44.1 × 11.7 × 11.7 cm, designed by Émile Gallé (1846–1904) and made by Établissements Gallé; gift of Lloyd and Barbara Macklowe, 1984. The Met marks it public domain. [The Met 1984.553](https://www.metmuseum.org/art/collection/search/483825).",
+    "Wikipedia describes Gallé as a trained botanist, a major innovator of French Art Nouveau, and founder and first president (1901) of the École de Nancy; the 1900 Paris Exposition was the summit of his fame. [Wikipedia: Émile Gallé](https://en.wikipedia.org/wiki/%C3%89mile_Gall%C3%A9)."
+  ],
+  "observed": [
+    "The vase is tall and narrow. It widens slowly from a thin neck-like lower stem to a rounded top, then closes slightly at the lip.",
+    "Fine pink threads run vertically up the frosted, pale body; toward the base they deepen into magenta streaks.",
+    "One orange crocus with yellow stamens and two violet-blue crocuses stand near the top, raised from the surface. A long violet leaf and a thin orange stem run down the body.",
+    "The foot is a dark, lobed, bulb-like mass in aubergine with orange inclusions.",
+    "The photograph shows the vase against a plain white ground."
+  ],
+  "interpretation": [
+    "The form follows the plant: bulb at the foot, a long stem, and flowers at the top. This is the Nancy School version of the style’s idea that structure and ornament grow from one natural form.",
+    "The colours here are more vivid than the grammar’s earthy palette, but they come from the flower itself and sit on a pale, soft ground."
+  ],
+  "borrow": [
+    "Let a tall container or column narrow and swell like a stem, with its weight at the base.",
+    "Use fine vertical threads of one tint as a texture that deepens toward one end."
+  ],
+  "images": [
+    {
+      "file": "assets/references/galle-autumn-crocus-vase.jpg",
+      "alt": "Tall slender glass vase on a white ground: a frosted pale-pink body with fine vertical pink threads, orange and violet crocus flowers near the top, and a dark purple lobed foot.",
+      "width": 866,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Émile Gallé, “Autumn Crocus” vase, ca. 1900. [The Metropolitan Museum of Art 1984.553](https://www.metmuseum.org/art/collection/search/483825), open access (CC0).",
+      "original": "https://images.metmuseum.org/CRDImages/ma/original/LC-1984_553-overall-20231002-02.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Met marks the object public domain (`isPublicDomain: true`) and releases its open-access images under CC0. Émile Gallé died in 1904, and the vase dates from about 1900, so it is in the public domain in France and the United States."
+  },
+  "identifiers": {
+    "met": "483825",
+    "wikidata-creator": "Q275085"
+  }
+}

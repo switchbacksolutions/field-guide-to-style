@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/mondrian-composition-large-blue-plane-1921.jpg",
+  "captured": "2026-09-28T17:51:43+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#0386e9",
+        "share": 0.294
+      },
+      {
+        "hex": "#d8dae0",
+        "share": 0.285
+      },
+      {
+        "hex": "#e7eaed",
+        "share": 0.14
+      },
+      {
+        "hex": "#37373e",
+        "share": 0.121
+      },
+      {
+        "hex": "#037bd6",
+        "share": 0.047
+      },
+      {
+        "hex": "#f0dd74",
+        "share": 0.028
+      },
+      {
+        "hex": "#fa7f5b",
+        "share": 0.025
+      },
+      {
+        "hex": "#464449",
+        "share": 0.014
+      },
+      {
+        "hex": "#beb7b6",
+        "share": 0.008
+      },
+      {
+        "hex": "#c8c8c9",
+        "share": 0.008
+      }
+    ],
+    "background": "#0386e9",
+    "chroma": 0.36,
+    "lightness": 0.63,
+    "chromaticShare": 0.41,
+    "accentChroma": 0.84,
+    "distinct": 7,
+    "hues": 3
+  }
+}

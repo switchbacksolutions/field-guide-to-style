@@ -1,0 +1,68 @@
+{
+  "id": "leather-notepad-illustration-2013",
+  "title": "Leather notepad illustration, 2013",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A Photoshop drawing of a stitched leather notepad with ruled paper and a pen, made to illustrate skeuomorphism.",
+  "summary": "Stitched brown leather, ruled paper, a chrome pen, and gold script. Openly licensed, 2013.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Leather_Notepad.png",
+    "label": "Wikimedia Commons: Leather Notepad.png"
+  },
+  "creator": {
+    "name": "TTerlizz (Wikimedia Commons user)"
+  },
+  "made": "2013 (upload date 7 August 2013)",
+  "moods": [
+    "tactile",
+    "warm",
+    "crafted"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the full 687 × 1108 px original from Wikimedia Commons. It is an amateur demonstration, not a shipped interface."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "Shows the full vocabulary of the style in one image: leather grain, stitching, ruled paper, a photoreal pen, and embossed gold type. It is a demonstration, not a historical product.",
+      "basis": "agent",
+      "qualifier": "demonstration"
+    }
+  ],
+  "context": [
+    "The Commons description: “This is a leather notepad created in photoshop. It includes a pen, paper, and gold embroidery. This is a classic example of skeuomorphism: making a simulation of a real life object.” [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leather_Notepad.png)."
+  ],
+  "observed": [
+    "A brown leather cover with a fine grain and a lighter dashed stitch line inset from the edges and along a pocket seam.",
+    "A sheet of white paper with pale blue horizontal rules, a red margin rule on each side, and punched holes along the left edge.",
+    "A silver and dark gray pen with strong highlights lies over the paper and casts a shadow.",
+    "The word “Notes” in gold italic script with a dark drop shadow sits on the leather pocket."
+  ],
+  "interpretation": [
+    "The image repeats the iOS and Lion notepad vocabulary (see [Notes](ref:ios-notes-legal-pad)) without any interface controls, so its measurements show material color and texture alone."
+  ],
+  "borrow": [
+    "Mark a panel edge with a dashed stitch line 6 to 10 px inside the border, in a lighter tone of the leather.",
+    "Use a red margin rule and pale blue rules for a note surface."
+  ],
+  "images": [
+    {
+      "file": "assets/references/leather-notepad-illustration-2013.png",
+      "alt": "A brown stitched leather notepad holding a sheet of ruled white paper, with a silver pen clipped at the top left and the word Notes in gold script on the lower pocket.",
+      "width": 687,
+      "height": 1108,
+      "kind": "source-image",
+      "caption": "“Leather Notepad” by TTerlizz, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Leather_Notepad.png), CC BY-SA 3.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Leather_Notepad.png",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-3.0",
+    "statement": "Own work by TTerlizz, licensed CC BY-SA 3.0 on Wikimedia Commons. The depicted work is the uploader’s own drawing under the same license, not a public-domain work; this is a borderline use of tier A for review."
+  }
+}

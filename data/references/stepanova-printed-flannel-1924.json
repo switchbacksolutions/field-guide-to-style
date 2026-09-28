@@ -1,0 +1,60 @@
+{
+  "id": "stepanova-printed-flannel-1924",
+  "title": "Printed flannel with chevrons",
+  "type": "object",
+  "medium": "textile",
+  "lede": "A surviving swatch of Varvara Stepanova’s geometric flannel print, made when constructivist artists turned to designing textiles for Soviet factories.",
+  "summary": "Wine-red and olive-brown interlocking chevrons on a natural cotton ground. Varvara Stepanova, 1924, V&A.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1371413/",
+    "label": "Victoria and Albert Museum, T.213-2016"
+  },
+  "creator": {
+    "name": "Varvara Stepanova",
+    "url": "https://www.wikidata.org/wiki/Q374948"
+  },
+  "made": "1924 (V&A)",
+  "moods": [
+    "geometric",
+    "industrial",
+    "rhythmic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the V&A photograph of the swatch T.213-2016 (1600 × 1443 px through the museum’s IIIF service) in a scratch folder. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "constructivism",
+      "note": "Partial fit: a productivist textile from the constructivist circle. It shares the flat, repeated geometry and diagonal movement, but it uses two muted hues instead of red and black and has no type.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes the swatch as printed cotton flannel, about 22 × 23–25 cm, “with geometric design of wine red and dull olive-brown chevrons on a pale fawn natural colour ground”, made in Russia in 1924. [V&A](https://collections.vam.ac.uk/item/O1371413/).",
+    "After an official appeal in 1923, Stepanova, Popova, and Rodchenko designed prints for the Soviet textile industry. The V&A notes that rural buyers preferred floral prints, so surviving samples are rare. Stepanova’s grandson Alexander Lavrentiev gave the swatch to the V&A director Martin Roth in 2014. [V&A](https://collections.vam.ac.uk/item/O1371413/)."
+  ],
+  "observed": [
+    "Rows of chevrons point alternately up and down, in a wine red and an olive green-brown.",
+    "Pale bands of the unprinted ground run on two diagonals between the chevrons, so the pattern reads as a lattice of zigzags.",
+    "The edges are cut and slightly frayed; the flannel nap softens the edges of the print."
+  ],
+  "interpretation": [
+    "The swatch shows the style’s diagonal energy transferred to an all-over repeat. The color is quieter than in the posters, which suggests that the red-and-black rule belongs to print, not to every constructivist medium.",
+    "Compare [Popova’s design with stars in circles](ref:popova-stars-in-circles-textile-design), which keeps red and black."
+  ],
+  "borrow": [
+    "Build a background pattern from two interlocking chevrons and let the gaps between them form a diagonal lattice.",
+    "Use a muted red with an earthy second color for a quieter version of the style."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Stepanova died in 1958, so her designs are protected in Russia until the end of 2028 or later (life + 70, plus 4 years if she worked during the Great Patriotic War). The V&A image is shown under the museum’s own terms."
+  },
+  "identifiers": {
+    "vam": "O1371413"
+  }
+}

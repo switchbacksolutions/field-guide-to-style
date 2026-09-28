@@ -1,0 +1,125 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20130114061413if_/http://www.hortamuseum.be/",
+  "title": "HORTA MUSEUM",
+  "captured": "2013-01-14T06:14:18.468Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "arial",
+        "share": 1
+      }
+    ],
+    "baseSize": 12,
+    "maxSize": 12,
+    "sizeRange": 1,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.21
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#dccdbd",
+        "share": 0.736
+      },
+      {
+        "hex": "#7b4a37",
+        "share": 0.264
+      }
+    ],
+    "background": "#dccdbd",
+    "text": "#7b4a37",
+    "contrast": 4.7,
+    "chroma": 0.16,
+    "lightness": 0.68,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0,
+    "imageShare": 0.6,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 5,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#dbcebe",
+        "share": 0.612
+      },
+      {
+        "hex": "#cfbeaa",
+        "share": 0.207
+      },
+      {
+        "hex": "#c89964",
+        "share": 0.045
+      },
+      {
+        "hex": "#4e3322",
+        "share": 0.021
+      },
+      {
+        "hex": "#70553b",
+        "share": 0.016
+      },
+      {
+        "hex": "#221710",
+        "share": 0.015
+      },
+      {
+        "hex": "#a47853",
+        "share": 0.013
+      },
+      {
+        "hex": "#bcac9b",
+        "share": 0.012
+      },
+      {
+        "hex": "#d0ab7b",
+        "share": 0.011
+      },
+      {
+        "hex": "#938577",
+        "share": 0.011
+      }
+    ],
+    "background": "#dbcebe",
+    "chroma": 0.14,
+    "lightness": 0.74,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.39,
+    "distinct": 4,
+    "hues": 2
+  }
+}

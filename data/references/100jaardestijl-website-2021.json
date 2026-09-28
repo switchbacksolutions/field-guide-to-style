@@ -1,0 +1,63 @@
+{
+  "id": "100jaardestijl-website-2021",
+  "title": "100 jaar De Stijl placeholder page",
+  "type": "website",
+  "medium": "website",
+  "lede": "A one-screen holding page for the 2017 centenary whose logo spells “100 JAAR DE STIJL” in square-built letters in red, yellow, blue, gray, and black.",
+  "summary": "Rectilinear square-built logo lettering in primaries and black on an otherwise plain white page.",
+  "source": {
+    "url": "http://100jaardestijl.nl/",
+    "label": "100jaardestijl.nl",
+    "archive": "https://web.archive.org/web/20211123002619/http://100jaardestijl.nl/"
+  },
+  "creator": {
+    "name": "Manschot Grafimedia"
+  },
+  "made": "2021 (archived copy; the page is dated 2017)",
+  "moods": [
+    "reduced",
+    "orthogonal",
+    "commemorative"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 from the Wayback Machine copy of 23 November 2021 and inspected. A 2017 copy was requested; the archive returned the 2021 capture."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "notice": "This is an archived copy. The page says the site was still in development, and it links to an official national website elsewhere.",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "Borderline: the logo follows van Doesburg’s rectilinear alphabet and the primary palette, but the rest of the page is a plain centered holding page.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The page is white with centered small text: “deze site is in ontwikkeling” and the dates “1917 - 2017”.",
+    "The logo spells “100 JAAR” and “DE STIJL” in letters built from square strokes and right angles; the numerals are red, yellow, and blue, the other letters gray and black.",
+    "Below are an e-mail link, three black social icons, and a footer between two thin gray rules that credits Manschot Grafimedia, Zeist."
+  ],
+  "interpretation": [
+    "The logo is the only part in the style, and it is an image, so the measurement sees only the centered Gill Sans text (1 hue, no borders)."
+  ],
+  "borrow": [
+    "Build a wordmark from square strokes on a grid, and color only a few letters with the primaries."
+  ],
+  "images": [
+    {
+      "file": "assets/references/100jaardestijl-website-2021.jpg",
+      "alt": "Mostly white web page with a centered logo reading 100 JAAR DE STIJL in square-built letters, the numerals in red, yellow, and blue and the other letters in gray and black, above an e-mail link and social icons.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "Archived copy of [100jaardestijl.nl](https://web.archive.org/web/20211123002619/http://100jaardestijl.nl/), 23 November 2021.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

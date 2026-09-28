@@ -1,0 +1,63 @@
+{
+  "id": "macos-big-sur-interface",
+  "title": "macOS Big Sur interface",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "Apple’s 2020 desktop redesign: frosted Control Center tiles and notifications over a vivid wave wallpaper.",
+  "summary": "Translucent, blurred Control Center and notifications over a saturated wallpaper. Apple, 2020.",
+  "source": {
+    "url": "https://www.apple.com/newsroom/2020/06/apple-introduces-macos-big-sur-with-a-beautiful-new-design/",
+    "label": "Apple Newsroom, June 22, 2020"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "2020 (announced June 22, 2020; released November 12, 2020, per Wikipedia)",
+  "moods": [
+    "airy",
+    "luminous",
+    "premium"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected two Apple Newsroom press images in scratchpad copies: the Control Center close-up (apple_macos-bigsur_controlcenter_06222020, 1306 × 1306) and the Notification Center close-up (apple_macos-bigsur_notificationcenter_06222020, 1306 × 1306). Not stored. The operating system was not run."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "glassmorphism",
+      "note": "Malewicz’s naming article and Everyday UX both name Big Sur as the moment the style entered a mainstream desktop. Its Control Center matches every diagnostic trait.",
+      "basis": "agent",
+      "qualifier": "mainstream adoption"
+    }
+  ],
+  "context": [
+    "Apple’s press release describes a menu bar with “a new translucent material”, an all-new Control Center, and a redesigned Notification Center with widgets. [Apple Newsroom](https://www.apple.com/newsroom/2020/06/apple-introduces-macos-big-sur-with-a-beautiful-new-design/).",
+    "Wikipedia says Big Sur “features new blurs to establish a visual hierarchy” and was the first macOS user interface redesign since OS X Yosemite. [Wikipedia: macOS Big Sur](https://en.wikipedia.org/wiki/MacOS_Big_Sur).",
+    "Malewicz writes that Apple “recently brought transparent-blurs back with Mac OS Big Sur” and suggests that this may be why Apple chose a colorful default wallpaper. [Malewicz 2020](ref:malewicz-glassmorphism-article-2020)."
+  ],
+  "observed": [
+    "The wallpaper is a set of large, smooth waves in blue, white, orange, red, and magenta.",
+    "Control Center is one large translucent panel with rounded corners. Inside it, tiles for Wi-Fi, Do Not Disturb, Display, Sound, and Now Playing are lighter translucent rounded rectangles.",
+    "The blue and orange of the wallpaper show through the panel as soft color. No wallpaper edges are sharp behind it.",
+    "Sliders are white pills on a darker translucent track. Controls use flat blue discs and SF-style sans-serif text.",
+    "Notification cards are translucent blue-tinted rounded rectangles. The widgets below them are opaque white or dark grey, so both treatments appear side by side."
+  ],
+  "interpretation": [
+    "Big Sur’s Control Center is the clearest large-platform example of the web recipe: glass inside glass, flat content, and a wallpaper chosen to make the blur visible. The opaque widgets show the rule of opacity for hierarchy."
+  ],
+  "borrow": [
+    "Nest lighter translucent tiles inside a translucent panel to group controls without borders.",
+    "Pair glass surfaces with a wallpaper of large, smooth color areas, not a detailed photo."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple press images and software; copyrighted. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q96583789"
+  }
+}

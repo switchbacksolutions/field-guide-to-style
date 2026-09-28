@@ -1,0 +1,68 @@
+{
+  "id": "wes-wilson-otis-rush-grateful-dead-poster-1967",
+  "title": "Otis Rush, Grateful Dead, Canned Heat at the Fillmore",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Wes Wilson’s Fillmore poster of February 1967: a woman’s profile whose hair becomes rippling bands of lettering that fill the whole sheet.",
+  "summary": "Wes Wilson, 1967. Band names swell inside flowing hair, in pink, gray, and black on white.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O108984/",
+    "label": "Victoria and Albert Museum: E.527-2004"
+  },
+  "creator": {
+    "name": "Wes Wilson",
+    "url": "https://en.wikipedia.org/wiki/Wes_Wilson"
+  },
+  "made": "1967 (concerts on 24–26 February)",
+  "moods": [
+    "hallucinatory",
+    "fluid",
+    "dense"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the V&A image of object E.527-2004 (IIIF, 1183 × 1600 px) to a scratch folder and inspected it. Catalogue data read on the V&A and Library of Congress records. Cooper Hewitt (1979-34-28) returned HTTP 403 to scripts, so its record is known only through its 2018 blog post. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "The type trait in its purest form: Wilson’s lettering bends and swells until the band names become the hair of the figure. The palette is the exception: pale pink and gray on white, not vibrating complements.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A catalogues it as psychedelic poster #51 by Wes Wilson, colour offset lithograph, 56.7 × 34.6 cm, and describes it as a “pink, green and black image of a female face in profile” with the text “within her hair”. [V&A](https://collections.vam.ac.uk/item/O108984/).",
+    "The Library of Congress holds a copy printed by West Coast Lithograph Co., gift of Bill Graham (POS - US .W5578, no. 8). [LoC](https://www.loc.gov/item/2014647489/). Cooper Hewitt holds another (1979-34-28) and describes “pale pink and grey” rather than intense hues, a “dense, crowded composition”, and lettering that blurs into the undulating strands of the image. [Cooper Hewitt](https://www.cooperhewitt.org/2018/10/23/deliberately-disorienting/).",
+    "Wilson (1937–2020) designed Bill Graham’s Fillmore posters in 1966 and 1967 and is credited with the melting, moving lettering; he took the space-filling block letters of Alfred Roller as a model. [Wikipedia](https://en.wikipedia.org/wiki/Wes_Wilson)."
+  ],
+  "observed": [
+    "A woman’s face in profile looks left from the lower middle of the sheet. Her face is drawn in dotted contour lines like a topographic map.",
+    "Her hair streams to the right as alternating bands of black, pink, gray, and white. Each band carries lettering: OTIS RUSH, GRATEFUL DEAD, THE CANNED HEAT BLUES BAND, the dates, and FILLMORE.",
+    "The letters are hand-drawn, with round counters and swollen strokes. They stretch to fill each band, so that letter height changes along a word.",
+    "The ground is white paper. Color is limited to pale pink, mid gray, and black.",
+    "Only the top line, BILL GRAHAM PRESENTS IN SAN FRANCISCO, and the ticket outlets at the bottom are in a plain sans-serif.",
+    "The imprint at lower left reads “Wes Wilson ©1967 Bill Graham” with number 51 and the printer, West Coast Lithograph Co."
+  ],
+  "interpretation": [
+    "This is the rubric’s type rule taken to the limit: the lettering is the image. It also shows that the color rule is not universal. Many Wilson posters use two or three soft inks on white.",
+    "The two plain lines at top and bottom work as the legible frame around an illegible center, a useful model for screens."
+  ],
+  "borrow": [
+    "Set display words inside flowing bands and let the band shape set the letter height.",
+    "Keep one plain line of practical text above and below a free display area.",
+    "Draw a face or object in contour lines so it matches the rhythm of the lettering."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The V&A image is © Victoria and Albert Museum, London, and the design is in copyright. The poster carries a © 1967 Bill Graham notice."
+  },
+  "identifiers": {
+    "vam": "O108984",
+    "vam-accession": "E.527-2004",
+    "loc": "2014647489",
+    "cooper-hewitt": "1979-34-28"
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

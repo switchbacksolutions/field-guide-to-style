@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/humaaans-illustration-library-2018.png",
+  "captured": "2026-09-28T17:42:08+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.77
+      },
+      {
+        "hex": "#2b44ff",
+        "share": 0.056
+      },
+      {
+        "hex": "#c5cfd6",
+        "share": 0.046
+      },
+      {
+        "hex": "#69a1ac",
+        "share": 0.037
+      },
+      {
+        "hex": "#191847",
+        "share": 0.035
+      },
+      {
+        "hex": "#1f28cf",
+        "share": 0.016
+      },
+      {
+        "hex": "#915b3c",
+        "share": 0.012
+      },
+      {
+        "hex": "#dce2e8",
+        "share": 0.011
+      },
+      {
+        "hex": "#283de5",
+        "share": 0.002
+      },
+      {
+        "hex": "#edeff6",
+        "share": 0.002
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.09,
+    "lightness": 0.9,
+    "chromaticShare": 0.09,
+    "accentChroma": 0.72,
+    "distinct": 5,
+    "hues": 2
+  }
+}

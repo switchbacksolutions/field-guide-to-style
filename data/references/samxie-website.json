@@ -1,0 +1,61 @@
+{
+  "id": "samxie-website",
+  "title": "Sam Xie portfolio",
+  "type": "website",
+  "medium": "website",
+  "lede": "A software engineer’s portfolio on a pale gray gradient with a soft raised button and a white 3D bird.",
+  "summary": "Personal portfolio: pale gray surface, a raised pill button, a raised panel, and a monochrome 3D render.",
+  "source": {
+    "url": "https://samxie.net/",
+    "label": "samxie.net"
+  },
+  "creator": {
+    "name": "Sam Xie"
+  },
+  "moods": [
+    "calm",
+    "minimal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "Borderline. The pale gray surface, the raised “Browse products” pill, and the raised panel below follow the style, but the first viewport is mostly type and a 3D render, and the shadows are small.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The site’s template is published as [samzx/soft-portfolio](https://github.com/samzx/soft-portfolio) (created 1 May 2020), described as “a neumorphic inspired website”."
+  ],
+  "observed": [
+    "A pale gray page with a faint diagonal gradient. “Sam Xie” is set in a very large, bold, near-black sans-serif.",
+    "A “Browse products” pill in a lighter gray with a soft shadow is the only control.",
+    "A large white 3D render of a bird in flight fills the right half.",
+    "The top edge of a wide panel in a lighter gray with round corners rises from the bottom of the viewport."
+  ],
+  "interpretation": [
+    "One of the few personal sites found that still use the style. The monochrome 3D bird matches the surface; the open-source template it derives from calls itself “a neumorphic inspired website”.",
+    "Measured: shadows on 71 % of boxes (median offset 4.5 px, median blur 4 px, none hard), borders on 0 %, median radius 20 px."
+  ],
+  "images": [
+    {
+      "file": "assets/references/samxie-website.jpg",
+      "alt": "Sam Xie portfolio home page: a pale gray page with the name in large black type, a soft raised Browse products pill, a white 3D bird in flight, and the top of a raised panel.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [samxie.net](https://samxie.net/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

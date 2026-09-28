@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/klimt-adele-bloch-bauer-i-1907.jpg",
+  "captured": "2026-09-28T18:16:21+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#856c47",
+        "share": 0.301
+      },
+      {
+        "hex": "#6d5a3e",
+        "share": 0.135
+      },
+      {
+        "hex": "#99794a",
+        "share": 0.126
+      },
+      {
+        "hex": "#b18e56",
+        "share": 0.076
+      },
+      {
+        "hex": "#bd9a5e",
+        "share": 0.063
+      },
+      {
+        "hex": "#c7a669",
+        "share": 0.037
+      },
+      {
+        "hex": "#8c8376",
+        "share": 0.036
+      },
+      {
+        "hex": "#5e4e37",
+        "share": 0.029
+      },
+      {
+        "hex": "#d7b471",
+        "share": 0.023
+      },
+      {
+        "hex": "#7d7567",
+        "share": 0.022
+      }
+    ],
+    "background": "#856c47",
+    "chroma": 0.24,
+    "lightness": 0.43,
+    "chromaticShare": 0.34,
+    "accentChroma": 0.34,
+    "distinct": 13,
+    "hues": 1
+  }
+}

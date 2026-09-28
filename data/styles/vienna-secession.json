@@ -223,9 +223,21 @@
       "note": "Square corners. Provisional: set from the specimen."
     },
     {
+      "metric": "surface.shadow.share",
+      "max": 0.1,
+      "note": "Flat panels without drop shadows, as the rubric requires. The specimen and both kept captures measure 0. Added on 2026-09-28 because the [Poolsuite capture](ref:poolsuite-website), a hard-shadowed retro desktop (0.6), passed every other metric."
+    },
+    {
       "metric": "color.hues",
       "max": 1,
       "note": "Black and white with gold, or one accent colour. Provisional: set from the specimen."
     }
+  ],
+  "synthesis": [
+    "Print carries the style’s lettering rule most clearly. Moser’s [13th exhibition poster](ref:moser-13th-secession-exhibition-poster-1902), Roller’s [16th exhibition poster](ref:roller-16th-secession-exhibition-poster-1903), Moser’s [bookplate for Otto Zuckerkandl](ref:moser-ex-libris-otto-zuckerkandl-1906), and Olbrich’s [Cologne poster stamp](ref:olbrich-cologne-exhibition-poster-stamp-1907) all rule each line of capitals and stretch or compress the letters until the line is full, breaking words where needed. Checkered bands and repeated three-part emblems work as rules and fields between the text blocks.",
+    "Objects and buildings show the square as a module in material: the lattice of Moser’s [bud vase](ref:moser-gitterwerk-bud-vase) and Hoffmann’s [basket](ref:hoffmann-gitterwerk-basket), the stone plates and glass grid of Wagner’s [Postal Savings Bank](ref:wagner-austrian-postal-savings-bank), the outlined planes of the [Stoclet Palace](ref:hoffmann-stoclet-palace), and the checkerboard floor of the [Cabaret Fledermaus](ref:hoffmann-cabaret-fledermaus). Wagner’s [armchair](ref:wagner-armchair-model-718) and Olbrich’s [Secession Building](ref:olbrich-secession-building) are partial fits: black and metal or white cubes, but with bentwood curves or plant reliefs from the earlier phase. Klimt’s [Adele Bloch-Bauer I](ref:klimt-adele-bloch-bauer-i-1907) is the source of the gold.",
+    "Image measurements qualify the colour rule. The ex libris, the poster stamp, the bank booklet, and the lattice vase measure no strong hue, but Moser’s 13th poster (blue and ochre) and the Roller scan measure two, and the Fledermaus bar used many tile colours. Black and white with one accent is the norm in the Werkstätte’s printed and metal work, not a law; two of seven stored clear examples exceed `color.hues` 1, which is not enough to change the range.",
+    "Few real websites use the style. Of 37 candidate sites tried and 27 captured (Vienna museums, the Secession itself, Wiener Werkstätte licensees, cafés, and dealers), only two were kept, both borderline: the [Klimt Foundation](ref:klimt-foundation-website), whose square logo of justified capitals is a Secession device, and the Japanese site for the 2019 exhibition [Vienna on the Path to Modernism](ref:wienmodern2019-website), whose framed title block and checkered corner marks borrow the lettering. Both fail `type.centerShare`, and the fingerprint cannot see the Klimt Foundation’s patterned ground, which is a CSS background image. The fingerprint therefore stays specimen-based and provisional.",
+    "`surface.shadow.share` (max 0.1) was added because the hard-shadowed [Poolsuite](ref:poolsuite-website) capture passed every other metric; the specimen and both kept captures measure 0. The [Op Art](style:op-art) specimen still fails this fingerprint by one metric only (`type.uppercaseShare` 0.18); no measured reference gave evidence for a better separator."
   ]
 }

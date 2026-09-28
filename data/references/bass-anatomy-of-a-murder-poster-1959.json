@@ -1,0 +1,77 @@
+{
+  "id": "bass-anatomy-of-a-murder-poster-1959",
+  "title": "Anatomy of a Murder poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Saul Bass cuts a body into flat black pieces, sets the title into the gaps, and lays it on a field of saturated yellow-orange above a red-orange cast panel.",
+  "summary": "A black cut-paper body with the title set in its joints, on flat orange and red panels. Saul Bass, 1959.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:AnatomyMurder2.jpg",
+    "label": "Wikimedia Commons: AnatomyMurder2.jpg"
+  },
+  "creator": {
+    "name": "Saul Bass",
+    "url": "https://www.wikidata.org/wiki/Q536884"
+  },
+  "made": "1959",
+  "moods": [
+    "bold",
+    "graphic",
+    "cut-paper",
+    "tense"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Commons scan (2650 × 3925 px, stored here at 1080 × 1600). The scan is of a US one-sheet with the Columbia copyright line and the National Screen Service notice at the foot. No museum copy was checked."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "A canonical example of the graphic core: a figure reduced to flat cut-paper planes, hand-cut lettering, and a few flat printed colors. The orange is more saturated than the style’s muted range.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Theatrical poster for Otto Preminger’s film, released by Columbia Pictures in 1959. Commons credits the artwork to Saul Bass. [Commons](https://commons.wikimedia.org/wiki/File:AnatomyMurder2.jpg).",
+    "The foot of the poster reads “Copyright 1959 by Columbia Pictures Corporation” and “Country of Origin U. S. A.”. Commons states that a search of the US Copyright Office catalog found no renewal. [Commons](https://commons.wikimedia.org/wiki/File:AnatomyMurder2.jpg).",
+    "The film’s score is by Duke Ellington, as the poster credits. [Wikipedia: Anatomy of a Murder](https://en.wikipedia.org/wiki/Anatomy_of_a_Murder)."
+  ],
+  "observed": [
+    "The upper two thirds is a flat yellow-orange panel. A black human figure lies across it at an angle, cut into separate pieces for the head, torso, arms, and legs.",
+    "The title words “ANATOMY OF A MURDER” sit in the gaps between the body pieces, in hand-drawn, uneven capitals. “OTTO PREMINGER’S” runs above in a smaller hand-drawn line.",
+    "The panel edges are slightly irregular, as if cut from paper, and the panel does not line up exactly with the one below it.",
+    "The lower panel is a flat red-orange field with the cast names in outlined capitals.",
+    "A line at the top reads “Last year’s No. 1 best-seller…This year’s No. 1 motion picture.” in a bold grotesque. Credits at the foot mix a grotesque with a serif line.",
+    "A thin off-white margin surrounds both panels. Bass’s signature runs vertically at the right edge of the upper panel."
+  ],
+  "interpretation": [
+    "The poster shows the cut-paper method at its most reduced: one silhouette, two flat colors, and lettering that is drawn rather than set. The figure is geometric but still hand-made.",
+    "Measured on the stored scan, the accent chroma is 0.80. That is well above the style’s muted range: Bass’s film posters are a saturated branch of the graphic core."
+  ],
+  "borrow": [
+    "Break a figure or object into flat pieces and put the heading into the gaps between them.",
+    "Stack two flat color panels with slightly misaligned, hand-cut edges instead of ruled boxes."
+  ],
+  "images": [
+    {
+      "file": "assets/references/bass-anatomy-of-a-murder-poster-1959.jpg",
+      "alt": "Film poster: a black cut-paper body lies across a yellow-orange panel with the words Anatomy of a Murder set in the gaps between its limbs; below, a red-orange panel lists James Stewart, Lee Remick, Ben Gazzara, Arthur O’Connell, Eve Arden, and Kathryn Grant in outlined capitals.",
+      "width": 1080,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Saul Bass, US theatrical poster for *Anatomy of a Murder*, 1959. Scan from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AnatomyMurder2.jpg), marked public domain (not renewed).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2f/AnatomyMurder2.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons license: {{PD-Art|PD-US-not renewed}}. The poster was published in the United States in 1959 with a notice; Commons reports that a Copyright Office catalog search found no renewal, so it entered the US public domain after 28 years. The country of origin is the United States. This catalogue did not repeat the renewal search."
+  },
+  "identifiers": {
+    "commons": "File:AnatomyMurder2.jpg"
+  }
+}

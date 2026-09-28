@@ -1,0 +1,61 @@
+{
+  "id": "cercle-guimard-website",
+  "title": "Le Cercle Guimard website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The Guimard society’s site sets its news column on a full-page repeat of a Guimard-style textile: pink swirls, blue whiplash scrolls, and yellow blossoms.",
+  "summary": "White news panel on a pink, blue, and yellow whiplash pattern, with a green spiral logo and a rounded display serif.",
+  "source": {
+    "url": "https://www.lecercleguimard.fr/en/",
+    "label": "lecercleguimard.fr"
+  },
+  "creator": {
+    "name": "Le Cercle Guimard",
+    "url": "https://www.lecercleguimard.fr/en/"
+  },
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. Nothing covers the page. The request for lecercleguimard.fr redirected to the English home page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "art-nouveau",
+      "note": "Clear: the page background is a whiplash textile repeat, the logo is a curling plant spiral, and the headings use a soft, flared display face. Only the slate-blue header is plain.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A slate-blue header holds a pale green logo: a spiral seed or bud shape above “Le Cercle Guimard” in small capitals.",
+    "The navigation is set in a light serif in capitals, in white on the slate blue.",
+    "Below the header, the whole page background is a repeat pattern: dense pale pink swirls, large sky-blue whiplash scrolls, coral spiral bosses, and yellow flower clusters.",
+    "A white main panel holds the news list. News headlines are set in a rounded, calligraphic serif (Gabriela per the measurement) in slate blue.",
+    "The “News” heading is flanked by two small drawn plant sprigs that curl outward.",
+    "A small side panel has an orange-brown title bar reading “Social networks”. News thumbnails have thin gray frames."
+  ],
+  "interpretation": [
+    "The site uses the style the way a Guimard interior would: pattern on the ground, a calm reserved panel for content. The measurement cannot see the pattern because it is a background image (`patternShare` 0, `imageShare` 0.57).",
+    "Measured: square panels (radius median 0), thin 1 px borders on 54% of boxes, faint shadows on 11%, and one measured colour family plus the pattern colours in pixels. The fingerprint’s radius and pattern metrics fail for reasons the rubric does not require."
+  ],
+  "borrow": [
+    "Put the ornament on the page ground as one repeated textile, and keep content in a plain, light, outlined panel on top.",
+    "Flank a section heading with two small drawn sprigs instead of a rule."
+  ],
+  "images": [
+    {
+      "file": "assets/references/cercle-guimard-website.jpg",
+      "alt": "Le Cercle Guimard home page: a slate-blue header with a green spiral logo and serif navigation, above a white news panel on a pink, blue, and yellow whiplash textile pattern.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [lecercleguimard.fr/en](https://www.lecercleguimard.fr/en/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "scott-paper-op-art-paper-dress-1966",
+  "title": "Op-art paper dress",
+  "type": "object",
+  "medium": "textile",
+  "lede": "A disposable dress of bonded-fibre paper from the Scott Paper Company, printed all over with a black and white op-art check.",
+  "summary": "A sleeveless shift printed edge to edge with a distorted black and white checkerboard. Scott Paper Company, USA, 1966.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O147891/",
+    "label": "V&A: Dress, T.30-1992"
+  },
+  "creator": {
+    "name": "Scott Paper Company (maker)"
+  },
+  "made": "1966",
+  "moods": [
+    "vibrating",
+    "mod",
+    "disposable"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A image of its copy, T.30-1992 (1200 × 1600 px), in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "The black and white op check moved straight onto a cheap mass-market garment: an all-over field of squares that compress and expand.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A catalogues the dress with the style “Op art” and describes “a repeating black and white op art printed pattern” on bonded fibre paper. [V&A](https://collections.vam.ac.uk/item/O147891/).",
+    "The V&A says Scott Paper Company invented the paper dress in 1966 as a marketing tool: for one dollar a buyer got the dress and coupons for Scott paper products, and the company received about half a million orders in under a year. [V&A](https://collections.vam.ac.uk/item/O147891/).",
+    "A later promotional paper dress with a Pop print is [the Campbell’s “Souper” dress](ref:campbells-souper-paper-dress-1967)."
+  ],
+  "observed": [
+    "A sleeveless A-line shift with a round neck and two patch pockets, photographed flat on black.",
+    "The whole surface carries one black and white print: checkerboard bands in which the squares change size, alternating with rows of small open squares inside larger ones.",
+    "Where fine checks meet coarse checks, the rows seem to bend and bulge.",
+    "The print runs across the seams and pockets without matching them. A plain white band finishes the hem."
+  ],
+  "interpretation": [
+    "The dress applies the op rule of one unit changed by steps: the square is the only motif, and only its size and grouping change.",
+    "As a throwaway paper product, it shows how quickly the gallery look of 1965 became a mass-market print."
+  ],
+  "borrow": [
+    "Build a pattern from one square unit whose size changes by steps across bands.",
+    "Let an all-over pattern run through seams, pockets, or panel edges, so that the field reads as continuous."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The V&A image is not openly licensed, and the rights in the print are unverified."
+  },
+  "identifiers": {
+    "vam": "O147891"
+  }
+}

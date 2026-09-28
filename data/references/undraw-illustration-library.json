@@ -1,0 +1,46 @@
+{
+  "id": "undraw-illustration-library",
+  "title": "unDraw illustration library (Katerina Limpitsouni)",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A free library of flat vector scenes whose accent color the user can change, named by Wired as one of the image banks that spread the style.",
+  "summary": "Free flat vector scenes with one changeable accent color. A main source of the style on startup sites. Documented.",
+  "source": {
+    "url": "https://undraw.co/",
+    "label": "unDraw"
+  },
+  "creator": {
+    "name": "Katerina Limpitsouni",
+    "url": "https://undraw.co/"
+  },
+  "moods": [
+    "friendly",
+    "generic",
+    "clean"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Read the unDraw license page and the Wired article. No illustration was downloaded, because the license forbids automated downloading without consent."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Documented fit: Wired names unDraw with Freepik and Adobe’s library as image banks that let non-illustrators use the style. The illustrations were not inspected for this record.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The license page says the images may be used free for commercial and non-commercial purposes without credit, but may not be redistributed in packs, used to build a competing service, or used for machine learning, and that the license does not extend to automated scraping or downloading. [unDraw license](https://undraw.co/license).",
+    "Wired (24 January 2021): “Image banks such as FreePik, UnDraw, and Adobe’s own vector art library, have played a massive part in letting non-illustrators co-opt the Corporate Memphis style for themselves.” [Wired](https://www.wired.com/story/corporate-memphis-design-tech/)."
+  ],
+  "next": [
+    "View a few illustrations by hand in a browser and add observed traits."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Katerina Limpitsouni. The unDraw license forbids redistribution in packs; link only."
+  }
+}

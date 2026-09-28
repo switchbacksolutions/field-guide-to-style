@@ -1,0 +1,74 @@
+{
+  "id": "lalique-dragonfly-brooch",
+  "title": "Dragonfly brooch by René Lalique",
+  "type": "object",
+  "medium": "product",
+  "lede": "Two enamelled dragonflies, their wings spread, curl around a pale stone in a gold loop, with carved blossoms hanging from their feet.",
+  "summary": "Gold brooch with plique-à-jour dragonfly wings in green and blue enamel. René Lalique, c. 1900–1910.",
+  "source": {
+    "url": "https://clevelandart.org/art/1964.448",
+    "label": "Cleveland Museum of Art: Dragon Fly Brooch, 1964.448"
+  },
+  "creator": {
+    "name": "René Lalique",
+    "url": "https://www.wikidata.org/wiki/Q451400"
+  },
+  "made": "c. 1900–1910",
+  "moods": [
+    "delicate",
+    "luminous",
+    "sensuous"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Cleveland Museum of Art open-access image of object 1964.448 (3400 × 2525 px print file). Read the object record through the museum’s open-access API."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "art-nouveau",
+      "note": "Paris Art Nouveau jewellery: a Japonisme insect motif, translucent enamel in outlined cells, and looping gold lines.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Cleveland Museum of Art records the brooch as gold with plique-à-jour and cloisonné enamels, 7.7 × 9.7 cm, French, c. 1900–1910, by René Lalique (1860–1945). [CMA 1964.448](https://clevelandart.org/art/1964.448).",
+    "The dragonfly is one of the insect motifs that the style took from Japanese prints (see [Art Nouveau](style:art-nouveau), lineage). Lalique later became the leading Art Deco glassmaker; compare his 1928 [Victoire mascot](ref:lalique-victoire-car-mascot-1928)."
+  ],
+  "observed": [
+    "Two dragonflies face each other in mirror image. Their long bodies run down in dark green and blue enamel with small cross bands, and their tails nearly meet at the bottom.",
+    "The four long wings spread diagonally to both sides. Fine gold veins divide each wing into many cells of translucent pale green enamel, with blue and turquoise patches near the body.",
+    "A matte gold loop, drawn as two crossing curves, frames a pointed oval stone of milky blue-green in the centre.",
+    "Three small carved blossoms in pale blue-green hang on short gold stems at the sides and the bottom.",
+    "The museum photograph shows the brooch on a dark gray gradient."
+  ],
+  "interpretation": [
+    "The piece is symmetrical, but its lines are soft curves and long tapering strokes, not the straight rays of Art Deco.",
+    "Plique-à-jour enamel works like stained glass: coloured cells set in thin metal lines. It is the same outlined-cell language as the [Tiffany lamp](ref:driscoll-tiffany-pony-wisteria-lamp)."
+  ],
+  "borrow": [
+    "Divide a large shape into many small cells with thin lines of one colour, and vary the tint from cell to cell.",
+    "Frame a central element with two crossing curves instead of a closed rectangle."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lalique-dragonfly-brooch.jpg",
+      "alt": "Gold brooch on a dark gray ground: two mirrored dragonflies with long green and blue bodies and spread, veined wings of pale green enamel, around a pointed oval milky blue stone, with small carved blossoms hanging below.",
+      "width": 1600,
+      "height": 1188,
+      "kind": "source-image",
+      "caption": "René Lalique, dragonfly brooch, c. 1900–1910, gold and enamel. [Cleveland Museum of Art 1964.448](https://clevelandart.org/art/1964.448), CC0.",
+      "original": "https://openaccess-cdn.clevelandart.org/1964.448/1964.448_print.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Cleveland Museum of Art marks the object and its image CC0. René Lalique died in 1945, so his work entered the public domain in France in 2016. A brooch made about 1900–1910 is in the public domain in the United States."
+  },
+  "identifiers": {
+    "cleveland": "1964.448"
+  }
+}

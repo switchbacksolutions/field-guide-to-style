@@ -1,0 +1,47 @@
+{
+  "id": "evernote-android-2015",
+  "title": "Evernote for Android",
+  "type": "product",
+  "medium": "app",
+  "lede": "Nielsen Norman Group’s 2015 example of Material Design as “flat 2.0”: a mostly flat app with subtle shadows on the bar and the action button.",
+  "summary": "A mostly flat note app with card panes and a shadowed round add button, cited by NN/g in 2015.",
+  "source": {
+    "url": "https://www.nngroup.com/articles/flat-design/",
+    "label": "Nielsen Norman Group, Kate Moran, “Flat Design: Its Origins, Its Problems, and Why Flat 2.0 Is Better for Users” (27 September 2015)"
+  },
+  "creator": {
+    "name": "Evernote Corporation"
+  },
+  "made": "c. 2015 (as shown by NN/g)",
+  "moods": [
+    "orderly",
+    "calm"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Relies on the NN/g article text. Its screenshot of the app is only 512 × 446 px, too small to record visual detail."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "Partial fit, documented only: NN/g names it as Material-style flat 2.0, with shadows on the bar and the action button and a card metaphor.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "NN/g calls “Google’s Material design language” “one example of flat 2.0 with the right priorities”, and says that the Evernote app for Android “provides a few subtle shadows on the navigation bar and the floating + button (add new). It also makes use of the card metaphor to display content as flat, layerable panes in a 3D space.” [NN/g](https://www.nngroup.com/articles/flat-design/)."
+  ],
+  "interpretation": [
+    "The article is the clearest statement of how Material relates to [flat design](style:flat-design): the fills stay flat, and a few shadows return only where they tell the user what can be touched."
+  ],
+  "next": [
+    "Find a larger, dated image of the 2015 Android app, for example in a Wayback copy of evernote.com, before marking this reference observed."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The app belongs to Evernote. The screenshot on the NN/g page belongs to NN/g."
+  }
+}

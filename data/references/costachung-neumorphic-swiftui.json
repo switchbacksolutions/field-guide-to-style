@@ -1,0 +1,54 @@
+{
+  "id": "costachung-neumorphic-swiftui",
+  "title": "Neumorphic for SwiftUI",
+  "type": "product",
+  "medium": "software",
+  "lede": "A March 2020 SwiftUI package whose demo is a catalogue of raised and pressed shapes in light and dark modes.",
+  "summary": "Costa Chung’s open-source SwiftUI modifiers for soft outer and inner shadows.",
+  "source": {
+    "url": "https://github.com/costachung/neumorphic",
+    "label": "costachung/neumorphic on GitHub"
+  },
+  "creator": {
+    "name": "Costa Chung"
+  },
+  "made": "2020–present (repository created 23 March 2020)",
+  "moods": [
+    "soft",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the README demo image (1000 × 800) hosted on user-images.githubusercontent.com. Licence and dates read through the GitHub API."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "A clear specimen sheet of the style: squares, circles, rings, and buttons raised from and pressed into one surface, in a light and a dark version.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The README says it is “a SwiftUI utility to build Neumorphism Soft UI”, written because in SwiftUI “we can’t easily create inner shadow”.",
+    "MIT License. It had about 1,000 GitHub stars on 2026-09-28. Later versions add text fields, sliders, pickers, and accessibility helpers for contrast."
+  ],
+  "observed": [
+    "Two iPhone frames side by side: one pale blue-gray, one dark charcoal.",
+    "In each, a pressed square and a pressed circle, a raised ring and a pressed ring, three small squares (raised, pressed, flat), a wide “Soft Button”, and a round heart button.",
+    "The light version has white highlights at upper left and blue-gray shadows at lower right; the dark version uses a slightly lighter edge and a black shadow.",
+    "One red circular button with a white heart is the only color. Text is gray system sans-serif."
+  ],
+  "interpretation": [
+    "The paired light and dark sheets show that the effect holds on a dark surface only when the highlight is a lighter gray, not white."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The code is MIT-licensed, but the demo image is hosted outside the repository and includes an iPhone frame, so it is not stored."
+  },
+  "identifiers": {
+    "github": "costachung/neumorphic"
+  }
+}

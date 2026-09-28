@@ -1,0 +1,63 @@
+{
+  "id": "harper-ladybug-screen-print-1959",
+  "title": "Ladybug screen print",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "Charley Harper reduces a ladybug to a red half-disc with two black dots, set against a gray ground with stylized grass stems.",
+  "summary": "A red half-disc ladybug with black dots, thin black legs, and tan grass on gray. Charley Harper, 1959.",
+  "source": {
+    "url": "https://collection.cincinnatiartmuseum.org/objects/26803/ladybug",
+    "label": "Cincinnati Art Museum: Ladybug, 2009.67"
+  },
+  "creator": {
+    "name": "Charley Harper",
+    "url": "https://www.wikidata.org/wiki/Q2960800"
+  },
+  "made": "1959",
+  "moods": [
+    "playful",
+    "precise",
+    "natural"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the Cincinnati Art Museum record. The museum serves only a 600 × 446 px image, below this catalogue’s 800 px threshold for observed evidence, so the observations below are provisional. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "Harper reduces animals to flat geometric planes, a core trait of the illustrative side of the style.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Cincinnati Art Museum catalogues Ladybug as a color screen print by Charley Harper (American, 1922–2007), dated 1959; composition 32.9 × 47 cm on a 38.7 × 52 cm sheet; Gift of the Estate of Charley Harper; accession number 2009.67. [Cincinnati Art Museum](https://collection.cincinnatiartmuseum.org/objects/26803/ladybug).",
+    "Harper’s serigraphs grew out of his bird paintings for *Ford Times* in the 1950s. [Charley Harper Art Studio](https://www.charleyharperartstudio.com/ford-times-retrospective)."
+  ],
+  "observed": [
+    "From the 600 px museum image: a large red shape, a half-disc with a straight edge, carries two black circles. A small black head with cream eyes sits at its straight edge.",
+    "Thin black legs and antennae are drawn as straight segments.",
+    "Tan grass stems and seed heads rise at the left beside a black vertical bar, on a flat gray ground with a few speckled dark patches."
+  ],
+  "interpretation": [
+    "The insect is built from a circle cut in half and two dots: the reduction to a few flat planes that the style’s rubric names.",
+    "The saturated red is an exception to the muted palette, used as a single accent on gray."
+  ],
+  "borrow": [
+    "Reduce a creature to one geometric shape plus two or three details.",
+    "Use one saturated accent on a quiet gray or cream ground."
+  ],
+  "next": [
+    "Find an image of this print or another 1950s Harper serigraph at 800 px or more, and review the observations."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Charley Harper died in 2007; the work is in copyright."
+  },
+  "identifiers": {
+    "cincinnati-art-museum": "2009.67"
+  }
+}

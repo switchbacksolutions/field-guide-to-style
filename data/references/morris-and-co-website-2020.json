@@ -1,0 +1,65 @@
+{
+  "id": "morris-and-co-website-2020",
+  "title": "Morris & Co. website, 2020",
+  "type": "website",
+  "medium": "website",
+  "lede": "The brand page of Morris & Co. inside the Style Library retail site, with a pale Strawberry Thief pattern behind the logo and serif capitals.",
+  "summary": "A beige Strawberry Thief pattern panel behind the Morris & Co. logo, spaced serif capitals, and thin rules.",
+  "source": {
+    "url": "https://www.stylelibrary.com/morris&co/",
+    "label": "Style Library: Morris & Co.",
+    "archive": "https://web.archive.org/web/20200102211905/https://www.stylelibrary.com/morris&co/"
+  },
+  "creator": {
+    "name": "Morris & Co. (Sanderson Design Group)"
+  },
+  "made": "2020",
+  "moods": [
+    "heritage",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. Captured from the Wayback Machine copy of 2 January 2020. A cookie box covers the lower right corner, about 10% of the viewport."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "notice": "The brand now has its own site at wmorrisandco.com, which blocked the capture tool with a bot check on 28 September 2026.",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "Borderline: a Morris pattern ground, a Golden Type heading, and rules, inside a grey retail frame with sans-serif navigation.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A grey retail header for Style Library, with sans-serif capital navigation, sits above the brand content.",
+    "A wide panel shows a Strawberry Thief-like pattern of birds and plants printed pale beige on off-white.",
+    "A video of hands unfolding printed Morris fabrics fills the left half of the panel.",
+    "On the right, spaced grey-green serif capitals read “THE OFFICIAL HOME OF”, above a black wordmark “THE ORIGINAL MORRIS & Co” with a rule and a small fleuron, and “FOUNDED BY WILLIAM MORRIS IN 1861”.",
+    "Thin grey rules frame the heading “UNIQUELY MORRIS, UNIQUELY YOU” and a Morris quotation next to his signature."
+  ],
+  "interpretation": [
+    "The measurement lists “GoldenTypeITCTT”, ITC Golden Type, a revival of the roman that Morris drew for the Kelmscott Press.",
+    "Measured: pattern share 0.06, zero chromatic hues, square corners, and uppercase share 0.21. The pale pattern carries the style; colour does not."
+  ],
+  "borrow": [
+    "Print the pattern tone on tone, in beige on off-white, when it must sit behind text."
+  ],
+  "images": [
+    {
+      "file": "assets/references/morris-and-co-website-2020.jpg",
+      "alt": "Morris & Co. brand page on Style Library, 2020: a grey retail header, a pale beige bird-and-strawberry pattern panel with a fabric video and the Morris & Co. wordmark in black serif capitals, and a ruled quotation below.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [Wayback Machine copy](https://web.archive.org/web/20200102211905/https://www.stylelibrary.com/morris&co/) of the Morris & Co. page on Style Library, 2 January 2020.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners, and the pattern images belong to their rights holders. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "ios-notes-legal-pad",
+  "title": "Notes on iPhone, to iOS 6",
+  "type": "product",
+  "medium": "app",
+  "lede": "Apple’s iPhone notes app as a yellow ruled pad with a leather top and handwriting-style type, used until 2013.",
+  "summary": "Lined, textured paper, a leather binding strip, and Marker Felt type. Apple, until 2013.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Notes_(Apple)",
+    "label": "Wikipedia: Notes (Apple)"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "Until 2013 (Wikipedia); the Mac version followed in OS X Mountain Lion (2012)",
+  "moods": [
+    "familiar",
+    "casual",
+    "tactile"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on Wikipedia and NN/g. The NN/g article shows an image of the early iOS notepad, but it was not saved or measured here."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "A clear object metaphor: a paper notepad with ruled lines, textured paper, and a leather binding.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "“Until 2013, both applications used a strongly skeuomorphic interface, with a lined, textured paper design; the Mountain Lion version placed this inside a leather folder.” Notes could use three fonts: Noteworthy, Marker Felt, and Helvetica. [Wikipedia: Notes (Apple)](https://en.wikipedia.org/wiki/Notes_(Apple)).",
+    "NN/g: “This early iOS notepad design mimics a traditional paper notepad with textured lines and leather binding.” [NN/g: Skeuomorphism](https://www.nngroup.com/articles/skeuomorphism/)."
+  ],
+  "interpretation": [
+    "The handwriting face is part of the metaphor. The style record keeps it to places where the object would carry handwriting."
+  ],
+  "related": "Compare the openly licensed [leather notepad illustration](ref:leather-notepad-illustration-2013).",
+  "next": [
+    "Inspect a large screenshot of iOS 6 Notes and record the paper color and rule spacing."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple software; copyrighted. No image is stored here."
+  }
+}

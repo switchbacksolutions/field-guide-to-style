@@ -1,0 +1,62 @@
+{
+  "id": "lichtenstein-shipboard-girl-1965",
+  "title": "Shipboard Girl",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "Roy Lichtenstein’s offset lithograph of a smiling blonde woman at a ship’s rail, in red, blue, and yellow dots and flat color with black key lines.",
+  "summary": "A close-up face in red dots, yellow hair, blue dot sky, and a solid blue block. Roy Lichtenstein, offset lithograph, 1965.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1034308/",
+    "label": "V&A: Shipboard Girl, CIRC.649-1967"
+  },
+  "creator": {
+    "name": "Roy Lichtenstein",
+    "url": "https://www.wikidata.org/wiki/Q151679"
+  },
+  "made": "1965",
+  "moods": [
+    "bright",
+    "graphic",
+    "cheerful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A image of its copy, CIRC.649-1967 (1400 × 1810 px), in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "A clear example of the full process palette: red and blue dot fields, flat yellow and blue, and heavy black outlines on white paper.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A records an offset lithograph on paper, sheet 69 × 51.5 cm, printed by Graphic Industries, Inc. and published by Leo Castelli, New York, 1965, signed “R Lichtenstein”. [V&A](https://collections.vam.ac.uk/item/O1034308/)."
+  ],
+  "observed": [
+    "The face and neck are covered in red dots on white; the hair is flat yellow with thick black strands.",
+    "Two blue dot fields fill the sky at the top and the area behind the shoulder.",
+    "A solid ultramarine block with white horizontal stripes sits at lower right.",
+    "The lips are flat red with a white highlight shape and a black outline.",
+    "A ship’s rail and a rope net are drawn in thick black lines over white.",
+    "The image is printed with a wide white margin. There are no speech balloons or words in the image."
+  ],
+  "interpretation": [
+    "This print shows the balance of the idiom: roughly equal areas of dot tint, flat color, and white, held together by black.",
+    "The dots are large enough to see as dots at print size, which is the scale the style record asks for on screen."
+  ],
+  "borrow": [
+    "Use red dots for a warm tint and blue dots for a cool tint, and never mix them in one shape.",
+    "Leave generous white around a dense panel so that the dots do not fill the whole page."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is © Estate of Roy Lichtenstein."
+  },
+  "identifiers": {
+    "vam": "O1034308"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "vasarely-com-website",
+  "title": "Michèle Vasarely Foundation website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The Michèle Vasarely Foundation’s home page: a full-screen black, white, and grey grid of squares that buckles and breaks, with small black pill buttons at the edges.",
+  "summary": "A full-bleed grey and white square grid that distorts toward the centre, with black pill links in white sans-serif.",
+  "source": {
+    "url": "https://vasarely.com/",
+    "label": "vasarely.com"
+  },
+  "creator": {
+    "name": "Michèle Vasarely Foundation"
+  },
+  "moods": [
+    "vibrating",
+    "monochrome",
+    "archival"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. Nothing covers the page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "Clear: a black, white, and grey square grid fills the whole viewport and distorts by steps, and all text sits in solid black pills with plain sans-serif. The pattern is an image, so the pattern metrics read zero.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The whole viewport is one image: a regular grid of grey squares separated by white lines.",
+    "Inside a large central rectangle the squares shrink, tilt, and break into black and white fragments, circles, and rhombs, so the grid seems to buckle toward the viewer.",
+    "A few pencil notes are visible at the right edge, so the image appears to be a scan of a drawing or study.",
+    "Ten navigation links (Michèle Vasarely Foundation, Vasarely, Yvaral, About, EN; Instagram, Certificate Request, Catalogue Raisonné, Contact, Newsletter) sit in small black rounded pills with white sans-serif text along the top and bottom edges.",
+    "There is no colour."
+  ],
+  "interpretation": [
+    "This is the closest live match to the style’s web rules: one op field edge to edge, and text only on solid black panels, never on the pattern.",
+    "The measurement cannot see the pattern because it is an image: `color.patternShare` and `surface.patternShare` are 0, and the CSS lightness is 0.17 because the page ground is black behind the image. The screenshot palette gives lightness 0.57 and no hues.",
+    "The rounded pills are a modern interface habit that the op rubric neither asks for nor forbids."
+  ],
+  "borrow": [
+    "Use one black and white field as the full-screen ground and push all navigation to small solid-black labels at the edges.",
+    "Distort only a central area of a regular grid so that the rest of the field frames the effect."
+  ],
+  "images": [
+    {
+      "file": "assets/references/vasarely-com-website.jpg",
+      "alt": "Michèle Vasarely Foundation home page: a full-screen grey and white grid of squares that breaks into black and white fragments in the centre, with small black pill links in white text along the top and bottom edges.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [vasarely.com](https://vasarely.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

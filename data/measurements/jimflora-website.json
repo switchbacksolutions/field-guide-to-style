@@ -1,0 +1,145 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.jimflora.com/",
+  "title": "Jim Flora",
+  "captured": "2026-09-28T17:18:18.084Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "proxima-nova",
+        "share": 0.9
+      },
+      {
+        "family": "proxima-nova-condensed",
+        "share": 0.06
+      },
+      {
+        "family": "Josefin Sans",
+        "share": 0.04
+      },
+      {
+        "family": "GypsySwitchJF",
+        "share": 0
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 80,
+    "sizeRange": 5,
+    "scaleRatio": 1.13,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0.05,
+    "uppercaseShare": 0.11,
+    "monoShare": 0,
+    "centerShare": 0.08
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.455
+      },
+      {
+        "hex": "#faeeb2",
+        "share": 0.297
+      },
+      {
+        "hex": "#2d2927",
+        "share": 0.237
+      },
+      {
+        "hex": "#5c80bc",
+        "share": 0.011
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#2d2927",
+    "contrast": 14.4,
+    "chroma": 0.09,
+    "lightness": 0.75,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.38,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0.32,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 4,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#faeeb2",
+        "share": 0.501
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.229
+      },
+      {
+        "hex": "#2e2926",
+        "share": 0.056
+      },
+      {
+        "hex": "#e2dad4",
+        "share": 0.025
+      },
+      {
+        "hex": "#ccc4bc",
+        "share": 0.022
+      },
+      {
+        "hex": "#d6cfc9",
+        "share": 0.021
+      },
+      {
+        "hex": "#aba7a3",
+        "share": 0.02
+      },
+      {
+        "hex": "#bab6b2",
+        "share": 0.02
+      },
+      {
+        "hex": "#6e6961",
+        "share": 0.013
+      },
+      {
+        "hex": "#8a8176",
+        "share": 0.013
+      }
+    ],
+    "background": "#faeeb2",
+    "chroma": 0.17,
+    "lightness": 0.8,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.42,
+    "distinct": 8,
+    "hues": 2
+  }
+}

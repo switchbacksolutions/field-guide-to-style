@@ -1,0 +1,59 @@
+{
+  "id": "klein-artificial-beauty-venus-1998",
+  "title": "Micha Klein, Artificial Beauty “Venus”",
+  "type": "image",
+  "medium": "photograph",
+  "lede": "A digitally built portrait from Micha Klein’s 1998 series Artificial Beauties: a flawless face in front of floating 3D crystals, lens flares, and electric color.",
+  "summary": "An idealised digital portrait against purple 3D crystals and neon light streaks. Micha Klein, 1998, Cibachrome on aluminium.",
+  "source": {
+    "url": "https://www.kunsthuizen.nl/kunstwerken/venus-micha-klein/",
+    "label": "Kunsthuizen: Micha Klein, Arteficial beauty Venus"
+  },
+  "creator": {
+    "name": "Micha Klein",
+    "url": "https://www.michaklein.com/"
+  },
+  "made": "1998",
+  "moods": [
+    "glossy",
+    "artificial",
+    "techno-optimistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the image on the Kunsthuizen art-lending page for this print (840 × 864, series no. 5 of the edition), in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Partial fit: late-1990s digital-render imagery with 3D crystals, lens flares, and electric purple, blue, and pink. It has no chrome, plastic, or type.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "Kunsthuizen describes an original 1998 photograph from Klein’s series Artificial Beauties, as exhibited at the Groninger Museum: a Cibachrome print on aluminium behind perspex, 75 × 75 cm. [Kunsthuizen](https://www.kunsthuizen.nl/kunstwerken/venus-micha-klein/).",
+    "Klein (1964–2026) studied at the Gerrit Rietveld Academie and graduated in 1989 with the first degree there in computer graphics. The Groninger Museum held a ten-year retrospective of his digital work in 1998. [Micha Klein: About](https://www.michaklein.com/about); [Digicult (2006)](https://digicult.it/digimag/issue-014/the-multimedia-colours-of-micha-klein/); [Metropolis M](https://metropolism.com/nl/feature/i-m-micha-klein-1964-2026/)."
+  ],
+  "observed": [
+    "A woman with red hair and bare shoulders faces the viewer; her skin is smooth and even, like a retouched render.",
+    "Behind her float faceted purple and violet crystals of different sizes, some translucent.",
+    "The background swirls with electric blue, cyan, magenta, and orange streaks and fractal-like filaments.",
+    "Small star-shaped lens flares sparkle at the lower left and upper right."
+  ],
+  "interpretation": [
+    "This is the image side of Y2K: 3D software used for its own sake, with rendered crystals, flares, and a perfected artificial face. The Y2K style record cites Evan Collins, [in the Guardian](https://www.theguardian.com/technology/2016/may/19/year-2000-y2k-millennium-design-aesthetic), linking the aesthetic to new CAD tools that allowed layered transparencies and lens flares.",
+    "The palette of violet, electric blue, and hot pink matches the style’s accent colors."
+  ],
+  "borrow": [
+    "Use a few floating rendered crystals or gems with sharp facets as background motifs.",
+    "Add small four-point sparkle flares at the corners of an image."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is © the estate of Micha Klein."
+  }
+}

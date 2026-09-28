@@ -1,0 +1,72 @@
+{
+  "id": "flat-ui-free-kit-designmodo",
+  "title": "Flat UI Free kit",
+  "type": "product",
+  "medium": "software",
+  "lede": "Designmodo’s free Bootstrap theme of 2013, which gave the flat web its best-known palette.",
+  "summary": "Open-source Bootstrap theme with solid turquoise, emerald, blue, yellow, and red buttons, Lato type, and a named twenty-color palette.",
+  "source": {
+    "url": "https://github.com/designmodo/Flat-UI",
+    "label": "designmodo/Flat-UI on GitHub",
+    "archive": "https://web.archive.org/web/2014/http://designmodo.github.io/Flat-UI/"
+  },
+  "creator": {
+    "name": "Designmodo",
+    "url": "https://designmodo.com/flat-free/"
+  },
+  "made": "2013–2018",
+  "moods": [
+    "bright",
+    "clean",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured the live demo page [designmodo.github.io/Flat-UI](https://designmodo.github.io/Flat-UI/) with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 2026-09-28 and inspected it. The demo is the current release (2.3), not the first 2013 version; Wayback copies of the 2013 demo lost their CSS. License and palette read from the repository on 2026-09-28."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "Clear for surfaces and color: solid buttons in a named palette of saturated hues, no gradients or shadows. Its headings are bold (weight 700), which departs from the light Metro headings.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The README calls Flat UI “a beautiful theme for Bootstrap. We have redesigned many of its components to look flat in every pixel.” The repository was created on 3 March 2013 and had about 15,000 stars on 2026-09-28.",
+    "Released under the MIT License, © 2013–2018 Designmodo ([LICENSE](https://github.com/designmodo/Flat-UI/blob/master/LICENSE)).",
+    "The color variables name twenty swatches in pairs, for example `$turquoise: #1abc9c` and `$green-sea: #16a085`, `$peter-river: #3498db` and `$belize-hole: #2980b9`, `$wet-asphalt: #34495e` and `$midnight-blue: #2c3e50` ([_variables.scss](https://github.com/designmodo/Flat-UI/blob/master/app/styles/_variables.scss)).",
+    "The kit sets its base text in [Lato](ref:lato-typeface) (`$font-family-base`) and its demo titles in Helvetica Neue (`$font-family-demo`)."
+  ],
+  "observed": [
+    "A diamond logo made of flat blue and cyan facets with a white sparkle sits above the title “Flat UI” in heavy dark blue-gray type and a pale gray subtitle.",
+    "Section headings “Basic elements” and “Buttons” are bold dark blue-gray.",
+    "Eight buttons in two rows are solid fills: turquoise, yellow, silver gray, red, green, dark navy, blue, and a pale disabled gray. Each has white text and slightly rounded corners, with no border, gradient, or shadow.",
+    "The page ground is plain white."
+  ],
+  "interpretation": [
+    "Measured: Lato sets 93% of the text; large headings weigh 700; 24% of boxes have a 2 px border, from outlined input fields further down; 5% of boxes have a shadow. Only 6% of screenshot pixels are saturated because the demo is mostly white, so the capture fails the color range as well as the heading-weight range.",
+    "The kit is the reference point for the web branch of flat design: the same palette names reappear on [Flat UI Colors](ref:flatuicolors-com-website-2014) and in this catalogue’s specimen colors."
+  ],
+  "borrow": [
+    "Give each semantic role (primary, success, warning, danger, info) one saturated hue, and pair it with a darker partner of the same hue for the pressed state.",
+    "Use a dark blue-gray such as #2c3e50 for text and dark buttons instead of black."
+  ],
+  "images": [
+    {
+      "file": "assets/references/flat-ui-free-kit-designmodo.jpg",
+      "alt": "Flat UI demo page: a faceted blue diamond logo above the title Flat UI in heavy dark blue-gray type, then the headings Basic elements and Buttons and eight solid buttons in turquoise, yellow, gray, red, green, navy, blue, and pale gray.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [Flat UI demo page](https://designmodo.github.io/Flat-UI/), captured 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "MIT",
+    "statement": "Screenshot of the project’s own demo page, which is published from the MIT-licensed repository, © 2013–2018 Designmodo ([LICENSE](https://github.com/designmodo/Flat-UI/blob/master/LICENSE)). It shows only the kit’s own logo and components."
+  }
+}

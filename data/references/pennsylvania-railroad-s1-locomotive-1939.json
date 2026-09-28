@@ -1,0 +1,72 @@
+{
+  "id": "pennsylvania-railroad-s1-locomotive-1939",
+  "title": "Pennsylvania Railroad S1 locomotive at the 1939 World’s Fair",
+  "type": "product",
+  "medium": "product",
+  "lede": "Raymond Loewy’s shroud for the longest steam locomotive ever built: a bullet nose with a round headlamp and speed lines that run the whole length of engine and tender.",
+  "summary": "A dark bullet-nosed steam locomotive with parallel speed lines along its length. Raymond Loewy for the Pennsylvania Railroad, 1939.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Pennsylvania_Railroad_class_S1",
+    "label": "Wikipedia: Pennsylvania Railroad class S1"
+  },
+  "creator": {
+    "name": "Raymond Loewy (shroud); Pennsylvania Railroad, Altoona Works (builder)"
+  },
+  "made": "1939 (completed 31 January 1939); photographed 15 July 1939",
+  "moods": [
+    "streamlined",
+    "powerful",
+    "machine-age"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected two Gottscho-Schleisner photographs of No. 6100 at the New York World’s Fair: [PRR S1.jpg](https://commons.wikimedia.org/wiki/File:PRR_S1.jpg) (Library of Congress reproduction number LC-G613-35557, dated 15 July 1939) and [gsc.5a18640](https://commons.wikimedia.org/wiki/File:World%27s_Fair,_railroad_exhibit_locomotives._LOC_gsc.5a18640.jpg), both at 1920 px on Commons. The stored image is the first."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "streamline-moderne",
+      "note": "Loewy’s best-known streamline design: a bullet nose, a round headlamp, and groups of parallel speed lines along a very long horizontal body.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Built at the Pennsylvania Railroad’s Altoona Works and completed on 31 January 1939; Raymond Loewy designed the streamlined shell. At 140 ft 2½ in with tender it was the longest reciprocating steam locomotive ever. At the 1939 New York World’s Fair it ran on a roller platform at 60 mph under the lettering “American Railroads”, part of a combined 27-railroad exhibit. It served from 1939 to 1946 and was scrapped in 1949. [Wikipedia](https://en.wikipedia.org/wiki/Pennsylvania_Railroad_class_S1)."
+  ],
+  "observed": [
+    "The locomotive is very long and low; the photograph is more than twice as wide as it is tall and still crops the tender.",
+    "The front is a rounded bullet nose with a large round headlamp in a ring at its center.",
+    "Groups of two and three thin bright lines run from the nose back along the whole engine; the tender carries the same parallel lines and the words “AMERICAN RAILROADS” in spaced capitals.",
+    "The shell is a smooth, dark, glossy surface; small star-shaped badges are the only other marks.",
+    "A railing encloses the exhibit, and the fair’s disc-shaped canopy and a lighting mast appear at right."
+  ],
+  "interpretation": [
+    "The S1 is the rubric’s speed line in its purest form: a few parallel lines drawn along a long dark body, meeting at a round headlamp. It also shows that the style works on a dark ground, not only on cream."
+  ],
+  "borrow": [
+    "Start a group of parallel lines at a circular element and run them to the far edge of the layout.",
+    "Space the capitals of a long label widely so it reads as a band."
+  ],
+  "images": [
+    {
+      "file": "assets/references/pennsylvania-railroad-s1-locomotive-1939.jpg",
+      "alt": "Black-and-white photograph of a very long streamlined steam locomotive behind a railing: a rounded bullet nose with a round headlamp, thin parallel lines along the whole body and tender, and the words American Railroads on the tender.",
+      "width": 1600,
+      "height": 828,
+      "kind": "photograph",
+      "caption": "PRR S1 No. 6100 at the New York World’s Fair, 15 July 1939. Gottscho-Schleisner, Inc., Library of Congress, Prints and Photographs Division, LC-G613-35557, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:PRR_S1.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/PRR_S1.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks the Gottscho-Schleisner photograph public domain; the Library of Congress lists no known restrictions on that collection. A locomotive is a useful article, not protected by copyright in the United States, its country of origin. Raymond Loewy died in 1986; the shroud’s shape is not a separable artwork."
+  },
+  "identifiers": {
+    "commons": "File:PRR S1.jpg",
+    "loc": "LC-G613-35557"
+  }
+}

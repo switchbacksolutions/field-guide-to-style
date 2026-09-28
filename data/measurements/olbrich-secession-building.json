@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/olbrich-secession-building.jpg",
+  "captured": "2026-09-28T18:10:39+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e5d5bf",
+        "share": 0.511
+      },
+      {
+        "hex": "#ebebeb",
+        "share": 0.095
+      },
+      {
+        "hex": "#b3a48c",
+        "share": 0.069
+      },
+      {
+        "hex": "#dbcbb3",
+        "share": 0.065
+      },
+      {
+        "hex": "#c5b59d",
+        "share": 0.062
+      },
+      {
+        "hex": "#5b5043",
+        "share": 0.032
+      },
+      {
+        "hex": "#6b5f4f",
+        "share": 0.031
+      },
+      {
+        "hex": "#7a6d5c",
+        "share": 0.031
+      },
+      {
+        "hex": "#8a7c69",
+        "share": 0.028
+      },
+      {
+        "hex": "#a89982",
+        "share": 0.028
+      }
+    ],
+    "background": "#e5d5bf",
+    "chroma": 0.13,
+    "lightness": 0.73,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 12,
+    "hues": 0
+  }
+}

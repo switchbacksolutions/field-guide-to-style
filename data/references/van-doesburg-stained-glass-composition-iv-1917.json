@@ -1,0 +1,77 @@
+{
+  "id": "van-doesburg-stained-glass-composition-iv-1917",
+  "title": "Stained-Glass Composition IV",
+  "type": "object",
+  "medium": "other",
+  "lede": "Three tall leaded-glass windows for a house in Alkmaar, made in the movement’s first year: small rectangles of white, yellow, blue, and dark glass arranged in mirrored patterns.",
+  "summary": "Three leaded windows of small white, yellow, blue, green, ochre, and dark rectangles. Theo van Doesburg, 1917.",
+  "source": {
+    "url": "https://krollermuller.nl/en/theo-van-doesburg-stained-glass-composition-i-v-for-the-de-lange-house-alkmaar",
+    "label": "Kröller-Müller Museum: Stained-glass composition IV for the De Lange House, Alkmaar"
+  },
+  "creator": {
+    "name": "Theo van Doesburg",
+    "url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg"
+  },
+  "made": "Between 3 May and 9 September 1917",
+  "moods": [
+    "rhythmic",
+    "luminous",
+    "ordered"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons image (1396 × 2135 px, viewed at 1600 px) from Geheugen van Nederland (urn:gvn:ICN01:3492), which shows all three windows on a dark ground. The Kröller-Müller page was found by search and not read."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "Partial fit: an early De Stijl work that is strictly orthogonal and built from flat colored rectangles, but uses green, ochre, and brown glass and a mirrored, near-symmetric layout that the mature style drops.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Jan de Lange commissioned the windows for his house at Wilhelminalaan 2, Alkmaar, where they were installed from early September 1917. Each window measures 287 × 56.5 cm. [Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_139.jpg).",
+    "The windows passed to the Dutch State (RCE R5533–R5535) and have been on loan to the Kröller-Müller Museum, Otterlo, since 1991. [Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_139.jpg).",
+    "Wikidata records the work as [Q2460532](https://www.wikidata.org/wiki/Q2460532), dated 1917."
+  ],
+  "observed": [
+    "Three tall, narrow panels stand side by side on a dark ground.",
+    "Each panel is filled with small rectangles of white glass and of yellow, blue, and very dark glass, divided by thin black lead lines.",
+    "The two outer panels repeat the same pattern as mirror images of each other.",
+    "The middle panel uses green, ochre, and dark blue glass instead of yellow.",
+    "The rectangles form L-shapes and bars that recur down each panel; there are no curves or diagonals.",
+    "A small monogram sits at the bottom right."
+  ],
+  "interpretation": [
+    "The windows show the style before Mondrian’s large planes: a dense rhythm of small rectangles, closer to a pattern than to a balanced composition.",
+    "The lead lines play the part that black lines play in the paintings, which may be one source of the style’s black grid."
+  ],
+  "borrow": [
+    "Repeat a small set of rectangular motifs down a tall strip, and mirror the strip for side panels.",
+    "Use thin dark dividers between many small cells for a textured band, and keep large planes for main content."
+  ],
+  "images": [
+    {
+      "file": "assets/references/van-doesburg-stained-glass-composition-iv-1917.jpg",
+      "alt": "Three tall leaded-glass window panels on a dark ground, each filled with small white, yellow, blue, and dark rectangles; the outer panels mirror each other and the middle panel uses green and ochre glass.",
+      "width": 1046,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Theo van Doesburg, Stained-Glass Composition IV, 1917, for the De Lange House, Alkmaar. Dutch State collection, on loan to the Kröller-Müller Museum. Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_139.jpg) via Geheugen van Nederland, public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Theo_van_Doesburg_139.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks the image PD-old. Van Doesburg died in 1931, so the work is public domain in the Netherlands; made in 1917, it is public domain in the United States."
+  },
+  "identifiers": {
+    "wikidata": "Q2460532",
+    "commons": "File:Theo van Doesburg 139.jpg"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "love-stamp-1973",
+  "title": "LOVE stamp",
+  "type": "print",
+  "medium": "other",
+  "lede": "The first US Love stamp: an eight-cent issue of 1973 on which Robert Indiana adapted his stacked LOVE image for the United States Postal Service.",
+  "summary": "Robert Indiana’s stacked LOVE on an eight-cent US postage stamp, 1973.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Love_(image)",
+    "label": "Wikipedia: Love (image)"
+  },
+  "creator": {
+    "name": "Robert Indiana, for the United States Postal Service"
+  },
+  "made": "1973 (issued 26 January 1973)",
+  "moods": [
+    "emblematic",
+    "bold",
+    "popular"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "The [National Postal Museum page](https://postalmuseum.si.edu/exhibition/art-of-the-stamp-the-artwork-love/love-1973) and the Smithsonian collection record return HTTP 403 to scripts. The only open image found is a 451 × 287 px copy on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lovestamp.png), too small for observation."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "Pop art’s word-as-image carried into mass print on hundreds of millions of stamps. Partial fit: it has no dots, key lines, or comic devices.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "In 1973 the United States Postal Service commissioned a stamp design from Indiana and released the eight-cent LOVE stamp before Valentine’s Day. It was unveiled at the Philadelphia Museum of Art, and 425 million were printed over the next two years. [Wikipedia](https://en.wikipedia.org/wiki/Love_(image)).",
+    "The image began as a 1964 card that Indiana sent to friends, and in 1965 a red, blue, and green version was chosen for the Museum of Modern Art’s Christmas card. [Wikipedia](https://en.wikipedia.org/wiki/Love_(image)).",
+    "The Commons file gives the issue date as 26 January 1973. [Commons](https://commons.wikimedia.org/wiki/File:Lovestamp.png).",
+    "A 1967 screenprint of the same image is [Love](ref:indiana-love-screenprint-1967)."
+  ],
+  "interpretation": [
+    "The stamp shows how far the Pop idiom travelled into everyday print by the early 1970s: a gallery image reduced to postage size still reads because it is one word in four flat colors."
+  ],
+  "borrow": [
+    "Test a Pop headline at icon size: a stacked word in flat color should still read at 40 px."
+  ],
+  "next": [
+    "Inspect an image at least 800 px wide, for example through the National Postal Museum in a browser, and add observed traits."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Commons marks its copy public domain with the template PD-textlogo (too simple for copyright), not with a US government or postal rationale, and its source is a cleaned-up web image. The design reproduces Robert Indiana’s LOVE, a privately authored image. The rights need a curator’s decision."
+  }
+}

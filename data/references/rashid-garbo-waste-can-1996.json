@@ -1,0 +1,60 @@
+{
+  "id": "rashid-garbo-waste-can-1996",
+  "title": "Garbo waste can",
+  "type": "product",
+  "medium": "product",
+  "lede": "Karim Rashid’s curvy polypropylene wastebasket for Umbra, one of the best-known blobjects of the late 1990s.",
+  "summary": "Curvy molded polypropylene wastebasket with handle cut-outs, in bright and translucent colors. Karim Rashid for Umbra, 1995–1996.",
+  "source": {
+    "url": "https://collections.artsmia.org/art/58170/garbo-waste-can-karim-rashid",
+    "label": "Minneapolis Institute of Art: Garbo waste can, 2001.232"
+  },
+  "creator": {
+    "name": "Karim Rashid, for Umbra"
+  },
+  "made": "1996 (Minneapolis Institute of Art and Nasjonalmuseet); the Philadelphia Museum of Art says designed 1995",
+  "moods": [
+    "playful",
+    "sensual",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the Minneapolis Institute of Art record 2001.232 (no image published), the Nasjonalmuseet record OK-2002-0106, the Philadelphia Museum of Art record, and Metropolis (2016). No museum image of at least 800 px was inspected."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Partial fit: a soft, curvy blobject in bright molded plastic from the Y2K period. It has no chrome or techno motifs.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "Mia records a plastic waste can dated 1996, 33.2 × 26.7 × 25.1 cm, designed by Karim Rashid and made by Umbra, and says the “curvaceous, handled Garbo trash can is now a design icon, selling over two million units”. [Mia 2001.232](https://collections.artsmia.org/art/58170/garbo-waste-can-karim-rashid).",
+    "The Philadelphia Museum of Art gives “designed 1995”, polypropylene, translucent. [Philadelphia Museum of Art](https://philamuseum.org/collection/object/92596). Nasjonalmuseet in Oslo dates its copy 1996. [Nasjonalmuseet OK-2002-0106](https://www.nasjonalmuseet.no/en/collection/object/OK-2002-0106).",
+    "Metropolis (Misha Volf, 19 January 2016) describes an injection-molded polypropylene can released in 1996 in a “high-intensity color palette”, and says Rashid proposed in early meetings that it be translucent, “passing diffused light through its torso”. [Metropolis](https://metropolismag.com/viewpoints/karim-rashids-garbo-20/)."
+  ],
+  "interpretation": [
+    "Garbo is the blobject in domestic form: a cheap molded object made sensual through curves and color. It shows that the Y2K shape language reached everyday goods, not only electronics.",
+    "The shape and color are well documented, but no image was inspected, so no visual details are listed here."
+  ],
+  "borrow": [
+    "Give functional openings, such as handles, soft rounded cut-outs instead of separate parts.",
+    "Let a container flare outward at the top, so the silhouette reads as a curve, not a box."
+  ],
+  "next": [
+    "Find a museum image of at least 800 px (Cooper Hewitt, MoMA, or Philadelphia) and inspect it, then add observed traits."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The design belongs to Karim Rashid and Umbra; the Mia record marks rights as unknown."
+  },
+  "identifiers": {
+    "mia": "58170",
+    "nasjonalmuseet": "OK-2002-0106"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/mucha-gismonda-poster-1894.jpg",
+  "captured": "2026-09-28T17:20:28+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#a99a8a",
+        "share": 0.134
+      },
+      {
+        "hex": "#c6c7c7",
+        "share": 0.13
+      },
+      {
+        "hex": "#5d554b",
+        "share": 0.071
+      },
+      {
+        "hex": "#6c6053",
+        "share": 0.042
+      },
+      {
+        "hex": "#3a2e27",
+        "share": 0.037
+      },
+      {
+        "hex": "#816c58",
+        "share": 0.037
+      },
+      {
+        "hex": "#6e523e",
+        "share": 0.036
+      },
+      {
+        "hex": "#464949",
+        "share": 0.035
+      },
+      {
+        "hex": "#2c211c",
+        "share": 0.035
+      },
+      {
+        "hex": "#493a2f",
+        "share": 0.034
+      }
+    ],
+    "background": "#a99a8a",
+    "chroma": 0.08,
+    "lightness": 0.44,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.35,
+    "distinct": 23,
+    "hues": 1
+  }
+}

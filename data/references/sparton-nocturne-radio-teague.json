@@ -1,0 +1,72 @@
+{
+  "id": "sparton-nocturne-radio-teague",
+  "title": "Sparton Nocturne radio, model 1186",
+  "type": "product",
+  "medium": "product",
+  "lede": "Walter Dorwin Teague’s floor radio for Sparton: a disc of blue mirror glass more than a metre across, crossed by a chrome ladder of horizontal bars.",
+  "summary": "A large blue mirror-glass disc with a vertical chrome frame of horizontal bars, a round dial, and chrome feet. Walter Dorwin Teague for Sparton, 1935.",
+  "source": {
+    "url": "https://encyclopedia.design/2023/04/28/nocturne-model-1186-designed-by-walter-dorwin-teague/",
+    "label": "Encyclopedia of Design: Nocturne, model 1186"
+  },
+  "creator": {
+    "name": "Walter Dorwin Teague (designer); Sparton Corporation, Jackson, Michigan (manufacturer)"
+  },
+  "made": "1935 (unveiled at the New York Radio Exposition, September 1935)",
+  "moods": [
+    "luxurious",
+    "machine-age",
+    "cool"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Wmpearl’s 2014 photograph of the Wolfsonian–FIU copy on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Radio,_Nocturne,_Model_1186,_c._1935,_Sparton_Corporation,_Jackson,_Michigan.JPG) at 1920 px. The Decorative Arts Trust caption identifies the Wolfsonian copy as XX1990.168, from the lobby of the Park Central Hotel, Miami Beach; I did not read the Wolfsonian record itself."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "streamline-moderne",
+      "note": "Partial fit: the big circle and chrome horizontal bars are streamline, but the vertical frame and luxury mirror glass are closer to Art Deco.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Unveiled at the New York Radio Exposition in September 1935, the Nocturne was made of midnight-blue Tufflex mirror glass, satin chrome steel, and painted wood, 46 in high and 43¼ in wide, priced at $350 to $375. About two dozen survive; copies are in the Wolfsonian–FIU and the Dallas Museum of Art. [Encyclopedia of Design](https://encyclopedia.design/2023/04/28/nocturne-model-1186-designed-by-walter-dorwin-teague/).",
+    "The Wolfsonian copy (XX1990.168) came from the lobby of the Park Central Hotel, Miami Beach. [Decorative Arts Trust](https://decorativeartstrust.org/transatlantic-connections-influencing-miamis-wolfsonian/xx1990-168_001/)."
+  ],
+  "observed": [
+    "A large disc of dark blue mirror glass stands on edge; a chrome band runs around its lower half.",
+    "A vertical chrome frame crosses the disc from top to bottom, filled with thin horizontal chrome bars at regular spacing.",
+    "In the upper part, a round dial in a chrome ring sits between the bars, with a row of five round chrome knobs below it.",
+    "In the lower part, the bars cover a dark speaker cloth.",
+    "Two chrome feet with rounded ends hold the disc. The mirror reflects the gallery around it."
+  ],
+  "interpretation": [
+    "The Nocturne sits between the two styles: the circle and the horizontal chrome bars belong to streamlining, while the vertical axis, symmetry, and luxury glass point to Art Deco. It is useful as a boundary case."
+  ],
+  "borrow": [
+    "Put a ladder of thin horizontal rules inside a circle to make a badge or hero mark.",
+    "Use chrome-gray rules on navy for a night version of the palette."
+  ],
+  "images": [
+    {
+      "file": "assets/references/sparton-nocturne-radio-teague.jpg",
+      "alt": "A large round disc of blue mirror glass on chrome feet, crossed vertically by a chrome frame with horizontal bars, a round dial and five knobs near the top, and speaker cloth behind the bars at the bottom. The mirror reflects a museum gallery.",
+      "width": 1466,
+      "height": 1600,
+      "kind": "photograph",
+      "caption": "Sparton Nocturne, model 1186, Wolfsonian–FIU. Photograph by Wmpearl, 2014, CC0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Radio,_Nocturne,_Model_1186,_c._1935,_Sparton_Corporation,_Jackson,_Michigan.JPG). Other museum objects appear in the reflection.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Radio%2C_Nocturne%2C_Model_1186%2C_c._1935%2C_Sparton_Corporation%2C_Jackson%2C_Michigan.JPG",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The photographer dedicated the photograph to the public domain (CC0). The radio is an American useful article, not protected by copyright in the United States. Walter Dorwin Teague died in 1960. Objects reflected in the mirror are incidental."
+  },
+  "identifiers": {
+    "commons": "File:Radio, Nocturne, Model 1186, c. 1935, Sparton Corporation, Jackson, Michigan.JPG"
+  }
+}

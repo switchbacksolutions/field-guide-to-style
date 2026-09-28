@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/grauer-vaporwave-wallpaper-2018.jpg",
+  "captured": "2026-09-28T17:27:09+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#530e9a",
+        "share": 0.358
+      },
+      {
+        "hex": "#cd11ba",
+        "share": 0.087
+      },
+      {
+        "hex": "#5c1e99",
+        "share": 0.038
+      },
+      {
+        "hex": "#d239cd",
+        "share": 0.037
+      },
+      {
+        "hex": "#900fb0",
+        "share": 0.033
+      },
+      {
+        "hex": "#d64cd9",
+        "share": 0.032
+      },
+      {
+        "hex": "#ba11be",
+        "share": 0.031
+      },
+      {
+        "hex": "#6e0aa6",
+        "share": 0.029
+      },
+      {
+        "hex": "#ae51b4",
+        "share": 0.029
+      },
+      {
+        "hex": "#b628a1",
+        "share": 0.026
+      }
+    ],
+    "background": "#530e9a",
+    "chroma": 0.51,
+    "lightness": 0.4,
+    "chromaticShare": 0.88,
+    "accentChroma": 0.56,
+    "distinct": 16,
+    "hues": 7
+  }
+}

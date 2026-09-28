@@ -1,0 +1,59 @@
+{
+  "id": "musee-ecole-de-nancy-website",
+  "title": "Musée de l’École de Nancy website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The Nancy School museum’s site pairs a flared Art Nouveau wordmark with a soft sage-green panel and photographs of Majorelle’s villa and collections.",
+  "summary": "Flared Art Nouveau wordmark on sage green, beside a photograph of the Villa Majorelle.",
+  "source": {
+    "url": "https://musee-ecole-de-nancy.nancy.fr/accueil",
+    "label": "musee-ecole-de-nancy.nancy.fr"
+  },
+  "creator": {
+    "name": "Ville de Nancy",
+    "url": "https://musee-ecole-de-nancy.nancy.fr/accueil"
+  },
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. Nothing covers the page. The request redirected to /accueil."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "art-nouveau",
+      "note": "Borderline: the wordmark is drawn in Art Nouveau letterforms and the palette is moss and olive green, but the layout and body type are a plain modern sans-serif grid.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A sage-green panel fills the left half of the hero. It holds “MUSÉE DE L’ÉCOLE DE NANCY” in dark teal capitals with flared, curving strokes and an unusual M and N.",
+    "Below the wordmark, a thin dark rule and a menu of capitals with arrows in a plain sans-serif.",
+    "The right half is a photograph of the museum building and garden.",
+    "Below, “EN CE MOMENT” in bold teal sans-serif capitals with a short dark rule, and three cards with grey, olive, and dark olive grounds around cropped photographs."
+  ],
+  "interpretation": [
+    "The wordmark and the green palette are the only style carriers in the page itself; the rest is institutional.",
+    "Measured: radius median 0, borders on 28% of boxes, no shadows, one colour family, accent chroma 0.33."
+  ],
+  "borrow": [
+    "Set only the name or the main heading in an Art Nouveau display face, and keep body text plain.",
+    "Use sage, olive, and dark olive as a family of card grounds."
+  ],
+  "images": [
+    {
+      "file": "assets/references/musee-ecole-de-nancy-website.jpg",
+      "alt": "Musée de l’École de Nancy home page: a sage-green panel with the museum name in dark teal Art Nouveau capitals and a menu with arrows, next to a photograph of a villa in a garden; three olive and gray cards below.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [musee-ecole-de-nancy.nancy.fr](https://musee-ecole-de-nancy.nancy.fr/accueil).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/van-doesburg-alphabet-1919.jpg",
+  "captured": "2026-09-28T17:51:44+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.454
+      },
+      {
+        "hex": "#151515",
+        "share": 0.287
+      },
+      {
+        "hex": "#080808",
+        "share": 0.051
+      },
+      {
+        "hex": "#f3f3f3",
+        "share": 0.051
+      },
+      {
+        "hex": "#afafaf",
+        "share": 0.027
+      },
+      {
+        "hex": "#535353",
+        "share": 0.023
+      },
+      {
+        "hex": "#c7c7c7",
+        "share": 0.021
+      },
+      {
+        "hex": "#8c8c8c",
+        "share": 0.02
+      },
+      {
+        "hex": "#d8d8d8",
+        "share": 0.019
+      },
+      {
+        "hex": "#3f3f3f",
+        "share": 0.018
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.0,
+    "lightness": 0.61,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 8,
+    "hues": 0
+  }
+}

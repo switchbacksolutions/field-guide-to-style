@@ -1,0 +1,65 @@
+{
+  "id": "derekart-website",
+  "title": "DerekArt website",
+  "type": "website",
+  "medium": "website",
+  "lede": "Derek Yaniger’s shop header pairs a bouncing retro logotype with a band of hand-drawn squared spirals in cream, red, and black.",
+  "summary": "A pink header, a bouncing hand-lettered logo, and a cream, red, and black pattern band with a lowercase slab slogan.",
+  "source": {
+    "url": "https://derekart.com/",
+    "label": "derekart.com"
+  },
+  "creator": {
+    "name": "Derek Yaniger",
+    "url": "https://derekart.com/"
+  },
+  "moods": [
+    "retro",
+    "playful",
+    "loud"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "Borderline: the header and pattern band use the style’s bouncing hand lettering and a textile-like repeat confined to one band, but the prints below are loud and clashing, and the page is a shop.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The header is flat dusty pink with a centered logotype, “*DEREKart!”, in red and black letters of mixed sizes that bounce off the baseline, with an asterisk star.",
+    "The menu below is dark geometric sans-serif capitals.",
+    "A full-width band alternates cream, red, and black blocks with hand-drawn squared spirals in black, red, and gray lines.",
+    "At the right end of the band, “can you dig it?” is set in a heavy, rounded lowercase face in cream on red.",
+    "Below, on white, “FEATURED PRINTS” heads three poster thumbnails in saturated blue, yellow, magenta, and green with dense cartoon figures."
+  ],
+  "interpretation": [
+    "The band shows the rubric’s “pattern as a band” trait directly, and the logotype shows bouncing, mixed lettering.",
+    "The featured prints are closer to a psychedelic or tiki revival: saturated, crowded, and outlined. Measured: the CSS sees no chromatic color (the colors are all in images); the screenshot palette finds five hue families."
+  ],
+  "borrow": [
+    "Confine a hand-drawn geometric repeat to one horizontal band under the header.",
+    "Let a logotype’s letters change size and bounce off the baseline."
+  ],
+  "images": [
+    {
+      "file": "assets/references/derekart-website.jpg",
+      "alt": "DerekArt shop home page: a dusty pink header with a bouncing red and black DerekArt logo and a menu, a band of cream, red, and black blocks with hand-drawn squared spirals and the words can you dig it, and three bright poster thumbnails under Featured Prints.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [derekart.com](https://derekart.com/), 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design, artwork, and content belong to the site’s owners and artists. Screenshot captured for commentary."
+  }
+}

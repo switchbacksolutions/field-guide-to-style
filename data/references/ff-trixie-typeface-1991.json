@@ -1,0 +1,59 @@
+{
+  "id": "ff-trixie-typeface-1991",
+  "title": "FF Trixie typeface",
+  "type": "product",
+  "medium": "typeface",
+  "lede": "Erik van Blokland’s scanned typewriter face of 1991, one of the first FontFonts, with blotched, filled, and uneven letters.",
+  "summary": "A monospaced typewriter face with inky, clogged counters and ragged edges. Erik van Blokland, FontShop, 1991.",
+  "source": {
+    "url": "https://eyemagazine.com/blog/post/variable-grunge",
+    "label": "Paul Barnes, “Variable grunge”, Eye blog (2023)"
+  },
+  "creator": {
+    "name": "Erik van Blokland",
+    "url": "https://en.wikipedia.org/wiki/Erik_van_Blokland"
+  },
+  "made": "1991 (Eye)",
+  "moods": [
+    "raw",
+    "dirty",
+    "bureaucratic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected Eye’s photograph (951 × 627) of the spread in Eye 7 (1992) that shows Trixie beside LettError’s Beowolf, in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "grunge-typography",
+      "note": "Clear example of the style’s typewriter voice: damaged, inky letters that look reproduced rather than typeset.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Paul Barnes writes that Trixie was released in 1991 as one of the first FontFonts sold by FontShop, that it “revelled in distress and distortion”, and that it “was perfect for the age of grunge”. It appeared on CD covers and in the titles of The X-Files (1993). [Eye](https://eyemagazine.com/blog/post/variable-grunge).",
+    "Barnes says a typewriter borrowed from a friend called Beatrix was the starting point, and that LettError revised the design in 2023 as the variable font Neither Confirm Nor Deny. [Eye](https://eyemagazine.com/blog/post/variable-grunge).",
+    "Robin Kinross’s article “The digital wave” in Eye 7 (1992) showed Trixie beside Beowolf and BeoSans. [Eye](https://eyemagazine.com/blog/post/variable-grunge)."
+  ],
+  "observed": [
+    "The Eye 7 spread shows the Trixie lowercase and numerals very large on a teal page.",
+    "The letters are a monospaced slab-serif typewriter design with uneven stroke weight, ragged edges, and ink blots.",
+    "Several counters are filled or partly clogged: the a, e, g, o, p, q, 8, and 9 read as dark blobs.",
+    "A white dashed line runs along the baseline of each row; a small sample in upper and lower case sits in a white-on-dark box above.",
+    "On the facing page, LettError’s Beowolf shows the same B many times, each with a different jagged outline."
+  ],
+  "interpretation": [
+    "Trixie is the calm end of grunge type: it imitates worn machine printing rather than tearing letters apart. It is the typewriter face that the style’s captions and data call for."
+  ],
+  "borrow": [
+    "Use a worn typewriter face for captions, dates, and tables, where its damage stays readable.",
+    "Let some counters fill with ink at display sizes, but not at text sizes."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The typeface is by Erik van Blokland; the photograph is Eye’s."
+  }
+}

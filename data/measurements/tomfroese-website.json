@@ -1,0 +1,145 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.tomfroese.com/",
+  "title": "Mr. Tom Froese | Discover Your Creativity—Join Today",
+  "captured": "2026-09-28T17:18:46.040Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "futura-pt",
+        "share": 0.49
+      },
+      {
+        "family": "futura-pt-bold",
+        "share": 0.47
+      },
+      {
+        "family": "halyard-display",
+        "share": 0.04
+      }
+    ],
+    "baseSize": 21.3,
+    "maxSize": 68,
+    "sizeRange": 3.2,
+    "scaleRatio": 2.62,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.22,
+    "monoShare": 0,
+    "centerShare": 0.33
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.498
+      },
+      {
+        "hex": "#2e3848",
+        "share": 0.476
+      },
+      {
+        "hex": "#ff6748",
+        "share": 0.016
+      },
+      {
+        "hex": "#75bee1",
+        "share": 0.008
+      },
+      {
+        "hex": "#ffdadc",
+        "share": 0.002
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#2e3848",
+    "contrast": 11.8,
+    "chroma": 0.06,
+    "lightness": 0.63,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.62,
+    "distinct": 2,
+    "hues": 2,
+    "imageShare": 0.01,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 7,
+    "radius": {
+      "median": 6.8,
+      "max": 6.8,
+      "roundShare": 0.57
+    },
+    "border": {
+      "share": 0.29,
+      "medianWidth": 3
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#4d5763",
+        "share": 0.798
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.099
+      },
+      {
+        "hex": "#4d424a",
+        "share": 0.017
+      },
+      {
+        "hex": "#fe6748",
+        "share": 0.016
+      },
+      {
+        "hex": "#77bee1",
+        "share": 0.008
+      },
+      {
+        "hex": "#aeb0b6",
+        "share": 0.007
+      },
+      {
+        "hex": "#c66555",
+        "share": 0.007
+      },
+      {
+        "hex": "#685559",
+        "share": 0.006
+      },
+      {
+        "hex": "#5d6874",
+        "share": 0.005
+      },
+      {
+        "hex": "#787a82",
+        "share": 0.004
+      }
+    ],
+    "background": "#4d5763",
+    "chroma": 0.1,
+    "lightness": 0.43,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.55,
+    "distinct": 2,
+    "hues": 2
+  }
+}

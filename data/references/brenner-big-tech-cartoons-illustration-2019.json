@@ -1,0 +1,69 @@
+{
+  "id": "brenner-big-tech-cartoons-illustration-2019",
+  "title": "Illustration for “Don’t Worry, These Gangly-armed Cartoons…” (Katharina Brenner)",
+  "type": "image",
+  "medium": "editorial",
+  "lede": "The hero image of AIGA Eye on Design’s 2019 article on the style: three flat figures with blue, violet, and orange skin reaching toward a browser window with a thumbs-down.",
+  "summary": "Three gangly, flat figures with non-natural skin on mint green, around a thumbs-down browser window. Editorial illustration, 2019.",
+  "source": {
+    "url": "https://eyeondesign.aiga.org/dont-worry-these-gangley-armed-cartoons-are-here-to-protect-you-from-big-tech/",
+    "label": "AIGA Eye on Design, 21 August 2019"
+  },
+  "creator": {
+    "name": "Katharina Brenner, with figures by Pablo Stanley (Humaaans)"
+  },
+  "made": "2019",
+  "moods": [
+    "friendly",
+    "ironic",
+    "bright"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 × 750 original (`Alegria_Hero-1.jpg`) from the AIGA article and stored it. The same image is on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Corporate_Memphis_(2019).png), where the Wikipedia article uses it."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Clear fit: long bendy limbs, small blank heads, violet, blue, and orange skin, flat fills with no outline, and a pale background. It is also the image that Wikipedia uses for the style.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The AIGA caption reads: “Image by Katharina Brenner. Illustrations are licensed under a Creative Commons Attribution 4.0 International license. Illustrations by Pablo Stanley, via humaaans design library. All illustrations have been edited.” [AIGA Eye on Design](https://eyeondesign.aiga.org/dont-worry-these-gangley-armed-cartoons-are-here-to-protect-you-from-big-tech/).",
+    "The image is built from [Humaaans](ref:humaaans-illustration-library-2018) figures; the article itself is about Facebook’s [Alegria](ref:facebook-alegria-illustration-system-2017) and its imitators."
+  ],
+  "observed": [
+    "The background is a flat mint green. A white browser window with a grey frame and three dots stands in the centre and shows a large navy thumbs-down.",
+    "A figure with violet skin walks in from the left in a yellow sweater and pale teal trousers, with long arms that end in small pointed hands.",
+    "A figure with orange skin in a blue top lunges toward the window with both arms raised; a single white tear marks the face.",
+    "A figure with pale blue skin and a long navy ponytail stands on the right in an orange jacket and pink trousers, one arm stretched out.",
+    "All shapes are flat fills without outlines; each garment has one darker tone for the far side."
+  ],
+  "interpretation": [
+    "The image uses the style to comment on it: the cheerful figures react to a thumbs-down, the reverse of Alegria’s thumbs-up."
+  ],
+  "borrow": [
+    "Put one interface object, such as a browser window, in the centre and let the figures react to it from both sides.",
+    "Use a single pale background color instead of white to hold several bright skin and clothing colors together."
+  ],
+  "images": [
+    {
+      "file": "assets/references/brenner-big-tech-cartoons-illustration-2019.jpg",
+      "alt": "Flat illustration on mint green: three long-limbed figures with violet, orange, and pale blue skin walk and reach toward a white browser window that shows a large navy thumbs-down.",
+      "width": 1200,
+      "height": 750,
+      "kind": "source-image",
+      "caption": "Illustration by Katharina Brenner with Humaaans figures by Pablo Stanley, for [AIGA Eye on Design](https://eyeondesign.aiga.org/dont-worry-these-gangley-armed-cartoons-are-here-to-protect-you-from-big-tech/), 2019. CC BY 4.0.",
+      "original": "https://eyeondesign.aiga.org/wp-content/uploads/2019/08/Alegria_Hero-1.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-4.0",
+    "statement": "The AIGA caption states a CC BY 4.0 license for the illustrations; the Commons copy carries the same license. Credit: Katharina Brenner; figures by Pablo Stanley (Humaaans)."
+  }
+}

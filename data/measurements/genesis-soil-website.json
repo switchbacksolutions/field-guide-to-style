@@ -1,0 +1,161 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.genesis.live/",
+  "title": "Genesis Soil Intelligence",
+  "captured": "2026-09-28T17:27:23.082Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "IBM Plex Sans",
+        "share": 1
+      },
+      {
+        "family": "IBM Plex Mono",
+        "share": 0
+      }
+    ],
+    "baseSize": 18,
+    "maxSize": 68,
+    "sizeRange": 3.78,
+    "scaleRatio": 1.14,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": -0.04,
+    "uppercaseShare": 0.02,
+    "monoShare": 0,
+    "centerShare": 0.24
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.388
+      },
+      {
+        "hex": "#0e120b",
+        "share": 0.151
+      },
+      {
+        "hex": "#111827",
+        "share": 0.084
+      },
+      {
+        "hex": "#374151",
+        "share": 0.056
+      },
+      {
+        "hex": "#51b9e8",
+        "share": 0.047
+      },
+      {
+        "hex": "#d7ddde",
+        "share": 0.047
+      },
+      {
+        "hex": "#6d8760",
+        "share": 0.047
+      },
+      {
+        "hex": "#7a5b17",
+        "share": 0.047
+      },
+      {
+        "hex": "#33221a",
+        "share": 0.047
+      },
+      {
+        "hex": "#bfcfe5",
+        "share": 0.031
+      }
+    ],
+    "background": "#f9fffb",
+    "text": "#111827",
+    "contrast": 17.5,
+    "chroma": 0.09,
+    "lightness": 0.6,
+    "chromaticShare": 0.1,
+    "accentChroma": 0.51,
+    "distinct": 11,
+    "hues": 3,
+    "imageShare": 0.29,
+    "gradientShare": 0.6,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 115,
+    "radius": {
+      "median": 12,
+      "max": 100,
+      "roundShare": 0.77
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0.54,
+      "hardShare": 0.11,
+      "medianBlur": 10,
+      "medianOffset": 10
+    },
+    "gradientShare": 0.54,
+    "patternShare": 0,
+    "blurShare": 0.37
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#fdf8ef",
+        "share": 0.089
+      },
+      {
+        "hex": "#453c2b",
+        "share": 0.088
+      },
+      {
+        "hex": "#322b19",
+        "share": 0.07
+      },
+      {
+        "hex": "#d8e9f2",
+        "share": 0.064
+      },
+      {
+        "hex": "#8dcced",
+        "share": 0.046
+      },
+      {
+        "hex": "#795f3e",
+        "share": 0.046
+      },
+      {
+        "hex": "#75c4eb",
+        "share": 0.045
+      },
+      {
+        "hex": "#a2d3ed",
+        "share": 0.045
+      },
+      {
+        "hex": "#615234",
+        "share": 0.044
+      },
+      {
+        "hex": "#46453f",
+        "share": 0.037
+      }
+    ],
+    "background": "#fdf8ef",
+    "chroma": 0.19,
+    "lightness": 0.59,
+    "chromaticShare": 0.17,
+    "accentChroma": 0.48,
+    "distinct": 20,
+    "hues": 4
+  }
+}

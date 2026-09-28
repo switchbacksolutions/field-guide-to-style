@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/aubette-cine-dancing-strasbourg.jpg",
+  "captured": "2026-09-28T17:51:46+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#664923",
+        "share": 0.07
+      },
+      {
+        "hex": "#3e372b",
+        "share": 0.061
+      },
+      {
+        "hex": "#44301a",
+        "share": 0.051
+      },
+      {
+        "hex": "#ba965f",
+        "share": 0.046
+      },
+      {
+        "hex": "#27221a",
+        "share": 0.044
+      },
+      {
+        "hex": "#cba56a",
+        "share": 0.043
+      },
+      {
+        "hex": "#fdfefb",
+        "share": 0.04
+      },
+      {
+        "hex": "#615c4c",
+        "share": 0.04
+      },
+      {
+        "hex": "#382411",
+        "share": 0.037
+      },
+      {
+        "hex": "#706b5d",
+        "share": 0.037
+      }
+    ],
+    "background": "#664923",
+    "chroma": 0.15,
+    "lightness": 0.42,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.38,
+    "distinct": 27,
+    "hues": 2
+  }
+}

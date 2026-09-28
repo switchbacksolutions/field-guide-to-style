@@ -1,0 +1,55 @@
+{
+  "id": "vaporesources-website",
+  "title": "Vaporesources",
+  "type": "website",
+  "medium": "website",
+  "lede": "A Neocities collection of old computer graphics, introduced by a CRT monitor on a grid floor, a broken marble head, and letter-spaced magenta capitals.",
+  "summary": "Sage-green page with a CRT on a grid floor, a marble head, and spaced magenta serif capitals.",
+  "source": {
+    "url": "https://vaporesources.neocities.org/",
+    "label": "vaporesources.neocities.org"
+  },
+  "moods": [
+    "nostalgic",
+    "quiet",
+    "amateur"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Clear on imagery and type, not on palette: a CRT monitor on a receding grid, a fragment of a classical head, spaced capitals, and an embedded vaporwave track, but on a sage-green ground instead of pastel pink.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A narrow column with a thin black outline is centred on a flat sage-green page.",
+    "At the top, a photograph shows a beige AT&T CRT monitor standing on a receding blue-and-white grid floor.",
+    "WELCOME TO VAPORESOURCES is set in bold magenta Times capitals with a space between every letter.",
+    "A cut-out fragment of a classical marble head sits below, above a spaced blue “G a l l e r y” link and a small Bandcamp player."
+  ],
+  "interpretation": [
+    "The spaced heading is typed with a space between each letter, not set with CSS letter-spacing, so the measured heading tracking is 0. The grid floor is inside a photograph, so pattern share is 0 too."
+  ],
+  "images": [
+    {
+      "file": "assets/references/vaporesources-website.jpg",
+      "alt": "Vaporesources home page: sage-green background, a narrow outlined column with a CRT monitor photographed on a grid floor, the spaced magenta heading WELCOME TO VAPORESOURCES, a marble head fragment, a Gallery link, and a small music player.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [vaporesources.neocities.org](https://vaporesources.neocities.org/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://vandoesburghuis.com/en/",
+  "title": "Van Doesburg artist house - Van Doesburghuis",
+  "captured": "2026-09-28T17:30:38.020Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Conv_futura-normal",
+        "share": 0.71
+      },
+      {
+        "family": "Conv_Futura-Bold",
+        "share": 0.25
+      },
+      {
+        "family": "Helvetica",
+        "share": 0.03
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 24,
+    "sizeRange": 1.41,
+    "scaleRatio": 1.41,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.03
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#e6e6e6",
+        "share": 0.337
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.251
+      },
+      {
+        "hex": "#00c0ff",
+        "share": 0.198
+      },
+      {
+        "hex": "#000000",
+        "share": 0.197
+      },
+      {
+        "hex": "#ff0000",
+        "share": 0.016
+      },
+      {
+        "hex": "#ffff00",
+        "share": 0.001
+      }
+    ],
+    "background": "#e6e6e6",
+    "text": "#000000",
+    "contrast": 16.8,
+    "chroma": 0.22,
+    "lightness": 0.66,
+    "chromaticShare": 0.22,
+    "accentChroma": 1,
+    "distinct": 4,
+    "hues": 2,
+    "imageShare": 0.28,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 7,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#e6e6e6",
+        "share": 0.336
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.129
+      },
+      {
+        "hex": "#00c0ff",
+        "share": 0.093
+      },
+      {
+        "hex": "#1d2314",
+        "share": 0.052
+      },
+      {
+        "hex": "#080b05",
+        "share": 0.045
+      },
+      {
+        "hex": "#ffff02",
+        "share": 0.043
+      },
+      {
+        "hex": "#34372b",
+        "share": 0.041
+      },
+      {
+        "hex": "#6eb3f1",
+        "share": 0.04
+      },
+      {
+        "hex": "#f80808",
+        "share": 0.04
+      },
+      {
+        "hex": "#6a7377",
+        "share": 0.028
+      }
+    ],
+    "background": "#e6e6e6",
+    "chroma": 0.23,
+    "lightness": 0.66,
+    "chromaticShare": 0.28,
+    "accentChroma": 0.8,
+    "distinct": 11,
+    "hues": 4
+  }
+}

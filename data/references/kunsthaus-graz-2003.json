@@ -1,0 +1,57 @@
+{
+  "id": "kunsthaus-graz-2003",
+  "title": "Kunsthaus Graz",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Peter Cook and Colin Fournier’s “Friendly Alien”: an art museum in a blue acrylic blob with nozzle-shaped skylights.",
+  "summary": "A dark-blue acrylic blob with a grid of light points and nozzle skylights, among red tiled roofs. Peter Cook and Colin Fournier, Graz, 2003.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Kunsthaus_Graz",
+    "label": "Wikipedia: Kunsthaus Graz"
+  },
+  "creator": {
+    "name": "Peter Cook and Colin Fournier (spacelab); BIX media facade by realities:united"
+  },
+  "made": "2003",
+  "moods": [
+    "futuristic",
+    "organic",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons photograph [Graz Kunsthaus vom Schlossberg 20061126.jpg](https://commons.wikimedia.org/wiki/File:Graz_Kunsthaus_vom_Schlossberg_20061126.jpg) by Marion Schneider and Christoph Aistleitner (26 November 2006, CC BY-SA 2.5), viewed at 1280 × 853 in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Partial fit: blob architecture at the end of the period, with a glossy blue translucent skin and a pixel light facade. It is architecture, so type and interface traits do not apply.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "Wikipedia: the museum by Colin Fournier and Peter Cook opened in 2003, the year Graz was European Capital of Culture. Its skin is made of “iridescent blue acrylic panels”, and the BIX media facade by realities:united uses 930 individually dimmable fluorescent lamps. The building is nicknamed the “Friendly Alien” and is an example of blob architecture. [Wikipedia: Kunsthaus Graz](https://en.wikipedia.org/wiki/Kunsthaus_Graz)."
+  ],
+  "observed": [
+    "A long, bulging, dark-blue shell sits among steep red tiled roofs. It has no straight edges except at its base.",
+    "The glossy skin reflects the sky in lighter blue patches and is dotted with a regular grid of small light points.",
+    "About fifteen tube-shaped skylights with round, pale openings rise from the top and point in one direction.",
+    "A flat glass box with a thin roof line projects from one end, and a round porthole sits on the side of the shell."
+  ],
+  "interpretation": [
+    "The Kunsthaus is the blobject scaled up to a building: one continuous glossy form in a single saturated color, with technical details (nozzles, pixel lights) added like device parts.",
+    "Its contrast with the old town is the point, in the same way the iMac contrasted with gray office computers."
+  ],
+  "borrow": [
+    "Place one glossy, rounded shape in saturated blue against an old or plain background.",
+    "Overlay a regular grid of small light dots on a curved dark surface to suggest a screen."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Commons photograph is CC BY-SA 2.5, but the building is a recent architectural work by living architects. Austrian freedom of panorama would probably allow exterior photographs; the lead curator can decide whether to store one."
+  }
+}

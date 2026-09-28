@@ -189,32 +189,39 @@
     {
       "metric": "color.chromaticShare",
       "min": 0.6,
-      "note": "Positive marker. Saturated color covers most of the page, not only accents. Other specimens measure 0.48 or less. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Positive marker. Saturated color covers most of the page, not only accents. Other specimens measure 0.48 or less. Provisional: set from the specimen. On 2026-09-28 only 1 of 4 borderline captures passed (dead-and-company-website 0.73); dark photo grounds and image-drawn color fail it. Period posters also vary: screenshot-palette values on scratch scans ranged from 0 (Wilson, pink and gray on white) to 0.9 (Moscoso). Not changed: no clear capture yet."
     },
     {
       "metric": "color.patternShare",
       "min": 0.1,
-      "note": "Positive marker. Concentric rings or ripples fill part of the page. Provisional: real sites often draw patterns as SVG or images, which this metric does not count."
+      "note": "Positive marker. Concentric rings or ripples fill part of the page. Provisional: all 4 captures of 2026-09-28 measure 0, because their rings, ripples, and stipple are images or SVG, which this metric does not count. Judge those by the rubric."
     },
     {
       "metric": "surface.radius.median",
       "min": 20,
-      "note": "Positive marker. Panels, frames, and buttons bulge and curve. Provisional: set from the specimen."
+      "note": "Positive marker. Panels, frames, and buttons bulge and curve. Provisional: set from the specimen. All 4 captures of 2026-09-28 measure 7 or less; real sites put the curves in lettering and imagery, not in box corners. Not changed: none of them is a clear example."
     },
     {
       "metric": "type.centerShare",
       "min": 0.4,
-      "note": "Positive marker. The composition is symmetrical, so much of the text is centered. Provisional: set from the specimen."
+      "note": "Positive marker. The composition is symmetrical, so much of the text is centered. Provisional: set from the specimen. 3 of 4 captures of 2026-09-28 pass (0.77 to 1.0)."
     },
     {
       "metric": "color.hues",
       "min": 4,
-      "note": "Positive marker. Several complementary pairs appear at once. Provisional: many period posters use only two or three inks."
+      "note": "Positive marker. Several complementary pairs appear at once. Provisional: many period posters use only two or three inks (screenshot-palette hues on scratch scans: Wilson 0, Mouse and Kelley 2, Moscoso 7). Captures of 2026-09-28 measure 1 to 5."
     },
     {
       "metric": "color.gradientShare",
       "max": 0.4,
-      "note": "Most color is flat ink. A split-fountain blend may cover a section, but smooth gradients do not carry the page. Provisional: set from the specimen."
+      "note": "Most color is flat ink. A split-fountain blend may cover a section, but smooth gradients do not carry the page. Provisional: set from the specimen. All 4 captures of 2026-09-28 pass (0.04 or less)."
     }
+  ],
+  "synthesis": [
+    "The poster is the core medium. Wes Wilson’s [Otis Rush poster](ref:wes-wilson-otis-rush-grateful-dead-poster-1967) makes lettering into image; Victor Moscoso’s [Neon Rose #2](ref:moscoso-miller-blues-band-matrix-poster-1967) shows the vibrating complements; Mouse and Kelley’s [Skeleton and Roses](ref:skeleton-and-roses-avalon-poster-1966), Rick Griffin’s [Flying Eyeball](ref:flying-eyeball-hendrix-poster-1968), and Bonnie MacLean’s [6 Days of Sound](ref:maclean-six-days-of-sound-poster-1967) show the symmetrical medallion and the Art Nouveau revival. [BG-1](ref:jefferson-airplane-fillmore-poster-1966) shows the Fillmore series before the style formed.",
+    "London added its own branch: Hapshash and the Coloured Coat’s [UFO poster](ref:hapshash-move-pink-floyd-ufo-poster-1967) and [Oz cover](ref:oz-magazine-4-cover-1967), and Martin Sharp’s [Mister Tambourine Man](ref:sharp-mister-tambourine-man-poster-1967). The [San Francisco Oracle](ref:san-francisco-oracle-10-cover-1967) carried the style onto newsprint, [Aoxomoxoa](ref:aoxomoxoa-album-cover-1969) onto record sleeves, and a [1967 photograph](ref:the-source-psychedelic-art-store-1967) shows the posters sold as goods in Washington, D.C.",
+    "The references do not all follow the color rule. Wilson often used two or three soft inks on white, and Family Dog posters often used two inks on cream. Full-sheet vibrating complements are strongest in Moscoso’s and MacLean’s work and in the Oracle. The lettering and the dense, symmetrical composition are the more constant traits.",
+    "Real websites in the style are rare. The four kept captures are borderline: [Dead & Company](ref:dead-and-company-website) (saturated ground, outlined poster lettering), [Hulaween](ref:hulaween-website) (melting wordmark on a dark photo), [Okeechobee](ref:okeechobee-fest-website) (viewport-scale concentric rings), and [The Rock Poster Society](ref:trps-website) (a frame for poster art on a rippling ground). Most festival and band sites checked use dark photo heroes and keep the style only in a logo.",
+    "The measurements miss much of what these sites show. Rings, ripples, and stipple are images or SVG, so `color.patternShare` reads 0 on all four; curves live in lettering, so `surface.radius.median` reads 7 or less. The fingerprint stays specimen-based until clear website examples exist."
   ]
 }

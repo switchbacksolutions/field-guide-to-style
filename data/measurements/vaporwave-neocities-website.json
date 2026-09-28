@@ -1,0 +1,133 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://vaporwave.neocities.org/",
+  "title": "ようこそ",
+  "captured": "2026-09-28T17:17:55.837Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "monospace",
+        "share": 1
+      }
+    ],
+    "baseSize": 12,
+    "maxSize": 24,
+    "sizeRange": 2,
+    "scaleRatio": 1.29,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.06,
+    "monoShare": 1,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.451
+      },
+      {
+        "hex": "#b5f4f4",
+        "share": 0.185
+      },
+      {
+        "hex": "#e881c6",
+        "share": 0.185
+      },
+      {
+        "hex": "#000000",
+        "share": 0.178
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0.12,
+    "lightness": 0.74,
+    "chromaticShare": 0.19,
+    "accentChroma": 0.4,
+    "distinct": 4,
+    "hues": 1,
+    "imageShare": 0.08,
+    "gradientShare": 0.42,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 4,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.25,
+      "medianWidth": 5
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#dd9ad0",
+        "share": 0.19
+      },
+      {
+        "hex": "#c3d5e7",
+        "share": 0.172
+      },
+      {
+        "hex": "#e784c7",
+        "share": 0.168
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.133
+      },
+      {
+        "hex": "#cdc1de",
+        "share": 0.108
+      },
+      {
+        "hex": "#bbe7ee",
+        "share": 0.088
+      },
+      {
+        "hex": "#edeceb",
+        "share": 0.061
+      },
+      {
+        "hex": "#d5add8",
+        "share": 0.037
+      },
+      {
+        "hex": "#e6a067",
+        "share": 0.012
+      },
+      {
+        "hex": "#dd2d18",
+        "share": 0.012
+      }
+    ],
+    "background": "#dd9ad0",
+    "chroma": 0.19,
+    "lightness": 0.8,
+    "chromaticShare": 0.19,
+    "accentChroma": 0.42,
+    "distinct": 8,
+    "hues": 2
+  }
+}

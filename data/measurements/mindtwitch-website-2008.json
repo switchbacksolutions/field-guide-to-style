@@ -1,0 +1,141 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20080309122733if_/http://www.mindtwitch.com/",
+  "title": "Interactive Media Designer | MINDTWITCH Interactive",
+  "captured": "2008-03-09T12:27:38.970Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Trebuchet MS",
+        "share": 0.53
+      },
+      {
+        "family": "Georgia",
+        "share": 0.47
+      }
+    ],
+    "baseSize": 10,
+    "maxSize": 16,
+    "sizeRange": 1.6,
+    "scaleRatio": 1.17,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.53
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#bca787",
+        "share": 0.507
+      },
+      {
+        "hex": "#000000",
+        "share": 0.337
+      },
+      {
+        "hex": "#006699",
+        "share": 0.083
+      },
+      {
+        "hex": "#8c0108",
+        "share": 0.05
+      },
+      {
+        "hex": "#bd000f",
+        "share": 0.024
+      }
+    ],
+    "background": null,
+    "text": "#bca787",
+    "contrast": null,
+    "chroma": 0.2,
+    "lightness": 0.37,
+    "chromaticShare": 0.16,
+    "accentChroma": 0.6,
+    "distinct": 5,
+    "hues": 2,
+    "imageShare": 1,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 2,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 1,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#3b3125",
+        "share": 0.451
+      },
+      {
+        "hex": "#fefdf8",
+        "share": 0.12
+      },
+      {
+        "hex": "#e8dec6",
+        "share": 0.04
+      },
+      {
+        "hex": "#d6c498",
+        "share": 0.038
+      },
+      {
+        "hex": "#c8b587",
+        "share": 0.037
+      },
+      {
+        "hex": "#b1a183",
+        "share": 0.034
+      },
+      {
+        "hex": "#e3d4ad",
+        "share": 0.032
+      },
+      {
+        "hex": "#9e8f75",
+        "share": 0.03
+      },
+      {
+        "hex": "#f2ebd4",
+        "share": 0.029
+      },
+      {
+        "hex": "#c0a568",
+        "share": 0.022
+      }
+    ],
+    "background": "#3b3125",
+    "chroma": 0.13,
+    "lightness": 0.45,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.38,
+    "distinct": 12,
+    "hues": 3
+  }
+}

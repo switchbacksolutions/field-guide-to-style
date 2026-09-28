@@ -1,0 +1,55 @@
+{
+  "id": "newsstand-ios-2011",
+  "title": "Newsstand, iOS 5 and 6",
+  "type": "product",
+  "medium": "app",
+  "lede": "A special iOS folder that showed downloaded magazines and newspapers on wooden shelves.",
+  "summary": "Wooden shelves for magazines and newspapers. Apple, iOS 5 to iOS 8, 2011–2015.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Newsstand_(software)",
+    "label": "Wikipedia: Newsstand (software)"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "Introduced with iOS 5 (October 2011); shelves replaced in iOS 7",
+  "moods": [
+    "familiar",
+    "warm",
+    "crafted"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 960 px copy of [File:Apple Newsstand on iOS 6 on an iPhone 3GS.jpg](https://commons.wikimedia.org/wiki/File:Apple_Newsstand_on_iOS_6_on_an_iPhone_3GS.jpg) (Delicje, 2021, CC BY-SA 4.0), a slightly blurred photo of the empty Newsstand folder on iOS 6. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "Newsstand turned a folder into a shop shelf of light wood, the same bookshelf metaphor as iBooks.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Newsstand “emulated a newsagent’s shop, with virtual shelves that held and presented each newspaper and magazine that had been downloaded.” It was “a visual shelf accessible directly on the iOS home screen, similar in style to iBooks,” available from iOS 5. [Wikipedia: Newsstand (software)](https://en.wikipedia.org/wiki/Newsstand_(software))."
+  ],
+  "observed": [
+    "The open folder shows two shelves of pale, grained wood with a light front lip.",
+    "A pale header strip carries the name “Newsstand” in dark bold type and a small beveled “Store” button.",
+    "The Newsstand icon is a small set of empty wooden shelves in a rounded square.",
+    "An empty-state message sits on the shelf as a pale blue card."
+  ],
+  "interpretation": [
+    "A folder with no physical counterpart is given one: a shop shelf. The material carries the meaning, so the wood covers the full width."
+  ],
+  "borrow": [
+    "Show an empty collection as an empty shelf with a single card on it."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The photograph is CC BY-SA 4.0 by Delicje, but its main subject is Apple’s copyrighted interface. No image is stored here."
+  }
+}

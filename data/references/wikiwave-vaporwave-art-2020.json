@@ -1,0 +1,69 @@
+{
+  "id": "wikiwave-vaporwave-art-2020",
+  "title": "Wikiwave 00000",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A Commons user’s vaporwave collage about Wikipedia: tilted browser windows, a glowing ringed planet, katakana, and a sunset room with a checkered floor.",
+  "summary": "Open-licensed vaporwave collage: floating browser windows, planet, katakana, checkered floor, glitch. 2020.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Wikiwave_00000.png",
+    "label": "Wikimedia Commons: Wikiwave 00000.png"
+  },
+  "creator": {
+    "name": "AtikaAtikawa",
+    "url": "https://commons.wikimedia.org/wiki/User:AtikaAtikawa"
+  },
+  "made": "February 26, 2020",
+  "moods": [
+    "dreamlike",
+    "ironic",
+    "saturated"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1920 × 1554 rendering of the 2100 × 1700 original on Wikimedia Commons and stored a reduced copy."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "A clear, if amateur, example that uses almost every diagnostic: floating software windows, a pink-purple-orange sunset, a checkered floor, katakana, and glitch text. Chosen because it is openly licensed, not because it is canonical.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The file page describes it as “an example of vaporwave art,” made by the uploader and “partially based on” the CC BY-SA images of Wikipe-tan and the Wikipedia logo. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wikiwave_00000.png)."
+  ],
+  "observed": [
+    "Three Wikipedia browser windows float at a steep angle at the upper left, with article titles such as “Where Is My Mind?” and “Thanatos”.",
+    "A yellow ringed planet with pink spots glows at the upper right against a starry violet sky.",
+    "The centre shows a large white serif W, the katakana ウィキペディア above it, and “the surreal encyclopedia” below in widely spaced lowercase.",
+    "A room with dark columns, a glowing cyan pool, and a black-and-violet checkered floor recedes toward an orange sunset.",
+    "Two white-outlined anime girls stand at the left and right edges; “[citation needed]” repeats in cyan, pink, and yellow with scan-line and colour-offset glitches.",
+    "Film grain covers the whole image."
+  ],
+  "interpretation": [
+    "It shows that the style can be applied to any institution by swapping the quoted interface; here the quoted software is Wikipedia’s own skin."
+  ],
+  "borrow": [
+    "Tilt two or three stacked software windows in perspective at a corner of a hero image, so the interface itself becomes collage material."
+  ],
+  "images": [
+    {
+      "file": "assets/references/wikiwave-vaporwave-art-2020.jpg",
+      "alt": "Violet and pink collage with tilted Wikipedia browser windows, a yellow ringed planet, a large white W with katakana above it, anime girls at both sides, a glowing pool on a checkered floor, and glitched “citation needed” text.",
+      "width": 1600,
+      "height": 1295,
+      "kind": "source-image",
+      "caption": "“Wikiwave 00000” by AtikaAtikawa, 2020. CC BY-SA 4.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wikiwave_00000.png).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Wikiwave_00000.png",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Released by the author under CC BY-SA 4.0 on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Wikiwave_00000.png). Based partly on CC BY-SA images of Wikipe-tan and the Wikipedia logo. The Wikipedia marks are trademarks of the Wikimedia Foundation. Credit: AtikaAtikawa."
+  }
+}

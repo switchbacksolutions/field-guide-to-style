@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/leather-notepad-illustration-2013.png",
+  "captured": "2026-09-28T17:34:44+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e2e0e1",
+        "share": 0.34
+      },
+      {
+        "hex": "#683803",
+        "share": 0.168
+      },
+      {
+        "hex": "#8b4d2d",
+        "share": 0.15
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.089
+      },
+      {
+        "hex": "#7b411a",
+        "share": 0.081
+      },
+      {
+        "hex": "#995832",
+        "share": 0.031
+      },
+      {
+        "hex": "#efeeee",
+        "share": 0.021
+      },
+      {
+        "hex": "#c5daea",
+        "share": 0.019
+      },
+      {
+        "hex": "#b0d2ec",
+        "share": 0.019
+      },
+      {
+        "hex": "#d0c1b8",
+        "share": 0.015
+      }
+    ],
+    "background": "#e2e0e1",
+    "chroma": 0.19,
+    "lightness": 0.61,
+    "chromaticShare": 0.46,
+    "accentChroma": 0.39,
+    "distinct": 7,
+    "hues": 2
+  }
+}

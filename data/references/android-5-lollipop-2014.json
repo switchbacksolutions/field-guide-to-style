@@ -1,0 +1,69 @@
+{
+  "id": "android-5-lollipop-2014",
+  "title": "Android 5.0 Lollipop",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "The Android release that shipped Material Design in 2014, rebuilding the system interface around flat color, paper-like dialogs, and ink-colored accents.",
+  "summary": "Android’s 2014 system interface: a white dialog with a soft shadow over a dimmed list, teal accents, and all-capital text buttons.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Android_Lollipop",
+    "label": "Wikipedia: Android Lollipop"
+  },
+  "creator": {
+    "name": "Google and the Android Open Source Project"
+  },
+  "made": "2014 (unveiled 25 June 2014, released 12 November 2014, per Wikipedia)",
+  "moods": [
+    "orderly",
+    "clean",
+    "tactile"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Opened the Wikimedia Commons screenshot *Android proxy settings.png* (a Wi-Fi proxy dialog on Android 5, uploaded by Amrav, 2015) as a 500 × 889 rendering, and an AOSP home-screen screenshot (*Android 5.1-pkp-file-01-08-2024.png*, 960 × 1707 rendering) on 28 September 2026. The home screen still mixes older icons, so the dialog is the stored example."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "The first system-wide release of the style. Its settings dialogs show the elevation, accent color, and text-button rules on a working interface.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: “One of the most prominent changes in the Lollipop release is a redesigned user interface built around a design language known as Material Design, designed to retain a paper-like feel.” Android 5.0 was unveiled at Google I/O on 25 June 2014, its source code was released on 3 November 2014, and the Nexus 6 was the first phone to ship with it. [Wikipedia: Android Lollipop](https://en.wikipedia.org/wiki/Android_Lollipop).",
+    "The same article quotes Matías Duarte: “unlike real paper, our digital material can expand and reform intelligently. Material has physical surfaces and edges. Seams and shadows provide meaning about what you can touch.”"
+  ],
+  "observed": [
+    "A white dialog with square corners floats over a list that the system dims to dark gray. A soft shadow separates the dialog from the list.",
+    "One teal accent colors the checked checkbox, the active text field underline, and the two text buttons, CANCEL and SAVE, which are set in medium all-capital letters with no button outline.",
+    "Text fields are a single underline with a small gray label above. The status bar is black, and the navigation bar shows flat outline glyphs of a triangle, a circle, and a square."
+  ],
+  "interpretation": [
+    "The dialog is the style at its most basic: one opaque sheet at a high elevation, one accent hue, and text buttons instead of boxed buttons. It follows the dialog rules in the [guidelines](ref:material-design-guidelines-2014) exactly."
+  ],
+  "borrow": [
+    "Mark the focused text field and the confirming actions with the same single accent color, and leave every other control gray."
+  ],
+  "images": [
+    {
+      "file": "assets/references/android-5-lollipop-2014.jpg",
+      "alt": "Android phone screenshot: a white dialog titled Guest_User with a checked teal checkbox, Proxy set to Manual, underlined fields for proxy hostname and port, and teal CANCEL and SAVE text buttons, over a dimmed settings list.",
+      "width": 500,
+      "height": 889,
+      "kind": "screenshot",
+      "caption": "Wi-Fi proxy dialog in Android 5 (Lollipop), screenshot by Amrav, 2015, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Android_proxy_settings.png), CC BY-SA 4.0. The interface is Android Open Source Project software under the Apache License 2.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Android_proxy_settings.png",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Borderline tier A, for the curator to confirm. The screenshot is licensed CC BY-SA 4.0 by its uploader, Amrav. The interface shown is not public domain: it is Android Open Source Project code, which Google releases under the Apache License 2.0. The status bar shows a carrier name."
+  },
+  "identifiers": {
+    "wikidata": "Q17305518"
+  }
+}

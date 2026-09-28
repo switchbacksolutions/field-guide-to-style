@@ -1,0 +1,75 @@
+{
+  "id": "van-doesburg-alphabet-1919",
+  "title": "Alphabet in “Stijl letters”",
+  "type": "image",
+  "medium": "typeface",
+  "lede": "Van Doesburg’s capital alphabet of about 1919, built only from thick horizontal and vertical strokes on a square module.",
+  "summary": "Capitals A to Z from thick right-angled strokes, with no curves or diagonals. Theo van Doesburg, about 1919.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Typeface_Theo_van_Doesburg.jpg",
+    "label": "Wikimedia Commons: Theo van Doesburg, Alphabet"
+  },
+  "creator": {
+    "name": "Theo van Doesburg",
+    "url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg"
+  },
+  "made": "About 1919 (Commons, after the Hoek catalogue; the 1968 exhibition dated the photograph 1918–1919)",
+  "moods": [
+    "rectilinear",
+    "heavy",
+    "systematic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons image (3774 × 579 px, viewed at 1920 px), scanned from Joost Baljeu, *Theo van Doesburg* (1974), pp. 108–109. The object is a photograph of the alphabet, 3.5 × 17 cm, in the Centraal Museum Utrecht on loan from the Dutch State (RCE inventory AB5936)."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "The rubric’s rectilinear capitals at their source: every letter is made from horizontal and vertical strokes only.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes the object as “Alfabet in ‘Stijlletters’”, a photograph made in Leiden, inherited by Nelly van Doesburg in 1931 and given to the Dutch State by Wies van Moorsel in 1981. [Commons](https://commons.wikimedia.org/wiki/File:Typeface_Theo_van_Doesburg.jpg).",
+    "The Foundry’s digital typeface [Architype Van Doesburg](https://www.thefoundrytypes.com/fonts/architype-van-doesburg/) revives the alphabet."
+  ],
+  "observed": [
+    "Twenty-six capitals, A to M in the top row and N to Z in the bottom row, in solid black on white.",
+    "Every stroke is horizontal or vertical and of the same thickness; there are no curves or diagonals.",
+    "Letters that normally need diagonals, such as K, M, N, V, W, X, Y, and Z, are rebuilt from right-angled steps.",
+    "Counters are small rectangles; the letters are nearly square and set with narrow gaps.",
+    "Faint text from the facing book page shows through at the right."
+  ],
+  "interpretation": [
+    "The alphabet applies the painting rule to type: no curves and no diagonals. Legibility suffers for letters such as K, X, and Z, which is the known cost of the approach.",
+    "The same letterforms appear in van Doesburg’s [poster design for La Section d’Or](ref:van-doesburg-section-dor-poster-design-1920)."
+  ],
+  "borrow": [
+    "Build display capitals from one stroke weight on a square grid, and replace diagonals with right-angled steps.",
+    "Keep such letters for short words; use a plain sans-serif for running text."
+  ],
+  "images": [
+    {
+      "file": "assets/references/van-doesburg-alphabet-1919.jpg",
+      "alt": "Two rows of black capital letters A to Z on white, each built only from thick horizontal and vertical strokes, with square counters and no curves or diagonals.",
+      "width": 1600,
+      "height": 246,
+      "kind": "source-image",
+      "caption": "Theo van Doesburg, alphabet in Stijl letters, about 1919, as reproduced in Baljeu (1974). Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Typeface_Theo_van_Doesburg.jpg), public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/51/Typeface_Theo_van_Doesburg.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks the image public domain. Van Doesburg died in 1931, so the design is public domain in the Netherlands; made about 1919, it is public domain in the United States under either the pre-1931 publication rule or the life-plus-70 rule. The scan is a plain reproduction of a two-dimensional work."
+  },
+  "identifiers": {
+    "commons": "File:Typeface Theo van Doesburg.jpg",
+    "rce": "AB5936"
+  }
+}

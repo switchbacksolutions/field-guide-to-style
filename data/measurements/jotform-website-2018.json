@@ -1,0 +1,161 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20180901004135if_/https://www.jotform.com/",
+  "title": "Online Form Builder & Form Creator | JotForm",
+  "captured": "2018-09-01T00:41:43.347Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "freight-sans-pro",
+        "share": 0.92
+      },
+      {
+        "family": "-apple-system",
+        "share": 0.08
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 56,
+    "sizeRange": 3.5,
+    "scaleRatio": 1.18,
+    "headingWeight": 500,
+    "bodyWeight": 300,
+    "headingTracking": 0,
+    "uppercaseShare": 0.13,
+    "monoShare": 0,
+    "centerShare": 0.22
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.445
+      },
+      {
+        "hex": "#81c564",
+        "share": 0.181
+      },
+      {
+        "hex": "#4ea1ff",
+        "share": 0.169
+      },
+      {
+        "hex": "#000000",
+        "share": 0.105
+      },
+      {
+        "hex": "#3c3c3c",
+        "share": 0.042
+      },
+      {
+        "hex": "#1b83f7",
+        "share": 0.021
+      },
+      {
+        "hex": "#a2a2a2",
+        "share": 0.018
+      },
+      {
+        "hex": "#f2f2f2",
+        "share": 0.008
+      },
+      {
+        "hex": "#73bb54",
+        "share": 0.003
+      },
+      {
+        "hex": "#5aa839",
+        "share": 0.003
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0.21,
+    "lightness": 0.71,
+    "chromaticShare": 0.38,
+    "accentChroma": 0.55,
+    "distinct": 6,
+    "hues": 2,
+    "imageShare": 0.29,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 27,
+    "radius": {
+      "median": 0,
+      "max": 10,
+      "roundShare": 0.26
+    },
+    "border": {
+      "share": 0.26,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.19,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#82c564",
+        "share": 0.383
+      },
+      {
+        "hex": "#4ea1ff",
+        "share": 0.364
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.065
+      },
+      {
+        "hex": "#1c82f8",
+        "share": 0.027
+      },
+      {
+        "hex": "#3b487a",
+        "share": 0.014
+      },
+      {
+        "hex": "#3e413f",
+        "share": 0.014
+      },
+      {
+        "hex": "#a2d0f3",
+        "share": 0.013
+      },
+      {
+        "hex": "#d2d9d8",
+        "share": 0.011
+      },
+      {
+        "hex": "#eb7e4a",
+        "share": 0.011
+      },
+      {
+        "hex": "#59a939",
+        "share": 0.011
+      }
+    ],
+    "background": "#82c564",
+    "chroma": 0.47,
+    "lightness": 0.64,
+    "chromaticShare": 0.85,
+    "accentChroma": 0.54,
+    "distinct": 4,
+    "hues": 5
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "mindtwitch-website-2008",
+  "title": "Mindtwitch Interactive website, 2008",
+  "type": "website",
+  "medium": "website",
+  "lede": "A 2008 portfolio site for interactive designer Michael Boucher, dressed in aged paper, rusted metal, torn edges, and stencil tabs.",
+  "summary": "Stained parchment panels with torn edges on dark leather, rusty bands, red stencil tabs, and a taped photograph.",
+  "source": {
+    "url": "http://www.mindtwitch.com/",
+    "label": "mindtwitch.com (Wayback Machine, March 2008)",
+    "archive": "https://web.archive.org/web/20080309122733/http://www.mindtwitch.com/"
+  },
+  "creator": {
+    "name": "Michael Boucher (MINDTWITCH Interactive)"
+  },
+  "made": "2008 (Wayback capture of 9 March 2008)",
+  "moods": [
+    "dirty",
+    "handmade",
+    "rustic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 from the Wayback Machine copy of 9 March 2008, and inspected. Nothing covers the page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "grunge-typography",
+      "note": "Borderline: a clear example of later grunge web surfaces (stains, torn paper, rust, tape), but its HTML type is clean Georgia and Trebuchet, with damage only in image headings.",
+      "basis": "agent",
+      "qualifier": "borderline"
+    }
+  ],
+  "context": [
+    "Smashing Magazine’s March 2008 article “The Secrets of Grunge Design” links mindtwitch.com among its examples. [Smashing Magazine](https://www.smashingmagazine.com/2008/03/the-secrets-of-grunge-design/)."
+  ],
+  "observed": [
+    "The page sits on a dark brown leather texture. The central column is made of stained, yellowed parchment with torn, curled edges.",
+    "A frayed cloth and paper strip at the top carries the “mindtwitch” wordmark with a red star and the tagline “CREATIVELY TWISTED”.",
+    "Navigation tabs are dark red with beige stencil capitals (“CREATIONS”, “EXPERIENCE”, “THE BLOG”).",
+    "A rusted metal band runs across the page below the tabs and again at the foot.",
+    "A photograph of a figure in a gas mask is mounted in a white frame held by strips of tape.",
+    "The heading “Creations” is a red brush script over a faded, larger copy of itself; body text is a plain serif list in black, blue, and red."
+  ],
+  "interpretation": [
+    "The measurement finds only two families (Trebuchet MS and Georgia) and no pattern share, because every texture is a bitmap image (image share 1.0). This is typical of 2000s grunge web design: surfaces carry the style, and HTML type stays conventional."
+  ],
+  "borrow": [
+    "Tear the edges of a content panel with an image mask and let a faded, oversized copy of the heading sit behind the heading."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mindtwitch-website-2008.jpg",
+      "alt": "Mindtwitch home page from 2008: a stained parchment column with torn edges on dark leather, red navigation tabs with stencil lettering, a rusty metal band, a taped photograph of a person in a gas mask, and a red script heading Creations over a list of services.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [Wayback Machine copy of mindtwitch.com, March 2008](https://web.archive.org/web/20080309122733/http://www.mindtwitch.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s author. Screenshot captured for commentary."
+  }
+}

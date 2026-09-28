@@ -1,0 +1,54 @@
+{
+  "id": "ios-7-interface",
+  "title": "iOS 7 interface",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "Apple’s 2013 flat redesign, whose blurred Control Center and Notification Center panels Malewicz names as the start of background blur.",
+  "summary": "The 2013 iPhone redesign that brought translucent, blurred layers to a mass-market interface.",
+  "source": {
+    "url": "https://www.apple.com/newsroom/2013/06/10Apple-Unveils-iOS-7/",
+    "label": "Apple Newsroom, June 10, 2013"
+  },
+  "creator": {
+    "name": "Apple (design team led by Jony Ive)",
+    "url": "https://www.apple.com/"
+  },
+  "made": "2013 (announced June 10, 2013; released September 18, 2013, per Wikipedia)",
+  "moods": [
+    "airy",
+    "layered"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Relies on the Apple press release and on Malewicz’s text. The archived press release has no images, and the Wikipedia screenshots are non-free and below 800 px (237 × 420 and 365 × 274), so they were not used for observation."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "glassmorphism",
+      "note": "Precursor. Malewicz writes that background blur “was first widely introduced in 2013 with iOS 7”.",
+      "basis": "agent",
+      "qualifier": "precursor"
+    }
+  ],
+  "context": [
+    "Apple’s press release: iOS 7 has “distinct, functional layers”, and “the use of translucency and motion makes even simple tasks more engaging”. It introduced Control Center and a Notification Center available from the Lock screen. [Apple Newsroom](https://www.apple.com/newsroom/2013/06/10Apple-Unveils-iOS-7/).",
+    "Malewicz: background blur “was first widely introduced in 2013 with iOS 7”, and pulling down notifications showed icons that “fade out and blur under the new panel”. He adds that Apple later “greatly reduced the blurry-glass effect” on mobile. [Malewicz 2020](ref:malewicz-glassmorphism-article-2020).",
+    "Wikipedia credits the design to a team led by Jony Ive and describes flatter icons and new animations. [Wikipedia: iOS 7](https://en.wikipedia.org/wiki/IOS_7)."
+  ],
+  "interpretation": [
+    "iOS 7 joined translucent blur to [flat design](style:flat-design). Glassmorphism keeps that pairing: flat content on a frosted layer."
+  ],
+  "next": [
+    "Find an openly licensed or official high-resolution image of the iOS 7 Control Center and upgrade the evidence level."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple software; copyrighted. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q13426339"
+  }
+}

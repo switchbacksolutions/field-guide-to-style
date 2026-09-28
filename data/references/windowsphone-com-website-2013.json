@@ -1,0 +1,66 @@
+{
+  "id": "windowsphone-com-website-2013",
+  "title": "Windows Phone website, 2013",
+  "type": "website",
+  "medium": "website",
+  "lede": "Full-width bands of cyan and orange with white type, below a white header with the purple Windows Phone mark.",
+  "summary": "Cyan hero band and orange offer band in solid color, with white text and circled-arrow links. September 2013.",
+  "source": {
+    "url": "http://www.windowsphone.com/en-US",
+    "label": "windowsphone.com, Windows Phone home page",
+    "archive": "https://web.archive.org/web/20130915004859/http://www.windowsphone.com/en-US"
+  },
+  "creator": {
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com/"
+  },
+  "made": "2013",
+  "moods": [
+    "bright",
+    "direct",
+    "commercial"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 from the Wayback Machine copy of 15 September 2013, and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. Nothing covers the page. Segoe UI is not installed on the capture machine, so text that the archive did not serve as a web font renders in a fallback sans-serif."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "Clear: stacked full-width bands of solid cyan and orange carry white text, links are text with circled arrows, and nothing has a border, shadow, or gradient.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A white header holds the purple four-pane Windows Phone mark, plain black navigation words, and a pale gray search field.",
+    "A full-width cyan band holds the headline “Meet the Nokia Lumia 1020: 41 megapixels and reinvented zoom” in white, a short white paragraph, and a “See the details” link with a circled arrow.",
+    "A product photo of two bright yellow phones sits on the cyan band. The phone screen shows square Metro tiles.",
+    "Below it, a full-width orange band carries a white offer line and a “Buy now” link with a circled arrow.",
+    "A concert photograph fills the band below."
+  ],
+  "interpretation": [
+    "Measured: 63% of screenshot pixels are saturated, in 3 hue groups; 7% of boxes have a 1 px border and none has a shadow or gradient. Large headings measure weight 400.",
+    "The page is a plain stack of color bands. The only interactive cue is the circled-arrow glyph after each link."
+  ],
+  "borrow": [
+    "Stack full-width solid bands of different saturated hues, and put white text directly on them without panels or cards."
+  ],
+  "images": [
+    {
+      "file": "assets/references/windowsphone-com-website-2013.jpg",
+      "alt": "Windows Phone home page of September 2013: white header with purple logo, a full-width cyan band with white headline about the Nokia Lumia 1020 and a photo of yellow phones, and a full-width orange band with a white offer and Buy now link.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [Wayback Machine copy of windowsphone.com, 15 September 2013](https://web.archive.org/web/20130915004859/http://www.windowsphone.com/en-US).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot of an archived copy, captured for commentary."
+  }
+}

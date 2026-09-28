@@ -1,0 +1,62 @@
+{
+  "id": "greiman-your-turn-my-turn-poster-1983",
+  "title": "Your Turn My Turn poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "April Greiman’s 3-D poster for a furniture design symposium at the Pacific Design Center: red and cyan type, dot screens, and wedges in a tilted, layered field.",
+  "summary": "Tilted “Your Turn My Turn” in red and cyan offsets, dot-screen panels, yellow wedges, and a spaced “1 9 8 3”. April Greiman, 1983.",
+  "source": {
+    "url": "https://peoplesgdarchive.org/item/738/your-turn-my-turn-pacific-design-center-event",
+    "label": "People’s Graphic Design Archive: Your Turn My Turn, Pacific Design Center event"
+  },
+  "creator": {
+    "name": "April Greiman",
+    "url": "https://www.wikidata.org/wiki/Q4782033"
+  },
+  "made": "1983 (People’s Graphic Design Archive; the poster is dated © 1983)",
+  "moods": [
+    "kinetic",
+    "rebellious",
+    "layered",
+    "experimental"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the People’s Graphic Design Archive image (1440 × 2188), a flat photograph of one copy; the owner is not stated. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "new-wave-typography",
+      "note": "Clear example. It has almost every trait in the rubric: tilted and stepped lines, dot screens, overlapping layers, wedges and bars, and spaced numerals.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The People’s Graphic Design Archive lists the poster as offset lithography, 24 × 36 in, for PDC2 Pacific Design Center / Westweek, and says it was a 3-D poster issued with glasses. [People’s Graphic Design Archive](https://peoplesgdarchive.org/item/738/your-turn-my-turn-pacific-design-center-event), [second record](https://peoplesgdarchive.org/item/1422/your-turn-my-turn-3-d-poster).",
+    "The poster names the event “The International Contract Furniture Design Symposium during WestWeek”, 18 and 19 March, Pacific Design Center, Los Angeles."
+  ],
+  "observed": [
+    "“Your Turn” and “My Turn” are set in a heavy italic grotesque at a slight tilt, each letter printed twice in dark red and cyan with an offset, as in anaglyph 3-D.",
+    "Small copies of “turn” and “you” float upside down and mirrored around the main words.",
+    "A panel of coarse dark-red dot screen fills the upper left. A field of red, white, and cyan spray dots spreads over a dark panel at the right.",
+    "Yellow and blue wedges and a black diagonal band cross the sheet. A red-grey photograph of the Earth sits at the lower left.",
+    "“1  9  8  3” is set as separate numerals stepping up across the dark panel.",
+    "Sponsor lists are set small on a yellow panel at an angle; the event details at the lower left are flush left in blue and pink italics, each line stepped to the right.",
+    "“P D C 2” sits in small separate squares at the top left."
+  ],
+  "interpretation": [
+    "The poster shows how Greiman’s California work adds colour and depth to Weingart’s structure: the dot screens and wedges stay, but the palette moves to cyan, pink, and yellow, and the overprint becomes a literal 3-D effect."
+  ],
+  "borrow": [
+    "Print a display word twice in two colours with a small offset.",
+    "Space out a year into single numerals that step across a panel.",
+    "Tilt a small-print list as a block and keep its lines parallel to the panel edge."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. April Greiman is living, so the design is in copyright. The photograph’s owner is not stated."
+  }
+}

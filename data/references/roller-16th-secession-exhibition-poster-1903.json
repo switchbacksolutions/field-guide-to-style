@@ -1,0 +1,76 @@
+{
+  "id": "roller-16th-secession-exhibition-poster-1903",
+  "title": "Poster for the 16th Secession exhibition",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Alfred Roller’s poster of 1903 packs heavy, rounded capitals into a solid block under a field of repeated three-part emblems.",
+  "summary": "Heavy black capitals packed into a block, with long black strokes and a repeated red three-shield emblem. Alfred Roller, Vienna, 1903.",
+  "source": {
+    "url": "https://onlinecollection.leopoldmuseum.org/en/object/1246-poster-for-the-16th-exhibition-at-the-vienna-secession/",
+    "label": "Leopold Museum Online Collection: Poster for the 16th Exhibition at the Vienna Secession, Inv. 3027"
+  },
+  "creator": {
+    "name": "Alfred Roller",
+    "url": "https://en.wikipedia.org/wiki/Alfred_Roller"
+  },
+  "made": "1902/03 (signed and dated 1903 on the stone)",
+  "moods": [
+    "bold",
+    "geometric",
+    "dense"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Leopold Museum photograph of its copy, Inv. 3027 (992 × 3017 px), which is not open for download. The stored image is a smaller Commons scan from a printed reproduction (459 × 1359 px); its red is more saturated than the salmon red of the Leopold copy."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "Clear for lettering and pattern: capitals packed into a solid block, a repeated three-part emblem, and black with one accent colour. The long curved strokes from the S of SECESSION keep a trace of the early curvilinear phase.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Leopold Museum records the poster as designed by Alfred Roller and printed in colour lithography by Albert Berger, Vienna, 1902/03, 95 × 31.4 cm, signed and dated “ALFRED ROLLER.1903” on the stone. Its text says Roller combined simplifying flat stylization with a high degree of ornamental abstraction, and that distorted lettering was typical of Viennese posters around 1900. [Leopold Museum Inv. 3027](https://onlinecollection.leopoldmuseum.org/en/object/1246-poster-for-the-16th-exhibition-at-the-vienna-secession/).",
+    "Alfred Roller (1864–1935) was an Austrian painter, graphic designer, and set designer, and a member of the Vienna Secession. [Wikipedia: Alfred Roller](https://en.wikipedia.org/wiki/Alfred_Roller)."
+  ],
+  "observed": [
+    "The poster is tall and narrow, on cream paper inside a thin black frame.",
+    "“SECESSION” runs across the top in black letters; the descending strokes of its S letters continue as three long black curves that sweep down through most of the height.",
+    "Behind the curves, a regular grid of red emblems repeats: each emblem is three small shield or pentagon shapes, two above and one below.",
+    "The lower third is a dense block of heavy, rounded black capitals: “16. AUSSTELLUNG / D. VEREINIGUNG / BILD. KÜNSTLER / ÖSTERREICHS”, then three lines with the months “JÄNNER FEBRUAR 1903”, the daily opening hours, and “EINTRITT 1 KRONE”, and “VER SACRUM 6. JAHR”.",
+    "The letters are packed with almost no space between them and are stretched so that each line is full width; spirals fill the ends of short lines.",
+    "Small red rectangles mark the divisions between the text blocks."
+  ],
+  "interpretation": [
+    "Roller turns the text into a texture: the lettering block reads first as a black field and only then as words. It is the strongest example of the style’s tight, block-filling capitals.",
+    "The three-part emblem repeats the Secession habit of grouping three small squares or shields as a mark."
+  ],
+  "borrow": [
+    "Set a short, important text block in heavy capitals with minimal spacing so it reads as one black shape.",
+    "Repeat a small three-part emblem on a regular grid as a quiet background pattern in one accent colour."
+  ],
+  "images": [
+    {
+      "file": "assets/references/roller-16th-secession-exhibition-poster-1903.jpg",
+      "alt": "Tall poster on cream paper: the word Secession across the top, three long black curves falling from its S letters over a grid of small red three-shield emblems, and a dense block of heavy black capitals with the exhibition details at the bottom.",
+      "width": 459,
+      "height": 1359,
+      "kind": "source-image",
+      "caption": "Alfred Roller, poster for the 16th exhibition of the Vienna Secession, 1903. Scan from a printed reproduction by Luc Devroye, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Alfred_Roller_Poster_Secession_XVI.png), public domain (PD-Art). Colours differ from the original.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/06/Alfred_Roller_Poster_Secession_XVI.png",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The Commons file carries the PD-Art template. Alfred Roller died in 1935, and the poster was published in 1903, so the work is in the public domain in Austria and in the United States. The Leopold Museum’s photograph is not released for download and is not stored."
+  },
+  "identifiers": {
+    "leopold": "3027",
+    "commons": "File:Alfred Roller Poster Secession XVI.png"
+  }
+}

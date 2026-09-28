@@ -1,0 +1,141 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.francogrignani.info/",
+  "title": "Franco Grignani – the first blog about the man and the artist",
+  "captured": "2026-09-28T17:44:50.455Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "FormaDJRMicro",
+        "share": 1
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 24,
+    "sizeRange": 1.71,
+    "scaleRatio": 1.31,
+    "headingWeight": 600,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.758
+      },
+      {
+        "hex": "#1f1f29",
+        "share": 0.183
+      },
+      {
+        "hex": "#dddddd",
+        "share": 0.051
+      },
+      {
+        "hex": "#666666",
+        "share": 0.004
+      },
+      {
+        "hex": "#4b4b4b",
+        "share": 0.002
+      },
+      {
+        "hex": "#7f7f7f",
+        "share": 0.001
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#1f1f29",
+    "contrast": 16.3,
+    "chroma": 0.01,
+    "lightness": 0.83,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 3,
+    "hues": 0,
+    "imageShare": 0.41,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 32,
+    "radius": {
+      "median": 4,
+      "max": 20,
+      "roundShare": 1
+    },
+    "border": {
+      "share": 0.72,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.16,
+      "hardShare": 0,
+      "medianBlur": 5,
+      "medianOffset": 0
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.539
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.135
+      },
+      {
+        "hex": "#101010",
+        "share": 0.073
+      },
+      {
+        "hex": "#5c5c5b",
+        "share": 0.023
+      },
+      {
+        "hex": "#f3f3f3",
+        "share": 0.022
+      },
+      {
+        "hex": "#7f7c7b",
+        "share": 0.022
+      },
+      {
+        "hex": "#494949",
+        "share": 0.021
+      },
+      {
+        "hex": "#2b2b2b",
+        "share": 0.02
+      },
+      {
+        "hex": "#393939",
+        "share": 0.019
+      },
+      {
+        "hex": "#6d6c6a",
+        "share": 0.019
+      }
+    ],
+    "background": "#000000",
+    "chroma": 0,
+    "lightness": 0.27,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 8,
+    "hues": 0
+  }
+}

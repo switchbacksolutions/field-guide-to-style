@@ -1,0 +1,69 @@
+{
+  "id": "windowsazure-com-website-2013",
+  "title": "Windows Azure website, 2013",
+  "type": "website",
+  "medium": "website",
+  "lede": "Microsoft’s cloud site in full Metro dress: a faceted blue hero, large light tabs, and three solid color tiles.",
+  "summary": "Orange, magenta, and purple tiles with white text under a cyan faceted hero, and a lime-green call to action. February 2013.",
+  "source": {
+    "url": "http://www.windowsazure.com/en-us/",
+    "label": "windowsazure.com, Windows Azure home page",
+    "archive": "https://web.archive.org/web/20130214051149/http://www.windowsazure.com/en-us/"
+  },
+  "creator": {
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com/"
+  },
+  "made": "2013",
+  "moods": [
+    "bright",
+    "clean",
+    "corporate"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 from the Wayback Machine copy of 14 February 2013, and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. Nothing covers the page. Segoe UI is not installed on the capture machine, so text that the archive did not serve as a web font renders in a fallback sans-serif. A capture of the 31 May 2013 copy showed a blank hero and was deleted."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "Clear: square-cornered solid tiles in orange, magenta, and purple, a lime button, and a cyan hero, with large light lowercase tabs and no outlines.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "The address now leads to Microsoft Azure, which has a different design.",
+  "observed": [
+    "A dark slate top bar holds the Windows Azure wordmark and a square PORTAL button.",
+    "Under small uppercase gray navigation, three large lowercase tabs read welcome, features, and case studies. The active tab is cyan.",
+    "A cyan square with the words “Free trial” and a white circled arrow fills the top right corner.",
+    "The hero is a field of blue and cyan triangular facets. The headline “A rock-solid cloud platform for blue-sky thinking” is large white type, next to a lime-green “try it free” rectangle.",
+    "Three square-cornered tiles in orange, magenta, and dark purple each hold a white title, one short line, and a white circled arrow.",
+    "The footer is plain gray link columns on white, divided by thin gray rules."
+  ],
+  "interpretation": [
+    "Measured: 26% of screenshot pixels are saturated, in 3 hue groups; no box has rounded corners, and 17% of boxes have a 1 px border. The computed-style color share is only 0.03, because the tiles and hero are drawn in ways the extractor does not count as filled boxes. The white page frame casts one large soft shadow (85 px blur), so the capture fails the shadow range.",
+    "Each facet in the hero is a single flat tint, so the hero suggests depth without a gradient."
+  ],
+  "borrow": [
+    "Use a row of three equal solid tiles, each a different saturated hue, with a white title and a circled-arrow glyph as the only signifier.",
+    "Set secondary navigation as large, light, lowercase words, with the active word in the accent color."
+  ],
+  "images": [
+    {
+      "file": "assets/references/windowsazure-com-website-2013.jpg",
+      "alt": "Windows Azure home page of 2013: a dark top bar, large lowercase tabs, a cyan square Free trial button, a blue faceted hero with white headline and lime try it free button, and orange, magenta, and purple tiles titled Features, Tools & Resources, and Pricing.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [Wayback Machine copy of windowsazure.com, 14 February 2013](https://web.archive.org/web/20130214051149/http://www.windowsazure.com/en-us/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot of an archived copy, captured for commentary."
+  }
+}

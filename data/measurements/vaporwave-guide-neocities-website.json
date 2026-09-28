@@ -1,0 +1,129 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://thevaporwaveguide.neocities.org/",
+  "title": "Hub | Vaporwave Guide",
+  "captured": "2026-09-28T17:15:20.157Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Verdana",
+        "share": 1
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 32,
+    "sizeRange": 2,
+    "scaleRatio": 1.44,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 1
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#fa7fbd",
+        "share": 0.801
+      },
+      {
+        "hex": "#0000ee",
+        "share": 0.11
+      },
+      {
+        "hex": "#aaedad",
+        "share": 0.089
+      }
+    ],
+    "background": "#fa7fbd",
+    "text": "#0000ee",
+    "contrast": 4,
+    "chroma": 0.51,
+    "lightness": 0.71,
+    "chromaticShare": 0.91,
+    "accentChroma": 0.54,
+    "distinct": 3,
+    "hues": 2,
+    "imageShare": 0.2,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 0,
+    "radius": {
+      "median": null,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#fa80bd",
+        "share": 0.799
+      },
+      {
+        "hex": "#c987a9",
+        "share": 0.024
+      },
+      {
+        "hex": "#cca495",
+        "share": 0.014
+      },
+      {
+        "hex": "#c98993",
+        "share": 0.013
+      },
+      {
+        "hex": "#c6bb9a",
+        "share": 0.012
+      },
+      {
+        "hex": "#06057f",
+        "share": 0.009
+      },
+      {
+        "hex": "#92858e",
+        "share": 0.009
+      },
+      {
+        "hex": "#e894b7",
+        "share": 0.009
+      },
+      {
+        "hex": "#c7c3b9",
+        "share": 0.008
+      },
+      {
+        "hex": "#3e4129",
+        "share": 0.008
+      }
+    ],
+    "background": "#fa80bd",
+    "chroma": 0.43,
+    "lightness": 0.71,
+    "chromaticShare": 0.85,
+    "accentChroma": 0.48,
+    "distinct": 2,
+    "hues": 5
+  }
+}

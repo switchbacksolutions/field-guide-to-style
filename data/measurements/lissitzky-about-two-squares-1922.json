@@ -1,0 +1,45 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lissitzky-about-two-squares-1922.jpg",
+  "captured": "2026-09-28T17:52:22+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f0e5c7",
+        "share": 0.866
+      },
+      {
+        "hex": "#df7654",
+        "share": 0.088
+      },
+      {
+        "hex": "#2c2c21",
+        "share": 0.017
+      },
+      {
+        "hex": "#e7dbbb",
+        "share": 0.012
+      },
+      {
+        "hex": "#c9bda2",
+        "share": 0.008
+      },
+      {
+        "hex": "#a29e89",
+        "share": 0.007
+      },
+      {
+        "hex": "#626051",
+        "share": 0.001
+      }
+    ],
+    "background": "#f0e5c7",
+    "chroma": 0.19,
+    "lightness": 0.82,
+    "chromaticShare": 0.09,
+    "accentChroma": 0.55,
+    "distinct": 2,
+    "hues": 1
+  }
+}

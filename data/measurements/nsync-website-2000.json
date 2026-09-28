@@ -1,0 +1,116 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20000815052750if_/http://www.nsync.com/",
+  "title": "Welcome to NSYNC.com, the Official WebSite",
+  "captured": "2000-08-15T05:27:57.258Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [],
+    "baseSize": null,
+    "maxSize": null,
+    "sizeRange": null,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": null,
+    "headingTracking": null,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 1
+      }
+    ],
+    "background": "#ffffff",
+    "text": null,
+    "contrast": null,
+    "chroma": 0,
+    "lightness": 1,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 1,
+    "hues": 0,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 0,
+    "radius": {
+      "median": null,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#006599",
+        "share": 0.681
+      },
+      {
+        "hex": "#0066cb",
+        "share": 0.207
+      },
+      {
+        "hex": "#0552a5",
+        "share": 0.012
+      },
+      {
+        "hex": "#1085d0",
+        "share": 0.01
+      },
+      {
+        "hex": "#064890",
+        "share": 0.009
+      },
+      {
+        "hex": "#34478f",
+        "share": 0.009
+      },
+      {
+        "hex": "#2a73cb",
+        "share": 0.007
+      },
+      {
+        "hex": "#4990cb",
+        "share": 0.006
+      },
+      {
+        "hex": "#1e58a6",
+        "share": 0.006
+      },
+      {
+        "hex": "#51455b",
+        "share": 0.006
+      }
+    ],
+    "background": "#006599",
+    "chroma": 0.62,
+    "lightness": 0.34,
+    "chromaticShare": 0.97,
+    "accentChroma": 0.64,
+    "distinct": 2,
+    "hues": 2
+  }
+}

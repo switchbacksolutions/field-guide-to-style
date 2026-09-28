@@ -187,18 +187,18 @@
       "metric": "color.hues",
       "min": 1,
       "max": 1,
-      "note": "Positive marker: red is the one strong hue; black, paper, and tints do not count. A second hue points to Pop Art, a triad to Bauhaus or De Stijl. Multicolor posters such as the Stenberg brothers’ fall outside this range. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Positive marker: red is the one strong hue; black, paper, and tints do not count. A second hue points to Pop Art, a triad to Bauhaus or De Stijl. Checked on 28 September 2026: image measurements find exactly one hue in all six stored print references and in all three kept website captures. The Stenberg brothers’ multicolor film posters are the documented exception and fall outside this range."
     },
     {
       "metric": "color.chromaticShare",
       "min": 0.08,
       "max": 0.6,
-      "note": "Positive marker: red covers real area as bands, wedges, and blocks, not only as an accent line. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Positive marker: red covers real area as bands, wedges, and blocks, not only as an accent line. Print references measure 0.05–0.12 on paper grounds; the red-ground Veshch cover measures 0.69, above the maximum. Websites from before about 2010 draw their red bars as images, which computed styles do not see. Not recalibrated: only one clear website capture exists. Provisional."
     },
     {
       "metric": "type.uppercaseShare",
       "min": 0.35,
-      "note": "Positive marker: headings, labels, buttons, and slogans are set in capitals. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Positive marker: headings, labels, buttons, and slogans are set in capitals. The kept 2006 and 2010 captures set their capitals in images, so they measure 0.06–0.11. Provisional: set from the specimen; too few clear captures to recalibrate."
     },
     {
       "metric": "type.headingWeight",
@@ -220,5 +220,12 @@
       "max": 0.05,
       "note": "No depth effects."
     }
+  ],
+  "synthesis": [
+    "El Lissitzky’s printed work defines the grammar: the [Red Wedge poster](ref:lissitzky-beat-the-whites-red-wedge-poster), the [Veshch cover](ref:lissitzky-veshch-cover-1922), [About Two Squares](ref:lissitzky-about-two-squares-1922), and [Dlia golosa](ref:lissitzky-dlia-golosa-1923) share one red, black, paper, a steep bar or wedge, a circle, and letters built from bars. Rodchenko’s [Lef cover](ref:rodchenko-lef-journal-cover-1924) shows the same palette without a diagonal.",
+    "Photomontage takes over after about 1924: Lissitzky’s [Zurich poster](ref:lissitzky-russische-ausstellung-poster-1929), Klutsis’s [election poster](ref:klutsis-everyone-vote-poster-1930), and Kulagina’s [1905 poster](ref:kulagina-1905-road-to-october-poster) cut black-and-white photographs into red fields and diagonals. The [Stenberg film poster](ref:stenberg-man-with-a-movie-camera-poster-1929) keeps the rotation and capitals but is multicolored, the style’s known exception.",
+    "The textiles of [Popova](ref:popova-stars-in-circles-textile-design) and [Stepanova](ref:stepanova-printed-flannel-1924) carry the geometry into industrial production without type. Stepanova’s swatch uses a muted red and olive, so the strict red-and-black rule belongs to print.",
+    "Image measurements support `color.hues = 1`: all six stored print references measure one hue. Chromatic area ranges from 5% on paper grounds to 69% on the red-ground [Veshch cover](ref:lissitzky-veshch-cover-1922), so full red fields, as in Klutsis, exceed the website range.",
+    "Real websites in the style are rare. The clearest is the [Franz Ferdinand site of 2006](ref:franz-ferdinand-website-2006), made for the band’s Rodchenko-based album; Shepard Fairey’s [Obey Giant](ref:obeygiant-website) and its [2010 version](ref:obeygiant-website-2010) are borderline. The two older sites draw their red bars and capitals as images, so the computed fingerprint fails them on `color.chromaticShare` and `type.uppercaseShare`; judge them by the rubric. About 35 other sites were captured and dropped: theatres, museums, publishers, and left-wing media with a red accent but no constructivist composition."
   ]
 }

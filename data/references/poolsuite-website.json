@@ -1,0 +1,55 @@
+{
+  "id": "poolsuite-website",
+  "title": "Poolsuite",
+  "type": "website",
+  "medium": "website",
+  "lede": "A web radio and lifestyle brand that frames its player as a classic Mac window on a pale pink desktop.",
+  "summary": "Pale pink desktop, classic Mac-style player window with TV static, and a dock of pixel icons.",
+  "source": {
+    "url": "https://poolsuite.net/",
+    "label": "poolsuite.net"
+  },
+  "moods": [
+    "sunny",
+    "retro",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Borderline: pastel pink, square retro-OS windows, TV static, and a 1997 clock match the style, but the source is summer and classic Mac leisure culture, with no statues, gradients, or Japanese text. The brand does not call itself vaporwave on this page.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The desktop is flat pale pink with a faint dot texture.",
+    "A cream window with a thin black outline, a close box, and the POOLSUITE wordmark frames a video area showing black-and-white TV static and a file name “commercials_88.wmv”.",
+    "Below the video, a now-playing panel and square transport buttons in pale blue and pink.",
+    "A dock of square buttons with small pixel icons (a cocktail, a CD, a camera, a sunscreen bottle) runs along the bottom; a clock at the top right reads MON 28 SEP 1997."
+  ],
+  "interpretation": [
+    "The measurement finds hard shadows on 60% of boxes and zero radius, but a median offset of 11 px, because the main window casts a large offset shadow rather than a thin bevel."
+  ],
+  "images": [
+    {
+      "file": "assets/references/poolsuite-website.jpg",
+      "alt": "Poolsuite home page: a cream classic-Mac-style player window showing TV static on a pale pink desktop, with square transport buttons and a dock of pixel icons along the bottom.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [poolsuite.net](https://poolsuite.net/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

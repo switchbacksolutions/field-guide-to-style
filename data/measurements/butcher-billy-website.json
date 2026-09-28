@@ -1,0 +1,145 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.butcherbilly.com/",
+  "title": "Butcher Billy | Selected Cuts",
+  "captured": "2026-09-28T17:35:26.960Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Maven Pro",
+        "share": 1
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 32,
+    "sizeRange": 2,
+    "scaleRatio": 1.23,
+    "headingWeight": 900,
+    "bodyWeight": 200,
+    "headingTracking": 0.042,
+    "uppercaseShare": 0.1,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.881
+      },
+      {
+        "hex": "#eeee22",
+        "share": 0.037
+      },
+      {
+        "hex": "#28d4ff",
+        "share": 0.035
+      },
+      {
+        "hex": "#000000",
+        "share": 0.034
+      },
+      {
+        "hex": "#686868",
+        "share": 0.008
+      },
+      {
+        "hex": "#585858",
+        "share": 0.003
+      },
+      {
+        "hex": "#e91d37",
+        "share": 0.003
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#ffffff",
+    "contrast": 1,
+    "chroma": 0.06,
+    "lightness": 0.93,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.82,
+    "distinct": 4,
+    "hues": 2,
+    "imageShare": 0.87,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 12,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0.17,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 1
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#010001",
+        "share": 0.24
+      },
+      {
+        "hex": "#fefefe",
+        "share": 0.08
+      },
+      {
+        "hex": "#ee4127",
+        "share": 0.062
+      },
+      {
+        "hex": "#fdd1bf",
+        "share": 0.049
+      },
+      {
+        "hex": "#043296",
+        "share": 0.043
+      },
+      {
+        "hex": "#f9e820",
+        "share": 0.038
+      },
+      {
+        "hex": "#dc1820",
+        "share": 0.03
+      },
+      {
+        "hex": "#110e12",
+        "share": 0.028
+      },
+      {
+        "hex": "#f7690f",
+        "share": 0.028
+      },
+      {
+        "hex": "#b7b4ab",
+        "share": 0.027
+      }
+    ],
+    "background": "#010001",
+    "chroma": 0.28,
+    "lightness": 0.42,
+    "chromaticShare": 0.37,
+    "accentChroma": 0.65,
+    "distinct": 19,
+    "hues": 6
+  }
+}

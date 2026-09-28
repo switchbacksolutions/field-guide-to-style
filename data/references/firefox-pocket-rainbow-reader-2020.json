@@ -1,0 +1,66 @@
+{
+  "id": "firefox-pocket-rainbow-reader-2020",
+  "title": "Pocket “rainbow reader” illustration in Firefox",
+  "type": "image",
+  "medium": "software",
+  "lede": "A spot illustration shipped in Firefox’s Pocket panel: a person reading on a laptop while a rainbow loops out of the screen and over their raised legs.",
+  "summary": "A reader on a laptop under a looping rainbow; flat pastel fills with black line details. Firefox source, about 2020.",
+  "source": {
+    "url": "https://github.com/mozilla/gecko-dev/tree/master/browser/components/pocket/content/panels/img",
+    "label": "Firefox source (gecko-dev): Pocket panel images"
+  },
+  "creator": {
+    "name": "Mozilla (illustrator not named)"
+  },
+  "made": "2020 (date given on Commons)",
+  "moods": [
+    "playful",
+    "relaxed",
+    "bright"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1280 × 1045 rendering of the SVG from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Firefox_Browser_%E2%80%93_Rainbow-reader.svg) and stored it, flattened onto white. The Commons uploader placed it in Category:Corporate Memphis."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Partial fit: a flat spot illustration of a person with a long bending leg in a software panel, but the hands, shoes, and face are drawn with black lines and the skin is white.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons gives the source as the Pocket panel image folder of the Firefox source code, the author as “Mozilla Foundation et al.”, the date as 2020, and the license as MPL 2.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Firefox_Browser_%E2%80%93_Rainbow-reader.svg)."
+  ],
+  "observed": [
+    "A figure lies on its front with a green sweater and reads a white laptop outlined in black.",
+    "A pale blue leg runs from the bottom left and bends up; the foot in a red shoe is drawn with black lines.",
+    "A wide rainbow of light blue, teal, yellow, red, and pink bands loops from the laptop screen over the figure in an S-curve.",
+    "The hair is a solid black mass; the face is white with a few black lines. Pink key shapes sit on the laptop keyboard."
+  ],
+  "interpretation": [
+    "It shows how the style reached browser chrome and empty states: one figure and one oversized, impossible object in a small panel. The black hand-drawn line details make it a looser, sketch-like variant."
+  ],
+  "borrow": [
+    "Let a single flowing shape (a rainbow, a ribbon) come out of the device the figure uses, to show the feature’s effect."
+  ],
+  "images": [
+    {
+      "file": "assets/references/firefox-pocket-rainbow-reader-2020.png",
+      "alt": "Flat illustration: a person in a green sweater lies reading a laptop, with a pale blue leg raised behind, while a wide rainbow of blue, teal, yellow, red, and pink loops out of the screen in an S-curve.",
+      "width": 1280,
+      "height": 1045,
+      "kind": "source-image",
+      "caption": "“Firefox Browser – Rainbow-reader”, Mozilla, 2020. MPL 2.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Firefox_Browser_%E2%80%93_Rainbow-reader.svg), from the Firefox source, flattened onto white.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Firefox_Browser_%E2%80%93_Rainbow-reader.svg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "MPL-2.0",
+    "statement": "Distributed in the Firefox source code under the Mozilla Public License 2.0, per Wikimedia Commons. Credit: Mozilla. Firefox and Pocket are trademarks of Mozilla."
+  }
+}

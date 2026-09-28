@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/ashbee-silver-kettle-1900.jpg",
+  "captured": "2026-09-28T17:30:13+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#cbc9c6",
+        "share": 0.294
+      },
+      {
+        "hex": "#edecea",
+        "share": 0.236
+      },
+      {
+        "hex": "#dddcda",
+        "share": 0.166
+      },
+      {
+        "hex": "#b0aea6",
+        "share": 0.095
+      },
+      {
+        "hex": "#a6a39a",
+        "share": 0.046
+      },
+      {
+        "hex": "#bdbbb7",
+        "share": 0.039
+      },
+      {
+        "hex": "#9a978c",
+        "share": 0.036
+      },
+      {
+        "hex": "#8a877c",
+        "share": 0.032
+      },
+      {
+        "hex": "#787568",
+        "share": 0.031
+      },
+      {
+        "hex": "#fefefd",
+        "share": 0.007
+      }
+    ],
+    "background": "#cbc9c6",
+    "chroma": 0.03,
+    "lightness": 0.78,
+    "chromaticShare": 0.0,
+    "accentChroma": 0.39,
+    "distinct": 9,
+    "hues": 1
+  }
+}

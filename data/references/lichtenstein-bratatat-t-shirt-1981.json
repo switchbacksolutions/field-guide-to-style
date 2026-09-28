@@ -1,0 +1,61 @@
+{
+  "id": "lichtenstein-bratatat-t-shirt-1981",
+  "title": "BRATATAT T-shirt",
+  "type": "object",
+  "medium": "textile",
+  "lede": "A screen-printed T-shirt after Roy Lichtenstein: two firing gun barrels, red and yellow flames, a blue dot field, and the sound effect BRATATAT.",
+  "summary": "A white T-shirt printed with blue Ben-Day dots, red and yellow flames, and a red sound effect. After Roy Lichtenstein, probably 1981.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O301462/",
+    "label": "V&A: BRATATAT, T.591-1997"
+  },
+  "creator": {
+    "name": "Roy Lichtenstein (artist); Fruit of the Loom, Screen Stars label (manufacturer)"
+  },
+  "made": "Probably 1981",
+  "moods": [
+    "loud",
+    "graphic",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A image of its copy, T.591-1997 (1400 × 2076 px), in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "The comic-panel idiom on a garment: a coarse blue dot field, black key lines, flat red and yellow, and a sound effect. It is later than the style’s era but reuses a 1964 image.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes a printed cotton T-shirt, probably made by Screen Stars (Fruit of the Loom) in the USA, probably in 1981, and probably made for a Lichtenstein exhibition that year. [V&A](https://collections.vam.ac.uk/item/O301462/).",
+    "The V&A says the design extends the final panel of Lichtenstein’s 1964 painting *As I Opened Fire*, which was based on 1962 comic panels by Jerry Grandenetti. The shirt omits the caption that crops the painting, and its dots differ from the painting. [V&A](https://collections.vam.ac.uk/item/O301462/)."
+  ],
+  "observed": [
+    "A large oval of blue dots on white runs diagonally across the front of the shirt. The dots are coarse and widely spaced.",
+    "Two gun barrels in black and white point up and to the right; red and yellow flames with black outlines stream from them.",
+    "“BRATATAT” is printed in red capitals with a black outline and a jagged, uneven baseline across the chest.",
+    "A small patch of magenta dots shades the gun mounts at lower left.",
+    "The shirt is sleeveless (the sleeves appear to have been cut off) and is stained at right."
+  ],
+  "interpretation": [
+    "The shirt shows how the style survives reproduction on cheap media: three flat inks, a coarse dot screen, and black line, which is also how it survives on screens.",
+    "The dot field is an oval with a soft edge made by the dots themselves, not a gradient."
+  ],
+  "borrow": [
+    "Give a dot field a shaped edge, such as an oval or a diagonal band, instead of filling the whole panel.",
+    "Set a sound-effect word at an angle along the direction of motion."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The design is © Estate of Roy Lichtenstein."
+  },
+  "identifiers": {
+    "vam": "O301462"
+  }
+}

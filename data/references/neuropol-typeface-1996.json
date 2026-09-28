@@ -1,0 +1,76 @@
+{
+  "id": "neuropol-typeface-1996",
+  "title": "Neuropol typeface",
+  "type": "product",
+  "medium": "typeface",
+  "lede": "Ray Larabie’s wide, rounded-square techno face, first given away as freeware in 1996 and widely used in the years around 2000.",
+  "summary": "Very wide techno sans-serif built from rounded squares, with cut horizontal strokes. Ray Larabie, 1996.",
+  "source": {
+    "url": "https://typodermicfonts.com/public-domain/#neuropol",
+    "label": "Typodermic Fonts: Public domain fonts, Neuropol"
+  },
+  "creator": {
+    "name": "Ray Larabie",
+    "url": "https://typodermicfonts.com/"
+  },
+  "made": "1996 (Typodermic gives 27 October 1996)",
+  "moods": [
+    "futuristic",
+    "techno",
+    "sleek"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected Typodermic’s specimen image for Neuropol (1800 × 160) from its public-domain page, and the specimen for its chrome variant Neurochrome (1352 × 120)."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Clear: the wide techno type of the grammar, made in the period and spread as free software. Its companion Neurochrome renders the same letters as 3D chrome.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Typodermic dates Neuropol to 1996 and says the design was influenced by Brendel Type Studio’s Digital Sans (1974). Its sister face Neurochrome (1997) was Neuropol “rendered in Lightwave, a 3D modeling program, applying extrusion, beveling, and reflections to make it look like chrome”. [Typodermic: Public domain fonts](https://typodermicfonts.com/public-domain/#neuropol).",
+    "Fonts In Use calls Neuropol “a wide, starkly futuristic typeface” based on rounded squares, like the earlier techno fonts Microgramma, Digital, and Chimes; it was redrawn as Neuropol X in 2004. [Fonts In Use: Neuropol](https://fontsinuse.com/typefaces/175126/neuropol).",
+    "Larabie released his Larabie Fonts freeware from 1996. A modified Neuropol was used in the wordmark of the 2006 Winter Olympics in Turin. [Wikipedia: Ray Larabie](https://en.wikipedia.org/wiki/Ray_Larabie)."
+  ],
+  "observed": [
+    "The letters are very wide and low. Round letters such as C, D, and O are built from rounded rectangles with straight sides.",
+    "Stroke ends are cut flat; the horizontal strokes of E and F stop short of the stem ends and look like separate bars.",
+    "The A is a pointed triangle without a crossbar at the apex, and the lowercase a, b, c, d, and e repeat the rounded-rectangle bowl.",
+    "Strokes have one even weight, and spacing is generous.",
+    "In the Neurochrome specimen the same forms are extruded and bevelled, with black-and-white reflections that read as chrome."
+  ],
+  "interpretation": [
+    "Neuropol is the Y2K techno heading face in its free, amateur-web form. Its spread through freeware explains why the wide rounded-square look was everywhere around 2000, on game menus, club flyers, and personal websites.",
+    "Neurochrome shows the typical Y2K move of turning a flat face into a 3D chrome render."
+  ],
+  "borrow": [
+    "Set short headings in a wide rounded-square face, uppercase, with extra letter spacing.",
+    "For a hero word, add a chrome treatment: a vertical silver gradient with a hard highlight line near the middle."
+  ],
+  "images": [
+    {
+      "file": "assets/references/neuropol-typeface-1996.png",
+      "alt": "Typeface specimen in black on white: the letters A B C D E F and a b c d e set in Neuropol, very wide letters built from rounded rectangles with flat cut stroke ends.",
+      "width": 1600,
+      "height": 142,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Neuropol specimen from [Typodermic Fonts’ public-domain page](https://typodermicfonts.com/public-domain/#neuropol), resized. The font is dedicated to the public domain under CC0 1.0.",
+      "original": "https://typodermicfonts.com/assets/public-domain-specimens/neuropol.png",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "Typodermic states that Neuropol and its other early fonts are “released under the official CC0 1.0 Universal public-domain dedication, with no rights reserved”. The stored specimen image shows only the font’s glyphs and comes from the same public-domain page."
+  },
+  "identifiers": {
+    "wikidata": "Q141099850"
+  }
+}

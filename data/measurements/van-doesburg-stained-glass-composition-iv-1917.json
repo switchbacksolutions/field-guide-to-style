@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/van-doesburg-stained-glass-composition-iv-1917.jpg",
+  "captured": "2026-09-28T17:51:45+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#262b2e",
+        "share": 0.288
+      },
+      {
+        "hex": "#f7fbec",
+        "share": 0.286
+      },
+      {
+        "hex": "#373a39",
+        "share": 0.04
+      },
+      {
+        "hex": "#fffffc",
+        "share": 0.039
+      },
+      {
+        "hex": "#e7da45",
+        "share": 0.033
+      },
+      {
+        "hex": "#46443d",
+        "share": 0.03
+      },
+      {
+        "hex": "#61645a",
+        "share": 0.03
+      },
+      {
+        "hex": "#485951",
+        "share": 0.03
+      },
+      {
+        "hex": "#3d548a",
+        "share": 0.028
+      },
+      {
+        "hex": "#74766c",
+        "share": 0.024
+      }
+    ],
+    "background": "#262b2e",
+    "chroma": 0.08,
+    "lightness": 0.53,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.46,
+    "distinct": 11,
+    "hues": 2
+  }
+}

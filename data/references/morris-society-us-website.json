@@ -1,0 +1,62 @@
+{
+  "id": "morris-society-us-website",
+  "title": "William Morris Society in the United States website",
+  "type": "website",
+  "medium": "website",
+  "lede": "A standard modern template with one Morris wallpaper panel behind a framed portrait and a serif capital heading.",
+  "summary": "A Morris floral wallpaper panel, a framed portrait, serif capitals, and a white card with a soft shadow.",
+  "source": {
+    "url": "https://morrissociety.org/",
+    "label": "morrissociety.org"
+  },
+  "creator": {
+    "name": "William Morris Society in the United States"
+  },
+  "moods": [
+    "scholarly",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "Borderline: a Morris wallpaper panel and serif capitals, but the layout is a modern template with soft shadows and spaced sans-serif labels.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A Morris floral wallpaper in sage, cream, and yellow fills a panel on the left third of the page.",
+    "A black-and-white photograph of Morris sits in a thick white frame with a soft drop shadow, overlapping the panel.",
+    "On the right, a white card on light grey holds a small spaced-capital label in salmon, “WILLIAM MORRIS” in large dark serif capitals, and body text in a sans-serif.",
+    "The “ABOUT US” button is slate blue with spaced white capitals and a soft shadow.",
+    "The navigation uses small, spaced sans-serif capitals."
+  ],
+  "interpretation": [
+    "The pattern is decoration beside a modern card layout. The soft shadows and spaced sans-serif labels are counter-signs in the rubric.",
+    "Measured: shadow share 0.27, one chromatic hue, and a median border of 6 px from the photo frame."
+  ],
+  "borrow": [
+    "Put a wallpaper panel behind a framed image instead of using a plain background colour."
+  ],
+  "images": [
+    {
+      "file": "assets/references/morris-society-us-website.jpg",
+      "alt": "William Morris Society in the United States home page: a sage floral wallpaper panel at left behind a framed black-and-white portrait of Morris, and a white card with WILLIAM MORRIS in large serif capitals and an About Us button.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [morrissociety.org](https://morrissociety.org/), 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners, and the pattern images belong to their rights holders. Screenshot captured for commentary."
+  }
+}

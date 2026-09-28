@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20121114002439if_/http://msdn.microsoft.com/en-US/windows/apps",
+  "title": "Windows Store app development",
+  "captured": "2012-11-14T00:24:45.981Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Segoe UI",
+        "share": 0.85
+      },
+      {
+        "family": "Segoe UI Semibold",
+        "share": 0.13
+      },
+      {
+        "family": "Segoe UI Light",
+        "share": 0.02
+      },
+      {
+        "family": "Segoe light",
+        "share": 0.01
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 50,
+    "sizeRange": 3.57,
+    "scaleRatio": 1.27,
+    "headingWeight": 100,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.789
+      },
+      {
+        "hex": "#454545",
+        "share": 0.1
+      },
+      {
+        "hex": "#1ca0da",
+        "share": 0.038
+      },
+      {
+        "hex": "#707070",
+        "share": 0.036
+      },
+      {
+        "hex": "#1570a6",
+        "share": 0.02
+      },
+      {
+        "hex": "#2a2a2a",
+        "share": 0.014
+      },
+      {
+        "hex": "#00bcf2",
+        "share": 0.003
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#454545",
+    "contrast": 9.6,
+    "chroma": 0.04,
+    "lightness": 0.86,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.7,
+    "distinct": 4,
+    "hues": 1,
+    "imageShare": 0.24,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 4,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.75,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.693
+      },
+      {
+        "hex": "#bbd80a",
+        "share": 0.139
+      },
+      {
+        "hex": "#d5dde0",
+        "share": 0.015
+      },
+      {
+        "hex": "#e7ebe8",
+        "share": 0.014
+      },
+      {
+        "hex": "#f2f5f5",
+        "share": 0.014
+      },
+      {
+        "hex": "#aaa9a9",
+        "share": 0.013
+      },
+      {
+        "hex": "#cecece",
+        "share": 0.012
+      },
+      {
+        "hex": "#bdbdbc",
+        "share": 0.012
+      },
+      {
+        "hex": "#4a483e",
+        "share": 0.011
+      },
+      {
+        "hex": "#9ecedd",
+        "share": 0.01
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.13,
+    "lightness": 0.86,
+    "chromaticShare": 0.17,
+    "accentChroma": 0.76,
+    "distinct": 2,
+    "hues": 2
+  }
+}

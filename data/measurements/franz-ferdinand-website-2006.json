@@ -1,0 +1,129 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20060101020315id_/http://www.franzferdinand.co.uk/",
+  "title": "Franz Ferdinand: Official Site",
+  "captured": "2026-09-28T17:48:34.108Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Arial",
+        "share": 1
+      }
+    ],
+    "baseSize": 11,
+    "maxSize": 11,
+    "sizeRange": 1,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0.06,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.802
+      },
+      {
+        "hex": "#666666",
+        "share": 0.169
+      },
+      {
+        "hex": "#c2000f",
+        "share": 0.03
+      }
+    ],
+    "background": "#000000",
+    "text": "#666666",
+    "contrast": 3.7,
+    "chroma": 0.02,
+    "lightness": 0.08,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.76,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0.5,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 55,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.96,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.507
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.145
+      },
+      {
+        "hex": "#ced992",
+        "share": 0.08
+      },
+      {
+        "hex": "#ecece9",
+        "share": 0.051
+      },
+      {
+        "hex": "#bc0312",
+        "share": 0.033
+      },
+      {
+        "hex": "#999a9b",
+        "share": 0.019
+      },
+      {
+        "hex": "#c3c3c4",
+        "share": 0.018
+      },
+      {
+        "hex": "#afafb0",
+        "share": 0.018
+      },
+      {
+        "hex": "#848587",
+        "share": 0.016
+      },
+      {
+        "hex": "#d6d6d4",
+        "share": 0.014
+      }
+    ],
+    "background": "#000000",
+    "chroma": 0.07,
+    "lightness": 0.36,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.6,
+    "distinct": 5,
+    "hues": 2
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "ramshaw-watkins-optik-art-earrings",
+  "title": "Optik Art earrings",
+  "type": "object",
+  "medium": "product",
+  "lede": "A pair of square earrings in white acrylic, screen-printed with nested black squares and rings, from Wendy Ramshaw and David Watkins’s Optik Art Jewellery.",
+  "summary": "White perspex squares turned on point and printed with concentric black squares and circles. Ramshaw and Watkins, London, 1963–65.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1194608/",
+    "label": "V&A: Earring, “Optik Art Jewellery”, T.338E&F-1982"
+  },
+  "creator": {
+    "name": "Wendy Ramshaw and David Watkins (designers)"
+  },
+  "made": "1963–1965",
+  "moods": [
+    "mod",
+    "graphic",
+    "inexpensive"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A photograph of the pair T.338E&F-1982 (1600 × 1308 px), on black, in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "Black and white op geometry at the smallest scale: rings and squares nested so that figure and ground swap. Partial fit: a single motif, not an all-over field.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes the pair as screen-printed acrylic (perspex) and base metal: an opaque white square with a screen-printed black op-art design. [V&A](https://collections.vam.ac.uk/item/O1194608/).",
+    "The V&A’s record of a related ring says that Ramshaw and Watkins began Optik Art Jewellery in 1963, “inspired by Op-Art”. They screen-printed black and white patterns onto acrylic sheets and sliced the sheets into pieces, and Fenwicks of Bond Street commissioned collections. [V&A](https://collections.vam.ac.uk/item/O145843/)."
+  ],
+  "observed": [
+    "Each earring is a flat square turned 45 degrees, with a black ground.",
+    "Inside, a white ring holds a black square on point, which holds a smaller white ring and a black square: circles and squares alternate inward.",
+    "Where a circle crosses a square, the white areas split into crescents and triangles, so figure and ground alternate.",
+    "The edges of the acrylic show as thin white lines."
+  ],
+  "interpretation": [
+    "The earrings reduce op art to one emblem, much like Vasarely’s square-in-circle units, and make it a cheap fashion product.",
+    "Screen printing on a sheet and cutting it into pieces is the same industrial logic that made op prints easy to reproduce."
+  ],
+  "borrow": [
+    "Nest alternating circles and squares in black and white so that the crossings make crescents and triangles.",
+    "Turn a square badge or icon 45 degrees to give a static motif tension."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The designs are in copyright, and the V&A photograph is not openly licensed."
+  },
+  "identifiers": {
+    "vam": "O1194608"
+  }
+}

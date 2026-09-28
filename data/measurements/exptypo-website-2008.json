@@ -1,0 +1,116 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20080517055553if_/http://www.exptypo.com/",
+  "title": "exp.typo",
+  "captured": "2008-05-17T05:55:59.946Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [],
+    "baseSize": null,
+    "maxSize": null,
+    "sizeRange": null,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": null,
+    "headingTracking": null,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 1
+      }
+    ],
+    "background": "#ffffff",
+    "text": null,
+    "contrast": null,
+    "chroma": 0,
+    "lightness": 1,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 1,
+    "hues": 0,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 0,
+    "radius": {
+      "median": null,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#eeeeed",
+        "share": 0.56
+      },
+      {
+        "hex": "#e5e4df",
+        "share": 0.113
+      },
+      {
+        "hex": "#fafafa",
+        "share": 0.059
+      },
+      {
+        "hex": "#070505",
+        "share": 0.046
+      },
+      {
+        "hex": "#d0cfca",
+        "share": 0.025
+      },
+      {
+        "hex": "#271c15",
+        "share": 0.023
+      },
+      {
+        "hex": "#c2c0b7",
+        "share": 0.02
+      },
+      {
+        "hex": "#854e11",
+        "share": 0.016
+      },
+      {
+        "hex": "#b1aca0",
+        "share": 0.016
+      },
+      {
+        "hex": "#3f3c32",
+        "share": 0.014
+      }
+    ],
+    "background": "#eeeeed",
+    "chroma": 0.05,
+    "lightness": 0.79,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.44,
+    "distinct": 6,
+    "hues": 2
+  }
+}

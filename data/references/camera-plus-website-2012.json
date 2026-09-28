@@ -1,0 +1,65 @@
+{
+  "id": "camera-plus-website-2012",
+  "title": "Camera+ website, 2012",
+  "type": "website",
+  "medium": "website",
+  "lede": "The site for tap tap tap’s iPhone camera app, archived January 2012: a dark leather-grain page with a gray card, a film strip, and a price tag on a string.",
+  "summary": "Dark leather grain, a textured gray card, a curling film strip, and a hanging “On sale” tag.",
+  "source": {
+    "url": "http://campl.us/",
+    "label": "campl.us",
+    "archive": "https://web.archive.org/web/20120103083712/http://campl.us/"
+  },
+  "made": "2012",
+  "moods": [
+    "tactile",
+    "glossy",
+    "photographic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "Clear: a leather-grain background, a film strip and a hanging price tag without function, and embossed type on a textured card.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The page background is a very dark gray with a fine pebbled grain like leather.",
+    "A large gray card with a paper-like grain and a soft top-lit gradient holds the headline “It’s all about one thing… great photos!” in dark gray with a light lower edge.",
+    "A strip of film with sprocket holes curves across the bottom of the card, carrying sample photos.",
+    "A green “On sale” tag hangs on a string from a beveled gray “Buy Now” button with a red “99¢” label.",
+    "The app icon is a photoreal camera lens in a dark rounded square; an iPhone 4 with a reflection shows the camera screen."
+  ],
+  "interpretation": [
+    "It passes the gradient, shadow, and radius metrics (vertical gradients on 15% of boxes, shadows on 82%), but color and surface pattern shares are 0. The measurement sees none of the texture, because the page draws it with bitmap background images; see the style synthesis."
+  ],
+  "borrow": [
+    "Hang a small tag on a string from a buy button for a sale price.",
+    "Use a curved film strip as a carousel frame for photos."
+  ],
+  "images": [
+    {
+      "file": "assets/references/camera-plus-website-2012.jpg",
+      "alt": "Archived Camera+ page: a dark leather-grain background, a camera-lens app icon, a gray textured card with the headline It’s all about one thing… great photos!, a Buy Now button with a green On sale tag on a string, an iPhone 4 showing the camera, and a curved film strip of photos.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [archived copy](https://web.archive.org/web/20120103083712/http://campl.us/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  },
+  "creator": {
+    "name": "tap tap tap"
+  }
+}

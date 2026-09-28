@@ -1,0 +1,67 @@
+{
+  "id": "weingart-kunsthalle-basel-kunstkredit-poster-1977",
+  "title": "Kunsthalle Basel Kunstkredit 76-77 poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Wolfgang Weingart’s black-and-white exhibition poster for the Basel state art credit: cut photographs, dot screens, heavy black bars, and blocks of grotesque type that overlap and step.",
+  "summary": "Grey collage of halftone photographs, black L-shaped bars, and stepped grotesque headings. Wolfgang Weingart, Basel, 1977.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1155283/",
+    "label": "V&A: Kunsthalle Basel Kunstkredit 76-77, E.473-2009"
+  },
+  "creator": {
+    "name": "Wolfgang Weingart",
+    "url": "https://www.wikidata.org/wiki/Q95955"
+  },
+  "made": "1977 (V&A)",
+  "moods": [
+    "kinetic",
+    "rebellious",
+    "layered",
+    "experimental"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A photograph of object E.473-2009 (image 2010EB0013, 1200 × 1600) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "new-wave-typography",
+      "note": "Clear example by the style’s founder. The V&A calls this poster an example of Weingart’s “new wave” or “swiss punk” style.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A holds the poster as E.473-2009: lithograph, 128 × 90.5 cm, designed and printed in Switzerland in 1977. It is marked “Printed Design Weingart” and “Druck: Wassermann AG/Basel”, with the designer’s pencil signature. [V&A E.473-2009](https://collections.vam.ac.uk/item/O1155283/).",
+    "The V&A says Weingart is “credited with being the father of the ‘new wave’ or ‘swiss punk’” and describes the poster as “a collage effect of text, geometric forms and photographic images of architecture and objects”. [V&A](https://collections.vam.ac.uk/item/O1155283/)."
+  ],
+  "observed": [
+    "The poster uses only black, white, and greys. Halftone photographs of a machine part, crumpled paper, a draped figure, and the Kunsthalle facade are cut into rectangles that overlap.",
+    "“KUNSTHALLE” is set in small heavy black capitals next to a much larger “BASEL” in pale grey, which a black bar cuts across.",
+    "“KUNSTKREDIT” is very large and white on a grey band. The lines below change from grey to black to white.",
+    "Heavy black bars make an L-shaped frame at the top left, and parallel diagonal black bars fill the lower left corner.",
+    "Opening hours sit in white strips on black bars at the left. “Eintritt frei” and the tour times run vertically at the right beside a black arrow.",
+    "A coarse dot screen covers the machine photograph. A thin perspective grid and a small black cross lie over the figure.",
+    "“Ausstellung / 7. bis 30. Mai 1977” is white bold type on black blocks that step down.",
+    "The display lines are tightly spaced, not letterspaced."
+  ],
+  "interpretation": [
+    "This is the style’s layer-and-screen side. Disorder comes from cut blocks, changes of value, and overlap, not from wide letterspacing. A fingerprint that needs wide heading tracking would miss works like this one.",
+    "The information stays readable because each block of text keeps a solid ground, even when the blocks themselves overlap."
+  ],
+  "borrow": [
+    "Put short labels in white on black bars that come in from the page edge.",
+    "Let one large word be cut by a solid bar, and keep its partner word small and heavy.",
+    "Step a date line down across two or three black blocks."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is © Victoria and Albert Museum, London. Weingart died in 2021, so the design is in copyright."
+  },
+  "identifiers": {
+    "vam": "O1155283"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/elegant-themes-flat-icons-2013.png",
+  "captured": "2026-09-28T17:31:04+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.405
+      },
+      {
+        "hex": "#77b3d4",
+        "share": 0.141
+      },
+      {
+        "hex": "#76c2af",
+        "share": 0.123
+      },
+      {
+        "hex": "#4f5d73",
+        "share": 0.084
+      },
+      {
+        "hex": "#c75c5c",
+        "share": 0.071
+      },
+      {
+        "hex": "#e0995e",
+        "share": 0.051
+      },
+      {
+        "hex": "#e1dfd0",
+        "share": 0.034
+      },
+      {
+        "hex": "#f4cf88",
+        "share": 0.02
+      },
+      {
+        "hex": "#f0f3f3",
+        "share": 0.01
+      },
+      {
+        "hex": "#d7e8eb",
+        "share": 0.007
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.18,
+    "lightness": 0.77,
+    "chromaticShare": 0.29,
+    "accentChroma": 0.41,
+    "distinct": 8,
+    "hues": 3
+  }
+}

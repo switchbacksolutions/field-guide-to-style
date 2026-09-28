@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/galle-autumn-crocus-vase.jpg",
+  "captured": "2026-09-28T17:14:36+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.401
+      },
+      {
+        "hex": "#dcdce4",
+        "share": 0.223
+      },
+      {
+        "hex": "#f2f1f6",
+        "share": 0.145
+      },
+      {
+        "hex": "#cc792b",
+        "share": 0.028
+      },
+      {
+        "hex": "#433237",
+        "share": 0.025
+      },
+      {
+        "hex": "#8d6175",
+        "share": 0.025
+      },
+      {
+        "hex": "#5c4351",
+        "share": 0.023
+      },
+      {
+        "hex": "#9f7a88",
+        "share": 0.023
+      },
+      {
+        "hex": "#8b475b",
+        "share": 0.022
+      },
+      {
+        "hex": "#e8d5d5",
+        "share": 0.019
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.06,
+    "lightness": 0.85,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.63,
+    "distinct": 9,
+    "hues": 1
+  }
+}

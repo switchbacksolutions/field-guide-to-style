@@ -1,0 +1,47 @@
+{
+  "id": "malewicz-neumorphism-article-2019",
+  "title": "“Neumorphism in user interfaces”",
+  "type": "website",
+  "medium": "editorial",
+  "lede": "The December 2019 essay that named the style and gave its two-shadow recipe.",
+  "summary": "Michał Malewicz’s essay that named neumorphism, compared it to the Material card, and raised its contrast problem.",
+  "source": {
+    "url": "https://hype4.academy/articles/design/neumorphism-in-user-interfaces",
+    "label": "Hype4 Academy"
+  },
+  "creator": {
+    "name": "Michał Malewicz",
+    "url": "https://hype4.academy/"
+  },
+  "made": "2019 (first published on UX Collective in December 2019)",
+  "moods": [
+    "soft"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Full text read on the live Hype4 Academy page on 2026-09-28. The original UX Collective URL (`uxdesign.cc/neumorphism-in-user-interfaces-b47cef3bf3a6`) returned HTTP 403 to scripts, and the Wayback lookup failed with HTTP 503, so the first-publication date rests on [CSS-Tricks](ref:css-tricks-neumorphism-and-css-2020) (“a UX Collective post from December 2019”). The article’s figures were not inspected."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "The text that named the style and set out its rules: same material as the background, one light and one dark shadow, and a tinted background that is neither white nor black.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Malewicz writes: “This ‘New skeuomorphism’ has been called by Jason Kelley Neuomorphism in the comments. I decided to skip the ‘o’ and the name Neuomorphism came alive.”",
+    "On the origin: “The entire hype started with one Dribbble shot that quickly went viral. This shot by Dribbble user alexplyuto gained over 3000 likes and pushed the trend forward” ([Plyuto](ref:plyuto-skeuomorph-mobile-banking-2019)).",
+    "On the card: “Neumorphic card however pretends to extrude from the background. It’s a raised shape made from the exact same material as the background.” And: “This effect is pretty easy to achieve by playing with two shadows, one at negative values while the other at positive. But for it to work our background cannot be fully black or fully white.”",
+    "On accessibility: “when they’re both the same color there’s no contrast to measure”, so “keep all the important elements on it with high enough contrast”."
+  ],
+  "interpretation": [
+    "The founding text of the style. Its three rules (same-color surface, paired opposite shadows, tinted background) are the basis of this catalogue’s rubric, and its contrast warning anticipates the reasons for the decline of the style."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Text and images © Michał Malewicz / Hype4. Link and quotation only."
+  }
+}

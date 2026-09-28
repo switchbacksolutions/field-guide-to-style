@@ -1,0 +1,51 @@
+{
+  "id": "eccojams-vol-1-cassette-2010",
+  "title": "Chuck Person’s Eccojams Vol. 1 cassette",
+  "type": "print",
+  "medium": "packaging",
+  "lede": "Daniel Lopatin’s 2010 cassette of slowed loops, packaged to look like the box of the 1993 game Ecco the Dolphin.",
+  "summary": "Proto-vaporwave cassette whose J-card borrows the Ecco the Dolphin game box. 2010.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Chuck_Person%27s_Eccojams_Vol._1",
+    "label": "Wikipedia: Chuck Person’s Eccojams Vol. 1"
+  },
+  "creator": {
+    "name": "Chuck Person (Daniel Lopatin)"
+  },
+  "made": "August 2010 (cassette, The Curatorial Club)",
+  "moods": [
+    "nostalgic",
+    "hypnotic",
+    "ironic"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Relies on Wikipedia. The only image found was a 599 × 383 J-card scan in the [Cover Art Archive](https://musicbrainz.org/release/88ba5807-ba5d-41a5-bcff-14dc672688e3/cover-art), below the size needed to observe it."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "A precursor: Wikipedia credits it and Far Side Virtual with the musical template, and its game-box packaging set the habit of quoting 1990s consumer products. Partial fit, because it has none of the later pastel palette.",
+      "basis": "agent",
+      "qualifier": "precursor"
+    }
+  ],
+  "context": [
+    "Released in August 2010 on cassette by The Curatorial Club. Wikipedia: “With packaging that resembled the 1993 video game Ecco the Dolphin, the album inspired a host of suburban teens and young adults to formulate what would become vaporwave.” [Wikipedia: Vaporwave](https://en.wikipedia.org/wiki/Vaporwave).",
+    "Lopatin had released several of the loops earlier on YouTube as sunsetcorp, from his audio-visual album Memory Vague (2009). [Wikipedia: Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)."
+  ],
+  "interpretation": [
+    "The packaging is appropriation of a specific commercial object, not a new graphic language. That act of quoting a mass-market product is what the style kept."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Copyrighted packaging that reuses Sega game artwork. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q21130146",
+    "musicbrainz-release": "88ba5807-ba5d-41a5-bcff-14dc672688e3"
+  }
+}

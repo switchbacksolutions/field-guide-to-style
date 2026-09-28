@@ -1,0 +1,53 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/material-system-icons-2014.png",
+  "captured": "2026-09-28T17:44:52+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#fafafa",
+        "share": 0.696
+      },
+      {
+        "hex": "#727272",
+        "share": 0.163
+      },
+      {
+        "hex": "#c0c0c0",
+        "share": 0.031
+      },
+      {
+        "hex": "#848484",
+        "share": 0.03
+      },
+      {
+        "hex": "#ececec",
+        "share": 0.021
+      },
+      {
+        "hex": "#989898",
+        "share": 0.021
+      },
+      {
+        "hex": "#e0e0e0",
+        "share": 0.02
+      },
+      {
+        "hex": "#acacac",
+        "share": 0.01
+      },
+      {
+        "hex": "#cfcfcf",
+        "share": 0.009
+      }
+    ],
+    "background": "#fafafa",
+    "chroma": 0.0,
+    "lightness": 0.86,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 7,
+    "hues": 0
+  }
+}

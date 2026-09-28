@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/de-stijl-journal-cover-and-advertisements-1922.jpg",
+  "captured": "2026-09-28T17:51:44+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#eae7d4",
+        "share": 0.552
+      },
+      {
+        "hex": "#25272d",
+        "share": 0.143
+      },
+      {
+        "hex": "#dfdbc8",
+        "share": 0.112
+      },
+      {
+        "hex": "#3a3c38",
+        "share": 0.029
+      },
+      {
+        "hex": "#d4ceba",
+        "share": 0.027
+      },
+      {
+        "hex": "#9f5642",
+        "share": 0.02
+      },
+      {
+        "hex": "#191b21",
+        "share": 0.019
+      },
+      {
+        "hex": "#4c4c43",
+        "share": 0.018
+      },
+      {
+        "hex": "#f7f4e1",
+        "share": 0.016
+      },
+      {
+        "hex": "#c3bfac",
+        "share": 0.015
+      }
+    ],
+    "background": "#eae7d4",
+    "chroma": 0.08,
+    "lightness": 0.69,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.36,
+    "distinct": 5,
+    "hues": 1
+  }
+}

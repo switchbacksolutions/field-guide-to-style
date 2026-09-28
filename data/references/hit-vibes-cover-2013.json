@@ -1,0 +1,53 @@
+{
+  "id": "hit-vibes-cover-2013",
+  "title": "Hit Vibes cover art",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "Saint Pepsi’s 2013 cover imitates an early-1980s record sleeve: a red square, floating parallelograms, a yellow wedge, and a thin swoosh on grainy grey.",
+  "summary": "Mock-1980s sleeve: red square, drop-shadowed parallelograms, yellow wedge, grey grain. 2013.",
+  "source": {
+    "url": "https://musicbrainz.org/release/ff881a14-c23e-4728-bfb9-7b11bb5b6ecd",
+    "label": "MusicBrainz: Hit Vibes (2013 digital release)"
+  },
+  "creator": {
+    "name": "Saint Pepsi (Ryan DeRobertis)"
+  },
+  "made": "May 31, 2013 (digital release, KEATS//COLLECTIVE, per MusicBrainz)",
+  "moods": [
+    "retro",
+    "sunny",
+    "ironic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 900 × 900 front cover in the [Cover Art Archive](https://musicbrainz.org/release/ff881a14-c23e-4728-bfb9-7b11bb5b6ecd/cover-art), in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Partial fit, from the future-funk branch: it quotes 1980s commercial graphics, the [Memphis](style:memphis)-derived shapes Wikipedia lists among the style’s sources, but has no pastel gradient, statue, or digital chrome.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia names Skylar Spence (formerly Saint Pepsi) among the most popular future funk artists, and lists Saint Pepsi among the performers at the first vaporwave festival in 2019. [Wikipedia: Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)."
+  ],
+  "observed": [
+    "A large red square with a thin black outline sits on a grey, grainy ground.",
+    "A row of small red parallelograms with grey drop shadows crosses the top diagonally; a thin yellow wedge cuts down through the square.",
+    "A thin navy swoosh curves across the middle; HIT VIBES is printed faintly inside the square in large outline letters, and SAINT PEPSI in white thin italic capitals at the top left."
+  ],
+  "interpretation": [
+    "Useful as a boundary case: it quotes the same 1980s source material as vaporwave through graphic pastiche, without the collage and digital artefacts."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Copyrighted album art. No image is stored here."
+  },
+  "identifiers": {
+    "musicbrainz-release": "ff881a14-c23e-4728-bfb9-7b11bb5b6ecd"
+  }
+}

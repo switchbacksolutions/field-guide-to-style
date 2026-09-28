@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/coca-cola-building-los-angeles.jpg",
+  "captured": "2026-09-28T17:50:39+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#888888",
+        "share": 0.183
+      },
+      {
+        "hex": "#a4a4a4",
+        "share": 0.141
+      },
+      {
+        "hex": "#787878",
+        "share": 0.124
+      },
+      {
+        "hex": "#c4c4c4",
+        "share": 0.104
+      },
+      {
+        "hex": "#575757",
+        "share": 0.093
+      },
+      {
+        "hex": "#b6b6b6",
+        "share": 0.064
+      },
+      {
+        "hex": "#636363",
+        "share": 0.062
+      },
+      {
+        "hex": "#959595",
+        "share": 0.057
+      },
+      {
+        "hex": "#010101",
+        "share": 0.056
+      },
+      {
+        "hex": "#dbdbdb",
+        "share": 0.041
+      }
+    ],
+    "background": "#888888",
+    "chroma": 0.0,
+    "lightness": 0.52,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 12,
+    "hues": 0
+  }
+}

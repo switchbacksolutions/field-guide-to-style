@@ -1,0 +1,76 @@
+{
+  "id": "morris-trellis-wallpaper",
+  "title": "Trellis wallpaper",
+  "type": "object",
+  "medium": "other",
+  "lede": "Morris’s first wallpaper design: climbing roses and birds on a square wooden trellis, drawn flat on an open cream ground.",
+  "summary": "Roses, blue birds, and insects on a square trellis, on open cream. William Morris, designed 1862.",
+  "source": {
+    "url": "https://www.metmuseum.org/art/collection/search/384020",
+    "label": "The Met: Trellis, 23.163.4h"
+  },
+  "creator": {
+    "name": "William Morris, Morris & Company, and Philip Webb (as the Met lists them)",
+    "url": "https://www.wikidata.org/wiki/Q182589"
+  },
+  "made": "Designed 1862, first produced 1864",
+  "moods": [
+    "domestic",
+    "fresh",
+    "handmade"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Metropolitan Museum of Art image DT255077 of sheet 23.163.4h, through its CC0 [Wikimedia Commons copy](https://commons.wikimedia.org/wiki/File:Trellis_MET_DT255077.jpg) (3239 × 4000 px; viewed at 1280 px wide). The Met’s own collection API refused scripted access (HTTP 403), so the object data come from the Commons record of the Met upload. The Met lists William Morris, Morris & Company, and Philip Webb as artists. Webb is often credited with the birds, but that record does not say so."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "A founding Morris & Co. pattern, but an open one: flat, outlined motifs on a square lattice with much plain ground, not the dense repeat of the later work.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Met record gives the date as designed 1862, first produced 1864; the medium as block-printed wallpaper; and the sheet size as 68.6 × 54.6 cm. It was bought with the Edward C. Moore Jr. Gift, 1923. [Wikimedia Commons record of the Met upload](https://commons.wikimedia.org/wiki/File:Trellis_MET_DT255077.jpg).",
+    "Morris began his earliest wallpaper designs while he lived at [Red House](ref:red-house-bexleyheath) (1860–1865). [Wikipedia: Red House, Bexleyheath](https://en.wikipedia.org/wiki/Red_House,_Bexleyheath)."
+  ],
+  "observed": [
+    "A square trellis of grey-brown laths, with wood grain and nail heads, divides the sheet into large open squares.",
+    "Thorny green rose stems climb across the trellis with sage-green leaves and salmon-red roses.",
+    "Four blue birds in different poses perch or fly among the stems. Small brown insects float in the open squares.",
+    "The ground is a plain cream; roughly half of the sheet shows it.",
+    "Every shape has a dark outline and flat fills. Stippling on the stems and birds adds texture, not shading.",
+    "“MORRIS & Cº” is printed in small capitals on the right margin, beside colour-registration marks."
+  ],
+  "interpretation": [
+    "The prospect notes describe Arts and Crafts pattern as dense and symmetrical. Trellis is neither: it is open, and the birds break the symmetry. The lattice is visible here instead of hidden.",
+    "The palette is lighter than the later indigo-discharge cottons such as [Strawberry Thief](ref:morris-strawberry-thief-textile): cream, sage, salmon, and pale blue."
+  ],
+  "borrow": [
+    "Show the grid itself as a motif, like a trellis, and let plants cross it at irregular points.",
+    "Leave a light, open ground and use a few outlined, flat motifs for a calmer version of the style."
+  ],
+  "images": [
+    {
+      "file": "assets/references/morris-trellis-wallpaper.jpg",
+      "alt": "Wallpaper sheet with a grey-brown square trellis on a cream ground, climbing thorny rose stems with salmon-red roses and green leaves, blue birds, and small brown insects. Morris & Co. is printed in the right margin.",
+      "width": 1280,
+      "height": 1581,
+      "kind": "source-image",
+      "caption": "William Morris (with Philip Webb), Trellis wallpaper, designed 1862, first produced 1864. The Metropolitan Museum of Art, 23.163.4h. [Commons copy of the Met image](https://commons.wikimedia.org/wiki/File:Trellis_MET_DT255077.jpg), CC0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Trellis_MET_DT255077.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Metropolitan Museum of Art released the image as CC0 (Commons template Cc-zero, from the Met Open Access upload). Morris died in 1896 and Webb in 1915; the design dates from 1862, so it is in the public domain in the United Kingdom and the United States."
+  },
+  "identifiers": {
+    "met": "23.163.4h",
+    "commons": "File:Trellis MET DT255077.jpg"
+  }
+}

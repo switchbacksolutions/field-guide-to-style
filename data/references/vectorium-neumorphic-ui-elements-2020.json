@@ -1,0 +1,52 @@
+{
+  "id": "vectorium-neumorphic-ui-elements-2020",
+  "title": "Collection of elements in neumorphic style",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A 2020 stock-vector sheet of neumorphic knobs, toggles, sliders, and menus, now the lead image of the Wikipedia article.",
+  "summary": "Vectorium’s stock sheet of soft UI controls on one pale gray surface with a single blue accent.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Neumorphism.jpg",
+    "label": "Wikimedia Commons (from Freepik)"
+  },
+  "creator": {
+    "name": "Vectorium (Freepik contributor)"
+  },
+  "made": "2020 (as the Commons file states)",
+  "moods": [
+    "soft",
+    "tactile",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Opened the Commons 1280 px rendition of `File:Neumorphism.jpg` (original 2000 × 2000). The Freepik source page returned HTTP 403, so its license and date were not checked there."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "A clear catalogue of the style’s control grammar: every knob, switch, slider, and menu is molded from one pale gray surface, and one blue marks selection.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons gives the source as Freepik (“collection-elements-neumorphic-style_8507495”), the author as Vectorium, the date as 2020, and a CC BY-SA 4.0 license. It was uploaded on 21 October 2020 by the user Le Paragone, not by the author.",
+    "A second file, `File:Neumorphism-fixed.jpg` (uploaded 29 January 2026 by Awesomecat), corrects the misspelled “Accept” button; the English Wikipedia article [Neumorphism](https://en.wikipedia.org/wiki/Neumorphism) uses it."
+  ],
+  "observed": [
+    "About thirty controls on a light gray square: two large dials with tick marks, a round knob in a blue ring, a pie selector, a nine-dot grid, toggles, sliders, dropdowns, a “Pop Up” card, media buttons, and round icon buttons.",
+    "Every control is the same gray as the background, with a white highlight at upper left and a soft gray shadow at lower right. Inputs, slider tracks, and the “Name” field are pressed in.",
+    "One mid blue fills the selected items, progress segments, and the “Cancel” button. Icons and text are dark gray.",
+    "Corners are fully round on pills and buttons and about 20 px on cards. Type is a geometric sans-serif (Montserrat-like)."
+  ],
+  "interpretation": [
+    "Stock sheets like this spread the style as ready-made parts. It follows the recipe closely and shows how the style favors physical controls (dials, knobs, rockers) over text."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Commons records CC BY-SA 4.0, but the file was uploaded by a third party from Freepik, whose own license does not grant CC BY-SA. The license claim is doubtful, so the image is not stored."
+  }
+}

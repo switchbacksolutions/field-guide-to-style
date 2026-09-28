@@ -1,0 +1,74 @@
+{
+  "id": "aubette-cine-dancing-strasbourg",
+  "title": "Ciné-dancing, Aubette, Strasbourg",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Van Doesburg’s cinema and dance hall of 1926–1928, reconstructed: walls and ceiling covered with large colored squares set on the diagonal.",
+  "summary": "Tilted red, yellow, blue, green, and gray squares in relief across walls and ceiling. Theo van Doesburg, 1926–1928, reconstructed.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Aubette_(building)",
+    "label": "Wikipedia: Aubette (building)"
+  },
+  "creator": {
+    "name": "Theo van Doesburg",
+    "url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg"
+  },
+  "made": "1926–1928; covered over in 1938; reconstructed in the 1990s and 2000s",
+  "moods": [
+    "dynamic",
+    "theatrical",
+    "geometric"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a photograph of the reconstructed room by the Commons user Clostridium ([File:Aubette cine dancing doesburg.JPG](https://commons.wikimedia.org/wiki/File:Aubette_cine_dancing_doesburg.JPG), 1024 × 768 px, viewed at 960 px). The photograph shows the present reconstruction, not the 1928 surfaces."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "Partial fit, Elementarism: flat primaries, gray, and white in rectangular panels, but the main structure is diagonal, the branch the style record treats as related, not core.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Theo van Doesburg, Sophie Taeuber-Arp, and Jean Arp decorated the Aubette entertainment complex on Place Kléber in 1926–1928. Van Doesburg did two cafés and two dance halls. [Wikipedia](https://en.wikipedia.org/wiki/Aubette_(building)).",
+    "The decorations were covered over in 1938. The cinema and staircase became historic monuments in 1985, and renovations were completed in 1994 and 2006. [Wikipedia](https://en.wikipedia.org/wiki/Aubette_(building)).",
+    "Wikipedia describes the scheme as an orthogonal composition in primary colors; the photograph shows the panels turned 45°, so that description does not match this room."
+  ],
+  "observed": [
+    "Raised bands divide the walls and ceiling into large squares turned 45°, so every edge runs on the diagonal.",
+    "The squares are painted red, yellow, dark blue, green, gray, and off-white; two red panels sit on the ceiling.",
+    "A metal balcony and stair cross the left wall; a straight rail hung from the ceiling carries a row of conical metal lamps.",
+    "Low booths with white panels edged in black stand on a blue floor.",
+    "The warm lighting of the photograph shifts the whites and yellows toward cream."
+  ],
+  "interpretation": [
+    "The room is van Doesburg’s counter-composition in space: the same flat colored planes as neoplasticism, turned against the orthogonal architecture. It is the clearest built example of the diagonal that divided him from Mondrian.",
+    "Use it as a contrast case for the fingerprint: a diagonal grid in the De Stijl palette should read as Elementarism."
+  ],
+  "borrow": [
+    "For a single dramatic room or section, rotate a De Stijl grid 45° against an orthogonal frame, and keep everything else square."
+  ],
+  "images": [
+    {
+      "file": "assets/references/aubette-cine-dancing-strasbourg.jpg",
+      "alt": "Interior of a large hall whose walls and ceiling are divided into big squares turned 45°, painted red, yellow, dark blue, green, and gray; a metal balcony and stair, a row of hanging conical lamps, and low white booths on a blue floor.",
+      "width": 960,
+      "height": 720,
+      "kind": "photograph",
+      "caption": "Ciné-dancing of the Aubette, Strasbourg, designed by Theo van Doesburg in 1926–1928, as reconstructed. Photograph by Clostridium on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Aubette_cine_dancing_doesburg.JPG), released into the public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Aubette_cine_dancing_doesburg.JPG",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The photographer released the photograph into the public domain (PD-self on Commons). The design is by Theo van Doesburg, who died in 1931, so it is public domain in France and the Netherlands; interiors finished in 1928 are not protected in the United States. The reconstruction copies his design and adds no new authorship that this record relies on."
+  },
+  "identifiers": {
+    "commons": "File:Aubette cine dancing doesburg.JPG"
+  }
+}

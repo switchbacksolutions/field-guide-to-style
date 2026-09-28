@@ -1,0 +1,63 @@
+{
+  "id": "lustig-nausea-book-jacket",
+  "title": "Nausea book jacket, New Classics series",
+  "type": "print",
+  "medium": "book",
+  "lede": "Alvin Lustig draws a knot of loose calligraphic strokes twice, once in black and once in white, slightly offset on an olive jacket.",
+  "summary": "Offset black and white brush strokes and lowercase italic serif titles on olive. Alvin Lustig for New Directions, c. 1952.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Nausea.jpg",
+    "label": "Wikimedia Commons: Nausea.jpg (photograph by Karen Horton)"
+  },
+  "creator": {
+    "name": "Alvin Lustig",
+    "url": "https://www.wikidata.org/wiki/Q4738169"
+  },
+  "made": "c. 1952 (Commons caption)",
+  "moods": [
+    "literary",
+    "restless",
+    "modern",
+    "crafted"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected, in the scratchpad only, the 1280 px Commons rendition of Karen Horton’s photograph of a copy of the jacket (original 2478 × 2859 px). The copy shows edge wear at the top. No museum copy was checked."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "Partial fit: Lustig’s New Directions jackets are central to the style’s graphic core, and this one shows hand-drawn marks and an off-register double image, but it uses only olive, black, and white.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Commons caption credits the jacket design to Alvin Lustig for the New Classics series published by New Directions, c. 1952. The photograph is by Karen Horton and is licensed CC BY 2.0. [Commons](https://commons.wikimedia.org/wiki/File:Nausea.jpg).",
+    "Lustig lived from 1915 to 1955. [Wikidata](https://www.wikidata.org/wiki/Q4738169). Sartre’s novel was first published in French in 1938; Lloyd Alexander translated it into English. [Wikipedia: Nausea (novel)](https://en.wikipedia.org/wiki/Nausea_(novel))."
+  ],
+  "observed": [
+    "The jacket is flat olive-brown.",
+    "“nausea” at upper left and “sartre” at lower left are lowercase italic serif in off-white.",
+    "The center holds an abstract knot of strokes: straight bars, hooks, arcs, and a V shape. Each stroke is drawn twice, once in black and once in off-white, with the two copies offset by a few millimetres.",
+    "“lustig” is signed in small black script at the right of the knot.",
+    "There is no frame or rule; the strokes float on the olive ground."
+  ],
+  "interpretation": [
+    "The offset black and white copies read like a two-color print out of register, the same effect the style uses as overprint.",
+    "The lowercase italic title and the loose marks show how Lustig paired quiet book type with expressive, hand-made imagery."
+  ],
+  "borrow": [
+    "Draw a mark twice in two colors and offset the copies slightly to suggest a print out of register.",
+    "Set titles in lowercase italic serif and let the image do the loud work."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is CC BY 2.0 (Karen Horton), but the jacket design itself has not been shown to be in the public domain: its US publication, notice, and renewal status were not checked."
+  },
+  "identifiers": {
+    "commons": "File:Nausea.jpg"
+  }
+}

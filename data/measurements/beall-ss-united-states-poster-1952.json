@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/beall-ss-united-states-poster-1952.jpg",
+  "captured": "2026-09-28T17:41:01+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f1e6d2",
+        "share": 0.451
+      },
+      {
+        "hex": "#1a181b",
+        "share": 0.168
+      },
+      {
+        "hex": "#6975ac",
+        "share": 0.095
+      },
+      {
+        "hex": "#cd5b3d",
+        "share": 0.066
+      },
+      {
+        "hex": "#0c0c0d",
+        "share": 0.061
+      },
+      {
+        "hex": "#2c2423",
+        "share": 0.022
+      },
+      {
+        "hex": "#b1aba1",
+        "share": 0.02
+      },
+      {
+        "hex": "#dfd3c0",
+        "share": 0.019
+      },
+      {
+        "hex": "#cec0af",
+        "share": 0.018
+      },
+      {
+        "hex": "#979187",
+        "share": 0.014
+      }
+    ],
+    "background": "#f1e6d2",
+    "chroma": 0.14,
+    "lightness": 0.58,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.54,
+    "distinct": 6,
+    "hues": 1
+  }
+}

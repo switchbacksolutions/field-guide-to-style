@@ -1,0 +1,74 @@
+{
+  "id": "greyhound-bus-station-huntington",
+  "title": "Greyhound bus station, Huntington, West Virginia",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "A late Greyhound terminal in the company’s streamline manner: a low granite-clad box with rounded corners, portholes, a ribbed canopy, and red neon capitals.",
+  "summary": "Rounded corners, round windows, a racetrack-shaped ribbon window, and GREYHOUND BUS DEPOT in red neon. George D. Brown, Huntington, 1953.",
+  "source": {
+    "url": "https://www.loc.gov/item/2015631799/",
+    "label": "Library of Congress: Streamline Moderne-style Greyhound Bus Station in Huntington, West Virginia"
+  },
+  "creator": {
+    "name": "George D. Brown (Clio)"
+  },
+  "made": "1953 (Clio)",
+  "moods": [
+    "streamlined",
+    "roadside",
+    "optimistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Carol M. Highsmith’s 2015 photograph (Library of Congress LCCN 2015631799) through its [Commons copy](https://commons.wikimedia.org/wiki/File:Streamline_Moderne-style_Greyhound_Bus_Station_in_Huntington,_West_Virginia_LCCN2015631799.tif) at 1920 px. The date and architect come from Clio; SAH Archipedia refused the request (HTTP 403)."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "streamline-moderne",
+      "note": "Clear fit on form, late in date: rounded ends, portholes, a ribbon window with semicircular ends, and a ribbed canopy. Built in 1953, after the style’s main period.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "Built in 1953, after the main period of the style. It shows how long Greyhound kept the streamline look for its terminals.",
+  "context": [
+    "Clio dates the station to 1953 and names the Charleston architect George D. Brown, who designed many Greyhound stations in the South and Midwest. The Tri-State Transit Authority bought and restored it in 1994. [Clio](https://theclio.com/entry/15652).",
+    "The Library of Congress title calls it a Streamline Moderne-style Greyhound bus station. [LOC](https://www.loc.gov/item/2015631799/)."
+  ],
+  "observed": [
+    "A low, long building clad in pinkish-brown speckled granite panels, with every outside corner rounded.",
+    "A taller block over the entrance rises in a curve toward the right and carries “GREYHOUND” and “BUS DEPOT” in red neon capitals with the running-dog emblem between.",
+    "Over the doors, a semicircular canopy is ribbed with several parallel horizontal bands.",
+    "A long ribbon window on the right ends in a semicircle, like a racetrack; round porthole windows sit on each side of the building.",
+    "Glass block fills the panels beside the doors; thin white coping runs along the roofline."
+  ],
+  "interpretation": [
+    "The terminal is a compact catalogue of streamline elements for a roadside brand: rounded ends, parallel bands on the canopy, portholes, and a racetrack window. The red capitals on a warm ground show a transport palette other than cream and navy."
+  ],
+  "borrow": [
+    "Give a long horizontal window or panel semicircular ends.",
+    "Ribbed canopies: stack three to five thin parallel bands on a rounded element to suggest speed."
+  ],
+  "images": [
+    {
+      "file": "assets/references/greyhound-bus-station-huntington.jpg",
+      "alt": "Color photograph of a low granite-clad bus station with rounded corners, round porthole windows, a long window with rounded ends, a ribbed semicircular canopy over glass doors, and red neon letters reading GREYHOUND BUS DEPOT with a running dog.",
+      "width": 1600,
+      "height": 972,
+      "kind": "photograph",
+      "caption": "Carol M. Highsmith, 2015. [Library of Congress](https://www.loc.gov/item/2015631799/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Streamline_Moderne-style_Greyhound_Bus_Station_in_Huntington,_West_Virginia_LCCN2015631799.tif).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/04/Streamline_Moderne-style_Greyhound_Bus_Station_in_Huntington%2C_West_Virginia_LCCN2015631799.tif",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks the photograph public domain; Carol M. Highsmith placed her Library of Congress photographs in the public domain. The building dates from 1953, before December 1990, so it has no architectural copyright in the United States. The Greyhound name and dog are trademarks shown as part of the building."
+  },
+  "identifiers": {
+    "lccn": "2015631799",
+    "commons": "File:Streamline Moderne-style Greyhound Bus Station in Huntington, West Virginia LCCN2015631799.tif"
+  }
+}

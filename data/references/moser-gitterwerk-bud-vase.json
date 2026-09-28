@@ -1,0 +1,74 @@
+{
+  "id": "moser-gitterwerk-bud-vase",
+  "title": "Lattice bud vase (Gitterwerk)",
+  "type": "object",
+  "medium": "product",
+  "lede": "Koloman Moser’s small vase for the Wiener Werkstätte is a box of white-painted sheet metal pierced with a regular grid of square holes, with two lattice loops as handles.",
+  "summary": "White-painted metal pierced with a grid of small squares, around a glass liner. Koloman Moser for the Wiener Werkstätte, c. 1904–1906.",
+  "source": {
+    "url": "https://collections.artsmia.org/art/6990/bud-vase-koloman-moser",
+    "label": "Minneapolis Institute of Art: Bud vase, 98.276.247a, b"
+  },
+  "creator": {
+    "name": "Koloman Moser (designer); Wiener Werkstätte (manufacturer)",
+    "url": "https://en.wikipedia.org/wiki/Koloman_Moser"
+  },
+  "made": "c. 1904–1906",
+  "moods": [
+    "geometric",
+    "precise",
+    "austere"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Minneapolis Institute of Art photograph of object 98.276.247a, b (372 × 800 px, the largest rendition the museum serves without an application). Other Gitterwerk vases by Moser differ in shape and colour."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "A clear example: the square lattice is both structure and ornament, in plain white, with no applied decoration.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Mia records the bud vase as designed by Koloman Moser and made by the Wiener Werkstätte, c. 1904–1906, in painted metal and glass, 21.59 × 7.62 × 5.08 cm, stamped “Wiener Werkstätte” on the bottom. [Mia 98.276.247a, b](https://collections.artsmia.org/art/6990/bud-vase-koloman-moser).",
+    "Mia describes Gitterwerk (gridwork) objects as made from sheets of base metal perforated with a grid, so that the grid is both the structure and the decoration. Hoffmann used the same technique; see [Hoffmann’s lattice basket](ref:hoffmann-gitterwerk-basket). [Mia 98.276.65](https://collections.artsmia.org/art/7097/basket-josef-hoffmann)."
+  ],
+  "observed": [
+    "The body is a tall, narrow rectangular box of white-painted metal, perforated with a regular grid of small square holes of equal size.",
+    "Two tall loops of the same perforated strip rise from the two long sides and end in round arches, like two handles side by side.",
+    "A clear glass liner shows through the holes.",
+    "The holes run in straight rows and columns up to the edges; the metal between them forms thin bars of equal width.",
+    "The paint is chipped in places along the edges and at the base."
+  ],
+  "interpretation": [
+    "The object is the style’s square lattice with nothing else added: one module, repeated, gives the whole form. The only curve is the arch at the top of each loop.",
+    "White paint rather than silver keeps it flat and graphic, close to a printed grid."
+  ],
+  "borrow": [
+    "Use a grid of small square cut-outs with bars of equal width as a border, a background band, or a frame.",
+    "Let a lattice band stand alone on a plain white ground, without shadows or gloss."
+  ],
+  "images": [
+    {
+      "file": "assets/references/moser-gitterwerk-bud-vase.jpg",
+      "alt": "Narrow white metal vase pierced all over with a grid of small square holes, with two tall arched loops of the same lattice rising from the top, photographed on a gray gradient.",
+      "width": 372,
+      "height": 800,
+      "kind": "photograph",
+      "caption": "Koloman Moser for the Wiener Werkstätte, bud vase, c. 1904–1906. Minneapolis Institute of Art, 98.276.247a, b, The Modernism Collection, gift of Norwest Bank Minnesota. Image from [Mia](https://collections.artsmia.org/art/6990/bud-vase-koloman-moser), rights status Public Domain.",
+      "original": "https://1.api.artsmia.org/800/6990.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Mia gives the rights status of this object as Public Domain. Koloman Moser died in 1918, and the vase was made c. 1904–1906, so the design is in the public domain in Austria and in the United States."
+  },
+  "identifiers": {
+    "mia": "98.276.247a, b"
+  }
+}

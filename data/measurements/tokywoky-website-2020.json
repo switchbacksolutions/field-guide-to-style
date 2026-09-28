@@ -1,0 +1,133 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20200907211042/https://www.tokywoky.com/",
+  "title": "TokyWoky - Go from website to community",
+  "captured": "2020-09-07T21:10:52.874Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Proxima Nova",
+        "share": 1
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 58,
+    "sizeRange": 3.63,
+    "scaleRatio": 1.16,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.02,
+    "monoShare": 0,
+    "centerShare": 0.87
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.833
+      },
+      {
+        "hex": "#33334f",
+        "share": 0.099
+      },
+      {
+        "hex": "#239efb",
+        "share": 0.042
+      },
+      {
+        "hex": "#767ead",
+        "share": 0.027
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#33334f",
+    "contrast": 12.2,
+    "chroma": 0.05,
+    "lightness": 0.9,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.85,
+    "distinct": 4,
+    "hues": 1,
+    "imageShare": 0.07,
+    "gradientShare": 0.31,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 14,
+    "radius": {
+      "median": 12,
+      "max": 23,
+      "roundShare": 0.64
+    },
+    "border": {
+      "share": 0.07,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0.21,
+    "patternShare": 0.07,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.823
+      },
+      {
+        "hex": "#ecebeb",
+        "share": 0.044
+      },
+      {
+        "hex": "#bebfc2",
+        "share": 0.027
+      },
+      {
+        "hex": "#239cf6",
+        "share": 0.015
+      },
+      {
+        "hex": "#aaa9af",
+        "share": 0.009
+      },
+      {
+        "hex": "#d2d2d6",
+        "share": 0.008
+      },
+      {
+        "hex": "#3a2424",
+        "share": 0.008
+      },
+      {
+        "hex": "#9ed2ee",
+        "share": 0.007
+      },
+      {
+        "hex": "#dddee1",
+        "share": 0.007
+      },
+      {
+        "hex": "#4aaaef",
+        "share": 0.006
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.03,
+    "lightness": 0.95,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.61,
+    "distinct": 3,
+    "hues": 2
+  }
+}

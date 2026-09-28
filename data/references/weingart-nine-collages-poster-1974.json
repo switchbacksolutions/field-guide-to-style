@@ -1,0 +1,62 @@
+{
+  "id": "weingart-nine-collages-poster-1974",
+  "title": "Nine Collages: The New Graphics by Weingart",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Weingart’s poster and order form for his own series of nine hand-printed collages, laid out as a sheet of framed panels around one large collage.",
+  "summary": "Black on white: a grid of framed collages with stepped lines, dot patterns, arcs, and crosses, and a vertical order form. Wolfgang Weingart, 1974–75.",
+  "source": {
+    "url": "https://letterformarchive.org/news/from-the-collection-legacies-of-swiss-style-part-2-wolfgang-weingart/",
+    "label": "Letterform Archive: Legacies of Swiss Style, Part 2—Wolfgang Weingart"
+  },
+  "creator": {
+    "name": "Wolfgang Weingart",
+    "url": "https://www.wikidata.org/wiki/Q95955"
+  },
+  "made": "1974–1975 (Letterform Archive)",
+  "moods": [
+    "kinetic",
+    "rebellious",
+    "layered",
+    "experimental"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected Letterform Archive’s photograph of the Archive’s copy (2496 × 3000) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "new-wave-typography",
+      "note": "Clear example. The small collages collect the style’s marks: spaced letters, stepped lines, dot fields, heavy bars, and halftone fragments.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Letterform Archive says the Nine Collages series came from darkroom experiments of the 1960s and early 1970s with “hand-cut films, barely-legible type, and the deliberate overlap of halftones to produce moiré effects”. [Letterform Archive](https://letterformarchive.org/news/from-the-collection-legacies-of-swiss-style-part-2-wolfgang-weingart/).",
+    "The poster text offers the collages, 59 × 49 cm, for sale by post from Basel, and its biography says Weingart taught typography at the School of Design in Basel from 1968."
+  ],
+  "observed": [
+    "The title is set in heavy grotesque capitals across the top: “NINE COLLAGES: THE NEW GRAPHICS BY WEINGART”.",
+    "Thin rules divide the sheet into panels of different sizes. Each small panel shows one collage and a bold caption such as “COLLAGE 5/1974”.",
+    "Collage 6 is made of spaced letters and dots (“1 8 9-1”, “E”, “T”, “H”) scattered on white. Collage 5 has a stepped line, a small grid, arcs, and “STO?”.",
+    "The large central collage is a black flame-like shape that holds halftone photographs of a cemetery, a garden, and a woman, with black dots, short rays, and a white cross.",
+    "The sale text uses bold capitals with a much larger price. The order form at right is set vertically, with “Order Form” in large type.",
+    "The biography at the bottom left is set in a typewriter face."
+  ],
+  "interpretation": [
+    "The poster shows that the style can use a plain framed grid as a container, as long as what happens inside the frames breaks it.",
+    "The typewriter biography is one of the few monospaced passages in Weingart’s work here; it is a small caption, not the main voice."
+  ],
+  "borrow": [
+    "Frame small experiments in a grid of thin rules, with one bold caption under each.",
+    "Set a form or call to action vertically along one edge.",
+    "Scatter a few spaced letters and dots in open white space as a quiet panel next to dense ones."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Photograph by Letterform Archive. Weingart died in 2021, so the design is in copyright."
+  }
+}

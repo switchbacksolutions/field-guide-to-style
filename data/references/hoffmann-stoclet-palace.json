@@ -1,0 +1,62 @@
+{
+  "id": "hoffmann-stoclet-palace",
+  "title": "Stoclet Palace, Brussels",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Josef Hoffmann’s house for Adolphe Stoclet, 1905–1911: flat white stone planes edged with metal mouldings, with interiors by the Wiener Werkstätte and a mosaic frieze by Klimt.",
+  "summary": "Flat stone planes framed by bands of metal moulding, and tall windows of small square panes. Josef Hoffmann, Brussels, 1905–1911.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Stoclet_Palace",
+    "label": "Wikipedia: Stoclet Palace"
+  },
+  "creator": {
+    "name": "Josef Hoffmann; Wiener Werkstätte",
+    "url": "https://en.wikipedia.org/wiki/Josef_Hoffmann"
+  },
+  "made": "1905–1911",
+  "moods": [
+    "austere",
+    "refined",
+    "monumental"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1280 × 853 px rendition of a 2015 exterior detail photograph by Fred Romero on Wikimedia Commons ([Bruxelles - Palais Stoclet (11)](https://commons.wikimedia.org/wiki/File:Bruxelles_-_Palais_Stoclet_(11).jpg), CC BY 2.0). It shows part of the tower and a window bay, not the whole house. The house is private and closed to visitors, so I saw no interior. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "A clear example of the late geometric phase: flat planes outlined by continuous bands, and windows of small squares. The style record lists Belgium for this building.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: the house was designed by Josef Hoffmann for the financier Adolphe Stoclet and built between 1905 and 1911 in the Vienna Secession style. It was the first residential project of the Wiener Werkstätte. Its features include geometric volumes, symmetry, straight lines, concrete covered with marble plaques, and mosaic friezes by Gustav Klimt. It is still owned by the Stoclet family and not open to visitors. [Wikipedia](https://en.wikipedia.org/wiki/Stoclet_Palace).",
+    "Wikipedia: the house has been a UNESCO World Heritage Site since 2009. The UNESCO listing is [Stoclet House, 1298](https://whc.unesco.org/en/list/1298/), which I did not open."
+  ],
+  "observed": [
+    "The wall is faced with large flat, pale stone plates with fine joints.",
+    "Every edge of the wall is outlined by a continuous band of dark metal moulding with a repeated, stepped pattern, so each plane reads as a framed panel.",
+    "A tall bay holds three narrow windows, each divided into many small square panes by white bars.",
+    "Three sculpted heads sit in square recesses above the windows, inside the moulding frame.",
+    "A black metal railing of squares and spirals stands on the roof edge above."
+  ],
+  "interpretation": [
+    "Outlining every plane with a thin band is the architectural version of the style’s ruled frames on paper. The building has little ornament apart from these edges.",
+    "Wikipedia’s Wiener Werkstätte article calls the house a pioneering work of Art Deco; the continuous edge bands point toward that later style."
+  ],
+  "borrow": [
+    "Outline each panel with a thin, patterned or dark band instead of a shadow or a fill change.",
+    "Divide a tall narrow element into a column of small squares."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Commons photograph is CC BY 2.0, but the building is by Josef Hoffmann, who died in 1956, so his work is protected in Austria until the end of 2026. Belgian freedom of panorama may permit exterior photographs; the lead curator can decide whether to upgrade to tier A after 2026."
+  },
+  "identifiers": {
+    "wikidata": "Q239028"
+  }
+}

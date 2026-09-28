@@ -1,0 +1,62 @@
+{
+  "id": "imac-g3-bondi-blue-1998",
+  "title": "iMac G3 in Bondi Blue",
+  "type": "product",
+  "medium": "product",
+  "lede": "Apple’s first iMac put a computer in a rounded shell of translucent blue and frosted white plastic, and made see-through candy colors a mass-market look.",
+  "summary": "Rounded translucent Bondi-blue and frosted-white casing, round puck mouse. Apple, designed by Jonathan Ive’s team, 1998.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O158296/imac-g3-personal-computer-ive-jonathan/",
+    "label": "V&A: iMac G3, W.29:1 to 4-2008"
+  },
+  "creator": {
+    "name": "Apple, industrial design team led by Jonathan Ive"
+  },
+  "made": "1998 (announced 6 May 1998, on sale 15 August 1998 per Wikipedia; V&A gives 1998 and 1998–1999)",
+  "moods": [
+    "techno-optimistic",
+    "playful",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the two V&A photographs of object W.29:1 to 4-2008 (images 2009BX8549 and 2009BX8548, 1600 × 1200 each) in scratchpad copies. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "The canonical Y2K object: translucent candy plastic, a blobby rounded shell, and a matching round mouse. Wikipedia’s Y2K article uses it as its blobject example.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A says the iMac G3 “revolutionised the aesthetics of computers at the end of the 1990s and influenced the shapes and colours of all types of domestic electrical products”, because Ive housed it “in translucent coloured polycarbonate rather than giving it a standard grey box”. The museum’s copy is the first model, available only in Bondi Blue with a tray disk drive. [V&A W.29-2008](https://collections.vam.ac.uk/item/O158296/imac-g3-personal-computer-ive-jonathan/).",
+    "Wikipedia gives the announcement as 6 May 1998 and first shipments as 15 August 1998. In January 1999 Apple replaced Bondi Blue with five colors: blueberry, strawberry, tangerine, grape, and lime. [Wikipedia: iMac G3](https://en.wikipedia.org/wiki/IMac_G3).",
+    "Wikipedia’s Y2K aesthetic article calls the iMac G3 an example of the blobject design common in the aesthetic. [Wikipedia: Y2K aesthetic](https://en.wikipedia.org/wiki/Y2K_aesthetic)."
+  ],
+  "observed": [
+    "Side view: the back of the case is a large teardrop curve of translucent teal-blue plastic. Vent grilles, brackets, and cables show through it.",
+    "The lower part of the case and the front bezel are frosted, milky white plastic with fine vertical ribs.",
+    "Front view: a gray screen sits in a rounded white bezel with a small serif “iMac” name under it. Round translucent-blue speaker grilles flank a slot panel.",
+    "The keyboard has black keys in a frosted, blue-edged frame. The mouse is a round puck with a translucent blue rim and a clear top."
+  ],
+  "interpretation": [
+    "The object sets the Y2K material grammar: saturated color that is also see-through, frosted white as the neutral, and technology shown as a pleasure instead of hidden in a gray box.",
+    "Its shapes are soft and continuous. Even the mouse is a disc. This is the blobject side of the style, without chrome."
+  ],
+  "borrow": [
+    "Pair one saturated translucent color with a frosted white. Let a darker inner structure show through the colored layer.",
+    "Use fine parallel ribs on a pale surface to suggest molded plastic.",
+    "Make small controls round and give them the same translucent color as the main panel."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The V&A photographs are © Victoria and Albert Museum, London. The product design belongs to Apple. Public-domain photographs of the iMac exist on Wikimedia Commons, but the lead curator must decide whether an industrial product of 1998 counts as not copyrightable before any image is stored."
+  },
+  "identifiers": {
+    "vam": "O158296"
+  }
+}

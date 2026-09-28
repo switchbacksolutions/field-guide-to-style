@@ -1,0 +1,63 @@
+{
+  "id": "windows-com-website-2013",
+  "title": "Windows website, 2013",
+  "type": "website",
+  "medium": "website",
+  "lede": "The Windows 8 consumer site: a black header, a photo hero, and a full-width yellow band with large dark type.",
+  "summary": "Black header, flat cyan button, and a solid yellow band with large dark gray headline. April 2013.",
+  "source": {
+    "url": "http://windows.microsoft.com/en-US/windows/home",
+    "label": "windows.microsoft.com, Windows home page",
+    "archive": "https://web.archive.org/web/20130401135628/http://windows.microsoft.com/en-US/windows/home"
+  },
+  "creator": {
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com/"
+  },
+  "made": "2013",
+  "moods": [
+    "bright",
+    "friendly",
+    "commercial"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 from the Wayback Machine copy of 1 April 2013, and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. Nothing covers the page. Segoe UI is not installed on the capture machine, so text that the archive did not serve as a web font renders in a fallback sans-serif."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "Clear: a flat black header, a square cyan button, and a full-width solid yellow band; the headings are heavier than Metro’s usual light weight.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A black header holds the cyan Windows logo, uppercase white navigation, and a dark gray search field.",
+    "A photograph of a family on a beach fills the hero, with a tablet showing the Windows 8 Start screen tiles. The headline “Meet Windows 8” is large dark gray type; a square cyan “Take a look” button sits below.",
+    "A full-width solid yellow band follows, with the headline “Positioned for success” in large dark gray type and a photo of a laptop."
+  ],
+  "interpretation": [
+    "Measured: 39% of screenshot pixels are saturated, in 7 hue groups (partly from the photograph); no radius, shadow, or gradient. Large headings measure weight 600, so the capture fails the heading-weight range; the lower screens were measured but are not in the screenshot."
+  ],
+  "borrow": [
+    "Alternate photo bands with solid color bands of the same height, and keep the same headline treatment on both."
+  ],
+  "images": [
+    {
+      "file": "assets/references/windows-com-website-2013.jpg",
+      "alt": "Windows home page of April 2013: a black header with the Windows logo, a photo hero of a family and a tablet showing the Start screen with the headline Meet Windows 8 and a cyan button, and a yellow band with the headline Positioned for success.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [Wayback Machine copy of windows.microsoft.com, 1 April 2013](https://web.archive.org/web/20130401135628/http://windows.microsoft.com/en-US/windows/home).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot of an archived copy, captured for commentary."
+  }
+}

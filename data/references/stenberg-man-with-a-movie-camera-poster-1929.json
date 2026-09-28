@@ -1,0 +1,58 @@
+{
+  "id": "stenberg-man-with-a-movie-camera-poster-1929",
+  "title": "Man with a Movie Camera poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "The Stenberg brothers’ poster for Dziga Vertov’s film spins a dancing woman and a spiral of credits over skyscrapers seen from steep angles.",
+  "summary": "A spiral of white capitals on black around a cut-out dancing figure, over tilted red, yellow, and green skyscrapers. Vladimir and Georgii Stenberg, 1929.",
+  "source": {
+    "url": "https://cdm15851.contentdm.oclc.org/digital/collection/p15851coll19/id/33/",
+    "label": "Digital Library of Early Soviet Cinema: Man with a Movie Camera [Poster]"
+  },
+  "creator": {
+    "name": "Vladimir Stenberg and Georgii Stenberg",
+    "url": "https://www.wikidata.org/wiki/Q23836603"
+  },
+  "made": "1929",
+  "moods": [
+    "kinetic",
+    "vertiginous",
+    "urban"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Viewed an 800 × 1243 px image from the Digital Library of Early Soviet Cinema, whose record credits the image to Kinopoisk. The physical copy is not identified, so the level stays documented. MoMA lists a copy as object 217943 ([MoMA](https://www.moma.org/collection/works/217943)); the MoMA page refused automated access (HTTP 403) and was not read."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "constructivism",
+      "note": "Partial fit: a canonical constructivist film poster in its composition and lettering, but it is the colorful exception the style record names. It uses several hues and drawn, tonal imagery.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Digital Library of Early Soviet Cinema describes it as “a constructivist poster by the Stenberg brothers” advertising Dziga Vertov’s documentary *Man with a Movie Camera* (1929). [Digital Library of Early Soviet Cinema](https://cdm15851.contentdm.oclc.org/digital/collection/p15851coll19/id/33/).",
+    "The imprint names the producer VUFKU. The poster is signed “2 СТЕНБЕРГ 2” at the lower left, the brothers’ usual signature."
+  ],
+  "observed": [
+    "In the image viewed, a woman’s figure, drawn from photographs, dances with arms spread across the sheet. Her head is upside down near the center and her legs fall toward the lower right.",
+    "A black circle and a spiral band of white capitals turn around her, carrying the credits and “ФИЛЬМ БЕЗ СЛОВ” (film without words).",
+    "“ЧЕЛОВЕК С КИНО АППАРАТОМ” curves in large white capitals on a black band from the left edge to the lower right.",
+    "Skyscrapers in red, yellow, teal green, and beige, drawn with gridded windows, tilt in from every edge in steep perspective.",
+    "The ground is black."
+  ],
+  "interpretation": [
+    "The poster keeps the style’s grammar of rotation, cut-out figures, and heavy capitals, but replaces red and black with a multicolor palette. The measured fingerprint rule `color.hues = 1` would reject it, which the record accepts as the style’s known exception."
+  ],
+  "borrow": [
+    "Set a line of credits on a circular or spiral path around a central figure.",
+    "Frame a subject with architecture seen from steep upward and downward angles to create vertigo."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Georgii Stenberg died in 1933, but Vladimir Stenberg died in 1982, so the joint work is protected in Russia until at least 2052. The Digital Library of Early Soviet Cinema marks its image “Public Domain”, which does not account for Vladimir Stenberg’s term."
+  }
+}

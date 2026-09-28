@@ -1,0 +1,64 @@
+{
+  "id": "greiman-design-quarterly-133-1986",
+  "title": "Design Quarterly 133: “Does It Make Sense?”",
+  "titleBreak": "Design Quarterly 133:|“Does It Make Sense?”",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "April Greiman’s issue of the Walker Art Center’s journal, made on a Macintosh as a single fold-out poster: a life-size bitmap self-portrait among layers of type, symbols, and video images.",
+  "summary": "A fold-out issue with a pixelated nude self-portrait, spaced typewriter-style lines, symbols, and video stills. April Greiman, Walker Art Center, 1986.",
+  "source": {
+    "url": "https://peoplesgdarchive.org/item/1804/does-it-make-sense-design-quarterly-133",
+    "label": "People’s Graphic Design Archive: Design Quarterly #133"
+  },
+  "creator": {
+    "name": "April Greiman",
+    "url": "https://www.wikidata.org/wiki/Q4782033"
+  },
+  "made": "1986 (Walker Art Center)",
+  "moods": [
+    "layered",
+    "experimental",
+    "intuitive",
+    "digital"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the People’s Graphic Design Archive photographs of the front and back of one opened copy (1440 × 474 and 1440 × 485) in scratchpad copies. The owner of the copy is not stated. Only the larger type is readable at this size. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "new-wave-typography",
+      "note": "Clear example of the style’s move to the computer: layered fragments, spaced lines of type, and bars, made in MacDraw.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "Walker Art Center text quoted by the People’s Graphic Design Archive says the usual 32 pages were treated as a two-foot-by-six-foot, double-sided fold-out, and that Greiman used MacDraw to combine video images and type and to tile pages into a pixelated, life-size double self-portrait. [People’s Graphic Design Archive](https://peoplesgdarchive.org/item/1804/does-it-make-sense-design-quarterly-133).",
+    "Greiman’s own page names Mildred Friedman as editor and says the type was set on a Macintosh and LaserWriter. [aprilgreiman.com](https://www.aprilgreiman.com/does-it-make-sense)."
+  ],
+  "observed": [
+    "The front is dark violet on cream. A life-size nude figure made of coarse bitmap dots lies across the whole sheet.",
+    "Around the figure float a spiral galaxy, hands, a brain, orbits, planet symbols, small photographs, and a black panel with a moon.",
+    "A bitmap block at the top right holds large pixel numerals and “the spiritual double” in a monospaced face.",
+    "A line of words runs along the bottom edge on a ruled scale: “proton . neutron . electron . moron . milli . micro …”, with wide gaps and full stops between the words.",
+    "“live where you can.” sits upside down on a white bar.",
+    "The back has large colour video stills, a yellow ground, a dot-screen cloud in orange, blue text in a slab face, and narrow columns of small text."
+  ],
+  "interpretation": [
+    "The issue keeps the style’s layering, bars, and spaced lines, but the type is often monospaced or slab, and bitmap dots replace film screens. It is a partial fit that marks the end of the period and the start of digital postmodern design.",
+    "The monospaced lines here are one reason the fingerprint should not treat a small share of monospaced type as a counter-sign by itself."
+  ],
+  "borrow": [
+    "Run a spaced-out line of words along a ruled scale at the page edge.",
+    "Build one large figure from coarse dots and lay small symbols over it.",
+    "Turn one short phrase upside down on a white bar."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. April Greiman is living, so the design is in copyright. The photographs’ owner is not stated."
+  }
+}

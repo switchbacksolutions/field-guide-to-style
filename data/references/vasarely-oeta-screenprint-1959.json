@@ -1,0 +1,60 @@
+{
+  "id": "vasarely-oeta-screenprint-1959",
+  "title": "Oeta – 1956",
+  "type": "print",
+  "medium": "painting",
+  "lede": "Victor Vasarely’s screenprint after a 1956 composition: a black and white grid of squares that shears and twists, between large black and white rhombs on a grey ground.",
+  "summary": "A black-square grid that distorts into rhombs, with large tilted black and white blocks on grey. Victor Vasarely, screenprint, 1959.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O71746/",
+    "label": "V&A: Print “Oeta – 1956”, CIRC.682-1965"
+  },
+  "creator": {
+    "name": "Victor Vasarely"
+  },
+  "made": "1959 (print, after a 1956 composition)",
+  "moods": [
+    "precise",
+    "shifting",
+    "architectural"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A image of its copy, CIRC.682-1965 (1267 × 1600 px), with a colour bar at the side, in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "Vasarely’s black and white period in print: a regular grid of squares that bends into rhombs to suggest folding and depth.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes a colour screenprint on paper, 55.5 × 36.8 cm, made in France in 1959, acquired in 1965. [V&A](https://collections.vam.ac.uk/item/O71746/).",
+    "The V&A calls Vasarely (1908–1997) one of the leading artists of the movement later named Op art, whose aim was to make a static surface seem to move, and notes his use of cheap screenprinting for multiples. [V&A](https://collections.vam.ac.uk/item/O71746/)."
+  ],
+  "observed": [
+    "A mid-grey rectangle sits on a white sheet. On it, a wide band holds a grid of black squares on white.",
+    "In parts of the grid the squares rotate or shear into rhombs, so the band seems to fold and ripple.",
+    "Large black squares and black-and-white rhombs, tilted at different angles, sit above and below the grid.",
+    "Only black, white, and one grey appear."
+  ],
+  "interpretation": [
+    "Oeta shows the checkerboard as a surface under stress: a few units change shape, and the whole plane seems to bend.",
+    "The grey ground is the one step in the value scale that the style record allows."
+  ],
+  "borrow": [
+    "Take a strict grid of black squares and shear a few rows or cells into rhombs to suggest a fold.",
+    "Use one mid-grey as a ground to separate a black and white pattern from a white page."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Vasarely died in 1997, so the work is in copyright until 2067 in France."
+  },
+  "identifiers": {
+    "vam": "O71746"
+  }
+}

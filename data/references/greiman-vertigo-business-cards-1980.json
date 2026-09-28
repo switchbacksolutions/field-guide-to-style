@@ -1,0 +1,59 @@
+{
+  "id": "greiman-vertigo-business-cards-1980",
+  "title": "Vertigo business cards",
+  "type": "print",
+  "medium": "other",
+  "lede": "April Greiman’s business cards for the Los Angeles shop Vertigo: a letterspaced wordmark on a tilted bar, with stripes, dots, and diagonal lines that change from card to card.",
+  "summary": "Four cards with “V e r t / g o” on a tilted bar, a black triangle for the V, and stripes, dots, and checks. April Greiman, 1980.",
+  "source": {
+    "url": "https://peoplesgdarchive.org/item/3133/vertigo-business-cards",
+    "label": "People’s Graphic Design Archive: Vertigo business cards"
+  },
+  "creator": {
+    "name": "April Greiman",
+    "url": "https://www.wikidata.org/wiki/Q4782033"
+  },
+  "made": "1980 (People’s Graphic Design Archive)",
+  "moods": [
+    "kinetic",
+    "playful",
+    "layered",
+    "experimental"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the People’s Graphic Design Archive image (901 × 1500), a black-and-white photograph of four cards, probably reproduced from a publication; the owner of the physical cards is not stated. Not stored. Colours are not visible."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "new-wave-typography",
+      "note": "Clear example of Greiman’s California New Wave at the scale of stationery: wide letterspacing, tilted bars, and scattered geometric marks.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The People’s Graphic Design Archive credits the cards to April Greiman for the client Vertigo/Lynda Weinman, printed by McCoy Printing, and dates them 1980. [People’s Graphic Design Archive](https://peoplesgdarchive.org/item/3133/vertigo-business-cards)."
+  ],
+  "observed": [
+    "Each card carries the wordmark “Vertigo” on a tilted rectangular bar. The V is a solid black triangle, a slash replaces the i, and a black dot follows the o.",
+    "The letters of the wordmark are spaced wide apart.",
+    "The four cards have different grounds: black vertical stripes that extend past the card edge, a dark card with round holes or dots, a light card with thin diagonal lines and circles, and a card with a pattern of rounded squares.",
+    "Addresses are set in small bold grotesque, some lines tilted or letterspaced (“L o s  A n g e l e s”).",
+    "Small words such as “gifts”, “paper”, and “fashion acces.” run along diagonal lines."
+  ],
+  "interpretation": [
+    "The cards turn a small identity into a system of variations: one tilted, spaced wordmark stays fixed while the surfaces change. This is the style’s move from the poster to everyday print."
+  ],
+  "borrow": [
+    "Put a letterspaced wordmark on a slightly tilted solid bar.",
+    "Replace one letter with a geometric mark (a triangle, a slash, a dot).",
+    "Keep the mark fixed and change the surface pattern across a set of cards."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The design belongs to April Greiman or her client; the photograph’s owner is not stated."
+  }
+}

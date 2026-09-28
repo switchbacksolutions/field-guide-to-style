@@ -1,0 +1,60 @@
+{
+  "id": "riley-study-for-intake-1964",
+  "title": "Study for the painting “Intake”",
+  "type": "image",
+  "medium": "painting",
+  "lede": "Bridget Riley’s black poster-colour study of 1964: wavy black and white bands that tighten into one corner.",
+  "summary": "Black and white curved bands that narrow and bunch toward the top right corner. Bridget Riley, study for Intake, 1964.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1036839/",
+    "label": "V&A: Study for the painting “Intake”, CIRC.237-1965"
+  },
+  "creator": {
+    "name": "Bridget Riley"
+  },
+  "made": "1964",
+  "moods": [
+    "vibrating",
+    "fluid",
+    "high-contrast"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A image of its copy, CIRC.237-1965 (1552 × 1600 px), in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "A clear black and white Riley study: stripes that change width and direction by steps, so the flat sheet seems to flow.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A catalogues the drawing with the style “Op Art”: pencil and black poster colour on paper, 26.3 × 29.4 cm, acquired by the V&A Circulation Department in 1965. [V&A](https://collections.vam.ac.uk/item/O1036839/).",
+    "The V&A’s general Riley text also says she designed the Woolmark logo while at an advertising agency. That claim conflicts with the usual attribution of the logo to [Franco Grignani](ref:grignani-woolmark-logo-1964), and it is not repeated here as fact. [V&A](https://collections.vam.ac.uk/item/O1036839/)."
+  ],
+  "observed": [
+    "Alternating black and white bands run from the lower left toward the top right corner inside a square.",
+    "At the lower left the bands are broad and gently curved; toward the top right they narrow, bend more, and converge.",
+    "The bands are flat and hard-edged, painted in solid black with no tone.",
+    "A narrow grey mount shows around the square."
+  ],
+  "interpretation": [
+    "The study isolates the core op device of the style: a stripe field that changes width by steps until the eye reads movement and depth.",
+    "Its hand-painted scale shows that Riley’s effects were planned in small studies before the large paintings."
+  ],
+  "borrow": [
+    "Run a stripe field diagonally and let it converge into one corner to create a strong direction.",
+    "Change stripe width and curvature together, not separately, so that the field seems to turn in space."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is by a living artist, and the V&A image is not openly licensed."
+  },
+  "identifiers": {
+    "vam": "O1036839"
+  }
+}

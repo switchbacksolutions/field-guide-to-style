@@ -1,0 +1,72 @@
+{
+  "id": "humaaans-illustration-library-2018",
+  "title": "Humaaans illustration library (Pablo Stanley)",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A free mix-and-match library of flat vector people by Pablo Stanley: interchangeable heads, tops, legs, and poses that anyone can assemble into scenes.",
+  "summary": "Mix-and-match flat people with small heads and long legs. Free under CC0, and one of the main channels of the style.",
+  "source": {
+    "url": "https://www.humaaans.com/",
+    "label": "Humaaans"
+  },
+  "creator": {
+    "name": "Pablo Stanley",
+    "url": "https://www.humaaans.com/"
+  },
+  "made": "2018 (Commons gives 13 December 2018 for the uploaded parts)",
+  "moods": [
+    "friendly",
+    "casual",
+    "modular"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected 1280 px renderings of `Humaaans-standing-1.svg` and `Humaaans-sitting-1.svg` from [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:Humaaans_design_library) and stored the standing figure, flattened onto white."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Clear fit in form: small head, long tapering limbs, flat fills, and no outlines. The stored figure has brown skin, not a non-natural color, which the library lets the user choose.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Humaaans site states: “Free for commercial or personal use. CC0 Public Domain License.” It describes customizable hair, tops, pants, poses, and scene templates for success states, error states, onboarding, and landing pages. [Humaaans](https://www.humaaans.com/).",
+    "Wired (24 January 2021) quotes Pablo Stanley on his image banks of “flat, wacky SVGs” and his estimate that they were downloaded hundreds of thousands of times, and names such banks as a main cause of the style’s spread. [Wired](https://www.wired.com/story/corporate-memphis-design-tech/).",
+    "In August 2019 AIGA Eye on Design illustrated its article on the style with edited Humaaans figures, then licensed under CC BY 4.0. See [Katharina Brenner’s illustration](ref:brenner-big-tech-cartoons-illustration-2019)."
+  ],
+  "observed": [
+    "A standing woman in profile, turned to the right, with a long ponytail drawn as a wavy navy shape.",
+    "The head is a small, featureless oval; there are no eyes or mouth.",
+    "She wears a bright blue jacket, a pale grey top, and trousers in two tones of grey-teal, one tone per leg.",
+    "Hands are flat brown shapes with pointed fingers; shoes are dark navy blocks.",
+    "Every shape is a flat fill with no outline. Shading is one darker tone of the same color on the far sleeve and leg.",
+    "The seated figure uses the same system: a red jacket, blue trousers, and a pale grey ball as a seat."
+  ],
+  "interpretation": [
+    "Humaaans turns the style into a kit. The parts join at fixed points, so any combination gives the same proportions, which is why the figures appear on so many unrelated products."
+  ],
+  "borrow": [
+    "Use one darker tone of the same hue for the far arm and leg instead of shading.",
+    "Keep faces blank or nearly blank so that pose and color carry the expression."
+  ],
+  "images": [
+    {
+      "file": "assets/references/humaaans-illustration-library-2018.png",
+      "alt": "Flat vector woman in profile with a long wavy navy ponytail, a small featureless brown head, a bright blue jacket, grey-teal trousers, and navy shoes, on white.",
+      "width": 1267,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "“Humaaans-standing-1” by Pablo Stanley, 2018. CC0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Humaaans-standing-1.svg), rendered at 1280 px and flattened onto white.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Humaaans-standing-1.svg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Humaaans site states “CC0 Public Domain License”; the Commons file carries CC0. In 2019 AIGA credited the library under CC BY 4.0, so the license appears to have changed from CC BY to CC0. Credit: Pablo Stanley."
+  }
+}

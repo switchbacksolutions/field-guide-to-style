@@ -1,0 +1,63 @@
+{
+  "id": "rietveld-schroder-house",
+  "title": "Rietveld Schröder House, Utrecht",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Gerrit Rietveld’s house of 1924: white and gray wall planes, black frames, and a few linear elements in the primaries, arranged as separate slabs and bars.",
+  "summary": "White and gray slabs, black window frames, and a yellow post and red bars. Gerrit Rietveld, Utrecht, 1924.",
+  "source": {
+    "url": "https://www.rietveldschroderhuis.nl/",
+    "label": "Rietveld Schröderhuis (Centraal Museum)"
+  },
+  "creator": {
+    "name": "Gerrit Rietveld",
+    "url": "https://en.wikipedia.org/wiki/Gerrit_Rietveld"
+  },
+  "made": "1924",
+  "moods": [
+    "planar",
+    "open",
+    "austere"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 2010 photograph of the street front by User:Husky on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Rietveld_Schr%C3%B6derhuis_HayKranen-20.JPG) (4515 × 3010 px, viewed at 1280 px). No image is stored. The museum’s website showed a cookie box over its home page in a headless capture."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "The movement’s best-known building: planes and bars that overlap without joining, white and gray surfaces, and small primary accents.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Rietveld built the house in 1924 for Truus Schröder-Schräder and her three children. The facades have white and gray surfaces, black window and door frames, and linear elements in primary colors. [Wikipedia](https://en.wikipedia.org/wiki/Rietveld_Schr%C3%B6der_House).",
+    "The upper floor uses sliding and revolving panels to open or divide the space. The house was inscribed on the UNESCO World Heritage List on 2 December 2000 and is run by the Centraal Museum. [Wikipedia](https://en.wikipedia.org/wiki/Rietveld_Schr%C3%B6der_House)."
+  ],
+  "observed": [
+    "The house is a composition of flat white and gray wall slabs and thin roof slabs that project past the walls.",
+    "A tall yellow post stands at the left corner and runs above the roof edge; a black steel post supports a balcony at the center.",
+    "Red appears in thin horizontal bars at the upper right window and in a short vertical element at the ground floor right.",
+    "Window frames are black; a cantilevered white balcony slab with a black railing projects over the entrance.",
+    "The house joins the end wall of a brick terrace with pitched roofs, which makes its flat planes stand out."
+  ],
+  "interpretation": [
+    "The house turns the painting rule into space: each plane and bar is a separate element with its own color, and the primaries are used as thin accents while white and gray carry the mass.",
+    "It shows that the style’s primaries can be very small in area and still dominate."
+  ],
+  "borrow": [
+    "Let panels overlap and project past each other instead of meeting in closed corners.",
+    "Keep large areas white and gray, and use primaries only for thin structural elements such as posts, bars, or rules."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Commons photograph is CC BY 3.0, but Rietveld died in 1964, so the building is protected in the Netherlands until 2035. Dutch freedom of panorama (Article 18 of the Auteurswet) and the United States exclusion of pre-1990 buildings would probably permit exterior photographs; the lead curator can decide whether to upgrade to tier A."
+  },
+  "identifiers": {
+    "wikidata": "Q914231",
+    "commons": "File:Rietveld Schröderhuis HayKranen-20.JPG"
+  }
+}

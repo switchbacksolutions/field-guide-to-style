@@ -1,0 +1,145 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://mercuryweather.app/",
+  "title": "Mercury Weather ☁️",
+  "captured": "2026-09-28T17:31:12.820Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Inter",
+        "share": 1
+      }
+    ],
+    "baseSize": 15.2,
+    "maxSize": 76,
+    "sizeRange": 5,
+    "scaleRatio": 1.22,
+    "headingWeight": 800,
+    "bodyWeight": 400,
+    "headingTracking": -0.05,
+    "uppercaseShare": 0.02,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#05060f",
+        "share": 0.32
+      },
+      {
+        "hex": "#a78bfa",
+        "share": 0.166
+      },
+      {
+        "hex": "#120829",
+        "share": 0.16
+      },
+      {
+        "hex": "#2b1364",
+        "share": 0.16
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.137
+      },
+      {
+        "hex": "#d0d8ff",
+        "share": 0.05
+      },
+      {
+        "hex": "#d8b4fe",
+        "share": 0.006
+      }
+    ],
+    "background": "#a78bfa",
+    "text": "#f5f7ff",
+    "contrast": 2.5,
+    "chroma": 0.17,
+    "lightness": 0.38,
+    "chromaticShare": 0.33,
+    "accentChroma": 0.38,
+    "distinct": 6,
+    "hues": 1,
+    "imageShare": 0.12,
+    "gradientShare": 0.88,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 15,
+    "radius": {
+      "median": 18,
+      "max": 70,
+      "roundShare": 0.87
+    },
+    "border": {
+      "share": 0.8,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.07,
+      "hardShare": 0,
+      "medianBlur": 120,
+      "medianOffset": 44
+    },
+    "gradientShare": 0.2,
+    "patternShare": 0,
+    "blurShare": 0.4
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#0e0923",
+        "share": 0.183
+      },
+      {
+        "hex": "#2a1c50",
+        "share": 0.115
+      },
+      {
+        "hex": "#1a0e38",
+        "share": 0.077
+      },
+      {
+        "hex": "#0f2c43",
+        "share": 0.071
+      },
+      {
+        "hex": "#3e2975",
+        "share": 0.062
+      },
+      {
+        "hex": "#0e2035",
+        "share": 0.062
+      },
+      {
+        "hex": "#483281",
+        "share": 0.061
+      },
+      {
+        "hex": "#242d4e",
+        "share": 0.052
+      },
+      {
+        "hex": "#34285f",
+        "share": 0.051
+      },
+      {
+        "hex": "#113a54",
+        "share": 0.044
+      }
+    ],
+    "background": "#0e0923",
+    "chroma": 0.21,
+    "lightness": 0.24,
+    "chromaticShare": 0.17,
+    "accentChroma": 0.38,
+    "distinct": 13,
+    "hues": 4
+  }
+}

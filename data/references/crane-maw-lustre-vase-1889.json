@@ -1,0 +1,74 @@
+{
+  "id": "crane-maw-lustre-vase-1889",
+  "title": "Lustre vase by Walter Crane for Maw & Co.",
+  "type": "object",
+  "medium": "product",
+  "lede": "A squat earthenware vase in ruby lustre on which Walter Crane wrapped a spiral band with a reclining figure around a field of scrolling leaves.",
+  "summary": "Ruby-red lustre on cream earthenware: a spiral band with a figure and scrolling leaves. Walter Crane for Maw & Co., 1889.",
+  "source": {
+    "url": "https://clevelandart.org/art/2017.208",
+    "label": "Cleveland Museum of Art: Vase, 2017.208"
+  },
+  "creator": {
+    "name": "Walter Crane (designer); Maw & Co. (maker)"
+  },
+  "made": "1889",
+  "moods": [
+    "lyrical",
+    "warm",
+    "handmade"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Cleveland Museum of Art open-access image of object 2017.208 (3283 × 3400 px). Only one side of the vase is shown."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "Partial fit: shown at the Arts and Crafts Exhibition Society and drawn in flat outline, but its diagonal, flowing band is looser than the movement’s symmetrical repeats.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Cleveland calls Crane one of the leading figures of the British Arts and Crafts movement. This vase is one of a series he designed for Maw & Co. around 1889, when they were first listed in the catalogue of the Arts and Crafts Exhibition Society. [Cleveland Museum of Art](https://clevelandart.org/art/2017.208).",
+    "The ruby-red lustre surface is a hallmark of Maw’s work and refers to 15th- and 16th-century Spanish lustreware. [Cleveland Museum of Art](https://clevelandart.org/art/2017.208).",
+    "Cleveland lists it as earthenware, 22.4 × 22.7 cm, Britain, 1889. [Cleveland Museum of Art](https://clevelandart.org/art/2017.208)."
+  ],
+  "observed": [
+    "The vase has a wide, flattened body, a narrow neck, and a cup-shaped mouth.",
+    "The decoration is in one colour: ruby-red lustre on a cream, slightly speckled ground.",
+    "A broad band, outlined by two red lines, spirals around the body. Inside it a nude figure with long hair reclines, drawn in thin red lines.",
+    "Outside the band, oval cartouches hold stylized leaves, surrounded by small scrolls and dots.",
+    "All decoration is flat outline and fill, without shading."
+  ],
+  "interpretation": [
+    "The flat outline drawing and the look back to Renaissance lustreware fit the movement. The diagonal band with a figure is closer to Crane’s book illustration than to the static repeats of Morris’s textiles.",
+    "Read with [Strawberry Thief](ref:morris-strawberry-thief-textile), it shows that the movement’s red can be a strong, glossy ceramic red as well as a printed madder."
+  ],
+  "borrow": [
+    "Use a single warm red on cream for both pattern and figure, and let the line weight carry the hierarchy.",
+    "Frame a figure inside a band with a double line, and fill the rest of the field with small, repeated leaf cartouches."
+  ],
+  "images": [
+    {
+      "file": "assets/references/crane-maw-lustre-vase-1889.jpg",
+      "alt": "Squat earthenware vase decorated in ruby-red lustre on cream: a spiral band with a reclining nude figure crosses the body, and scrolling leaf cartouches fill the rest.",
+      "width": 1545,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Walter Crane for Maw & Co., vase, 1889. Cleveland Museum of Art, Gift of Katharine Lee Reid, 2017.208. [Open-access image](https://clevelandart.org/art/2017.208), CC0.",
+      "original": "https://openaccess-cdn.clevelandart.org/2017.208/2017.208_print.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Cleveland Museum of Art releases the image as CC0. Walter Crane died in 1915, and the vase dates from 1889, so the design is in the public domain in the United Kingdom and the United States."
+  },
+  "identifiers": {
+    "cleveland": "2017.208"
+  }
+}

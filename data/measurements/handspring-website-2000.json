@@ -1,0 +1,129 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20000815053118if_/http://www.handspring.com/",
+  "title": "Handspring",
+  "captured": "2000-08-15T05:31:31.071Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "helvetica",
+        "share": 1
+      }
+    ],
+    "baseSize": 10,
+    "maxSize": 10,
+    "sizeRange": 1,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.791
+      },
+      {
+        "hex": "#000099",
+        "share": 0.16
+      },
+      {
+        "hex": "#000000",
+        "share": 0.049
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000099",
+    "contrast": 14.4,
+    "chroma": 0.1,
+    "lightness": 0.84,
+    "chromaticShare": 0.16,
+    "accentChroma": 0.6,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0.24,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 0,
+    "radius": {
+      "median": null,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.867
+      },
+      {
+        "hex": "#f2f4f6",
+        "share": 0.023
+      },
+      {
+        "hex": "#dee2ec",
+        "share": 0.01
+      },
+      {
+        "hex": "#357cb6",
+        "share": 0.01
+      },
+      {
+        "hex": "#4f92c3",
+        "share": 0.009
+      },
+      {
+        "hex": "#babdc4",
+        "share": 0.007
+      },
+      {
+        "hex": "#a6a8aa",
+        "share": 0.006
+      },
+      {
+        "hex": "#bbc5ed",
+        "share": 0.006
+      },
+      {
+        "hex": "#1e65a6",
+        "share": 0.006
+      },
+      {
+        "hex": "#c7dcea",
+        "share": 0.006
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.03,
+    "lightness": 0.96,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.46,
+    "distinct": 2,
+    "hues": 2
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hoffmann-cabaret-fledermaus",
+  "title": "Cabaret Fledermaus bar room, Vienna",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Josef Hoffmann’s cabaret of 1907 for the Wiener Werkstätte: a black and white checkerboard floor, a bar clad in white square tiles, and walls of multicoloured majolica tiles.",
+  "summary": "Checkerboard floor, a white-tiled bar, and a wall mosaic of coloured majolica tiles. Josef Hoffmann and the Wiener Werkstätte, Vienna, 1907.",
+  "source": {
+    "url": "https://de.wikipedia.org/wiki/Cabaret_Fledermaus",
+    "label": "Wikipedia (German): Cabaret Fledermaus"
+  },
+  "creator": {
+    "name": "Josef Hoffmann; Wiener Werkstätte",
+    "url": "https://en.wikipedia.org/wiki/Josef_Hoffmann"
+  },
+  "made": "1907 (opened 19 October 1907; in use at this address until 1913)",
+  "moods": [
+    "geometric",
+    "playful",
+    "precise"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "The interior no longer exists. I inspected the Wien Museum photograph (3500 px wide) of Wiener Werkstätte postcard no. 75, “Cabaret Fledermaus, Barraum”, 1907, colour lithography, attributed to Josef Hoffmann (inv. 101968/25). The postcard is a drawing, not a photograph, so proportions and colours may be stylized. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "A clear example: the checkerboard floor and the square-tiled bar are the style’s signature surfaces, and the postcard’s lettering is packed into ruled bands.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "German Wikipedia: the cabaret opened on 19 October 1907 in the basement of Kärntner Straße 33, corner of Johannesgasse, on the initiative of Fritz Wärndorfer. Josef Hoffmann planned the interior and the Wiener Werkstätte carried it out; Klimt, Kokoschka, Moser, Czeschka, and others took part. The Werkstätte also designed posters, postcards, cutlery, and ushers’ badges. The most striking element was a mosaic of 7,000 majolica tiles on the walls, the bar, and the cloakroom. The cabaret stayed at this address until 1913. [Wikipedia (German)](https://de.wikipedia.org/wiki/Cabaret_Fledermaus).",
+    "The Wien Museum records postcard no. 75, “Cabaret Fledermaus, Barraum”, as by Josef Hoffmann, 1907, colour lithography on paperboard, 14.1 × 9.1 cm, published by the Wiener Werkstätte (?). [Wien Museum 101968/25](https://sammlung.wienmuseum.at/en/object/177264-postkarte-der-wiener-werkstaette-nr-75-cabaret-fledermaus-barraum/)."
+  ],
+  "observed": [
+    "On the postcard, the floor is a large black and white checkerboard drawn in perspective.",
+    "The bar counter is a block clad in white square tiles with black joints; a few tiles are coloured.",
+    "The rear walls are covered to about two-thirds of their height in a mosaic of rectangular tiles in blue, yellow, orange, green, red, and gray, with figures, flowers, and vessels on some tiles.",
+    "The upper wall and ceiling are plain white, with a row of oval yellow lamps along the top of the tile band.",
+    "The drawing sits in a thin black frame. Two ruled bands at the bottom hold “CABARET FLEDERMAUS” and “WIEN · KÄRNTNERSTRASSE 33” in capitals that fill each band from edge to edge; a small square monogram sits at the lower right."
+  ],
+  "interpretation": [
+    "The room puts the style’s pattern where the rubric says it belongs: in bands and zones (floor, bar, lower wall), with plain white above.",
+    "The many-coloured tiles break the black, white, and gold rule. They show that the Werkstätte used full colour in small modules, while the structure stayed black and white."
+  ],
+  "borrow": [
+    "Use a black and white checkerboard as a ground band or footer, with plain white above it.",
+    "Draw a block as a grid of white squares with black joints, and colour only a few squares as accents.",
+    "Close a card with two ruled bands of packed capitals, like the postcard’s address line."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Wien Museum makes this postcard image available only on request, because rights must be cleared with the copyright holder. Josef Hoffmann died in 1956, so his work is protected in Austria until the end of 2026."
+  },
+  "identifiers": {
+    "wikidata": "Q1024740",
+    "wienmuseum": "101968/25"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "fastmail-website-2020",
+  "title": "Fastmail website, 2020",
+  "type": "website",
+  "medium": "website",
+  "lede": "Fastmail’s 2020 home page: a woman with long legs relaxes at a laptop on a balcony full of plants, in a flat yellow hero with a curved lower edge.",
+  "summary": "A relaxed long-limbed figure among potted plants on a flat yellow field with a curved edge. 2020.",
+  "source": {
+    "url": "https://www.fastmail.com/",
+    "label": "Fastmail",
+    "archive": "https://web.archive.org/web/20200701220517/https://www.fastmail.com/"
+  },
+  "creator": {
+    "name": "Fastmail"
+  },
+  "made": "2020 (Wayback capture of 1 July 2020)",
+  "moods": [
+    "relaxed",
+    "warm",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. No cookie box covers the page. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Borderline: a flat scene with a long-legged figure, potted plants, and oversized sneakers on a pale color field, but the skin is natural and some shapes carry a light grain.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "The live Fastmail site has changed since this 2020 capture.",
+  "observed": [
+    "A dark navy bar holds the logo and navigation; a square blue “Sign up” button sits at the right.",
+    "The hero is a flat pale yellow field whose lower edge is a wide convex curve.",
+    "The heading “Email you can feel good about” is bold dark grey sans-serif; a square-cornered blue button reads “Try it free for 30 days”.",
+    "On the right, a woman with brown skin and long black hair sits with crossed legs in a white chair, holding a cup beside a pink laptop. Her shoes lie on the floor below.",
+    "Potted plants in pink and blue pots, a pale yellow city skyline, and trees surround her; some leaves and pots have a fine grain."
+  ],
+  "interpretation": [
+    "The page takes the style’s plants, pastel field, and relaxed long-limbed figure and gives it a natural skin tone, a variant common after 2019."
+  ],
+  "borrow": [
+    "End the hero color field with one wide convex curve instead of a straight edge."
+  ],
+  "images": [
+    {
+      "file": "assets/references/fastmail-website-2020.jpg",
+      "alt": "Fastmail home page, 2020: a pale yellow hero with the heading “Email you can feel good about” on the left and a long-legged woman relaxing at a pink laptop among potted plants and a pale skyline on the right.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [Fastmail](https://web.archive.org/web/20200701220517/https://www.fastmail.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  }
+}

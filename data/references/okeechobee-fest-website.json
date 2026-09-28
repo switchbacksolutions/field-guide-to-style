@@ -1,0 +1,65 @@
+{
+  "id": "okeechobee-fest-website",
+  "title": "Okeechobee Music & Arts Festival website",
+  "type": "website",
+  "medium": "website",
+  "lede": "A Florida festival site whose hero is a giant spiral of lime-green and gray rings behind a warped, bulging wordmark.",
+  "summary": "Huge lime and gray concentric rings, a perspective-warped black wordmark, and a magenta sign-up box.",
+  "source": {
+    "url": "https://www.okeechobeefest.com/",
+    "label": "okeechobeefest.com"
+  },
+  "creator": {
+    "name": "Okeechobee Music & Arts Festival"
+  },
+  "moods": [
+    "hypnotic",
+    "loud",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A magenta sign-up box covers about a sixth of the viewport and hides part of the wordmark; it does not dim the page."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "Borderline: the concentric rings and warped wordmark are psychedelic motifs, but the palette is lime and neutral gray, not complements, and the type is a condensed grotesque.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "Broad concentric rings of lime green and mid gray fill the whole viewport, centered left of middle.",
+    "The black wordmark OKEECHOBEE runs across the rings in heavy condensed capitals whose letters grow and shrink as if seen on a bulging surface.",
+    "Music & Arts Festival and Sunshine Grove · Florida are set at right in a black condensed sans.",
+    "Navigation items are gray pill-shaped buttons at top right, with one in purple.",
+    "A magenta rectangle with a black outline asks READY TO JOIN THE OMF FAMILY? above a lime pill button."
+  ],
+  "interpretation": [
+    "The page uses the entoptic ring motif at full scale, and the warped wordmark borrows the style’s habit of bending letters to a shape. Its lime and magenta accents clash, but the gray field keeps it cooler than a period poster.",
+    "Measured values: the rings are drawn as an image, so `color.chromaticShare` from computed styles is 0.14 while the screenshot measures 0.53; `color.patternShare` is 0 and `type.centerShare` is 0.14."
+  ],
+  "borrow": [
+    "Use concentric rings at viewport scale as the hero ground.",
+    "Warp a wordmark so letter height follows an imagined curved surface.",
+    "Shape navigation as pills to echo the round forms of the hero."
+  ],
+  "images": [
+    {
+      "file": "assets/references/okeechobee-fest-website.jpg",
+      "alt": "Okeechobee festival home page: large lime-green and gray concentric rings, the word OKEECHOBEE in warped black capitals partly hidden by a magenta sign-up box, and festival details in black at right.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [okeechobeefest.com](https://www.okeechobeefest.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners. Screenshot captured for commentary."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

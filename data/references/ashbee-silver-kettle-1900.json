@@ -1,0 +1,74 @@
+{
+  "id": "ashbee-silver-kettle-1900",
+  "title": "Silver kettle by C. R. Ashbee",
+  "type": "object",
+  "medium": "product",
+  "lede": "A plain, hand-hammered silver kettle by the founder of the Guild of Handicraft, with an ivory handle, a green stone finial, and heart-shaped piercings in the foot.",
+  "summary": "Hand-hammered silver with an ivory grip, a chrysoprase finial, and pierced hearts. C. R. Ashbee, 1900.",
+  "source": {
+    "url": "https://clevelandart.org/art/1976.23",
+    "label": "Cleveland Museum of Art: Kettle, 1976.23"
+  },
+  "creator": {
+    "name": "Charles Robert Ashbee",
+    "url": "https://www.wikidata.org/wiki/Q614071"
+  },
+  "made": "1900",
+  "moods": [
+    "handmade",
+    "plain",
+    "honest"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Cleveland Museum of Art open-access image of object 1976.23 (3400 × 3208 px). The museum record has no description; the maker attribution, date, and materials come from its tombstone data."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "Partial fit: Arts and Crafts metalwork with visible hammer marks and a simple stone setting, but none of the movement’s pattern.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Cleveland lists the kettle as silver with an ivory handle and chrysoprase finial, 28.6 × 25.7 cm, by Charles Robert Ashbee (1863–1942), England, 1900. [Cleveland Museum of Art](https://clevelandart.org/art/1976.23).",
+    "Ashbee founded the Guild and School of Handicraft in the East End of London and moved the guild to Chipping Campden in 1902. Wikipedia describes the guild’s work as plain surfaces of hammered silver, flowing wirework, and coloured stones in simple settings. [Wikipedia: Arts and Crafts movement](https://en.wikipedia.org/wiki/Arts_and_Crafts_movement)."
+  ],
+  "observed": [
+    "The body is a squat, rounded pot on a flared foot. Small dents from hammering break up the reflections on every surface.",
+    "A tall loop handle of two thin silver rods ends in teardrop-shaped tabs soldered to the shoulder. The grip is a spindle of pale ivory.",
+    "The lid finial is a green stone held in a small silver wire cage.",
+    "Heart shapes are pierced through the foot ring.",
+    "There is no engraved or chased ornament on the body."
+  ],
+  "interpretation": [
+    "The kettle shows the movement’s surface trait, visible handwork, without its pattern. It is closer to the plain, square branch than to Morris’s textiles.",
+    "The only ornament is structural: the pierced foot, the handle tabs, and the stone. That is the movement’s idea of ornament that stays secondary to the thing it decorates."
+  ],
+  "borrow": [
+    "Let a hand-made surface texture stand in for ornament: one quiet texture over a plain form.",
+    "Mark a small detail with a simple cut-out shape, such as a heart, instead of applied decoration."
+  ],
+  "images": [
+    {
+      "file": "assets/references/ashbee-silver-kettle-1900.jpg",
+      "alt": "Round silver kettle on a flared foot with a tall looped handle and an ivory grip, a green stone knob on the lid, and heart-shaped holes cut in the foot. The surface shows small hammer marks.",
+      "width": 1600,
+      "height": 1510,
+      "kind": "source-image",
+      "caption": "Charles Robert Ashbee, kettle, 1900. Cleveland Museum of Art, Gift of the Womens Council of the Cleveland Museum of Art, 1976.23. [Open-access image](https://clevelandart.org/art/1976.23), CC0.",
+      "original": "https://openaccess-cdn.clevelandart.org/1976.23/1976.23_print.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Cleveland Museum of Art releases the image as CC0. Ashbee died in 1942, so the design entered the public domain in the United Kingdom at the end of 2012. It was made in 1900, so it is also in the public domain in the United States."
+  },
+  "identifiers": {
+    "cleveland": "1976.23"
+  }
+}

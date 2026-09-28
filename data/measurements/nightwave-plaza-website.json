@@ -1,0 +1,133 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://plaza.one/",
+  "title": "Nightwave Plaza - Online Vaporwave Radio",
+  "captured": "2026-09-28T17:17:13.062Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Tahoma",
+        "share": 1
+      }
+    ],
+    "baseSize": 11,
+    "maxSize": 14,
+    "sizeRange": 1.27,
+    "scaleRatio": 1.08,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0.04,
+    "monoShare": 0,
+    "centerShare": 0.14
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.55
+      },
+      {
+        "hex": "#c0c0c0",
+        "share": 0.306
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.092
+      },
+      {
+        "hex": "#0645ad",
+        "share": 0.051
+      }
+    ],
+    "background": "#c0c0c0",
+    "text": "#000000",
+    "contrast": 11.5,
+    "chroma": 0.03,
+    "lightness": 0.34,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.65,
+    "distinct": 4,
+    "hues": 1,
+    "imageShare": 0.89,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 27,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.78,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.56,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 1.4
+    },
+    "gradientShare": 0.11,
+    "patternShare": 0.04,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#b28c85",
+        "share": 0.227
+      },
+      {
+        "hex": "#474c53",
+        "share": 0.197
+      },
+      {
+        "hex": "#36434c",
+        "share": 0.105
+      },
+      {
+        "hex": "#745d6b",
+        "share": 0.104
+      },
+      {
+        "hex": "#c2c1c2",
+        "share": 0.063
+      },
+      {
+        "hex": "#7dd0ca",
+        "share": 0.052
+      },
+      {
+        "hex": "#675353",
+        "share": 0.024
+      },
+      {
+        "hex": "#483b3f",
+        "share": 0.023
+      },
+      {
+        "hex": "#574648",
+        "share": 0.022
+      },
+      {
+        "hex": "#fefefe",
+        "share": 0.02
+      }
+    ],
+    "background": "#b28c85",
+    "chroma": 0.12,
+    "lightness": 0.48,
+    "chromaticShare": 0.09,
+    "accentChroma": 0.38,
+    "distinct": 10,
+    "hues": 4
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "silver-diner-website",
+  "title": "Silver Diner website",
+  "type": "website",
+  "medium": "website",
+  "lede": "A diner chain’s site whose header carries the brand’s streamline mark: a script name between two sets of triple speed lines on navy.",
+  "summary": "A navy header with the Silver Diner script between triple white speed lines, uppercase navigation, and a red top band.",
+  "source": {
+    "url": "https://www.silverdiner.com/",
+    "label": "silverdiner.com"
+  },
+  "creator": {
+    "name": "Silver Diner"
+  },
+  "moods": [
+    "retro",
+    "friendly",
+    "commercial"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. A cookie banner covers the bottom 70 px and an accessibility button sits at lower right; neither hides the header."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "streamline-moderne",
+      "note": "Borderline: the logo and header use triple horizontal speed lines and a navy, red, and white palette, but the rest of the first screen is a full-width food photograph with square corners.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Silver Diner is a restaurant chain in the diner tradition; its logo draws the name in tall script between horizontal speed lines. The site states no designer."
+  ],
+  "observed": [
+    "A red band at the top carries “SAVE SILVER DINER! LEARN MORE” in spaced serif capitals.",
+    "The navy header centers the “Silver Diner” logo in tall, condensed white script; three parallel white lines run out from each side of the name almost to the header’s full width.",
+    "The navigation below is in white sans-serif capitals: Menus, Locations, About, Specials, Rewards, Contact. An “ORDER NOW” button at right is a white rectangle with square corners.",
+    "The rest of the viewport is a slider photograph of pancakes with chocolate sauce and raspberries on a red booth background."
+  ],
+  "interpretation": [
+    "The speed lines live in the logo image, so the measurement cannot see them: color.patternShare and surface.patternShare are 0. The header is centered (type.centerShare 0.87), and every box has square corners (radius median 0). The site passes only the uppercase and gradient metrics of the fingerprint.",
+    "It is the clearest live website found for this style. Real sites use streamline as a logo and a palette, not as a layout."
+  ],
+  "borrow": [
+    "Run three thin parallel rules out from both sides of a centered wordmark to the edges of the header."
+  ],
+  "images": [
+    {
+      "file": "assets/references/silver-diner-website.jpg",
+      "alt": "Silver Diner home page: a red top band, a navy header with the white Silver Diner script between triple horizontal speed lines, uppercase white navigation, and a large photograph of pancakes with chocolate sauce and raspberries.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [silverdiner.com](https://www.silverdiner.com/), 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design, logo, and photographs belong to Silver Diner. Screenshot captured for commentary."
+  }
+}

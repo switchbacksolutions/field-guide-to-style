@@ -1,0 +1,63 @@
+{
+  "id": "trps-website",
+  "title": "The Rock Poster Society website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The San Francisco rock poster society’s site: a dense contemporary psychedelic festival poster on a deep blue ground of wavy lines.",
+  "summary": "A dense psychedelic poster beside dark blue panels, on a navy ground of fine wavy lines.",
+  "source": {
+    "url": "https://trps.org/",
+    "label": "trps.org"
+  },
+  "creator": {
+    "name": "The Rock Poster Society"
+  },
+  "moods": [
+    "dense",
+    "nocturnal",
+    "ornate"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A small reCAPTCHA badge sits at lower right."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "Borderline: the poster image and the rippling background pattern are in the style, and the logo uses psychedelic lettering, but the page chrome is a dark, conventional layout with a plain sans. Much of the style here is in the displayed artwork.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The ground is a deep navy blue covered with fine, wavy horizontal lines like ripples.",
+    "A tall poster at left is filled edge to edge with green and gold faces, eyes, birds, and radiating spikes, symmetrical about a vertical axis. Its lettering, TRPS FESTIVAL OF ROCK POSTERS and the date and venue, is swollen and bent to fit arches and banners.",
+    "At right, two dark rounded panels hold Upcoming Shows in a serif heading with sans-serif details, and the TRPS logo in gold, orange, and purple lettering with a winged eye.",
+    "The header is black with THE ROCK POSTER SOCIETY in widely spaced, thin gold capitals with Art Nouveau shapes."
+  ],
+  "interpretation": [
+    "The page is a frame for poster art rather than a design in the style throughout. The rippling line ground is the part of the page chrome that carries the style.",
+    "Measured values: every metric that depends on computed color fails, because the poster is an image and the ground is dark; the screenshot has 5 hues."
+  ],
+  "borrow": [
+    "Fill a dark ground with fine wavy lines to suggest liquid movement without adding color.",
+    "Set a thin, spaced Art Nouveau capital face in gold for a header wordmark."
+  ],
+  "images": [
+    {
+      "file": "assets/references/trps-website.jpg",
+      "alt": "Rock Poster Society home page: a navy background with wavy lines, a dense green and gold psychedelic festival poster at left, and dark panels at right listing upcoming shows and the TRPS logo.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [trps.org](https://trps.org/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners. Screenshot captured for commentary."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

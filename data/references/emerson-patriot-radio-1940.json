@@ -1,0 +1,73 @@
+{
+  "id": "emerson-patriot-radio-1940",
+  "title": "Emerson Patriot radio",
+  "type": "product",
+  "medium": "product",
+  "lede": "Norman Bel Geddes’s Catalin table radio for Emerson: a grille of stacked horizontal bars beside a big round dial.",
+  "summary": "A red Catalin case with a grille of cream horizontal bars and a large round dial. Norman Bel Geddes for Emerson, 1940.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O85202/patriot-midget-radio-bel-geddes-norman/",
+    "label": "Victoria and Albert Museum: Patriot Midget radio, W.31-1992"
+  },
+  "creator": {
+    "name": "Norman Bel Geddes (designer); Emerson Radio and Phonograph Corporation (manufacturer)"
+  },
+  "made": "1940 (V&A: ca. 1940)",
+  "moods": [
+    "streamlined",
+    "bright",
+    "patriotic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Daderot’s 2015 photograph of a Model 400 (FC-400) Patriot in the Museum für Angewandte Kunst Köln on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Radio_Model_400_(FC-400)_Patriot,_Norman_Bel_Geddes,_Emerson,_Catalin_case_-_Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Cologne,_Germany_-_DSC09461.jpg) at 1920 px. Read the V&A record for W.31-1992 (blue case, red and white grille) through the V&A API. The two copies differ in color."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "streamline-moderne",
+      "note": "Partial fit: the case is a rectangle, as the V&A notes, but the grille of stacked horizontal bars and the round dial are streamline signs.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A says Bel Geddes (1893–1958) helped define streamline styling, but chose a rectilinear case for the Patriot, a “Stars and Stripes” design made in red, white, and blue combinations and linked to Emerson’s 25th anniversary; the knobs are embossed with stars. [V&A O85202](https://collections.vam.ac.uk/item/O85202/patriot-midget-radio-bel-geddes-norman/).",
+    "The V&A copy has a blue case, a grille of alternating red and white bands, and two blue knobs; it measures 19 × 26.5 × 13.6 cm. [V&A O85202](https://collections.vam.ac.uk/item/O85202/patriot-midget-radio-bel-geddes-norman/)."
+  ],
+  "observed": [
+    "The Cologne copy has a glossy red case with slightly rounded edges and a cream handle on top.",
+    "The left half of the front is a grille of seven cream bars stacked horizontally with dark gaps between them; the bars are flat on the front and slightly rounded at the ends.",
+    "The right half holds a large round dial with a cream ring of numbers and a red pointer; the small text on the dial reads “Emerson Radio and Phonograph Corp. N.Y. U.S.A.”",
+    "Two white knobs, each embossed with a five-pointed star, sit below the dial."
+  ],
+  "interpretation": [
+    "The radio reduces the style to two signs: parallel horizontal bars and a circle. The bars read as speed lines even on a still box. The V&A’s caution matters: the case itself is not streamlined."
+  ],
+  "borrow": [
+    "Pair a block of stacked horizontal bars with one large circle in a two-part layout.",
+    "Use red, cream, and navy as flat plastic colors with no gradient."
+  ],
+  "images": [
+    {
+      "file": "assets/references/emerson-patriot-radio-1940.jpg",
+      "alt": "Front view of a red plastic table radio in a museum case: a grille of seven cream horizontal bars on the left, a large round dial with a cream number ring on the right, two white star-embossed knobs, and a cream handle on top.",
+      "width": 1600,
+      "height": 1052,
+      "kind": "photograph",
+      "caption": "Emerson Model 400 Patriot, Museum für Angewandte Kunst Köln. Photograph by Daderot, 2015, CC0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Radio_Model_400_(FC-400)_Patriot,_Norman_Bel_Geddes,_Emerson,_Catalin_case_-_Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Cologne,_Germany_-_DSC09461.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/59/Radio_Model_400_%28FC-400%29_Patriot%2C_Norman_Bel_Geddes%2C_Emerson%2C_Catalin_case_-_Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Cologne%2C_Germany_-_DSC09461.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The photographer dedicated the photograph to the public domain (CC0), and notes that the radio is not subject to US copyright, only to a long-expired design patent. The radio is an American useful article. Norman Bel Geddes died in 1958."
+  },
+  "identifiers": {
+    "vam": "O85202",
+    "accession": "W.31-1992",
+    "commons": "File:Radio Model 400 (FC-400) Patriot, Norman Bel Geddes, Emerson, Catalin case - Museum für Angewandte Kunst Köln - Cologne, Germany - DSC09461.jpg"
+  }
+}

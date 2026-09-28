@@ -1,0 +1,65 @@
+{
+  "id": "weingart-typografische-monatsblatter-covers-1972-1973",
+  "title": "Typografische Monatsblätter covers, 1972–1973",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "Wolfgang Weingart’s series of covers for the Swiss trade journal TM, which break its grid with stepped blocks, spaced-out letters, and heavy bars.",
+  "summary": "Grey and white journal covers: Akzidenz-Grotesk set in steps, arcs, and very wide letterspacing, with black bars and arrows. Wolfgang Weingart, 1972–73.",
+  "source": {
+    "url": "https://letterformarchive.org/news/from-the-collection-legacies-of-swiss-style-part-2-wolfgang-weingart/",
+    "label": "Letterform Archive: Legacies of Swiss Style, Part 2—Wolfgang Weingart"
+  },
+  "creator": {
+    "name": "Wolfgang Weingart",
+    "url": "https://www.wikidata.org/wiki/Q95955"
+  },
+  "made": "1972–1973 (Letterform Archive)",
+  "moods": [
+    "kinetic",
+    "rebellious",
+    "layered",
+    "experimental",
+    "didactic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected Letterform Archive’s photographs of seven covers held by the Archive (Nr. 1, 5, and 12 of 1972; Nr. 2, 3, 6.7, and 10 of 1973), 1996 to 2965 px wide, in scratchpad copies. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "new-wave-typography",
+      "note": "Clear example. The covers are the first public statement of the style, and Letterform Archive connects them with the name “Swiss Punk”.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The TM editorial board asked Weingart, a new board member, to design fifteen covers for the 1972 and 1973 print runs. The covers are set in Akzidenz-Grotesk and have “a conspicuous variety of line weights, imbalanced asymmetries, and stepped text blocks intersected by bold rectilinear shapes”. [Letterform Archive](https://letterformarchive.org/news/from-the-collection-legacies-of-swiss-style-part-2-wolfgang-weingart/).",
+    "Jan Tschichold wrote to the editor that he hoped this was the last issue with a Weingart cover, and later called Weingart “the anti-typographer”. [Letterform Archive](https://letterformarchive.org/news/from-the-collection-legacies-of-swiss-style-part-2-wolfgang-weingart/).",
+    "The cover of Nr. 6.7/1973 carries the name of April Greiman, Weingart’s student; see [her later work](ref:greiman-your-turn-my-turn-poster-1983)."
+  ],
+  "observed": [
+    "Nr. 2/1973: a quotation in small capitals with very wide gaps between the letters fills four lines; below it, “NACHRICHT” in heavy capitals runs up in an arc, each letter rotated.",
+    "Nr. 1/1972: “Typographie realisiert Sprache” in large black grotesque is cut into cells by thin vertical rules; a narrow text column at right ends each line with a black rectangle of a different length.",
+    "Nr. 5/1972: “SPRACHE:” in heavy condensed capitals, then lines in a regular grotesque, each underlined by a grey bar. Weight changes inside one line (“Darstellungs-zeichen.”), and the last word “Gebärden.” is letterspaced.",
+    "Nr. 12/1972 and Nr. 3/1973: grey or white panels with stepped edges overlap the text blocks, and a justified line opens into very large word gaps.",
+    "Nr. 6.7/1973: “A P R I L   G R E I M A N” and “F E E L I N G   T Y P O G R A P H Y” in thin capitals with very wide letterspacing, around a centered photograph.",
+    "Nr. 10/1973: large heavy type in mixed sizes, a black arrow bar, black dots, a triangle, and small rotated text on a thin angled line.",
+    "Each cover keeps the same footer, the three journal names with bold initials, and a number at the top."
+  ],
+  "interpretation": [
+    "The series is a catalogue of the style’s type moves inside one fixed frame: wide tracking, rotation, stepping, weight changes, and bars. The fixed footer and number show that the disorder is controlled.",
+    "The palette is almost only black, grey, and paper, so colour is not needed for the style."
+  ],
+  "borrow": [
+    "Keep a fixed header and footer, and change only the middle composition from issue to issue.",
+    "Set a quotation in small capitals with gaps of one or two letter widths between the letters.",
+    "End lines of a narrow column with black bars of different lengths instead of a clean rag."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Photographs by Letterform Archive. Weingart died in 2021, so the designs are in copyright."
+  }
+}

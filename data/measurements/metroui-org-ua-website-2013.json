@@ -1,0 +1,165 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20130523011043if_/http://metroui.org.ua/",
+  "title": "Metro UI CSS",
+  "captured": "2013-05-23T01:10:56.652Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Segoe UI Semilight",
+        "share": 0.45
+      },
+      {
+        "family": "Segoe UI",
+        "share": 0.42
+      },
+      {
+        "family": "Segoe UI Light",
+        "share": 0.13
+      }
+    ],
+    "baseSize": 14.7,
+    "maxSize": 50,
+    "sizeRange": 3.41,
+    "scaleRatio": 1.18,
+    "headingWeight": 200,
+    "bodyWeight": 300,
+    "headingTracking": 0.01,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.05
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.542
+      },
+      {
+        "hex": "#f1f1f1",
+        "share": 0.193
+      },
+      {
+        "hex": "#000000",
+        "share": 0.101
+      },
+      {
+        "hex": "#d5e7ec",
+        "share": 0.052
+      },
+      {
+        "hex": "#2d89ef",
+        "share": 0.037
+      },
+      {
+        "hex": "#525252",
+        "share": 0.03
+      },
+      {
+        "hex": "#9f00a7",
+        "share": 0.019
+      },
+      {
+        "hex": "#00a300",
+        "share": 0.007
+      },
+      {
+        "hex": "#ffc40d",
+        "share": 0.007
+      },
+      {
+        "hex": "#b91d47",
+        "share": 0.004
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0.06,
+    "lightness": 0.82,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.74,
+    "distinct": 6,
+    "hues": 5,
+    "imageShare": 0.12,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 30,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.47,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.502
+      },
+      {
+        "hex": "#f1f1f1",
+        "share": 0.175
+      },
+      {
+        "hex": "#308aef",
+        "share": 0.046
+      },
+      {
+        "hex": "#a10aa9",
+        "share": 0.034
+      },
+      {
+        "hex": "#d6e6ec",
+        "share": 0.029
+      },
+      {
+        "hex": "#ced2d3",
+        "share": 0.016
+      },
+      {
+        "hex": "#4e522d",
+        "share": 0.016
+      },
+      {
+        "hex": "#726545",
+        "share": 0.016
+      },
+      {
+        "hex": "#d08e68",
+        "share": 0.015
+      },
+      {
+        "hex": "#bbbcbd",
+        "share": 0.014
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.11,
+    "lightness": 0.85,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.65,
+    "distinct": 5,
+    "hues": 7
+  }
+}

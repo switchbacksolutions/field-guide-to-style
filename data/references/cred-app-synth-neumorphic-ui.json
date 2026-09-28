@@ -1,0 +1,64 @@
+{
+  "id": "cred-app-synth-neumorphic-ui",
+  "title": "CRED app and the Synth framework",
+  "type": "product",
+  "medium": "app",
+  "lede": "An Indian credit-card payments app that moved its whole product to a dark neumorphic interface and open-sourced the framework in 2021.",
+  "summary": "CRED’s dark, soft-shadowed app interface and Synth, its open-source neumorphic component library for Android and iOS.",
+  "source": {
+    "url": "https://github.com/CRED-CLUB/synth-android",
+    "label": "CRED-CLUB/synth-android on GitHub",
+    "archive": "https://web.archive.org/web/20210126090732/https://blog.cred.club/team-cred/design/world-meet-neumorphism-open-sourcing-our-ui-framework/"
+  },
+  "creator": {
+    "name": "CRED (Dreamplug Technologies)",
+    "url": "https://cred.club/"
+  },
+  "made": "2020–2021 (adopted after late 2019; Synth open-sourced 18 January 2021)",
+  "moods": [
+    "tactile",
+    "premium",
+    "quiet"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Synth README banner (2560 × 1280, hosted on i.imgur.com), which shows CRED app screens on phones. The blog post was read from its Wayback capture of 26 January 2021; the live URL now redirects to the CRED home page. The app itself and the blog’s video were not inspected."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "A shipped consumer product, not a concept, that applied the style across the whole app. It is the dark variant: controls and panels share one charcoal surface and rise from it with soft shadows.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "CRED’s blog post “World, meet Synth: Open-sourcing our Neumorphic UI framework” (18 January 2021) says the style “piqued the interest of a few of our designers”, who mocked it up “as a side project”, and that the company then decided “to not just have a few screens but the entire product adopt the Neumorphic aesthetic”.",
+    "It adds: “we had to optimize for lights, shadows, gradients, and more in our framework.” Synth was released for Android and iOS under the Apache 2.0 License; the Android repository was created on 12 January 2021.",
+    "The Synth README says the library “works over base color concept and derives light and dark colors from base color itself”."
+  ],
+  "observed": [
+    "Three phones rendered as dark charcoal slabs on a charcoal background, tilted diagonally.",
+    "Pill buttons (“Add new”, “View details”) and header chips rise from the dark surface with soft dark shadows and faint light edges. A “Pay more” button is filled blue.",
+    "Credit-card images and notification cards are in saturated colors (green, mustard, purple, terracotta), which break the single-surface rule.",
+    "Text is a light, lowercase geometric sans-serif in pale gray; the “synth by CRED” logotype is a copper gradient."
+  ],
+  "interpretation": [
+    "The strongest evidence found that the style reached a large production app, and it shows the dark variant that most concepts skip. The colored cards are content (the user’s credit cards); the chrome around them keeps to one surface."
+  ],
+  "borrow": [
+    "Derive the light and dark shadow colors from one base color, as Synth does, so a theme change keeps the relief consistent."
+  ],
+  "next": [
+    "Capture current CRED app screens or the Synth sample app to check whether the app still uses the style."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The Synth code is Apache 2.0, but the banner is hosted outside the repository and shows third-party marks (American Express, Axis Bank, Google), so it is not stored."
+  },
+  "identifiers": {
+    "github": "CRED-CLUB/synth-android"
+  }
+}

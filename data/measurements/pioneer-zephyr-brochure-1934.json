@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/pioneer-zephyr-brochure-1934.jpg",
+  "captured": "2026-09-28T17:50:45+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f1f1e2",
+        "share": 0.242
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.112
+      },
+      {
+        "hex": "#f1f5f7",
+        "share": 0.051
+      },
+      {
+        "hex": "#cedfea",
+        "share": 0.045
+      },
+      {
+        "hex": "#80837d",
+        "share": 0.044
+      },
+      {
+        "hex": "#72766e",
+        "share": 0.043
+      },
+      {
+        "hex": "#161914",
+        "share": 0.04
+      },
+      {
+        "hex": "#bbbcb5",
+        "share": 0.04
+      },
+      {
+        "hex": "#8d908b",
+        "share": 0.037
+      },
+      {
+        "hex": "#dfe0d5",
+        "share": 0.037
+      }
+    ],
+    "background": "#f1f1e2",
+    "chroma": 0.05,
+    "lightness": 0.73,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.48,
+    "distinct": 19,
+    "hues": 2
+  }
+}

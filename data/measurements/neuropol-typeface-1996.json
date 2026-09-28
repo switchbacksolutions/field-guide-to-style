@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/neuropol-typeface-1996.png",
+  "captured": "2026-09-28T17:13:24+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.604
+      },
+      {
+        "hex": "#000000",
+        "share": 0.236
+      },
+      {
+        "hex": "#e7e7e7",
+        "share": 0.025
+      },
+      {
+        "hex": "#959595",
+        "share": 0.025
+      },
+      {
+        "hex": "#2f2f2f",
+        "share": 0.02
+      },
+      {
+        "hex": "#464646",
+        "share": 0.017
+      },
+      {
+        "hex": "#171717",
+        "share": 0.015
+      },
+      {
+        "hex": "#b3b3b3",
+        "share": 0.013
+      },
+      {
+        "hex": "#6b6b6b",
+        "share": 0.012
+      },
+      {
+        "hex": "#5d5d5d",
+        "share": 0.01
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.0,
+    "lightness": 0.68,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 4,
+    "hues": 0
+  }
+}

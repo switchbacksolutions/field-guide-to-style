@@ -1,0 +1,64 @@
+{
+  "id": "butcher-billy-website",
+  "title": "Butcher Billy website",
+  "type": "website",
+  "medium": "website",
+  "lede": "An illustrator’s portfolio page: an edge-to-edge grid of pop-art comic covers and panels, many of them mock superhero covers titled “Post-Punk Comics”.",
+  "summary": "A gapless grid of flat-colored, black-outlined comic pastiches under a small red logo block.",
+  "source": {
+    "url": "https://www.butcherbilly.com/",
+    "label": "Butcher Billy: Selected Cuts"
+  },
+  "creator": {
+    "name": "Butcher Billy"
+  },
+  "moods": [
+    "loud",
+    "ironic",
+    "graphic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. Nothing covers the page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "Borderline: the page is a grid of pop-art comic images with flat primaries, heavy black outlines, captions, and cover lettering, but the style lives in the artworks, not in the page’s own interface, and no Ben-Day dots are visible.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A white header bar holds a red block with the white logotype “BUTCHER BILLY” and a gray link “contact the art dealer”.",
+    "The rest of the viewport is a gapless grid of square and double-width tiles, each an artwork.",
+    "The large tile at left shows a kiss between two masked figures in flat blue, red, yellow, and skin tone with black outlines, and the words “LOVE WILL TEAR US APART.” in cream condensed capitals.",
+    "Several tiles copy 1960s comic covers, with a price box (“60¢”), an issue number, a title band such as “Post-Punk Comics”, and a caption box at the foot.",
+    "Other tiles use huge outlined lettering, such as “WHY SO SERIOUS?” in orange on black and “IDOL” in red on yellow.",
+    "Colors are flat. There are no gradients in the artworks shown."
+  ],
+  "interpretation": [
+    "The artworks follow the romance and superhero branches of the idiom closely, with Lichtenstein-like close-ups and lettering. The page itself is only a grid, so it shows the Warhol layout of repeated units more than any interface device.",
+    "The extractor sees almost none of this: the images hold 87% of the page, CSS hues measure 2, and there are no CSS borders or patterns."
+  ],
+  "borrow": [
+    "Tile comic panels edge to edge with no gutters, and mix single and double-width tiles.",
+    "Use a small solid red block for the logotype and let the images carry the color."
+  ],
+  "images": [
+    {
+      "file": "assets/references/butcher-billy-website.jpg",
+      "alt": "Butcher Billy portfolio page: a red logo block on a white bar above a gapless grid of pop-art comic images, including a masked couple kissing with the words Love Will Tear Us Apart, several fake 1960s comic covers titled Post-Punk Comics, and the words Why So Serious? in orange.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [butcherbilly.com](https://www.butcherbilly.com/), captured 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified"
+  }
+}

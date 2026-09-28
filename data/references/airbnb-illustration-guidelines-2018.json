@@ -1,0 +1,54 @@
+{
+  "id": "airbnb-illustration-guidelines-2018",
+  "title": "Airbnb illustration guidelines, “Your Face Here” (Jennifer Hom)",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "Airbnb’s head of illustration explains its 2018 illustration redesign, which kept flat, lightweight figures but rejected the rainbow-colored skin of the tech style.",
+  "summary": "A Big Tech illustration system of the same years that chose realistic skin tones and body types over rainbow figures. Documented, 2018.",
+  "source": {
+    "url": "https://medium.com/airbnb-design/your-face-here-9aa1d4970d6c",
+    "label": "Airbnb Design (Medium): Jennifer Hom, “Your Face Here”, 18 December 2018"
+  },
+  "creator": {
+    "name": "Jennifer Hom, Airbnb",
+    "url": "https://www.behance.net/jenniferhom"
+  },
+  "made": "2017–2018",
+  "moods": [
+    "warm",
+    "inclusive",
+    "grounded"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Read the article text through a Wayback Machine copy; medium.com returned HTTP 403 to scripts. The article images did not load in that copy, so no illustration was inspected."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Partial fit, and a counterpoint: a flat, minimal Big Tech illustration system from the style’s peak years, whose author explicitly rejected the “rainbow-colored figures” that define the style.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Hom joined Airbnb in October 2017 to redesign its illustration style. She lists four principles: “grounded, scalable, lightweight, and diverse”, and says the style is “fairly minimal and lightweight” with “intentional white space”. [Airbnb Design](https://medium.com/airbnb-design/your-face-here-9aa1d4970d6c).",
+    "She describes a common solution in tech illustration as “a metaphor for diversity through rainbow-colored figures … colored in red, blue, yellow, orange, purple, and green. Put simply, they’re not real.” She tried this in early drafts and rejected it. [Airbnb Design](https://medium.com/airbnb-design/your-face-here-9aa1d4970d6c).",
+    "She also rejects “cartoon people outlined in blue or grey”, and asks for reference photos for every person drawn and for different races, ages, abilities, and body types. [Airbnb Design](https://medium.com/airbnb-design/your-face-here-9aa1d4970d6c)."
+  ],
+  "interpretation": [
+    "The article is a contemporary insider’s description of the style’s central device, non-natural skin, as a way to avoid questions of race. It helps separate the style from other flat tech illustration of the same years."
+  ],
+  "borrow": [
+    "When figures must represent real users, use a real range of skin tones and body types; keep the flat fills and white space."
+  ],
+  "next": [
+    "Inspect the article’s illustrations in a browser and upgrade the evidence level if they show figures."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Airbnb. No image is stored."
+  }
+}

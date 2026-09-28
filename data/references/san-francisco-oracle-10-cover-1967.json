@@ -1,0 +1,64 @@
+{
+  "id": "san-francisco-oracle-10-cover-1967",
+  "title": "San Francisco Oracle, vol. 1 no. 10, cover",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "The front page of the Haight-Ashbury underground newspaper, October 1967: a mandala of rings and checkerboards in magenta, violet, and turquoise on newsprint.",
+  "summary": "October 1967. Concentric mandala, swollen ORACLE masthead, and warped checkerboards in three inks on newsprint.",
+  "source": {
+    "url": "https://archive.org/details/SanFranciscoOracleVol.1No.10Oct.D.D.TeoliJr.A.C.1",
+    "label": "Internet Archive: San Francisco Oracle Vol. 1 No. 10 (Daniel D. Teoli Jr. Archival Collection)"
+  },
+  "creator": {
+    "name": "The Oracle of the City of San Francisco (Allen Cohen, editor); cover artist not identified",
+    "url": "https://en.wikipedia.org/wiki/San_Francisco_Oracle"
+  },
+  "made": "October 1967",
+  "moods": [
+    "hallucinatory",
+    "dense",
+    "countercultural"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded page 1 of the Teoli scan (2704 × 4073 px) to a scratch folder and inspected it. The cover is signed at lower center with a name I could not read, dated ’67. The Letterform Archive scans of other issues on Internet Archive are stream-only. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "A clear example in newsprint: every part of the page is patterned, the masthead swells to fill an arch, and magenta, violet, and turquoise sit side by side.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Oracle was an underground newspaper published in 12 issues from September 1966 to February 1968 in the Haight-Ashbury, edited by Allen Cohen with Michael Bowen as art director. Wikipedia calls it “arguably the outstanding example of psychedelia” in the underground press. [Wikipedia](https://en.wikipedia.org/wiki/San_Francisco_Oracle).",
+    "From issue 6 the paper was printed at Howard Quinn Printers, where its artists perfected the split-fountain rainbow effect by damming the ink fountain to feed several colors at once. The print run peaked at about 125,000. [Wikipedia](https://en.wikipedia.org/wiki/San_Francisco_Oracle).",
+    "The Internet Archive item states a CC BY-NC-ND 4.0 license from the scanning collector. That license covers the scan, not the 1967 artwork."
+  ],
+  "observed": [
+    "ORACLE fills an arch across the top in fat turquoise letters with violet shadows and outlines. THE CITY OF SAN FRANCISCO curves above it in smaller letters.",
+    "A large mandala of concentric rings, lobes, and interlocking circles fills the middle. Its center is a small target of tight rings.",
+    "Warped checkerboards in magenta, violet, turquoise, and paper color fill every corner and recede like a tunnel.",
+    "An embracing couple drawn in rough outline stands at the bottom center, under a figure-eight sign.",
+    "The inks are magenta, violet, and turquoise on yellowed newsprint. Prices, the date, and the issue number are lettered by hand into the pattern."
+  ],
+  "interpretation": [
+    "This page meets all four diagnostics of the rubric: complementary colors side by side, a swollen masthead, a symmetrical central medallion, and rings and patterns that fill the background.",
+    "Low-cost three-ink newsprint produced the same effect as the poster work, which suggests the look depends on arrangement more than on premium printing."
+  ],
+  "borrow": [
+    "Arch a fat masthead over a central mandala and let pattern fill the rest.",
+    "Use a warped checkerboard that recedes toward the center to give depth without shading.",
+    "Letter small facts, such as price and date, into the pattern instead of into a separate box."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The cover artwork is in copyright or of unknown status; the artist is not identified. The CC BY-NC-ND license on the Internet Archive item applies to the scan only."
+  },
+  "identifiers": {
+    "internet-archive": "SanFranciscoOracleVol.1No.10Oct.D.D.TeoliJr.A.C.1"
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

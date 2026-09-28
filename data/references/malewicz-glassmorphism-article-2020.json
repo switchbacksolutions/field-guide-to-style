@@ -1,0 +1,62 @@
+{
+  "id": "malewicz-glassmorphism-article-2020",
+  "title": "“Glassmorphism in user interfaces”",
+  "type": "website",
+  "medium": "editorial",
+  "lede": "The November 2020 essay that gave the style its name and listed its four defining traits.",
+  "summary": "Michał Malewicz names glassmorphism: background blur, floating layers, vivid color, and a light border.",
+  "source": {
+    "url": "https://uxdesign.cc/glassmorphism-in-user-interfaces-1f39bb1308c9",
+    "label": "UX Collective (Medium)",
+    "archive": "https://web.archive.org/web/20220119095027/https://hype4.academy/articles/design/glassmorphism-in-user-interfaces"
+  },
+  "creator": {
+    "name": "Michał Malewicz",
+    "url": "https://hype4.academy/"
+  },
+  "made": "2020 (UX Collective byline date November 22, 2020)",
+  "moods": [
+    "airy",
+    "luminous",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the article’s header image (1750 × 962, from Medium’s CDN) in a scratchpad copy. Not stored. The UX Collective copy is member-only and returns HTTP 403 to scripts; its preview and date were read in Claude in Chrome. The full text was read from the Wayback capture of the Hype4 Academy copy (19 January 2022), which includes a “2021 Update” section."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "glassmorphism",
+      "note": "The naming text of the style. Its header illustration is itself a textbook example: frosted cards with light edges over a cyan-to-magenta gradient.",
+      "basis": "agent",
+      "qualifier": "naming text"
+    }
+  ],
+  "context": [
+    "Malewicz lists the style’s “most defining characteristics”: transparency (a frosted-glass effect through background blur), a multi-layered approach with objects floating in space, vivid colors that highlight the blurred transparency, and a subtle light border on the translucent objects. He writes that “the best way to call it is GLASSMORPHISM”. [Hype4 Academy copy, Wayback 2022](https://web.archive.org/web/20220119095027/https://hype4.academy/articles/design/glassmorphism-in-user-interfaces).",
+    "He traces background blur to iOS 7 (2013), notes its return in macOS Big Sur, and quotes Microsoft’s definition of Fluent [Acrylic](ref:microsoft-fluent-acrylic-material). He cites Dribbble examples, among them the [Smart Calendar App](ref:paperpillar-smart-calendar-app-2020) by Ghani Pradita.",
+    "Practical advice in the text: make only the fill transparent, not the whole object, or design tools drop the background blur; choose a background with enough tonal difference; add a 1 pt semi-transparent inner border to simulate the glass edge; keep buttons and toggles opaque for contrast.",
+    "The article follows his 2019 neumorphism essay and says that neumorphism imitated an extruded plastic surface in one layer, while the new style “goes a bit more vertical”. The generator on [Hype4 Academy](ref:hype4-glassmorphism-generator) calls this piece “the original article that named the trend”."
+  ],
+  "observed": [
+    "A saturated background runs from cyan at the top corners through violet to hot pink at the bottom.",
+    "A central phone-shaped panel and several credit cards are milky, semi-transparent white. The gradient shows through them as soft pink and blue.",
+    "Every card has large rounded corners and a thin, lighter edge. Round icon buttons (a star, a bell, a cart) sit in translucent discs with a light rim.",
+    "The front card is almost opaque white; the side cards are more transparent. The primary button (“RENEW”) is a solid white pill.",
+    "Huge white letters spelling GLASSMORPHISM sit behind the cards and blur where the cards overlap them."
+  ],
+  "interpretation": [
+    "The header image shows the full recipe at once, including hierarchy through opacity: the most important card is the least transparent. Malewicz calls the example “purposefully over the top”."
+  ],
+  "borrow": [
+    "Signal hierarchy with opacity: make the front card nearly opaque and let the cards behind it be more transparent.",
+    "Put large type behind the glass so that the blur is visible even over a simple gradient."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Text and images © Michał Malewicz / Hype4. Link and quotation only."
+  }
+}

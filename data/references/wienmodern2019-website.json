@@ -1,0 +1,68 @@
+{
+  "id": "wienmodern2019-website",
+  "title": "Vienna on the Path to Modernism exhibition website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The Japanese site for the 2019 exhibition Wien Modern sets its English title in a framed block of Secession-style capitals, with gold date panels over a Klimt painting.",
+  "summary": "A framed logo of squared, stacked capitals and gold date panels over a full-width Klimt painting. Tokyo and Osaka, 2019.",
+  "source": {
+    "url": "https://artexhibition.jp/wienmodern2019/",
+    "label": "artexhibition.jp: ウィーン・モダン クリムト、シーレ 世紀末への道"
+  },
+  "creator": {
+    "name": "Art Exhibition Japan (美術展ナビ)"
+  },
+  "moods": [
+    "refined",
+    "geometric",
+    "elegant"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. Nothing covers the page. The exhibition closed in December 2019; the site is kept as an archive. The measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "Borderline: the logo and the gold date panels are drawn in the Secession manner, but most of the viewport is a painting and the navigation is an ordinary dark bar.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The exhibition “Vienna on the Path to Modernism” (ウィーン・モダン クリムト、シーレ 世紀末への道) ran at the National Art Center, Tokyo, from 24 April to 5 August 2019, and at the National Museum of Art, Osaka, from 27 August to 8 December 2019. [The National Art Center, Tokyo](https://www.nact.jp/exhibition_special/2019/wienmodern2019/)."
+  ],
+  "observed": [
+    "At the upper left, the English title “VIENNA ON THE PATH TO MODERNISM” is set in a thin-ruled rectangle: “VIENNA” across the top, “ON”, “THE”, “PATH”, and “TO” stacked in narrow columns, and “MODERNISM” across the bottom, with small dots between words.",
+    "The capitals are thin and geometric; the O of “MODERNISM” is drawn small and raised, as in Secession lettering.",
+    "Beside it, the Japanese title sits in a second ruled box of the same height.",
+    "The background is Klimt’s painting Pallas Athene (1898), cropped to the full width, with a gold helmet and a dark blue ground.",
+    "At the lower right, two panels in gray and gold give the Osaka and Tokyo dates in large serif figures, each with a small checkered square at one corner.",
+    "A gold rule strip runs across the upper left, and a dark bar with a gold-outlined ticket button carries the navigation at the bottom."
+  ],
+  "interpretation": [
+    "The site uses the style as a brand for the exhibition: the lettering, the ruled boxes, the gold, and the small checkered corners come from Secession graphics, and the rest is a standard museum layout.",
+    "Measured: square corners (radius 0), one hue, no heading tracking, and a surface pattern share of 0.19 pass. Most text is Japanese, so `type.uppercaseShare` (0.03) does not apply, and the text is not centered (`type.centerShare` 0.19)."
+  ],
+  "borrow": [
+    "Stack short words in narrow columns inside a ruled rectangle, with full-width words above and below, to make a square title block.",
+    "Mark the corner of an information panel with a small checkered square."
+  ],
+  "images": [
+    {
+      "file": "assets/references/wienmodern2019-website.jpg",
+      "alt": "Exhibition home page: Klimt’s gold-helmeted Pallas Athene fills the screen; at the upper left, a ruled box of stacked thin capitals reads Vienna on the Path to Modernism beside the Japanese title; gold and gray date panels sit at the lower right above a dark navigation bar.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [artexhibition.jp/wienmodern2019](https://artexhibition.jp/wienmodern2019/), captured 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the exhibition organizers; the painting image is credited on the page to Wien Museum / Foto Peter Kainz. Screenshot captured for commentary."
+  }
+}

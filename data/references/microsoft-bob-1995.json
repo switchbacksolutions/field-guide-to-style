@@ -1,0 +1,47 @@
+{
+  "id": "microsoft-bob-1995",
+  "title": "Microsoft Bob, 1995",
+  "type": "product",
+  "medium": "software",
+  "lede": "A Windows shell that showed programs as objects in the rooms of a house, the extreme early case of the metaphor.",
+  "summary": "A house with rooms; a pen and paper opens the word processor. Microsoft, 1995.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Microsoft_Bob",
+    "label": "Wikipedia: Microsoft Bob"
+  },
+  "creator": {
+    "name": "Microsoft"
+  },
+  "made": "Released 10 March 1995; discontinued early 1996",
+  "moods": [
+    "domestic",
+    "playful",
+    "cartoonish"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "The only image found is a 288 × 216 px non-free screenshot on Wikipedia, too small to describe. Based on Wikipedia."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "A precursor: the whole computer becomes a set of household objects. It uses the metaphor fully but predates the material textures and bevels of 2007–2013.",
+      "basis": "agent",
+      "qualifier": "precursor"
+    }
+  ],
+  "context": [
+    "Released on 10 March 1995 and discontinued in early 1996. “Microsoft Bob presented screens showing a house, with rooms that the user could visit containing familiar objects corresponding to computer applications, such as a desk with pen and paper and a checkbook. Clicking on the pen and paper would open the system’s word processor.” [Wikipedia: Microsoft Bob](https://en.wikipedia.org/wiki/Microsoft_Bob).",
+    "Wikipedia’s skeuomorph article names Bob as the extreme case of the desktop metaphor, “representing different programs as objects in a home.” [Wikipedia: Skeuomorph](https://en.wikipedia.org/wiki/Skeuomorph)."
+  ],
+  "interpretation": [
+    "Bob shows the metaphor without the later material realism. Its failure is a common warning against a metaphor that makes actions harder."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Microsoft software; copyrighted. No image is stored here."
+  }
+}

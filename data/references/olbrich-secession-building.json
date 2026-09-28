@@ -1,0 +1,76 @@
+{
+  "id": "olbrich-secession-building",
+  "title": "Secession Building, Vienna",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Joseph Maria Olbrich’s exhibition house of 1898: white cubic blocks with flat pylons around a dome of pierced metal laurel leaves.",
+  "summary": "White cubic volumes, square pylons, and a pierced dome of laurel leaves. Joseph Maria Olbrich, Vienna, 1898.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Secession_Building",
+    "label": "Wikipedia: Secession Building"
+  },
+  "creator": {
+    "name": "Joseph Maria Olbrich",
+    "url": "https://en.wikipedia.org/wiki/Joseph_Maria_Olbrich"
+  },
+  "made": "1897–1898",
+  "moods": [
+    "monumental",
+    "austere",
+    "elegant"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected two Wien Museum photographs (3500 px wide): the plate “Das Haus der Secession in Wien, Seitenansicht” from the Wiener Bauten-Album, 1899–1900 (inv. 54584/14), and a postcard of about 1905 by Deutsch’s Postkartenverlag (inv. 309795). Both are black and white, so they do not show the colour of the dome."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "Partial fit: the movement’s own building, with cubic masses, square pylons, and a laurel dome, but its 1898 relief ornament of trees and leaves belongs to the early floral phase.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: the building was completed in 1898 by Joseph Maria Olbrich as an architectural manifesto for the Vienna Secession. It holds Gustav Klimt’s Beethoven Frieze. The motto “Der Zeit ihre Kunst. Der Kunst ihre Freiheit” is written above the entrance. [Wikipedia](https://en.wikipedia.org/wiki/Secession_Building).",
+    "The Wiener Bauten-Album plate is captioned “Das Haus der Secession in Wien. Architekt: Joseph Olbrich C. M. Erbaut 1898. Seitenansicht.” It was a supplement to the Wiener Bauindustrie-Zeitung, 1899/1900. [Wien Museum 54584/14](https://sammlung.wienmuseum.at/en/object/127802-1-friedrichstrasse-12-secession-seitenansicht-wiener-bauten-album-blatt-nr-38-beilage-zur-wiener-bauindustrie-zeitung/)."
+  ],
+  "observed": [
+    "The front block is a white cube with sharp corners. Four flat pylons rise from its top and frame a round dome.",
+    "The dome is a pierced ball of metal leaves, dark against the sky in both photographs.",
+    "The side wall of the front block carries tall stylized trees in low relief, with leafy crowns at the top corners, and small bands of square dots under the windows.",
+    "The long exhibition wing behind is plain white with large windows, small laurel wreaths in relief, and a row of glass roof lanterns.",
+    "Two tall flagpoles with ring tops stand in front of the side wall.",
+    "The plate is printed on cream paper with a thin ruled frame and centred captions in spaced capitals."
+  ],
+  "interpretation": [
+    "The massing already shows the geometric turn: cubes, flat pylons, and a single round form on the axis. The plant reliefs still belong to the floral early Secession, which this catalogue files under [Art Nouveau](style:art-nouveau).",
+    "The dome is the one rich, textured element on a plain white building; in flat design it corresponds to one gold or patterned element on a white ground."
+  ],
+  "borrow": [
+    "Set one round or gold element on the central axis, framed by plain square blocks.",
+    "Use small rows of square dots as a band under a heading or a window-like panel."
+  ],
+  "images": [
+    {
+      "file": "assets/references/olbrich-secession-building.jpg",
+      "alt": "Black and white plate of the Secession building from the side: a white cubic front block with four pylons around a leafy dome, relief trees on the wall, a long white exhibition wing with glass roof lanterns, and two tall flagpoles, with printed captions below.",
+      "width": 1600,
+      "height": 1174,
+      "kind": "source-image",
+      "caption": "“Das Haus der Secession in Wien”, side view, Wiener Bauten-Album plate 38, 1899–1900, unknown photographer. Wien Museum, inv. 54584/14, image from the [Wien Museum Online Sammlung](https://sammlung.wienmuseum.at/en/object/127802-1-friedrichstrasse-12-secession-seitenansicht-wiener-bauten-album-blatt-nr-38-beilage-zur-wiener-bauindustrie-zeitung/), CC0, cropped to the sheet.",
+      "original": "https://sammlung.wienmuseum.at/images/objects/127802/658179_full.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Wien Museum releases this image under [CC0](https://creativecommons.org/publicdomain/zero/1.0/). The building is by Joseph Maria Olbrich, who died in 1908, and the plate was printed in 1899–1900, so the works shown are in the public domain in Austria and in the United States."
+  },
+  "identifiers": {
+    "wikidata": "Q265129",
+    "wienmuseum": "54584/14"
+  }
+}

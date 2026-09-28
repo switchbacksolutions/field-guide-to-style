@@ -1,0 +1,66 @@
+{
+  "id": "lichtenstein-drowning-girl-1963",
+  "title": "Drowning Girl",
+  "type": "object",
+  "medium": "painting",
+  "lede": "Roy Lichtenstein’s romance-comic close-up: a crying woman in a stylized wave, with a thought balloon that reads “I DON’T CARE! I’D RATHER SINK — THAN CALL BRAD FOR HELP!”",
+  "summary": "A square close-up with dot-tinted skin, flat blue hair, heavy black waves, and a thought balloon. Roy Lichtenstein, 1963.",
+  "source": {
+    "url": "https://www.lichtensteincatalogue.org/catalogue/entry.php?id=452",
+    "label": "Roy Lichtenstein: A Catalogue Raisonné, Drowning Girl (RLCR 761)"
+  },
+  "creator": {
+    "name": "Roy Lichtenstein",
+    "url": "https://www.wikidata.org/wiki/Q151679"
+  },
+  "made": "1963",
+  "moods": [
+    "melodramatic",
+    "graphic",
+    "ironic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the catalogue raisonné image of the Museum of Modern Art’s painting, MoMA 685.1971 (1180 × 1200 px), in a scratchpad. MoMA’s own page blocks scripts. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "A canonical romance-comic panel: dot-tinted skin, even black key lines, flat primary blue, and a thought balloon with hand-lettered capitals.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The catalogue raisonné gives acrylic, oil, and graphite pencil on canvas, 171.8 × 169.5 cm, and the source as *Secret Hearts* #83 (November 1962). The Museum of Modern Art acquired it in December 1971 (685.1971). [RLCR 761](https://www.lichtensteincatalogue.org/catalogue/entry.php?id=452).",
+    "It was shown in Lichtenstein’s September–October 1963 exhibition at the Leo Castelli Gallery, the show announced by the [Crak! poster](ref:lichtenstein-crak-poster-1963). [RLCR 761](https://www.lichtensteincatalogue.org/catalogue/entry.php?id=452).",
+    "Wikipedia reports that the work also borrows from Hokusai’s *The Great Wave off Kanagawa*. [Wikipedia](https://en.wikipedia.org/wiki/Drowning_Girl)."
+  ],
+  "observed": [
+    "The face, hand, and arm are filled with fine red dots on white; the lips are flat pink with a black outline.",
+    "The hair is solid ultramarine blue with black strands. No blue dots appear in the hair.",
+    "The water is a pattern of heavy black curls and white foam shapes on a pale blue dot field.",
+    "A white thought balloon with a scalloped outline and three small bubbles fills the upper left. It holds four lines of black hand-lettered capitals.",
+    "Tears are drawn as white drops with black outlines.",
+    "Black outlines vary from thick to very thick. There are no gradients or modeled shadows."
+  ],
+  "interpretation": [
+    "The painting shows the romance branch of the idiom: close-up faces, a limited palette of dot-red skin and one solid primary, and text in a balloon, not a caption box.",
+    "Large black shapes carry as much of the design as the outlines do. The style is not only outline plus fill; solid black areas give it weight."
+  ],
+  "borrow": [
+    "Use a scalloped thought balloon for a quote or testimonial, with small trailing bubbles.",
+    "Tint large areas with a pale dot field and reserve one strong solid color for the focal shape."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The catalogue raisonné states “© 2026 Roy Lichtenstein Foundation. All Rights Reserved.”"
+  },
+  "identifiers": {
+    "wikidata": "Q5308687",
+    "moma": "685.1971",
+    "rlcr": "761"
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://v15.vuetifyjs.com/en/",
+  "title": "Vue.js Vue Component Framework — Vuetify.js",
+  "captured": "2026-09-28T17:50:36.589Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Roboto",
+        "share": 1
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 56,
+    "sizeRange": 4,
+    "scaleRatio": 1.07,
+    "headingWeight": 300,
+    "bodyWeight": 400,
+    "headingTracking": -0.02,
+    "uppercaseShare": 0.04,
+    "monoShare": 0,
+    "centerShare": 0.91
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#1867c0",
+        "share": 0.265
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.258
+      },
+      {
+        "hex": "#5cbbf6",
+        "share": 0.258
+      },
+      {
+        "hex": "#000000",
+        "share": 0.124
+      },
+      {
+        "hex": "#ffb731",
+        "share": 0.042
+      },
+      {
+        "hex": "#212121",
+        "share": 0.042
+      },
+      {
+        "hex": "#bdbdbd",
+        "share": 0.01
+      },
+      {
+        "hex": "#eeeeee",
+        "share": 0.002
+      }
+    ],
+    "background": "#1867c0",
+    "text": "#000000",
+    "contrast": 3.7,
+    "chroma": 0.36,
+    "lightness": 0.58,
+    "chromaticShare": 0.56,
+    "accentChroma": 0.64,
+    "distinct": 6,
+    "hues": 3,
+    "imageShare": 0,
+    "gradientShare": 0.62,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 11,
+    "radius": {
+      "median": 2,
+      "max": 6,
+      "roundShare": 0.27
+    },
+    "border": {
+      "share": 0.27,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.45,
+      "hardShare": 0.2,
+      "medianBlur": 22,
+      "medianOffset": 12
+    },
+    "gradientShare": 0.09,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#2070c6",
+        "share": 0.199
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.179
+      },
+      {
+        "hex": "#378dd9",
+        "share": 0.151
+      },
+      {
+        "hex": "#55b3f0",
+        "share": 0.126
+      },
+      {
+        "hex": "#212121",
+        "share": 0.095
+      },
+      {
+        "hex": "#fbb432",
+        "share": 0.043
+      },
+      {
+        "hex": "#089caf",
+        "share": 0.028
+      },
+      {
+        "hex": "#2b81d0",
+        "share": 0.027
+      },
+      {
+        "hex": "#479dde",
+        "share": 0.024
+      },
+      {
+        "hex": "#d5dce2",
+        "share": 0.023
+      }
+    ],
+    "background": "#2070c6",
+    "chroma": 0.41,
+    "lightness": 0.59,
+    "chromaticShare": 0.65,
+    "accentChroma": 0.63,
+    "distinct": 10,
+    "hues": 3
+  }
+}

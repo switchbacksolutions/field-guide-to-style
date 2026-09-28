@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/guimard-paris-metro-entrance-1900.jpg",
+  "captured": "2026-09-28T17:27:03+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#1c221f",
+        "share": 0.142
+      },
+      {
+        "hex": "#313533",
+        "share": 0.049
+      },
+      {
+        "hex": "#c7e6f9",
+        "share": 0.047
+      },
+      {
+        "hex": "#3a4040",
+        "share": 0.042
+      },
+      {
+        "hex": "#7b858d",
+        "share": 0.042
+      },
+      {
+        "hex": "#d5d4d0",
+        "share": 0.04
+      },
+      {
+        "hex": "#8693a2",
+        "share": 0.039
+      },
+      {
+        "hex": "#95a3b1",
+        "share": 0.037
+      },
+      {
+        "hex": "#6c747b",
+        "share": 0.036
+      },
+      {
+        "hex": "#5c5b50",
+        "share": 0.036
+      }
+    ],
+    "background": "#1c221f",
+    "chroma": 0.1,
+    "lightness": 0.44,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.36,
+    "distinct": 23,
+    "hues": 1
+  }
+}

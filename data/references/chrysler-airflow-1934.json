@@ -1,0 +1,73 @@
+{
+  "id": "chrysler-airflow-1934",
+  "title": "Chrysler Airflow, 1934",
+  "type": "product",
+  "medium": "product",
+  "lede": "The first full-size American production car shaped by wind-tunnel streamlining: a rounded body, a waterfall grille, and headlamps set into the front.",
+  "summary": "A rounded sedan with a curved waterfall grille, faired headlamps, horizontal chrome louvres, and a triple bumper. Chrysler, 1934.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Chrysler_Airflow",
+    "label": "Wikipedia: Chrysler Airflow"
+  },
+  "creator": {
+    "name": "Chrysler Corporation (designer Oliver Clark; engineers Carl Breer, Fred Zeder, Owen Skelton)"
+  },
+  "made": "1934 (Series CU; the Airflow was built 1934–1937)",
+  "moods": [
+    "streamlined",
+    "machine-age",
+    "heavy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected AlfvanBeem’s 2011 photograph of a 1934 Chrysler CU Airflow Eight sedan at the Louwman Museum, The Hague, on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1934_Chrysler_CU_Airflow_8_Sedan.JPG), at 1920 px."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "streamline-moderne",
+      "note": "The car that brought streamlining to American production cars: rounded body, waterfall grille, and horizontal chrome lines. Its commercial failure is part of the style’s story.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Built 1934–1937, fewer than 29,600 made. Designer Oliver Clark worked with the Chrysler engineers Carl Breer, Fred Zeder, and Owen Skelton; the team ran wind-tunnel tests with the cooperation of Orville Wright. Wikipedia calls it the first full-size American production car to use streamlining as a basis for a sleeker automobile. [Wikipedia](https://en.wikipedia.org/wiki/Chrysler_Airflow).",
+    "First-year sales were 10,839; Chrysler’s conventional sedans outsold it about 2.5 to one, and most historians say buyers disliked its looks. [Wikipedia](https://en.wikipedia.org/wiki/Chrysler_Airflow)."
+  ],
+  "observed": [
+    "The body is one rounded mass: the hood curves down into the grille, and the fenders swell around the wheels in continuous curves.",
+    "The grille is a curved “waterfall” of many thin vertical chrome bars that follows the rounded nose.",
+    "The headlamps sit in the front, flush with the body, one pair stacked above a smaller pair on each side.",
+    "Three horizontal chrome louvre panels with rounded ends run along the side of the hood.",
+    "The bumper is three parallel chrome bars.",
+    "This car is painted metallic bronze. A mural photograph behind it shows a dark Airflow beside a streamlined train."
+  ],
+  "interpretation": [
+    "The Airflow puts the horizontal speed line on a moving object: the three-bar bumper and hood louvres are the same parallel lines that later decorate buildings and graphics. Its failure shows that streamlining sold best as a surface style, not as an engineering shape."
+  ],
+  "borrow": [
+    "Use three parallel horizontal bars with rounded ends as a bumper-like rule under a heading.",
+    "Stack short rounded bars as a louvre motif beside a panel."
+  ],
+  "images": [
+    {
+      "file": "assets/references/chrysler-airflow-1934.jpg",
+      "alt": "Bronze 1934 Chrysler Airflow sedan in a museum, seen from the front right: a rounded body, a curved grille of vertical chrome bars, headlamps set into the nose, chrome louvres on the hood side, and a triple chrome bumper. A large black-and-white photograph of another Airflow and a streamlined train hangs behind it.",
+      "width": 1600,
+      "height": 1200,
+      "kind": "photograph",
+      "caption": "1934 Chrysler CU Airflow Eight sedan, Louwman Museum. Photograph by AlfvanBeem, 2011, CC0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1934_Chrysler_CU_Airflow_8_Sedan.JPG). The mural behind the car is a museum display photograph.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/7b/1934_Chrysler_CU_Airflow_8_Sedan.JPG",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The photographer dedicated the photograph to the public domain (CC0). A production car is a useful article: its shape is not protected by copyright in the United States, its country of origin, and any 1934 design patents have long expired. The display photograph in the background is incidental."
+  },
+  "identifiers": {
+    "commons": "File:1934 Chrysler CU Airflow 8 Sedan.JPG"
+  }
+}

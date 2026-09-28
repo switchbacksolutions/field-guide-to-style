@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://jugendstils.riga.lv/",
+  "title": "Rīgas Jūgendstila Centrs",
+  "captured": "2026-09-28T17:23:50.000Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Lora",
+        "share": 1
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 28,
+    "sizeRange": 2,
+    "scaleRatio": 1.18,
+    "headingWeight": 500,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.05,
+    "monoShare": 0,
+    "centerShare": 0.62
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#00577d",
+        "share": 0.229
+      },
+      {
+        "hex": "#eeeeee",
+        "share": 0.189
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.164
+      },
+      {
+        "hex": "#d9d9d9",
+        "share": 0.134
+      },
+      {
+        "hex": "#212529",
+        "share": 0.127
+      },
+      {
+        "hex": "#bdc3c4",
+        "share": 0.11
+      },
+      {
+        "hex": "#a0c1cf",
+        "share": 0.018
+      },
+      {
+        "hex": "#007bff",
+        "share": 0.014
+      },
+      {
+        "hex": "#000000",
+        "share": 0.006
+      },
+      {
+        "hex": "#dceffa",
+        "share": 0.004
+      }
+    ],
+    "background": "#00577d",
+    "text": "#212529",
+    "contrast": 2,
+    "chroma": 0.14,
+    "lightness": 0.64,
+    "chromaticShare": 0.25,
+    "accentChroma": 0.52,
+    "distinct": 6,
+    "hues": 2,
+    "imageShare": 0.4,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 20,
+    "radius": {
+      "median": 0,
+      "max": 2,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.5,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#00577d",
+        "share": 0.146
+      },
+      {
+        "hex": "#eeeeee",
+        "share": 0.143
+      },
+      {
+        "hex": "#d9d9d9",
+        "share": 0.126
+      },
+      {
+        "hex": "#615448",
+        "share": 0.064
+      },
+      {
+        "hex": "#74685b",
+        "share": 0.06
+      },
+      {
+        "hex": "#ddeffb",
+        "share": 0.049
+      },
+      {
+        "hex": "#493c30",
+        "share": 0.048
+      },
+      {
+        "hex": "#fefefe",
+        "share": 0.042
+      },
+      {
+        "hex": "#a8a29a",
+        "share": 0.039
+      },
+      {
+        "hex": "#7c7c77",
+        "share": 0.036
+      }
+    ],
+    "background": "#00577d",
+    "chroma": 0.16,
+    "lightness": 0.59,
+    "chromaticShare": 0.22,
+    "accentChroma": 0.53,
+    "distinct": 16,
+    "hues": 2
+  }
+}

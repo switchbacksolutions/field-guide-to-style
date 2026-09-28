@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/morris-strawberry-thief-textile.jpg",
+  "captured": "2026-09-28T17:30:12+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#1d374b",
+        "share": 0.23
+      },
+      {
+        "hex": "#adadab",
+        "share": 0.068
+      },
+      {
+        "hex": "#838163",
+        "share": 0.038
+      },
+      {
+        "hex": "#74755e",
+        "share": 0.037
+      },
+      {
+        "hex": "#a7a898",
+        "share": 0.034
+      },
+      {
+        "hex": "#7b827a",
+        "share": 0.033
+      },
+      {
+        "hex": "#334853",
+        "share": 0.032
+      },
+      {
+        "hex": "#9a9a8b",
+        "share": 0.032
+      },
+      {
+        "hex": "#6c7673",
+        "share": 0.032
+      },
+      {
+        "hex": "#43545a",
+        "share": 0.03
+      }
+    ],
+    "background": "#1d374b",
+    "chroma": 0.12,
+    "lightness": 0.39,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.35,
+    "distinct": 24,
+    "hues": 1
+  }
+}

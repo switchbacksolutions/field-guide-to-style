@@ -1,0 +1,66 @@
+{
+  "id": "vandoesburghuis-website",
+  "title": "Van Doesburghuis website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The foundation site for Theo van Doesburg’s studio house in Meudon arranges its content in flat red, yellow, and bright blue panels with square corners.",
+  "summary": "Flat red, yellow, and bright blue panels on gray, an axonometric drawing, and bold Futura text.",
+  "source": {
+    "url": "https://vandoesburghuis.com/en/",
+    "label": "vandoesburghuis.com"
+  },
+  "creator": {
+    "name": "Stichting Het Van Doesburghuis"
+  },
+  "moods": [
+    "bright",
+    "orthogonal",
+    "informal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. The requested URL https://www.vandoesburghuis.com/ redirected to the English home page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "Borderline: flat primary panels with square corners, but no black dividing lines, a bright sky blue instead of a primary blue, lowercase type, and a photograph.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The page states that the foundation runs the studio house that Theo van Doesburg designed for himself and Nelly van Doesburg in Meudon-Val-Fleury at the end of the 1920s. [vandoesburghuis.com](https://vandoesburghuis.com/en/)."
+  ],
+  "observed": [
+    "A red bar runs across the top of the page with a notice about opening days.",
+    "A white column on a light gray background holds rectangular panels: a red language panel, a yellow panel with a black-and-white axonometric drawing of the house, and a bright blue navigation panel.",
+    "A bright blue welcome panel and a large color photograph of the white house with tall steel windows fill the right column.",
+    "Navigation and headings are set in bold Futura in lowercase or sentence case; the current item is yellow on blue.",
+    "No panel has rounded corners, a shadow, or a gradient."
+  ],
+  "interpretation": [
+    "The site takes the palette and flat rectangles from the movement but not the black line grid, so it reads as color blocking more than as a neoplastic composition. The axonometric drawing adds diagonals, which belong to van Doesburg’s later Elementarism and his architectural drawings.",
+    "Computed styles find 2 hues (red and bright blue); the yellow is mostly in the image. There are no CSS borders to measure."
+  ],
+  "borrow": [
+    "Separate navigation, language choice, and intro text into flat panels of one primary each, and keep every corner square."
+  ],
+  "images": [
+    {
+      "file": "assets/references/vandoesburghuis-website.jpg",
+      "alt": "Web page with a red notice bar, a red language panel, a yellow panel with a black-and-white axonometric drawing of a house, a bright blue navigation panel, a bright blue welcome panel, and a photograph of a white modernist house with tall windows.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [vandoesburghuis.com](https://vandoesburghuis.com/en/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

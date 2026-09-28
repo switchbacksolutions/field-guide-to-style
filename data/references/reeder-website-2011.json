@@ -1,0 +1,60 @@
+{
+  "id": "reeder-website-2011",
+  "title": "Reeder website, 2011",
+  "type": "website",
+  "medium": "website",
+  "lede": "The site for the RSS reader Reeder, archived October 2011: two panes of speckled paper with pale debossed type.",
+  "summary": "Speckled paper texture, a debossed logo, and a thin pane divider. Nothing else.",
+  "source": {
+    "url": "http://reederapp.com/",
+    "label": "reederapp.com",
+    "archive": "https://web.archive.org/web/20111002015721/http://reederapp.com/"
+  },
+  "made": "2011",
+  "moods": [
+    "quiet",
+    "papery",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "Borderline: the paper texture and debossed type are the style, but the page shows only those two traits.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The whole viewport is pale warm-gray paper with small specks, split into two panes by a thin dark line.",
+    "The logo “reeder” with a star and feed waves is a slightly darker gray, pressed into the paper with a light lower edge.",
+    "Three links (for iPhone, for iPad, for Mac) are pale gray text on the paper.",
+    "A small gray ribbon at the bottom reads “MADE@GLORIA!”."
+  ],
+  "interpretation": [
+    "It passes the shadow and radius metrics but fails the pattern and gradient metrics: the paper is one bitmap image, measured as 100% image share."
+  ],
+  "borrow": [
+    "Use a speckled paper texture and a debossed logo alone for a very quiet version of the style."
+  ],
+  "images": [
+    {
+      "file": "assets/references/reeder-website-2011.jpg",
+      "alt": "Archived Reeder page: two panes of pale speckled paper separated by a thin line, with a pale gray debossed reeder logo and three faint links for iPhone, iPad, and Mac.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [archived copy](https://web.archive.org/web/20111002015721/http://reederapp.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  }
+}

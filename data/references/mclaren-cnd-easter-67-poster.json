@@ -1,0 +1,60 @@
+{
+  "id": "mclaren-cnd-easter-67-poster",
+  "title": "Easter ’67 poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Ian McLaren’s poster for the Campaign for Nuclear Disarmament’s Easter 1967 march: a field of white dots on black that swell into a glowing disc under a plain grotesque headline.",
+  "summary": "White dots that grow toward the centre of a black sheet, under “Easter ’67” in white sans-serif. Ian McLaren for CND, 1967.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1664114/",
+    "label": "V&A: Poster “Easter ’67”, E.383-2021"
+  },
+  "creator": {
+    "name": "Ian McLaren (artist); Campaign for Nuclear Disarmament (issuer)"
+  },
+  "made": "1967",
+  "moods": [
+    "high-contrast",
+    "urgent",
+    "radiant"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A photograph of its copy, E.383-2021 (1110 × 1600 px), photographed on a wooden surface, in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "Clear graphic-design use of op art: a black and white dot field that swells by steps, with plain sans-serif type in a separate band.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A catalogues the poster with the style “Op Art”, gives Ian McLaren as artist and the Campaign for Nuclear Disarmament (CND) as issuer, and dates it 1967. [V&A](https://collections.vam.ac.uk/item/O1664114/).",
+    "The V&A record has no further description. The event text on the poster lists Easter Saturday at Grosvenor Square, Easter Sunday at Ruislip, and an Easter Monday march to a rally in Trafalgar Square."
+  ],
+  "observed": [
+    "The upper third is a solid black band with the CND symbol in a white disc and “Easter ’67” in large white grotesque capitals and lower case.",
+    "Four columns of small white sans-serif text give the organiser’s address and the times and places of the events.",
+    "The lower two thirds hold a square field of white dots on black. The dots are small at the edges and grow until they merge near the centre, so a bright, soft-edged disc appears.",
+    "The dot field seems to bulge toward the viewer. There is no colour."
+  ],
+  "interpretation": [
+    "The poster follows the op rules for type and pattern: the text sits on solid black, apart from the field, and the field does the expressive work.",
+    "The swelling dot field can be read as a light or a blast, which gives the abstract device a message without adding a figure."
+  ],
+  "borrow": [
+    "Scale a regular dot grid so that the dots grow toward a centre and merge into a bright disc.",
+    "Keep all text in a separate solid band above the pattern, set in one plain grotesque at two sizes."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The design is probably in copyright, and the V&A photograph is not openly licensed."
+  },
+  "identifiers": {
+    "vam": "O1664114"
+  }
+}

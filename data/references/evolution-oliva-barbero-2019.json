@@ -1,0 +1,56 @@
+{
+  "id": "evolution-oliva-barbero-2019",
+  "title": "Evolution (Daniel Oliva Barbero)",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A textbook vaporwave collage: two cyan statues, an Ionic column carrying a glitched Windows logo, a pink Paint window, palms, a striped sun, and a pink grid over blue.",
+  "summary": "Statues, column, glitched Windows logo, pink Paint window, palms, striped sun, grid floor. 2019.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Vaprwave_97346.png",
+    "label": "Wikimedia Commons: Vaprwave 97346.png"
+  },
+  "creator": {
+    "name": "Daniel Oliva Barbero",
+    "url": "https://www.flickr.com/photos/183192706@N05/48475685782/"
+  },
+  "made": "August 6, 2019 (date given on Commons)",
+  "moods": [
+    "nostalgic",
+    "ironic",
+    "kitsch"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1920 × 2560 rendering of the 8554 × 11405 file on Wikimedia Commons, in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Clear: it combines every diagnostic in one image, with pastel pink, violet, and cyan, a Windows 9x window, classical statues, palm trees, and a grid floor under a striped sun.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons lists it under CC BY 2.0 from Flickr, while the author’s description says CC BY 4.0 and that it was “created from” another Flickr work. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vaprwave_97346.png)."
+  ],
+  "observed": [
+    "A mauve sky frames a yellow-to-pink sun cut by horizontal pink stripes.",
+    "A pink-tinted Microsoft Paint window with a navy title bar, tool palette, and colour swatches overlaps the left side.",
+    "A cyan Ionic capital and column carry a glitched, pixelated Windows flag logo in the centre.",
+    "Two identical cyan-and-violet statues of a draped woman face each other, each holding a small hexagonal pattern.",
+    "Pale pink palm trees stand at both sides; a magenta grid floor on blue recedes to the horizon."
+  ],
+  "interpretation": [
+    "The most complete single statement of the rubric found in open sources. It is also a warning: the style depends on quoting other people’s trademarks and interfaces."
+  ],
+  "borrow": [
+    "Tint real classical figures in a single pastel duotone so they read as cut-outs rather than photographs."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The author released the file under an open license (CC BY 2.0 on Commons, CC BY 4.0 in the description), but a Microsoft Paint window and the Windows logo are central to the composition, so no image is stored here."
+  }
+}

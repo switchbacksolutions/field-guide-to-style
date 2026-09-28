@@ -1,0 +1,62 @@
+{
+  "id": "hoffmann-gitterwerk-basket",
+  "title": "Lattice basket (Gitterwerk)",
+  "type": "object",
+  "medium": "product",
+  "lede": "Josef Hoffmann’s basket for the Wiener Werkstätte is cut from plated sheet metal perforated with a grid of squares, so the grid is the whole structure and the only ornament.",
+  "summary": "Nickel-plated metal pierced with a square grid, with a stepped handle. Josef Hoffmann for the Wiener Werkstätte, c. 1905–1910.",
+  "source": {
+    "url": "https://collections.artsmia.org/art/7097/basket-josef-hoffmann",
+    "label": "Minneapolis Institute of Art: Basket, 98.276.65"
+  },
+  "creator": {
+    "name": "Josef Hoffmann (designer); Wiener Werkstätte (manufacturer)",
+    "url": "https://en.wikipedia.org/wiki/Josef_Hoffmann"
+  },
+  "made": "c. 1905–1910",
+  "moods": [
+    "geometric",
+    "precise",
+    "refined"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the Minneapolis Institute of Art photograph of object 98.276.65 (800 × 598 px) to a scratch folder and inspected it. It is not stored. Other museums hold silver and painted versions of Hoffmann’s lattice baskets that differ in shape, for example the [Chazen Museum of Art, 2012.32.3.2a-b](https://chazen.wisc.edu/collection/24790/gitterwerk-basket/), which I did not inspect."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "A clear example of Hoffmann’s square lattice (Gitterwerk), the object type behind his nickname “Quadratl-Hoffmann”.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Mia records the basket as designed by Josef Hoffmann and made by the Wiener Werkstätte, c. 1905–10, in nickel-plated brass, 15.24 × 26.04 × 13.97 cm to the handles, marked “Wiener Werkstätte / JH”. [Mia 98.276.65](https://collections.artsmia.org/art/7097/basket-josef-hoffmann).",
+    "Mia’s label: Hoffmann designed various household objects in gitterwerk, or gridwork; the gridded sheets of base metal were the structure of the objects as well as their decoration, and they were made affordably and often nickel- or silver-plated. [Mia 98.276.65](https://collections.artsmia.org/art/7097/basket-josef-hoffmann).",
+    "Koloman Moser designed objects in the same technique; see [Moser’s lattice bud vase](ref:moser-gitterwerk-bud-vase)."
+  ],
+  "observed": [
+    "The basket is a low vessel of bright plated metal pierced with a regular grid of square holes.",
+    "In plan the wall steps in and out in shallow curves and corners, so the grid bends around a scalloped outline.",
+    "A flat lattice handle rises in straight segments and steps down at each side, like a stepped arch.",
+    "The top edge and the base are plain metal strips; every other surface is grid."
+  ],
+  "interpretation": [
+    "The grid is used as a material, like a fabric, and the shape comes from folding it. This is the plainest statement of the square as the module of the style.",
+    "The shine of the plating is the one luxury. In a flat design the same effect can come from a gold or silver line."
+  ],
+  "borrow": [
+    "Use a square-hole grid as a full panel texture with a plain border strip at the top and bottom.",
+    "Step a frame line in right-angled segments instead of curving it."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Mia gives the rights status as Unknown. Josef Hoffmann died in 1956, so his designs are protected in Austria until the end of 2026."
+  },
+  "identifiers": {
+    "mia": "98.276.65"
+  }
+}

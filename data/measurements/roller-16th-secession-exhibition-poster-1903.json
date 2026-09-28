@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/roller-16th-secession-exhibition-poster-1903.jpg",
+  "captured": "2026-09-28T18:16:20+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ddc483",
+        "share": 0.318
+      },
+      {
+        "hex": "#080808",
+        "share": 0.272
+      },
+      {
+        "hex": "#eeeeec",
+        "share": 0.069
+      },
+      {
+        "hex": "#e73d0f",
+        "share": 0.056
+      },
+      {
+        "hex": "#e3d28f",
+        "share": 0.038
+      },
+      {
+        "hex": "#2a271c",
+        "share": 0.025
+      },
+      {
+        "hex": "#3a3627",
+        "share": 0.025
+      },
+      {
+        "hex": "#1d1b13",
+        "share": 0.023
+      },
+      {
+        "hex": "#d7b66c",
+        "share": 0.022
+      },
+      {
+        "hex": "#4b4634",
+        "share": 0.02
+      }
+    ],
+    "background": "#ddc483",
+    "chroma": 0.22,
+    "lightness": 0.45,
+    "chromaticShare": 0.47,
+    "accentChroma": 0.43,
+    "distinct": 10,
+    "hues": 2
+  }
+}

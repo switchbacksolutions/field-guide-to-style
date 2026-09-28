@@ -1,0 +1,161 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20180916053224/https://material-ui.com/",
+  "title": "The world's most popular React UI framework - Material-UI",
+  "captured": "2018-09-16T05:32:34.951Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Roboto",
+        "share": 0.71
+      },
+      {
+        "family": "Consolas",
+        "share": 0.29
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 45,
+    "sizeRange": 2.81,
+    "scaleRatio": 1.32,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.06,
+    "monoShare": 0.29,
+    "centerShare": 0.05
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.772
+      },
+      {
+        "hex": "#000000",
+        "share": 0.104
+      },
+      {
+        "hex": "#313131",
+        "share": 0.033
+      },
+      {
+        "hex": "#2196f3",
+        "share": 0.028
+      },
+      {
+        "hex": "#0077aa",
+        "share": 0.026
+      },
+      {
+        "hex": "#669900",
+        "share": 0.009
+      },
+      {
+        "hex": "#1976d2",
+        "share": 0.008
+      },
+      {
+        "hex": "#e10050",
+        "share": 0.006
+      },
+      {
+        "hex": "#999999",
+        "share": 0.005
+      },
+      {
+        "hex": "#626980",
+        "share": 0.005
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0.06,
+    "lightness": 0.82,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.73,
+    "distinct": 5,
+    "hues": 4,
+    "imageShare": 0.08,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 10,
+    "radius": {
+      "median": 0,
+      "max": 18,
+      "roundShare": 0.4
+    },
+    "border": {
+      "share": 0.4,
+      "medianWidth": 12
+    },
+    "shadow": {
+      "share": 0.1,
+      "hardShare": 0,
+      "medianBlur": 18,
+      "medianOffset": 6
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.841
+      },
+      {
+        "hex": "#2196f3",
+        "share": 0.034
+      },
+      {
+        "hex": "#313131",
+        "share": 0.03
+      },
+      {
+        "hex": "#eaebeb",
+        "share": 0.021
+      },
+      {
+        "hex": "#6b6e7c",
+        "share": 0.011
+      },
+      {
+        "hex": "#0180cb",
+        "share": 0.009
+      },
+      {
+        "hex": "#afafb0",
+        "share": 0.008
+      },
+      {
+        "hex": "#d4d4d4",
+        "share": 0.008
+      },
+      {
+        "hex": "#919193",
+        "share": 0.006
+      },
+      {
+        "hex": "#03affc",
+        "share": 0.006
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.05,
+    "lightness": 0.93,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.76,
+    "distinct": 4,
+    "hues": 1
+  }
+}

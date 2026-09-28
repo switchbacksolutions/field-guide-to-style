@@ -1,0 +1,64 @@
+{
+  "id": "oz-magazine-4-cover-1967",
+  "title": "Oz magazine no. 4, cover",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "The cover of London Oz, May 1967, drawn by Hapshash and the Coloured Coat: a face whose streaming hair fills the page in gold and black on yellow.",
+  "summary": "Hapshash and the Coloured Coat, 1967. Streaming gold hair and a starry cloak on yellow, with magenta OZ mastheads.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1328452/",
+    "label": "Victoria and Albert Museum: Oz no. 4 (National Art Library)"
+  },
+  "creator": {
+    "name": "Hapshash and the Coloured Coat (signed on the cover)",
+    "url": "https://en.wikipedia.org/wiki/Hapshash_and_the_Coloured_Coat"
+  },
+  "made": "May 1967",
+  "moods": [
+    "fluid",
+    "saturated",
+    "countercultural"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the V&A image 2016JC9259 of this copy (IIIF, 1198 × 1600 px) to a scratch folder and inspected it. The signature “Hapshash and the Coloured Coat” runs along one strand of hair; the V&A record names no designer. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "The style applied to a magazine cover: full-bleed saturated yellow, flowing Art Nouveau hair that fills the page, and swollen lettering in a clashing magenta.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A holds this issue as “OZ Magazine. Number 4, May 1967”. Its record says that Richard Neville and Martin Sharp launched London Oz in 1967, and that Sharp and the designer Jon Goodchild made it “one of the most visually dazzling Psychedelic publications of its time”. [V&A](https://collections.vam.ac.uk/item/O1328452/).",
+    "Hapshash and the Coloured Coat designed covers for Oz, according to the V&A record for their later “Tantric Lovers” Oz cover. [V&A](https://collections.vam.ac.uk/item/O1155465/)."
+  ],
+  "observed": [
+    "A bright lemon-yellow ground covers the page, with a faint pattern of scalloped curves and stippling.",
+    "A woman’s face in grayscale halftone looks out from the left edge, cut off by the page.",
+    "Her hair streams right and up in broad bands of ochre-gold outlined in black, with fine parallel lines inside. It fills most of the cover.",
+    "A black shape inside the hair is scattered with gold stars and ends in a winged form at upper right. A small cloud contains zodiac signs.",
+    "OZ appears twice, at top left and bottom left, in fat black letters filled with magenta, with pointed, bat-wing counters. The price 2/6 is lettered at top right."
+  ],
+  "interpretation": [
+    "The cover shares its main device with Wilson’s [Otis Rush poster](ref:wes-wilson-otis-rush-grateful-dead-poster-1967): hair as a flowing field that organizes the page. Here the field carries imagery instead of words.",
+    "Magenta mastheads on yellow and gold give the one clashing accent, a pattern that suits a site header."
+  ],
+  "borrow": [
+    "Use one flowing shape, such as hair or smoke, to fill the page and lead the eye.",
+    "Repeat a short fat wordmark in two corners in a single clashing accent color.",
+    "Crop a photographic face at the edge and let drawn forms grow out of it."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The V&A image is © Victoria and Albert Museum, London. The cover design is in copyright; Michael English died in 2009 and Nigel Waymouth is alive."
+  },
+  "identifiers": {
+    "vam": "O1328452",
+    "vam-accession": "38041800917163"
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

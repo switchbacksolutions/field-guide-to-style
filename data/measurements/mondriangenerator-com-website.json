@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://mondriangenerator.com/",
+  "title": "Mondrian Generator",
+  "captured": "2026-09-28T17:34:21.700Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Gill Sans",
+        "share": 0.64
+      },
+      {
+        "family": "sans-serif",
+        "share": 0.31
+      },
+      {
+        "family": "Inter",
+        "share": 0.04
+      },
+      {
+        "family": "Arial",
+        "share": 0.01
+      }
+    ],
+    "baseSize": 13.6,
+    "maxSize": 22.4,
+    "sizeRange": 1.65,
+    "scaleRatio": 1.2,
+    "headingWeight": 700,
+    "bodyWeight": 600,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.54
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.247
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.233
+      },
+      {
+        "hex": "#222222",
+        "share": 0.201
+      },
+      {
+        "hex": "#dcdcdc",
+        "share": 0.142
+      },
+      {
+        "hex": "#ffd700",
+        "share": 0.118
+      },
+      {
+        "hex": "#a0a0a0",
+        "share": 0.045
+      },
+      {
+        "hex": "#3b82f6",
+        "share": 0.015
+      }
+    ],
+    "background": "#222222",
+    "text": "#ffffff",
+    "contrast": 15.9,
+    "chroma": 0.13,
+    "lightness": 0.48,
+    "chromaticShare": 0.13,
+    "accentChroma": 0.97,
+    "distinct": 6,
+    "hues": 2,
+    "imageShare": 0.71,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 25,
+    "radius": {
+      "median": 0,
+      "max": 4,
+      "roundShare": 0.08
+    },
+    "border": {
+      "share": 0.92,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.407
+      },
+      {
+        "hex": "#e6e5e0",
+        "share": 0.119
+      },
+      {
+        "hex": "#000000",
+        "share": 0.112
+      },
+      {
+        "hex": "#da281c",
+        "share": 0.087
+      },
+      {
+        "hex": "#fed801",
+        "share": 0.067
+      },
+      {
+        "hex": "#222222",
+        "share": 0.066
+      },
+      {
+        "hex": "#d7d6d5",
+        "share": 0.027
+      },
+      {
+        "hex": "#bbbab7",
+        "share": 0.025
+      },
+      {
+        "hex": "#8e8e8f",
+        "share": 0.014
+      },
+      {
+        "hex": "#0a5fa4",
+        "share": 0.012
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.16,
+    "lightness": 0.67,
+    "chromaticShare": 0.18,
+    "accentChroma": 0.81,
+    "distinct": 8,
+    "hues": 3
+  }
+}

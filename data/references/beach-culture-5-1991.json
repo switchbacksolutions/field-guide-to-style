@@ -1,0 +1,61 @@
+{
+  "id": "beach-culture-5-1991",
+  "title": "Beach Culture no. 5",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "An issue of the surf and culture magazine that Carson art-directed before Ray Gun, with mirrored, overlapping, and cropped display type.",
+  "summary": "Painted cover by Gary Baseman; inside, mirrored giant letters across the gutter and spaced capitals overprinted on a blurred photo. David Carson, 1991.",
+  "source": {
+    "url": "https://bookstore.thisisdisplay.org/products/beach-culture-no-5-feb-march-1991-david-carson",
+    "label": "Display Graphic Design Collection: Beach Culture No. 5, Feb/March 1991"
+  },
+  "creator": {
+    "name": "David Carson",
+    "url": "https://www.wikidata.org/wiki/Q562699"
+  },
+  "made": "February/March 1991 (Display)",
+  "moods": [
+    "intuitive",
+    "playful",
+    "chaotic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected five photographs (1600 × 1280 each) of one copy offered by Display in scratchpad copies: the cover and four interior spreads. The copy has no collection number. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "grunge-typography",
+      "note": "Precursor and partial fit: the layouts break the grid and overlap type as in Ray Gun, but the letterforms are clean and the grounds are mostly plain paper.",
+      "basis": "agent",
+      "qualifier": "precursor"
+    }
+  ],
+  "context": [
+    "Carson became art director of Beach Culture in 1989; the magazine ended after six issues. [Wikipedia](https://en.wikipedia.org/wiki/David_Carson_(graphic_designer)).",
+    "Display lists the issue as no. 5, February/March 1991, edited by Neil Feineman and published by Surfer Publishing Group, with a cover by Gary Baseman. It quotes Steven Heller: “Letter forms overlap, overprint, smash, and are otherwise covered by black, mortised, random bands.” [Display](https://bookstore.thisisdisplay.org/products/beach-culture-no-5-feb-march-1991-david-carson).",
+    "Display quotes Carson (Under Pressure, 2018) calling Beach Culture his best editorial work and saying he was already doing the Ray Gun kind of work there. [Display](https://bookstore.thisisdisplay.org/products/beach-culture-no-5-feb-march-1991-david-carson)."
+  ],
+  "observed": [
+    "The cover is a red, black, and white brush painting by Gary Baseman. The masthead is blue condensed slab capitals, stacked, with a yellow box around the issue number.",
+    "A cover line, “life on the pro tour”, is set in blue lowercase letters stepped down the page one or two at a time.",
+    "The “hanging at carmine st.” spread sets huge grey and black sans-serif letters mirrored and upside down across the gutter; one word is cut in half by the page edge.",
+    "“the song chant of the bush by wayne lynch” is a heavy lowercase sans-serif with wide word spaces, cropped by a photograph at the gutter.",
+    "A spread titled “romeo void” spaces single large letters in cells of thin rules; body text is a small typewriter-like face in narrow columns, next to blurred halftone images.",
+    "“GRACELAND, PARADISE GARDEN, AND ST. COCA COLA” is set in widely spaced capitals whose lines overlap each other over a blurred photograph."
+  ],
+  "interpretation": [
+    "Beach Culture shows the step before grunge: the layout is already broken and intuitive, but the type is not yet damaged. Its wide letterspacing is closer to [New Wave typography](style:new-wave-typography), which marks the boundary between the two styles."
+  ],
+  "borrow": [
+    "Mirror or invert one oversized word so it reads as shape before it reads as text.",
+    "Let two lines of spaced capitals overlap over a blurred photograph."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. David Carson is living, so the design is in copyright. Photographs by their sources. The cover painting is by Gary Baseman."
+  }
+}

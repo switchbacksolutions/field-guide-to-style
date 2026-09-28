@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/aquatic-park-bathhouse-san-francisco.jpg",
+  "captured": "2026-09-28T17:50:39+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#eaeaea",
+        "share": 0.197
+      },
+      {
+        "hex": "#cacaca",
+        "share": 0.147
+      },
+      {
+        "hex": "#dedede",
+        "share": 0.115
+      },
+      {
+        "hex": "#070707",
+        "share": 0.113
+      },
+      {
+        "hex": "#959595",
+        "share": 0.103
+      },
+      {
+        "hex": "#7e7e7e",
+        "share": 0.092
+      },
+      {
+        "hex": "#b9b9b9",
+        "share": 0.06
+      },
+      {
+        "hex": "#5d5d5d",
+        "share": 0.034
+      },
+      {
+        "hex": "#a1a1a1",
+        "share": 0.029
+      },
+      {
+        "hex": "#474747",
+        "share": 0.027
+      }
+    ],
+    "background": "#eaeaea",
+    "chroma": 0.0,
+    "lightness": 0.62,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 13,
+    "hues": 0
+  }
+}

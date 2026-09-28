@@ -1,0 +1,64 @@
+{
+  "id": "sharp-mister-tambourine-man-poster-1967",
+  "title": "Mister Tambourine Man",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Martin Sharp’s screen-printed homage to Bob Dylan, 1967: a face in dark glasses inside a halo of concentric circles, also used as the cover of Oz magazine.",
+  "summary": "Martin Sharp, 1967. Red-orange target circles fill a black ground around a patterned face and cut-up lettering.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O76010/",
+    "label": "Victoria and Albert Museum: E.7-1968"
+  },
+  "creator": {
+    "name": "Martin Sharp",
+    "url": "https://en.wikipedia.org/wiki/Martin_Sharp"
+  },
+  "made": "1967",
+  "moods": [
+    "hallucinatory",
+    "dense",
+    "dark"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the V&A image of object E.7-1968 (IIIF, 1067 × 1600 px, with the poster about 750 × 1150 px inside a white margin) to a scratch folder and inspected it. The V&A copy is worn at the edges. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "Clear on density and motif: concentric circles fill the whole sheet and the title is broken up into patterned letters. Partial fit on color: red-orange, black, and silver, not a pair of vibrating complements.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A catalogues it as a colour screen print, 760 × 511 mm, inspired by Bob Dylan. The image appeared on the cover of the October–November 1967 issue of the London magazine Oz. The museum describes “a hallucinogenic frenzy of lettering and circles” that plays with Dylan’s song titles and lyrics. [V&A](https://collections.vam.ac.uk/item/O76010/).",
+    "Sharp (1942–2013) was an Australian artist and an editor of Oz; he also made the covers for Cream’s Disraeli Gears and Wheels of Fire. [Wikipedia](https://en.wikipedia.org/wiki/Martin_Sharp). See also [Oz no. 4](ref:oz-magazine-4-cover-1967)."
+  ],
+  "observed": [
+    "Hundreds of concentric-circle targets in red-orange on black fill the sheet from edge to edge, at many sizes.",
+    "A face in large dark glasses fills the middle. It is printed in silver halftone covered with small red-orange marks.",
+    "The left lens carries the hand-lettered words BLOWING IN THE MIND in red-orange.",
+    "A larger silver target with a fine radiating pattern sits above the forehead like a third eye.",
+    "The title at the bottom is cut into pieces and partly covered by circles, so only parts such as MIST and URINE MAN can be read. The letters are filled with small patterns."
+  ],
+  "interpretation": [
+    "The concentric circles are the entoptic motif of the rubric used as an all-over texture. The effect is the same visual buzz as Moscoso’s stripes, but it comes from pattern density instead of complementary color.",
+    "A dark ground is unusual for the style. It shows that saturated pattern can carry the look without a light or colored field."
+  ],
+  "borrow": [
+    "Scatter concentric-ring targets at many sizes as an all-over background texture.",
+    "Put a short phrase inside a small enclosed shape of the main image, as with the lens here.",
+    "Let pattern cut through a display word, and keep enough of it to read."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The V&A image is © Victoria and Albert Museum, London, and the design is in copyright. Martin Sharp died in 2013."
+  },
+  "identifiers": {
+    "vam": "O76010",
+    "vam-accession": "E.7-1968"
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

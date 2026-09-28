@@ -1,0 +1,49 @@
+{
+  "id": "braun-et66-calculator-1987",
+  "title": "Braun ET66 calculator, 1987",
+  "type": "object",
+  "medium": "product",
+  "lede": "The pocket calculator by Dieter Rams and Dietrich Lubs that inspired the iPhone’s Calculator app.",
+  "summary": "A black calculator with round keys, the physical model for the iOS Calculator. Braun, 1987.",
+  "source": {
+    "url": "https://collection.powerhouse.com.au/object/428164",
+    "label": "Powerhouse Collection, object 2012/33/1"
+  },
+  "creator": {
+    "name": "Dieter Rams and Dietrich Lubs for Braun AG"
+  },
+  "made": "1987",
+  "moods": [
+    "precise",
+    "restrained"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the Powerhouse Collection record 2012/33/1 and Cult of Mac (2013). The record’s image was not inspected."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "Not an example of the style: the physical object that an interface imitated. It shows that the style also borrowed from restrained modern products, not only from leather and wood.",
+      "basis": "agent",
+      "qualifier": "imitated object"
+    }
+  ],
+  "context": [
+    "Powerhouse Collection: Braun ET66 calculator, made 1987, designed by Dieter Rams and Dietrich Lubs, manufactured by Braun AG and made in Hong Kong; “black plastic, including a case, with round numeric and function keys.” [Powerhouse, 2012/33/1](https://collection.powerhouse.com.au/object/428164).",
+    "Cult of Mac (John Brownlee, 2 May 2013): “the Braun ET66 pocket calculator, first released in 1987 … inspired iOS’s own calculator app.” [Cult of Mac](https://www.cultofmac.com/news/buy-a-replica-of-the-classic-braun-calculator-that-inspired-ioss-calculator-app)."
+  ],
+  "interpretation": [
+    "An interface can imitate an object that is itself plain. The iOS calculator kept the ET66’s round-key layout and color accents, not a material texture."
+  ],
+  "identifiers": {
+    "powerhouse": "2012/33/1"
+  },
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Design by living and recent designers; the museum states that image copyright is held by the Powerhouse. No image is stored here."
+  }
+}

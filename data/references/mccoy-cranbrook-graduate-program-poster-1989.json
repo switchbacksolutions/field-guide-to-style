@@ -1,0 +1,64 @@
+{
+  "id": "mccoy-cranbrook-graduate-program-poster-1989",
+  "title": "Cranbrook Graduate Program in Design poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Katherine McCoy’s recruiting poster for Cranbrook: a central column of paired words in spaced grotesque, laid over a violet and blue collage and framed by labeled boxes and dotted lines.",
+  "summary": "Paired words (“form/content”, “art/science”) in letterspaced grotesque over a two-colour collage, with boxed labels and dotted diagonals. Katherine McCoy, 1989.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O120192/",
+    "label": "V&A: The Cranbrook Graduate Program in Design, Michigan, E.599-1998"
+  },
+  "creator": {
+    "name": "Katherine McCoy",
+    "url": "https://www.wikidata.org/wiki/Q6376482"
+  },
+  "made": "1989 (V&A production date; the V&A description also says “early 1990s”)",
+  "moods": [
+    "layered",
+    "experimental",
+    "didactic",
+    "kinetic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A photograph of object E.599-1998 (image 2014HE4886, 1258 × 1600) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "new-wave-typography",
+      "note": "Clear example of the American academic branch: letterspacing, weight changes inside words, layers, and bars, used to carry an argument about reading.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A holds the poster as E.599-1998, offset lithograph on card, 71.3 × 56 cm, printed by Signet in Michigan, given by the Design Museum. McCoy was chair of the Cranbrook graduate design program. [V&A E.599-1998](https://collections.vam.ac.uk/item/O120192/).",
+    "The V&A says “Words are paired into couples such as ‘art / science’, ‘language / thought’ and ‘global / local’. The word couplings operate both as information and as design elements.” [V&A](https://collections.vam.ac.uk/item/O120192/).",
+    "Designhistory.org places Cranbrook directly after New Wave in its sequence of design after modernism. [designhistory.org](http://www.designhistory.org/PostModern_pages/NewWave.html)."
+  ],
+  "observed": [
+    "A central column of word pairs runs down the sheet, each pair set as one word (“formcontent”, “mythologytechnology”, “artscience”). The first word is regular weight and the second bold, and all are widely letterspaced.",
+    "The column overprints a collage split into violet on the left and blue on the right: machine parts, a book, a face, and fragments of other posters.",
+    "“cranbrook” is set white on a black box at the top left. “The Graduate Program in Design” runs across the top in a large spaced grotesque that the word pairs overlap.",
+    "Labels in small boxes (“program”, “design”, “see”, “read”, “image”, “text”) sit at the corners, some white on black and some outlined, joined by dotted vertical and diagonal lines.",
+    "A violet-to-blue gradient fills the top band, and small paragraphs of text float inside it at different positions."
+  ],
+  "interpretation": [
+    "The poster uses New Wave means (spacing, weight contrast inside a word, overprint, boxed labels) for a theory of reading. It is later and denser than Weingart’s work and points toward deconstruction, but its letterforms stay clean."
+  ],
+  "borrow": [
+    "Join two words and change the weight at the join.",
+    "Letterspace a centered column of short phrases and let it overprint an image.",
+    "Label the corners of a composition with small boxed words and join them with dotted lines."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is © Victoria and Albert Museum, London. Katherine McCoy is living, so the design is in copyright."
+  },
+  "identifiers": {
+    "vam": "O120192"
+  }
+}

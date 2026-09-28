@@ -1,0 +1,60 @@
+{
+  "id": "sleep-cycle-neumorphism-redesign-2020",
+  "title": "Sleep Cycle App – Neumorphism Redesign",
+  "type": "image",
+  "medium": "app",
+  "lede": "An unofficial January 2020 redesign of a sleep-tracking app, made while the trend was weeks old.",
+  "summary": "Devanta Ebison’s Dribbble concept: an alarm, a sleep journal, and a bar chart pressed into a pale surface with one coral accent.",
+  "source": {
+    "url": "https://dribbble.com/shots/9236283-Sleep-Cycle-App-Neumorphism-Redesign",
+    "label": "Dribbble",
+    "archive": "https://web.archive.org/web/20200104180144/https://dribbble.com/shots/9236283-Sleep-Cycle-App-Neumorphism-Redesign"
+  },
+  "creator": {
+    "name": "Devanta Ebison"
+  },
+  "made": "2020 (posted 2 January 2020, per the Wayback copy of the shot page)",
+  "moods": [
+    "soft",
+    "calm",
+    "quiet"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Opened the shot’s image (`dribbble__2x_4x.png`, 1600 × 1200) from cdn.dribbble.com, found through the Wayback capture of 4 January 2020. The live Dribbble page returned an empty body to scripts."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "A clear example: phones, buttons, tabs, and chart tracks all share one pale surface and differ only by soft raised or pressed shadows; one coral accent marks values and the main action.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The designer wrote: “Wanted to try my hand at this new design style called neumorphism because it’s been trending for the past few weeks. This was a fun exercise, but I don’t know if this style will stand the test of time.”",
+    "It is a fan concept. Sleep Cycle AB did not make it. The Wayback capture of 4 January 2020 shows 32,152 views and 334 likes."
+  ],
+  "observed": [
+    "Three tilted phones on a very pale gray-blue background. The phone bodies, buttons, and tabs are the same color as the background and are shaped by white highlights and soft gray shadows.",
+    "The clock display “10:00” sits in a pressed rectangular well; the HR and MIN buttons are raised circles.",
+    "The segmented control (Days, Weeks, Months) is a pressed track with a raised pill for the selected item. The chart bars are coral fills inside pressed tracks.",
+    "One accent color, a soft coral, fills the “Set alarm” button, the chart bars, the progress rings, and the active tab icon.",
+    "Text is a rounded geometric sans-serif in slate gray, bold for figures."
+  ],
+  "interpretation": [
+    "A textbook statement of the style two months after [Plyuto’s shot](ref:plyuto-skeuomorph-mobile-banking-2019): the object details are gone, only surface, shadow, and one accent remain. The designer’s own doubt about its future is an early sign of the reaction against it."
+  ],
+  "borrow": [
+    "Draw bar-chart tracks as pressed wells and fill them with the accent, so the empty part of each bar stays readable without gridlines."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Devanta Ebison. Link only."
+  },
+  "identifiers": {
+    "dribbble": "9236283"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "franco-grignani-info-website",
+  "title": "Franco Grignani blog",
+  "type": "website",
+  "medium": "website",
+  "lede": "A blog about the designer Franco Grignani that frames its posts with his black and white graphics: a radial burst in the header and a band of diagonal stripes behind the cards.",
+  "summary": "A black header with a white radial line burst and a striped portrait, above post cards on a field of diagonal black and white stripes.",
+  "source": {
+    "url": "https://www.francogrignani.info/",
+    "label": "francogrignani.info"
+  },
+  "moods": [
+    "high-contrast",
+    "archival",
+    "dramatic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. The request for francogrignani.org redirected to this site. Nothing covers the page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "Borderline: black and white radial lines and a diagonal stripe band carry the page, but a photographed face, a gold script signature, and card shadows are counter-traits.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Search results describe the blog as supervised by Daniela Grignani. This was not checked on the site itself. For the designer’s work, see the [Woolmark logo](ref:grignani-woolmark-logo-1964) and the [Alfieri & Lacroix page](ref:grignani-alfieri-lacroix-ad-1959)."
+  ],
+  "observed": [
+    "The header is solid black. At the left, white radial lines taper around an off-centre black hole, like a warped sunburst.",
+    "At the right, a photographed face is striped with light and shadow lines. At the centre, a gold handwritten signature sits over the line “the first blog about the man and the artist” in white sans-serif.",
+    "Below, a band of thick diagonal black and white stripes fills the page width. “the sign of our time” is set in black on a white label over the stripes.",
+    "White post cards with soft shadows sit on the stripe band: a black card with white condensed capitals, a black and white portrait, and a poster with red, green, and black stripes. A grey sidebar holds search and links.",
+    "A grey “Menu” button sits at the top left."
+  ],
+  "interpretation": [
+    "The site borrows Grignani’s optical line work as page chrome. The diagonal stripe band behind the cards is the clearest op device on the page.",
+    "The screenshot is dark (palette lightness 0.27) while the CSS reads a white page (0.83), because the header and stripes are images. Card shadows give a shadow share of 0.16."
+  ],
+  "borrow": [
+    "Put a band of heavy diagonal stripes behind a row of solid cards, so the pattern shows only in the gaps.",
+    "Use a warped radial burst of white lines on black as a header image."
+  ],
+  "images": [
+    {
+      "file": "assets/references/franco-grignani-info-website.jpg",
+      "alt": "Franco Grignani blog home page: a black header with a white radial line burst at left, a gold signature at centre, and a striped portrait at right, above white post cards on a band of diagonal black and white stripes.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [francogrignani.info](https://www.francogrignani.info/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

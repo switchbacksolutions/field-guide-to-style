@@ -1,0 +1,141 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://musee-ecole-de-nancy.nancy.fr/accueil",
+  "title": "Accueil — Musée de l'école de Nancy - Ville de Nancy",
+  "captured": "2026-09-28T17:22:56.113Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Open_Sans",
+        "share": 1
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 32,
+    "sizeRange": 2.29,
+    "scaleRatio": 1.14,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.47,
+    "monoShare": 0,
+    "centerShare": 0.4
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.397
+      },
+      {
+        "hex": "#a8d092",
+        "share": 0.396
+      },
+      {
+        "hex": "#282d33",
+        "share": 0.107
+      },
+      {
+        "hex": "#000000",
+        "share": 0.092
+      },
+      {
+        "hex": "#004655",
+        "share": 0.004
+      },
+      {
+        "hex": "#555555",
+        "share": 0.003
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0.1,
+    "lightness": 0.69,
+    "chromaticShare": 0,
+    "accentChroma": 0.33,
+    "distinct": 4,
+    "hues": 1,
+    "imageShare": 0.5,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 46,
+    "radius": {
+      "median": 0,
+      "max": 25,
+      "roundShare": 0.09
+    },
+    "border": {
+      "share": 0.28,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0.07,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#a8d092",
+        "share": 0.262
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.199
+      },
+      {
+        "hex": "#010100",
+        "share": 0.073
+      },
+      {
+        "hex": "#656a32",
+        "share": 0.048
+      },
+      {
+        "hex": "#9a9770",
+        "share": 0.033
+      },
+      {
+        "hex": "#c0c1b9",
+        "share": 0.032
+      },
+      {
+        "hex": "#252610",
+        "share": 0.03
+      },
+      {
+        "hex": "#171809",
+        "share": 0.029
+      },
+      {
+        "hex": "#60685d",
+        "share": 0.024
+      },
+      {
+        "hex": "#383812",
+        "share": 0.024
+      }
+    ],
+    "background": "#a8d092",
+    "chroma": 0.12,
+    "lightness": 0.58,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 14,
+    "hues": 0
+  }
+}

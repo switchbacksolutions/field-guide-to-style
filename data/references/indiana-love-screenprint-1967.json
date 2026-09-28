@@ -1,0 +1,62 @@
+{
+  "id": "indiana-love-screenprint-1967",
+  "title": "Love, screenprint",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "Robert Indiana’s LOVE in a 1967 screenprint: four red slab-serif letters stacked two over two, with a tilted O, on flat blue and green.",
+  "summary": "Stacked red slab-serif capitals on flat blue and green, with a tilted O. Robert Indiana, 1967.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O76309/",
+    "label": "V&A: Love, CIRC.579-1968"
+  },
+  "creator": {
+    "name": "Robert Indiana"
+  },
+  "made": "1967",
+  "moods": [
+    "bold",
+    "emblematic",
+    "commercial"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A image of its copy, CIRC.579-1968 (1200 × 1456 px), in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "The type branch of the style: a single word in stacked slab-serif capitals, flat saturated color, and no modeling. Partial fit: it has no dots, outlines, or comic panel.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A records a colour screenprint on paper, 65 × 50 cm, printed by Editions Domberger in 1967. It calls the image one of the iconic images of American Pop Art and notes that it was used for a US postage stamp. [V&A](https://collections.vam.ac.uk/item/O76309/).",
+    "A sister print in the V&A (CIRC.576-1968) belongs to a set of four called “Love Wall”, made for a portfolio published in Germany for the exhibition *Formen der Farbe*. [V&A](https://collections.vam.ac.uk/item/O157118/).",
+    "The 1973 US stamp is recorded as [LOVE stamp](ref:love-stamp-1973)."
+  ],
+  "observed": [
+    "The letters L, O, V, and E are stacked in a square, LO above VE, and fill the image to its edges.",
+    "The letters are flat red slab-serif capitals. The O is tilted to the right, and its counter is a green oblong.",
+    "The spaces between the letters are flat blue in the top half and flat green in the bottom half.",
+    "Red and green, and red and blue, meet at hard edges with no outline between them.",
+    "A wide unprinted white margin fills the bottom of the sheet."
+  ],
+  "interpretation": [
+    "Indiana’s contribution to the idiom is the word as image: sign-painter lettering, enlarged until the letters become the whole composition.",
+    "The red against blue and green vibrates at the edges, so the image stays loud without any black line."
+  ],
+  "borrow": [
+    "Stack a short word in heavy slab-serif capitals into a square and let it fill the panel.",
+    "Tilt one letter to give a static block of type a single point of movement."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The V&A credits a sister print “Copyright ARS, New York & DACS, London 2001”. Robert Indiana died in 2018."
+  },
+  "identifiers": {
+    "vam": "O76309"
+  }
+}

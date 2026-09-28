@@ -128,7 +128,10 @@
     }
   ],
   "synthesis": [
-    "No references are stored yet. The record rests on the attestation sources. The specimen follows the recipe that those sources describe: one pale surface, elements in the same color, and paired light and dark shadows that make them rise or sink."
+    "The references confirm the recipe of the attestation sources. The founding concept, [Plyuto’s banking app](ref:plyuto-skeuomorph-mobile-banking-2019) (November 2019), already has one pale surface with raised and pressed shapes, but it keeps skeuomorphic objects: a glossy rocker switch and a foil card. Within two months, concepts such as the [Sleep Cycle redesign](ref:sleep-cycle-neumorphism-redesign-2020) had dropped them and kept only surface, paired shadows, and one accent. [Malewicz](ref:malewicz-neumorphism-article-2019) named the style in December 2019 and [CSS-Tricks](ref:css-tricks-neumorphism-and-css-2020) turned it into CSS in March 2020.",
+    "Most of the evidence is concepts, stock sheets ([Vectorium](ref:vectorium-neumorphic-ui-elements-2020)), and component kits for every platform: [Flutter](ref:flutter-neumorphic-package), [SwiftUI](ref:costachung-neumorphic-swiftui), React ([ui-neumorphism](ref:ui-neumorphism-docs-website)), Bootstrap ([Themesberg](ref:themesberg-neumorphism-ui-website)), and Tailwind ([demo](ref:tailwindcss-neumorphism-demo-website)). Shipped products are rare. The strongest is the [CRED app](ref:cred-app-synth-neumorphic-ui), which moved its whole interface to a dark variant and open-sourced its framework in January 2021. [Lovelace Soft UI](ref:lovelace-soft-ui-home-assistant) brought it to smart-home dashboards, in a form so faint on near-white that only the dark shadow shows.",
+    "Real websites in the style are scarce. Of 23 candidate sites captured on 2026-09-28, eight were kept, and all the clear ones are tools, kit demos, or Webflow experiments ([neumorphism.io](ref:neumorphism-io-website), [Dashon](ref:neumorph-dashboard-webflow-website)). Commercial sites listed as neumorphic in listicles did not use it in their current first viewport. The personal site [samxie.net](ref:samxie-website) and the dark [Nicecard](ref:nicecard-website) page are borderline.",
+    "Calibration: the captured kits use smaller shadows than the specimen (median offset 2.8–4.2 px, blur 4.8–7 px) and smaller median radii (6–8.8 px), so those minimums were lowered. The border limit stays at 0.15, although [Themesberg](ref:themesberg-neumorphism-ui-website) adds a faint border to most components; more captures are needed. The measurement cannot see the defining trait, a light and a dark shadow on the same box, because it records only the largest offset and blur. High shadow share with near-zero chromatic share and no backdrop blur remains the practical marker; judge borderline cases by the rubric."
   ],
   "rubric": {
     "diagnostic": [
@@ -197,32 +200,32 @@
     {
       "metric": "surface.shadow.share",
       "min": 0.7,
-      "note": "Nearly every visible surface carries shadows: raised cards and buttons, pressed wells and inputs. Provisional: set from the specimen until real references are measured."
+      "note": "Nearly every visible surface carries shadows: raised cards and buttons, pressed wells and inputs. Checked 2026-09-28: four of five clear captures measure 0.70–0.85; [neumorphism.io](ref:neumorphism-io-website) measures 0.11 because its page is mostly plain text around one demo shape."
     },
     {
       "metric": "surface.shadow.medianOffset",
-      "min": 6,
-      "note": "Shadows are offset diagonally by several pixels toward and away from the light, not stacked straight below. Glass and Aero shadows sit closer. Provisional: set from the specimen until real references are measured."
+      "min": 2.5,
+      "note": "Shadows are offset diagonally toward and away from the light. Calibrated 2026-09-28 from 6 (the specimen) to 2.5: four of five clear captures use small offsets of 2.8–4.2 px ([Themesberg](ref:themesberg-neumorphism-ui-website), [ui-neumorphism](ref:ui-neumorphism-docs-website), [tailwindcss-neumorphism](ref:tailwindcss-neumorphism-demo-website), [Dashon](ref:neumorph-dashboard-webflow-website))."
     },
     {
       "metric": "surface.shadow.medianBlur",
-      "min": 8,
-      "note": "Both shadows are soft, with a blur of about twice the offset. Hard offset shadows point to neo-brutalism. Provisional."
+      "min": 4.5,
+      "note": "Both shadows are soft. Calibrated 2026-09-28 from 8 to 4.5: three of five clear captures blur 4.8–7 px. Hard offset shadows (blur 0) point to neo-brutalism."
     },
     {
       "metric": "surface.radius.median",
-      "min": 10,
-      "note": "Large radii on cards, pills, and round knobs. Provisional."
+      "min": 6,
+      "note": "Large radii on cards, pills, and round knobs. Calibrated 2026-09-28 from 10 to 6: three of five clear captures have medians of 6–8.8 px, because small controls and inputs use modest radii."
     },
     {
       "metric": "surface.border.share",
       "max": 0.15,
-      "note": "Shapes come from the surface, not from outlines. A hairline edge on most panels points to glassmorphism. Provisional."
+      "note": "Shapes come from the surface, not from outlines. A hairline edge on most panels points to glassmorphism. Kept at 0.15 on 2026-09-28: three of five clear captures pass, but [Themesberg](ref:themesberg-neumorphism-ui-website) (0.68) and [neumorphism.io](ref:neumorphism-io-website) (0.25) outline many controls, the “optional subtle border” that CSS-Tricks allows. Revisit with more captures."
     },
     {
       "metric": "color.chromaticShare",
       "max": 0.1,
-      "note": "One pale surface color covers the page. A single accent stays small. Provisional."
+      "note": "One pale surface color covers the page, and a single accent stays small. All five clear captures measure 0.01–0.06."
     }
   ]
 }

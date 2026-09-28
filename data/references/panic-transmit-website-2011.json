@@ -1,0 +1,65 @@
+{
+  "id": "panic-transmit-website-2011",
+  "title": "Panic Transmit website, 2011",
+  "type": "website",
+  "medium": "website",
+  "lede": "Panic’s page for the Mac FTP app Transmit 4, archived May 2011: a photoreal delivery truck, a paper-clipped logo tab, and chrome lettering.",
+  "summary": "A photoreal truck, a paper clip on the logo, embossed chrome lettering, and photoreal icons.",
+  "source": {
+    "url": "http://www.panic.com/transmit/",
+    "label": "www.panic.com/transmit",
+    "archive": "https://web.archive.org/web/20110531073504/http://www.panic.com/transmit/"
+  },
+  "made": "2011",
+  "moods": [
+    "playful",
+    "polished",
+    "illustrative"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "Borderline: the objects are fully skeuomorphic (a truck for file transfer, a paper clip on the logo tab, chrome lettering), but the page body is plain light gray with no material texture.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The top band is a dark gradient with a large photoreal yellow and purple truck, the app’s icon.",
+    "A white Panic logo tab at the top left is held by a drawn paper clip.",
+    "The links Download, Get Help, and Buy Now each have a photoreal icon: a hard disk with a green arrow, a glossy question mark, and a wooden crate.",
+    "The word “Features” is set in outlined chrome script with a bevel and shadow.",
+    "Below, a screenshot of the Transmit window shows a gray gradient toolbar and red callout dots."
+  ],
+  "interpretation": [
+    "Vertical gradients cover 94% of boxes, but no box has a measured shadow and the pattern shares are 0. The page’s depth is in its illustrations."
+  ],
+  "borrow": [
+    "Clip the logo to the page with a drawn paper clip, as on a document.",
+    "Let one large photoreal object carry the metaphor and keep the text area plain."
+  ],
+  "images": [
+    {
+      "file": "assets/references/panic-transmit-website-2011.jpg",
+      "alt": "Archived Transmit page: a dark band with a large photoreal yellow truck with a purple cargo box, a paper-clipped Panic logo tab, Download, Get Help, and Buy Now links with photoreal icons, a blue headline about Transmit 4, chrome Features lettering, and a screenshot of the app window.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [archived copy](https://web.archive.org/web/20110531073504/http://www.panic.com/transmit/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  },
+  "creator": {
+    "name": "Panic"
+  }
+}

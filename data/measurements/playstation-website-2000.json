@@ -1,0 +1,116 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20001027223903if_/http://www.playstation.com/",
+  "title": "Welcome to the World of PlayStation",
+  "captured": "2000-10-27T22:39:09.700Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [],
+    "baseSize": null,
+    "maxSize": null,
+    "sizeRange": null,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": null,
+    "headingTracking": null,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 1
+      }
+    ],
+    "background": "#000000",
+    "text": null,
+    "contrast": null,
+    "chroma": 0,
+    "lightness": 0,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 1,
+    "hues": 0,
+    "imageShare": 0.13,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 0,
+    "radius": {
+      "median": null,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.969
+      },
+      {
+        "hex": "#141515",
+        "share": 0.005
+      },
+      {
+        "hex": "#454346",
+        "share": 0.002
+      },
+      {
+        "hex": "#585155",
+        "share": 0.002
+      },
+      {
+        "hex": "#353436",
+        "share": 0.002
+      },
+      {
+        "hex": "#676568",
+        "share": 0.002
+      },
+      {
+        "hex": "#282d27",
+        "share": 0.002
+      },
+      {
+        "hex": "#76737d",
+        "share": 0.002
+      },
+      {
+        "hex": "#e2e4e5",
+        "share": 0.002
+      },
+      {
+        "hex": "#8c8798",
+        "share": 0.001
+      }
+    ],
+    "background": "#000000",
+    "chroma": 0,
+    "lightness": 0.01,
+    "chromaticShare": 0,
+    "accentChroma": 0.65,
+    "distinct": 1,
+    "hues": 0
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20160601095735if_/https://play.google.com/store/apps",
+  "title": "Applications Android sur Google Play",
+  "captured": "2016-06-01T09:57:43.003Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Roboto",
+        "share": 0.95
+      },
+      {
+        "family": "Arial",
+        "share": 0.05
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 28,
+    "sizeRange": 1.75,
+    "scaleRatio": 1.34,
+    "headingWeight": 400,
+    "bodyWeight": 300,
+    "headingTracking": 0,
+    "uppercaseShare": 0.03,
+    "monoShare": 0,
+    "centerShare": 0.13
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.461
+      },
+      {
+        "hex": "#f1f1f1",
+        "share": 0.273
+      },
+      {
+        "hex": "#000000",
+        "share": 0.1
+      },
+      {
+        "hex": "#5a5a5a",
+        "share": 0.077
+      },
+      {
+        "hex": "#212121",
+        "share": 0.062
+      },
+      {
+        "hex": "#303030",
+        "share": 0.009
+      },
+      {
+        "hex": "#689f38",
+        "share": 0.007
+      },
+      {
+        "hex": "#8d8d8d",
+        "share": 0.006
+      },
+      {
+        "hex": "#737373",
+        "share": 0.002
+      },
+      {
+        "hex": "#4387fd",
+        "share": 0.001
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#212121",
+    "contrast": 16.1,
+    "chroma": 0,
+    "lightness": 0.76,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.46,
+    "distinct": 5,
+    "hues": 1,
+    "imageShare": 0.03,
+    "gradientShare": 0.14,
+    "patternShare": 0.02
+  },
+  "surface": {
+    "boxes": 151,
+    "radius": {
+      "median": 0,
+      "max": 2,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.06,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.36,
+      "hardShare": 0.05,
+      "medianBlur": 4,
+      "medianOffset": 2
+    },
+    "gradientShare": 0.4,
+    "patternShare": 0.03,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#eeeeed",
+        "share": 0.403
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.218
+      },
+      {
+        "hex": "#575554",
+        "share": 0.041
+      },
+      {
+        "hex": "#413230",
+        "share": 0.033
+      },
+      {
+        "hex": "#787b80",
+        "share": 0.033
+      },
+      {
+        "hex": "#8c8f95",
+        "share": 0.031
+      },
+      {
+        "hex": "#463c67",
+        "share": 0.029
+      },
+      {
+        "hex": "#1e1819",
+        "share": 0.029
+      },
+      {
+        "hex": "#b8b9b8",
+        "share": 0.028
+      },
+      {
+        "hex": "#a2a5a4",
+        "share": 0.028
+      }
+    ],
+    "background": "#eeeeed",
+    "chroma": 0.05,
+    "lightness": 0.77,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.51,
+    "distinct": 12,
+    "hues": 4
+  }
+}

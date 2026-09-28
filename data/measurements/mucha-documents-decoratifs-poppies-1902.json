@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/mucha-documents-decoratifs-poppies-1902.jpg",
+  "captured": "2026-09-28T17:14:35+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e3ceb2",
+        "share": 0.269
+      },
+      {
+        "hex": "#e3be8c",
+        "share": 0.239
+      },
+      {
+        "hex": "#9d6e32",
+        "share": 0.047
+      },
+      {
+        "hex": "#a77841",
+        "share": 0.039
+      },
+      {
+        "hex": "#72785b",
+        "share": 0.032
+      },
+      {
+        "hex": "#bb7e4f",
+        "share": 0.031
+      },
+      {
+        "hex": "#7a704c",
+        "share": 0.031
+      },
+      {
+        "hex": "#8e7a54",
+        "share": 0.031
+      },
+      {
+        "hex": "#859b85",
+        "share": 0.03
+      },
+      {
+        "hex": "#be8a6c",
+        "share": 0.029
+      }
+    ],
+    "background": "#e3ceb2",
+    "chroma": 0.28,
+    "lightness": 0.64,
+    "chromaticShare": 0.52,
+    "accentChroma": 0.38,
+    "distinct": 15,
+    "hues": 2
+  }
+}

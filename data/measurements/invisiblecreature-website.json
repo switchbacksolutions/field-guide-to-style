@@ -1,0 +1,153 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://invisiblecreature.com/",
+  "title": "Home | Invisible Creature",
+  "captured": "2026-09-28T17:21:57.062Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Apercu",
+        "share": 0.59
+      },
+      {
+        "family": "Staff Wide",
+        "share": 0.19
+      },
+      {
+        "family": "Staff XX Condensed",
+        "share": 0.14
+      },
+      {
+        "family": "Staff XXX Condensed",
+        "share": 0.06
+      },
+      {
+        "family": "Apercu Mono",
+        "share": 0.03
+      }
+    ],
+    "baseSize": 20,
+    "maxSize": 200,
+    "sizeRange": 10,
+    "scaleRatio": 1.36,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0.02,
+    "uppercaseShare": 0.59,
+    "monoShare": 0.03,
+    "centerShare": 0.35
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.601
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.34
+      },
+      {
+        "hex": "#fcee21",
+        "share": 0.038
+      },
+      {
+        "hex": "#b2ebf2",
+        "share": 0.021
+      },
+      {
+        "hex": "#07b8ba",
+        "share": 0
+      }
+    ],
+    "background": "#000000",
+    "text": "#000000",
+    "contrast": 1,
+    "chroma": 0.04,
+    "lightness": 0.38,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.86,
+    "distinct": 4,
+    "hues": 1,
+    "imageShare": 0.03,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 205,
+    "radius": {
+      "median": 12,
+      "max": 32,
+      "roundShare": 0.94
+    },
+    "border": {
+      "share": 0.83,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": 0,
+      "medianBlur": 50,
+      "medianOffset": 25
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#6b553f",
+        "share": 0.195
+      },
+      {
+        "hex": "#034a47",
+        "share": 0.07
+      },
+      {
+        "hex": "#4c213e",
+        "share": 0.067
+      },
+      {
+        "hex": "#fdfdfc",
+        "share": 0.062
+      },
+      {
+        "hex": "#7d7a6d",
+        "share": 0.061
+      },
+      {
+        "hex": "#722811",
+        "share": 0.058
+      },
+      {
+        "hex": "#215628",
+        "share": 0.056
+      },
+      {
+        "hex": "#030303",
+        "share": 0.054
+      },
+      {
+        "hex": "#28223e",
+        "share": 0.041
+      },
+      {
+        "hex": "#796504",
+        "share": 0.036
+      }
+    ],
+    "background": "#6b553f",
+    "chroma": 0.18,
+    "lightness": 0.31,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.41,
+    "distinct": 16,
+    "hues": 3
+  }
+}

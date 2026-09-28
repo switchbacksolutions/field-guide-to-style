@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/morris-trellis-wallpaper.jpg",
+  "captured": "2026-09-28T17:38:17+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e6d8b3",
+        "share": 0.247
+      },
+      {
+        "hex": "#a7a787",
+        "share": 0.161
+      },
+      {
+        "hex": "#c2b596",
+        "share": 0.108
+      },
+      {
+        "hex": "#827a60",
+        "share": 0.044
+      },
+      {
+        "hex": "#f5e7c1",
+        "share": 0.044
+      },
+      {
+        "hex": "#d1c4a4",
+        "share": 0.044
+      },
+      {
+        "hex": "#8c876b",
+        "share": 0.043
+      },
+      {
+        "hex": "#756f57",
+        "share": 0.043
+      },
+      {
+        "hex": "#979376",
+        "share": 0.043
+      },
+      {
+        "hex": "#6b624b",
+        "share": 0.042
+      }
+    ],
+    "background": "#e6d8b3",
+    "chroma": 0.17,
+    "lightness": 0.62,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.39,
+    "distinct": 12,
+    "hues": 1
+  }
+}

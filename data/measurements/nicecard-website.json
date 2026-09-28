@@ -1,0 +1,141 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://nicecard.webflow.io/",
+  "title": "nicecard",
+  "captured": "2026-09-28T17:36:28.818Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Nunito Sans",
+        "share": 0.99
+      },
+      {
+        "family": "Open Sans",
+        "share": 0.01
+      }
+    ],
+    "baseSize": 15,
+    "maxSize": 74,
+    "sizeRange": 4.93,
+    "scaleRatio": 1.23,
+    "headingWeight": 400,
+    "bodyWeight": 300,
+    "headingTracking": 0,
+    "uppercaseShare": 0.06,
+    "monoShare": 0,
+    "centerShare": 0.33
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#24272b",
+        "share": 0.573
+      },
+      {
+        "hex": "#1a1c20",
+        "share": 0.235
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.181
+      },
+      {
+        "hex": "#ff4d00",
+        "share": 0.009
+      },
+      {
+        "hex": "#ff0000",
+        "share": 0.002
+      }
+    ],
+    "background": "#24272b",
+    "text": "#ffffff",
+    "contrast": 15,
+    "chroma": 0.03,
+    "lightness": 0.3,
+    "chromaticShare": 0.01,
+    "accentChroma": 1,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0.2,
+    "gradientShare": 0.14,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 38,
+    "radius": {
+      "median": 0,
+      "max": 22,
+      "roundShare": 0.42
+    },
+    "border": {
+      "share": 0.82,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.37,
+      "hardShare": 0,
+      "medianBlur": 6,
+      "medianOffset": 5.7
+    },
+    "gradientShare": 0.08,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#22252a",
+        "share": 0.759
+      },
+      {
+        "hex": "#111112",
+        "share": 0.062
+      },
+      {
+        "hex": "#7f7f7f",
+        "share": 0.046
+      },
+      {
+        "hex": "#be5711",
+        "share": 0.039
+      },
+      {
+        "hex": "#f74d06",
+        "share": 0.016
+      },
+      {
+        "hex": "#5f6063",
+        "share": 0.014
+      },
+      {
+        "hex": "#424346",
+        "share": 0.012
+      },
+      {
+        "hex": "#b7b3ac",
+        "share": 0.011
+      },
+      {
+        "hex": "#f8f7f6",
+        "share": 0.011
+      },
+      {
+        "hex": "#a54c15",
+        "share": 0.007
+      }
+    ],
+    "background": "#22252a",
+    "chroma": 0.08,
+    "lightness": 0.2,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.68,
+    "distinct": 4,
+    "hues": 1
+  }
+}

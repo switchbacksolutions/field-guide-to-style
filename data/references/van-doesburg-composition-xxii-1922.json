@@ -1,0 +1,74 @@
+{
+  "id": "van-doesburg-composition-xxii-1922",
+  "title": "Composition XXII",
+  "type": "image",
+  "medium": "painting",
+  "lede": "Theo van Doesburg’s version of the neoplastic canvas: flat rectangles that meet edge to edge, with no black lines between them.",
+  "summary": "Ochre, gray-green, white, black, blue, and red rectangles abutting without lines. Theo van Doesburg, 1920–1922.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_Composition_XXII.jpg",
+    "label": "Wikimedia Commons: Theo van Doesburg, Composition XXII (Van Abbemuseum)"
+  },
+  "creator": {
+    "name": "Theo van Doesburg",
+    "url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg"
+  },
+  "made": "June–July 1922 per the Commons record (after Hoek’s catalogue); older exhibition catalogues date it 1920",
+  "moods": [
+    "solid",
+    "balanced",
+    "earthy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons image (1447 × 1532 px, viewed at 1280 px) of the painting in the Van Abbemuseum, Eindhoven. The Commons record cites the museum’s old collection site as its source; the current museum record was not checked."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "Partial fit: orthogonal flat planes in an asymmetric balance, but without the black dividing lines, and with an ochre yellow and a gray-green that are not in Mondrian’s strict palette.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Oil on canvas, 45.5 × 43.3 cm, Van Abbemuseum, Eindhoven, bought in 1966. The first owner was Thijs Rinsema of Drachten, who acquired it from van Doesburg in 1922. [Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_Composition_XXII.jpg).",
+    "Exhibition catalogues listed on Commons date it 1920, 1920–1922, or about 1925. [Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_Composition_XXII.jpg)."
+  ],
+  "observed": [
+    "A large ochre-yellow square fills most of the upper left and center.",
+    "Two gray-green planes sit at the top right and the lower left; off-white strips run down the left edge and at the right.",
+    "Two black rectangles, one at right and one below the ochre square, touch other planes directly.",
+    "A dark blue plane fills the lower right, and a red strip runs along the bottom left edge.",
+    "There are no lines: every plane meets its neighbor edge to edge. Canvas texture shows through the paint."
+  ],
+  "interpretation": [
+    "This is the same grammar as Mondrian’s 1920–1921 canvases with the black lines removed. It shows that the lines are Mondrian’s signature more than a rule of the whole movement.",
+    "The earthy ochre and the gray-green show that the strict primaries were a direction, not yet a fixed rule, in van Doesburg’s painting of these years."
+  ],
+  "borrow": [
+    "Tile a layout with flat rectangles that touch without gaps or borders, and let one large plane dominate.",
+    "Use black as a solid block among colored blocks instead of as lines."
+  ],
+  "images": [
+    {
+      "file": "assets/references/van-doesburg-composition-xxii-1922.jpg",
+      "alt": "Abstract painting of flat rectangles that meet without lines: a large ochre-yellow square, gray-green and off-white planes, two black rectangles, a dark blue plane at lower right, and a red strip along the bottom left.",
+      "width": 1280,
+      "height": 1355,
+      "kind": "source-image",
+      "caption": "Theo van Doesburg, Composition XXII, 1920–1922. Van Abbemuseum, Eindhoven. Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_Composition_XXII.jpg), public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/22/Theo_van_Doesburg_Composition_XXII.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks the image public domain. Van Doesburg died in 1931, so his work is public domain in the Netherlands and the EU. Painted by 1922, it is public domain in the United States as a work published before 1931, and also under the life-plus-70 rule if it counts as unpublished."
+  },
+  "identifiers": {
+    "commons": "File:Theo van Doesburg Composition XXII.jpg"
+  }
+}

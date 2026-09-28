@@ -1,0 +1,145 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20180531232743if_/https://slack.com/",
+  "title": "Where work happens | Slack",
+  "captured": "2018-05-31T23:27:49.465Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Slack-Averta",
+        "share": 0.94
+      },
+      {
+        "family": "Slack-Tiempos",
+        "share": 0.06
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 76.8,
+    "sizeRange": 4.8,
+    "scaleRatio": 1.29,
+    "headingWeight": 500,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.11,
+    "monoShare": 0,
+    "centerShare": 0.32
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.81
+      },
+      {
+        "hex": "#6d6f7b",
+        "share": 0.085
+      },
+      {
+        "hex": "#5b5e6d",
+        "share": 0.075
+      },
+      {
+        "hex": "#323648",
+        "share": 0.018
+      },
+      {
+        "hex": "#3f46ad",
+        "share": 0.009
+      },
+      {
+        "hex": "#1c299d",
+        "share": 0.003
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#6d6f7b",
+    "contrast": 5,
+    "chroma": 0.02,
+    "lightness": 0.89,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.45,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0.17,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 19,
+    "radius": {
+      "median": 0,
+      "max": 4,
+      "roundShare": 0.37
+    },
+    "border": {
+      "share": 0.68,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.11,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 0
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.859
+      },
+      {
+        "hex": "#563953",
+        "share": 0.025
+      },
+      {
+        "hex": "#eaeaeb",
+        "share": 0.021
+      },
+      {
+        "hex": "#3e44aa",
+        "share": 0.013
+      },
+      {
+        "hex": "#322d3f",
+        "share": 0.012
+      },
+      {
+        "hex": "#d2d5d8",
+        "share": 0.012
+      },
+      {
+        "hex": "#c2c3c7",
+        "share": 0.012
+      },
+      {
+        "hex": "#aeaeb4",
+        "share": 0.007
+      },
+      {
+        "hex": "#50c29f",
+        "share": 0.007
+      },
+      {
+        "hex": "#746b74",
+        "share": 0.006
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.02,
+    "lightness": 0.94,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.46,
+    "distinct": 3,
+    "hues": 6
+  }
+}

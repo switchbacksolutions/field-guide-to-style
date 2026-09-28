@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/brenner-big-tech-cartoons-illustration-2019.jpg",
+  "captured": "2026-09-28T17:41:59+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#c7ffd2",
+        "share": 0.642
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.132
+      },
+      {
+        "hex": "#1a1847",
+        "share": 0.034
+      },
+      {
+        "hex": "#f7724f",
+        "share": 0.033
+      },
+      {
+        "hex": "#e791bf",
+        "share": 0.023
+      },
+      {
+        "hex": "#f8d671",
+        "share": 0.022
+      },
+      {
+        "hex": "#8cc2d1",
+        "share": 0.019
+      },
+      {
+        "hex": "#1f28ce",
+        "share": 0.017
+      },
+      {
+        "hex": "#cccccc",
+        "share": 0.015
+      },
+      {
+        "hex": "#6aa1ad",
+        "share": 0.015
+      }
+    ],
+    "background": "#c7ffd2",
+    "chroma": 0.22,
+    "lightness": 0.84,
+    "chromaticShare": 0.11,
+    "accentChroma": 0.56,
+    "distinct": 6,
+    "hues": 5
+  }
+}

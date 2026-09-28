@@ -127,7 +127,14 @@
       "text": "Metro uses motion to show state and structure: live tiles change, pages slide, and presses and swipes get an animated response. Hover and press states on the web change the fill color."
     }
   ],
-  "synthesis": [],
+  "synthesis": [
+    "Microsoft set the look. [Windows Phone 7](ref:windows-phone-7-metro-2010) introduced Metro in 2010; the [Windows 8.1 Start screen](ref:windows-8-1-start-screen) and the [Calculator app](ref:windows-8-1-calculator-app) show its tiles, thin type, and single-accent controls, and [Pentagram’s 2012 Windows logo](ref:windows-8-logo-pentagram-2012) applies the “authentically digital” rule to the brand mark. [NN/g (2015)](ref:nngroup-flat-design-article-2015) names Metro and Windows 8 as the main origin of the web trend.",
+    "The style reached Apple through third-party apps: [Letterpress](ref:letterpress-app-2012) borrowed from Windows Phone, and Apple’s designers cited it for [iOS 7](ref:ios-7-interface-2013). Apple’s own [iOS 7 page](ref:apple-ios-7-website-2013) shows thin type and flatter icons under a still-glossy navigation bar.",
+    "The web branch spread through free resources: Designmodo’s [Flat UI kit](ref:flat-ui-free-kit-designmodo) with its named twenty-color palette, republished on [Flat UI Colors](ref:flatuicolors-com-website-2014); the free [Lato](ref:lato-typeface) typeface; flat icon sets such as [Elegant Themes’ icons](ref:elegant-themes-flat-icons-2013); and [Metro UI CSS](ref:metroui-org-ua-website-2013), which rebuilt Metro for the web.",
+    "Microsoft’s own sites of 2012–2013 are the clearest websites: [Windows Azure](ref:windowsazure-com-website-2013), [Windows Phone](ref:windowsphone-com-website-2013), [Office.com](ref:office-com-website-2013), the [Windows Dev Center](ref:dev-windows-com-website-2012), and [windows.microsoft.com](ref:windows-com-website-2013). Few non-Microsoft sites of the period kept a usable Wayback copy in the style; most tried copies lost their CSS or relied on photographs.",
+    "Captures calibrated the fingerprint. Many 2012–2014 pages draw tiles and bands with images, so computed-style color missed them; the fingerprint reads color from the screenshot instead (`pixels.chromaticShare`, `pixels.hues`). Hairline dividers and input borders are common, so the border limit is loose on share and strict on width. Light headings hold for Metro pages, but the [Flat UI kit](ref:flat-ui-free-kit-designmodo) and [windows.microsoft.com](ref:windows-com-website-2013) use bold headings (700 and 600), so the weight range describes the Metro branch more than the web branch.",
+    "Two branches bend the rules. The [Elegant Themes icons](ref:elegant-themes-flat-icons-2013) add short solid shadows, a mild form of the 2013 long-shadow trend, and the Windows 8.1 tiles carry a faint gradient. Measurement cannot see gradients or shadows drawn in images, and archived pages often render in a fallback face because Segoe UI is not served, so judge archived pages with the rubric as well as the fingerprint."
+  ],
   "rubric": {
     "diagnostic": [
       "Buttons, panels, and tiles are solid color fields with no gradient, gloss, or shadow.",
@@ -223,6 +230,11 @@
       "metric": "surface.border.share",
       "max": 0.7,
       "note": "Fills, not outlines, separate the areas. Calibrated from 0.2: 4 of 8 clear captures measured 0.24–0.75, from 1 px hairline dividers and input borders on pages with few CSS-filled boxes. The Windows Dev Center 2012 capture (0.75, 4 boxes) fails. Outline-led specimens measure 0.84–1, and outlined neo-brutalist pages about 0.73."
+    },
+    {
+      "metric": "surface.border.medianWidth",
+      "max": 2,
+      "note": "Where borders appear, they are hairlines: dividers and input fields. Seven of eight clear captures measured 1–2 px; windows.microsoft.com 2013 (5.5 px) fails. Outlined styles measure 3 px or more."
     },
     {
       "metric": "surface.shadow.share",

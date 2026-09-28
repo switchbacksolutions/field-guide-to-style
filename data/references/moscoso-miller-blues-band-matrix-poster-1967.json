@@ -1,0 +1,66 @@
+{
+  "id": "moscoso-miller-blues-band-matrix-poster-1967",
+  "title": "The Miller Blues Band at the Matrix (Neon Rose #2)",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Victor Moscoso’s Neon Rose poster of January 1967: a photographed dancer inside nested stripes of magenta and cyan that seem to flicker.",
+  "summary": "Victor Moscoso, 1967. Magenta and cyan contour stripes vibrate around a photo-collage figure on orange-red.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1023103/",
+    "label": "Victoria and Albert Museum: E.624-2004"
+  },
+  "creator": {
+    "name": "Victor Moscoso",
+    "url": "https://en.wikipedia.org/wiki/Victor_Moscoso"
+  },
+  "made": "1967 (concerts 10–15 January)",
+  "moods": [
+    "hallucinatory",
+    "saturated",
+    "vibrating"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the V&A image of object E.624-2004 (IIIF, 1165 × 1600 px) to a scratch folder and inspected it. The Library of Congress record for its copy has no online image. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "The color trait in its purest form: two complements of similar value in tight alternating stripes, so the edges seem to move. Moscoso learned this from Josef Albers.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A catalogues it as Neon Rose #2, a colour offset lithograph “depicting a photograph of a nude model posing in a Salome-style costume circa 1920s”, signed by the artist. [V&A](https://collections.vam.ac.uk/item/O1023103/).",
+    "The Library of Congress copy (POS - US .M6775, no. 5) is 51 × 36 cm and was published by Neon Rose, San Francisco. It names the venue as the Matrix, Fillmore near Lombard. [LoC](https://www.loc.gov/item/2014647491/).",
+    "Moscoso (born 1936) studied at Cooper Union and Yale. Wikipedia attributes his vibrating colors to his teacher Josef Albers and notes that he was the first rock poster artist to use photographic collage. His Neon Rose posters advertised the Matrix club. [Wikipedia](https://en.wikipedia.org/wiki/Victor_Moscoso)."
+  ],
+  "observed": [
+    "An orange-red border surrounds an arched field of alternating magenta and light cyan stripes.",
+    "The stripes follow the outline of a central standing figure and repeat outward like contour lines, then fall straight down to the bottom edge.",
+    "The figure is a halftone photograph printed in magenta over the orange-red, so the body reads as one warm color against the cool stripes.",
+    "THE MILLER BLUES BAND arches over the head in orange-red hand-drawn capitals with small serifs. A smaller arched line above gives the dates and the venue, with stars as separators.",
+    "Every part of the sheet is colored. There is no white paper and no black."
+  ],
+  "interpretation": [
+    "This is the rubric’s color rule exactly: magenta and cyan of similar lightness in thin alternating bands. The flicker comes from the edges, not from any single color.",
+    "The contour stripes act as echo outlines around the figure, the same device that the rules recommend for display type."
+  ],
+  "borrow": [
+    "Repeat an outline outward in two alternating colors of similar value to make a vibrating halo.",
+    "Print a photograph in one flat color and let the ground carry the complement.",
+    "Arch a title over the main figure to keep the composition on its vertical axis."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The V&A image is © Victoria and Albert Museum, London, and the design is in copyright. Victor Moscoso is alive."
+  },
+  "identifiers": {
+    "vam": "O1023103",
+    "vam-accession": "E.624-2004",
+    "loc": "2014647491"
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

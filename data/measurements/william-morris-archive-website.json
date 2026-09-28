@@ -1,0 +1,161 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://morrisarchive.lib.uiowa.edu/",
+  "title": "William Morris Archive",
+  "captured": "2026-09-28T17:33:53.911Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Quadraat Sans",
+        "share": 0.93
+      },
+      {
+        "family": "Morris Troy",
+        "share": 0.05
+      },
+      {
+        "family": "QuadraatOT Regular",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 58,
+    "sizeRange": 3.63,
+    "scaleRatio": 1.38,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0.08,
+    "uppercaseShare": 0.46,
+    "monoShare": 0,
+    "centerShare": 0.62
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.579
+      },
+      {
+        "hex": "#022742",
+        "share": 0.101
+      },
+      {
+        "hex": "#212529",
+        "share": 0.086
+      },
+      {
+        "hex": "#34515b",
+        "share": 0.074
+      },
+      {
+        "hex": "#f2f5f4",
+        "share": 0.052
+      },
+      {
+        "hex": "#700b04",
+        "share": 0.035
+      },
+      {
+        "hex": "#d7c06d",
+        "share": 0.03
+      },
+      {
+        "hex": "#a5864d",
+        "share": 0.03
+      },
+      {
+        "hex": "#2d1810",
+        "share": 0.013
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#212529",
+    "contrast": 15.4,
+    "chroma": 0.08,
+    "lightness": 0.72,
+    "chromaticShare": 0.1,
+    "accentChroma": 0.4,
+    "distinct": 8,
+    "hues": 2,
+    "imageShare": 0.37,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 7,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.427
+      },
+      {
+        "hex": "#e6e5e0",
+        "share": 0.136
+      },
+      {
+        "hex": "#302524",
+        "share": 0.115
+      },
+      {
+        "hex": "#34515b",
+        "share": 0.071
+      },
+      {
+        "hex": "#022742",
+        "share": 0.05
+      },
+      {
+        "hex": "#3e3229",
+        "share": 0.029
+      },
+      {
+        "hex": "#d7c06c",
+        "share": 0.02
+      },
+      {
+        "hex": "#a58650",
+        "share": 0.02
+      },
+      {
+        "hex": "#bec4c4",
+        "share": 0.016
+      },
+      {
+        "hex": "#6f0a03",
+        "share": 0.015
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.07,
+    "lightness": 0.68,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.4,
+    "distinct": 6,
+    "hues": 3
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "ray-gun-12-l7-issue-1993",
+  "title": "Ray Gun no. 12, “The LA episode”",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "A Ray Gun issue from the turn of 1993–94, with Deborah Harry interviewing L7 on the cover and headlines inside that are scattered, doubled, blurred, and sprayed.",
+  "summary": "Green masthead bar over L7, scattered outline letters over body text, and a blurred, doubled “Mazzy Star” headline with yellow spray. David Carson, Ray Gun no. 12.",
+  "source": {
+    "url": "https://bookstore.thisisdisplay.org/products/ray-gun-no-12-december-january-1993-david-carson",
+    "label": "Display Graphic Design Collection: Ray Gun, No. 12"
+  },
+  "creator": {
+    "name": "David Carson",
+    "url": "https://www.wikidata.org/wiki/Q562699"
+  },
+  "made": "December 1993/January 1994 (Wikipedia); Display gives “December/January 1993”",
+  "moods": [
+    "raw",
+    "chaotic",
+    "dirty"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected five photographs (1600 × 1279 each) of one copy offered by Display in scratchpad copies: the cover and four interior spreads. The copy has no collection number. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "grunge-typography",
+      "note": "Clear example: headlines are scattered, blurred, doubled, and sprayed over body text, while the cover stays comparatively plain.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Display lists the issue as no. 12, 10 × 12 inches, 108 pages, art direction by David Carson, with L7 interviewed by Deborah Harry, and features on Mazzy Star, Redd Kross, Moby, and Yo La Tengo. [Display](https://bookstore.thisisdisplay.org/products/ray-gun-no-12-december-january-1993-david-carson).",
+    "Wikipedia’s issue list dates no. 12 to December 1993/January 1994, with L7 on the cover. [Wikipedia](https://en.wikipedia.org/wiki/Ray_Gun_(magazine))."
+  ],
+  "observed": [
+    "The cover is a full-bleed colour photograph of L7 with a bright green masthead bar reading “R AYGUN,” in heavy black sans-serif with an odd gap and a trailing comma.",
+    "Cover lines are a condensed sans-serif in white capitals, right-aligned in a narrow column.",
+    "The Bad Religion spread scatters large serif capitals, some in outline, across a brown duotone band photograph and over the body text; a brown splash surrounds one letter.",
+    "Pull-quote lines are set in several sizes and faces and overlap the text columns.",
+    "The Mazzy Star headline is blurred, doubled, and scratched, repeated across both pages, with yellow spray-paint marks over the body text.",
+    "The Mazzy Star body text is an italic serif set in a tilted, bending column; the photograph has a rough black border.",
+    "The Redd Kross opener uses a spiky decorative serif for the headline and byline over a red duotone photograph of sneakers."
+  ],
+  "interpretation": [
+    "This issue shows how grunge damage is concentrated in headlines and ornaments. Body text stays set in conventional serifs and a typewriter face, even when it is tilted or overlapped."
+  ],
+  "borrow": [
+    "Repeat a headline twice with a slight offset and blur, as a misregistered print.",
+    "Scatter the letters of one heading across a spread in mixed outline and solid capitals.",
+    "Add one spray or stain mark in a muted accent colour over body text, not over the headline."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. David Carson is living, so the design is in copyright. Photographs by their sources."
+  }
+}

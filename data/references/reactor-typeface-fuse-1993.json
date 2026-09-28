@@ -1,0 +1,60 @@
+{
+  "id": "reactor-typeface-fuse-1993",
+  "title": "Reactor typeface, FUSE poster",
+  "type": "product",
+  "medium": "typeface",
+  "lede": "Tobias Frere-Jones’s distressed sans-serif for the experimental type magazine FUSE, shown on its FUSE poster as white capitals that break up line by line.",
+  "summary": "White eroded capitals on a black, smeared photographic ground, with a yellow line at the foot. Tobias Frere-Jones, FUSE, 1993.",
+  "source": {
+    "url": "https://fontsinuse.com/typefaces/26615/fb-reactor",
+    "label": "Fonts In Use: FB Reactor"
+  },
+  "creator": {
+    "name": "Tobias Frere-Jones",
+    "url": "https://en.wikipedia.org/wiki/Tobias_Frere-Jones"
+  },
+  "made": "1993 (Fonts In Use; poster credit line); released by Font Bureau in 1996",
+  "moods": [
+    "dirty",
+    "angsty",
+    "raw"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the FUSE poster for Reactor as reproduced in Typographica’s review of the FUSE 1–20 book (1647 × 2340), and the Fonts In Use type sample (856 × 194), in scratchpad copies. The FUSE issue number was not confirmed. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "grunge-typography",
+      "note": "Clear example: a font drawn damaged, whose distress grows as more text is set.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Fonts In Use says Frere-Jones designed Reactor in 1993 for Neville Brody and Jon Wozencroft’s FUSE; Font Bureau released it in 1996, and it is no longer sold. [Fonts In Use](https://fontsinuse.com/typefaces/26615/fb-reactor).",
+    "Chris Hamamoto describes Reactor as “inspired by a burning building and its ruins”, with lowercase letters that contain copies of other characters extending into their neighbours, adding distress “the more type is set”. [Typographica](https://typographica.org/typography-books/fuse-1-20/).",
+    "Wikipedia’s list of Frere-Jones typefaces calls Reactor (1993–96) “an example of the ‘grunge typography’ style of the 1990s”, citing Ellen Lupton. [Wikipedia](https://en.wikipedia.org/wiki/List_of_typefaces_designed_by_Tobias_Frere-Jones)."
+  ],
+  "observed": [
+    "The poster is black with a grey, smeared photographic texture in the upper half and a dark photograph of machinery or wreckage at the foot.",
+    "Five lines of white capitals, cropped at both page edges, read like an incident report: “…WER LOSS IN ENGINE 3”, “…TIONAL DOWN 95 POI…”, “…ORE INTEGRITY SUSP…”, “…RNAL STRUCTURE DAM…”, “…LTIPLE SKULL FRACTU…”.",
+    "The first line is only lightly rough; each following line has more specks, torn edges, and stray fragments, until the letters in the last line are hard to separate.",
+    "A final line, “I CAN HEAR IT NOW”, is set in yellow in the same face with little damage.",
+    "The small credit line reads “F REACTOR ® 1993 FONTSHOP INTERNATIONAL © 1993 TOBIAS FRERE-JONES” in a plain monospaced face.",
+    "In the Fonts In Use sample, the capitals are a narrow humanist sans-serif with ragged, splintered edges and doubled strokes."
+  ],
+  "interpretation": [
+    "Reactor makes distress a function of the text, not a filter: the more you type, the worse it gets. The poster shows the style’s link between damage and content."
+  ],
+  "borrow": [
+    "Increase distress down a stack of display lines, so the page seems to decay as it is read.",
+    "Crop display lines at both edges of the page, as if the text continues off-screen."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. © 1993 Tobias Frere-Jones and FontShop International, per the poster’s credit line."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/chrysler-airflow-1934.jpg",
+  "captured": "2026-09-28T17:50:40+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#2a403f",
+        "share": 0.134
+      },
+      {
+        "hex": "#f2dfc1",
+        "share": 0.125
+      },
+      {
+        "hex": "#24160d",
+        "share": 0.063
+      },
+      {
+        "hex": "#130d0b",
+        "share": 0.059
+      },
+      {
+        "hex": "#20302f",
+        "share": 0.046
+      },
+      {
+        "hex": "#7c6757",
+        "share": 0.046
+      },
+      {
+        "hex": "#573823",
+        "share": 0.04
+      },
+      {
+        "hex": "#e4cead",
+        "share": 0.038
+      },
+      {
+        "hex": "#472b1a",
+        "share": 0.037
+      },
+      {
+        "hex": "#695545",
+        "share": 0.036
+      }
+    ],
+    "background": "#2a403f",
+    "chroma": 0.15,
+    "lightness": 0.39,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.39,
+    "distinct": 21,
+    "hues": 2
+  }
+}

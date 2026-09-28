@@ -1,0 +1,165 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.okeechobeefest.com/",
+  "title": "Okeechobee Music and Arts Festival 2026 | Okeechobee Music & Arts Festival - Enter the Portal",
+  "captured": "2026-09-28T17:24:37.703Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "American Grotesk",
+        "share": 0.5
+      },
+      {
+        "family": "American Grotesk Condensed",
+        "share": 0.19
+      },
+      {
+        "family": "AmericanGroteskCondensed",
+        "share": 0.11
+      },
+      {
+        "family": "Arial",
+        "share": 0.1
+      },
+      {
+        "family": "American Grotesk Compressed",
+        "share": 0.1
+      }
+    ],
+    "baseSize": 22,
+    "maxSize": 316.8,
+    "sizeRange": 14.4,
+    "scaleRatio": 1.2,
+    "headingWeight": 700,
+    "bodyWeight": 500,
+    "headingTracking": -0.01,
+    "uppercaseShare": 0.16,
+    "monoShare": 0,
+    "centerShare": 0.14
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#f6f5f0",
+        "share": 0.692
+      },
+      {
+        "hex": "#000000",
+        "share": 0.148
+      },
+      {
+        "hex": "#ff2fe2",
+        "share": 0.13
+      },
+      {
+        "hex": "#5d5d5d",
+        "share": 0.013
+      },
+      {
+        "hex": "#c7ff02",
+        "share": 0.01
+      },
+      {
+        "hex": "#0066cc",
+        "share": 0.004
+      },
+      {
+        "hex": "#141414",
+        "share": 0.002
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.001
+      }
+    ],
+    "background": "#f6f5f0",
+    "text": "#000000",
+    "contrast": 19.2,
+    "chroma": 0.14,
+    "lightness": 0.75,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.83,
+    "distinct": 3,
+    "hues": 3,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 24,
+    "radius": {
+      "median": 7,
+      "max": 50,
+      "roundShare": 0.67
+    },
+    "border": {
+      "share": 0.25,
+      "medianWidth": 1.5
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0.17,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#7d950b",
+        "share": 0.352
+      },
+      {
+        "hex": "#626262",
+        "share": 0.187
+      },
+      {
+        "hex": "#ff30e2",
+        "share": 0.139
+      },
+      {
+        "hex": "#818181",
+        "share": 0.122
+      },
+      {
+        "hex": "#727272",
+        "share": 0.073
+      },
+      {
+        "hex": "#0a0a09",
+        "share": 0.045
+      },
+      {
+        "hex": "#f6f6ee",
+        "share": 0.01
+      },
+      {
+        "hex": "#c8fd04",
+        "share": 0.01
+      },
+      {
+        "hex": "#503249",
+        "share": 0.008
+      },
+      {
+        "hex": "#959596",
+        "share": 0.008
+      }
+    ],
+    "background": "#7d950b",
+    "chroma": 0.33,
+    "lightness": 0.4,
+    "chromaticShare": 0.53,
+    "accentChroma": 0.62,
+    "distinct": 6,
+    "hues": 3
+  }
+}

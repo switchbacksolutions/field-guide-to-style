@@ -1,0 +1,58 @@
+{
+  "id": "inbox-by-gmail-2014",
+  "title": "Inbox by Gmail",
+  "type": "product",
+  "medium": "app",
+  "lede": "Google’s experimental email client, launched in 2014 as one of the first full Material Design apps: a blue app bar, white cards, and a red action button.",
+  "summary": "Blue app bar, bundled mail on white cards over pale gray, and a round red plus button. Google, 2014.",
+  "source": {
+    "url": "https://gmail.googleblog.com/2014/10/an-inbox-that-works-for-you.html",
+    "label": "Official Gmail Blog: “An inbox that works for you” (22 October 2014)"
+  },
+  "creator": {
+    "name": "Google"
+  },
+  "made": "2014 (announced 22 October 2014; shut down 2 April 2019)",
+  "moods": [
+    "bright",
+    "orderly",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Opened the two images in Google’s announcement post on 28 September 2026: *inbox-nexus6-500.png* (500 × 884, the app on a Nexus 6) and *bigtopblog_fullres.gif* (1000 × 592, a close-up of a Purchases bundle). Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "A clear example: blue primary app bar, white cards and list rows on pale gray, and a red floating action button in the lower right.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Sundar Pichai announced Inbox on the Official Gmail Blog on 22 October 2014 as “a completely different type of inbox”. [Gmail Blog](https://gmail.googleblog.com/2014/10/an-inbox-that-works-for-you.html).",
+    "Wikipedia: Inbox was announced on an invitation-only basis on 22 October 2014, released to the public on 28 May 2015, and shut down on 2 April 2019. [Wikipedia: Inbox by Gmail](https://en.wikipedia.org/wiki/Inbox_by_Gmail)."
+  ],
+  "observed": [
+    "A bright blue app bar holds a hamburger menu, the white title “Inbox”, a pin toggle, and a search glyph. The status bar above it is a darker blue.",
+    "Messages sit in white rows on a pale gray ground, with gray section labels “Today” and “Yesterday”. A Purchases bundle is a white card with a soft shadow and square corners, holding flat gray inner tiles with product photos.",
+    "Bundle labels are colored words: brown “Purchases”, cyan “Promos”, each with a count on a light tint of the same color.",
+    "A round red action button with a white plus floats over the lower right corner of the list with a soft shadow."
+  ],
+  "interpretation": [
+    "Inbox uses the accent rule in its textbook form: a blue primary and a red action button, with category colors used only for small labels."
+  ],
+  "borrow": [
+    "Give each content category one hue and use it only for its label and a light tint behind the count."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The product and images belong to Google."
+  },
+  "identifiers": {
+    "wikidata": "Q18357313"
+  }
+}

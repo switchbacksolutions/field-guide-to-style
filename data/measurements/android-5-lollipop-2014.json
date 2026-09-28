@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/android-5-lollipop-2014.jpg",
+  "captured": "2026-09-28T17:44:52+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.632
+      },
+      {
+        "hex": "#666666",
+        "share": 0.089
+      },
+      {
+        "hex": "#000000",
+        "share": 0.077
+      },
+      {
+        "hex": "#0c1011",
+        "share": 0.059
+      },
+      {
+        "hex": "#575757",
+        "share": 0.04
+      },
+      {
+        "hex": "#b8bab9",
+        "share": 0.016
+      },
+      {
+        "hex": "#eeefef",
+        "share": 0.016
+      },
+      {
+        "hex": "#161c1f",
+        "share": 0.012
+      },
+      {
+        "hex": "#cbcece",
+        "share": 0.012
+      },
+      {
+        "hex": "#dddfdf",
+        "share": 0.01
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.0,
+    "lightness": 0.75,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.36,
+    "distinct": 5,
+    "hues": 1
+  }
+}

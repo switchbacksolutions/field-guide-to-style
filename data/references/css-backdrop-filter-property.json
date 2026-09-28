@@ -1,0 +1,47 @@
+{
+  "id": "css-backdrop-filter-property",
+  "title": "CSS backdrop-filter property",
+  "type": "object",
+  "medium": "other",
+  "lede": "The CSS property that blurs whatever lies behind an element, which made frosted glass practical on the web.",
+  "summary": "The web platform feature behind glassmorphism: blur and other filters applied to an element’s backdrop.",
+  "source": {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter",
+    "label": "MDN Web Docs: backdrop-filter"
+  },
+  "creator": {
+    "name": "CSS Working Group (Filter Effects Module Level 2)",
+    "url": "https://drafts.csswg.org/filter-effects-2/#BackdropFilterProperty"
+  },
+  "made": "Safari 9 with the -webkit- prefix (2015-09-30); Chrome 76 (2019-07-30); Firefox 103 (2022-07-26); Baseline September 2024",
+  "evidence": {
+    "level": "documented",
+    "note": "Read the MDN page and the MDN browser-compatibility data (bcd.developer.mozilla.org) on 2026-09-28. A CSS property has no single appearance, so the level stays documented."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "glassmorphism",
+      "note": "The enabling technology. The style’s web spread in 2020–2021 followed Chrome’s support in 2019.",
+      "basis": "agent",
+      "qualifier": "enabling technology"
+    }
+  ],
+  "context": [
+    "MDN: “The backdrop-filter CSS property lets you apply graphical effects such as blurring or color shifting to the area behind an element.” The element or its background must be transparent or partly transparent for the effect to show. [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/backdrop-filter).",
+    "Browser support per MDN compatibility data: Safari 9 (2015) with the `-webkit-` prefix and Safari 18 (2024) without it; Chrome 76 (July 2019); Edge 17 prefixed (2018) and 79 (2020); Firefox 103 (July 2022). MDN marks the feature Baseline 2024.",
+    "It is specified in the CSS Filter Effects Module Level 2 draft. The [Hype4 generator](ref:hype4-glassmorphism-generator) and most glassmorphism tutorials use `backdrop-filter: blur()` with an `rgba()` fill."
+  ],
+  "interpretation": [
+    "The dates explain the style’s timing: the name arrived in 2020, a year after Chrome shipped the property, and the web examples of 2020–2021 needed a fallback for Firefox until 2022."
+  ],
+  "borrow": [
+    "Always pair `backdrop-filter` with a fill that is readable on its own, because the blur may be absent or turned off."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "MDN text is CC BY-SA 2.5 by Mozilla contributors; only facts and a short quotation are used here."
+  }
+}

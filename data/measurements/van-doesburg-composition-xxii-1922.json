@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/van-doesburg-composition-xxii-1922.jpg",
+  "captured": "2026-09-28T17:51:44+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#be871f",
+        "share": 0.439
+      },
+      {
+        "hex": "#1f2133",
+        "share": 0.136
+      },
+      {
+        "hex": "#ede4ba",
+        "share": 0.103
+      },
+      {
+        "hex": "#0b0a06",
+        "share": 0.083
+      },
+      {
+        "hex": "#ab3123",
+        "share": 0.057
+      },
+      {
+        "hex": "#737f61",
+        "share": 0.052
+      },
+      {
+        "hex": "#818b6e",
+        "share": 0.044
+      },
+      {
+        "hex": "#e5daab",
+        "share": 0.029
+      },
+      {
+        "hex": "#f1e9d1",
+        "share": 0.023
+      },
+      {
+        "hex": "#272d3e",
+        "share": 0.01
+      }
+    ],
+    "background": "#be871f",
+    "chroma": 0.37,
+    "lightness": 0.42,
+    "chromaticShare": 0.51,
+    "accentChroma": 0.61,
+    "distinct": 9,
+    "hues": 2
+  }
+}

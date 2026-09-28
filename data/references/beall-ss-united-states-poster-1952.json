@@ -1,0 +1,75 @@
+{
+  "id": "beall-ss-united-states-poster-1952",
+  "title": "S.S. United States poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Lester Beall loops a single red arrow around the word NEWEST and the ship’s two funnels, on cream paper between heavy black and blue bands.",
+  "summary": "A red looping arrow, flat red and blue funnels, and heavy condensed type on cream. Lester Beall for United States Lines, 1952.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:1951_SS_United_States_Travel_Poster_by_Lester_Thomas_Beall_(1).jpg",
+    "label": "Wikimedia Commons: 1951 SS United States Travel Poster by Lester Thomas Beall (1).jpg"
+  },
+  "creator": {
+    "name": "Lester Beall",
+    "url": "https://www.wikidata.org/wiki/Q6531814"
+  },
+  "made": "1952 (Commons date; the file name says 1951)",
+  "moods": [
+    "confident",
+    "modern",
+    "optimistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the 1280 × 1751 px Commons rendition of the scan (original 1358 × 1858 px). Commons names the Smithsonian National Museum of American History (nmah_1102295) as the source, but that page returned HTTP 403 to scripts and to WebFetch, so the museum record was not read."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "Partial fit: American corporate modernism of the early 1950s, with flat shapes on cream paper, a gestural arrow, and mixed type. The palette is red, blue, and black rather than the style’s warm earth tones.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Commons description says Lester Beall designed the poster for United States Lines as part of his wider graphic design for the ship’s identity, and that the line advertised the SS United States as the largest and fastest passenger ship built in the United States. [Commons](https://commons.wikimedia.org/wiki/File:1951_SS_United_States_Travel_Poster_by_Lester_Thomas_Beall_(1).jpg).",
+    "Beall lived from 1903 to 1969. [Wikidata](https://www.wikidata.org/wiki/Q6531814)."
+  ],
+  "observed": [
+    "A black band at the top carries “S.S. UNITED STATES” in heavy slab-like capitals, cream with the upper half tinted blue, and “NEW YORK ★ HAVRE ★ SOUTHAMPTON” in widely spaced geometric sans capitals.",
+    "The middle is cream paper. A thin red line loops once around the word “NEWEST” and ends in an arrowhead at the upper right.",
+    "“NEWEST” is set in thin, tall, slightly italic capitals; “…LARGEST AND FASTEST AMERICAN SHIP” below is a bold condensed sans.",
+    "Two raked funnels are flat red with blue caps, black bands, and a soft dark edge on one side. Below them the superstructure is drawn in gray outline with rows of windows and dots.",
+    "A black hull band crosses the lower third. A blue band at the foot holds “UNITED STATES LINES” in heavy condensed black capitals.",
+    "A small signature is visible at the upper right corner."
+  ],
+  "interpretation": [
+    "The single looping arrow is a hand gesture laid over otherwise mechanical drawing: the mix of the drawn and the engineered that marks American graphic modernism of the period.",
+    "Four typefaces in one poster, from thin display to heavy condensed, show the style’s loose, mixed typography. Measured on the stored image: cream background (#f1e6d2), accent chroma 0.54."
+  ],
+  "borrow": [
+    "Let one thin colored line loop around a heading and exit as an arrow.",
+    "Frame a cream field between a heavy dark top band and a colored bottom band."
+  ],
+  "images": [
+    {
+      "file": "assets/references/beall-ss-united-states-poster-1952.jpg",
+      "alt": "Travel poster: S.S. United States in heavy capitals on a black band, a cream field where a thin red arrow loops around the word Newest above two flat red funnels with blue caps, a gray line drawing of the ship’s decks, a black hull band, and United States Lines in heavy black capitals on a blue band.",
+      "width": 1280,
+      "height": 1751,
+      "kind": "source-image",
+      "caption": "Lester Beall, poster for the S.S. United States, United States Lines, 1952. Scan from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:1951_SS_United_States_Travel_Poster_by_Lester_Thomas_Beall_(1).jpg), marked public domain (no notice).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/1951_SS_United_States_Travel_Poster_by_Lester_Thomas_Beall_%281%29.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons license: {{PD-scan|PD-US-no notice|1969}}, public domain in the United States because it was published there before 1978 without a copyright notice. The country of origin is the United States. No notice is visible on the scan at the size checked."
+  },
+  "identifiers": {
+    "commons": "File:1951 SS United States Travel Poster by Lester Thomas Beall (1).jpg"
+  }
+}

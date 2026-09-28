@@ -1,0 +1,161 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://designmodo.github.io/Flat-UI/",
+  "title": "Flat UI - Free Bootstrap Framework and Theme",
+  "captured": "2026-09-28T17:12:45.943Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Lato",
+        "share": 0.93
+      },
+      {
+        "family": "Helvetica Neue",
+        "share": 0.07
+      }
+    ],
+    "baseSize": 15,
+    "maxSize": 90,
+    "sizeRange": 6,
+    "scaleRatio": 1.11,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.11,
+    "monoShare": 0,
+    "centerShare": 0.18
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.828
+      },
+      {
+        "hex": "#34495e",
+        "share": 0.098
+      },
+      {
+        "hex": "#bdc3c7",
+        "share": 0.018
+      },
+      {
+        "hex": "#7f8c9a",
+        "share": 0.015
+      },
+      {
+        "hex": "#1abc9c",
+        "share": 0.011
+      },
+      {
+        "hex": "#d1f2eb",
+        "share": 0.008
+      },
+      {
+        "hex": "#eff0f2",
+        "share": 0.005
+      },
+      {
+        "hex": "#d6dbdf",
+        "share": 0.003
+      },
+      {
+        "hex": "#3498db",
+        "share": 0.003
+      },
+      {
+        "hex": "#2ecc71",
+        "share": 0.002
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#34495e",
+    "contrast": 9.3,
+    "chroma": 0.03,
+    "lightness": 0.9,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.64,
+    "distinct": 2,
+    "hues": 1,
+    "imageShare": 0.05,
+    "gradientShare": 0,
+    "patternShare": 0.01
+  },
+  "surface": {
+    "boxes": 129,
+    "radius": {
+      "median": 0,
+      "max": 50,
+      "roundShare": 0.43
+    },
+    "border": {
+      "share": 0.24,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0.05,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 16
+    },
+    "gradientShare": 0,
+    "patternShare": 0.02,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.897
+      },
+      {
+        "hex": "#d0d4d8",
+        "share": 0.011
+      },
+      {
+        "hex": "#3a9cde",
+        "share": 0.01
+      },
+      {
+        "hex": "#32475c",
+        "share": 0.01
+      },
+      {
+        "hex": "#bdc3c7",
+        "share": 0.007
+      },
+      {
+        "hex": "#f0c516",
+        "share": 0.006
+      },
+      {
+        "hex": "#2c8fd1",
+        "share": 0.006
+      },
+      {
+        "hex": "#2ccb6f",
+        "share": 0.005
+      },
+      {
+        "hex": "#e74b3b",
+        "share": 0.005
+      },
+      {
+        "hex": "#19bb9a",
+        "share": 0.005
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.04,
+    "lightness": 0.96,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.61,
+    "distinct": 1,
+    "hues": 5
+  }
+}

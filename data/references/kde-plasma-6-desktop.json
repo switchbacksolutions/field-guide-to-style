@@ -1,0 +1,69 @@
+{
+  "id": "kde-plasma-6-desktop",
+  "title": "KDE Plasma 6 desktop",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "A free-software desktop whose launcher and panel are blurred, translucent glass over a pink and blue wallpaper.",
+  "summary": "Blurred translucent launcher and panel over a colorful wallpaper. KDE Plasma 6.4, 2025.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:KDE_Plasma_6.4.5_Light.png",
+    "label": "Wikimedia Commons: KDE Plasma 6.4.5 Light"
+  },
+  "creator": {
+    "name": "KDE",
+    "url": "https://kde.org/"
+  },
+  "made": "Plasma 6 released February 2024; screenshot of Plasma 6.4.5, 2025-10-20",
+  "moods": [
+    "airy",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the GPL-licensed screenshot [File:KDE Plasma 6.4.5 Light.png](https://commons.wikimedia.org/wiki/File:KDE_Plasma_6.4.5_Light.png) (1920 × 1080, Breeze Light theme, dated 2025-10-20) and stored a 1600 px copy."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "glassmorphism",
+      "note": "Partial fit. Only the launcher and the panel are glass; the application windows are opaque and grey.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "The Commons record describes the file as a screenshot of KDE Plasma 6.4.5 in the Breeze Light theme. It credits the software to KDE Plasma, the wallpaper to Krystian Zajdel, and the screenshot to User:Michio.kawaii, and gives the license as GPL. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KDE_Plasma_6.4.5_Light.png).",
+    "The same desktop line appears earlier in the catalogue as [KDE Plasma 4](ref:kde-plasma-4-desktop), whose glossy widgets belong to [Frutiger Aero](style:frutiger-aero)."
+  ],
+  "observed": [
+    "The wallpaper is a soft, out-of-focus scene of blue ribbon-like coils on a pink-to-red ground.",
+    "The application launcher at the lower left is a large panel with rounded top corners. The pink wallpaper shows through it as a smooth, blurred pastel wash.",
+    "The taskbar along the bottom is a translucent, pale strip; the wallpaper tint shows through it faintly.",
+    "The System Settings and Dolphin windows are opaque light grey with thin borders and a small radius.",
+    "Icons are flat and blue; the type is a neutral sans-serif."
+  ],
+  "interpretation": [
+    "Plasma uses glass the way Fluent Acrylic recommends: on transient and shell surfaces, not on document windows. Measured chromatic share of the stored image is 0.37, most of it from the wallpaper."
+  ],
+  "borrow": [
+    "Keep glass for the shell (launcher, panel) and leave working windows opaque."
+  ],
+  "images": [
+    {
+      "file": "assets/references/kde-plasma-6-desktop.jpg",
+      "alt": "KDE Plasma desktop with a blurred translucent application launcher at lower left over a pink and blue wallpaper, and two opaque grey windows.",
+      "width": 1600,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "KDE Plasma 6.4.5, Breeze Light, screenshot dated 2025-10-20. Software by KDE, wallpaper by Krystian Zajdel. GPL. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KDE_Plasma_6.4.5_Light.png).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/15/KDE_Plasma_6.4.5_Light.png",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "GPL",
+    "statement": "Screenshot licensed under the GNU General Public License per [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:KDE_Plasma_6.4.5_Light.png). The depicted software is free software. The same basis as [KDE Plasma 4](ref:kde-plasma-4-desktop)."
+  }
+}

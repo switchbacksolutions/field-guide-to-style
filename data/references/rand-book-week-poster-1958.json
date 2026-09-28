@@ -1,0 +1,76 @@
+{
+  "id": "rand-book-week-poster-1958",
+  "title": "Explore with books, Book Week poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Paul Rand builds a child from torn and cut paper shapes, with an open orange book for a roof, and sets the words in a lowercase slab on a charcoal ground.",
+  "summary": "A cut-paper child under an open orange book, with lowercase slab lettering on charcoal. Paul Rand, 1958.",
+  "source": {
+    "url": "https://www.loc.gov/item/2015646529/",
+    "label": "Library of Congress: Explore with books, Nov. 2-8. Book week"
+  },
+  "creator": {
+    "name": "Paul Rand",
+    "url": "https://www.wikidata.org/wiki/Q468160"
+  },
+  "made": "[1958] (Library of Congress date)",
+  "moods": [
+    "playful",
+    "warm",
+    "childlike",
+    "crafted"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Library of Congress service image (808 × 1024 px) of the Library’s copy, Prints and Photographs Division, Artist poster filing series. The larger TIFF was not opened."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "Cut-paper figure, flat mustard, orange, olive-green, and blue, loose black line drawing over the shapes, and friendly lettering: the illustrative core of the style. The ground is dark, not cream.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Library of Congress record gives the title as “Explore with books, Nov. 2-8. Book week”, the date as [1958], the place as [New York], the publisher as not identified, and the artist as Paul Rand (1914–1996). It forms part of the Library’s Artist poster filing series. [LoC 2015646529](https://www.loc.gov/item/2015646529/).",
+    "The same series holds the 1957 Book Week poster “Explore with books”, which the record says was designed by A&M Provensen. [LoC 2015646521](https://www.loc.gov/item/2015646521/)."
+  ],
+  "observed": [
+    "The ground is flat charcoal gray to the edges.",
+    "“explore with books nov. 2-8” runs across the top and “book week” across the foot, in a lowercase slab-serif in pale blue-gray and off-white.",
+    "A mustard square with a loosely drawn black circle stands for the sun.",
+    "A small figure with a round pink face and white glasses stands under a large open orange book worn like a roof. Its body is a yellow coat with a blue bow, and it holds a pink open book and a stack of red and green books.",
+    "The shapes have uneven, cut or torn edges. Thin black lines are drawn over them for the page edges, fingers, and buttons, and do not always follow the shapes.",
+    "The figure stands on a green rectangle with short black grass strokes. “Paul Rand” is signed in script at the lower right."
+  ],
+  "interpretation": [
+    "The poster shows the overprint idea by hand: color shapes and a separate black line layer that do not register exactly.",
+    "The lowercase slab and the childlike figure show the playful side of the style. Measured on the stored image: three hue families, accent chroma 0.53, and a dark background."
+  ],
+  "borrow": [
+    "Draw a thin black line layer over flat color shapes and let it drift off register.",
+    "Set a friendly heading in a lowercase slab-serif, and let one hand-signed word or signature balance it."
+  ],
+  "images": [
+    {
+      "file": "assets/references/rand-book-week-poster-1958.jpg",
+      "alt": "Poster on charcoal gray: a cut-paper child with a round pink face and white glasses stands under a large open orange book, holding a pink book and a stack of red and green books, beside a mustard square sun; lowercase slab lettering reads explore with books nov. 2-8 and book week.",
+      "width": 808,
+      "height": 1024,
+      "kind": "source-image",
+      "caption": "Paul Rand, “Explore with books, Nov. 2-8. Book week”, [1958]. Library of Congress, Prints and Photographs Division, [2015646529](https://www.loc.gov/item/2015646529/); no known restrictions on publication.",
+      "original": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/43100/43168v.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "no known restrictions",
+    "statement": "Library of Congress rights statement: “No known restrictions on publication.” The poster was published in the United States (LoC date [1958]); no copyright notice is visible on the digitized sheet at the size checked, and a US work of that date published without notice is in the public domain. The Library does not state its reason, so this rests on the Library’s assessment."
+  },
+  "identifiers": {
+    "loc": "2015646529"
+  }
+}

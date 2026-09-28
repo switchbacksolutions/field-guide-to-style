@@ -1,0 +1,62 @@
+{
+  "id": "jotform-website",
+  "title": "Jotform website",
+  "type": "website",
+  "medium": "website",
+  "lede": "Jotform’s home page: two flat figures at laptops sit inside pastel blob shapes on either side of a sign-up card.",
+  "summary": "Flat figures in blue and yellow blobs around a centred sign-up card, with a heavy navy heading. Live site.",
+  "source": {
+    "url": "https://www.jotform.com/",
+    "label": "Jotform"
+  },
+  "creator": {
+    "name": "Jotform"
+  },
+  "moods": [
+    "friendly",
+    "busy",
+    "cheerful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. No cookie box covers the page. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Borderline: flat figures with laptops sit in pastel blobs on a white page, but their proportions are ordinary and their skin is natural, so the gangly, non-natural figure is missing. A late, softened form of the style on a live site.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A small orange overline, “EASIEST ONLINE FORM BUILDER”, sits above the heavy navy heading “Powerful forms get it done.”",
+    "In the centre, a white card with a thin border holds three full-width buttons: blue for Google, black for Apple, and orange for email.",
+    "On the left, a woman in a green top with a pink headset types on a laptop inside a bright blue blob; an orange cat sleeps on top of the blob.",
+    "On the right, a woman with brown skin and a navy bob works at a grey laptop in front of a yellow blob, with a green check mark badge.",
+    "Figures have faces with eyes and mouths and roughly natural proportions; fills are flat with small darker shadow shapes."
+  ],
+  "interpretation": [
+    "The page keeps the style’s scene grammar (a figure, a device, a pastel blob, white space) after the gangly proportions went out of fashion. The measurement finds a median radius of 7 px and shadows on 9% of boxes."
+  ],
+  "borrow": [
+    "Set each spot figure inside one saturated blob shape, and let one small object (a cat, a check mark) break the blob’s outline."
+  ],
+  "images": [
+    {
+      "file": "assets/references/jotform-website.jpg",
+      "alt": "Jotform home page: a heavy navy heading above a sign-up card with Google, Apple, and email buttons, flanked by two flat figures working at laptops inside blue and yellow blob shapes.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [Jotform](https://www.jotform.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  }
+}

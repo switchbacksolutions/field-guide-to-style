@@ -1,0 +1,65 @@
+{
+  "id": "voysey-society-website",
+  "title": "C. F. A. Voysey Society website",
+  "type": "website",
+  "medium": "website",
+  "lede": "A plain society site that takes its title lettering, its red, and its cream from Voysey himself, and frames its news in thin olive rules.",
+  "summary": "Voysey-style red capitals on a cream band, Georgia text, red links, and olive-ruled boxes.",
+  "source": {
+    "url": "https://www.voyseysociety.org/",
+    "label": "voyseysociety.org"
+  },
+  "creator": {
+    "name": "The C. F. A. Voysey Society"
+  },
+  "moods": [
+    "earnest",
+    "plain",
+    "scholarly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "Clear in type and colour: hand-drawn Arts and Crafts capitals in red, an old-style serif, cream grounds, and ruled boxes. It has no pattern.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The title “THE·C·F·A·VOYSEY·SOCIETY” runs across a cream band in dark red hand-drawn capitals with small round letters set high and middle dots between words.",
+    "Below it a pale navigation bar with a slight gradient holds grey sans-serif labels divided by thin vertical rules.",
+    "An italic serif quotation from Voysey is centred under the navigation.",
+    "Body text is a dark old-style serif on white. Links are dark red.",
+    "The News box and the search box have thin olive rules; the News box has a light grey ground. Headings inside it are olive sans-serif.",
+    "The right column shows the orange-brown cover of the Society’s journal, The Orchard, and a black-and-white photograph of Voysey."
+  ],
+  "interpretation": [
+    "The site shows the style with almost no pattern: red lettering, a serif text face, italic for the quotation, and rules. That supports the rubric’s type and colour traits more than its pattern trait.",
+    "Measured: two chromatic hues, accent chroma 0.54, no shadows, no capitals in the running text (the title is an image), and 1 px borders. It fails only `color.patternShare`."
+  ],
+  "borrow": [
+    "Draw the title in a single dark red with middle dots between words, and leave the rest of the page in a plain serif.",
+    "Frame secondary content in a thin rule of a dye colour such as olive instead of a card with a shadow."
+  ],
+  "images": [
+    {
+      "file": "assets/references/voysey-society-website.jpg",
+      "alt": "C. F. A. Voysey Society home page: a cream band with the title in dark red hand-drawn capitals, a pale navigation bar, an italic quotation, serif body text, an olive-ruled News box, a journal cover, and a photograph of Voysey.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [voyseysociety.org](https://www.voyseysociety.org/), 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners, and the pattern images belong to their rights holders. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "klimt-foundation-website",
+  "title": "Gustav Klimt | Wien 1900 Foundation website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The foundation’s site opens with a black square logo of justified capitals and gold, on a finely patterned ground with square-cornered white panels.",
+  "summary": "Black square logo of justified capitals with one gold line, on a patterned ground, with square panels and capital navigation.",
+  "source": {
+    "url": "https://www.klimt-foundation.com/en/",
+    "label": "klimt-foundation.com"
+  },
+  "creator": {
+    "name": "Gustav Klimt | Wien 1900-Privatstiftung"
+  },
+  "moods": [
+    "geometric",
+    "refined",
+    "scholarly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. A cookie bar covers the bottom 90 px of the screenshot. The measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "Borderline: the logo is a Secession device (a black square with capitals set to fill each line, and gold), and the ground is patterned, but the layout is asymmetric and the tiles use several colours.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "At the upper left, a black square holds “GUSTAV / KLIMT / WIEN 1900 / FOUNDA / TION” in white and gold capitals, right-aligned; “FOUNDATION” is broken over two lines to keep the block square.",
+    "The page ground is a fine cream and gray pattern of small interlocking marks, like a woven or diagonal lattice.",
+    "The navigation (FOUNDATION, COLLECTION, RESEARCH, PUBLICATIONS, SALON) is in spaced gold capitals on a white panel with square corners.",
+    "A Klimt painting fills a white-framed panel in the right column.",
+    "Below, two square-cornered tiles in slate blue, green, and blue carry large white capitals: “GUSTAV KLIMT-DATABASE / RESEARCH ONLINE” and “EDITION KLIMT / PUBLICATION”.",
+    "The layout is a left logo column and a wide right column, not a central axis."
+  ],
+  "interpretation": [
+    "The logo is the closest the site comes to the style: a square block of capitals that are broken and aligned to fill the shape, with the words “WIEN 1900” in gold.",
+    "The fingerprint does not see the patterned ground: it is a CSS background image, and the extractor measured `surface.patternShare` and `color.patternShare` as 0. Text is left-aligned (`type.centerShare` 0.01) and only 17% of it is capitals. Square corners (radius 0) and one hue pass."
+  ],
+  "borrow": [
+    "Make a logo as a black square of capitals set to fill each line, and break a long word to keep the block square.",
+    "Put square-cornered white panels on a finely patterned ground so the pattern frames the content."
+  ],
+  "images": [
+    {
+      "file": "assets/references/klimt-foundation-website.jpg",
+      "alt": "Klimt Foundation home page: a black square logo with the words Gustav Klimt Wien 1900 Foundation in white and gold capitals, on a finely patterned cream background, with a gold capital navigation bar, a Klimt painting in a white frame, and two coloured tiles for the database and a publication.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [klimt-foundation.com](https://www.klimt-foundation.com/en/), captured 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the Gustav Klimt | Wien 1900-Privatstiftung. Screenshot captured for commentary."
+  }
+}

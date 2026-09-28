@@ -1,0 +1,51 @@
+{
+  "id": "podcasts-app-reel-to-reel-2012",
+  "title": "Podcasts app, 2012",
+  "type": "product",
+  "medium": "app",
+  "lede": "Apple’s first standalone podcast app, whose player showed an animated reel-to-reel tape deck.",
+  "summary": "A reel-to-reel tape deck that spins with playback. Apple, 2012, removed March 2013.",
+  "source": {
+    "url": "https://thenextweb.com/news/apple-updates-podcasts-app-with-custom-stations-on-the-go-playlists-and-less-skeuomorphic-design",
+    "label": "The Next Web, Matthew Panzarino, 21 March 2013"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "2012 (announced at WWDC 2012 as part of iOS 6); tape deck removed 21 March 2013",
+  "moods": [
+    "nostalgic",
+    "mechanical",
+    "playful"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "No image was inspected. Based on The Next Web and Gizmodo reports of the March 2013 update, and on Wikipedia."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "An extreme object metaphor from the style’s last year: an analog tape machine for a download app, with motion that follows the real reels.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "A standalone Apple Podcasts app was announced at WWDC 2012 as a feature of iOS 6. [Wikipedia: Apple Podcasts](https://en.wikipedia.org/wiki/Apple_Podcasts).",
+    "In the update of 21 March 2013, “Gone are the fat tape-machine style buttons and the reel-to-reel imitation scrubber.” [The Next Web](https://thenextweb.com/news/apple-updates-podcasts-app-with-custom-stations-on-the-go-playlists-and-less-skeuomorphic-design).",
+    "[Gizmodo](https://gizmodo.com/apples-podcasts-app-no-longer-has-horrible-reel-to-reel-5991798) reported the same change under the headline “Apple’s Podcasts App No Longer Has Horrible Reel-to-Reel Skeuomorphism.”"
+  ],
+  "interpretation": [
+    "The object had no link to how podcasts are made or delivered. It shows the style used as nostalgia, and its removal three months before iOS 7 marks the end of the period."
+  ],
+  "next": [
+    "Find and inspect a screenshot of the 2012 player."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple software; copyrighted. No image is stored here."
+  }
+}

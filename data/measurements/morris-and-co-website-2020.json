@@ -1,0 +1,173 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20200102211905if_/https://www.stylelibrary.com/morris&co/",
+  "title": "Morris & Co. | The Official Home | Style Library",
+  "captured": "2020-01-02T21:19:20.827Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "ProximaNovaA-Light",
+        "share": 0.84
+      },
+      {
+        "family": "GoldenTypeITCTT",
+        "share": 0.09
+      },
+      {
+        "family": "ProximaNovaA-Semibold",
+        "share": 0.04
+      },
+      {
+        "family": "ProximaNova-Bold",
+        "share": 0.02
+      },
+      {
+        "family": "ProximaNova-Light",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 64,
+    "sizeRange": 4,
+    "scaleRatio": 1.14,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0.015,
+    "uppercaseShare": 0.21,
+    "monoShare": 0,
+    "centerShare": 0.21
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.605
+      },
+      {
+        "hex": "#000000",
+        "share": 0.151
+      },
+      {
+        "hex": "#cbc9c7",
+        "share": 0.058
+      },
+      {
+        "hex": "#798981",
+        "share": 0.045
+      },
+      {
+        "hex": "#6a6869",
+        "share": 0.044
+      },
+      {
+        "hex": "#e8e4dd",
+        "share": 0.042
+      },
+      {
+        "hex": "#b2beb3",
+        "share": 0.027
+      },
+      {
+        "hex": "#f1f1f1",
+        "share": 0.017
+      },
+      {
+        "hex": "#222222",
+        "share": 0.006
+      },
+      {
+        "hex": "#58595b",
+        "share": 0.006
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0.01,
+    "lightness": 0.77,
+    "chromaticShare": 0,
+    "accentChroma": 0.45,
+    "distinct": 7,
+    "hues": 0,
+    "imageShare": 0.5,
+    "gradientShare": 0,
+    "patternShare": 0.06
+  },
+  "surface": {
+    "boxes": 45,
+    "radius": {
+      "median": 0,
+      "max": 13.6,
+      "roundShare": 0.07
+    },
+    "border": {
+      "share": 0.29,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.02,
+      "hardShare": 0,
+      "medianBlur": 10,
+      "medianOffset": 1
+    },
+    "gradientShare": 0,
+    "patternShare": 0.02,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.466
+      },
+      {
+        "hex": "#f1f1f1",
+        "share": 0.163
+      },
+      {
+        "hex": "#696868",
+        "share": 0.086
+      },
+      {
+        "hex": "#e8e6e0",
+        "share": 0.054
+      },
+      {
+        "hex": "#131a26",
+        "share": 0.031
+      },
+      {
+        "hex": "#312c30",
+        "share": 0.027
+      },
+      {
+        "hex": "#9ea2a1",
+        "share": 0.024
+      },
+      {
+        "hex": "#cacac4",
+        "share": 0.024
+      },
+      {
+        "hex": "#d8d9d5",
+        "share": 0.021
+      },
+      {
+        "hex": "#b2b6b3",
+        "share": 0.021
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.02,
+    "lightness": 0.81,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.42,
+    "distinct": 10,
+    "hues": 2
+  }
+}

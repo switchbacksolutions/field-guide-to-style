@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/voysey-block-printed-silk-bed-cover.jpg",
+  "captured": "2026-09-28T17:38:19+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#515b7f",
+        "share": 0.167
+      },
+      {
+        "hex": "#eeeeee",
+        "share": 0.098
+      },
+      {
+        "hex": "#c3865a",
+        "share": 0.055
+      },
+      {
+        "hex": "#ba7a50",
+        "share": 0.047
+      },
+      {
+        "hex": "#474e6d",
+        "share": 0.043
+      },
+      {
+        "hex": "#b0a49c",
+        "share": 0.039
+      },
+      {
+        "hex": "#c0b3a8",
+        "share": 0.039
+      },
+      {
+        "hex": "#b08163",
+        "share": 0.036
+      },
+      {
+        "hex": "#a87354",
+        "share": 0.036
+      },
+      {
+        "hex": "#cd9567",
+        "share": 0.032
+      }
+    ],
+    "background": "#515b7f",
+    "chroma": 0.17,
+    "lightness": 0.56,
+    "chromaticShare": 0.21,
+    "accentChroma": 0.38,
+    "distinct": 24,
+    "hues": 1
+  }
+}

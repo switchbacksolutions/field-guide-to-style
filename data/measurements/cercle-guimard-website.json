@@ -1,0 +1,153 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.lecercleguimard.fr/en/",
+  "title": "Le Cercle Guimard",
+  "captured": "2026-09-28T17:23:21.772Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Raleway",
+        "share": 0.76
+      },
+      {
+        "family": "Gabriela",
+        "share": 0.24
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 22,
+    "sizeRange": 1.29,
+    "scaleRatio": 1.1,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0.04,
+    "monoShare": 0,
+    "centerShare": 0.02
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.507
+      },
+      {
+        "hex": "#616161",
+        "share": 0.284
+      },
+      {
+        "hex": "#546a85",
+        "share": 0.184
+      },
+      {
+        "hex": "#dddddd",
+        "share": 0.01
+      },
+      {
+        "hex": "#c67e4e",
+        "share": 0.006
+      },
+      {
+        "hex": "#000000",
+        "share": 0.006
+      },
+      {
+        "hex": "#2d3032",
+        "share": 0.001
+      },
+      {
+        "hex": "#9ecc83",
+        "share": 0.001
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#616161",
+    "contrast": 6.2,
+    "chroma": 0.04,
+    "lightness": 0.71,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.47,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0.57,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 35,
+    "radius": {
+      "median": 0,
+      "max": 40,
+      "roundShare": 0.26
+    },
+    "border": {
+      "share": 0.54,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.11,
+      "hardShare": 0,
+      "medianBlur": 3,
+      "medianOffset": 1
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.29
+      },
+      {
+        "hex": "#556a85",
+        "share": 0.236
+      },
+      {
+        "hex": "#ecd8d3",
+        "share": 0.181
+      },
+      {
+        "hex": "#c3d5f7",
+        "share": 0.073
+      },
+      {
+        "hex": "#f4e4e0",
+        "share": 0.049
+      },
+      {
+        "hex": "#cdd4e7",
+        "share": 0.045
+      },
+      {
+        "hex": "#e2dfe4",
+        "share": 0.014
+      },
+      {
+        "hex": "#f5da4a",
+        "share": 0.014
+      },
+      {
+        "hex": "#bebdbd",
+        "share": 0.013
+      },
+      {
+        "hex": "#acadaf",
+        "share": 0.013
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.11,
+    "lightness": 0.78,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.56,
+    "distinct": 6,
+    "hues": 2
+  }
+}

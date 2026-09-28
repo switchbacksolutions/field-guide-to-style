@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20140605032117if_/http://flatuicolors.com/",
+  "title": "Flat UI Colors",
+  "captured": "2014-06-05T03:21:26.120Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Montserrat",
+        "share": 1
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 16,
+    "sizeRange": 1,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0.82,
+    "monoShare": 0,
+    "centerShare": 0.19
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ecf0f1",
+        "share": 0.196
+      },
+      {
+        "hex": "#7f8c8d",
+        "share": 0.072
+      },
+      {
+        "hex": "#bdc3c7",
+        "share": 0.049
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.048
+      },
+      {
+        "hex": "#2c3e50",
+        "share": 0.046
+      },
+      {
+        "hex": "#27ae60",
+        "share": 0.046
+      },
+      {
+        "hex": "#d35400",
+        "share": 0.046
+      },
+      {
+        "hex": "#8e44ad",
+        "share": 0.046
+      },
+      {
+        "hex": "#16a085",
+        "share": 0.039
+      },
+      {
+        "hex": "#f39c12",
+        "share": 0.039
+      }
+    ],
+    "background": "#ecf0f1",
+    "text": "#ecf0f1",
+    "contrast": 1,
+    "chroma": 0.36,
+    "lightness": 0.59,
+    "chromaticShare": 0.53,
+    "accentChroma": 0.63,
+    "distinct": 21,
+    "hues": 6,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 30,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0.13,
+      "hardShare": 0,
+      "medianBlur": 1,
+      "medianOffset": 1
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ecf0f1",
+        "share": 0.122
+      },
+      {
+        "hex": "#bec2c8",
+        "share": 0.05
+      },
+      {
+        "hex": "#7e8d8b",
+        "share": 0.047
+      },
+      {
+        "hex": "#95a5a6",
+        "share": 0.046
+      },
+      {
+        "hex": "#35495e",
+        "share": 0.046
+      },
+      {
+        "hex": "#9a5ab5",
+        "share": 0.045
+      },
+      {
+        "hex": "#e67f22",
+        "share": 0.044
+      },
+      {
+        "hex": "#e84c3d",
+        "share": 0.044
+      },
+      {
+        "hex": "#f39c11",
+        "share": 0.044
+      },
+      {
+        "hex": "#1bbc9b",
+        "share": 0.044
+      }
+    ],
+    "background": "#ecf0f1",
+    "chroma": 0.42,
+    "lightness": 0.55,
+    "chromaticShare": 0.62,
+    "accentChroma": 0.63,
+    "distinct": 20,
+    "hues": 7
+  }
+}

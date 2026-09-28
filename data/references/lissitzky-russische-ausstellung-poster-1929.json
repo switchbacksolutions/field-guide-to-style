@@ -1,0 +1,78 @@
+{
+  "id": "lissitzky-russische-ausstellung-poster-1929",
+  "title": "USSR Russische Ausstellung poster, Zurich",
+  "type": "print",
+  "medium": "poster",
+  "lede": "El Lissitzky’s poster for a Soviet exhibition in Zurich fuses two young faces into one photomontage and runs the museum’s name up a red bar.",
+  "summary": "Photomontage of two merged heads above a cut-out exhibition building, with red capitals and a vertical red band. El Lissitzky, 1929.",
+  "source": {
+    "url": "https://www.recherche-plakatsammlungbasel.ch/objects/6370",
+    "label": "Plakatsammlung der Schule für Gestaltung Basel, object 6370"
+  },
+  "creator": {
+    "name": "El Lissitzky",
+    "url": "https://www.wikidata.org/wiki/Q152233"
+  },
+  "made": "1929",
+  "moods": [
+    "monumental",
+    "photographic",
+    "urgent"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the scan that the Basel Poster Collection contributed to [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CH-000957-X-8308_Lissitzky.jpg) (2921 × 4096 px, viewed at 1920 px). Copy: Plakatsammlung der Schule für Gestaltung Basel, accession number CH-000957-X:8308."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "constructivism",
+      "note": "A canonical constructivist photomontage poster: black-and-white photographs cut and combined with red block capitals, a red bar, and a diagonal architectural fragment.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The poster advertised the Russian exhibition at the Kunstgewerbemuseum Zürich from 24 March to 28 April 1929. The Commons record gives the size as 125 × 90.5 cm, the technique as intaglio, and the printer as Gebr. Fretz AG, Zurich. [Commons](https://commons.wikimedia.org/wiki/File:CH-000957-X-8308_Lissitzky.jpg).",
+    "The poster is signed in the lower left corner “el Lissitzky Moskau”. The source photographs are not credited on the sheet."
+  ],
+  "observed": [
+    "A red band runs down the full left edge. “KUNSTGEWERBEMUSEUM ZÜRICH” is set in it in black spaced capitals, reading upward.",
+    "Two photographed heads, a young man and a young woman, are merged into one face with two sets of eyes and mouths. They look up and to the right against a gray sky.",
+    "“USSR” is set in red condensed capitals across the forehead.",
+    "Below the heads, a cut-out photograph of a modern building with black slabs, white planes, and diagonal supports forms the base. “RUSSISCHE” in gray and “AUSSTELLUNG” in large red condensed capitals sit on its black face.",
+    "The dates “1929 24 MÄRZ–28 APRIL” are set in white sans-serif at the lower right.",
+    "Apart from the red, the poster is printed in black and gray tones on a warm paper."
+  ],
+  "interpretation": [
+    "The merged heads are a direct example of the style’s photomontage: the photograph is a raw material to cut, double, and scale, not a window.",
+    "The red is limited to type and one bar, but the bar spans the full height, so it organizes the page. The measurement finds one hue and 12% chromatic area.",
+    "The sheet is dark overall because the photographs fill it, unlike the paper-white ground of the earlier letterpress work."
+  ],
+  "borrow": [
+    "Put the organization’s name in a full-height colored band on one edge, set in spaced capitals and turned 90 degrees.",
+    "Set a short label in red capitals directly on a black-and-white photograph.",
+    "Crop a building or object photograph along its own diagonals and use it as a base for the heading."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lissitzky-russische-ausstellung-poster-1929.jpg",
+      "alt": "Portrait poster: two merged black-and-white faces of a young man and woman look upward, with USSR in red capitals across the forehead. Below, a cut-out photograph of a modern building carries the words Russische Ausstellung in gray and red capitals. A red band on the left edge reads Kunstgewerbemuseum Zürich.",
+      "width": 1141,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "El Lissitzky, *USSR Russische Ausstellung*, Kunstgewerbemuseum Zürich, 1929. Plakatsammlung der Schule für Gestaltung Basel, CH-000957-X:8308, image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:CH-000957-X-8308_Lissitzky.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4f/CH-000957-X-8308_Lissitzky.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks the scan {{PD-Art-two|PD-old-auto|PD-US-not renewed}} (Public Domain Mark). The poster was published in Zurich in 1929. Lissitzky died in 1941, so the design is in the public domain in Switzerland (life + 70 years) and in Russia, and it was published before 1931, so it is in the public domain in the United States. The source photographs are uncredited; Lissitzky is commonly credited with the photomontage."
+  },
+  "identifiers": {
+    "commons": "File:CH-000957-X-8308 Lissitzky.jpg",
+    "plakatsammlung-basel": "6370"
+  }
+}

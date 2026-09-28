@@ -1,0 +1,63 @@
+{
+  "id": "genesis-soil-website",
+  "title": "Genesis soil intelligence website",
+  "type": "website",
+  "medium": "website",
+  "lede": "A climate-data company whose dashboard cards are frosted glass over a sunrise landscape photo.",
+  "summary": "Frosted, rounded data cards and pill navigation over a landscape photo at sunrise.",
+  "source": {
+    "url": "https://www.genesis.live/",
+    "label": "genesis.live"
+  },
+  "creator": {
+    "name": "Genesis",
+    "url": "https://www.genesis.live/"
+  },
+  "moods": [
+    "calm",
+    "luminous",
+    "layered"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. Nothing covers the page. Found through the One Page Love glassmorphism collection (discovery only)."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "glassmorphism",
+      "note": "Clear example: translucent, blurred cards with large radii float over the backdrop, and the content inside them stays flat. The backdrop is a photo, not abstract color.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The backdrop is a photo of green hills under a sky that fades from blue at the top to peach and pink at the horizon.",
+    "Two large cards at the bottom (‘Resilience score’ and ‘Share of soils in good health’) are translucent and blurred: the hills behind them show as soft green and brown.",
+    "The cards have large rounded corners and a faint lighter edge. Their content is flat: a green gauge, colored bars, and white sans-serif type.",
+    "The navigation links sit in separate translucent pills; ‘Book a demo’ is a solid near-black pill.",
+    "The primary hero button is a solid dark red pill next to a white pill."
+  ],
+  "interpretation": [
+    "Measured: 37 % of boxes use a backdrop blur and 77 % are rounded (median radius 12 px). No box has a CSS border, and 54 % have a gradient fill, so the light edge and the frosted look come from gradients and shadows. Chromatic share is only 0.10 because the photo backdrop is soft."
+  ],
+  "borrow": [
+    "Put data cards in frosted glass over a large landscape photo, and keep the charts inside them flat and saturated."
+  ],
+  "images": [
+    {
+      "file": "assets/references/genesis-soil-website.jpg",
+      "alt": "Genesis home page: a sunrise photo of green hills with a dark sans-serif headline, pill navigation at top right, and two frosted translucent data cards at the bottom showing a gauge of 6.5 and a bar chart.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [genesis.live](https://www.genesis.live/), captured 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners. Screenshot captured for commentary."
+  }
+}

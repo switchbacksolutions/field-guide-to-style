@@ -1,0 +1,60 @@
+{
+  "id": "ray-gun-bryan-ferry-dingbats-spread-1994",
+  "title": "Ray Gun Bryan Ferry interview in Zapf Dingbats",
+  "titleBreak": "Ray Gun Bryan Ferry interview|in Zapf Dingbats",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "The 1994 Ray Gun spread in which David Carson set a whole Bryan Ferry interview in the symbol font Zapf Dingbats.",
+  "summary": "Justified columns made entirely of dingbat symbols, with giant dingbats over the headline. David Carson, Ray Gun, 1994.",
+  "source": {
+    "url": "https://web.archive.org/web/20150925150838/http://www.theawl.com/2012/08/grunge-typography",
+    "label": "Sharan Shetty, “The Rise And Fall Of Grunge Typography”, The Awl (2012), archived copy"
+  },
+  "creator": {
+    "name": "David Carson",
+    "url": "https://www.wikidata.org/wiki/Q562699"
+  },
+  "made": "1994 (The Awl); issue number not stated by the sources",
+  "moods": [
+    "provocative",
+    "chaotic",
+    "ironic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1100 × 697 photograph of the opened spread, posted on the Process & Skills student blog (2013), in a scratchpad copy; The Awl’s own copy is 640 px wide. The owner of the photographed copy and the issue number are not stated. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "grunge-typography",
+      "note": "Clear example of the style’s attitude: legibility is abandoned on purpose. Partial fit for its surface, because the dingbats are clean and the ground is not dirty.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "The Awl says Carson disliked a Ray Gun article on Bryan Ferry and set the entire spread in Zapf Dingbats, in a 1994 issue. [The Awl](https://web.archive.org/web/20150925150838/http://www.theawl.com/2012/08/grunge-typography).",
+    "Wikipedia cites the Ferry interview as the example of Ray Gun’s not always readable “grunge typography”. [Wikipedia](https://en.wikipedia.org/wiki/Ray_Gun_(magazine))."
+  ],
+  "observed": [
+    "The right-hand page and most of the left are justified columns made entirely of Zapf Dingbats symbols: stars, circles, triangles, crosses, and arrows.",
+    "A grey rectangle sits behind part of the dingbat text and crosses the gutter.",
+    "The headline “bryan ferry” is a lowercase serif, partly covered by a large maroon four-lobed dingbat and a yellow-green photograph of Ferry in an armchair.",
+    "A large olive asterisk-like dingbat and a row of grey stars and flowers act as display ornaments.",
+    "The photo credit under the picture is the only readable text."
+  ],
+  "interpretation": [
+    "The spread is grunge as a gesture rather than as a texture: it uses a clean, standard font to make text unreadable. It belongs in the collection for its intent and for how often it is cited, not for its surfaces."
+  ],
+  "borrow": [
+    "Use a symbol font as a grey texture that has the rhythm of text, in a decorative area only.",
+    "Enlarge single dingbats to poster size and let them cover a headline."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. David Carson is living, so the design is in copyright. Photographs by their sources."
+  }
+}

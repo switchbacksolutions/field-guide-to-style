@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/greyhound-bus-station-huntington.jpg",
+  "captured": "2026-09-28T17:50:40+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e8e9eb",
+        "share": 0.266
+      },
+      {
+        "hex": "#878788",
+        "share": 0.215
+      },
+      {
+        "hex": "#767678",
+        "share": 0.077
+      },
+      {
+        "hex": "#959595",
+        "share": 0.065
+      },
+      {
+        "hex": "#504944",
+        "share": 0.036
+      },
+      {
+        "hex": "#d0dbe8",
+        "share": 0.035
+      },
+      {
+        "hex": "#60544c",
+        "share": 0.032
+      },
+      {
+        "hex": "#423c36",
+        "share": 0.031
+      },
+      {
+        "hex": "#adaba7",
+        "share": 0.029
+      },
+      {
+        "hex": "#6f6057",
+        "share": 0.028
+      }
+    ],
+    "background": "#e8e9eb",
+    "chroma": 0.03,
+    "lightness": 0.62,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 15,
+    "hues": 0
+  }
+}

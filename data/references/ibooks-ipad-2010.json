@@ -1,0 +1,58 @@
+{
+  "id": "ibooks-ipad-2010",
+  "title": "iBooks on the iPad, 2010",
+  "type": "product",
+  "medium": "app",
+  "lede": "Apple’s e-book app for the first iPad: a wooden bookshelf for the library and a bound book with stacked page edges for reading.",
+  "summary": "A bookshelf library and a two-page book spread with page edges and a curling page turn. Apple, 2010.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Apple_Books",
+    "label": "Wikipedia: Apple Books"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "Announced 27 January 2010 with the iPad",
+  "moods": [
+    "bookish",
+    "familiar",
+    "warm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1280 px copy of [File:1st-Gen-iPad-WiFi-iBooks.jpg](https://commons.wikimedia.org/wiki/File:1st-Gen-iPad-WiFi-iBooks.jpg) (Evan-Amos, 2011, public-domain photograph of a first-generation iPad showing the iBooks reading view). The photo shows the reading view only. The bookshelf view is documented, not observed. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "The reading view imitates a bound book, and the library imitates a wooden bookshelf: a clear object metaphor from the core years of the style.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple announced iBooks with the iPad on 27 January 2010. In Book layout, “pages are turned by tapping or dragging the page, animated to imitate the appearance of a paper book.” [Wikipedia: Apple Books](https://en.wikipedia.org/wiki/Apple_Books).",
+    "NN/g: “Ereaders, like iBooks and Kindle, were designed to look like physical bookshelves.” [NN/g: Skeuomorphism](https://www.nngroup.com/articles/skeuomorphism/).",
+    "On the day of the announcement, TechCrunch wrote that “the bookshelf view in iBooks is nearly identical to the main bookshelf view used in Delicious Library”; Wil Shipley noted that Mike Matas, a former Delicious Monster designer, worked on the iPad interface. [TechCrunch, MG Siegler, 27 January 2010](https://techcrunch.com/2010/01/27/think-ibooks-looks-familiar-youre-not-the-only-one/). See [Delicious Library](ref:delicious-library-2004)."
+  ],
+  "observed": [
+    "In landscape the screen shows two facing pages with a dark shadow in the gutter.",
+    "Thin stacked page edges run down the outer sides of both pages, as on a thick closed book block.",
+    "The pages are off-white; text is set in a serif face, justified and hyphenated.",
+    "A small bar at the top holds “Library” and table-of-contents buttons with a light bevel."
+  ],
+  "interpretation": [
+    "The reading view carries non-functional detail from the physical book (page edges, gutter shadow) while the controls stay small and plain. It is a quieter case than the leather and felt apps."
+  ],
+  "borrow": [
+    "Suggest a long document with stacked edge lines at the sides instead of a scroll bar.",
+    "Put a soft vertical shadow in the gutter of a two-column reading layout."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple software; copyrighted. No image is stored here."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "vaporwave-neocities-website",
+  "title": "vaporwave.neocities.org",
+  "type": "website",
+  "medium": "website",
+  "lede": "A small 2014 personal page: a white column on a cyan-to-pink gradient, a katakana greeting, spaced lowercase, and a clip-art crab with sunglasses and a soda.",
+  "summary": "White column on a cyan-to-pink gradient, katakana welcome, letter-spaced subtitle, clip-art crab. 2014.",
+  "source": {
+    "url": "https://vaporwave.neocities.org/",
+    "label": "vaporwave.neocities.org"
+  },
+  "moods": [
+    "deadpan",
+    "kitsch",
+    "nostalgic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. The update log on the page dates it to October 2014."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Clear: a pastel cyan-to-pink gradient behind the whole page, a Japanese greeting, a letter-spaced subtitle, and dated clip art. The only capture that passes the gradient metric.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The page background is a vertical gradient from pale cyan at the top to pink at the bottom.",
+    "A white column with thick black top and bottom rules holds the heading ようこそ, the spaced subtitle “W e l c o m e  t o  h e l l”, and a monospace update log dated October 2014.",
+    "A clip-art illustration shows a red crab in black sunglasses holding a soda can with a straw.",
+    "Three small monospace links (Dream, Hell, Chats) sit at the top left."
+  ],
+  "interpretation": [
+    "Gradient share measures 0.42. The spaced subtitle is typed with spaces between letters, so heading tracking measures 0."
+  ],
+  "images": [
+    {
+      "file": "assets/references/vaporwave-neocities-website.jpg",
+      "alt": "Small personal page: a white column with a katakana greeting, a letter-spaced subtitle, a clip-art crab in sunglasses with a soda, and an update log, on a pale cyan-to-pink gradient.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [vaporwave.neocities.org](https://vaporwave.neocities.org/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

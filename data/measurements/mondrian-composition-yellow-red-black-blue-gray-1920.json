@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/mondrian-composition-yellow-red-black-blue-gray-1920.jpg",
+  "captured": "2026-09-28T17:51:42+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f1f1ef",
+        "share": 0.23
+      },
+      {
+        "hex": "#141414",
+        "share": 0.198
+      },
+      {
+        "hex": "#b0b0b0",
+        "share": 0.173
+      },
+      {
+        "hex": "#fce430",
+        "share": 0.102
+      },
+      {
+        "hex": "#333e4e",
+        "share": 0.085
+      },
+      {
+        "hex": "#8e302d",
+        "share": 0.07
+      },
+      {
+        "hex": "#e0e1dd",
+        "share": 0.048
+      },
+      {
+        "hex": "#bdbdbd",
+        "share": 0.045
+      },
+      {
+        "hex": "#20201f",
+        "share": 0.014
+      },
+      {
+        "hex": "#323334",
+        "share": 0.007
+      }
+    ],
+    "background": "#f1f1ef",
+    "chroma": 0.12,
+    "lightness": 0.55,
+    "chromaticShare": 0.18,
+    "accentChroma": 0.62,
+    "distinct": 8,
+    "hues": 2
+  }
+}

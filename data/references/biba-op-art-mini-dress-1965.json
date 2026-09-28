@@ -1,0 +1,60 @@
+{
+  "id": "biba-op-art-mini-dress-1965",
+  "title": "Biba op-art mini-dress",
+  "type": "object",
+  "medium": "textile",
+  "lede": "A long-sleeved jersey mini-dress from the London boutique Biba, printed with nested diamonds in brown and black.",
+  "summary": "A high-necked mini-dress in brown jersey with a black print of concentric diamonds. Biba, London, 1965.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O133328/",
+    "label": "V&A: Mini-dress, T.159-1986"
+  },
+  "creator": {
+    "name": "Biba (designer)"
+  },
+  "made": "1965",
+  "moods": [
+    "mod",
+    "vibrating",
+    "murky"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A photograph of its copy, T.159-1986 (1040 × 1600 px), on a dress form against a blue backdrop, in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "An op print of nested diamonds on a mass-market dress. Partial fit: the colours are brown and black, not black and white.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A catalogues the dress with the style “Op art” and says it “was produced during the short lived Op Art fashion trend of 1965”. A horizontal-stripe version was also made. [V&A](https://collections.vam.ac.uk/item/O133328/).",
+    "The V&A notes that “while true optical art was often stark white and black, other colourways were used”, and that Biba used a brown and black textile here. It quotes Barbara Hulanicki on prints that washed out to “faded grey Op-Art print dresses”. [V&A](https://collections.vam.ac.uk/item/O133328/).",
+    "Physical description: straight-cut mini-dress with a high neck and long sleeves, brown jersey with black op-art geometric print, back zip. [V&A](https://collections.vam.ac.uk/item/O133328/)."
+  ],
+  "observed": [
+    "The print is a grid of concentric diamonds made of alternating brown and black bands of equal width.",
+    "Where four diamond centres meet, the bands turn into small checkerboards, and between them the bands form large X shapes.",
+    "The pattern covers the body, sleeves, and roll collar with no plain area."
+  ],
+  "interpretation": [
+    "The structure is pure op: one banded unit repeated edge to edge, with checks where the fields meet. The brown ground softens the contrast, so the vibration is weaker than in a black and white print.",
+    "The V&A’s own note makes the scope of this style explicit: black and white is the core, and colourways such as this are commercial variants."
+  ],
+  "borrow": [
+    "Tile concentric diamonds so that their corners meet and form checkerboards and X shapes between them.",
+    "For a softer op field, keep the black and replace the white with one mid-tone."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The V&A photograph is not openly licensed, and the rights in the Biba print are unverified."
+  },
+  "identifiers": {
+    "vam": "O133328"
+  }
+}

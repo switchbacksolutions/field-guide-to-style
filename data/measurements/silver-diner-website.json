@@ -1,0 +1,145 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.silverdiner.com/",
+  "title": "Silver Diner",
+  "captured": "2026-09-28T17:28:25.438Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "brandon-grotesque",
+        "share": 0.98
+      },
+      {
+        "family": "Roboto Slab",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 18.5,
+    "maxSize": 236.7,
+    "sizeRange": 12.83,
+    "scaleRatio": 1.59,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0.05,
+    "uppercaseShare": 0.32,
+    "monoShare": 0,
+    "centerShare": 0.87
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#102e5d",
+        "share": 0.39
+      },
+      {
+        "hex": "#000000",
+        "share": 0.229
+      },
+      {
+        "hex": "#158a97",
+        "share": 0.189
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.12
+      },
+      {
+        "hex": "#bd2b28",
+        "share": 0.039
+      },
+      {
+        "hex": "#d51c29",
+        "share": 0.033
+      }
+    ],
+    "background": "#102e5d",
+    "text": "#000000",
+    "contrast": 1.6,
+    "chroma": 0.26,
+    "lightness": 0.3,
+    "chromaticShare": 0.65,
+    "accentChroma": 0.4,
+    "distinct": 6,
+    "hues": 4,
+    "imageShare": 0.69,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 20,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.05,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#6e0512",
+        "share": 0.169
+      },
+      {
+        "hex": "#0f2e5d",
+        "share": 0.146
+      },
+      {
+        "hex": "#e6e2dd",
+        "share": 0.075
+      },
+      {
+        "hex": "#158a96",
+        "share": 0.066
+      },
+      {
+        "hex": "#d41f2a",
+        "share": 0.064
+      },
+      {
+        "hex": "#f4f2f2",
+        "share": 0.048
+      },
+      {
+        "hex": "#240a03",
+        "share": 0.037
+      },
+      {
+        "hex": "#d6ceca",
+        "share": 0.037
+      },
+      {
+        "hex": "#430e04",
+        "share": 0.032
+      },
+      {
+        "hex": "#5f2f1d",
+        "share": 0.028
+      }
+    ],
+    "background": "#6e0512",
+    "chroma": 0.3,
+    "lightness": 0.42,
+    "chromaticShare": 0.57,
+    "accentChroma": 0.43,
+    "distinct": 17,
+    "hues": 6
+  }
+}

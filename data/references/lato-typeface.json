@@ -1,0 +1,71 @@
+{
+  "id": "lato-typeface",
+  "title": "Lato typeface",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "The free humanist sans-serif of 2010 that became a default text face of the flat web.",
+  "summary": "Semi-rounded humanist sans-serif in weights from hairline to black. Łukasz Dziedzic, 2010, Open Font License.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Lato_(typeface)",
+    "label": "Wikipedia: Lato (typeface)"
+  },
+  "creator": {
+    "name": "Łukasz Dziedzic",
+    "url": "https://www.latofonts.com/"
+  },
+  "made": "2010",
+  "moods": [
+    "friendly",
+    "clear",
+    "warm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 960 × 1152 render of the specimen [File:Lato-font.png](https://commons.wikimedia.org/wiki/File:Lato-font.png) (by Gtk3, 2012, PD-textlogo) and stored it. Its use in the Flat UI kit was read in the kit’s `_variables.scss` and measured on its demo page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "The base font of the [Flat UI kit](ref:flat-ui-free-kit-designmodo) and one of the free web faces that the style record names for the flat web; the web counterpart of Segoe in Metro.",
+      "basis": "agent",
+      "qualifier": "web text face"
+    }
+  ],
+  "context": [
+    "“Lato is a humanist sans-serif typeface designed by Łukasz Dziedzic. It was released in 2010.” It was made for a Polish bank, shelved, and released the same year under the SIL Open Font License ([Wikipedia](https://en.wikipedia.org/wiki/Lato_(typeface))).",
+    "After it was added to Google Fonts it became, by August 2018, the third most served font there, after Roboto and Open Sans. It has nine weights from hairline to black, each with an italic.",
+    "Designmodo’s Flat UI kit sets `$font-family-base: \"Lato\", Helvetica, Arial, sans-serif` and ships Lato Light, Regular, and Black ([_variables.scss](https://github.com/designmodo/Flat-UI/blob/master/app/styles/_variables.scss)). Lato set 93% of the text measured on the kit’s demo page."
+  ],
+  "observed": [
+    "The specimen shows “Lato” large in a dark brown regular weight, italic and bold italic pairs (Aa Ee Nn), a very large pale gray “a”, and the word “Humanist” in teal.",
+    "A teal band below holds the lowercase alphabet in dark type and the figures 0–9 in white.",
+    "Letters have open apertures and slightly rounded stroke ends. The a is double-storey and the g is single-storey."
+  ],
+  "interpretation": [
+    "Measured with `tools/image-traits.py`; see the measurement file. Lato gave web designers a free, warm sans-serif with light and black weights, which let them follow both the light-heading Metro look and the bold-heading look of the Flat UI kit."
+  ],
+  "borrow": [
+    "For a flat interface on the web, pair a humanist sans-serif such as Lato in Light for large headings with Regular for text."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lato-typeface.png",
+      "alt": "Lato type specimen: the word Lato in large dark type, italic and bold italic letter pairs, a large gray letter a, the word Humanist in teal, and a teal band with the lowercase alphabet and the figures 0 to 9.",
+      "width": 960,
+      "height": 1152,
+      "kind": "source-image",
+      "caption": "Lato specimen by Gtk3, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lato-font.png) (PD-textlogo).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Wikimedia Commons tags the specimen {{PD-textlogo}}. The Lato fonts are released under the SIL Open Font License."
+  },
+  "identifiers": {
+    "wikidata": "Q6496892"
+  }
+}

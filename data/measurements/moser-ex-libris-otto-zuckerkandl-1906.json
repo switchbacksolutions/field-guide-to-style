@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/moser-ex-libris-otto-zuckerkandl-1906.jpg",
+  "captured": "2026-09-28T17:55:10+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#d0c5af",
+        "share": 0.501
+      },
+      {
+        "hex": "#504943",
+        "share": 0.174
+      },
+      {
+        "hex": "#84664f",
+        "share": 0.16
+      },
+      {
+        "hex": "#433d37",
+        "share": 0.042
+      },
+      {
+        "hex": "#725842",
+        "share": 0.028
+      },
+      {
+        "hex": "#5e574f",
+        "share": 0.023
+      },
+      {
+        "hex": "#bab1a1",
+        "share": 0.013
+      },
+      {
+        "hex": "#a09789",
+        "share": 0.012
+      },
+      {
+        "hex": "#6d665c",
+        "share": 0.012
+      },
+      {
+        "hex": "#8f867a",
+        "share": 0.011
+      }
+    ],
+    "background": "#d0c5af",
+    "chroma": 0.12,
+    "lightness": 0.56,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 6,
+    "hues": 0
+  }
+}

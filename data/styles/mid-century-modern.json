@@ -198,41 +198,48 @@
   },
   "fingerprint": [
     {
-      "metric": "color.hues",
-      "min": 3,
-      "note": "Three or more hue families (mustard, orange, teal, olive) appear together. Provisional: set from the specimen, recalibrate with measured references."
+      "metric": "pixels.hues",
+      "min": 2,
+      "note": "Two or more hue families in the screenshot palette. Calibrated 2026-09-28: the clear captures [Jim Flora](ref:jimflora-website) and [Shag](ref:shag-website) show 1 hue in computed styles, because their color is in images, and 2 in pixels. The specimen shows 4."
     },
     {
-      "metric": "color.accentChroma",
+      "metric": "pixels.accentChroma",
       "min": 0.4,
-      "max": 0.62,
-      "note": "The colors are printed and slightly muted: stronger than earth tones, weaker than primaries, neon, or UI brights. Provisional: set from the specimen, recalibrate with measured references."
-    },
-    {
-      "metric": "color.chromaticShare",
-      "min": 0.2,
       "max": 0.6,
-      "note": "Flat color fields and shapes cover a large share of the page, with open paper around them. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "The colors are printed and slightly muted: stronger than earth tones, weaker than primaries, neon, or UI brights. Calibrated 2026-09-28: measured on the screenshot, because the computed styles of [Jim Flora](ref:jimflora-website) see only the page chrome (0.38) and miss the artwork (0.42). [Shag](ref:shag-website) (0.73) and Saul Bass’s posters are more saturated than this range. Max lowered from 0.62 to 0.6 on 2026-09-28: passing captures measure 0.41 to 0.56, and a psychedelic festival site measured 0.62."
     },
     {
-      "metric": "surface.radius.roundShare",
-      "min": 0.25,
-      "note": "Circles, pebbles, and leaf corners are common shapes. Provisional: set from the specimen, recalibrate with measured references."
+      "metric": "pixels.chroma",
+      "min": 0.1,
+      "max": 0.35,
+      "note": "Flat color covers a noticeable part of the screenshot, without neon saturation. Added 2026-09-28 as a positive marker from the five kept captures (0.10 to 0.33) and the specimen (0.18); near-white pages score below 0.10. Measured on the fixed 1440 × 900 screenshot, so it depends on how much of the first viewport the artwork fills."
     },
     {
       "metric": "type.headingWeight",
       "min": 600,
-      "note": "Display lettering is heavy: bold geometric sans-serif or slab. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Display lettering is heavy: bold geometric sans-serif or slab. Checked 2026-09-28: four of five kept captures pass (600 to 700); [Jim Flora](ref:jimflora-website) fails at 400 because its display name is a light decorative face."
     },
     {
       "metric": "surface.shadow.share",
       "max": 0.05,
-      "note": "Print is flat. Drop shadows point to later digital styles. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Print is flat. Drop shadows point to later digital styles. Checked 2026-09-28: four of five kept captures measure 0; [Shag](ref:shag-website) measures 0.57 from its slider controls, not from the artwork."
     },
     {
       "metric": "color.gradientShare",
       "max": 0.02,
-      "note": "Color is flat, as in offset and screen printing. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Color is flat, as in offset and screen printing. Checked 2026-09-28: all five kept captures measure 0."
+    },
+    {
+      "metric": "type.centerShare",
+      "max": 0.7,
+      "note": "Layouts are asymmetric or mixed, not centered throughout. Calibrated 2026-09-28: the specimen and five captures measure 0.03 to 0.65; a centered streamline diner site measured 0.87."
     }
+  ],
+  "synthesis": [
+    "Print carries the graphic core. Saul Bass’s film posters for [Anatomy of a Murder](ref:bass-anatomy-of-a-murder-poster-1959) and [Vertigo](ref:bass-vertigo-poster-1958) reduce figures to flat cut-paper silhouettes with hand-cut lettering. Paul Rand’s [Book Week poster](ref:rand-book-week-poster-1958) builds a child from torn shapes with a drifting black line layer, Lester Beall’s [S.S. United States poster](ref:beall-ss-united-states-poster-1952) mixes four typefaces with one looping arrow, and Alvin Lustig’s [Nausea jacket](ref:lustig-nausea-book-jacket) offsets black and white strokes like a print out of register.",
+    "Textiles and objects carry the biomorphic and atomic motifs: Lucienne Day’s [Calyx](ref:day-calyx-furnishing-fabric-1951), Alexander Girard’s [Fruit Trees](ref:girard-fruit-trees-fabric-1960), Charley Harper’s [Ladybug](ref:harper-ladybug-screen-print-1959), and the [Ball Clock](ref:nelson-ball-clock) from George Nelson Associates. UPA’s [Gerald McBoing-Boing](ref:upa-gerald-mcboing-boing-1950) is the documented source of the limited-animation trait.",
+    "Measured evidence qualifies the “muted” palette in the grammar. Image measurements of the stored posters give an accent chroma of 0.80 for Anatomy of a Murder and 0.69 for Vertigo, above the fingerprint’s range, with one or two hues. The muted, multi-hue palette describes the textile and children’s-book side (Calyx, Fruit Trees, the Rand poster at 0.53 with three hues) better than Bass’s film posters. A cream ground is also not universal: the Rand poster is charcoal and Calyx is terracotta.",
+    "Real websites in the style carry it in illustration, not in CSS. [Jim Flora](ref:jimflora-website) and [Shag](ref:shag-website) are clear examples; [Invisible Creature](ref:invisiblecreature-website), [DerekArt](ref:derekart-website), and [Tom Froese](ref:tomfroese-website) are borderline. Computed styles see only the page chrome (one hue family or none on four of the five), so on 2026-09-28 the hue and accent-chroma metrics moved to the screenshot palette, a screenshot chroma range was added, and the computed chromatic-share and round-share metrics were removed: both clear examples failed them because their color and round shapes are in images.",
+    "Of 40 sites tried, 5 were kept. Many sites about the style (Modernism Week, Atomic Ranch, the Eames Institute, the Alvin Lustig archive, the Charley Harper Art Studio shop) describe or sell it with photography and a plain modern layout. Others were blocked by bot checks or covered by consent dialogs."
   ]
 }

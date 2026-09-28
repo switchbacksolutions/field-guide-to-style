@@ -1,0 +1,61 @@
+{
+  "id": "handspring-visor-deluxe-2000",
+  "title": "Handspring Visor Deluxe",
+  "type": "product",
+  "medium": "product",
+  "lede": "A Palm-style organiser sold in translucent candy colors, which the V&A links directly to the iMac G3.",
+  "summary": "Translucent orange case with silver oval buttons and a frosted cradle. Handspring, 1999–2000.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O59892/visor-deluxe-handheld-computer-handspring-international/",
+    "label": "V&A: Visor Deluxe, W.663:1 to 8-2001"
+  },
+  "creator": {
+    "name": "Handspring"
+  },
+  "made": "2000 (V&A); Wikipedia says the Visor line was released in September 1999",
+  "moods": [
+    "playful",
+    "techno-optimistic",
+    "shiny"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A photograph of object W.663:1 to 8-2001 (image 2008BT4277, 1600 × 1200) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Clear: translucent candy-orange plastic, visible circuit board, silver capsule buttons, and a frosted blob-shaped cradle.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A says the Visor “was available in a range of translucent, coloured plastic cases, inside of which the complex computer technology is concealed. In this way, it is aesthetically related to the design of the Apple iMac G3”. The case is polypropylene. [V&A W.663-2001](https://collections.vam.ac.uk/item/O59892/visor-deluxe-handheld-computer-handspring-international/).",
+    "Wikipedia lists the Visor Deluxe colors as translucent blue, green, and orange, and clear “Ice”, and gives a September 1999 release. [Wikipedia: Handspring](https://en.wikipedia.org/wiki/Handspring_(company))."
+  ],
+  "observed": [
+    "The case is translucent orange plastic. The circuit board and screws show through the lower part.",
+    "Fine horizontal ribs run down both sides of the frame around the greenish LCD screen.",
+    "Four round buttons and a central pill-shaped rocker are silver with a metallic sheen.",
+    "The device stands in a frosted, semi-clear cradle with a curved, lens-like front.",
+    "The stylus is a chrome tube with a white translucent tip."
+  ],
+  "interpretation": [
+    "The Visor shows how quickly the iMac’s material language spread to small electronics: the same translucent color, now combined with small chrome parts.",
+    "The mix of warm translucent orange and cold silver is a compact version of the Y2K palette."
+  ],
+  "borrow": [
+    "Combine a translucent warm color panel with small silver pill-shaped controls.",
+    "Use a frosted clear surface as a base or stand for a colored element."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is © Victoria and Albert Museum, London; the product design belongs to its maker."
+  },
+  "identifiers": {
+    "vam": "O59892"
+  }
+}

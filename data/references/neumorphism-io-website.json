@@ -1,0 +1,66 @@
+{
+  "id": "neumorphism-io-website",
+  "title": "Neumorphism.io",
+  "type": "website",
+  "medium": "website",
+  "lede": "The CSS shadow generator that spread the style’s recipe, itself built on one pale gray surface.",
+  "summary": "Adam Giebl’s neumorphism generator: a demo shape, sliders, and the paired box-shadow code.",
+  "source": {
+    "url": "https://neumorphism.io/",
+    "label": "neumorphism.io"
+  },
+  "creator": {
+    "name": "Adam Giebl",
+    "url": "https://github.com/adamgiebl/neumorphism"
+  },
+  "moods": [
+    "soft",
+    "didactic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "Clear. The demo shape and the control panel share the gray page color and rise from it with a white glow and a gray shadow. The tool is also the most-used source of the style’s CSS.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The source is on GitHub as [adamgiebl/neumorphism](https://github.com/adamgiebl/neumorphism), created on 29 December 2019, BSD-3-Clause, about 6,200 stars on 2026-09-28."
+  ],
+  "observed": [
+    "A pale gray page (#e0e0e0). A large rounded square in the same gray sits at the left with a white glow at upper left and a gray shadow at lower right.",
+    "A raised panel in the same gray holds sliders for Size, Radius, Distance, Intensity, and Blur, and four shape buttons (flat, concave, convex, pressed).",
+    "A dark navy code box shows `box-shadow: 20px 20px 60px #bebebe, -20px -20px 60px #ffffff`.",
+    "Headings and labels are a navy sans-serif. A small dark GitHub button at top right shows 6,162 stars."
+  ],
+  "interpretation": [
+    "The generator states the style’s rule as code: two shadows with equal and opposite offsets and a blur three times the offset. [CSS-Tricks](ref:css-tricks-neumorphism-and-css-2020) names it as the generator of the trend.",
+    "Only the demo and the panel carry shadows; the text below is plain, so the page-level shadow share is low.",
+    "Measured: shadows on 11 % of boxes (median offset 28.3 px, median blur 60 px, none hard), borders on 25 %, median radius 6 px."
+  ],
+  "borrow": [
+    "Set the blur to two or three times the offset and derive both shadow colors from the surface color, as the generator does."
+  ],
+  "images": [
+    {
+      "file": "assets/references/neumorphism-io-website.jpg",
+      "alt": "Neumorphism.io generator home page: a pale gray rounded square with soft white and gray shadows beside a raised gray panel of navy sliders, shape buttons, and a dark box of CSS box-shadow code.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [neumorphism.io](https://neumorphism.io/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

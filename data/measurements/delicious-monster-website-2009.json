@@ -1,0 +1,137 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20090618031638if_/http://www.delicious-monster.com//",
+  "title": "Delicious Library 2",
+  "captured": "2009-06-18T03:17:07.751Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica",
+        "share": 1
+      }
+    ],
+    "baseSize": 11,
+    "maxSize": 18,
+    "sizeRange": 1.64,
+    "scaleRatio": 1.17,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.03
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#412300",
+        "share": 0.719
+      },
+      {
+        "hex": "#333717",
+        "share": 0.268
+      },
+      {
+        "hex": "#cccc00",
+        "share": 0.006
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.004
+      },
+      {
+        "hex": "#ffff00",
+        "share": 0.003
+      }
+    ],
+    "background": "#412300",
+    "text": "#333717",
+    "contrast": 1.2,
+    "chroma": 0.22,
+    "lightness": 0.14,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.87,
+    "distinct": 2,
+    "hues": 1,
+    "imageShare": 0.49,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 43,
+    "radius": {
+      "median": 0,
+      "max": 8,
+      "roundShare": 0.02
+    },
+    "border": {
+      "share": 0.05,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#412300",
+        "share": 0.45
+      },
+      {
+        "hex": "#505322",
+        "share": 0.094
+      },
+      {
+        "hex": "#939205",
+        "share": 0.063
+      },
+      {
+        "hex": "#e4ad4c",
+        "share": 0.041
+      },
+      {
+        "hex": "#d79a42",
+        "share": 0.04
+      },
+      {
+        "hex": "#cdcb03",
+        "share": 0.037
+      },
+      {
+        "hex": "#c58336",
+        "share": 0.022
+      },
+      {
+        "hex": "#efc35a",
+        "share": 0.022
+      },
+      {
+        "hex": "#b86d23",
+        "share": 0.02
+      },
+      {
+        "hex": "#fdfc08",
+        "share": 0.019
+      }
+    ],
+    "background": "#412300",
+    "chroma": 0.37,
+    "lightness": 0.28,
+    "chromaticShare": 0.39,
+    "accentChroma": 0.59,
+    "distinct": 8,
+    "hues": 3
+  }
+}

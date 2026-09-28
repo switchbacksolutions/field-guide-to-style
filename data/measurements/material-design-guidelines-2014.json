@@ -1,0 +1,41 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/material-design-guidelines-2014.png",
+  "captured": "2026-09-28T17:44:51+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#eeeeee",
+        "share": 0.894
+      },
+      {
+        "hex": "#fafafa",
+        "share": 0.091
+      },
+      {
+        "hex": "#dadada",
+        "share": 0.01
+      },
+      {
+        "hex": "#c1c1c1",
+        "share": 0.004
+      },
+      {
+        "hex": "#b0b0b0",
+        "share": 0.002
+      },
+      {
+        "hex": "#cfcfcf",
+        "share": 0.001
+      }
+    ],
+    "background": "#eeeeee",
+    "chroma": 0.0,
+    "lightness": 0.94,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0
+  }
+}

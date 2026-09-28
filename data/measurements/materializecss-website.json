@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://materializecss.com/",
+  "title": "Documentation - Materialize",
+  "captured": "2026-09-28T17:47:43.159Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "-apple-system",
+        "share": 0.98
+      },
+      {
+        "family": "Material Icons",
+        "share": 0.02
+      },
+      {
+        "family": "Inconsolata",
+        "share": 0
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 105,
+    "sizeRange": 6.56,
+    "scaleRatio": 1.32,
+    "headingWeight": 400,
+    "bodyWeight": 300,
+    "headingTracking": 0,
+    "uppercaseShare": 0.05,
+    "monoShare": 0,
+    "centerShare": 0.7
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.813
+      },
+      {
+        "hex": "#000000",
+        "share": 0.133
+      },
+      {
+        "hex": "#ee6e73",
+        "share": 0.021
+      },
+      {
+        "hex": "#616161",
+        "share": 0.016
+      },
+      {
+        "hex": "#26a69a",
+        "share": 0.009
+      },
+      {
+        "hex": "#039be5",
+        "share": 0.005
+      },
+      {
+        "hex": "#777777",
+        "share": 0.002
+      },
+      {
+        "hex": "#ef9a9a",
+        "share": 0.001
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0.02,
+    "lightness": 0.84,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.55,
+    "distinct": 3,
+    "hues": 3,
+    "imageShare": 0.1,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 15,
+    "radius": {
+      "median": 0,
+      "max": 2,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.53,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.4,
+      "hardShare": 0,
+      "medianBlur": 5,
+      "medianOffset": 3
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.901
+      },
+      {
+        "hex": "#ef6e73",
+        "share": 0.03
+      },
+      {
+        "hex": "#f5f4f4",
+        "share": 0.015
+      },
+      {
+        "hex": "#e0e2e2",
+        "share": 0.006
+      },
+      {
+        "hex": "#eda5a8",
+        "share": 0.006
+      },
+      {
+        "hex": "#90999b",
+        "share": 0.006
+      },
+      {
+        "hex": "#f4e7e4",
+        "share": 0.006
+      },
+      {
+        "hex": "#abb0b0",
+        "share": 0.005
+      },
+      {
+        "hex": "#efccc9",
+        "share": 0.005
+      },
+      {
+        "hex": "#cacbcb",
+        "share": 0.004
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.03,
+    "lightness": 0.98,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.51,
+    "distinct": 2,
+    "hues": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/roboto-typeface-2014.png",
+  "captured": "2026-09-28T17:44:52+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#fefdea",
+        "share": 0.858
+      },
+      {
+        "hex": "#df421d",
+        "share": 0.075
+      },
+      {
+        "hex": "#e1512d",
+        "share": 0.012
+      },
+      {
+        "hex": "#fcefdb",
+        "share": 0.009
+      },
+      {
+        "hex": "#f2b79e",
+        "share": 0.008
+      },
+      {
+        "hex": "#f9e0cb",
+        "share": 0.007
+      },
+      {
+        "hex": "#eea085",
+        "share": 0.007
+      },
+      {
+        "hex": "#f6ceb7",
+        "share": 0.007
+      },
+      {
+        "hex": "#eb8c6f",
+        "share": 0.006
+      },
+      {
+        "hex": "#e66b4b",
+        "share": 0.005
+      }
+    ],
+    "background": "#fefdea",
+    "chroma": 0.15,
+    "lightness": 0.91,
+    "chromaticShare": 0.12,
+    "accentChroma": 0.68,
+    "distinct": 2,
+    "hues": 1
+  }
+}

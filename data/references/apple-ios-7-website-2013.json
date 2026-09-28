@@ -1,0 +1,64 @@
+{
+  "id": "apple-ios-7-website-2013",
+  "title": "Apple iOS 7 website, 2013",
+  "type": "website",
+  "medium": "website",
+  "lede": "Apple’s launch page for iOS 7: very thin type on white and the new flat icons, under the old glossy navigation bar.",
+  "summary": "Ultra-thin “iOS 7” headline and a phone showing the flatter iOS 7 icons; the navigation bar is still glossy. September 2013.",
+  "source": {
+    "url": "http://www.apple.com/ios/",
+    "label": "apple.com, iOS 7 page",
+    "archive": "https://web.archive.org/web/20130920043843/http://www.apple.com/ios/"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "2013",
+  "moods": [
+    "airy",
+    "clean",
+    "light"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 from the Wayback Machine copy of 20 September 2013, and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. Nothing covers the page. The headlines are images, so their weight is not measured."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "Borderline: the thin type and flatter icons show the iOS 7 turn to flat design, but the page has few color fills, the navigation bar is glossy, and the icons keep soft gradients.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A gray navigation bar with a top highlight, vertical dividers, and a rounded search field runs across the top.",
+    "Under a thin gray rule, “iOS 7” and the line “The mobile OS from a whole new perspective.” are set in very thin, large dark gray type, centered on white.",
+    "A white iPhone lies at an angle below. Its screen shows the iOS 7 home screen: rounded-square icons in bright colors, with simple glyphs and soft gradients, on a dark blue starry wallpaper."
+  ],
+  "interpretation": [
+    "Measured: 7% of screenshot pixels are saturated, and 65% of boxes have a 1 px border, so the capture fails the color and border ranges. The glossy navigation bar is an image the extractor cannot see.",
+    "The page shows the flat turn in type and icons before Apple removed the gloss from its site navigation; NN/g dates Apple’s fully flat navigation to 2015 ([NN/g](ref:nngroup-flat-design-article-2015))."
+  ],
+  "borrow": [
+    "Use a very thin weight at a very large size for a single headline on white, and let the colored content carry the color."
+  ],
+  "images": [
+    {
+      "file": "assets/references/apple-ios-7-website-2013.jpg",
+      "alt": "Apple iOS 7 page of September 2013: a glossy gray navigation bar, the headline iOS 7 and a subtitle in very thin dark gray type on white, and a white iPhone at an angle showing colorful iOS 7 app icons.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [Wayback Machine copy of apple.com, 20 September 2013](https://web.archive.org/web/20130920043843/http://www.apple.com/ios/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot of an archived copy, captured for commentary."
+  }
+}

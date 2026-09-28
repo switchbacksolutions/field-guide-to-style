@@ -1,0 +1,64 @@
+{
+  "id": "ray-gun-premiere-issue-1992",
+  "title": "Ray Gun, premiere issue",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "The first issue of the music magazine Ray Gun, November 1992: painted and scratched covers, typewriter lists, and spreads where text is layered until it turns into texture.",
+  "summary": "Scratched yellow cover with a red condensed masthead, typewriter band list, and overprinted, collaged spreads inside. David Carson, Ray Gun no. 1, 1992.",
+  "source": {
+    "url": "https://bookstore.thisisdisplay.org/products/ray-gun-premiere-issue-november-1992-david-carson",
+    "label": "Display Graphic Design Collection: Ray Gun, Premiere Issue, November 1992"
+  },
+  "creator": {
+    "name": "David Carson",
+    "url": "https://www.wikidata.org/wiki/Q562699"
+  },
+  "made": "November 1992 (Display; Wikipedia)",
+  "moods": [
+    "raw",
+    "chaotic",
+    "dirty",
+    "intuitive"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected eight photographs (1600 × 1279 each) of one copy offered by Display, a design collection and bookshop, in scratchpad copies: the cover, six interior spreads, and one further collaged page with the masthead. The copy has no collection number. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "grunge-typography",
+      "note": "Clear example: the first issue of the magazine that defines the style, with scratched, overprinted, and hand-lettered type over painted and photocopied grounds.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Ray Gun was a music magazine first published in Santa Monica in 1992, with Marvin Scott Jarrett as publisher and David Carson as art director. Wikipedia describes its editorial pages as a “chaotic, abstract ‘grunge typography’ style”. [Wikipedia](https://en.wikipedia.org/wiki/Ray_Gun_(magazine)).",
+    "Display lists the issue as no. 1, November 1992, 10 × 12 inches, 100 pages, with Carson credited as design consultant. Its first page reads “Raw by choice. Immediate by necessity. Alternative by design.” [Display](https://bookstore.thisisdisplay.org/products/ray-gun-premiere-issue-november-1992-david-carson).",
+    "Features include Henry Rollins, Sonic Youth (photographed by Spike Jonze), The Lemonheads, and The Prodigy. [Display](https://bookstore.thisisdisplay.org/products/ray-gun-premiere-issue-november-1992-david-carson)."
+  ],
+  "observed": [
+    "The cover is a scraped yellow, white, and black painted surface with pencil scrawl, paint spatter, and a heavy black scribble.",
+    "Two black-and-white face fragments are cut into rough rectangles and pasted into the paint.",
+    "The masthead “rAY GUn” is a red condensed sans-serif in mixed case, with letters of different heights; “PREMIERE ISSUE” is blue hand lettering; the band list is a typewriter face, indented in an uneven zigzag.",
+    "The Sonic Youth opener layers strips of contact-sheet film, overprinted serif and sans-serif lines, and blue text until lines collide.",
+    "A second Sonic Youth spread has large blue hand-painted words over a page of body text, facing a painted face on red gingham with a scrawled title.",
+    "One spread overprints lines of text in several faces until the headline area becomes a solid black mass.",
+    "A music-video feature sets its body in a condensed typewriter face, justified in narrow columns, facing a cropped blue duotone photograph.",
+    "Headlines break words across lines and space them down the page (“lov / i / ng / the / rock / star”)."
+  ],
+  "interpretation": [
+    "The issue shows the whole grammar at once: damaged grounds, several unrelated faces per spread, and body text used as a texture. The typewriter lists and captions are the stable voice among the noise."
+  ],
+  "borrow": [
+    "Set a list of names in a typewriter face with alternating indents instead of a clean column.",
+    "Overprint a headline in several faces and colors until part of it becomes a black mass, and keep the body text clean beside it.",
+    "Paste photo fragments with rough rectangular edges onto a painted or scratched ground."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. David Carson is living, so the design is in copyright. Photographs by their sources."
+  }
+}

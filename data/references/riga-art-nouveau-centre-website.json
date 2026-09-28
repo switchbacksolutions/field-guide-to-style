@@ -1,0 +1,60 @@
+{
+  "id": "riga-art-nouveau-centre-website",
+  "title": "Riga Art Nouveau Centre website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The Riga museum’s site crowns a plain blue-and-white layout with a drawn header of Jugendstil masks and flared lettering.",
+  "summary": "Drawn Jugendstil header with masks and hand-lettered name, over a blue and white serif layout.",
+  "source": {
+    "url": "https://jugendstils.riga.lv/",
+    "label": "jugendstils.riga.lv"
+  },
+  "creator": {
+    "name": "Rīgas Jūgendstila centrs",
+    "url": "https://jugendstils.riga.lv/"
+  },
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. A cookie notice covers the bottom sixth of the viewport."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "art-nouveau",
+      "note": "Borderline: the header is a drawn Art Nouveau facade ornament with flared hand lettering, but the rest of the page is a plain blue grid.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The header is a blue line drawing on pale blue of two large female masks with stylized hair, flanking a dark blue panel with “RĪGAS JŪGENDSTILA CENTRS” in hand-drawn, flared capitals and a curling ornament below.",
+    "The navigation sits on white in a serif (Lora), in mid-blue capitals separated by small snowflake-like ornaments.",
+    "The main area is a photograph of the museum’s spiral staircase with painted Art Nouveau wall decoration, next to a dark blue information column.",
+    "Two overlay labels in yellow serif with yellow triangles sit over the photograph.",
+    "A cookie notice covers the bottom sixth of the viewport."
+  ],
+  "interpretation": [
+    "Only the header and the photograph carry the style. The blue palette is closer to the Riga facades than to the grammar’s moss and ochre.",
+    "Measured: square boxes (radius median 0), 1 px borders on half the boxes, no shadows, two colour families, and accent chroma 0.52."
+  ],
+  "borrow": [
+    "Draw the site header as a line illustration in one colour and set the name inside it in hand-drawn flared capitals.",
+    "Separate navigation items with a small ornament instead of a bar."
+  ],
+  "images": [
+    {
+      "file": "assets/references/riga-art-nouveau-centre-website.jpg",
+      "alt": "Riga Art Nouveau Centre home page: a blue line-drawn header with two stylized masks and hand-lettered museum name, a serif navigation bar, a photograph of a painted spiral staircase, and a dark blue information column.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [jugendstils.riga.lv](https://jugendstils.riga.lv/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  }
+}

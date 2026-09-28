@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/windows-8-1-start-screen.png",
+  "captured": "2026-09-28T17:31:04+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#1f2223",
+        "share": 0.482
+      },
+      {
+        "hex": "#2878ed",
+        "share": 0.082
+      },
+      {
+        "hex": "#b01a41",
+        "share": 0.069
+      },
+      {
+        "hex": "#723ca1",
+        "share": 0.046
+      },
+      {
+        "hex": "#007fcc",
+        "share": 0.044
+      },
+      {
+        "hex": "#0a53bb",
+        "share": 0.044
+      },
+      {
+        "hex": "#d64f2a",
+        "share": 0.043
+      },
+      {
+        "hex": "#81b900",
+        "share": 0.034
+      },
+      {
+        "hex": "#008fff",
+        "share": 0.031
+      },
+      {
+        "hex": "#2d8aef",
+        "share": 0.027
+      }
+    ],
+    "background": "#1f2223",
+    "chroma": 0.34,
+    "lightness": 0.29,
+    "chromaticShare": 0.47,
+    "accentChroma": 0.71,
+    "distinct": 12,
+    "hues": 7
+  }
+}

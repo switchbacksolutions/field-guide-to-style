@@ -1,0 +1,59 @@
+{
+  "id": "neumorph-dashboard-webflow-website",
+  "title": "Dashon neumorphic dashboard",
+  "type": "website",
+  "medium": "website",
+  "lede": "A Webflow dashboard experiment in which the frame, sidebar, cards, and bars all rise from one pale surface.",
+  "summary": "Webflow analytics-dashboard experiment: pale gray-blue cards with paired shadows and orange progress bars.",
+  "source": {
+    "url": "https://neumorph-dashboard.webflow.io/",
+    "label": "Dashon dashboard experiment"
+  },
+  "creator": {
+    "name": "Viktoria Kosmovich (as credited on the page)"
+  },
+  "moods": [
+    "soft",
+    "calm",
+    "quiet"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "Clear. The whole dashboard is one pale surface; cards, search field, icon buttons, and the Logout button rise with white and gray shadows, and progress tracks are pressed.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A large raised frame on a pale gray-blue page holds a sidebar and a grid of cards in the same color.",
+    "Four “Total Earns 2056” cards and four larger panels are raised; the active “Dashboard” item in the sidebar is a raised bar.",
+    "The search field, bell, gear, and user buttons at the top are small raised squares and pills.",
+    "Three progress tracks under “Best Selling Categories” are pressed wells with orange gradient fills. “on” in the Dashon logo is orange; text is dark navy sans-serif."
+  ],
+  "interpretation": [
+    "A dashboard with few controls, one of the uses the style suits. The footer says it was “recreated for experimental purposes”, so it is a demonstration, not a product.",
+    "Measured: shadows on 84 % of boxes (median offset 4.2 px, median blur 15 px, none hard), borders on 4 %, median radius 10 px."
+  ],
+  "images": [
+    {
+      "file": "assets/references/neumorph-dashboard-webflow-website.jpg",
+      "alt": "Dashon dashboard experiment: a pale gray-blue raised frame with a sidebar, four raised Total Earns cards, raised Revenue and Sales panels, and pressed progress tracks with orange fills.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [Dashon dashboard experiment](https://neumorph-dashboard.webflow.io/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

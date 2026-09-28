@@ -1,0 +1,63 @@
+{
+  "id": "girard-fruit-trees-fabric-1960",
+  "title": "Fruit Trees furnishing fabric",
+  "type": "object",
+  "medium": "textile",
+  "lede": "Alexander Girard turns trees into symmetrical black stems hung with flat orange, pink, and olive circles, ovals, and squares on white cotton.",
+  "summary": "Symmetrical black-stemmed trees with flat orange, pink, and olive fruit shapes in vertical repeats. Alexander Girard for Herman Miller, 1960.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/71159/fruit-trees-furnishing-fabric",
+    "label": "Art Institute of Chicago: Fruit Trees (Furnishing Fabric), 1988.76"
+  },
+  "creator": {
+    "name": "Alexander Girard",
+    "url": "https://www.wikidata.org/wiki/Q4718960"
+  },
+  "made": "1960",
+  "moods": [
+    "playful",
+    "warm",
+    "folk",
+    "optimistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected, in the scratchpad only, the Art Institute of Chicago image of 1988.76 at 843 × 574 px (the largest size the museum serves for this in-copyright object). The image shows a detail with four vertical repeats. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "Flat geometric fruit and plant forms, a warm orange-pink-olive palette on white, and folk-derived pattern: Girard’s Herman Miller textiles are a core source for the style.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Art Institute of Chicago dates the fabric 1960 and describes it as cotton, plain weave, screen printed; designed by Alexander Girard (1907–1993) and produced by Herman Miller, Inc., Zeeland, Michigan. The piece measures 104 × 132.5 cm with a repeat of 58.8 × 30.8 cm. Credit line: Gift of Mr. and Mrs. Alexander Girard; Alexander Demond Fund. [AIC 1988.76](https://www.artic.edu/artworks/71159/fruit-trees-furnishing-fabric).",
+    "The museum’s API marks the object as not public domain."
+  ],
+  "observed": [
+    "The ground is white. Black stems branch symmetrically from a central trunk in each repeat, with small curled tips.",
+    "Fruit shapes hang from the branches: orange and pink circles, pale pink ovals, orange and pink squares and trapezoids, and olive-green ovals on the trunk.",
+    "The shapes are flat color with no outlines; the black line is only the stems.",
+    "The trees stand in vertical columns side by side, with narrow white gaps between them."
+  ],
+  "interpretation": [
+    "Girard mixes circles and squares freely on a folk-like tree form. The palette is warm and saturated, but softened by the pale pink and the white ground.",
+    "This is the “pattern as a band” idea at textile scale: small flat shapes repeated in columns."
+  ],
+  "borrow": [
+    "Build a symmetric plant from a thin black stem and flat, unoutlined circles, ovals, and squares.",
+    "Use orange, pale pink, and olive together on white for a warm but light repeat."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Alexander Girard died in 1993; the Art Institute of Chicago does not mark the object as public domain."
+  },
+  "identifiers": {
+    "aic": "71159",
+    "aic-reference": "1988.76"
+  }
+}

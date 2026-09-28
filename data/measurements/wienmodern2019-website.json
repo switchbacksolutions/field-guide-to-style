@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://artexhibition.jp/wienmodern2019/",
+  "title": "ウィーン・モダン　クリムト、シーレ 世紀末への道",
+  "captured": "2026-09-28T17:55:52.159Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "ヒラギノ角ゴ Pro W3",
+        "share": 0.9
+      },
+      {
+        "family": "Montserrat",
+        "share": 0.1
+      },
+      {
+        "family": "-apple-system",
+        "share": 0.01
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 30,
+    "sizeRange": 2.14,
+    "scaleRatio": 1.14,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.03,
+    "monoShare": 0,
+    "centerShare": 0.19
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.7
+      },
+      {
+        "hex": "#000000",
+        "share": 0.133
+      },
+      {
+        "hex": "#3c321e",
+        "share": 0.102
+      },
+      {
+        "hex": "#c29d59",
+        "share": 0.044
+      },
+      {
+        "hex": "#555555",
+        "share": 0.012
+      },
+      {
+        "hex": "#f9f5ee",
+        "share": 0.008
+      },
+      {
+        "hex": "#999999",
+        "share": 0.001
+      },
+      {
+        "hex": "#333333",
+        "share": 0
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#3c321e",
+    "contrast": 12.6,
+    "chroma": 0.03,
+    "lightness": 0.75,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.41,
+    "distinct": 4,
+    "hues": 1,
+    "imageShare": 0.33,
+    "gradientShare": 0,
+    "patternShare": 0.01
+  },
+  "surface": {
+    "boxes": 32,
+    "radius": {
+      "median": 0,
+      "max": 18.6,
+      "roundShare": 0.03
+    },
+    "border": {
+      "share": 0.63,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.19,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#1b213a",
+        "share": 0.196
+      },
+      {
+        "hex": "#333233",
+        "share": 0.111
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.097
+      },
+      {
+        "hex": "#28304a",
+        "share": 0.073
+      },
+      {
+        "hex": "#0e1125",
+        "share": 0.04
+      },
+      {
+        "hex": "#8d867d",
+        "share": 0.038
+      },
+      {
+        "hex": "#a48454",
+        "share": 0.036
+      },
+      {
+        "hex": "#886f56",
+        "share": 0.033
+      },
+      {
+        "hex": "#403c46",
+        "share": 0.031
+      },
+      {
+        "hex": "#4c2f30",
+        "share": 0.031
+      }
+    ],
+    "background": "#1b213a",
+    "chroma": 0.11,
+    "lightness": 0.36,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.4,
+    "distinct": 18,
+    "hues": 1
+  }
+}

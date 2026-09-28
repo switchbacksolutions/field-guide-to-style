@@ -1,0 +1,133 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20100527200015if_/http://obeygiant.com/",
+  "title": "Obey Giant - WORLDWIDE PROPAGANDA DELIVERY",
+  "captured": "2010-05-27T20:00:20.790Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Arial",
+        "share": 1
+      },
+      {
+        "family": "georgia",
+        "share": 0
+      }
+    ],
+    "baseSize": 11,
+    "maxSize": 12,
+    "sizeRange": 1.09,
+    "scaleRatio": 1.09,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0.11,
+    "monoShare": 0,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.817
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.165
+      },
+      {
+        "hex": "#c41114",
+        "share": 0.018
+      }
+    ],
+    "background": "#000000",
+    "text": "#ffffff",
+    "contrast": 21,
+    "chroma": 0.01,
+    "lightness": 0.17,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.7,
+    "distinct": 2,
+    "hues": 1,
+    "imageShare": 0.11,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 9,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 1,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.748
+      },
+      {
+        "hex": "#393836",
+        "share": 0.035
+      },
+      {
+        "hex": "#0d0d0c",
+        "share": 0.033
+      },
+      {
+        "hex": "#1d1c1a",
+        "share": 0.025
+      },
+      {
+        "hex": "#828180",
+        "share": 0.017
+      },
+      {
+        "hex": "#959593",
+        "share": 0.015
+      },
+      {
+        "hex": "#727170",
+        "share": 0.014
+      },
+      {
+        "hex": "#646362",
+        "share": 0.012
+      },
+      {
+        "hex": "#585655",
+        "share": 0.011
+      },
+      {
+        "hex": "#dea319",
+        "share": 0.011
+      }
+    ],
+    "background": "#000000",
+    "chroma": 0.03,
+    "lightness": 0.09,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.65,
+    "distinct": 4,
+    "hues": 2
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "electronicon-flyer-2019",
+  "title": "100% ElectroniCON flyer",
+  "type": "print",
+  "medium": "poster",
+  "lede": "The announcement flyer for the first vaporwave festival: a line-up in black grotesque type on a soft green-to-blue-to-violet radial gradient.",
+  "summary": "Festival line-up in black on a hazy green, blue, and violet radial gradient. Brooklyn, 2019.",
+  "source": {
+    "url": "https://donyc.com/events/2019/8/31/100-electronicon-elsewhere-takeover-w-george-clanton-saint-pepsi-and-many-more",
+    "label": "DoNYC event listing"
+  },
+  "creator": {
+    "name": "100% Electronica"
+  },
+  "made": "May 2019 (first announcement); festival August 31, 2019",
+  "moods": [
+    "hazy",
+    "warm",
+    "nostalgic"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "The only copy found is the 700 × 700 flyer image on the [DoNYC listing](https://donyc.com/events/2019/8/31/100-electronicon-elsewhere-takeover-w-george-clanton-saint-pepsi-and-many-more), below the size needed to observe it. The description below comes from that small copy and should be checked against a larger one."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Partial fit. The scene’s own festival flyer uses only the soft airbrushed gradient; it has no statues, grid, OS chrome, or fullwidth type. Evidence that the scene itself had moved past the meme imagery by 2019.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: George Clanton “organized the first-ever vaporwave festival, 100% ElectroniCON, in New York City” in 2019, where Saint Pepsi, Vaperror, Nmesh, 18 Carat Affair, and Clanton performed. [Wikipedia: Vaporwave](https://en.wikipedia.org/wiki/Vaporwave).",
+    "The FADER reports 22 artists and more than 1,300 fans at Elsewhere, Brooklyn, a cardboard Keanu Reeves in a 100% Electronica T-shirt at the entrance, and “decorations inspired by memes.” [The FADER, September 4, 2019](https://www.thefader.com/2019/09/04/vaporwave-festival-100-electronicon-scene-report)."
+  ],
+  "interpretation": [
+    "In the small copy, a hazy radial gradient from lime green to blue to violet sits behind curved black line-up text and a small wave-and-cube logo. It suggests that the gradient is the most durable part of the look."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Copyrighted promotional material. No image is stored here."
+  }
+}

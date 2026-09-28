@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.emerywalker.org.uk/",
+  "title": "Emery Walker's House",
+  "captured": "2026-09-28T17:30:24.072Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "open sans",
+        "share": 0.57
+      },
+      {
+        "family": "HelveticaNeue",
+        "share": 0.28
+      },
+      {
+        "family": "wfont_db8a41_f0222703fc00412193b1b972b237d1ce",
+        "share": 0.1
+      },
+      {
+        "family": "wfont_db8a41_3c0d7800053e4af7842e7531107d081a",
+        "share": 0.05
+      },
+      {
+        "family": "adobe-caslon-w01-smbd",
+        "share": 0
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 105,
+    "sizeRange": 7.5,
+    "scaleRatio": 1.43,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.16,
+    "monoShare": 0,
+    "centerShare": 0.34
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.89
+      },
+      {
+        "hex": "#000000",
+        "share": 0.054
+      },
+      {
+        "hex": "#707070",
+        "share": 0.028
+      },
+      {
+        "hex": "#809bae",
+        "share": 0.015
+      },
+      {
+        "hex": "#002e5d",
+        "share": 0.011
+      },
+      {
+        "hex": "#a0a09f",
+        "share": 0.001
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#ffffff",
+    "contrast": 1,
+    "chroma": 0.01,
+    "lightness": 0.91,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.36,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0.15,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 13,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.31,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.15,
+      "hardShare": 0,
+      "medianBlur": 12.5,
+      "medianOffset": 5.3
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.333
+      },
+      {
+        "hex": "#809bae",
+        "share": 0.11
+      },
+      {
+        "hex": "#e0e3e2",
+        "share": 0.043
+      },
+      {
+        "hex": "#283b50",
+        "share": 0.042
+      },
+      {
+        "hex": "#374552",
+        "share": 0.041
+      },
+      {
+        "hex": "#3e505f",
+        "share": 0.04
+      },
+      {
+        "hex": "#4c5b67",
+        "share": 0.039
+      },
+      {
+        "hex": "#586772",
+        "share": 0.035
+      },
+      {
+        "hex": "#64737c",
+        "share": 0.033
+      },
+      {
+        "hex": "#727f86",
+        "share": 0.031
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.07,
+    "lightness": 0.67,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.44,
+    "distinct": 15,
+    "hues": 1
+  }
+}

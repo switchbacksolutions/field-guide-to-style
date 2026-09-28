@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/firefox-pocket-rainbow-reader-2020.png",
+  "captured": "2026-09-28T17:42:09+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.422
+      },
+      {
+        "hex": "#95d2ff",
+        "share": 0.162
+      },
+      {
+        "hex": "#1cb0a8",
+        "share": 0.075
+      },
+      {
+        "hex": "#fcb543",
+        "share": 0.075
+      },
+      {
+        "hex": "#ef4056",
+        "share": 0.066
+      },
+      {
+        "hex": "#00cb77",
+        "share": 0.062
+      },
+      {
+        "hex": "#fabfd1",
+        "share": 0.045
+      },
+      {
+        "hex": "#a5cfed",
+        "share": 0.029
+      },
+      {
+        "hex": "#020202",
+        "share": 0.018
+      },
+      {
+        "hex": "#f2f4f8",
+        "share": 0.005
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.29,
+    "lightness": 0.78,
+    "chromaticShare": 0.47,
+    "accentChroma": 0.58,
+    "distinct": 8,
+    "hues": 4
+  }
+}

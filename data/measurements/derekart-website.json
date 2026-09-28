@@ -1,0 +1,137 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://derekart.com/",
+  "title": "DerekArt - The Art of Derek Yaniger",
+  "captured": "2026-09-28T17:20:16.903Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Montserrat",
+        "share": 0.64
+      },
+      {
+        "family": "Open Sans",
+        "share": 0.36
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 26,
+    "sizeRange": 1.63,
+    "scaleRatio": 1.28,
+    "headingWeight": 700,
+    "bodyWeight": 700,
+    "headingTracking": 0,
+    "uppercaseShare": 0.64,
+    "monoShare": 0,
+    "centerShare": 0.65
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.506
+      },
+      {
+        "hex": "#eab7b7",
+        "share": 0.244
+      },
+      {
+        "hex": "#212121",
+        "share": 0.182
+      },
+      {
+        "hex": "#111111",
+        "share": 0.068
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#212121",
+    "contrast": 16.1,
+    "chroma": 0.05,
+    "lightness": 0.73,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 4,
+    "hues": 0,
+    "imageShare": 0.64,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 38,
+    "radius": {
+      "median": 0,
+      "max": 19,
+      "roundShare": 0.08
+    },
+    "border": {
+      "share": 0.16,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.173
+      },
+      {
+        "hex": "#e9b7b6",
+        "share": 0.138
+      },
+      {
+        "hex": "#020102",
+        "share": 0.1
+      },
+      {
+        "hex": "#c1464c",
+        "share": 0.092
+      },
+      {
+        "hex": "#f0e1ca",
+        "share": 0.085
+      },
+      {
+        "hex": "#4a5f87",
+        "share": 0.064
+      },
+      {
+        "hex": "#376484",
+        "share": 0.05
+      },
+      {
+        "hex": "#161416",
+        "share": 0.026
+      },
+      {
+        "hex": "#219da8",
+        "share": 0.023
+      },
+      {
+        "hex": "#725f5f",
+        "share": 0.018
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.19,
+    "lightness": 0.59,
+    "chromaticShare": 0.24,
+    "accentChroma": 0.48,
+    "distinct": 9,
+    "hues": 5
+  }
+}

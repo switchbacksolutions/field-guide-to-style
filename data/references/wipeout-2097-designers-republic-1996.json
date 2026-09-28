@@ -1,0 +1,55 @@
+{
+  "id": "wipeout-2097-designers-republic-1996",
+  "title": "Wipeout 2097 graphics by The Designers Republic",
+  "type": "product",
+  "medium": "software",
+  "lede": "The PlayStation anti-gravity racing game whose logos, team brands, and packaging by The Designers Republic defined a techno, club-culture future.",
+  "summary": "Futuristic racing game with a full brand system of team logos, packaging, and in-game type by The Designers Republic. Psygnosis, 1996.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Wipeout_2097",
+    "label": "Wikipedia: Wipeout 2097"
+  },
+  "creator": {
+    "name": "Psygnosis (developer); The Designers Republic (graphics and promotional art)"
+  },
+  "made": "1996 (PlayStation, Europe, 18 October 1996, per Wikipedia); PC and Saturn ports 1997",
+  "moods": [
+    "futuristic",
+    "fast",
+    "coded"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on Wikipedia and The Designers Republic’s project page. The studio’s page loads its images with scripts and returned no images to a plain fetch. No image of at least 800 px was inspected."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "A documented source of the look: Wikipedia’s Y2K article names The Designers Republic as sometimes credited with popularizing it, and Wipeout is their best-known work. Its visual traits are not observed here.",
+      "basis": "agent",
+      "qualifier": "precursor"
+    }
+  ],
+  "context": [
+    "Wipeout 2097 was developed by Psygnosis; “the promotional art was designed by Sheffield-based The Designers Republic.” The game and its soundtrack “drew heavily on the ‘future UK’ aesthetic of the 1990s—a style defined by techno-inspired visuals and the rise of electronic music and rave culture.” [Wikipedia: Wipeout 2097](https://en.wikipedia.org/wiki/Wipeout_2097).",
+    "The Designers Republic lists the Wipeout series as a project. [The Designers Republic: Wipeout](https://www.thedesignersrepublic.com/project/wipeout).",
+    "Wikipedia says The Designers Republic is sometimes associated with popularizing the Y2K aesthetic. [Wikipedia: Y2K aesthetic](https://en.wikipedia.org/wiki/Y2K_aesthetic)."
+  ],
+  "interpretation": [
+    "Wipeout gave the late-1990s future a corporate identity: fictional racing teams with logos and sponsor language, treated like real consumer brands. The coded, branded surface of later Y2K graphics follows from this.",
+    "It sits at the start of the period, before translucent plastic and chrome web graphics, so it counts as a precursor here."
+  ],
+  "borrow": [
+    "Invent a small family of brand marks, each with its own color and code, to populate a futuristic interface."
+  ],
+  "next": [
+    "Inspect the packaging and in-game graphics from an archival source (for example the V&A or a museum game collection) and add observed traits."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The game belongs to Sony Interactive Entertainment (Psygnosis); the graphics belong to The Designers Republic."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "franz-ferdinand-website-2006",
+  "title": "Franz Ferdinand website, 2006",
+  "type": "website",
+  "medium": "website",
+  "lede": "The band’s official site from the time of its Rodchenko-inspired second album, archived on 1 January 2006, frames the news in red bars under a tilted red banner.",
+  "summary": "A red diagonal banner with the band name, red section bars with capitals, and a black stepped tower of halftone at the left edge, on a pale olive ground.",
+  "source": {
+    "url": "http://www.franzferdinand.co.uk/",
+    "label": "franzferdinand.co.uk",
+    "archive": "https://web.archive.org/web/20060101020315/http://www.franzferdinand.co.uk/"
+  },
+  "creator": {
+    "name": "Franz Ferdinand"
+  },
+  "made": "2006 (capture date)",
+  "moods": [
+    "graphic",
+    "retro",
+    "energetic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive copy of 1 January 2006 with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The `id_` form of the archive URL loads the raw archived page; images loaded. The site is a fixed-width table layout centered on black."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "constructivism",
+      "note": "Clear in its frame, generic in its content: the header, the section bars, and the left border use red and black, a diagonal, and capitals. The news text is ordinary small Arial. The band based the album cover of the time on [Rodchenko’s Lengiz poster](ref:rodchenko-lengiz-books-poster-1924).",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Franz Ferdinand’s second album, *You Could Have It So Much Better* (2005), has a cover based on Rodchenko’s 1924 Lengiz poster. [Wikipedia](https://en.wikipedia.org/wiki/You_Could_Have_It_So_Much_Better).",
+    "The archived news items on the page date from 5 to 9 December 2005."
+  ],
+  "observed": [
+    "A red banner cuts across the top right on a diagonal. “Franz Ferdinand” is set on it in cream sans-serif letters that follow the slope.",
+    "Navigation links are set in small red capitals, each after a small red square.",
+    "Section headings such as “NEWS”, “LATEST PICS”, and “BAND BLOG” are set in white capitals on red bars with a thin black rule below.",
+    "A black stepped tower with square windows and a band of coarse black halftone dots runs down the left edge, leaning slightly.",
+    "The page ground is a pale olive-khaki; the content panels are white. Photographs are in color.",
+    "Body text is small black Arial with red links."
+  ],
+  "interpretation": [
+    "The site shows how a 2005 web design carried the style: in sliced images for the header and borders, with HTML text left plain. The measurement sees only the HTML: `type.uppercaseShare` is 0.06 and `color.chromaticShare` is 0.03, because the capitals and the red areas are mostly images. The screenshot palette finds 3% red.",
+    "The khaki ground stands in for aged paper. The measurement counts one hue in the computed styles and two in the screenshot, where the khaki registers."
+  ],
+  "borrow": [
+    "Put the site name on a diagonal band that cuts off one top corner.",
+    "Mark each section with a solid red bar that carries its title in white capitals."
+  ],
+  "images": [
+    {
+      "file": "assets/references/franz-ferdinand-website-2006.jpg",
+      "alt": "Archived Franz Ferdinand home page: a red diagonal banner with the band name at the top right, small red capital navigation links, red section bars titled News, Latest Pics, and Band Blog, and a black leaning tower with halftone dots down the left edge, on a pale olive ground.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [1 January 2006 archived copy](https://web.archive.org/web/20060101020315/http://www.franzferdinand.co.uk/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Franz Ferdinand and their rights holders. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "exptypo-website-2008",
+  "title": "EXP.TYPO website, 2008",
+  "type": "website",
+  "medium": "website",
+  "lede": "The 2008 home page of EXP.TYPO, an experimental typography portfolio, built as one torn-paper collage around a distressed wordmark.",
+  "summary": "A layered, eroded “EXPTYPO” wordmark over torn paper, tape stripes, ink splashes, and crumpled white paper.",
+  "source": {
+    "url": "http://www.exptypo.com/",
+    "label": "exptypo.com (Wayback Machine, May 2008)",
+    "archive": "https://web.archive.org/web/20080517055553/http://www.exptypo.com/"
+  },
+  "made": "2008 (Wayback capture of 17 May 2008)",
+  "moods": [
+    "dirty",
+    "layered",
+    "chaotic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 from the Wayback Machine copy of 17 May 2008, and inspected. Nothing covers the page. The measurement found no HTML text, boxes, or images, so the design is drawn in a single background or plug-in layer that the extractor cannot see."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "grunge-typography",
+      "note": "Clear example of 2000s grunge web design: an eroded, overprinted wordmark in several faces on torn and crumpled paper. Named in Smashing Magazine’s “The Secrets of Grunge Design” (2008).",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Smashing Magazine’s March 2008 article “The Secrets of Grunge Design” links exptypo.com among its examples. [Smashing Magazine](https://www.smashingmagazine.com/2008/03/the-secrets-of-grunge-design/)."
+  ],
+  "observed": [
+    "The wordmark “EXPTYPO” is a heavy condensed sans-serif, printed several times with offsets, outlines, and scratches, so the letters look misregistered and eroded.",
+    "Outline numerals “12” and a stencil-like “2005” sit behind and above the wordmark; “RENEWAL” is set in a spaced, hand-drawn line below it.",
+    "Torn paper edges, brown and black ink stains, and a strip of yellow-and-black hazard tape fill the left half.",
+    "A small cut-out figure of a woman, flourishes, pencil lines, and two orange paint dots are collaged over the type.",
+    "The right half is plain crumpled white paper; no navigation or text is visible in the first viewport."
+  ],
+  "interpretation": [
+    "The page is a Photoshop collage in the manner of 1990s grunge print, using the same moves (misregistration, several faces, tape, stains) on screen. Because everything is one image, the computed-style metrics measure nothing; judge it by the rubric."
+  ],
+  "borrow": [
+    "Print a wordmark two or three times with small offsets and one outline copy, to fake a misregistered photocopy.",
+    "Keep half of the page as empty textured paper, so the collage has room."
+  ],
+  "images": [
+    {
+      "file": "assets/references/exptypo-website-2008.jpg",
+      "alt": "EXP.TYPO home page from 2008: a distressed, misregistered EXPTYPO wordmark over torn paper, brown ink stains, hazard-tape stripes, a small collaged figure, and the word RENEWAL, with crumpled white paper filling the right half.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [Wayback Machine copy of exptypo.com, May 2008](https://web.archive.org/web/20080517055553/http://www.exptypo.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s author. Screenshot captured for commentary."
+  }
+}

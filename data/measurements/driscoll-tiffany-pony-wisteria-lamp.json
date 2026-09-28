@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/driscoll-tiffany-pony-wisteria-lamp.jpg",
+  "captured": "2026-09-28T17:14:35+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#040404",
+        "share": 0.343
+      },
+      {
+        "hex": "#1f201f",
+        "share": 0.123
+      },
+      {
+        "hex": "#868786",
+        "share": 0.063
+      },
+      {
+        "hex": "#929392",
+        "share": 0.062
+      },
+      {
+        "hex": "#111211",
+        "share": 0.058
+      },
+      {
+        "hex": "#6c6d6c",
+        "share": 0.054
+      },
+      {
+        "hex": "#7a7c7b",
+        "share": 0.051
+      },
+      {
+        "hex": "#333433",
+        "share": 0.034
+      },
+      {
+        "hex": "#404241",
+        "share": 0.028
+      },
+      {
+        "hex": "#5f5f5b",
+        "share": 0.028
+      }
+    ],
+    "background": "#040404",
+    "chroma": 0.02,
+    "lightness": 0.23,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.38,
+    "distinct": 11,
+    "hues": 2
+  }
+}

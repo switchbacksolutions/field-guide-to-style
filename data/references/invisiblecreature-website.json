@@ -1,0 +1,66 @@
+{
+  "id": "invisiblecreature-website",
+  "title": "Invisible Creature website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The studio’s home slider shows a Lakeshore Learning project: flat cut-shape stickers of vehicles, animals, and children on plywood, under a huge condensed title.",
+  "summary": "Flat cut-paper stickers in teal, orange, green, yellow, and purple on wood, with a white ultra-condensed title.",
+  "source": {
+    "url": "https://invisiblecreature.com/",
+    "label": "invisiblecreature.com"
+  },
+  "creator": {
+    "name": "Invisible Creature",
+    "url": "https://invisiblecreature.com/"
+  },
+  "moods": [
+    "playful",
+    "bright",
+    "crafted",
+    "childlike"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. The hero is the first slide of a rotating slider."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "Borderline: flat cut-shape figures, textured print fills, and several hues come from the mid-century children’s-book branch, but purple and bright green push the palette past the style’s warm, muted range, and a dark scrim covers the image.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "Die-cut sticker shapes cover a plywood background: a submarine in a teal pond with fish, a helicopter, a turtle, a truck, a child playing a xylophone on wheels, a pencil, and a rocket.",
+    "Each sticker is built from flat shapes in teal, orange, green, yellow, purple, and pink, with a white or colored border and speckled, screen-print-like texture in some fills.",
+    "Children are drawn as simple profiles with round heads and dot eyes.",
+    "A dark translucent scrim covers the whole image to make the title readable.",
+    "“LAKESHORE LEARNING” is set in very large white ultra-condensed capitals over the lower third, with a black “VIEW PROJECT” button and two yellow round arrow buttons."
+  ],
+  "interpretation": [
+    "The illustration method matches the style’s children’s-book side: flat planes, rough print texture, and simple figures. The ultra-condensed display type and the purple are contemporary.",
+    "Measured: round-share 0.94 (the round buttons) and heading weight 700 pass; the CSS sees one hue and a high accent chroma from the yellow buttons."
+  ],
+  "borrow": [
+    "Give flat illustrations a speckled print texture inside the shapes, not across the page.",
+    "Cut each figure out with a thin light border, like a sticker or cut paper."
+  ],
+  "images": [
+    {
+      "file": "assets/references/invisiblecreature-website.jpg",
+      "alt": "Invisible Creature home page: die-cut sticker illustrations of a submarine, helicopter, turtle, truck, xylophone, and rocket in teal, orange, green, and purple on plywood, dimmed by a dark scrim, with the words Lakeshore Learning in huge white condensed capitals and a View Project button.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [invisiblecreature.com](https://invisiblecreature.com/), 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design, artwork, and content belong to the site’s owners and artists. Screenshot captured for commentary."
+  }
+}

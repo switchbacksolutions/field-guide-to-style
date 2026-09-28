@@ -1,0 +1,76 @@
+{
+  "id": "horta-hotel-tassel-staircase-1893",
+  "title": "Staircase hall of the Hôtel Tassel, Brussels",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Victor Horta’s stair hall, one of the first Art Nouveau interiors: an exposed iron column that branches like a plant stem, whiplash railings, and painted tendrils that sweep up the wall.",
+  "summary": "Iron column branching into tendrils, whiplash railings, and painted wall curves. Victor Horta, Brussels, 1892–93.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/H%C3%B4tel_Tassel",
+    "label": "Wikipedia: Hôtel Tassel"
+  },
+  "creator": {
+    "name": "Victor Horta",
+    "url": "https://en.wikipedia.org/wiki/Victor_Horta"
+  },
+  "made": "1892–1893",
+  "moods": [
+    "flowing",
+    "luminous",
+    "organic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Henry Townsend’s September 2002 photograph of the stair hall on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tassel_House_stairway.JPG) (1700 × 1440 px). The colours are warm and strongly saturated in this photograph and may not match the paint exactly. The house is a private office and was not visited."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "art-nouveau",
+      "note": "The founding building of the Brussels core: whiplash iron, wall painting, and structure fused into one curving interior.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: Horta designed the house for the scientist Émile Tassel and built it in 1892–1893. With Paul Hankar’s house of the same years it is considered one of the first Art Nouveau buildings. A steel-and-glass middle section links a street block and a garden block; it holds the stairs and landings and brings light down from a glass roof. Horta designed every detail, including woodwork, stained glass, mosaic floors, and furniture. [Wikipedia: Hôtel Tassel](https://en.wikipedia.org/wiki/H%C3%B4tel_Tassel).",
+    "Since 2000 the house has been part of the UNESCO World Heritage site “Major Town Houses of the Architect Victor Horta (Brussels)”. The Hôtel Tassel influenced Hector Guimard, who built the Castel Béranger in Paris after he saw it. [Wikipedia: Hôtel Tassel](https://en.wikipedia.org/wiki/H%C3%B4tel_Tassel); [Wikipedia: Art Nouveau](https://en.wikipedia.org/wiki/Art_Nouveau)."
+  ],
+  "observed": [
+    "A slender iron column, painted gray-green with thin gold bands, stands at the foot of the stair. At its top it splits into curling iron tendrils that hold the beam above.",
+    "The stair turns in a smooth curve. Its polished wooden handrail follows the curve without a break.",
+    "The iron balustrade is a web of dark, looping whiplash lines between vertical bars; a similar railing on the upper landing continues the pattern.",
+    "The wall beside the stair carries painted olive-green tendrils that swirl up and to the left over a peach and salmon ground, with parallel bands that follow the rake of the stair.",
+    "The floor is a pale mosaic with large, curving pink lines.",
+    "Colours are warm peach, salmon, and cream, with gray-green iron and brown wood."
+  ],
+  "interpretation": [
+    "Here the whiplash is not applied ornament but structure: the column, the railing, and the wall painting are the same line in iron and paint.",
+    "The palette of gray-green iron, warm plaster, and wood is the source of the style’s moss-and-terracotta colour pair."
+  ],
+  "borrow": [
+    "Let a thin vertical element split at its top into curling branches where it meets a horizontal one.",
+    "Run a painted flourish diagonally across a wall or a hero area so that it follows the direction of movement, as the tendrils follow the stair."
+  ],
+  "images": [
+    {
+      "file": "assets/references/horta-hotel-tassel-staircase-1893.jpg",
+      "alt": "Interior stair hall: a curving staircase with a wooden handrail and dark iron whiplash railings, a gray-green iron column that branches into tendrils at the top, and olive-green painted swirls on a peach wall.",
+      "width": 1600,
+      "height": 1355,
+      "kind": "photograph",
+      "caption": "Stair hall of the Hôtel Tassel, Brussels, by Victor Horta, 1892–93. Photograph by Henry Townsend, September 2002, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tassel_House_stairway.JPG), released into the public domain. A radiator and a modern light fitting are visible.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Tassel_House_stairway.JPG",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The photographer released the photograph into the public domain (Commons template PD-self). Victor Horta died in 1947, so his work entered the public domain in Belgium in 2018. A building finished in 1893 is not protected by copyright in the United States."
+  },
+  "identifiers": {
+    "wikidata": "Q1881679",
+    "commons": "File:Tassel House stairway.JPG"
+  }
+}

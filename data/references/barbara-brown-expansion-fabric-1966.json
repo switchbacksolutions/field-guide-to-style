@@ -1,0 +1,60 @@
+{
+  "id": "barbara-brown-expansion-fabric-1966",
+  "title": "Expansion furnishing fabric",
+  "type": "object",
+  "medium": "textile",
+  "lede": "Barbara Brown’s screen-printed furnishing fabric for Heal’s: black bands that narrow, bend, and converge so that the cloth seems to bulge.",
+  "summary": "Black undulating stripes on white that pinch together and swell, in a large repeat. Barbara Brown for Heal’s, 1966.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O224418/",
+    "label": "V&A: Furnishing fabric “Expansion”, CIRC.269-1967"
+  },
+  "creator": {
+    "name": "Barbara Brown (designer); Heal’s Wholesale & Export Ltd (manufacturer)"
+  },
+  "made": "1966",
+  "moods": [
+    "vibrating",
+    "high-contrast",
+    "sculptural"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A image of its copy, CIRC.269-1967 (1165 × 1600 px), in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "A clear op furnishing print: black and white stripes that change width by steps to suggest swelling and depth.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A catalogues the fabric with the style “Op art” and describes screen-printed cotton satin “with wide stripes in optical black-and-white undulating stripes giving the illusion of three-dimensionality”, 108 × 48 in. [V&A](https://collections.vam.ac.uk/item/O224418/).",
+    "The V&A’s Heal’s records say that 1960s Heal’s furnishing textiles moved from sober geometry “through Pop and Op Art-inspired motifs” to flower-power florals, under design consultant Tom Worthington. [V&A](https://collections.vam.ac.uk/item/O46802/)."
+  ],
+  "observed": [
+    "Pure black on white. Three identical horizontal repeats fill the length.",
+    "In each repeat, vertical black bands pinch to hair-thin lines at the centre and widen into heavy wave shapes toward the edges.",
+    "At the top and bottom of each repeat, the bands fan out into points, so each repeat reads as a swelling drum or waist.",
+    "Selvedge printing along both edges gives the designer, the title, and the maker."
+  ],
+  "interpretation": [
+    "Expansion uses the op device of progression: stripe width alone creates a curved surface on flat cloth.",
+    "It shows the style at furnishing scale, where one repeat is about the height of a person."
+  ],
+  "borrow": [
+    "Make a band narrow toward a centre line and widen toward the edges to suggest a bulge.",
+    "Repeat one large, symmetric unit vertically so that the whole panel reads as one field."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Barbara Brown’s design is in copyright, and the V&A image is not openly licensed."
+  },
+  "identifiers": {
+    "vam": "O224418"
+  }
+}

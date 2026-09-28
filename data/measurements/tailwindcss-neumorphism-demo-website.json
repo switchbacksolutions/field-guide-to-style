@@ -1,0 +1,149 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://tailwindcss-neumorphism-demo.netlify.app/",
+  "title": "tailwindcss-neumorphism demo",
+  "captured": "2026-09-28T17:35:16.249Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Mukta",
+        "share": 1
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 36,
+    "sizeRange": 2.25,
+    "scaleRatio": 1.5,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.13,
+    "monoShare": 0,
+    "centerShare": 0.57
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#edf2f7",
+        "share": 0.819
+      },
+      {
+        "hex": "#4a5568",
+        "share": 0.144
+      },
+      {
+        "hex": "#2b6cb0",
+        "share": 0.013
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.009
+      },
+      {
+        "hex": "#718096",
+        "share": 0.005
+      },
+      {
+        "hex": "#bbcee1",
+        "share": 0.004
+      },
+      {
+        "hex": "#d69e2e",
+        "share": 0.003
+      },
+      {
+        "hex": "#ecc94b",
+        "share": 0.003
+      }
+    ],
+    "background": "#edf2f7",
+    "text": "#4a5568",
+    "contrast": 6.7,
+    "chroma": 0.06,
+    "lightness": 0.85,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.56,
+    "distinct": 2,
+    "hues": 2,
+    "imageShare": 0,
+    "gradientShare": 0.02,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 20,
+    "radius": {
+      "median": 12.6,
+      "max": 26,
+      "roundShare": 1
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0.85,
+      "hardShare": 0,
+      "medianBlur": 4.8,
+      "medianOffset": 3.4
+    },
+    "gradientShare": 0.25,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#edf2f6",
+        "share": 0.945
+      },
+      {
+        "hex": "#d5e0eb",
+        "share": 0.026
+      },
+      {
+        "hex": "#bccad8",
+        "share": 0.007
+      },
+      {
+        "hex": "#a6b2be",
+        "share": 0.005
+      },
+      {
+        "hex": "#8e96a2",
+        "share": 0.003
+      },
+      {
+        "hex": "#5e6979",
+        "share": 0.003
+      },
+      {
+        "hex": "#74bda7",
+        "share": 0.003
+      },
+      {
+        "hex": "#e19a49",
+        "share": 0.003
+      },
+      {
+        "hex": "#3dac6d",
+        "share": 0.003
+      },
+      {
+        "hex": "#ecd7bc",
+        "share": 0.001
+      }
+    ],
+    "background": "#edf2f6",
+    "chroma": 0.04,
+    "lightness": 0.94,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.52,
+    "distinct": 2,
+    "hues": 0
+  }
+}

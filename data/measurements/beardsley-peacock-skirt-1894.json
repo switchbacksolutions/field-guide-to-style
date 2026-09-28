@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/beardsley-peacock-skirt-1894.png",
+  "captured": "2026-09-28T17:28:42+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#fefefe",
+        "share": 0.492
+      },
+      {
+        "hex": "#010101",
+        "share": 0.184
+      },
+      {
+        "hex": "#cfcfcf",
+        "share": 0.047
+      },
+      {
+        "hex": "#a3a3a3",
+        "share": 0.032
+      },
+      {
+        "hex": "#dddddd",
+        "share": 0.031
+      },
+      {
+        "hex": "#b5b5b5",
+        "share": 0.029
+      },
+      {
+        "hex": "#eaeaea",
+        "share": 0.028
+      },
+      {
+        "hex": "#676767",
+        "share": 0.025
+      },
+      {
+        "hex": "#c2c2c2",
+        "share": 0.016
+      },
+      {
+        "hex": "#989898",
+        "share": 0.016
+      }
+    ],
+    "background": "#fefefe",
+    "chroma": 0.0,
+    "lightness": 0.69,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 8,
+    "hues": 0
+  }
+}

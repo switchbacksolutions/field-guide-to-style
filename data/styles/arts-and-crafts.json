@@ -206,39 +206,48 @@
     {
       "metric": "color.patternShare",
       "min": 0.12,
-      "note": "A dense, flat repeat of flowers and leaves covers a large field, such as a border or a length of cloth. Provisional: many real sites show pattern as images, which this metric does not count."
+      "note": "A dense, flat repeat of flowers and leaves covers a large field, such as a border or a length of cloth. The metric counts only pattern drawn in CSS. The six captured websites show pattern as images and measure 0 to 0.06, so judge real sites by the rubric (see the synthesis)."
     },
     {
       "metric": "color.hues",
       "min": 2,
       "max": 3,
-      "note": "Two or three dye colours, such as madder red, indigo, and leaf green. Provisional: set from the specimen, recalibrate with measured references."
-    },
-    {
-      "metric": "surface.border.medianWidth",
-      "min": 4,
-      "note": "Text blocks sit in heavy frames, drawn as double rules. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Two or three dye colours, such as madder red, indigo, and leaf green. Checked 2026-09-28: two of three clear captures pass; the Emery Walker site measures 1 because its colour sits in images. Widening to 1 would let the Vienna Secession and Art Deco specimens pass."
     },
     {
       "metric": "color.accentChroma",
       "min": 0.3,
       "max": 0.55,
-      "note": "Deep vegetable-dye colours are present, weaker than primary, aniline, or neon colours. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Deep vegetable-dye colours are present, weaker than primary, aniline, or neon colours. Checked 2026-09-28: all six captures measure 0.36 to 0.54."
     },
     {
       "metric": "surface.radius.median",
       "max": 2,
-      "note": "Frames and boxes have square corners. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Frames and boxes have square corners. Checked 2026-09-28: all six captures measure 0."
     },
     {
       "metric": "surface.shadow.share",
       "max": 0.05,
-      "note": "Flat print and pattern, without drop shadows. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Flat print and pattern, without drop shadows. Checked 2026-09-28: the three clear captures measure 0, 0, and 0.15 (Emery Walker’s cookie bar and cards); one borderline site exceeds it."
     },
     {
       "metric": "type.uppercaseShare",
-      "max": 0.15,
-      "note": "Type is mixed case; labels use italic, not spaced capitals. Provisional: set from the specimen, recalibrate with measured references."
+      "max": 0.5,
+      "note": "Mostly mixed case, but capitals are part of the style: Crane’s 1890 exhibition ticket and the Kelmscott Chaucer headings are set in capitals. Calibrated 2026-09-28 from 0.15 to 0.5: two of three clear captures measure 0.16 and 0.46."
+    },
+    {
+      "metric": "type.monoShare",
+      "max": 0.1,
+      "note": "Old-style serif and blackletter, never monospace. All six captures measure 0. Added 2026-09-28 to replace the border-width marker, which let the grunge specimen through once removed."
     }
+  ],
+  "synthesis": [
+    "The rubric’s dense, symmetrical repeat is the mode of Morris’s mature textiles. [Strawberry Thief](ref:morris-strawberry-thief-textile) and [Peacock and Dragon](ref:morris-peacock-and-dragon-textile-1878) mirror birds and plants across a vertical axis and leave only thin lines of ground, and Voysey’s [bed cover](ref:voysey-block-printed-silk-bed-cover) stacks mirrored flowers in rows on blue.",
+    "Correction to the prospect record: not all Arts and Crafts pattern is dense or symmetrical. Morris’s first wallpaper, [Trellis](ref:morris-trellis-wallpaper), leaves about half the sheet as open cream ground and places its birds irregularly, and Voysey’s [Tulip](ref:voysey-tulip-wallpaper) paper uses long, unmirrored S-curves in pale colours that come close to [Art Nouveau](style:art-nouveau). Judge a pattern by flat drawing with firm outlines first, and by density and symmetry second.",
+    "The deep indigo and madder palette belongs mainly to the indigo-discharge cottons. The woven wools, the wallpapers, and Voysey’s work run lighter: salmon, sage, cream, pale blue, and orange. Red appears most often in fruit and flowers, and on paper in one-colour prints such as Crane’s [lustre vase](ref:crane-maw-lustre-vase-1889).",
+    "In print, the [Kelmscott Chaucer](ref:kelmscott-chaucer-1896) keeps its dense vine borders for opening spreads; its text pages are plain two-column blackletter with small red side notes. Its frames are single lines. Crane’s [exhibition ticket](ref:crane-arts-and-crafts-exhibition-season-ticket-1890) has a double-line frame, but its lettering is all capitals with middle dots between words. Capitals, red side notes, and single or double rules all belong to the style; the specimen’s heavy double-ruled boxes are one choice among them.",
+    "The objects show the plain side of the movement: hammered silver in [Ashbee’s kettle](ref:ashbee-silver-kettle-1900), the turned, rush-seated [Sussex armchair](ref:morris-and-co-sussex-armchair), and the red brick and medieval arches of [Red House](ref:red-house-bexleyheath). They share honest material and visible making, not pattern.",
+    "Few websites use the style; most sites about it are modern templates. The clearest are institutions tied to the movement: [Emery Walker’s House](ref:emery-walker-trust-website) puts a woven Morris pattern behind red serif headings, the [Voysey Society](ref:voysey-society-website) uses Voysey-style red lettering, a serif text face, and olive rules, and the [William Morris Archive](ref:william-morris-archive-website) sets its title in a Troy type revival between pattern corners. The [Morris Society in the United States](ref:morris-society-us-website), [Trustworth Studios](ref:trustworth-studios-website), and the 2020 [Morris & Co.](ref:morris-and-co-website-2020) page are borderline: they add a pattern image or a lettered wordmark to a conventional layout.",
+    "The fingerprint describes CSS implementations. Real sites show pattern as photographs or image files, so `color.patternShare` measures 0 to 0.06 on all six captures; judge sites by the rubric for that trait. The captures draw frames with 1 px rules, so the heavy-border marker was removed, and they set navigation and link blocks in capitals, so the uppercase limit was raised to 0.5. A no-monospace marker keeps the grunge specimen out."
   ]
 }

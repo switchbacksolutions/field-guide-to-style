@@ -1,0 +1,71 @@
+{
+  "id": "flutter-neumorphic-package",
+  "title": "Flutter Neumorphic",
+  "type": "product",
+  "medium": "software",
+  "lede": "A Flutter UI kit from February 2020 that turned the two-shadow recipe into depth, intensity, and light-source settings.",
+  "summary": "Idean’s open-source neumorphic widget kit for Flutter, with a playground for depth, intensity, and shape.",
+  "source": {
+    "url": "https://github.com/Idean/Flutter-Neumorphic",
+    "label": "Idean/Flutter-Neumorphic on GitHub"
+  },
+  "creator": {
+    "name": "Idean",
+    "url": "https://pub.dev/packages/flutter_neumorphic"
+  },
+  "made": "2020–2021 (version 0.0.1 on 19 February 2020; version 3.2.0 on 11 November 2021, per pub.dev)",
+  "moods": [
+    "soft",
+    "tactile"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected frames of the repository’s own `medias/playground.gif` (500 × 842). The stored image is its first frame. The showcase image `medias/showcase_1.png` was also viewed; it contains a third-party photograph and is not stored. Licence read through the GitHub API; dates from the pub.dev API."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "The kit is built for the style: every widget shares the surface color and gets a light and a dark shadow set by a depth value, positive to rise and negative to sink.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The README calls it “a complete, ready to use, Neumorphic ui kit for Flutter”. The repository was created on 19 February 2020, about ten weeks after [Malewicz named the style](ref:malewicz-neumorphism-article-2019).",
+    "Its style settings are named depth, intensity, surface intensity, light source, and shape (concave, convex, flat, emboss).",
+    "Released under the Apache License 2.0. It had about 2,200 GitHub stars on 2026-09-28, the most of any repository returned by a GitHub search for “neumorphic”."
+  ],
+  "observed": [
+    "A rounded square in the center of a pale gray surface, the same color as the surface. A white glow sits to its upper left and a gray shadow to its lower right.",
+    "Two blue sliders at the top and left edges set the light direction.",
+    "A lower panel with “Style” and “Element” tabs and sliders for Depth (11), Intensity (0.86), and SurfaceIntensity (0.5). The tabs and panel are flat white and saturated blue, not neumorphic."
+  ],
+  "interpretation": [
+    "The playground makes the grammar of the style explicit as parameters: one surface color, a light source, and a depth that sets the offset and blur of both shadows. The Material-style control panel below it shows how often the style was confined to a few hero elements."
+  ],
+  "borrow": [
+    "Expose depth as one signed number, positive for raised and negative for pressed, and derive both shadows from it."
+  ],
+  "images": [
+    {
+      "file": "assets/references/flutter-neumorphic-package.png",
+      "alt": "Flutter Neumorphic playground: a pale gray rounded square rising from a pale gray surface with a white glow at upper left and a gray shadow at lower right, above a panel with blue sliders for depth, intensity, and surface intensity.",
+      "width": 500,
+      "height": 842,
+      "kind": "source-image",
+      "caption": "First frame of the playground animation in [Flutter Neumorphic](https://github.com/Idean/Flutter-Neumorphic) by Idean. Apache License 2.0.",
+      "original": "https://raw.githubusercontent.com/Idean/Flutter-Neumorphic/master/medias/playground.gif",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "Apache-2.0",
+    "statement": "Image committed to the repository as documentation and covered by its Apache License 2.0, © Idean. It shows only the package’s own widgets. The stored file is one frame converted from the GIF."
+  },
+  "identifiers": {
+    "github": "Idean/Flutter-Neumorphic",
+    "pubdev": "flutter_neumorphic"
+  }
+}

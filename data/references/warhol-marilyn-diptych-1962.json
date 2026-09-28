@@ -1,0 +1,61 @@
+{
+  "id": "warhol-marilyn-diptych-1962",
+  "title": "Marilyn Diptych",
+  "type": "object",
+  "medium": "painting",
+  "lede": "Andy Warhol’s fifty repeated Marilyn Monroe heads on two canvases: a grid in flat color on the left, fading black and white on the right.",
+  "summary": "Fifty silkscreened faces in a grid, colored on one panel and black on the other. Andy Warhol, 1962.",
+  "source": {
+    "url": "https://www.tate.org.uk/art/artworks/warhol-marilyn-diptych-t03093",
+    "label": "Tate: ‘Marilyn Diptych’, Andy Warhol, 1962"
+  },
+  "creator": {
+    "name": "Andy Warhol",
+    "url": "https://www.wikidata.org/wiki/Q5603"
+  },
+  "made": "1962",
+  "moods": [
+    "repetitive",
+    "commercial",
+    "elegiac"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Tate serves images of this work only up to 256 px wide; larger sizes return HTTP 403. The 256 px image confirms only the two-panel grid, which is too small for observation. Description relies on Tate’s record and Wikipedia."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "The key source for the style’s grid of repeated units and for the Warhol color variant. Partial fit: it has no dots, key lines, or comic devices.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Tate gives the medium as alkyd ink, acrylic paint, oil ground, and graphite on two canvases. [Tate](https://www.tate.org.uk/art/artworks/warhol-marilyn-diptych-t03093).",
+    "Warhol made the work in 1962, shortly after Monroe’s death in August. It repeats fifty images from a publicity still for the 1953 film *Niagara* by Gene Kornman: colored portraits on the left panel and fading black-and-white impressions on the right. Tate acquired it in 1980. [Wikipedia](https://en.wikipedia.org/wiki/Marilyn_Diptych).",
+    "Warhol described silkscreening as picking a photograph, blowing it up, transferring it in glue onto silk, and rolling ink across it, so that each image is the same but slightly different. [Wikipedia](https://en.wikipedia.org/wiki/Marilyn_Diptych).",
+    "A later screenprint of the same head is [Marilyn Monroe (Marilyn)](ref:warhol-marilyn-screenprint-1967)."
+  ],
+  "interpretation": [
+    "The diptych gives the style its second layout: not one enlarged panel but a strict grid of identical units, like goods on a shelf or frames on a contact sheet.",
+    "The contrast between the two panels depends on print variation. On screen, the equivalent is a grid in which units vary slightly in ink density or registration."
+  ],
+  "borrow": [
+    "Repeat one image in a tight grid with no gutters, and vary only its color or density from cell to cell.",
+    "Pair a colored grid with a monochrome grid of the same unit."
+  ],
+  "next": [
+    "Inspect an image at least 800 px wide and add observed traits."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is © The Andy Warhol Foundation for the Visual Arts; Warhol died in 1987."
+  },
+  "identifiers": {
+    "wikidata": "Q573949",
+    "tate": "T03093"
+  }
+}

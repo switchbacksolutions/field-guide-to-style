@@ -1,0 +1,51 @@
+{
+  "id": "propellerhead-reason-2000",
+  "title": "Propellerhead Reason, 2000",
+  "type": "product",
+  "medium": "software",
+  "lede": "Music software drawn as a studio equipment rack, with a back panel of animated patch cables.",
+  "summary": "A virtual rack of synthesizers and effects with riveted panels and patch cables. Propellerhead, 2000.",
+  "source": {
+    "url": "https://www.soundonsound.com/reviews/propellerhead-software-reason",
+    "label": "Sound On Sound, Derek Johnson and Debbie Poyser, review (March 2001)"
+  },
+  "creator": {
+    "name": "Propellerhead Software (now Reason Studios)"
+  },
+  "made": "First released in 2000",
+  "moods": [
+    "technical",
+    "mechanical",
+    "tactile"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "No image was inspected. Based on the Sound On Sound review (March 2001) and Wikipedia."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "The audio branch of the style: hardware imitated down to rack rails, rivets, knobs, and cables. It predates the Apple period and continued through it.",
+      "basis": "agent",
+      "qualifier": "precursor"
+    }
+  ],
+  "context": [
+    "Reason first released in 2000. “Reason simulates a recording studio with virtual cables and representations of a subtractive synthesizer, sampler and drum machine.” [Wikipedia: Reason Studios](https://en.wikipedia.org/wiki/Reason_Studios).",
+    "Sound On Sound: devices “appear as graphic units in a rack”; “flipping the on-screen image reveals a back-panel view of the virtual hardware, complete with animated pluggable cabling.” Audio cables are red, effects cables green, and Gate and CV leads yellow. The mixer’s look “owes a lot to Mackie’s LM3204.” [Sound On Sound, March 2001](https://www.soundonsound.com/reviews/propellerhead-software-reason).",
+    "Wikipedia’s skeuomorph article names audio software that emulates “physical musical instruments and audio equipment complete with buttons and dials” as an extreme example. [Wikipedia: Skeuomorph](https://en.wikipedia.org/wiki/Skeuomorph)."
+  ],
+  "interpretation": [
+    "Here the metaphor carries function: the cable view is how users route signals. It is the strongest case for the style’s claim that familiar objects teach."
+  ],
+  "next": [
+    "Find an openly licensed screenshot of Reason 1–6 and inspect it."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Propellerhead software; copyrighted. No image is stored here."
+  }
+}

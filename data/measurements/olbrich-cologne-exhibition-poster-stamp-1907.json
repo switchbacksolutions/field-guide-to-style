@@ -1,0 +1,53 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/olbrich-cologne-exhibition-poster-stamp-1907.jpg",
+  "captured": "2026-09-28T17:55:11+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#cfc2b4",
+        "share": 0.309
+      },
+      {
+        "hex": "#4f464b",
+        "share": 0.264
+      },
+      {
+        "hex": "#6b615d",
+        "share": 0.125
+      },
+      {
+        "hex": "#bfb4a7",
+        "share": 0.082
+      },
+      {
+        "hex": "#867c75",
+        "share": 0.063
+      },
+      {
+        "hex": "#91877f",
+        "share": 0.059
+      },
+      {
+        "hex": "#a69c93",
+        "share": 0.053
+      },
+      {
+        "hex": "#ded1c3",
+        "share": 0.032
+      },
+      {
+        "hex": "#42383a",
+        "share": 0.012
+      }
+    ],
+    "background": "#cfc2b4",
+    "chroma": 0.07,
+    "lightness": 0.54,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 8,
+    "hues": 0
+  }
+}

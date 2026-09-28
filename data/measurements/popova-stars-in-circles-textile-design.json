@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/popova-stars-in-circles-textile-design.jpg",
+  "captured": "2026-09-28T17:42:44+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#8d8b80",
+        "share": 0.332
+      },
+      {
+        "hex": "#a5a7a2",
+        "share": 0.209
+      },
+      {
+        "hex": "#7c2d46",
+        "share": 0.104
+      },
+      {
+        "hex": "#817f79",
+        "share": 0.054
+      },
+      {
+        "hex": "#979692",
+        "share": 0.052
+      },
+      {
+        "hex": "#6c3947",
+        "share": 0.033
+      },
+      {
+        "hex": "#353230",
+        "share": 0.031
+      },
+      {
+        "hex": "#463f3e",
+        "share": 0.029
+      },
+      {
+        "hex": "#734853",
+        "share": 0.028
+      },
+      {
+        "hex": "#652d3b",
+        "share": 0.027
+      }
+    ],
+    "background": "#8d8b80",
+    "chroma": 0.08,
+    "lightness": 0.48,
+    "chromaticShare": 0.1,
+    "accentChroma": 0.31,
+    "distinct": 12,
+    "hues": 1
+  }
+}

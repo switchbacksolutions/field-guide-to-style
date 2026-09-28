@@ -1,0 +1,64 @@
+{
+  "id": "play-google-com-website-2016",
+  "title": "Google Play store website, 2016",
+  "type": "website",
+  "medium": "website",
+  "lede": "The 2016 web store for Android apps, in French: a green section tab, white app cards with soft shadows on pale gray, and Roboto Light headings.",
+  "summary": "White app cards with soft shadows on pale gray, a green section tab, a blue raised button, and Roboto Light headings. 2016.",
+  "source": {
+    "url": "https://play.google.com/store/apps",
+    "label": "Google Play, Apps (French edition)",
+    "archive": "https://web.archive.org/web/20160601095735/https://play.google.com/store/apps"
+  },
+  "creator": {
+    "name": "Google"
+  },
+  "made": "2016",
+  "moods": [
+    "orderly",
+    "bright"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. The archive served the French edition. Four app icons in the first card row did not load, and a thin cookie strip covers the top edge."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "Clear example of Material 1 on the web: white cards at a low elevation on a pale gray ground, one saturated green for the current section, a blue raised sign-in button, and Roboto. Scrims over the carousel photos add gradients.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "The live Google Play store has a different design.",
+  "observed": [
+    "A white header holds the Google Play logo, a long search field with a blue search button, and a blue raised “Connexion” button with square corners.",
+    "A solid green tab labeled “Applications” with a white Android glyph marks the section. Beside it, text tabs read Catégories, Accueil, Classements, and Nouveautés, with a gray underline under Accueil.",
+    "A carousel of three photographs runs edge to edge, with white titles over a dark gradient at the bottom of each photo.",
+    "Below, the heading “50 jeux incontournables” is set in large Roboto Light. A row of white app cards with soft, short shadows sits on a pale gray ground. Each card holds an icon, a title, a developer name, and gray stars.",
+    "Four of the seven app icons in the row did not load and show alt text. A thin dark cookie strip runs across the top of the page."
+  ],
+  "interpretation": [
+    "The page measures a shadow on 36 % of its boxes, with a median blur of 4 px and offset of 2 px, which matches a 2 dp card. Its chromatic share is 0.01, because color is limited to the green tab, the blue buttons, and photographs. The gradient share of 0.14 comes from the scrims under the carousel captions, not from gradient fills on surfaces."
+  ],
+  "borrow": [
+    "Put catalog items on identical white cards with a 2 dp shadow on a pale gray ground, and let only the item images carry color."
+  ],
+  "images": [
+    {
+      "file": "assets/references/play-google-com-website-2016.jpg",
+      "alt": "Google Play in 2016, French edition: the Google Play logo and search field, a green Applications tab, a photo carousel, and a row of white app cards with soft shadows on a pale gray ground.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "[Wayback Machine copy of play.google.com/store/apps](https://web.archive.org/web/20160601095735/https://play.google.com/store/apps), 1 June 2016. The archive served the French edition.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners. Screenshot captured for commentary."
+  }
+}

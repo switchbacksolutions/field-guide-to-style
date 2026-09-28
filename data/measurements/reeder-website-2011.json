@@ -1,0 +1,97 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20111002015721if_/http://reederapp.com/",
+  "title": "Reeder",
+  "captured": "2011-10-02T01:57:25.901Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "bold Helvetica",
+        "share": 1
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 16,
+    "sizeRange": 1,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#bbbbbb",
+        "share": 1
+      }
+    ],
+    "background": null,
+    "text": "#bbbbbb",
+    "contrast": null,
+    "chroma": 0,
+    "lightness": 0.73,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 1,
+    "hues": 0,
+    "imageShare": 1,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 1,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 1,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 1,
+      "hardShare": 0,
+      "medianBlur": 2,
+      "medianOffset": 0
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#e4e1dc",
+        "share": 0.594
+      },
+      {
+        "hex": "#efeeec",
+        "share": 0.4
+      },
+      {
+        "hex": "#d7d5d2",
+        "share": 0.005
+      },
+      {
+        "hex": "#bab7b3",
+        "share": 0.001
+      }
+    ],
+    "background": "#e4e1dc",
+    "chroma": 0.02,
+    "lightness": 0.9,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0
+  }
+}

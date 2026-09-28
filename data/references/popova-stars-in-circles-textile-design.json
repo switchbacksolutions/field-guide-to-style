@@ -1,0 +1,74 @@
+{
+  "id": "popova-stars-in-circles-textile-design",
+  "title": "Textile design with stars in circles",
+  "type": "print",
+  "medium": "textile",
+  "lede": "Lyubov Popova’s design for a printed fabric repeats red stars inside black overlapping ovals and changes them from solid to line as the pattern moves across.",
+  "summary": "Solid and outlined red stars in a lattice of black ovals on paper. Lyubov Popova, 1923, Tretyakov Gallery.",
+  "source": {
+    "url": "https://www.wikidata.org/wiki/Q65965662",
+    "label": "Wikidata: Tissu imprimé à motif d’« étoiles dans un cercle »"
+  },
+  "creator": {
+    "name": "Lyubov Popova",
+    "url": "https://www.wikidata.org/wiki/Q259594"
+  },
+  "made": "1923 (Wikidata)",
+  "moods": [
+    "geometric",
+    "rhythmic",
+    "industrial"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected a gallery photograph by Sukkoria on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fabric_design_%C2%AB_stars_in_circles_%C2%BB_by_Lyoubov_Popova_-_Rouge_Grand_Palais.jpg) (3228 × 2256 px, viewed at 1920 px), taken in the exhibition *Rouge. Art et utopie au pays des Soviets*, Grand Palais, Paris, 2019. The photograph is slightly soft and taken through glazing. Wikidata names the State Tretyakov Gallery as the collection; no inventory number is recorded."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "constructivism",
+      "note": "Partial fit: constructivist textile design, the branch that applied the style to industrial production. It keeps the red-and-black palette and elementary shapes but has no type and no diagonal composition.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikidata records the work as a design by Lyubov Popova, dated 1923, in the collection of the State Tretyakov Gallery. [Wikidata](https://www.wikidata.org/wiki/Q65965662).",
+    "In 1923 an official appeal asked artists to design prints for the Soviet textile industry. Popova, Varvara Stepanova, and Alexander Rodchenko were among the first to respond. [V&A, T.213-2016](https://collections.vam.ac.uk/item/O1371413/). See [Stepanova’s printed flannel](ref:stepanova-printed-flannel-1924)."
+  ],
+  "observed": [
+    "A lattice of overlapping black outlined ovals covers the sheet in staggered rows.",
+    "Each oval holds a five-pointed star in a magenta-red. In the left part the stars are solid; toward the right they become open pentagrams drawn in thin red lines.",
+    "The red stars and the black ovals overlap, so the stars appear to pass behind and in front of the lattice.",
+    "The ground is unpainted off-white paper. Red and black are the only colors."
+  ],
+  "interpretation": [
+    "The design reduces a textile print to the same two inks as the posters and uses the change from solid to outline as its only variation, a rule-based system rather than decoration.",
+    "The star is a Soviet emblem. The style record advises against using such emblems as decoration today; the geometry and the solid-to-outline change are the parts to reuse."
+  ],
+  "borrow": [
+    "Make a pattern from one elementary shape and one outline lattice, and let the shape change from solid to outline across the surface.",
+    "Limit a pattern to one hue plus black on an unprinted ground."
+  ],
+  "images": [
+    {
+      "file": "assets/references/popova-stars-in-circles-textile-design.jpg",
+      "alt": "A framed sheet with a pattern of black overlapping ovals, each holding a red five-pointed star. The stars are solid on the left and become thin red line pentagrams on the right.",
+      "width": 1600,
+      "height": 1118,
+      "kind": "photograph",
+      "caption": "Lyubov Popova, textile design with stars in circles, 1923. State Tretyakov Gallery, shown at the Grand Palais, Paris, in 2019. Photograph by Sukkoria, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fabric_design_%C2%AB_stars_in_circles_%C2%BB_by_Lyoubov_Popova_-_Rouge_Grand_Palais.jpg), CC BY-SA 4.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Fabric_design_%C2%AB_stars_in_circles_%C2%BB_by_Lyoubov_Popova_-_Rouge_Grand_Palais.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Photograph © Sukkoria, CC BY-SA 4.0, attribution required. Popova died in 1924, so the design is in the public domain in Russia and, as the work of an author who died more than 70 years ago, in the United States whether or not it counts as published."
+  },
+  "identifiers": {
+    "wikidata": "Q65965662",
+    "commons": "File:Fabric design « stars in circles » by Lyoubov Popova - Rouge Grand Palais.jpg"
+  }
+}

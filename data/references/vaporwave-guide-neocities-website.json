@@ -1,0 +1,54 @@
+{
+  "id": "vaporwave-guide-neocities-website",
+  "title": "Vaporwave Guide (Neocities)",
+  "type": "website",
+  "medium": "website",
+  "lede": "A fan-made beginner’s guide to vaporwave on a hot pink page, with a collage of the Windows 95 logo, Game Boys, palms, and Japanese text.",
+  "summary": "Hot pink page, mint headings, default blue links, and a Windows 95 collage with vertical Japanese text.",
+  "source": {
+    "url": "https://thevaporwaveguide.neocities.org/",
+    "label": "thevaporwaveguide.neocities.org"
+  },
+  "moods": [
+    "kitsch",
+    "earnest",
+    "nostalgic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Clear: a fan site that describes the genre and uses it too, with a saturated pink ground, a collage of the Windows 95 logo, Game Boys, palms, and drink bottles, and vertical Japanese text. The CSS is plain, so the fingerprint cannot see the style; it lives in the image and the colour.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The whole page is flat hot pink; the title “Vaporwave Guide” and the welcome line are mint green, bold, and underlined.",
+    "Six centred links in default blue underlined text list labels, artists, images, albums, a guide, and credits.",
+    "A wide collage below shows a glitched Windows 95 logo and wordmark, a column of Game Boy handhelds, fruit-drink bottles, palm trees, blue statues, and vertical pink Japanese text over a pink-and-green sky."
+  ],
+  "interpretation": [
+    "It is the style at its most amateur: all of it sits in one pasted image and a background colour. The measurement sees only flat colour and no shadows."
+  ],
+  "images": [
+    {
+      "file": "assets/references/vaporwave-guide-neocities-website.jpg",
+      "alt": "Vaporwave Guide home page: hot pink background, mint-green underlined title, a column of blue links, and a collage of the Windows 95 logo, Game Boys, drink bottles, palms, and vertical Japanese text.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [thevaporwaveguide.neocities.org](https://thevaporwaveguide.neocities.org/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

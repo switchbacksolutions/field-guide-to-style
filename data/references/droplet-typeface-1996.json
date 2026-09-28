@@ -1,0 +1,56 @@
+{
+  "id": "droplet-typeface-1996",
+  "title": "Droplet typeface",
+  "type": "product",
+  "medium": "typeface",
+  "lede": "Hat Nguyen’s family of swollen, irregular display letters for T-26, named as a signature grunge font.",
+  "summary": "Blobby, irregular sans-serif capitals and lowercase in Lite, Regular, and Extra weights. Hat Nguyen, T-26, 1996.",
+  "source": {
+    "url": "https://www.t26.com/fonts/253-Droplet",
+    "label": "T.26 Digital Type Foundry: Droplet"
+  },
+  "creator": {
+    "name": "Hat Nguyen"
+  },
+  "made": "1996 (Klingspor Museum specimen sheet)",
+  "moods": [
+    "playful",
+    "organic",
+    "raw"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Klingspor Museum specimen sheet for Hat Nguyen (a one-page PDF, rendered at about 900 × 1300) and the Fonts In Use render (779 × 176), in scratchpad copies. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "grunge-typography",
+      "note": "Partial fit: sources name it a signature grunge font, but its letters are swollen and irregular rather than eroded or torn.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "The Awl, quoting T-26 founder Carlos Segura, names Hat Nguyen’s Droplet among the signature grunge fonts distributed by T-26. [The Awl](https://web.archive.org/web/20150925150838/http://www.theawl.com/2012/08/grunge-typography).",
+    "The Klingspor Museum sheet lists Droplet Lite, Droplet, and Droplet Extra as 1996 T-26 releases, also sold by Linotype. [Klingspor Museum](http://www.klingspor-museum.de/KlingsporKuenstler/Schriftdesigner/Nguyen/HNguyen.pdf).",
+    "T-26 still sells Droplet in four styles: Lite, Regular, Extra, and Closed, tagged “bloated”, “hybrid”, “ink”, and “organic”. [T-26](https://www.t26.com/fonts/253-Droplet)."
+  ],
+  "observed": [
+    "Droplet Lite is a thin, slightly wobbly sans-serif; Droplet and Droplet Extra are heavy, with swollen terminals and small, irregular counters.",
+    "Letter widths and stroke ends vary: the I has a hook, the Z and K are compressed, and the Extra weight’s counters close up into blobs.",
+    "Edges are smooth, not speckled or torn."
+  ],
+  "interpretation": [
+    "Droplet shows that “grunge font” was also a market label for any irregular, hand-made-looking display face of the mid-1990s. For the eroded core of the style, prefer [Reactor](ref:reactor-typeface-fuse-1993) or [Trixie](ref:ff-trixie-typeface-1991)."
+  ],
+  "borrow": [
+    "Pair one swollen, irregular display face with a clean text face for a looser, inky mood without heavy damage."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The typeface is by Hat Nguyen and T-26."
+  }
+}

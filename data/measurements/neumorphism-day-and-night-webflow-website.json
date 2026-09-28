@@ -1,0 +1,145 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://neumorphism-day-and-night.webflow.io/",
+  "title": "Neumorphism Day and Night",
+  "captured": "2026-09-28T17:38:00.949Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Open Sans",
+        "share": 1
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 32,
+    "sizeRange": 2.29,
+    "scaleRatio": 1.53,
+    "headingWeight": 700,
+    "bodyWeight": 600,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#f1f1f1",
+        "share": 0.642
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.172
+      },
+      {
+        "hex": "#333333",
+        "share": 0.16
+      },
+      {
+        "hex": "#ffd000",
+        "share": 0.016
+      },
+      {
+        "hex": "#808080",
+        "share": 0.007
+      },
+      {
+        "hex": "#dadada",
+        "share": 0.003
+      },
+      {
+        "hex": "#000000",
+        "share": 0.001
+      }
+    ],
+    "background": "#f1f1f1",
+    "text": "#333333",
+    "contrast": 11.2,
+    "chroma": 0.02,
+    "lightness": 0.82,
+    "chromaticShare": 0.02,
+    "accentChroma": 1,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0.01,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 15,
+    "radius": {
+      "median": 20,
+      "max": 50,
+      "roundShare": 0.93
+    },
+    "border": {
+      "share": 0.33,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0.87,
+      "hardShare": 0,
+      "medianBlur": 15,
+      "medianOffset": 9.9
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#f1f1f1",
+        "share": 0.706
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.158
+      },
+      {
+        "hex": "#f5eaba",
+        "share": 0.024
+      },
+      {
+        "hex": "#fed002",
+        "share": 0.019
+      },
+      {
+        "hex": "#a1a1a1",
+        "share": 0.013
+      },
+      {
+        "hex": "#f5e7a7",
+        "share": 0.012
+      },
+      {
+        "hex": "#f3eed8",
+        "share": 0.012
+      },
+      {
+        "hex": "#e1e1e1",
+        "share": 0.011
+      },
+      {
+        "hex": "#f6e492",
+        "share": 0.01
+      },
+      {
+        "hex": "#bdbdbd",
+        "share": 0.01
+      }
+    ],
+    "background": "#f1f1f1",
+    "chroma": 0.04,
+    "lightness": 0.92,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.63,
+    "distinct": 3,
+    "hues": 1
+  }
+}

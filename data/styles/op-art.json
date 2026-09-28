@@ -200,7 +200,7 @@
     {
       "metric": "color.patternShare",
       "min": 0.3,
-      "note": "Positive marker. Repeating stripes, checks, or rings fill a large part of the page; the specimen measures 0.54. Pop art, Streamline Moderne, Vienna Secession, Skeuomorphism, and Grunge typography specimens also pass this range and fail on contrast, hue, lightness, or shadow. Provisional: set from the specimen; real sites often draw patterns as SVG or images, which this metric does not count."
+      "note": "Positive marker. Repeating stripes, checks, or rings fill a large part of the page; the specimen measures 0.54. Pop art, Streamline Moderne, Vienna Secession, Skeuomorphism, and Grunge typography specimens also pass this range and fail on contrast, hue, lightness, or shadow. Provisional: set from the specimen; real sites often draw patterns as SVG or images, which this metric does not count. All three kept captures measure 0 because the pattern is an image; judge such sites by the rubric."
     },
     {
       "metric": "surface.patternShare",
@@ -213,10 +213,10 @@
       "note": "Positive marker. Pure black text on pure white ground (21:1). Other specimens measure 19.3 or less. Provisional: set from the specimen; off-white or near-black grounds on real sites will fall below."
     },
     {
-      "metric": "color.lightness",
+      "metric": "pixels.lightness",
       "min": 0.3,
-      "max": 0.72,
-      "note": "Positive marker. Black covers a large share of the page as solid ground and reversed panels, so figure and ground are closer to balance than on paper-white pages. The specimen measures 0.67; the Vienna Secession, Swiss, and Pop art specimens measure 0.73 or more. Provisional: set from the specimen."
+      "max": 0.75,
+      "note": "Positive marker, read from the screenshot. Black covers a large share of the page, so figure and ground are closer to balance than on paper-white pages. Calibrated 2026-09-28: all three kept captures failed the CSS `color.lightness` because their patterns are images over a plain black or white CSS ground ([Michèle Vasarely Foundation](ref:vasarely-com-website) 0.17, [Marina Apollonio](ref:marina-apollonio-website) 0.81, [Grignani blog](ref:franco-grignani-info-website) 0.83). Screenshot lightness is 0.57 and 0.69 for the two clear sites and 0.72 for the specimen; Vienna Secession, Swiss, and Minimalist specimens measure 0.92 or more."
     },
     {
       "metric": "color.hues",
@@ -233,5 +233,10 @@
       "max": 0.05,
       "note": "Flat print. No drop shadows. Provisional: set from the specimen."
     }
+  ],
+  "synthesis": [
+    "The black and white core runs from painting into mass products within about three years. Riley’s [Fall](ref:riley-fall-1963) and her [study for Intake](ref:riley-study-for-intake-1964) and Vasarely’s [Oeta](ref:vasarely-oeta-screenprint-1959) define the devices: one unit repeated edge to edge, changed by steps in width, period, or shape. By 1965–66 the same devices are on a [Biba mini-dress](ref:biba-op-art-mini-dress-1965), a [Scott paper dress](ref:scott-paper-op-art-paper-dress-1966), [Heal’s furnishing fabric](ref:barbara-brown-expansion-fabric-1966), and [screen-printed acrylic earrings](ref:ramshaw-watkins-optik-art-earrings).",
+    "Graphic design keeps text apart from the field. The [Responsive Eye catalogue](ref:the-responsive-eye-catalogue-1965) lets display letters carry Riley’s stripes but sets its title page plain; [McLaren’s CND poster](ref:mclaren-cnd-easter-67-poster) puts grotesque type on a solid black band above a swelling dot field. Grignani’s [Woolmark](ref:grignani-woolmark-logo-1964) shows that a few heavy tapering stripes survive at logo size. [Noll’s sinusoids](ref:noll-ninety-parallel-sinusoids-1964) show that the Riley wave is a rule that code can generate.",
+    "Few live websites use the style. The [Michèle Vasarely Foundation](ref:vasarely-com-website) is the clearest: a full-screen distorted grid with text only in black pills. [Marina Apollonio’s site](ref:marina-apollonio-website) uses a ring field as its hero; the [Grignani blog](ref:franco-grignani-info-website) is borderline. On all three the pattern is an image, so `color.patternShare` and `surface.patternShare` read 0, and the CSS lightness sees only the plain ground. The fingerprint now reads lightness from the screenshot. Judge image-drawn patterns by the rubric."
   ]
 }

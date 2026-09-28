@@ -1,0 +1,149 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.marinaapollonio.com/",
+  "title": "Marina Apollonio | Artista Italiana del movimento Ottico/Cinetico",
+  "captured": "2026-09-28T17:46:54.231Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Poppins",
+        "share": 1
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 46,
+    "sizeRange": 2.71,
+    "scaleRatio": 1.15,
+    "headingWeight": 500,
+    "bodyWeight": 500,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.05
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.675
+      },
+      {
+        "hex": "#666666",
+        "share": 0.225
+      },
+      {
+        "hex": "#e02b20",
+        "share": 0.036
+      },
+      {
+        "hex": "#333333",
+        "share": 0.034
+      },
+      {
+        "hex": "#000000",
+        "share": 0.011
+      },
+      {
+        "hex": "#f4f4f4",
+        "share": 0.011
+      },
+      {
+        "hex": "#946ef4",
+        "share": 0.004
+      },
+      {
+        "hex": "#8857f2",
+        "share": 0.004
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#666666",
+    "contrast": 5.7,
+    "chroma": 0.03,
+    "lightness": 0.81,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.72,
+    "distinct": 4,
+    "hues": 2,
+    "imageShare": 0.48,
+    "gradientShare": 0.01,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 20,
+    "radius": {
+      "median": 0,
+      "max": 3,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.2,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0.55,
+      "hardShare": 0,
+      "medianBlur": 50,
+      "medianOffset": 27
+    },
+    "gradientShare": 0.15,
+    "patternShare": 0.05,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.587
+      },
+      {
+        "hex": "#1a181d",
+        "share": 0.282
+      },
+      {
+        "hex": "#f2f2f3",
+        "share": 0.015
+      },
+      {
+        "hex": "#8d8c8e",
+        "share": 0.012
+      },
+      {
+        "hex": "#e6e6e7",
+        "share": 0.011
+      },
+      {
+        "hex": "#a2a1a3",
+        "share": 0.011
+      },
+      {
+        "hex": "#3e3d40",
+        "share": 0.011
+      },
+      {
+        "hex": "#2f2e31",
+        "share": 0.011
+      },
+      {
+        "hex": "#b6b5b7",
+        "share": 0.011
+      },
+      {
+        "hex": "#636265",
+        "share": 0.01
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.01,
+    "lightness": 0.69,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0
+  }
+}

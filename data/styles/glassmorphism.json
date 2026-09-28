@@ -129,7 +129,10 @@
     }
   ],
   "synthesis": [
-    "No references are stored yet. The record rests on the attestation sources. The specimen follows the recipe that those sources describe: a translucent fill, a background blur, a thin light border, and large radii over colorful shapes."
+    "The references confirm the recipe that the record gives. [Malewicz’s naming article](ref:malewicz-glassmorphism-article-2020) lists four traits: background blur, floating layers, vivid color, and a subtle light border. Its header image and the [Smart Calendar App](ref:paperpillar-smart-calendar-app-2020) shot that it cites show all four. The [Hype4 generator](ref:hype4-glassmorphism-generator) turns them into CSS: a 15 % white fill, a 20 px blur, a 20 px radius, and a 1 px border at 30 % white.",
+    "The style names a material that operating systems already had. [iOS 7](ref:ios-7-interface) brought blurred layers to phones in 2013, [Fluent Acrylic](ref:microsoft-fluent-acrylic-material) fixed a recipe of blur, tint, and noise in 2017, and [macOS Big Sur](ref:macos-big-sur-interface) showed it on a vivid wallpaper in 2020. [visionOS](ref:apple-visionos-glass-material) and [Liquid Glass](ref:apple-liquid-glass-2025) continue it, but over rooms and photos and with refraction. The web version depended on [backdrop-filter](ref:css-backdrop-filter-property), which Chrome shipped in 2019.",
+    "Real websites in the full style are rare. About 55 candidates were captured and three were kept: [Genesis](ref:genesis-soil-website) and [Mercury Weather](ref:mercury-weather-website) as clear examples, and [Reflect](ref:reflect-app-website) as borderline. Most product sites use glass only on the navigation bar or show glass as rendered imagery. The css.glass generator passes every metric but was dropped because it describes the style. On real sites the blur sits on a minority of boxes, so the blur threshold was lowered from 0.5 to 0.3.",
+    "Two limits of the measurement remain. A photo backdrop keeps the chromatic share low ([Genesis](ref:genesis-soil-website): 0.10), so judge photo-backed glass by the rubric. Real glass cards often use gradient fills and inset shadows instead of a CSS border, so [Genesis](ref:genesis-soil-website) and [Reflect](ref:reflect-app-website) fail the border and gradient metrics and also pass the [Frutiger Aero](style:frutiger-aero) fingerprint."
   ],
   "rubric": {
     "diagnostic": [
@@ -194,13 +197,13 @@
   "fingerprint": [
     {
       "metric": "surface.blurShare",
-      "min": 0.5,
-      "note": "Most surfaces have a background blur. Frutiger Aero glass uses it on a few panels only. Provisional: set from the specimen, recalibrate with measured references."
+      "min": 0.3,
+      "note": "Background blur sits on the glass panels and chips, not on the text and link boxes inside them. Calibrated from 0.5 to 0.3: the clear captures [Genesis](ref:genesis-soil-website) (0.37) and [Mercury Weather](ref:mercury-weather-website) (0.40) both failed 0.5 for that reason."
     },
     {
       "metric": "color.chromaticShare",
-      "min": 0.35,
-      "note": "A vivid backdrop shows through the glass and covers most of the page area. Provisional: set from the specimen."
+      "min": 0.3,
+      "note": "A vivid backdrop shows through the glass. Calibrated from 0.35 to 0.3 on [Mercury Weather](ref:mercury-weather-website) (0.33, dark violet glow). Photo backdrops fail it: [Genesis](ref:genesis-soil-website) measures 0.10."
     },
     {
       "metric": "surface.radius.median",

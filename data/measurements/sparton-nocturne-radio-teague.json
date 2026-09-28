@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/sparton-nocturne-radio-teague.jpg",
+  "captured": "2026-09-28T17:50:44+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#28486f",
+        "share": 0.208
+      },
+      {
+        "hex": "#436795",
+        "share": 0.155
+      },
+      {
+        "hex": "#d7d3b4",
+        "share": 0.149
+      },
+      {
+        "hex": "#c4c09f",
+        "share": 0.128
+      },
+      {
+        "hex": "#241f18",
+        "share": 0.053
+      },
+      {
+        "hex": "#7f8066",
+        "share": 0.047
+      },
+      {
+        "hex": "#a1a284",
+        "share": 0.035
+      },
+      {
+        "hex": "#adad90",
+        "share": 0.025
+      },
+      {
+        "hex": "#e1dfcd",
+        "share": 0.025
+      },
+      {
+        "hex": "#385983",
+        "share": 0.024
+      }
+    ],
+    "background": "#28486f",
+    "chroma": 0.2,
+    "lightness": 0.49,
+    "chromaticShare": 0.15,
+    "accentChroma": 0.32,
+    "distinct": 11,
+    "hues": 1
+  }
+}

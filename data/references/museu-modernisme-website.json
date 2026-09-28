@@ -1,0 +1,60 @@
+{
+  "id": "museu-modernisme-website",
+  "title": "Museu del Modernisme de Barcelona website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The Barcelona Modernisme museum frames its page between two columns of trencadís mosaic and uses a looping, swelling MM monogram.",
+  "summary": "Page framed by orange and red flower-mosaic columns, with a curving MM monogram and gray condensed type.",
+  "source": {
+    "url": "https://www.mmbcn.cat/",
+    "label": "mmbcn.cat"
+  },
+  "creator": {
+    "name": "Museu del Modernisme de Barcelona",
+    "url": "https://www.mmbcn.cat/"
+  },
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. Nothing covers the page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "art-nouveau",
+      "note": "Borderline: the Catalan branch. The mosaic columns and the looping monogram carry the style, but the colours are saturated red and orange and the type is a condensed sans-serif.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "Two vertical columns of broken-tile mosaic in orange, red, and yellow with white flowers frame the page at left and right.",
+    "The logo is an MM monogram of two looping, swelling strokes in white and red.",
+    "“MUSEUM OF MODERNISM BARCELONA” is set in white and red sans-serif capitals on a gray band; the navigation uses a condensed gothic face.",
+    "The hero banner shows two stained-glass women with flowers in the Mucha manner, around a red panel with white sans-serif type.",
+    "Below, thin gray rules and a carousel of cards."
+  ],
+  "interpretation": [
+    "The mosaic frame and monogram are site chrome in the style; the stained-glass images are exhibition content.",
+    "Measured: square boxes, 3 px borders on 68% of boxes, few shadows, three colour families, and accent chroma 0.63, above the fingerprint’s muted range."
+  ],
+  "borrow": [
+    "Frame a page between two narrow ornamental columns and keep the content column plain.",
+    "Draw a monogram from two looping strokes that swell and thin."
+  ],
+  "images": [
+    {
+      "file": "assets/references/museu-modernisme-website.jpg",
+      "alt": "Museu del Modernisme de Barcelona home page: orange and red flower-mosaic columns at both sides, a white and red looping MM logo, and a banner with two stained-glass women around a red panel.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [mmbcn.cat](https://www.mmbcn.cat/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  }
+}

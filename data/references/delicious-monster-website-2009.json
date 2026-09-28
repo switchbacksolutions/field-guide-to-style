@@ -1,0 +1,64 @@
+{
+  "id": "delicious-monster-website-2009",
+  "title": "Delicious Monster website, 2009",
+  "type": "website",
+  "medium": "website",
+  "lede": "The page for Delicious Library 2, archived June 2009: a wood-grain header with vector flowers above olive panels, and a screenshot of the app’s wooden shelves.",
+  "summary": "Orange wood grain, vector flowers and a skyline, olive panels, and a shelf screenshot.",
+  "source": {
+    "url": "http://www.delicious-monster.com/",
+    "label": "www.delicious-monster.com",
+    "archive": "https://web.archive.org/web/20090618031638/http://www.delicious-monster.com/"
+  },
+  "made": "2009",
+  "moods": [
+    "warm",
+    "whimsical",
+    "organic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "Borderline: the wood-grain header matches the style’s materials and the page shows the app’s bookshelf, but the vector flowers and flat olive panels come from mid-2000s illustration, not from an object metaphor.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A large rounded header shows orange and brown wood grain with a monster mascot, a “2.1” speech bubble, and a vector skyline with flowers and birds.",
+    "Below, olive green panels with thin yellow lines hold the navigation (Library, Company, Help, Buy $40, Download) in small capitals.",
+    "A yellow box holds a screenshot of Delicious Library 2 with book and comic covers on three wooden shelves.",
+    "Feature buttons are olive rectangles with small round icons, divided by a stem-like line with a blue flower."
+  ],
+  "interpretation": [
+    "All metrics except radius fail: the wood grain and panels are bitmap images (49% image share), so no gradient, pattern, or shadow is measured."
+  ],
+  "borrow": [
+    "Pair a real wood-grain header with the product’s own shelf screenshot to connect the site and the app."
+  ],
+  "images": [
+    {
+      "file": "assets/references/delicious-monster-website-2009.jpg",
+      "alt": "Archived Delicious Monster page: an orange wood-grain header with a monster mascot, a 2.1 badge, and a vector skyline with flowers, above olive panels with navigation, a screenshot of Delicious Library 2 showing covers on wooden shelves, and feature buttons.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [archived copy](https://web.archive.org/web/20090618031638/http://www.delicious-monster.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  },
+  "creator": {
+    "name": "Delicious Monster"
+  },
+  "related": "See the app, [Delicious Library](ref:delicious-library-2004)."
+}

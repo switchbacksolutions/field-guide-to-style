@@ -1,0 +1,76 @@
+{
+  "id": "voysey-block-printed-silk-bed-cover",
+  "title": "Voysey block-printed silk bed cover",
+  "type": "object",
+  "medium": "textile",
+  "lede": "A bed cover by C. F. A. Voysey with rows of mirrored orange flowers on blue, held in a cream scroll lattice and edged by denser borders.",
+  "summary": "Mirrored orange flowers and cream scrolls on blue, with patterned side borders. C. F. A. Voysey, designed about 1888.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Bed_cover_LACMA_AC1995.250.46.jpg",
+    "label": "Wikimedia Commons: Bed cover, LACMA AC1995.250.46"
+  },
+  "creator": {
+    "name": "C. F. A. Voysey (designer); G. P. and J. Baker, Ltd.",
+    "url": "https://www.wikidata.org/wiki/Q2601234"
+  },
+  "made": "Designed about 1888; printed about 1895",
+  "moods": [
+    "bold",
+    "rhythmic",
+    "handmade"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Los Angeles County Museum of Art image of AC1995.250.46 through its [Commons copy](https://commons.wikimedia.org/wiki/File:Bed_cover_LACMA_AC1995.250.46.jpg) (1536 × 2032 px; viewed at 1280 px wide). LACMA’s own collection page was not opened; the object data come from the Commons record."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "A Voysey textile with a flat, outlined, mirrored repeat on a lattice, in indigo, orange, and cream.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "LACMA dates it England, about 1895, designed about 1888, block-printed silk, 234.95 × 177.8 cm, Gift of Ellen and Max Palevsky, and names Voysey and G. P. and J. Baker, Ltd. [Commons record](https://commons.wikimedia.org/wiki/File:Bed_cover_LACMA_AC1995.250.46.jpg).",
+    "Wikipedia notes that many of Voysey’s patterns rely on rhythmically contrasted areas of flat, clear colour bounded by dark or pale outlines, with plants and birds as the positive shapes. [Wikipedia: C. F. A. Voysey](https://en.wikipedia.org/wiki/C._F._A._Voysey).",
+    "Commons files the image under Art Nouveau patterns as well as Voysey textiles."
+  ],
+  "observed": [
+    "The central field has a medium blue ground covered by horizontal rows of orange tulip-like flowers, each pair mirrored across a vertical axis.",
+    "Round orange seed heads alternate with the flowers.",
+    "Cream stems curl into symmetrical scrolls and figure-eight knots between the rows.",
+    "A side border on each edge has a denser cream interlace with orange pods, separated from the field by thin orange lines.",
+    "Motifs have flat fills and dark or pale outlines, without shading. The silk shows creases and some fading."
+  ],
+  "interpretation": [
+    "The work fits the rubric’s flat, symmetrical, lattice-based repeat. The orange and blue are lighter and warmer than Morris’s madder and indigo.",
+    "The curling scrolls explain why Commons also files it under Art Nouveau: the curves are there, but each is mirrored and locked into rows."
+  ],
+  "borrow": [
+    "Mirror each motif pair and stack the pairs in rows to keep a lively curve static.",
+    "Edge a field with a narrower, denser border and separate the two with a thin line in the accent colour."
+  ],
+  "images": [
+    {
+      "file": "assets/references/voysey-block-printed-silk-bed-cover.jpg",
+      "alt": "Block-printed silk bed cover with a blue ground, rows of mirrored orange tulip-like flowers and round seed heads joined by cream scrolling stems, and a denser cream-and-orange border down each side.",
+      "width": 1210,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "C. F. A. Voysey for G. P. and J. Baker, bed cover, designed about 1888, printed about 1895. Los Angeles County Museum of Art, AC1995.250.46. [Commons copy of the LACMA image](https://commons.wikimedia.org/wiki/File:Bed_cover_LACMA_AC1995.250.46.jpg), public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Bed_cover_LACMA_AC1995.250.46.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons tags the image {{PD-LACMA}}, LACMA’s public-domain image release. Voysey died in 1941, so his designs entered the public domain in the United Kingdom at the end of 2011; the work was made before 1900, so it is also in the public domain in the United States."
+  },
+  "identifiers": {
+    "lacma": "AC1995.250.46",
+    "commons": "File:Bed cover LACMA AC1995.250.46.jpg"
+  }
+}

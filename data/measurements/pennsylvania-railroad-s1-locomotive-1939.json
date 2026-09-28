@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/pennsylvania-railroad-s1-locomotive-1939.jpg",
+  "captured": "2026-09-28T17:50:42+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#a9a8a6",
+        "share": 0.289
+      },
+      {
+        "hex": "#9b9a98",
+        "share": 0.193
+      },
+      {
+        "hex": "#504f4e",
+        "share": 0.127
+      },
+      {
+        "hex": "#292828",
+        "share": 0.084
+      },
+      {
+        "hex": "#898886",
+        "share": 0.075
+      },
+      {
+        "hex": "#424140",
+        "share": 0.065
+      },
+      {
+        "hex": "#5f5e5c",
+        "share": 0.034
+      },
+      {
+        "hex": "#373635",
+        "share": 0.03
+      },
+      {
+        "hex": "#6b6a68",
+        "share": 0.03
+      },
+      {
+        "hex": "#1d1c1c",
+        "share": 0.023
+      }
+    ],
+    "background": "#a9a8a6",
+    "chroma": 0.01,
+    "lightness": 0.47,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 10,
+    "hues": 0
+  }
+}

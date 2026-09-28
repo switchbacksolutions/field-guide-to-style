@@ -1,0 +1,55 @@
+{
+  "id": "hype4-glassmorphism-generator",
+  "title": "Hype4 Academy glassmorphism CSS generator",
+  "type": "website",
+  "medium": "software",
+  "lede": "The web tool from the style’s namer that turns blur and transparency sliders into a copyable glass-card CSS rule.",
+  "summary": "Michał Malewicz’s Hype4 glassmorphism generator with its default glass-card CSS.",
+  "source": {
+    "url": "https://hype4.academy/tools/glassmorphism-generator",
+    "label": "Hype4 Academy (SquarePlanet)"
+  },
+  "creator": {
+    "name": "Hype4 Academy / Michał Malewicz",
+    "url": "https://hype4.academy/"
+  },
+  "moods": [
+    "airy",
+    "technical"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Read the page’s server-rendered HTML on 2026-09-28 and inspected its hero image glassmorphismHero.png (1602 × 870) in a scratchpad copy. Not stored. The interactive generator was not operated. The page is now branded SquarePlanet."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "glassmorphism",
+      "note": "Documents the style as code, from the person who named it. The CSS values it outputs are a direct recipe for the specimen.",
+      "basis": "agent",
+      "qualifier": "tool"
+    }
+  ],
+  "context": [
+    "The page calls itself “The original generator for Glassmorphism” and says it was “made by the person who created the glassmorphism name”. It credits Malewicz with coining the term and dates the [initial article](ref:malewicz-glassmorphism-article-2020) to November 2020. [Hype4 Academy](https://hype4.academy/tools/glassmorphism-generator).",
+    "Its default output (blur 20, refraction 0.15, depth 10) is `background: rgba(255, 255, 255, 0.15)`, `backdrop-filter: blur(20px)`, `border-radius: 20px`, `border: 1px solid rgba(255, 255, 255, 0.3)`, and a `0 8px 32px rgba(0, 0, 0, 0.1)` shadow with inset white highlights, plus 1 px gradient lines on the top and left edges.",
+    "It depends on the CSS [backdrop-filter](ref:css-backdrop-filter-property) property."
+  ],
+  "observed": [
+    "Hero image: a dark ‘Settings’ panel with Blur value, Refraction, and Depth sliders sits over a black 3D keyboard with one red key.",
+    "The part of the keyboard behind the panel is blurred and dimmed; the part outside it is sharp.",
+    "The panel has large rounded corners and a thin, lighter edge. Slider tracks are white with lime-green fills and white round thumbs."
+  ],
+  "interpretation": [
+    "The generator’s defaults (15 % white fill, 20 px blur, 20 px radius, 1 px white border at 30 %) sit inside the ranges in the style’s rules. The newer ‘refraction’ control and edge highlights move the output toward Liquid Glass."
+  ],
+  "borrow": [
+    "Start a glass card from: 15 % white fill, 20 px backdrop blur, 20 px radius, 1 px border at 30 % white, and a 32 px soft shadow at 10 % black."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Hype4 Academy / SquarePlanet; copyrighted. Link and quotation only."
+  }
+}

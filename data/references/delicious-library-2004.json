@@ -1,0 +1,48 @@
+{
+  "id": "delicious-library-2004",
+  "title": "Delicious Library, 2004",
+  "type": "product",
+  "medium": "software",
+  "lede": "A Mac cataloguing app that showed books, films, and games as photoreal covers on a wooden bookshelf.",
+  "summary": "Photoreal media covers on a wooden shelf. Delicious Monster, 2004.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Delicious_Monster",
+    "label": "Wikipedia: Delicious Monster"
+  },
+  "creator": {
+    "name": "Delicious Monster (Wil Shipley and Mike Matas)"
+  },
+  "made": "First released November 2004; Delicious Library 2 in 2008",
+  "moods": [
+    "warm",
+    "collectible",
+    "crafted"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "The archived 2009 website ([capture](ref:delicious-monster-website-2009)) shows a small screenshot of the shelves, too small to describe. Based on Wikipedia and TechCrunch (2010)."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "A precursor on the Mac: the wooden bookshelf that iBooks later resembled.",
+      "basis": "agent",
+      "qualifier": "precursor"
+    }
+  ],
+  "context": [
+    "Delicious Monster was founded by Wil Shipley and Mike Matas; Matas left in 2005 to work for Apple. Delicious Library won Apple Design Awards, including Best Mac OS X User Experience (2005). [Wikipedia: Delicious Monster](https://en.wikipedia.org/wiki/Delicious_Monster).",
+    "The software was first released in November 2004; Delicious Library 2 was released in 2008. [Wikipedia: Delicious Library](https://en.wikipedia.org/wiki/Delicious_Library).",
+    "TechCrunch (27 January 2010): “the bookshelf view in iBooks is nearly identical to the main bookshelf view used in Delicious Library.” [TechCrunch](https://techcrunch.com/2010/01/27/think-ibooks-looks-familiar-youre-not-the-only-one/)."
+  ],
+  "interpretation": [
+    "The link from this app to [iBooks](ref:ibooks-ipad-2010) through one designer shows how the style moved from independent Mac software into Apple’s own apps."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Delicious Monster software; copyrighted. No image is stored here."
+  }
+}

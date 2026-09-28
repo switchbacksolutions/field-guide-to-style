@@ -1,0 +1,62 @@
+{
+  "id": "rodchenko-lef-journal-cover-1924",
+  "title": "Lef journal, issue 4",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "Alexander Rodchenko’s cover for the journal of the Left Front of the Arts splits its huge block-letter title into red and black halves.",
+  "summary": "Giant square block capitals ЛЕФ, red above and black below, with a stepped poem, a red 4, and a black bar. Rodchenko, 1924.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/199233",
+    "label": "Art Institute of Chicago, 2009.485"
+  },
+  "creator": {
+    "name": "Alexander Rodchenko (wrappers); Vladimir Mayakovsky (editor)",
+    "url": "https://www.wikidata.org/wiki/Q312631"
+  },
+  "made": "1923–1924 (Art Institute of Chicago, for the set of seven issues)",
+  "moods": [
+    "typographic",
+    "declarative",
+    "bold"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the Art Institute of Chicago image of the cover of issue 4 from its complete set, 2009.485 (843 × 1194 px), in a scratch folder. No image is stored. The issue number is read from the cover; the year of issue 4 (1924) is not stated on the museum record."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "constructivism",
+      "note": "A canonical constructivist journal cover: red and black on paper, giant block capitals, a heavy black bar, and stepped text.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Art Institute of Chicago holds a complete set of the seven issues of *Lef*, 1923–24, with “2-color zincograph wrappers designed by Aleksandr Rodchenko” and contributions by Mayakovsky, Pasternak, Kruchenykh, Khlebnikov, Babel, Osip Brik, Tretyakov, and others. [Art Institute of Chicago](https://www.artic.edu/artworks/199233).",
+    "The same record lists illustrations by Rodchenko, Liubov Popova, Klutsis, Varvara Stepanova, and Anton Lavinskii. [Art Institute of Chicago](https://www.artic.edu/artworks/199233)."
+  ],
+  "observed": [
+    "The lower half of the cover carries “ЛЕФ” in giant square block capitals. The top half of each letter is red and the bottom half is black, split on one horizontal line.",
+    "A thick vertical black bar runs down the left side of the upper half.",
+    "A poem in heavy black sans-serif lowercase steps down and to the right in short lines. The words “Лефа” and “вперед” are picked out in red.",
+    "“ДАЛЬШЕ!” is set in small red spaced capitals at the top left. A large red “4” sits at the top right.",
+    "The paper is a warm, slightly flecked tan. Red and black are the only inks."
+  ],
+  "interpretation": [
+    "The cover has no diagonal. Its movement comes from the stepped poem and the split between red and black, which shows that the style’s energy can come from scale and color alone.",
+    "The block letters are built from rectangles, like the letters Lissitzky assembled from type material in [Dlia golosa](ref:lissitzky-dlia-golosa-1923), published the same year."
+  ],
+  "borrow": [
+    "Set a short masthead in giant square capitals and split it horizontally into red and black.",
+    "Highlight the key words of a paragraph in red instead of bold or italic."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Rodchenko died on 3 December 1956. Under Article 1281 of the Russian Civil Code his works stay protected in Russia until at least the end of 2026, and until the end of 2030 if he counts as having worked during the Great Patriotic War (life + 70 + 4 years). The museum marks the object as not in the public domain."
+  },
+  "identifiers": {
+    "aic": "199233"
+  }
+}

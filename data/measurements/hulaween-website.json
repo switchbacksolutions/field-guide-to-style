@@ -1,0 +1,165 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://hulaween.com/",
+  "title": "Hulaween | Oct 22-25, 2026 | Live Oak, FL",
+  "captured": "2026-09-28T17:26:02.500Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "ABC Gravity Upright Variable",
+        "share": 0.68
+      },
+      {
+        "family": "Archivo Narrow",
+        "share": 0.18
+      },
+      {
+        "family": "Poppins",
+        "share": 0.13
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 32,
+    "sizeRange": 2,
+    "scaleRatio": 1.22,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0.063,
+    "uppercaseShare": 0.46,
+    "monoShare": 0,
+    "centerShare": 0.93
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#252840",
+        "share": 0.401
+      },
+      {
+        "hex": "#99dbec",
+        "share": 0.166
+      },
+      {
+        "hex": "#16024a",
+        "share": 0.132
+      },
+      {
+        "hex": "#25bee7",
+        "share": 0.074
+      },
+      {
+        "hex": "#000000",
+        "share": 0.051
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.043
+      },
+      {
+        "hex": "#ff60c6",
+        "share": 0.04
+      },
+      {
+        "hex": "#ff9459",
+        "share": 0.028
+      },
+      {
+        "hex": "#34dc8f",
+        "share": 0.021
+      },
+      {
+        "hex": "#383a60",
+        "share": 0.019
+      }
+    ],
+    "background": "#252840",
+    "text": "#25bee7",
+    "contrast": 6.6,
+    "chroma": 0.26,
+    "lightness": 0.38,
+    "chromaticShare": 0.34,
+    "accentChroma": 0.52,
+    "distinct": 9,
+    "hues": 5,
+    "imageShare": 0.31,
+    "gradientShare": 0.04,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 42,
+    "radius": {
+      "median": 0,
+      "max": 27,
+      "roundShare": 0.48
+    },
+    "border": {
+      "share": 0.5,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0.05,
+      "hardShare": 0,
+      "medianBlur": 10,
+      "medianOffset": 1
+    },
+    "gradientShare": 0.43,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#090a0c",
+        "share": 0.474
+      },
+      {
+        "hex": "#9adaec",
+        "share": 0.136
+      },
+      {
+        "hex": "#262742",
+        "share": 0.093
+      },
+      {
+        "hex": "#fbfdfd",
+        "share": 0.034
+      },
+      {
+        "hex": "#0c101d",
+        "share": 0.031
+      },
+      {
+        "hex": "#151f41",
+        "share": 0.019
+      },
+      {
+        "hex": "#393a62",
+        "share": 0.018
+      },
+      {
+        "hex": "#2f9ba1",
+        "share": 0.018
+      },
+      {
+        "hex": "#677790",
+        "share": 0.017
+      },
+      {
+        "hex": "#515479",
+        "share": 0.016
+      }
+    ],
+    "background": "#090a0c",
+    "chroma": 0.12,
+    "lightness": 0.28,
+    "chromaticShare": 0.21,
+    "accentChroma": 0.37,
+    "distinct": 5,
+    "hues": 2
+  }
+}

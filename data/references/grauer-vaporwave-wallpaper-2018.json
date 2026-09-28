@@ -1,0 +1,66 @@
+{
+  "id": "grauer-vaporwave-wallpaper-2018",
+  "title": "Vaporwave wallpaper (Mike Grauer Jr)",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A free 3D-rendered desktop wallpaper: a striped orange sun over a magenta plain crossed by a warped ribbon grid, under a starry violet sky.",
+  "summary": "Striped sun, magenta plain, warped teal-green grid, violet starry sky. Free wallpaper, 2018.",
+  "source": {
+    "url": "https://www.flickr.com/photos/mike_grauer/26310058937/",
+    "label": "Flickr: Mike Grauer Jr"
+  },
+  "creator": {
+    "name": "Mike Grauer Jr",
+    "url": "https://www.flickr.com/photos/mike_grauer/"
+  },
+  "made": "March 28, 2018 (date given on Commons)",
+  "moods": [
+    "dreamlike",
+    "retro",
+    "saturated"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1920 × 1080 rendering of the 7680 × 4320 original through [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vaporwave_WP3_Print.jpg) and stored a reduced copy."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Partial fit: the author calls it a vaporwave wallpaper and it has the grid floor and striped sun, but it has no collage, statue, or software chrome, and the grid-and-sun scene alone is shared with synthwave. The violet sky, not black, keeps it on the vaporwave side.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The author’s description reads: “A new Vaporwave wallpaper! It is free and put under Creative Commons.” The CC BY 2.0 license was confirmed by Commons’ Flickr review bot on December 14, 2023. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vaporwave_WP3_Print.jpg)."
+  ],
+  "observed": [
+    "The upper half is a flat violet sky full of small white stars.",
+    "A large orange-to-yellow sphere with thin horizontal gaps across its lower half sits left of centre on the horizon.",
+    "The ground is a magenta plain, lighter toward the horizon, covered by a grid of twisted ribbons in green, teal, and pink that rises into jagged peaks at the right."
+  ],
+  "interpretation": [
+    "A clean example of the grid-and-sun motif that vaporwave shares with synthwave. The rubric separates them by the sky: violet and pastel here, black in synthwave."
+  ],
+  "borrow": [
+    "Cut three or four horizontal gaps through the lower half of a sun disc to get the striped-sun motif without a separate stripe layer."
+  ],
+  "images": [
+    {
+      "file": "assets/references/grauer-vaporwave-wallpaper-2018.jpg",
+      "alt": "3D-rendered landscape: a striped orange sun on the horizon, a magenta plain crossed by a warped green and teal ribbon grid rising into peaks, and a violet sky with stars.",
+      "width": 1600,
+      "height": 900,
+      "kind": "source-image",
+      "caption": "Vaporwave wallpaper by Mike Grauer Jr, 2018. CC BY 2.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vaporwave_WP3_Print.jpg), from [Flickr](https://www.flickr.com/photos/mike_grauer/26310058937/).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Vaporwave_WP3_Print.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-2.0",
+    "statement": "Published by the author under CC BY 2.0 on Flickr; license reviewed on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vaporwave_WP3_Print.jpg). Credit: Mike Grauer Jr."
+  }
+}

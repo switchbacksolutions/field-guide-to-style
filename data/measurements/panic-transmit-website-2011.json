@@ -1,0 +1,165 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20110531073504if_/http://www.panic.com/transmit/",
+  "title": "Panic - Transmit - The ultimate Mac OS X FTP + SFTP + S3 app",
+  "captured": "2011-05-31T07:35:13.759Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "HelveticaNeue",
+        "share": 0.85
+      },
+      {
+        "family": "HelveticaNeue-Medium",
+        "share": 0.12
+      },
+      {
+        "family": "HelveticaNeue-Bold",
+        "share": 0.03
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 32,
+    "sizeRange": 2.29,
+    "scaleRatio": 1.13,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.04,
+    "monoShare": 0,
+    "centerShare": 0.43
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ebebeb",
+        "share": 0.386
+      },
+      {
+        "hex": "#414141",
+        "share": 0.208
+      },
+      {
+        "hex": "#111111",
+        "share": 0.099
+      },
+      {
+        "hex": "#333333",
+        "share": 0.099
+      },
+      {
+        "hex": "#0d4883",
+        "share": 0.032
+      },
+      {
+        "hex": "#8d8d8d",
+        "share": 0.029
+      },
+      {
+        "hex": "#d1d1d1",
+        "share": 0.027
+      },
+      {
+        "hex": "#3870a3",
+        "share": 0.024
+      },
+      {
+        "hex": "#1e5d96",
+        "share": 0.018
+      },
+      {
+        "hex": "#003072",
+        "share": 0.018
+      }
+    ],
+    "background": "#ebebeb",
+    "text": "#414141",
+    "contrast": 8.6,
+    "chroma": 0.05,
+    "lightness": 0.53,
+    "chromaticShare": 0.11,
+    "accentChroma": 0.49,
+    "distinct": 8,
+    "hues": 4,
+    "imageShare": 0.49,
+    "gradientShare": 0.24,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 17,
+    "radius": {
+      "median": 4,
+      "max": 10,
+      "roundShare": 0.53
+    },
+    "border": {
+      "share": 0.53,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0.94,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ebebeb",
+        "share": 0.429
+      },
+      {
+        "hex": "#323131",
+        "share": 0.124
+      },
+      {
+        "hex": "#262626",
+        "share": 0.104
+      },
+      {
+        "hex": "#151515",
+        "share": 0.094
+      },
+      {
+        "hex": "#c6c7c8",
+        "share": 0.03
+      },
+      {
+        "hex": "#adafb2",
+        "share": 0.029
+      },
+      {
+        "hex": "#dddddd",
+        "share": 0.027
+      },
+      {
+        "hex": "#959698",
+        "share": 0.019
+      },
+      {
+        "hex": "#3f3e3f",
+        "share": 0.019
+      },
+      {
+        "hex": "#fefefe",
+        "share": 0.018
+      }
+    ],
+    "background": "#ebebeb",
+    "chroma": 0.03,
+    "lightness": 0.61,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.44,
+    "distinct": 7,
+    "hues": 3
+  }
+}

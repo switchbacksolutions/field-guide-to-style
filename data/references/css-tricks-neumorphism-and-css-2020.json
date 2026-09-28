@@ -1,0 +1,45 @@
+{
+  "id": "css-tricks-neumorphism-and-css-2020",
+  "title": "“Neumorphism and CSS”",
+  "type": "website",
+  "medium": "editorial",
+  "lede": "A March 2020 CSS-Tricks article that turned the style into CSS and set it against Material Design.",
+  "summary": "Adrian Bece’s CSS-Tricks article: paired box-shadows, a comparison table with Material Design, and accessibility cautions.",
+  "source": {
+    "url": "https://css-tricks.com/neumorphism-and-css/",
+    "label": "CSS-Tricks"
+  },
+  "creator": {
+    "name": "Adrian Bece"
+  },
+  "made": "2020 (published 20 March 2020)",
+  "moods": [
+    "soft"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Text read from the live page on 2026-09-28; the date is from its `article:published_time` metadata. Figures and demos were not inspected."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "A widely cited developer text that defines the style by its two shadows, one light and one dark, and by elements that share the background color.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The article says the style “got its name in a UX Collective post from December 2019” ([Malewicz](ref:malewicz-neumorphism-article-2019)) and that “Adam Giebl created an online generator for it” (neumorphism.io).",
+    "Its comparison table: in Material Design “elements have a single or multiple dark shadows around them”; in neumorphism “elements have two shadows: one light and one dark”. Background colors “must be the same (or very similar) as the background color of the parent element”, and “rounded edges are a defining quality”.",
+    "It allows an “optional subtle border to improve contrast”, and credits [Alexander Plyuto](ref:plyuto-skeuomorph-mobile-banking-2019) with having “championed and evolved neomorphic designs on his Dribbble account”."
+  ],
+  "interpretation": [
+    "Evidence that by March 2020 the style had moved from Dribbble concepts into web practice, with CSS `box-shadow` pairs as its standard implementation."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© CSS-Tricks / the author. Link and quotation only."
+  }
+}

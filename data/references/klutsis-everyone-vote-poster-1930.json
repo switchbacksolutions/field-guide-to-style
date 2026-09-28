@@ -1,0 +1,65 @@
+{
+  "id": "klutsis-everyone-vote-poster-1930",
+  "title": "Worker Men and Women: Everyone Vote in the Soviet Elections",
+  "titleBreak": "Worker Men and Women:|Everyone Vote in the Soviet Elections",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Gustav Klutsis multiplies one photographed raised hand into a crowd of hands and sets the slogan in white capitals on the diagonal across a solid red field.",
+  "summary": "A giant black-and-white photographed hand over a crowd of raised hands, with white condensed capitals on the diagonal across a red field. Gustav Klutsis, 1930.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/199171",
+    "label": "Art Institute of Chicago, 2011.876"
+  },
+  "creator": {
+    "name": "Gustav Klutsis (Gustavs Klucis)",
+    "url": "https://www.wikidata.org/wiki/Q1341721"
+  },
+  "made": "1930 (Art Institute of Chicago)",
+  "moods": [
+    "agitational",
+    "collective",
+    "urgent"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the Art Institute of Chicago image of its copy, 2011.876 (843 × 1199 px, the size the museum serves for works not in the public domain), in a scratch folder. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "constructivism",
+      "note": "A canonical Klutsis photomontage poster: one red field, cut-out black-and-white photographs, and heavy condensed capitals on the diagonal.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Art Institute of Chicago records the poster as color offset lithograph on cream wove paper, 119.7 × 84.7 cm, 1930, and marks it as not in the public domain. [Art Institute of Chicago](https://www.artic.edu/artworks/199171).",
+    "The same museum holds a 1930 gelatin silver print with red gouache by Klutsis, *We Shall Fulfill the Country’s Coal Debt* ([2011.872](https://www.artic.edu/artworks/199147)), which shares its title with his 1930 poster ([2011.865](https://www.artic.edu/artworks/199166)) and shows the photographic stage of his method."
+  ],
+  "observed": [
+    "The ground is a solid red from edge to edge.",
+    "A giant photographed hand, cut out along its outline, rises diagonally from the lower right to the upper left and fills most of the sheet.",
+    "At its wrist, the hand dissolves into a photomontage of many smaller raised hands and faces of workers.",
+    "“РАБОЧИЕ и РАБОТНИЦЫ” runs down to the right in white condensed capitals, with oversized initial letters.",
+    "“ВСЕ НА ПЕРЕВЫБОРЫ СОВЕТОВ” runs up to the right at the lower left on the same diagonal, ending in a large “СОВЕТОВ”.",
+    "The signature “КЛУЦИС” runs vertically in small capitals at the right edge.",
+    "The only hue is the red; the photographs are black and white, and the type is the cream of the paper."
+  ],
+  "interpretation": [
+    "Here red is the whole ground, not an accent, which is the upper end of the style’s range for chromatic area. The poster shows the style at its most photographic, about 1930.",
+    "The single hand that becomes many hands is the core device of Klutsis’s photomontage: repetition and scale turn a document into a slogan."
+  ],
+  "borrow": [
+    "Use one full-bleed red field with a single large cut-out photograph and white type.",
+    "Set a two-part slogan on one diagonal axis, one part above and one below the image, with oversized initials."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Klutsis was shot in 1938 and posthumously rehabilitated on 25 August 1956. Under Article 1281 of the Russian Civil Code the term for a rehabilitated author runs from the rehabilitation, so his works stay protected in Russia until the end of 2026 and enter the public domain there on 1 January 2027 (see the Commons template PD-Russia-expired). The poster was published in 1930, before 1931, so it is probably in the public domain in the United States. Recheck in 2027 for tier A."
+  },
+  "identifiers": {
+    "aic": "199171"
+  }
+}

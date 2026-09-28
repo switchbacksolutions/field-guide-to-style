@@ -1,0 +1,62 @@
+{
+  "id": "floral-shoppe-cover-2011",
+  "title": "Floral Shoppe cover art",
+  "type": "print",
+  "medium": "packaging",
+  "lede": "Macintosh Plus’s album art: a Helios bust on a pink-and-black checkered floor beside a video still of the Twin Towers, with the title in green katakana.",
+  "summary": "Helios bust, pink checkered floor, Twin Towers video still, green Japanese title. The genre’s template, 2011.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Floral_Shoppe",
+    "label": "Wikipedia: Floral Shoppe"
+  },
+  "creator": {
+    "name": "Macintosh Plus (Ramona Langley, also known as Vektroid)",
+    "url": "https://vektroid.bandcamp.com/album/floral-shoppe"
+  },
+  "made": "December 9, 2011 (digital release); 2012 cassette on Beer on the Rug",
+  "moods": [
+    "nostalgic",
+    "ironic",
+    "surreal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 × 1180 front J-card scan of the 2012 Beer on the Rug cassette (catalogue BOTR009) in the [Cover Art Archive](https://musicbrainz.org/release/165a3396-c023-42f5-a1fb-174b262ef862/cover-art), in a scratchpad copy. Compared it with the 600 × 600 cover of the 2011 digital release in the same archive and with the current 1200 × 1200 Bandcamp art, a later variant in which the bust has no face and a compact-disc frame surrounds the image. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Wikipedia calls it the first album “properly considered of the genre” and its cover the image most associated with vaporwave: classical bust, pastel pink, checkered floor, Japanese text, and pre-2001 media.",
+      "basis": "agent",
+      "qualifier": "template"
+    }
+  ],
+  "context": [
+    "Released digitally on December 9, 2011, by Beer on the Rug. Wikipedia says it “established a blueprint for the genre” and that some albums, “including Floral Shoppe, depict the intact Twin Towers on their covers.” [Wikipedia: Floral Shoppe](https://en.wikipedia.org/wiki/Floral_Shoppe); [Wikipedia: Vaporwave](https://en.wikipedia.org/wiki/Vaporwave).",
+    "The bust is a Roman copy of the head of Helios, which is itself public domain; the cover as a whole is a copyrighted composition. [Wikipedia: Helios (statue)](https://en.wikipedia.org/wiki/Helios_(statue))."
+  ],
+  "observed": [
+    "A cut-out marble head on a white plinth fills the left half of the square.",
+    "The background is flat salmon pink; a black-and-pink checkered floor recedes to a horizon at the lower right.",
+    "A blurred, orange-and-violet video still shows a city skyline with the Twin Towers over water.",
+    "The title is set in mint-green katakana and Latin capitals (MACプラス, フローラルの専門店) beside a green isometric cube icon and a green rule.",
+    "On the cassette card a Sega Saturn manual header and “compact disc 取扱説明書” sit at the top, and the spine runs a full rainbow gradient."
+  ],
+  "interpretation": [
+    "Every later cliché is already here: statue, pink, checkerboard, Japanese title, degraded video, and a quoted consumer-electronics label. The composition is sparse and flat, closer to a desktop collage than a designed sleeve."
+  ],
+  "borrow": [
+    "Pair one cut-out object with one degraded video frame on a flat pastel ground, and add a perspective checkerboard in the lower third."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Copyrighted album art. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q18160547",
+    "musicbrainz-release": "165a3396-c023-42f5-a1fb-174b262ef862"
+  }
+}

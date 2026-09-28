@@ -1,0 +1,61 @@
+{
+  "id": "tamagotchi-1997",
+  "title": "Tamagotchi",
+  "type": "product",
+  "medium": "product",
+  "lede": "Bandai’s egg-shaped virtual pet, sold as “the tiny pet from cyberspace”, made a pocket blobject out of a digital toy.",
+  "summary": "Pink egg-shaped plastic toy with a small LCD and bead chain, on a blister card. Bandai, 1996–1997.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O37315/tamagotchi-video-game-yokoi-akihiro/",
+    "label": "V&A: Tamagotchi, B.239-1997"
+  },
+  "creator": {
+    "name": "Aki Maita and Akihiro Yokoi, for Bandai"
+  },
+  "made": "1997 (V&A copy); first released in Japan on 23 November 1996 per Wikipedia",
+  "moods": [
+    "playful",
+    "cute",
+    "techno-optimistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A photograph of object B.239-1997 (image 2006AE9151, 1200 × 1600), which shows the toy in its blister pack, in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Partial fit: an egg-shaped blobject in candy pink and lime with a clear plastic bubble, marketed as coming from cyberspace. The card art is hand-drawn, not techno.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "The V&A calls it “one of the biggest toy fads of the late-1990s” and describes an egg-shaped virtual pet “made from pink and green plastic” with an LCD screen and a metal chain, sealed in a clear bubble pack printed in five languages. [V&A B.239-1997](https://collections.vam.ac.uk/item/O37315/tamagotchi-video-game-yokoi-akihiro/).",
+    "Wikipedia gives the Japanese release as 23 November 1996 and the United States release as 1 May 1997, and says nearly 40 million units had sold by spring 1998. [Wikipedia: Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi)."
+  ],
+  "observed": [
+    "The toy is a hot-pink egg with a lime-green face ring printed with numbers and a small square LCD in the center.",
+    "A silver bead chain loops from its top.",
+    "The blister pack is a clear plastic bubble with ribbed, rounded edges on a white card.",
+    "The card shows the Tamagotchi name in hand-drawn magenta capitals and three loose crayon-style drawings of an egg hatching; the slogan reads “The tiny pet from cyberspace”."
+  ],
+  "interpretation": [
+    "The object, not the packaging, carries the style: a soft egg in candy colors that holds a digital creature. It predates the iMac, so it shows the candy blobject already in toys in 1996–97.",
+    "The crayon card art is a counter-example to the techno side of Y2K."
+  ],
+  "borrow": [
+    "Frame a small pixel display inside a rounded, brightly colored shape.",
+    "Use a clear, ribbed plastic bubble as a frame for a product image."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is © Victoria and Albert Museum, London; the toy and its packaging belong to Bandai."
+  },
+  "identifiers": {
+    "vam": "O37315"
+  }
+}

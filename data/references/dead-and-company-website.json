@@ -1,0 +1,65 @@
+{
+  "id": "dead-and-company-website",
+  "title": "Dead & Company website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The band’s site after its 2026 Golden Gate Park shows: fat, outlined concert-poster lettering and a stippled drawing on full-bleed yellow.",
+  "summary": "Full-bleed yellow, pink and light-blue outlined display lettering, and a stippled Golden Gate Bridge.",
+  "source": {
+    "url": "https://deadandcompany.com/",
+    "label": "deadandcompany.com"
+  },
+  "creator": {
+    "name": "Dead & Company"
+  },
+  "moods": [
+    "saturated",
+    "retro",
+    "festive"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "Borderline: a full-bleed saturated ground, centered layout, and fat display lettering with echo outlines, but the letters stay legible and the body type is a clean geometric sans. The colors do not vibrate.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A saturated golden yellow fills the whole viewport.",
+    "DEAD & COMPANY is centered at the top in very fat, tight capitals filled with pink, with a black outline and a black offset shadow.",
+    "GOLDEN GATE PARK sits below in tall condensed capitals filled with light blue and outlined in black, with an offset black shadow.",
+    "Smaller lines, CELEBRATING 60 YEARS OF THE GRATEFUL DEAD’S MUSIC and SAN FRANCISCO, CALIFORNIA, are in a wide black geometric sans.",
+    "A stippled drawing of the Golden Gate Bridge in light blue, green, and black, with a DEADCO blimp, fills the lower half.",
+    "The navigation at top right is plain black text and social icons."
+  ],
+  "interpretation": [
+    "The page borrows the poster tradition of its own subject, the Grateful Dead, through lettering and a colored ground. It stops short of the style’s distortion and ornament.",
+    "Measured values: `color.chromaticShare` 0.73 and `type.centerShare` 1.0 pass; `color.hues` is 2, `surface.radius.median` is 0, and `color.patternShare` is 0, because the stipple is an image."
+  ],
+  "borrow": [
+    "Give display lettering a fill color, a black outline, and an offset black shadow for a poster look that stays legible.",
+    "Use a saturated yellow as the page ground instead of white."
+  ],
+  "images": [
+    {
+      "file": "assets/references/dead-and-company-website.jpg",
+      "alt": "Dead and Company home page: yellow background, pink outlined DEAD & COMPANY lettering, light-blue outlined GOLDEN GATE PARK lettering, a thank-you line in black, and a stippled drawing of the Golden Gate Bridge with a blimp.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [deadandcompany.com](https://deadandcompany.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners. Screenshot captured for commentary."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

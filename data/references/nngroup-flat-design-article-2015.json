@@ -1,0 +1,49 @@
+{
+  "id": "nngroup-flat-design-article-2015",
+  "title": "NN/g, “Flat Design: Its Origins, Its Problems, and Why Flat 2.0 Is Better for Users”",
+  "type": "website",
+  "medium": "editorial",
+  "lede": "A usability firm’s definition of flat design, its dating, and its main usability cost.",
+  "summary": "Nielsen Norman Group, 2015: flat design defined by the absence of 3D effects, dated to about 2012, criticised for weak click signifiers.",
+  "source": {
+    "url": "https://www.nngroup.com/articles/flat-design/",
+    "label": "Nielsen Norman Group",
+    "archive": "https://web.archive.org/web/2016/https://www.nngroup.com/articles/flat-design/"
+  },
+  "creator": {
+    "name": "Kate Moran, Nielsen Norman Group",
+    "url": "https://www.nngroup.com/articles/author/kate-moran/"
+  },
+  "made": "2015",
+  "moods": [
+    "direct"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Article text read on 2026-09-28. The page metadata gives the author (Kate Moran) and the publication date (27 September 2015, modified 6 January 2018). The article’s screenshots were not inspected at full size."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "An authoritative UX source that defines the style, dates it, names Metro as its main origin, and names flat 2.0 and Material Design as its successors.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Definition: flat design is “defined by the absence of glossy or three-dimensional visual effects in the graphical elements of a web page”, and is “commonly interpreted as a reactionary movement against 3D, skeuomorphic, and realistic design styles”.",
+    "Origins: “The release of Microsoft’s Metro design language and Windows 8 in 2011 was particularly influential in popularizing flat design.” Microsoft’s documentation called the style “authentically digital”.",
+    "It uses Apple’s home page as a benchmark: glossy tabs in 2007, a glossy bar in 2012, and an “entirely flat” navigation bar in 2015.",
+    "Main problem: “the lack of signifiers on clickable elements”, which causes click uncertainty.",
+    "It names “semi flat”, “almost flat”, or “flat 2.0” as a later branch with subtle shadows and layers, calls long shadows (popular around 2013) “flat 2.0 gone wrong”, and calls Google’s Material Design “flat 2.0 with the right priorities”."
+  ],
+  "interpretation": [
+    "The source for the style’s dating, its reaction against skeuomorphism, and the rule not to remove every signifier from links and buttons. Its account of flat 2.0 supports treating Material Design as a related branch."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Nielsen Norman Group. Link and quotation only."
+  }
+}

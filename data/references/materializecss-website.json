@@ -1,0 +1,64 @@
+{
+  "id": "materializecss-website",
+  "title": "Materialize documentation website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The home page of Materialize, a CSS framework based on Material Design, built with its own components.",
+  "summary": "Coral raised buttons with soft shadows and all-capital labels, a white side navigation, and flat coral icons.",
+  "source": {
+    "url": "https://materializecss.com/",
+    "label": "materializecss.com"
+  },
+  "creator": {
+    "name": "Materialize"
+  },
+  "moods": [
+    "bright",
+    "orderly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "Clear example: raised buttons with soft, short shadows, all-capital medium labels, square corners, and one coral primary with a teal secondary. It is a framework’s own documentation, but the page is built with the framework.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Materialize repository on GitHub was created on 12 September 2014 and describes the project as “a CSS Framework based on Material Design”, under the MIT license. [GitHub: Dogfalo/materialize](https://github.com/Dogfalo/materialize)."
+  ],
+  "observed": [
+    "A white side navigation holds a coral logo, a version menu with an underline, a search field, and a plain list of sections.",
+    "The title “Materialize” is set in a large light coral grotesque over the subtitle “A modern responsive front-end framework based on Material Design”.",
+    "Two coral buttons, GET STARTED and UPGRADE FROM 0.100.2, have white all-capital labels, square corners, and a soft shadow below.",
+    "A small teal GITHUB button with a shadow sits on a white band between thin gray rules. Below, three flat coral icons (a bolt, two people, a gear) stand in a row.",
+    "A Carbon advertisement box and a Route4Me sponsor logo appear on the page."
+  ],
+  "interpretation": [
+    "The page measures a shadow on 40 % of its boxes, with a median blur of 5 px and an offset of 3 px, which matches a 2 dp Material 1 raised button. Its chromatic share is only 0.04, because the coral is limited to buttons, icons, and type on a white page."
+  ],
+  "borrow": [
+    "Use one primary for buttons and icons and one contrasting secondary for a single small action, as the teal GITHUB button does."
+  ],
+  "images": [
+    {
+      "file": "assets/references/materializecss-website.jpg",
+      "alt": "Materialize home page: a white left navigation, a large light coral title Materialize, two coral raised buttons GET STARTED and UPGRADE FROM 0.100.2, a small teal GITHUB button, and three coral icons.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [materializecss.com](https://materializecss.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners. Screenshot captured for commentary."
+  }
+}

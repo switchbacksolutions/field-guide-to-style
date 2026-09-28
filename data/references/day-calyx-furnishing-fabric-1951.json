@@ -1,0 +1,66 @@
+{
+  "id": "day-calyx-furnishing-fabric-1951",
+  "title": "Calyx furnishing fabric",
+  "type": "object",
+  "medium": "textile",
+  "lede": "Lucienne Day’s Festival of Britain fabric hangs cup and bowl shapes on thin stems across a terracotta ground, in flat and scratched-texture color.",
+  "summary": "Abstract cup and bowl shapes on thin stems, in teal, lime, dark green, and cream on terracotta linen. Lucienne Day for Heal’s, 1951.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O33775/",
+    "label": "Victoria and Albert Museum: ‘Calyx’, furnishing fabric, T.329:2-1999"
+  },
+  "creator": {
+    "name": "Lucienne Day",
+    "url": "https://www.wikidata.org/wiki/Q1551026"
+  },
+  "made": "Designed 1950, manufactured 1951 (V&A)",
+  "moods": [
+    "optimistic",
+    "organic",
+    "modern",
+    "crafted"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected, in the scratchpad only, the V&A photograph of T.329:2-1999 (1200 × 900 px from the V&A image server), which shows the whole piece laid flat on a table. Also looked at the V&A image of the collage design CIRC.285-1955 (O85223), which uses a brown ground. Neither image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "A defining British example of the style’s biomorphic, plant-derived abstraction: flat and textured shapes in muted teal, lime, and cream on a warm earth ground.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A catalogues T.329:2-1999 as a furnishing fabric of screen-printed linen, designed by Lucienne Day in 1950 and manufactured in 1951, 62 × 63 cm, given by Heal & Son Ltd. and acquired in 1995 with the Heal’s archive. It describes “abstracted calyx motifs in blues, greens and undyed, on a terracotta ground”. [V&A O33775](https://collections.vam.ac.uk/item/O33775/).",
+    "The V&A record for the design (CIRC.285-1955, watercolour, gouache and collage, 1951) says that Day made Calyx for a room by her husband Robin Day in the Homes and Gardens Pavilion of the 1951 Festival of Britain, that Heal’s produced it, and that she acknowledged the influence of Klee and Miró. [V&A O85223](https://collections.vam.ac.uk/item/O85223/).",
+    "The V&A image credits read “Design © Robin and Lucienne Day Foundation”. Lucienne Day lived from 1917 to 2010. [Wikidata](https://www.wikidata.org/wiki/Q1551026)."
+  ],
+  "observed": [
+    "The ground is a terracotta-brown linen with a visible weave.",
+    "Cup, bowl, and cone shapes hang from thin vertical stems in teal, lime green, dark green, and cream. Some are flat color; others are filled with a scratched or speckled cream texture, or with dark horizontal hatching.",
+    "Smaller stacked half-circles in cream run down some stems like beads.",
+    "A dotted cream line crosses the pattern on a diagonal.",
+    "The shapes are spread with a lot of open ground between them; nothing is outlined.",
+    "The selvedge at the left carries a printed line naming Heal’s, the design, and Lucienne Day."
+  ],
+  "interpretation": [
+    "Calyx is close to the style’s textile band: plant forms abstracted into cups and cones, flat printed color, and scratched texture instead of shading.",
+    "The terracotta ground shows that a warm dark ground works as well as cream when the motifs are light."
+  ],
+  "borrow": [
+    "Hang a few flat cup, cone, and half-circle shapes on thin stems and leave open ground between them.",
+    "Fill some shapes with a scratched or speckled texture instead of a gradient."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The design is in copyright (Lucienne Day died in 2010); the V&A credits the design to the Robin and Lucienne Day Foundation and the photograph to the V&A."
+  },
+  "identifiers": {
+    "vam": "O33775",
+    "vam-accession": "T.329:2-1999"
+  }
+}

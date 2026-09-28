@@ -1,0 +1,61 @@
+{
+  "id": "vuetify-v1-website",
+  "title": "Vuetify 1.5 documentation website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The archived home page of Vuetify 1.5, a Material Design component framework for Vue: a blue hero with three raised white cards.",
+  "summary": "A blue hero with a light-weight title, outlined buttons, and three white cards lifted by large soft shadows.",
+  "source": {
+    "url": "https://v15.vuetifyjs.com/en/",
+    "label": "Vuetify 1.5 documentation (v15.vuetifyjs.com)"
+  },
+  "creator": {
+    "name": "Vuetify"
+  },
+  "moods": [
+    "bright",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "Borderline: white cards on a blue field with soft shadows, all-capital buttons, and Roboto follow the style, but the hero is a vertical blue gradient and the card shadows are larger than Material’s resting elevations.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "This is the archived documentation for version 1.5. The current Vuetify site uses Material 3.",
+  "observed": [
+    "A yellow strip at the top says that Vuetify 1 has reached end of life. Below it is a white bar with the Vuetify logo.",
+    "The hero is blue, lighter toward the bottom. A large round white logo sits beside the title “Material Design Component Framework” in light Roboto.",
+    "A white GET STARTED button with blue all-capital text stands beside two outlined buttons, GITHUB and GET HELP.",
+    "Three white cards with square corners and large soft shadows show an illustration, a wireframe, and a dark terminal window, each above a bold title and centered text."
+  ],
+  "interpretation": [
+    "The page measures a shadow on 45 % of its boxes, but with a median blur of 22 px and offset of 12 px, and a gradient share of 0.62 from the hero. It fails three fingerprint metrics for those reasons."
+  ],
+  "borrow": [
+    "Put three raised white cards across the seam between a colored hero and the page below, so that the shadows carry the change of level."
+  ],
+  "images": [
+    {
+      "file": "assets/references/vuetify-v1-website.jpg",
+      "alt": "Vuetify 1.5 home page: a yellow end-of-life notice, a blue hero with a round white logo and the title Material Design Component Framework, a white GET STARTED button beside two outlined buttons, and three white cards with soft shadows.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [v15.vuetifyjs.com](https://v15.vuetifyjs.com/en/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners. Screenshot captured for commentary."
+  }
+}

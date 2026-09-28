@@ -1,0 +1,62 @@
+{
+  "id": "greiman-pacific-wave-poster-1987",
+  "title": "Pacific Wave, Museo Fortuny poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "April Greiman’s poster for an exhibition of California graphic design in Venice: a stippled wave photograph, pink and black fields with irregular white holes, and tilted bitmap type.",
+  "summary": "Pink, black, and yellow fields with white blob-shaped holes, a dotted gradient wave, and tilted bitmap “pacific wave” lettering. April Greiman, 1987.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1176678/",
+    "label": "V&A: Pacific Wave, Museo Fortuny, E.1499-2010"
+  },
+  "creator": {
+    "name": "April Greiman",
+    "url": "https://www.wikidata.org/wiki/Q4782033"
+  },
+  "made": "1987 (V&A)",
+  "moods": [
+    "kinetic",
+    "layered",
+    "experimental",
+    "digital"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A photograph of object E.1499-2010 (image 2011EN9649, 1200 × 1600) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "new-wave-typography",
+      "note": "Partial fit: the tilted type, gradient bars, and layered fields belong to the style, but the letters are rough bitmaps and type plays a small part.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "The V&A holds the poster as E.1499-2010, colour offset lithograph, 98.5 × 68 cm, and describes it as a poster for “Pacific Wave”, an exhibition of California graphic design at the Museo Fortuny, Venice, September 1987. [V&A E.1499-2010](https://collections.vam.ac.uk/item/O1176678/)."
+  ],
+  "observed": [
+    "A yellow bar runs across the top and down the right side, fading through red to blue.",
+    "Large black and hot-pink fields fill the sheet. Irregular white shapes with soft, blob-like edges cut holes through them.",
+    "A photograph of a breaking wave is rendered in coarse white stipple over a yellow-red-blue gradient panel.",
+    "“pacific wave” runs on a rising diagonal in white bitmap letters with broken, ragged edges, followed by dotted lines. A second, smaller copy sits on the pink field.",
+    "Small text runs vertically in narrow black and pink strips at the left."
+  ],
+  "interpretation": [
+    "This is the style at its most digital. The ragged bitmap letters come near the grunge counter-rule, but they are low-resolution output, not deliberate damage. Treat it as the edge of the style, not a model for it."
+  ],
+  "borrow": [
+    "Run a gradient bar around two edges of a composition as a frame.",
+    "Set a title on a steep diagonal and repeat it smaller in another layer."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is © Victoria and Albert Museum, London. April Greiman is living, so the design is in copyright."
+  },
+  "identifiers": {
+    "vam": "O1176678"
+  }
+}

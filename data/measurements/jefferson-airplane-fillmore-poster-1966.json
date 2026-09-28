@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/jefferson-airplane-fillmore-poster-1966.jpg",
+  "captured": "2026-09-28T17:33:07+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#977c01",
+        "share": 0.264
+      },
+      {
+        "hex": "#b69d01",
+        "share": 0.256
+      },
+      {
+        "hex": "#a20102",
+        "share": 0.186
+      },
+      {
+        "hex": "#a48a01",
+        "share": 0.077
+      },
+      {
+        "hex": "#9d3419",
+        "share": 0.024
+      },
+      {
+        "hex": "#a64b20",
+        "share": 0.024
+      },
+      {
+        "hex": "#b48816",
+        "share": 0.021
+      },
+      {
+        "hex": "#af5f26",
+        "share": 0.021
+      },
+      {
+        "hex": "#981b0f",
+        "share": 0.019
+      },
+      {
+        "hex": "#a9761c",
+        "share": 0.018
+      }
+    ],
+    "background": "#977c01",
+    "chroma": 0.62,
+    "lightness": 0.34,
+    "chromaticShare": 1.0,
+    "accentChroma": 0.62,
+    "distinct": 8,
+    "hues": 3
+  }
+}

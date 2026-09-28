@@ -1,0 +1,60 @@
+{
+  "id": "nelson-ball-clock",
+  "title": "Ball Clock",
+  "type": "object",
+  "medium": "product",
+  "lede": "Twelve black balls on thin rods radiate from a white disc: the atomic starburst of 1950s graphics turned into a wall clock.",
+  "summary": "Black balls on thin metal rods around a white hub, with triangle and lozenge hands. Irving Harper for George Nelson Associates and Herman Miller, 1948–69.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/154134/ball-clock",
+    "label": "Art Institute of Chicago: Ball Clock, 1999.678"
+  },
+  "creator": {
+    "name": "Irving Harper, George Nelson Associates",
+    "url": "https://www.wikidata.org/wiki/Q6074612"
+  },
+  "made": "1948–69 (Art Institute of Chicago)",
+  "moods": [
+    "atomic",
+    "playful",
+    "optimistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected, in the scratchpad only, the Art Institute of Chicago photograph of 1999.678 at 843 × 671 px (the largest size served for this in-copyright object), a frontal view on gray. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "Partial fit: a product, not graphic design, but its ball-and-rod starburst is the atomic motif that the style’s graphics and textiles repeat.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Art Institute of Chicago dates the clock 1948–69 and credits Irving Harper (1916–2015) and George Nelson Associates, manufactured by Herman Miller Inc.; materials chrome, black enameled metal, and ebonized wood; Orbit Fund. [AIC 1999.678](https://www.artic.edu/artworks/154134/ball-clock).",
+    "The museum’s text places it in the Chronopak series of electric clocks that Harper designed at George Nelson Associates and says that, though abstract, it “suggests both the structure of the atom and the iconic asterisk symbol that abounded in the 1950s”. [AIC](https://www.artic.edu/artworks/154134/ball-clock)."
+  ],
+  "observed": [
+    "Twelve black spheres sit at the ends of thin metal rods that radiate evenly from a central white disc.",
+    "The hands are black: the hour hand ends in a triangle and the minute hand in a thin lozenge shape. There are no numerals.",
+    "The photograph shows the clock straight on against a flat gray background."
+  ],
+  "interpretation": [
+    "The clock is the three-dimensional version of the starburst and ball-and-stick motifs in 1950s prints: a circle, radial lines, and dots with nothing else."
+  ],
+  "borrow": [
+    "Use a ring of dots on thin radial lines around a plain disc as a starburst motif.",
+    "Give pointers or markers simple geometric ends: a triangle, a lozenge, a circle."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Art Institute of Chicago does not mark the object as public domain, and Irving Harper died in 2015."
+  },
+  "identifiers": {
+    "aic": "154134",
+    "aic-reference": "1999.678"
+  }
+}

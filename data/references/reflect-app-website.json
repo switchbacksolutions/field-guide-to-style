@@ -1,0 +1,62 @@
+{
+  "id": "reflect-app-website",
+  "title": "Reflect notes website",
+  "type": "website",
+  "medium": "website",
+  "lede": "A note-taking app shown as a dark, translucent window that a violet light glows through.",
+  "summary": "A dark glass app window under a violet eclipse glow, with a pill-shaped translucent navigation bar.",
+  "source": {
+    "url": "https://reflect.app/",
+    "label": "reflect.app"
+  },
+  "creator": {
+    "name": "Reflect",
+    "url": "https://reflect.app/"
+  },
+  "moods": [
+    "luminous",
+    "technical",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. Nothing covers the page. A Superdesign article names Reflect as a glassmorphism example; that claim was not relied on."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "glassmorphism",
+      "note": "Borderline: the app window is dark translucent glass that the violet glow shows through, but the page is mostly near-black and uses small radii.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The page is near-black navy. A bright violet and white ring of light, like an eclipse, sits behind the top edge of an app window.",
+    "The app window is dark and translucent: the violet glow shows through its middle column as a soft haze.",
+    "The window has rounded corners and a thin light border. Inside it, a sidebar, a note, and a calendar use grey and white sans-serif text.",
+    "The top navigation links sit in one dark pill with a thin border. ‘Start free trial’ is a violet button with a light border."
+  ],
+  "interpretation": [
+    "Measured: blur share 0.21, median radius 6 px, 27 % of boxes bordered, and 62 % with gradient fills. It fails five of six metrics, so the glass effect here comes from one large element rather than many cards. It is the dark, glow-lit variant of the style, close to the look of many AI and developer-tool sites."
+  ],
+  "borrow": [
+    "Put a single bright glow behind the top edge of a dark glass panel so that the light seems to pass through it."
+  ],
+  "images": [
+    {
+      "file": "assets/references/reflect-app-website.jpg",
+      "alt": "Reflect home page: the headline ‘Think better with Reflect’ above a violet eclipse glow, which shines through a dark translucent app window with a sidebar, a daily note, and a calendar.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [reflect.app](https://reflect.app/), captured 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners. Screenshot captured for commentary."
+  }
+}

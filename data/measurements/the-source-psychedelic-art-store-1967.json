@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/the-source-psychedelic-art-store-1967.jpg",
+  "captured": "2026-09-28T17:33:07+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#adadad",
+        "share": 0.201
+      },
+      {
+        "hex": "#c4c4c4",
+        "share": 0.198
+      },
+      {
+        "hex": "#0e0e0e",
+        "share": 0.114
+      },
+      {
+        "hex": "#a0a0a0",
+        "share": 0.069
+      },
+      {
+        "hex": "#878787",
+        "share": 0.065
+      },
+      {
+        "hex": "#757575",
+        "share": 0.064
+      },
+      {
+        "hex": "#d5d5d5",
+        "share": 0.04
+      },
+      {
+        "hex": "#b9b9b9",
+        "share": 0.035
+      },
+      {
+        "hex": "#2e2e2e",
+        "share": 0.033
+      },
+      {
+        "hex": "#949494",
+        "share": 0.03
+      }
+    ],
+    "background": "#adadad",
+    "chroma": 0.0,
+    "lightness": 0.54,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 15,
+    "hues": 0
+  }
+}

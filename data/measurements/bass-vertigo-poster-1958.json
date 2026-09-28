@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/bass-vertigo-poster-1958.jpg",
+  "captured": "2026-09-28T17:33:17+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#da4b18",
+        "share": 0.412
+      },
+      {
+        "hex": "#fefdf5",
+        "share": 0.245
+      },
+      {
+        "hex": "#ce371b",
+        "share": 0.06
+      },
+      {
+        "hex": "#1c110e",
+        "share": 0.046
+      },
+      {
+        "hex": "#e8baa1",
+        "share": 0.028
+      },
+      {
+        "hex": "#e2a68b",
+        "share": 0.026
+      },
+      {
+        "hex": "#ebe1d5",
+        "share": 0.025
+      },
+      {
+        "hex": "#edcfb8",
+        "share": 0.024
+      },
+      {
+        "hex": "#de9374",
+        "share": 0.021
+      },
+      {
+        "hex": "#d66d49",
+        "share": 0.018
+      }
+    ],
+    "background": "#da4b18",
+    "chroma": 0.45,
+    "lightness": 0.61,
+    "chromaticShare": 0.61,
+    "accentChroma": 0.69,
+    "distinct": 9,
+    "hues": 1
+  }
+}

@@ -128,7 +128,12 @@
       "text": "A touch sends an ink ripple outward from the point of contact, and a pressed card or button lifts to a higher elevation. New surfaces grow from the element that created them, on a standard ease-out curve."
     }
   ],
-  "synthesis": [],
+  "synthesis": [
+    "Google’s own documents define the style: the [Material Design 1 guidelines](ref:material-design-guidelines-2014), the [color palette](ref:material-color-palette-2014) of 19 hues, the flat [system icons](ref:material-system-icons-2014), the paper-fold [product icons](ref:material-product-icons-2014), and the redesigned [Roboto](ref:roboto-typeface-2014). [Android 5.0 Lollipop](ref:android-5-lollipop-2014) and [Inbox by Gmail](ref:inbox-by-gmail-2014) shipped it in 2014 with the textbook pairing of a saturated app bar and a round accent button.",
+    "The web took the style mainly through component libraries: Google’s [Material Design Lite](ref:material-design-lite-2015) and [AngularJS Material](ref:angularjs-material-website-2016), and the independent [Materialize](ref:materializecss-website), [Material-UI](ref:material-ui-website-2018), and [Vuetify](ref:vuetify-v1-website). Their documentation sites are built with their own components, so most web references here are library sites. [Google Play in 2016](ref:play-google-com-website-2016) is the clearest product page: white cards with 2 dp shadows on pale gray.",
+    "Captures show the fingerprint’s weak points. Soft, short, downward shadows and small radii hold on every clear capture. Shadow share and chromatic share each fail on two of five clear captures: documentation pages have many flat tiles, and many pages keep color to one bar, one tab, or the buttons. [Angular Material 12](ref:angular-material-v12-website) passes every metric. [Vuetify 1.5](ref:vuetify-v1-website) is borderline, with a gradient hero and large shadows.",
+    "Material Design 2 is documented but not yet observed on a real product: see [Google Material Theme](ref:google-material-theme-2018). Wayback copies of 2015 to 2017 Google pages (getmdl.io, material.io, google.com/keep, android.com) rendered without their web fonts, header images, or style sheets on 28 September 2026, so they were not kept. [Evernote for Android](ref:evernote-android-2015), NN/g’s example of flat 2.0, still needs a usable image."
+  ],
   "rubric": {
     "diagnostic": [
       "White cards on a pale gray ground, each lifted by a soft, short shadow that falls downward.",
@@ -203,35 +208,35 @@
     {
       "metric": "surface.shadow.share",
       "min": 0.3,
-      "note": "Cards, the app bar, raised buttons, and the action button all cast shadows. The specimen measures 0.56. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Cards, the app bar, raised buttons, and the action button all cast shadows. The specimen measures 0.56. Checked against five clear captures on 28 September 2026: [Angular Material 12](ref:angular-material-v12-website) 0.55, [Materialize](ref:materializecss-website) 0.40, and [Google Play 2016](ref:play-google-com-website-2016) 0.36 pass. [AngularJS Material 2016](ref:angularjs-material-website-2016) 0.08 and [Material-UI 2018](ref:material-ui-website-2018) 0.10 fail, because documentation pages have many flat gray tiles and rows. Two of five is below the recalibration threshold, so the minimum stays. A minimum of 0.05 was tested and causes no confusion."
     },
     {
       "metric": "surface.shadow.medianBlur",
       "min": 3,
       "max": 20,
-      "note": "Shadows are soft. A 1 dp Material 2 card has a 3 px blur and a 2 dp Material 1 card a 5 px blur. Hard shadows with no blur point to neo-brutalism. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Shadows are soft. A 1 dp Material 2 card has a 3 px blur and a 2 dp Material 1 card a 5 px blur. Hard shadows with no blur point to neo-brutalism. All five clear captures pass, from 3 px to 18 px (the Material-UI snackbar)."
     },
     {
       "metric": "surface.shadow.medianOffset",
       "min": 2,
       "max": 10,
-      "note": "The key light is above, so shadows fall downward by 2 to 8 px as elevation rises. Glow and inset shadows have no offset. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "The key light is above, so shadows fall downward by 2 to 8 px as elevation rises. Glow and inset shadows have no offset. All five clear captures pass, from 2 px to 6 px."
     },
     {
       "metric": "color.chromaticShare",
       "min": 0.05,
       "max": 0.6,
-      "note": "A saturated primary fills the app bar. Material 2 products with white app bars can fall below this range. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "A saturated primary fills the app bar. All-white pages fall below this range: [Materialize](ref:materializecss-website) measures 0.04 and [Google Play 2016](ref:play-google-com-website-2016) 0.01, where color is limited to one tab, buttons, and photographs. Two of five clear captures fail, which is below the recalibration threshold. Material 2 products with white app bars are likely to fail too."
     },
     {
       "metric": "surface.radius.median",
       "max": 4,
-      "note": "Cards and buttons round by 2 px in Material 1 and 4 px in Material 2. Larger radii point to Material You, glassmorphism, or neumorphism. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Cards and buttons round by 2 px in Material 1 and 4 px in Material 2. Larger radii point to Material You, glassmorphism, or neumorphism. All five clear captures measure 0 or 4 px."
     },
     {
       "metric": "color.gradientShare",
       "max": 0.02,
-      "note": "Fills are flat and matte. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Fills are flat and matte. Four of five clear captures pass. [Google Play 2016](ref:play-google-com-website-2016) measures 0.14 from dark scrims under photo captions, which the Material guidelines allow for text over images."
     }
   ]
 }

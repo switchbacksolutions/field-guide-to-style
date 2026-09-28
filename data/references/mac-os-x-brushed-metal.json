@@ -1,0 +1,50 @@
+{
+  "id": "mac-os-x-brushed-metal",
+  "title": "Brushed-metal windows in Mac OS X",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "A second Aqua window style with a brushed-aluminium texture, used for QuickTime Player, iTunes, the Finder, and Safari.",
+  "summary": "Brushed-aluminium window frames with sunken buttons. Apple, QuickTime 4 (1999) to Mac OS X Leopard (2007).",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Aqua_(user_interface)",
+    "label": "Wikipedia: Aqua (user interface)"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "First in QuickTime Player 4 (1999); widest use in Mac OS X Panther (2003); merged into one gray window style in Leopard (2007)",
+  "moods": [
+    "metallic",
+    "cool",
+    "industrial"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "No image was inspected. Based on Wikipedia, which cites Apple’s Human Interface Guidelines and Daring Fireball."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "A precursor material: a metal texture tied to real devices, before the leather, wood, and paper of 2007–2013.",
+      "basis": "agent",
+      "qualifier": "precursor"
+    }
+  ],
+  "context": [
+    "“Brushed-metal windows had a thick frame with a metallic texture or dark-gray background and sunken buttons and inner frames.” “Apple recommended brushed-metal windows for applications that mimic real-world devices (such as iTunes) or are used to interface with such devices (such as iSync).” [Wikipedia: Aqua](https://en.wikipedia.org/wiki/Aqua_(user_interface)).",
+    "“Brushed Metal had first appeared in QuickTime Player 4.” Panther used it more, “especially to the Finder and Safari web browser.” In Leopard, Aqua and brushed-metal windows “obtained the same metal-like, gray look.” [Wikipedia: Aqua](https://en.wikipedia.org/wiki/Aqua_(user_interface)).",
+    "Wikipedia links the change to Apple’s industrial design: “In 2003 and 2004, Apple moved to the use of brushed aluminium … The design of Aqua changed accordingly.”"
+  ],
+  "interpretation": [
+    "Apple’s own rule tied the texture to device-like apps. That is the logic of the later style: the material says what kind of object the app is."
+  ],
+  "related": "See the parent interface, [Aqua](ref:mac-os-x-aqua-interface).",
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple software; copyrighted. No image is stored here."
+  }
+}

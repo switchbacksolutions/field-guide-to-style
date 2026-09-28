@@ -1,0 +1,60 @@
+{
+  "id": "noll-ninety-parallel-sinusoids-1964",
+  "title": "Ninety Parallel Sinusoids with Linearly Increasing Period",
+  "type": "image",
+  "medium": "photograph",
+  "lede": "A. Michael Noll’s early computer-generated image: ninety parallel wave lines whose period shortens across the sheet, made to approximate Bridget Riley’s Current.",
+  "summary": "Ninety black sine curves stacked in parallel, with waves that tighten from left to right. A. Michael Noll, Bell Labs era, 1964.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1193786/",
+    "label": "V&A: Photograph, E.34-2011"
+  },
+  "creator": {
+    "name": "A. Michael Noll (computer artist)"
+  },
+  "made": "1964 (image); photographic print 1970s",
+  "moods": [
+    "precise",
+    "vibrating",
+    "systematic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A image of its print, E.34-2011 (1210 × 1600 px), in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "A computer plot built to reproduce the op effect of Riley’s wave paintings: parallel black lines on white whose period changes by steps.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes a photographic print of a computer-generated image first created in 1964, and quotes Noll: “The top sinusoid was expressed mathematically and then repeated again and again. The result closely approximates the op-art painting ‘Current’ by Bridget Riley.” [V&A](https://collections.vam.ac.uk/item/O1193786/).",
+    "Riley’s *Current* (1964) is the painting reproduced on the cover of [The Responsive Eye](ref:the-responsive-eye-catalogue-1965)."
+  ],
+  "observed": [
+    "About ninety thin black curves run in parallel across a white sheet, in a block with a white margin.",
+    "Toward the left the curves are nearly straight; toward the right the waves become shorter and steeper.",
+    "Where the curves turn steeply at the right, the gaps between them narrow and the lines seem to shimmer.",
+    "There is no text, no tone, and no colour."
+  ],
+  "interpretation": [
+    "Noll shows that the Riley effect is a rule: one curve, repeated with a fixed offset, with a period that changes linearly. This makes it the most direct reference for generating op patterns in code.",
+    "The image sits where op art meets early computer art, and that link is a natural fit for screen design."
+  ],
+  "borrow": [
+    "Generate an op field from one function: repeat a sine curve with a fixed vertical offset and shorten its period across the width.",
+    "Keep a wide white margin around the line block so that the field reads as an object."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is by a living artist, and the V&A image is not openly licensed."
+  },
+  "identifiers": {
+    "vam": "O1193786"
+  }
+}

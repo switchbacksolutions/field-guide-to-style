@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20120103083712if_/http://campl.us/",
+  "title": "Camera+ ...the ultimate photo app",
+  "captured": "2012-01-03T08:37:24.259Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica Neue",
+        "share": 1
+      }
+    ],
+    "baseSize": 13,
+    "maxSize": 40,
+    "sizeRange": 3.08,
+    "scaleRatio": 1.14,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.344
+      },
+      {
+        "hex": "#a8a8a8",
+        "share": 0.199
+      },
+      {
+        "hex": "#131313",
+        "share": 0.184
+      },
+      {
+        "hex": "#808080",
+        "share": 0.084
+      },
+      {
+        "hex": "#2e2d30",
+        "share": 0.049
+      },
+      {
+        "hex": "#eeeeee",
+        "share": 0.048
+      },
+      {
+        "hex": "#fb3a24",
+        "share": 0.038
+      },
+      {
+        "hex": "#000000",
+        "share": 0.035
+      },
+      {
+        "hex": "#929292",
+        "share": 0.006
+      },
+      {
+        "hex": "#0000ee",
+        "share": 0.005
+      }
+    ],
+    "background": "#131313",
+    "text": "#ffffff",
+    "contrast": 18.6,
+    "chroma": 0.04,
+    "lightness": 0.61,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.85,
+    "distinct": 8,
+    "hues": 2,
+    "imageShare": 0.94,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 34,
+    "radius": {
+      "median": 0,
+      "max": 18,
+      "roundShare": 0.21
+    },
+    "border": {
+      "share": 0.21,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.82,
+      "hardShare": 0,
+      "medianBlur": 5,
+      "medianOffset": 0
+    },
+    "gradientShare": 0.15,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#262626",
+        "share": 0.565
+      },
+      {
+        "hex": "#cecdcd",
+        "share": 0.037
+      },
+      {
+        "hex": "#bcbdbd",
+        "share": 0.037
+      },
+      {
+        "hex": "#12100f",
+        "share": 0.036
+      },
+      {
+        "hex": "#9b9a9a",
+        "share": 0.033
+      },
+      {
+        "hex": "#8b8b8b",
+        "share": 0.033
+      },
+      {
+        "hex": "#e0dfdd",
+        "share": 0.033
+      },
+      {
+        "hex": "#acacac",
+        "share": 0.03
+      },
+      {
+        "hex": "#666565",
+        "share": 0.03
+      },
+      {
+        "hex": "#1c1b1a",
+        "share": 0.028
+      }
+    ],
+    "background": "#262626",
+    "chroma": 0.03,
+    "lightness": 0.3,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.6,
+    "distinct": 12,
+    "hues": 2
+  }
+}

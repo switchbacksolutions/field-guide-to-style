@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/new-york-worlds-fair-poster-binder-1939.jpg",
+  "captured": "2026-09-28T17:50:45+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#31517d",
+        "share": 0.213
+      },
+      {
+        "hex": "#26426a",
+        "share": 0.206
+      },
+      {
+        "hex": "#356695",
+        "share": 0.121
+      },
+      {
+        "hex": "#3c89b6",
+        "share": 0.114
+      },
+      {
+        "hex": "#fcfdf3",
+        "share": 0.102
+      },
+      {
+        "hex": "#f4ec6e",
+        "share": 0.043
+      },
+      {
+        "hex": "#7fa3c6",
+        "share": 0.027
+      },
+      {
+        "hex": "#b9d0c2",
+        "share": 0.021
+      },
+      {
+        "hex": "#9eb9bd",
+        "share": 0.02
+      },
+      {
+        "hex": "#5195bc",
+        "share": 0.02
+      }
+    ],
+    "background": "#31517d",
+    "chroma": 0.29,
+    "lightness": 0.49,
+    "chromaticShare": 0.32,
+    "accentChroma": 0.43,
+    "distinct": 9,
+    "hues": 3
+  }
+}

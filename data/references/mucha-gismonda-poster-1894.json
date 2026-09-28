@@ -1,0 +1,79 @@
+{
+  "id": "mucha-gismonda-poster-1894",
+  "title": "Gismonda poster by Alphonse Mucha",
+  "type": "print",
+  "medium": "poster",
+  "lede": "The life-size poster that made Mucha’s name: Sarah Bernhardt as a Byzantine noblewoman under a mosaic arch, in pastel ochres, rose, and slate blue, with flared hand-drawn capitals.",
+  "summary": "Tall poster of Sarah Bernhardt under an arched mosaic halo, with hand-drawn lettering. Alphonse Mucha, Paris, 1894–95.",
+  "source": {
+    "url": "https://gallica.bnf.fr/ark:/12148/btv1b90163096",
+    "label": "Bibliothèque nationale de France, Gallica: Gismonda. Sarah Bernhardt. Théâtre de la Renaissance (épreuve du tirage définitif)"
+  },
+  "creator": {
+    "name": "Alphonse Mucha; printed by Imprimeries Lemercier, Paris",
+    "url": "https://www.wikidata.org/wiki/Q146691"
+  },
+  "made": "Designed December 1894 for posting from 1 January 1895 (Wikipedia); BnF and Commons date this proof 1895",
+  "moods": [
+    "theatrical",
+    "romantic",
+    "ornate"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected a 960 × 2466 px copy of the BnF scan on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gismonda._Sarah_Bernhardt._Th%C3%A9atre_de_La_Renaissance_-_(affiche)_(%C3%89preuve_du_tirage_d%C3%A9finitif)_-_Mucha_-_btv1b90163096.jpg). The copy is the BnF proof of the final printing, shelf mark ENT DN-1 (MUCHA,Alphonse/3)-ROUL, printed in two sheets. Also compared the reduced *Maîtres de l’Affiche* plate 27 on [Commons](https://commons.wikimedia.org/wiki/File:Alphonse_Mucha_-_Poster_for_Victorien_Sardou%27s_Gismonda_starring_Sarah_Bernhardt_-_Original.jpg)."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "art-nouveau",
+      "note": "The founding Mucha poster: a figure framed by an arched halo, flowers in the hair, flared hand-drawn capitals, and soft pastel colours with dark outlines.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: Sardou’s *Gismonda* opened on 31 October 1894 at the Théâtre de la Renaissance. On 26 December Bernhardt ordered a new poster from the printer Lemercier to be ready by 1 January 1895; Mucha, who happened to be there correcting proofs, received the commission. The poster is a little more than two metres high. [Wikipedia: Alphonse Mucha](https://en.wikipedia.org/wiki/Alphonse_Mucha).",
+    "Wikipedia notes the arch behind the head, “almost like a halo”, which appears in all of Mucha’s later theatre posters, the Byzantine mosaic behind the head, and the delicate pastel colours, unlike the bright posters of the time. Its success led to a contract for six more Bernhardt posters. [Wikipedia: Alphonse Mucha](https://en.wikipedia.org/wiki/Alphonse_Mucha); [Wikipedia: Art Nouveau](https://en.wikipedia.org/wiki/Art_Nouveau).",
+    "The Commons record of the BnF copy gives the size as 217 × 75 cm and the catalogue reference Rennert and Weill 3. [BnF catalogue](https://catalogue.bnf.fr/ark:/12148/cb40461484m)."
+  ],
+  "observed": [
+    "The format is very tall and narrow, about 1 : 2.9.",
+    "At the top, “GISMONDA” in dark blue capitals on an ochre mosaic band. The letters are hand-drawn, with flared strokes and an unusual G and A.",
+    "Behind the head, a round arch carries “BERNHARDT” in cream letters on an orange band, with a mosaic dome inside it. It acts as a halo.",
+    "Bernhardt stands in profile with a crown of pink orchids and long orange-red hair. She holds a tall palm branch in sage green.",
+    "Her robe and stole are covered in dense gold, ochre, and slate-blue brocade with birds and flowers; the lower half of the poster is mostly this fabric on a plain cream ground.",
+    "At the bottom, a curling banner reads “THÉÂTRE DE LA RENAISSANCE” in dark blue capitals. “IMPRIMERIES LEMERCIER, PARIS” is set small at lower right. A thin dark border frames the whole sheet.",
+    "Colours are muted: ochre, old gold, dusty rose, sage, slate blue, and cream, with dark blue-black outlines."
+  ],
+  "interpretation": [
+    "The poster sets most of the style’s graphic rules: the arched medallion behind the head, the flower crown, the flared, legible hand lettering, the dark key line, and a pastel, earthy palette on a light ground.",
+    "Its whiplash is soft: curves appear in the hair, the palm, and the banner, while the frame stays a tall rectangle."
+  ],
+  "borrow": [
+    "Put a round arch or halo behind the key figure or heading, and set a word along the arch.",
+    "Set a title in a band at the top and a short credit on a curling banner at the bottom, leaving the middle to the image.",
+    "Use a tall, narrow panel for a hero image."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mucha-gismonda-poster-1894.jpg",
+      "alt": "Tall narrow poster: Sarah Bernhardt in profile under a mosaic arch lettered BERNHARDT, wearing pink orchids in her hair and a long gold brocade robe, holding a palm branch; GISMONDA across the top and THEATRE DE LA RENAISSANCE on a banner at the bottom.",
+      "width": 623,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Alphonse Mucha, *Gismonda*, poster for Sarah Bernhardt at the Théâtre de la Renaissance, proof of the final printing, Imprimeries Lemercier. Bibliothèque nationale de France, via [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b90163096) and [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gismonda._Sarah_Bernhardt._Th%C3%A9atre_de_La_Renaissance_-_(affiche)_(%C3%89preuve_du_tirage_d%C3%A9finitif)_-_Mucha_-_btv1b90163096.jpg), public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Gismonda._Sarah_Bernhardt._Th%C3%A9atre_de_La_Renaissance_-_%28affiche%29_%28%C3%89preuve_du_tirage_d%C3%A9finitif%29_-_Mucha_-_btv1b90163096.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Wikimedia Commons marks the file with the templates PD-France, PD-old-auto-expired (1939), and PD-US-expired. Mucha died in 1939, so the poster entered the public domain in France and the Czech Republic in 2010. It was published in 1895, so it is in the public domain in the United States. Gallica’s terms of use ask for a fee for commercial reuse of BnF reproductions; the lead curator should confirm that this does not affect the catalogue."
+  },
+  "identifiers": {
+    "bnf-ark": "ark:/12148/btv1b90163096",
+    "commons": "File:Gismonda. Sarah Bernhardt. Théatre de La Renaissance - (affiche) (Épreuve du tirage définitif) - Mucha - btv1b90163096.jpg"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "stasher-website-2018",
+  "title": "Stasher website, 2018",
+  "type": "website",
+  "medium": "website",
+  "lede": "The 2018 home page of a London luggage-storage service: three yellow-skinned figures with long bent limbs haul oversized suitcases across a line-drawn city.",
+  "summary": "Yellow-skinned, gangly figures straining under giant luggage below a pill-shaped search bar. 2018.",
+  "source": {
+    "url": "https://stasher.com/",
+    "label": "Stasher",
+    "archive": "https://web.archive.org/web/20180614205120/https://stasher.com/"
+  },
+  "creator": {
+    "name": "Stasher (CityStasher)"
+  },
+  "made": "2018 (Wayback capture of 14 June 2018)",
+  "moods": [
+    "comic",
+    "energetic",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. A thin blue notice bar at the top covers about 5% of the page. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Clear: non-natural yellow skin, small heads, long bending limbs, oversized objects, and flat fills without outlines on a white page. The overlapping translucent fills and dot patches are a small departure.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "The live Stasher site now uses a photograph and has changed since this 2018 capture.",
+  "observed": [
+    "A thin blue bar at the top reads “Remember to book online…”. Below, “Stasher” in bold blue and the heading “Luggage Storage. Everywhere.” are centred.",
+    "A wide white search bar with fully rounded ends holds fields for location, drop-off, pick-up, and number of items, and a pill-shaped blue button “Find Luggage Storage”.",
+    "Below, a man carries an orange suitcase larger than his torso on his back, a woman in an orange dress drags a huge green bag, and a boy holds a red case.",
+    "All three have yellow skin, small heads, and long bent arms and legs; hair is red or coral. Fills are flat and overlap as darker translucent areas; some clothes have fine dot patterns.",
+    "Behind them, a city skyline is drawn in thin grey lines on white."
+  ],
+  "interpretation": [
+    "It follows the rubric almost point by point: oversized objects, non-natural skin, gangly effort poses, white page. The search bar and button are pills, as the rubric expects, while the measurement shows the rest of the page with square boxes."
+  ],
+  "borrow": [
+    "Make the product’s object (here, luggage) absurdly large so that the figures’ effort tells the problem the service solves."
+  ],
+  "images": [
+    {
+      "file": "assets/references/stasher-website-2018.jpg",
+      "alt": "Stasher home page, 2018: the heading “Luggage Storage. Everywhere.” and a pill-shaped search bar above three yellow-skinned, long-limbed figures straining to carry oversized suitcases in front of a line-drawn city.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [Stasher](https://web.archive.org/web/20180614205120/https://stasher.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/wikimedia-android-microcontributions-report-2019.jpg",
+  "captured": "2026-09-28T17:41:59+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.83
+      },
+      {
+        "hex": "#f1f1f1",
+        "share": 0.037
+      },
+      {
+        "hex": "#1b38cf",
+        "share": 0.015
+      },
+      {
+        "hex": "#c7cdd4",
+        "share": 0.014
+      },
+      {
+        "hex": "#e1e4e7",
+        "share": 0.013
+      },
+      {
+        "hex": "#ea5140",
+        "share": 0.013
+      },
+      {
+        "hex": "#202133",
+        "share": 0.009
+      },
+      {
+        "hex": "#5b69a8",
+        "share": 0.008
+      },
+      {
+        "hex": "#c83b30",
+        "share": 0.008
+      },
+      {
+        "hex": "#b2bbc0",
+        "share": 0.007
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.03,
+    "lightness": 0.94,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.6,
+    "distinct": 2,
+    "hues": 2
+  }
+}

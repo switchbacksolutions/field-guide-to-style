@@ -1,0 +1,169 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://morrissociety.org/",
+  "title": "William Morris Society in the United States – United in study and appreciation of William Morris.",
+  "captured": "2026-09-28T17:30:17.438Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Nunito",
+        "share": 0.82
+      },
+      {
+        "family": "Josefin Sans",
+        "share": 0.1
+      },
+      {
+        "family": "Frank Ruhl Libre",
+        "share": 0.06
+      },
+      {
+        "family": "Abhaya Libre",
+        "share": 0.01
+      }
+    ],
+    "baseSize": 18,
+    "maxSize": 70,
+    "sizeRange": 3.89,
+    "scaleRatio": 1.16,
+    "headingWeight": 700,
+    "bodyWeight": 500,
+    "headingTracking": 0.029,
+    "uppercaseShare": 0.06,
+    "monoShare": 0,
+    "centerShare": 0.1
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.441
+      },
+      {
+        "hex": "#f2f2f3",
+        "share": 0.222
+      },
+      {
+        "hex": "#bacdb0",
+        "share": 0.127
+      },
+      {
+        "hex": "#2e2c2f",
+        "share": 0.114
+      },
+      {
+        "hex": "#666666",
+        "share": 0.072
+      },
+      {
+        "hex": "#d3d3d3",
+        "share": 0.01
+      },
+      {
+        "hex": "#475b63",
+        "share": 0.005
+      },
+      {
+        "hex": "#cd8b76",
+        "share": 0.003
+      },
+      {
+        "hex": "#729b79",
+        "share": 0.003
+      },
+      {
+        "hex": "#008213",
+        "share": 0.003
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#2e2c2f",
+    "contrast": 13.8,
+    "chroma": 0.02,
+    "lightness": 0.81,
+    "chromaticShare": 0.01,
+    "accentChroma": 0.42,
+    "distinct": 5,
+    "hues": 1,
+    "imageShare": 0.27,
+    "gradientShare": 0.24,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 33,
+    "radius": {
+      "median": 0,
+      "max": 6,
+      "roundShare": 0.09
+    },
+    "border": {
+      "share": 0.33,
+      "medianWidth": 6
+    },
+    "shadow": {
+      "share": 0.27,
+      "hardShare": 0.11,
+      "medianBlur": 45,
+      "medianOffset": 25
+    },
+    "gradientShare": 0.09,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#f4f4f4",
+        "share": 0.324
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.221
+      },
+      {
+        "hex": "#151515",
+        "share": 0.085
+      },
+      {
+        "hex": "#a8b1a6",
+        "share": 0.064
+      },
+      {
+        "hex": "#2b2b2b",
+        "share": 0.051
+      },
+      {
+        "hex": "#798377",
+        "share": 0.038
+      },
+      {
+        "hex": "#8a9284",
+        "share": 0.028
+      },
+      {
+        "hex": "#484848",
+        "share": 0.027
+      },
+      {
+        "hex": "#969e92",
+        "share": 0.025
+      },
+      {
+        "hex": "#393939",
+        "share": 0.024
+      }
+    ],
+    "background": "#f4f4f4",
+    "chroma": 0.01,
+    "lightness": 0.72,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 12,
+    "hues": 0
+  }
+}

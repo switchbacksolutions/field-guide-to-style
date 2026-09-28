@@ -1,0 +1,145 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20181126004018if_/https://airtable.com/",
+  "title": "Airtable",
+  "captured": "2018-11-26T00:40:24.517Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "GTEestiDisplay-Medium",
+        "share": 0.36
+      },
+      {
+        "family": "-apple-system",
+        "share": 0.34
+      },
+      {
+        "family": "GTEestiDisplay-Regular",
+        "share": 0.3
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 56,
+    "sizeRange": 3.5,
+    "scaleRatio": 1.17,
+    "headingWeight": 500,
+    "bodyWeight": 500,
+    "headingTracking": 0.01,
+    "uppercaseShare": 0.09,
+    "monoShare": 0,
+    "centerShare": 0.17
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.776
+      },
+      {
+        "hex": "#333333",
+        "share": 0.204
+      },
+      {
+        "hex": "#2d7ff9",
+        "share": 0.016
+      },
+      {
+        "hex": "#ede2fe",
+        "share": 0.003
+      },
+      {
+        "hex": "#8b46ff",
+        "share": 0.001
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#333333",
+    "contrast": 12.6,
+    "chroma": 0.01,
+    "lightness": 0.83,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.8,
+    "distinct": 2,
+    "hues": 1,
+    "imageShare": 0.31,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 41,
+    "radius": {
+      "median": 0,
+      "max": 14,
+      "roundShare": 0.34
+    },
+    "border": {
+      "share": 0.66,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0.12,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 0
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.792
+      },
+      {
+        "hex": "#733ee3",
+        "share": 0.034
+      },
+      {
+        "hex": "#3279df",
+        "share": 0.02
+      },
+      {
+        "hex": "#efeef0",
+        "share": 0.019
+      },
+      {
+        "hex": "#e23360",
+        "share": 0.019
+      },
+      {
+        "hex": "#fcb408",
+        "share": 0.019
+      },
+      {
+        "hex": "#beb8cf",
+        "share": 0.016
+      },
+      {
+        "hex": "#d6d7d9",
+        "share": 0.012
+      },
+      {
+        "hex": "#f489a5",
+        "share": 0.009
+      },
+      {
+        "hex": "#cceaf8",
+        "share": 0.007
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.09,
+    "lightness": 0.93,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.65,
+    "distinct": 3,
+    "hues": 6
+  }
+}

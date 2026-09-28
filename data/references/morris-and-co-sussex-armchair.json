@@ -1,0 +1,73 @@
+{
+  "id": "morris-and-co-sussex-armchair",
+  "title": "Morris & Co. Sussex armchair",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "A light, ebonized country armchair with turned spindles and a rush seat, sold by Morris & Co. as cheap, plain furniture.",
+  "summary": "Ebonized turned spindles and rails with a rush seat. Morris & Co., late 19th century.",
+  "source": {
+    "url": "https://collection.cooperhewitt.org/objects/18700699",
+    "label": "Cooper Hewitt: “Sussex” Chair, 2004-29-2"
+  },
+  "creator": {
+    "name": "Morris & Co."
+  },
+  "made": "Late 19th century",
+  "moods": [
+    "plain",
+    "rustic",
+    "honest"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Cooper Hewitt, Smithsonian Design Museum photograph of 2004-29-2 through its [Commons copy](https://commons.wikimedia.org/wiki/File:%22Sussex%22_Chair,_late_19th_century_(CH_18700699).jpg) (2848 × 3457 px; viewed at 1280 px wide). Cooper Hewitt’s site was not opened; the object data come from the Commons record. The museum credits only Morris & Co., not a designer."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "Partial fit: Morris & Co. furniture that shows the movement’s plain, vernacular side, with no pattern.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Cooper Hewitt describes an ebonized beech armchair with turned back sections, supports, and legs, and a rush seat set into the frame; 95 × 54.5 × 56 cm; late 19th century; made by Morris & Co.; Gift of Arthur Sanderson & Sons, Ltd. [Commons record of the Cooper Hewitt image](https://commons.wikimedia.org/wiki/File:%22Sussex%22_Chair,_late_19th_century_(CH_18700699).jpg)."
+  ],
+  "observed": [
+    "The frame is thin, turned wood stained black, with fine ring turnings on the posts and legs.",
+    "The back has three horizontal rails over a row of thin spindles; the middle spindle is crossed by a short bar with a small bead.",
+    "The arms are straight rails ending in round knobs, carried on short baluster-turned supports.",
+    "The seat is woven rush in natural straw colour, inside a square frame with black corner blocks.",
+    "There is no carving, inlay, or pattern."
+  ],
+  "interpretation": [
+    "The chair shows that Morris & Co. sold plain, vernacular goods alongside its dense patterns. It belongs to the movement’s ideals rather than to the patterned graphic core that this record describes.",
+    "It is close to the plain [Ashbee kettle](ref:ashbee-silver-kettle-1900): honest material and structure with no applied ornament."
+  ],
+  "borrow": [
+    "Use thin, repeated vertical lines, like spindles, as a quiet structural rhythm.",
+    "Pair near-black with one natural material colour, such as straw."
+  ],
+  "images": [
+    {
+      "file": "assets/references/morris-and-co-sussex-armchair.jpg",
+      "alt": "Black turned-wood armchair with thin spindles and rails in the back, straight arms ending in round knobs, and a woven natural rush seat, on a grey background.",
+      "width": 1280,
+      "height": 1554,
+      "kind": "source-image",
+      "caption": "Morris & Co., “Sussex” armchair, late 19th century. Cooper Hewitt, Smithsonian Design Museum, 2004-29-2. [Commons copy of the museum photograph](https://commons.wikimedia.org/wiki/File:%22Sussex%22_Chair,_late_19th_century_(CH_18700699).jpg), public domain.",
+      "original": "https://images.collection.cooperhewitt.org/105280_bd82ec17790b27fb_x.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons tags the Cooper Hewitt image {{PD-old-100-1923}}. The chair is a late 19th-century design whose makers died more than 100 years ago, and it was made before 1900, so it is in the public domain in the United Kingdom and the United States. Cooper Hewitt’s own image terms were not checked."
+  },
+  "identifiers": {
+    "cooper-hewitt": "2004-29-2",
+    "commons": "File:\"Sussex\" Chair, late 19th century (CH 18700699).jpg"
+  }
+}

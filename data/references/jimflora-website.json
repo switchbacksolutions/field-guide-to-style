@@ -1,0 +1,61 @@
+{
+  "id": "jimflora-website",
+  "title": "Jim Flora website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The official Jim Flora site puts the illustrator’s small flat figures and a playful serif-script name on a pale butter-yellow header.",
+  "summary": "Pink and black cut-shape children, a kite, and a dog on pale yellow, with a quirky display name and a charcoal menu bar.",
+  "source": {
+    "url": "https://www.jimflora.com/",
+    "label": "jimflora.com"
+  },
+  "moods": [
+    "playful",
+    "warm",
+    "whimsical"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "Clear: the header is a mid-century graphic composition, with flat two-color figures on warm paper and hand-drawn display lettering. The body below is a plain modern layout.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The header ground is a flat pale butter yellow (#faeeb2 in the screenshot palette).",
+    "Small figures in flat pink and black play across it: a child on a scooter, a girl skipping rope, children tumbling, a boy flying a pink kite on a long line, and a pink dog. The figures are built from a few flat shapes with black details.",
+    "“Jim Flora” at upper left is a dark, high-contrast display face with curled terminals.",
+    "A full-width charcoal bar holds the menu in white geometric sans-serif capitals.",
+    "Below, on white, a black-and-white photograph of Flora at work sits next to two colorful thumbnails of his later work and body text in a humanist sans-serif."
+  ],
+  "interpretation": [
+    "The header uses the style’s method at small scale: two flat printed colors, figures reduced to a few planes, and generous open paper around them.",
+    "Measured: the page’s CSS sees only one hue family and a heading weight of 400, and the round shapes are drawn in images. The screenshot palette finds two hue families. See the style synthesis for why the computed-style metrics miss this."
+  ],
+  "borrow": [
+    "Scatter a few small flat figures across a warm pale header and leave most of it empty.",
+    "Limit the illustration to two printed colors, such as pink and black, on yellow paper."
+  ],
+  "images": [
+    {
+      "file": "assets/references/jimflora-website.jpg",
+      "alt": "Jim Flora home page: a pale yellow header with the name Jim Flora in a dark curly display face and small pink and black figures of children, a kite, and a dog; a charcoal menu bar; below, a photograph of Flora drawing and thumbnails of his artwork.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [jimflora.com](https://www.jimflora.com/), 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design, artwork, and content belong to the site’s owners and artists. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "crane-arts-and-crafts-exhibition-season-ticket-1890",
+  "title": "Arts and Crafts Exhibition Society season ticket, 1890",
+  "type": "print",
+  "medium": "other",
+  "lede": "Walter Crane’s season ticket for the society that named the movement: a designer and a workman shake hands inside a framed woodcut-style panel.",
+  "summary": "Brown-ink ticket with a framed panel of two craftsmen and hand-drawn capitals with middle dots. Walter Crane, 1890.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1024286/",
+    "label": "V&A: Season ticket, E.4164-1915"
+  },
+  "creator": {
+    "name": "Walter Crane",
+    "url": "https://www.wikidata.org/wiki/Q660917"
+  },
+  "made": "1890",
+  "moods": [
+    "earnest",
+    "handmade",
+    "medieval"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A image 2006AC9526 of E.4164-1915 through the V&A IIIF service at 1200 × 935 px, saved only in a scratch folder. The object data come from the V&A API record O1024286."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "A primary document of the movement: Crane’s ticket for the Arts and Crafts Exhibition Society, with a framed figure panel and hand-drawn capitals.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes it as “Walter Crane. Season ticket, The Arts and Crafts Exhibition Society, 1890”, process engraving, 77 × 133 mm, given by Emslie John Horniman. [V&A](https://collections.vam.ac.uk/item/O1024286/).",
+    "The Arts and Crafts Exhibition Society, which gave its name to the movement, was formed in 1887 with Walter Crane as president and held its first exhibition at the New Gallery, London, in November 1888. [Wikipedia: Arts and Crafts movement](https://en.wikipedia.org/wiki/Arts_and_Crafts_movement)."
+  ],
+  "observed": [
+    "The card is printed in one dark brown ink on cream.",
+    "On the left, a square panel with a double-line frame shows a young man in a tunic and a bearded workman in an apron shaking hands over a small tree, with laurel sprays and acanthus leaves behind them.",
+    "Banners in the panel read “THE ARTS & CRAFTS EXHIBITION SOCIETY”, and ribbons at the foot read “121. REGENT ST.” and “·THE·NEW·GALLERY·”.",
+    "A vertical rule divides the panel from the right half, where “·SEASON· ·TICKET· ·1890·”, “ADMIT”, and “DURING THE PERIOD OF THE EXHIBITION ERNEST RADFORD SECRETARY” are hand-drawn in capitals with middle dots between words.",
+    "A dotted box leaves space for the holder’s name. “A&CES” is written at the lower left."
+  ],
+  "interpretation": [
+    "The ticket confirms the framed panel and the double-rule frame of the rubric, but all its lettering is capitals. The style’s hand lettering is often capitals with middle dots, not mixed case.",
+    "The one-colour brown print is a cheaper, reproductive version of the Kelmscott look, useful as a model for small formats."
+  ],
+  "borrow": [
+    "Separate words in a capital heading with middle dots (·) instead of spacing them out.",
+    "Divide a card into a framed picture panel and a lettered text half with a single vertical rule."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The work is in the public domain (Crane died in 1915), but the V&A licenses its images for non-commercial use only, which is not an open license. No image is stored."
+  },
+  "identifiers": {
+    "vam": "E.4164-1915"
+  }
+}

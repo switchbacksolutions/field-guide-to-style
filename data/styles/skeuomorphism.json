@@ -176,22 +176,22 @@
     {
       "metric": "color.patternShare",
       "min": 0.45,
-      "note": "Tiled material textures (linen, leather grain, paper rules, felt, brushed metal) cover most of the page. Provisional: set from the specimen until real references are measured."
+      "note": "Tiled material textures (linen, leather grain, paper rules, felt, brushed metal) cover most of the page. Provisional: set from the specimen. Checked on 2026-09-28 against six archived sites of 2009–2012: 0 on five and 0.26 on one, because they tile bitmap textures at default size, which the extractor counts as images (image share 0.46 to 1). Range kept for CSS-built work; judge archived sites by the rubric."
     },
     {
       "metric": "surface.patternShare",
       "min": 0.15,
-      "note": "Many separate surfaces carry their own texture, not one patterned backdrop. Provisional."
+      "note": "Many separate surfaces carry their own texture, not one patterned backdrop. Provisional. Checked on 2026-09-28 against six archived sites of 2009–2012: 0 on five, 0.64 on one, for the same bitmap reason."
     },
     {
       "metric": "surface.gradientShare",
       "min": 0.15,
-      "note": "Bars and buttons are beveled with vertical gradients. Provisional."
+      "note": "Bars and buttons are beveled with vertical gradients. Provisional. Checked on 2026-09-28 against six archived sites of 2009–2012: passes three; the other three draw bevels in images."
     },
     {
       "metric": "surface.shadow.share",
       "min": 0.25,
-      "note": "Objects sit on the surface with drop shadows or in inset wells. Provisional."
+      "note": "Objects sit on the surface with drop shadows or in inset wells. Provisional. Checked on 2026-09-28 against six archived sites of 2009–2012: passes two; the others draw shadows in images."
     },
     {
       "metric": "surface.shadow.hardShare",
@@ -203,5 +203,11 @@
       "max": 8,
       "note": "Corners are square or slightly rounded, not pill-shaped. Provisional."
     }
+  ],
+  "synthesis": [
+    "Apple’s own apps define the style’s core years. [iBooks](ref:ibooks-ipad-2010) and [Newsstand](ref:newsstand-ios-2011) put books and magazines on wooden shelves, [Game Center](ref:game-center-2010) used green felt, [iCal in Lion](ref:ical-os-x-lion-2011) used stitched leather, [Notes](ref:ios-notes-legal-pad) was a ruled pad, and the [Podcasts app](ref:podcasts-app-reel-to-reel-2012) showed a reel-to-reel deck until March 2013. Former Apple designers told Fast Company in 2012 that Steve Jobs pushed the felt and leather.",
+    "Precursors show where the metaphor came from: [Microsoft Bob](ref:microsoft-bob-1995) made the computer a house, [brushed-metal windows](ref:mac-os-x-brushed-metal) tied a metal texture to device-like apps, [Reason](ref:propellerhead-reason-2000) drew a studio rack with cables, and [Delicious Library](ref:delicious-library-2004) drew the wooden shelf that iBooks resembled. An interface can also imitate a plain object: the iOS calculator followed the [Braun ET66](ref:braun-et66-calculator-1987).",
+    "Independent Mac and iOS developers carried the style onto their websites. [Camera+](ref:camera-plus-website-2012) (leather grain, film strip, a hanging price tag) and [Bjango](ref:bjango-website-2011) (screwed-on plates, embossed labels) are clear examples. [Panic’s Transmit](ref:panic-transmit-website-2011) and [Coda 2](ref:panic-coda-website-2012) pages, [Reeder](ref:reeder-website-2011), and [Delicious Monster](ref:delicious-monster-website-2009) are borderline: photoreal objects or one texture on otherwise plain pages.",
+    "The fingerprint cannot see these sites’ materials. Before about 2012, textures, bevels, and shadows were bitmap images, which the extractor counts as images, so all six captures fail the pattern metrics and most fail the shadow metric. The ranges stay for CSS-built recreations such as the specimen. Judge archived sites by the rubric. The openly licensed [leather notepad illustration](ref:leather-notepad-illustration-2013) is the only stored image that shows the full vocabulary without an interface."
   ]
 }

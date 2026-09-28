@@ -1,0 +1,78 @@
+{
+  "id": "lissitzky-beat-the-whites-red-wedge-poster",
+  "title": "Beat the Whites with the Red Wedge",
+  "titleBreak": "Beat the Whites|with the Red Wedge",
+  "type": "print",
+  "medium": "poster",
+  "lede": "El Lissitzky’s Civil War poster turns a political slogan into pure geometry: a red triangle drives into a white circle on a black field.",
+  "summary": "A red wedge pierces a white circle; the slogan runs on diagonals in black, outline, and red capitals. El Lissitzky, Vitebsk, 1919–1920.",
+  "source": {
+    "url": "https://dlib.rsl.ru/viewer/01004879579#?page=1",
+    "label": "Russian State Library digital collection"
+  },
+  "creator": {
+    "name": "El Lissitzky",
+    "url": "https://www.wikidata.org/wiki/Q152233"
+  },
+  "made": "1919–1920 (Commons, after the Russian State Library); 1919 (Wikipedia)",
+  "moods": [
+    "agitational",
+    "dynamic",
+    "geometric"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Russian State Library scan published on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Klinom_Krasnym_Bej_Belych.JPG) (3360 × 2688 px, viewed at 1920 px). The Commons record names the Russian State Library as the holding institution and gives no call number."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "constructivism",
+      "note": "The founding image of the style’s graphic language: red and black on paper, a diagonal wedge, a circle, and rotated block capitals.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Lissitzky made the poster during the Russian Civil War, in which the Bolshevik “Reds” fought the anti-Bolshevik “Whites”. [Wikipedia](https://en.wikipedia.org/wiki/Beat_the_Whites_with_the_Red_Wedge).",
+    "The imprint at the bottom reads “№ 19 Литиздат. Политуправления Запфронта” (lithographic publishing office of the Political Administration of the Western Front) and “Уновис”, the group around Kazimir Malevich in Vitebsk. The sheet measures 48.8 × 69.2 cm according to the Commons record.",
+    "Wikipedia records that the art historian Maria Elena Versari connects the image to Italian Futurism, and that Nikolai Kolli built a “Red Wedge” monument in Moscow in 1918 with the same symbol. [Wikipedia](https://en.wikipedia.org/wiki/Beat_the_Whites_with_the_Red_Wedge)."
+  ],
+  "observed": [
+    "The format is landscape. The ground is unprinted cream paper, framed by a thin black rule.",
+    "A large red triangle enters from the upper left and points into a white circle that sits on a black field. The black field is cut by a diagonal edge that runs from the top center to the bottom center.",
+    "Small red and black splinters, bars, and a gray stippled rectangle scatter around the point of impact.",
+    "“КЛИНОМ” runs down to the right in heavy black sans-serif capitals. “КРАСНЫМ” follows in outline capitals on a steeper diagonal.",
+    "“БЕЙ” is set in red capitals inside the white circle, and “БЕЛЫХ” is set in outline capitals on a gray stippled block on the black field.",
+    "The only hue is an orange-red. Everything else is black, gray tint, and paper."
+  ],
+  "interpretation": [
+    "The poster states the style’s whole grammar in one sheet: one hue, a diagonal thrust, elementary shapes that carry the meaning, and words that follow the direction of the shapes instead of a baseline.",
+    "The screenshot measurement finds exactly one hue and 9% chromatic area, inside the style’s fingerprint for `color.hues` and `color.chromaticShare`."
+  ],
+  "borrow": [
+    "Let one red shape point at the most important element on the page, and make everything else black, gray, or paper.",
+    "Rotate each word of a short heading to a different angle so that the words follow the shapes.",
+    "Split the ground into a light and a dark field with one diagonal edge."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lissitzky-beat-the-whites-red-wedge-poster.jpg",
+      "alt": "Landscape poster on cream paper: a large red triangle from the upper left points into a white circle set on a black field, with scattered small red and black bars and Russian words in black, outline, and red capitals set on diagonals.",
+      "width": 1600,
+      "height": 1280,
+      "kind": "source-image",
+      "caption": "El Lissitzky, *Beat the Whites with the Red Wedge*, 1919–1920, lithograph. Russian State Library, image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Klinom_Krasnym_Bej_Belych.JPG).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Klinom_Krasnym_Bej_Belych.JPG",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks the scan {{PD-Art|PD-old-auto-expired}} (Public Domain Mark). Lissitzky died on 30 December 1941. Under Article 1281 of the Russian Civil Code, as summarized in the Commons template PD-Russia-expired, works of authors who died before 1 January 1952 are in the public domain in Russia in 2026, including the four-year extension for authors who worked during the Great Patriotic War. The poster was published before 1931, so it is also in the public domain in the United States."
+  },
+  "identifiers": {
+    "commons": "File:Klinom Krasnym Bej Belych.JPG"
+  }
+}

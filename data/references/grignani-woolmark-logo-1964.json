@@ -1,0 +1,58 @@
+{
+  "id": "grignani-woolmark-logo-1964",
+  "title": "Woolmark logo",
+  "type": "image",
+  "medium": "other",
+  "lede": "The International Wool Secretariat’s Woolmark of 1964: a skein of wool drawn as three looped bands of black and white stripes.",
+  "summary": "Three interlaced loops of tapering black stripes on white. The Woolmark, 1964, attributed to Franco Grignani.",
+  "source": {
+    "url": "https://a-g-i.org/design/woolmark",
+    "label": "AGI: Woolmark, 1964"
+  },
+  "creator": {
+    "name": "Franco Grignani (entered as “Francesco Seraglio” or “Saroglia”)"
+  },
+  "made": "1963 (competition); launched 1964",
+  "moods": [
+    "high-contrast",
+    "rhythmic",
+    "iconic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the AGI reproduction of the mark (1600 × 1457 px) in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "Op-art line work compressed into a trademark: parallel black stripes that taper and curve so that a flat mark seems to turn. Partial fit: a single emblem, not an all-over field.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Woolmark says that the International Wool Secretariat announced a design competition in 1963, and that the winning design, “a stylised skein of wool”, was “the work of a Milanese designer named Francesco Saroglia”. [Woolmark](https://www.woolmark.com/industry/certification/celebrating-60-years/).",
+    "AGI attributes the mark to Franco Grignani: he sat on the jury, entered under the alias Francesco Seraglio, and won. [AGI](https://a-g-i.org/design/woolmark). AIGA Eye on Design says the mark was claimed by Grignani in 1975. [AIGA Eye on Design](https://eyeondesign.aiga.org/the-hypnotic-mind-bending-work-of-italian-designer-franco-grignani/).",
+    "The V&A’s Riley records instead say that Bridget Riley designed the Woolmark logo. No other source checked here supports that. [V&A](https://collections.vam.ac.uk/item/O1036839/)."
+  ],
+  "observed": [
+    "Three looped bands interlace to form a rounded triangle with a small open triangle at the centre.",
+    "Each band is made of five or six parallel black stripes separated by white gaps. The stripes taper to points at their ends.",
+    "The stripes thicken on the outer curve and thin on the inner curve, so each loop seems to twist.",
+    "The mark is pure black on white, with no outline or tone."
+  ],
+  "interpretation": [
+    "The Woolmark carries Grignani’s optical research into a trademark: tapering parallel lines make the flat mark read as a turning, three-dimensional skein.",
+    "It shows how op line work can survive at small sizes when the stripes are few and heavy."
+  ],
+  "borrow": [
+    "Draw a mark from a few parallel stripes that taper to points, so that it seems to twist.",
+    "Keep op motifs for icons to five or six heavy stripes; fine lines break up at small sizes."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Woolmark is a registered trademark of The Woolmark Company, and Grignani died in 1999."
+  }
+}

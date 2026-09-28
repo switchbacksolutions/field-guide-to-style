@@ -1,0 +1,77 @@
+{
+  "id": "mondrian-composition-large-blue-plane-1921",
+  "title": "Composition with Large Blue Plane, Red, Black, Yellow, and Gray",
+  "type": "image",
+  "medium": "painting",
+  "lede": "A 1921 Mondrian in which one bright blue plane takes the upper right, balanced by a small red strip, a black block, and a yellow square at the opposite edges.",
+  "summary": "A large blue plane at upper right against gray and white, with red, black, and yellow at the edges. Piet Mondrian, 1921.",
+  "source": {
+    "url": "https://collections.dma.org/artwork/4348683",
+    "label": "Dallas Museum of Art: Composition with Large Blue Plane, Red, Black, Yellow, and Gray"
+  },
+  "creator": {
+    "name": "Piet Mondrian",
+    "url": "https://en.wikipedia.org/wiki/Piet_Mondrian"
+  },
+  "made": "1921",
+  "moods": [
+    "balanced",
+    "bright",
+    "orthogonal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Dallas Museum of Art photograph on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Piet_Mondrian_-_Composition_with_Large_Blue_Plane,_Red,_Black,_Yellow,_and_Gray_-_1984.200.FA_-_Dallas_Museum_of_Art.jpg) (7028 × 8465 px, viewed at 960 px), object 1984.200.FA. The photograph includes the white frame edge and a color checker strip at the top, which the stored copy crops off. Catalogue facts are from the museum’s record on Google Arts & Culture."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "A textbook neoplastic composition: one dominant primary plane, small opposing color planes at the far edges, gray and white fields, and black lines that stop short of some edges.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Oil on canvas, 60.33 × 49.85 cm. Dallas Museum of Art, Foundation for the Arts Collection, gift of Mrs. James H. Clark, 1984.200.FA. [Google Arts & Culture](https://artsandculture.google.com/asset/composition-with-large-blue-plane-red-black-yellow-and-gray/CwE7U9R78Q2UOQ).",
+    "The museum’s text quotes Mondrian: “Color exists only through another color, dimension is defined by another dimension.” [Google Arts & Culture](https://artsandculture.google.com/asset/composition-with-large-blue-plane-red-black-yellow-and-gray/CwE7U9R78Q2UOQ)."
+  ],
+  "observed": [
+    "A bright blue plane covers the upper right, about a third of the canvas; a black line divides its lower part into two smaller blue cells.",
+    "A narrow orange-red strip runs down part of the left edge beside a black rectangle.",
+    "A small pale yellow square sits at the bottom right, below a white cell.",
+    "The rest of the surface is light gray and white; the grays differ slightly from plane to plane.",
+    "The black lines are thick and even. The top-left line stops before the left edge, and the lowest vertical line stops above the bottom edge.",
+    "“PM ’21” is painted at lower left."
+  ],
+  "interpretation": [
+    "The painting shows the rubric’s balance by opposition in its clearest form: the one large color plane is answered by three small ones in the far corners.",
+    "Lines that stop short of the edge keep the grid from reading as a closed table, which is a detail most web imitations miss."
+  ],
+  "borrow": [
+    "Give one primary most of the color area and use the other two only as small accents in the opposite corners.",
+    "End some divider lines a little before the container edge."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mondrian-composition-large-blue-plane-1921.jpg",
+      "alt": "Abstract painting: a large bright blue plane at upper right, divided by black lines, light gray and white planes at left and below, a narrow red strip and a black block at the lower left edge, and a small yellow square at the bottom right.",
+      "width": 936,
+      "height": 1122,
+      "kind": "source-image",
+      "caption": "Piet Mondrian, Composition with Large Blue Plane, Red, Black, Yellow, and Gray, 1921. Dallas Museum of Art, 1984.200.FA. Photograph from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Piet_Mondrian_-_Composition_with_Large_Blue_Plane,_Red,_Black,_Yellow,_and_Gray_-_1984.200.FA_-_Dallas_Museum_of_Art.jpg), public domain; the color checker strip is cropped off.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/88/Piet_Mondrian_-_Composition_with_Large_Blue_Plane%2C_Red%2C_Black%2C_Yellow%2C_and_Gray_-_1984.200.FA_-_Dallas_Museum_of_Art.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks the museum photograph PD-Art with PD-old-auto-expired: Mondrian died in 1944, so the work is public domain in the Netherlands since 2015. Painted in 1921, it is public domain in the United States as a work published before 1931, and also under the life-plus-70 rule if it counts as unpublished."
+  },
+  "identifiers": {
+    "wikidata": "Q18667211",
+    "dma": "1984.200.FA",
+    "commons": "File:Piet Mondrian - Composition with Large Blue Plane, Red, Black, Yellow, and Gray - 1984.200.FA - Dallas Museum of Art.jpg"
+  }
+}

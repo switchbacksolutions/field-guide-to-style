@@ -1,0 +1,77 @@
+{
+  "id": "mondrian-composition-yellow-red-black-blue-gray-1920",
+  "title": "Composition with Yellow, Red, Black, Blue, and Gray",
+  "type": "image",
+  "medium": "painting",
+  "lede": "One of the first paintings in Mondrian’s mature neoplastic manner: a white square at the center, ringed by black, gray, and primary planes, divided by black lines of one weight.",
+  "summary": "White center square, red strip at left, yellow at top and right, a dark blue plane below, black lines. Piet Mondrian, 1920.",
+  "source": {
+    "url": "https://www.stedelijk.nl/en/collection/3013-piet-mondriaan-compositie-met-geel-rood-zwart-blauw-en-grijs",
+    "label": "Stedelijk Museum Amsterdam: Compositie met geel, rood, zwart, blauw en grijs"
+  },
+  "creator": {
+    "name": "Piet Mondrian",
+    "url": "https://en.wikipedia.org/wiki/Piet_Mondrian"
+  },
+  "made": "1920",
+  "moods": [
+    "balanced",
+    "austere",
+    "orthogonal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Wikimedia Commons image (from RKD image 218858; 1000 × 860 px, viewed at 960 px) of the painting in the Stedelijk Museum Amsterdam, object A 9864. The Stedelijk collection page renders with JavaScript and returned no text to the fetch tool."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "A canonical neoplastic painting of 1920: only horizontal and vertical lines, flat primaries with black, white, and several grays, and an asymmetric balance around a white center.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Stedelijk Museum Amsterdam holds the painting as object A 9864, dated 1920. [Wikidata Q24058759](https://www.wikidata.org/wiki/Q24058759) gives the same number and date.",
+    "Commons lists it with Mondrian’s works of his second Paris period, 1920–1937. [Commons](https://commons.wikimedia.org/wiki/File:Piet_Mondriaan_-_Composition_with_yellow,_red,_black,_blue_and_gray_-_A_9864_-_Stedelijk_Museum_Amsterdam.jpg)."
+  ],
+  "observed": [
+    "A large white square fills the center; a flat yellow plane sits above it and a dark, grayish blue plane below it.",
+    "A tall red strip runs down the left edge; two large black planes flank the white square at left and top right.",
+    "A second yellow plane stands at the right, above small light-gray cells; gray planes fill the corners.",
+    "Black lines of about the same width divide every plane; several run to the edge of the canvas, and some stop short of it at the top and bottom.",
+    "The initials and date “PM 20” are painted at lower left.",
+    "Paint texture and fine cracks are visible in the white and gray planes."
+  ],
+  "interpretation": [
+    "The blue is dark and gray, the red is a warm earth red, and black and gray planes cover as much area as the primaries. The pure, bright primaries of later “Mondrian” pastiche are not yet here.",
+    "The composition is centered on the white square but not symmetric: the color planes are distributed to the edges, which fits the rubric’s asymmetric balance."
+  ],
+  "borrow": [
+    "Put a large neutral plane at the center and push the colors to the edges.",
+    "Use black planes as well as black lines, so black carries weight, not only structure."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mondrian-composition-yellow-red-black-blue-gray-1920.jpg",
+      "alt": "Abstract painting: a large white square in the center, yellow planes above it and at the right, a dark grayish blue plane below it, a red strip along the left edge, two black planes, and light gray cells, all divided by black horizontal and vertical lines.",
+      "width": 960,
+      "height": 826,
+      "kind": "source-image",
+      "caption": "Piet Mondrian, Composition with Yellow, Red, Black, Blue, and Gray, 1920. Stedelijk Museum Amsterdam, A 9864. Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Piet_Mondriaan_-_Composition_with_yellow,_red,_black,_blue_and_gray_-_A_9864_-_Stedelijk_Museum_Amsterdam.jpg), public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Piet_Mondriaan_-_Composition_with_yellow%2C_red%2C_black%2C_blue_and_gray_-_A_9864_-_Stedelijk_Museum_Amsterdam.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks the image PD-Art with PD-old-auto-expired: Mondrian died in 1944, so his work is public domain in the Netherlands and the EU since 2015. The painting dates from 1920; it is public domain in the United States as a work published before 1931, and also under the life-plus-70 rule if it counts as unpublished."
+  },
+  "identifiers": {
+    "wikidata": "Q24058759",
+    "stedelijk": "A 9864",
+    "commons": "File:Piet Mondriaan - Composition with yellow, red, black, blue and gray - A 9864 - Stedelijk Museum Amsterdam.jpg"
+  }
+}

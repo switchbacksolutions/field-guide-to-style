@@ -1,0 +1,74 @@
+{
+  "id": "lovelace-soft-ui-home-assistant",
+  "title": "Lovelace Soft UI for Home Assistant",
+  "type": "product",
+  "medium": "software",
+  "lede": "A December 2019 theme that brought the style to real smart-home dashboards, in a very faint form.",
+  "summary": "Open-source neumorphic card styles for the Home Assistant Lovelace dashboard, with light and dark modes.",
+  "source": {
+    "url": "https://github.com/qiz-li/lovelace-soft-ui",
+    "label": "qiz-li/lovelace-soft-ui on GitHub"
+  },
+  "creator": {
+    "name": "qiz-li (copyright “ilzq”)",
+    "url": "https://github.com/qiz-li"
+  },
+  "made": "2019–2026 (repository created 27 December 2019; now archived)",
+  "moods": [
+    "calm",
+    "quiet",
+    "minimal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the repository’s own `images/screenshot.png` (3349 × 1796), which shows the light and dark themes in two browser windows. The stored image is a crop of the light window without the browser toolbar. The screenshot may be more recent than 2019. Licence and dates read through the GitHub API."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "Partial fit. The README calls it “a neumorphic theme” and its CSS gives each card a white shadow up-left and a gray shadow down-right on the page color, but the shadows are so faint that the cards read as soft floating tiles.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The README calls it “a neumorphic theme for Home Assistant Lovelace” with “elegant soft shadows, light & dark modes”.",
+    "Its light theme sets `box-shadow: -5px -5px 15px #ffffff, 5px 5px 15px #ebebeb` and `border-radius: 15px` on every card, and a pressed state `inset -4px -4px 5px #ffffff, inset 4px 4px 5px #ebebeb`.",
+    "The repository was created on 27 December 2019, two weeks after the style was named. MIT License, © 2019 ilzq. About 890 GitHub stars on 2026-09-28. The project is now archived.",
+    "In the dark window of the same screenshot, cards are near-black tiles on a dark gray page and an active button has an amber outline."
+  ],
+  "observed": [
+    "A near-white page (#f7f8fa) with square tiles in the same color: two small icon buttons, two larger tiles (“Study / Off”, “Stared / On”), and two icon tiles next to scene titles.",
+    "Each tile has a very soft gray shadow that is strongest at the lower right. The white highlight at upper left is barely visible against the near-white page.",
+    "The active tile has a 2–3 px blue outline, and the thumbs-up and star icons are blue. All other icons and text are slate gray.",
+    "Corners are rounded at roughly 15 px. Type is a medium-weight sans-serif (Roboto-like)."
+  ],
+  "interpretation": [
+    "A real smart-home dashboard, one of the uses the style is known for. It shows the common problem of the style on a near-white page: the light shadow disappears, and only a soft drop shadow remains. The blue outline on the active tile adds the contrast that the shadows alone cannot give.",
+    "Measured with `tools/image-traits.py`: the page color covers about 97 % of the image."
+  ],
+  "borrow": [
+    "Mark the active state with the accent color as well as a pressed shadow, so it survives on screens where the shadows vanish."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lovelace-soft-ui-home-assistant.jpg",
+      "alt": "A near-white Home Assistant dashboard with rounded square tiles in the page color and very soft shadows; one tile labeled Stared On has a blue outline, and scene tiles show a GitHub logo and a remote-control icon.",
+      "width": 1472,
+      "height": 1468,
+      "kind": "source-image",
+      "caption": "Light theme, cropped from the README screenshot of [Lovelace Soft UI](https://github.com/qiz-li/lovelace-soft-ui). MIT License. The GitHub mark and Material Design icons are incidental.",
+      "original": "https://raw.githubusercontent.com/qiz-li/lovelace-soft-ui/HEAD/images/screenshot.png",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "MIT",
+    "statement": "Image committed to the repository and covered by its MIT License, © 2019 ilzq. It shows the theme applied to Home Assistant’s own interface; the crop removes the browser frame."
+  },
+  "identifiers": {
+    "github": "qiz-li/lovelace-soft-ui"
+  }
+}

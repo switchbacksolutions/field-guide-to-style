@@ -1,0 +1,64 @@
+{
+  "id": "dev-windows-com-website-2012",
+  "title": "Windows Dev Center website, 2012",
+  "type": "website",
+  "medium": "website",
+  "lede": "Microsoft’s developer page for Windows 8 apps: a lime-green hero band, a flat cyan button, and plain link columns.",
+  "summary": "Solid lime hero with dark gray headline and a square cyan button, over blue headings and link lists. November 2012.",
+  "source": {
+    "url": "http://msdn.microsoft.com/en-US/windows/apps",
+    "label": "msdn.microsoft.com, Windows Dev Center – Windows Store apps",
+    "archive": "https://web.archive.org/web/20121114002439/http://msdn.microsoft.com/en-US/windows/apps"
+  },
+  "creator": {
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com/"
+  },
+  "made": "2012",
+  "moods": [
+    "clean",
+    "bright",
+    "technical"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 from the Wayback Machine copy of 14 November 2012, and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. Nothing covers the page. Segoe UI is not installed on the capture machine, so text that the archive did not serve as a web font renders in a fallback sans-serif."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "Clear: a solid lime band, a flat cyan button, and headings and links separated only by space.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A white header holds the cyan Windows logo and “Dev Center – Windows Store apps”, a thin outlined search field, and plain navigation words above a thin gray rule.",
+    "A full-width lime-green band has the headline “Develop great apps for Windows 8” in large dark gray type, one line of text, and a small square cyan “Show me” button.",
+    "Product images on the band show the Windows 8 Start screen with colored tiles.",
+    "Below, blue headings and paragraphs run in one column; the right column has black headings with lists of cyan links."
+  ],
+  "interpretation": [
+    "Measured: the headings are set in weight 100, which the fallback face does not show. Only 4 boxes are filled or bordered, and 3 of them carry a 1 px rule or field border, so the border share is 0.75 and the capture fails the border range."
+  ],
+  "borrow": [
+    "Use one bright secondary hue, such as lime, as a full-width band behind dark gray text instead of white text."
+  ],
+  "images": [
+    {
+      "file": "assets/references/dev-windows-com-website-2012.jpg",
+      "alt": "Windows Dev Center page of November 2012: a white header, a full-width lime-green band with the headline Develop great apps for Windows 8, a cyan Show me button and images of tablets with the Start screen, and columns of blue headings and links.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [Wayback Machine copy of msdn.microsoft.com, 14 November 2012](https://web.archive.org/web/20121114002439/http://msdn.microsoft.com/en-US/windows/apps).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot of an archived copy, captured for commentary."
+  }
+}

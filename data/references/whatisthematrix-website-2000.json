@@ -1,0 +1,63 @@
+{
+  "id": "whatisthematrix-website-2000",
+  "title": "The Matrix website, 2000",
+  "type": "website",
+  "medium": "website",
+  "lede": "The official site of The Matrix in December 2000: a black page with the green film logo, spaced capital menu items, and film stills.",
+  "summary": "Black page with the green MATRIX logo, small spaced capitals, film stills of the cast in fog, and a red-pill button.",
+  "source": {
+    "url": "http://whatisthematrix.warnerbros.com/",
+    "label": "whatisthematrix.warnerbros.com",
+    "archive": "https://web.archive.org/web/20001206212800/http://whatisthematrix.warnerbros.com/"
+  },
+  "creator": {
+    "name": "Warner Bros."
+  },
+  "made": "2000 (capture date, 6 December 2000)",
+  "moods": [
+    "dark",
+    "cyber",
+    "techno"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. Two image boxes in the center column did not load (probably Flash or ad slots); they cover less than a quarter of the page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Borderline: the cyber side of the period (black, digital green, spaced techno capitals). It has no chrome, candy color, or rounded plastic. The page draws its graphics with images, so the CSS fingerprint measures flat, square, unshadowed boxes (see the style page). Judge it by the rubric.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The page is black. A film still of the three main characters walking out of fog between dark skyscrapers fills the left column and repeats at the right.",
+    "“MATRIX” is at the top in thin, glowing green capitals.",
+    "Menu items such as “ENHANCED VERSION”, “GET FLASH”, “SOUNDTRACK”, and “SHORTCUTS” are small white capitals with wide spacing.",
+    "“HACK THE MATRIX” is in green condensed capitals; a book cover sits in a green glowing outline with “PREORDER HERE”.",
+    "A red pill in a red target circle and a gold Warner Bros. shield sit below. A red banner reads “NOT A SOUND / NOT A WARNING”."
+  ],
+  "interpretation": [
+    "The site shows the dark, cyber end of the Y2K range around 1999–2000: glowing green type and spaced capitals, but film photography instead of rendered objects.",
+    "It is useful as an edge case between Y2K and later cyberpunk revivals."
+  ],
+  "notice": "The live site no longer exists. This is an archived copy of the HTML page; the site’s separate Flash version was not captured.",
+  "images": [
+    {
+      "file": "assets/references/whatisthematrix-website-2000.jpg",
+      "alt": "Archived Matrix site: black page, film still of three figures in long coats walking out of fog between skyscrapers on both sides, a thin green MATRIX logo, small spaced white menu capitals, a book in a green glow, a red pill in a target, and a red banner.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [archived copy](https://web.archive.org/web/20001206212800/http://whatisthematrix.warnerbros.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Warner Bros.. Screenshot captured for commentary."
+  }
+}

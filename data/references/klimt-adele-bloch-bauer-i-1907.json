@@ -1,0 +1,77 @@
+{
+  "id": "klimt-adele-bloch-bauer-i-1907",
+  "title": "Portrait of Adele Bloch-Bauer I",
+  "type": "image",
+  "medium": "painting",
+  "lede": "Gustav Klimt’s square portrait of 1907 sets a naturalistic face and hands in a field of gold covered with squares, spirals, eyes, and checkered strips.",
+  "summary": "A square canvas of gold and silver leaf, with the sitter’s dress and chair built from squares, spirals, and eye motifs. Gustav Klimt, Vienna, 1907.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Portrait_of_Adele_Bloch-Bauer_I",
+    "label": "Wikipedia: Portrait of Adele Bloch-Bauer I"
+  },
+  "creator": {
+    "name": "Gustav Klimt",
+    "url": "https://en.wikipedia.org/wiki/Gustav_Klimt"
+  },
+  "made": "1903–1907 (signed and dated 1907)",
+  "moods": [
+    "opulent",
+    "elegant",
+    "geometric"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1280 × 1279 px rendition of the Neue Galerie New York photograph on Wikimedia Commons. Gold and silver leaf photograph differently under different light, so the colours are approximate."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "Clear for the gold and the geometric ornament: a square format, grids of small squares, and a checkered strip, around a flat figure. It is denser and richer than Secession graphics, which keep wide plain areas.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: an oil painting on canvas with gold leaf by Gustav Klimt, completed between 1903 and 1907, commissioned by the sitter’s husband, Ferdinand Bloch-Bauer. It is described as the final and most fully representative work of Klimt’s golden phase. It was stolen by the Nazis in 1941, restituted to Maria Altmann in 2006, and sold the same year. [Wikipedia](https://en.wikipedia.org/wiki/Portrait_of_Adele_Bloch-Bauer_I).",
+    "The Commons file page gives the medium as oil, silver, and gold on canvas, 140 × 140 cm, and the location as the Neue Galerie New York. [Commons](https://commons.wikimedia.org/wiki/File:Gustav_Klimt,_1907,_Adele_Bloch-Bauer_I,_Neue_Galerie_New_York.jpg)."
+  ],
+  "observed": [
+    "The canvas is square. The left half is an almost plain field of speckled gold, with two small silver squares.",
+    "Behind the sitter, a panel is filled with small squares, each outlined and holding a dot or a smaller square, some in red.",
+    "The dress is a tall field of gold triangles and almond-shaped eyes, and the chair and sleeves carry spirals, circles, and flat rectangles of gold and silver.",
+    "A narrow black and white checkered strip runs along the lower left, above a band of flat green.",
+    "Only the face, shoulders, and hands are painted naturalistically; everything else is flat pattern.",
+    "The signature “GUSTAV / KLIMT” is lettered in a small square at the lower right, with “19 / 07” below."
+  ],
+  "interpretation": [
+    "The painting shows where the style’s gold comes from. The square motifs and the checkered strip match the Wiener Werkstätte vocabulary, while the eyes and spirals are Klimt’s own.",
+    "The signature in a small square box is the same device as the monograms on Werkstätte objects and posters."
+  ],
+  "borrow": [
+    "Leave one large area in flat gold or a gold tint, and concentrate pattern in one zone beside it.",
+    "Use a grid of small outlined squares, each with a dot, as a panel texture.",
+    "Put a signature or date in a small square box of stacked capitals."
+  ],
+  "images": [
+    {
+      "file": "assets/references/klimt-adele-bloch-bauer-i-1907.jpg",
+      "alt": "Square gold painting: a pale-faced woman with dark hair sits in a gold dress covered in eyes and triangles, against a background panel of small outlined squares and gold spirals; the left half is speckled gold with a checkered strip and a green band at the lower left.",
+      "width": 1280,
+      "height": 1279,
+      "kind": "source-image",
+      "caption": "Gustav Klimt, Portrait of Adele Bloch-Bauer I, 1907. Neue Galerie New York. Photograph via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gustav_Klimt,_1907,_Adele_Bloch-Bauer_I,_Neue_Galerie_New_York.jpg), public domain (PD-Art).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Gustav_Klimt%2C_1907%2C_Adele_Bloch-Bauer_I%2C_Neue_Galerie_New_York.jpg/1280px-Gustav_Klimt%2C_1907%2C_Adele_Bloch-Bauer_I%2C_Neue_Galerie_New_York.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The Commons file carries “PD-Art | PD-old-auto-1923 | deathyear=1918”. Gustav Klimt died in 1918, so the painting is in the public domain in Austria; the Commons licence text also states that it is in the public domain in the United States (published before 1931). The photograph is a faithful reproduction of a two-dimensional work."
+  },
+  "identifiers": {
+    "wikidata": "Q354396",
+    "commons": "File:Gustav Klimt, 1907, Adele Bloch-Bauer I, Neue Galerie New York.jpg"
+  }
+}

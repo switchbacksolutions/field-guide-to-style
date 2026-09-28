@@ -1,0 +1,64 @@
+{
+  "id": "panic-coda-website-2012",
+  "title": "Panic Coda 2 website, 2012",
+  "type": "website",
+  "medium": "website",
+  "lede": "Panic’s page for the web editor Coda 2, archived August 2012: a photoreal leaf with water drops on a textured navy band.",
+  "summary": "A dew-covered leaf on dark navy texture, a paper-clipped logo, and a gray device-like strip of tabs.",
+  "source": {
+    "url": "http://panic.com/coda/",
+    "label": "panic.com/coda",
+    "archive": "https://web.archive.org/web/20120808132653/http://panic.com/coda/"
+  },
+  "made": "2012",
+  "moods": [
+    "fresh",
+    "polished",
+    "illustrative"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The archived page may lack some images or scripts that the live page had. A flat blue bar in the middle is probably an image that the archive did not load."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "Borderline: a textured band, photoreal objects, and a paper clip, but the middle of the page is flat gray and black.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The top band is dark navy with fine diagonal lines like brushed fabric.",
+    "A large photoreal green leaf with water drops, the Coda icon, hangs over the band’s lower edge onto the gray page.",
+    "The Panic logo tab at the top left is held by a paper clip; the links have photoreal icons of a crate, a question mark, and a box.",
+    "A gray strip at the bottom holds red, orange, and green glossy buttons and tab thumbnails with a riveted metal Panic tile.",
+    "A flat two-tone blue bar in the middle is probably an image or animation that the archive did not load."
+  ],
+  "interpretation": [
+    "It passes 4 of 6 metrics: patterned surfaces on 64% of boxes and gradients on 31%. Color pattern share is 0.26 and shadow share 0.18, both under the provisional minimums."
+  ],
+  "borrow": [
+    "Let a photoreal object overlap the edge between a textured header and a plain body, so the object seems to sit on the page."
+  ],
+  "images": [
+    {
+      "file": "assets/references/panic-coda-website-2012.jpg",
+      "alt": "Archived Coda 2 page: a dark navy textured band with a large dew-covered green leaf, a paper-clipped Panic logo tab, links with photoreal icons, a flat blue bar, two text columns, and a gray strip of glossy buttons and document thumbnails on black.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [archived copy](https://web.archive.org/web/20120808132653/http://panic.com/coda/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  },
+  "creator": {
+    "name": "Panic"
+  }
+}

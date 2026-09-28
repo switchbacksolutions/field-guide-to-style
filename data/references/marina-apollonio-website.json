@@ -1,0 +1,66 @@
+{
+  "id": "marina-apollonio-website",
+  "title": "Marina Apollonio website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The artist’s own site opens on a black and white field of concentric rings that tighten into one side, under a plain sans-serif name and menu.",
+  "summary": "A wide panel of black and white concentric rings that crowd together, with light grey sans-serif type on white.",
+  "source": {
+    "url": "https://www.marinaapollonio.com/",
+    "label": "marinaapollonio.com"
+  },
+  "creator": {
+    "name": "Marina Apollonio"
+  },
+  "moods": [
+    "vibrating",
+    "calm",
+    "high-contrast"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. Nothing covers the page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "Clear in imagery: a wide black and white ring field that changes by steps, with plain sans-serif text kept off the pattern. A soft shadow under the next panel is a counter-trait.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The site describes Apollonio as an Italian artist of the optical and kinetic movement (page title: “Artista Italiana del movimento Ottico/Cinetico”). The Peggy Guggenheim Collection held a retrospective, *Marina Apollonio: Beyond the Circle*, from October 2024 to March 2025. [Peggy Guggenheim Collection](https://www.guggenheim-venice.it/en/whats-on/exhibitions/marina-apollonio-beyond-the-circle/)."
+  ],
+  "observed": [
+    "“Marina Apollonio” sits at the top left in a light, dark-grey geometric sans-serif on two lines. The menu at the right (biografia, eventi, opere, contatti) uses the same face in black.",
+    "Below, a panel almost the full width of the page shows a large half-disc of concentric black and white rings of equal width.",
+    "The centre of the rings is off to the upper middle, so the rings crowd together on one side and spread out on the other, and the disc seems to tilt in depth.",
+    "A white panel with a soft grey shadow starts at the bottom edge of the viewport."
+  ],
+  "interpretation": [
+    "The page shows the simplest web form of the style: an artwork reproduction used as a hero field, with the interface reduced to a small neutral sans-serif.",
+    "The fingerprint misses most of this. The rings are an image, so the pattern metrics read 0; the body text is #666 grey, so the text contrast is 5.7; and the soft shadow under the next panel gives a shadow share of 0.55. The screenshot palette gives lightness 0.69 and no hues."
+  ],
+  "borrow": [
+    "Offset the centre of a set of concentric rings so that they crowd on one side and suggest a tilt.",
+    "Keep the name and menu small and plain above the field, so the pattern carries the page."
+  ],
+  "images": [
+    {
+      "file": "assets/references/marina-apollonio-website.jpg",
+      "alt": "Marina Apollonio home page: the artist’s name in light grey sans-serif at top left and a four-item menu at right, above a wide panel of black and white concentric rings whose centre is off to the upper middle.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [marinaapollonio.com](https://www.marinaapollonio.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lato-typeface.png",
+  "captured": "2026-09-28T17:36:42+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f2f2f2",
+        "share": 0.531
+      },
+      {
+        "hex": "#37abc8",
+        "share": 0.266
+      },
+      {
+        "hex": "#cccccc",
+        "share": 0.047
+      },
+      {
+        "hex": "#2b0e0d",
+        "share": 0.035
+      },
+      {
+        "hex": "#0b2127",
+        "share": 0.019
+      },
+      {
+        "hex": "#e6e6e5",
+        "share": 0.014
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.014
+      },
+      {
+        "hex": "#01657f",
+        "share": 0.013
+      },
+      {
+        "hex": "#1b3f4a",
+        "share": 0.007
+      },
+      {
+        "hex": "#d8dbdf",
+        "share": 0.007
+      }
+    ],
+    "background": "#f2f2f2",
+    "chroma": 0.18,
+    "lightness": 0.74,
+    "chromaticShare": 0.31,
+    "accentChroma": 0.55,
+    "distinct": 4,
+    "hues": 1
+  }
+}

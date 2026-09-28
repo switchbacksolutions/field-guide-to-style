@@ -1,0 +1,125 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20110622074312if_/http://bjango.com/",
+  "title": "Bjango: Stunning iPhone, iPad and Mac apps",
+  "captured": "2011-06-22T07:43:22.679Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica",
+        "share": 1
+      }
+    ],
+    "baseSize": 12,
+    "maxSize": 12,
+    "sizeRange": 1,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#51405f",
+        "share": 0.821
+      },
+      {
+        "hex": "#0000ee",
+        "share": 0.179
+      }
+    ],
+    "background": null,
+    "text": "#51405f",
+    "contrast": null,
+    "chroma": 0.27,
+    "lightness": 0.34,
+    "chromaticShare": 0.18,
+    "accentChroma": 0.93,
+    "distinct": 2,
+    "hues": 1,
+    "imageShare": 1,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 0,
+    "radius": {
+      "median": null,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#1e1e1e",
+        "share": 0.53
+      },
+      {
+        "hex": "#180827",
+        "share": 0.104
+      },
+      {
+        "hex": "#150f16",
+        "share": 0.058
+      },
+      {
+        "hex": "#292929",
+        "share": 0.054
+      },
+      {
+        "hex": "#525159",
+        "share": 0.045
+      },
+      {
+        "hex": "#3c3d45",
+        "share": 0.041
+      },
+      {
+        "hex": "#e7bb3c",
+        "share": 0.024
+      },
+      {
+        "hex": "#8a8a8e",
+        "share": 0.021
+      },
+      {
+        "hex": "#050506",
+        "share": 0.02
+      },
+      {
+        "hex": "#46283c",
+        "share": 0.018
+      }
+    ],
+    "background": "#1e1e1e",
+    "chroma": 0.06,
+    "lightness": 0.17,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.54,
+    "distinct": 9,
+    "hues": 3
+  }
+}

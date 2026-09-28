@@ -1,0 +1,77 @@
+{
+  "id": "de-stijl-journal-cover-and-advertisements-1922",
+  "title": "De Stijl journal cover and advertisement page, 1922",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "Van Doesburg’s typography for the journal: DE STIJL in black capitals over a large red NB, and an advertisement page in which thick black bars frame each notice.",
+  "summary": "Black sans-serif capitals over a red NB, vertical text blocks, and ads framed by thick black bars. Theo van Doesburg, 1920–1922.",
+  "source": {
+    "url": "https://resolver.kb.nl/resolve?urn=urn:gvn:ICN01:1884",
+    "label": "Geheugen van Nederland: Typografie voor De Stijl, omslag en een paar advertenties"
+  },
+  "creator": {
+    "name": "Theo van Doesburg",
+    "url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg"
+  },
+  "made": "1920–1922 (the cover shown is for the fifth volume, 1922)",
+  "moods": [
+    "typographic",
+    "orthogonal",
+    "austere"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons copy (1200 × 1533 px, viewed at 960 px) of the Geheugen van Nederland image of a mounted sheet, 41 × 32.5 cm, in the Centraal Museum Utrecht on loan from the Dutch State (inventory AB4945 in the file name). Also compared the Commons scan of the 1921 cover from the 1968 facsimile reprint ([File:De Stijl - vierde jaargang 1921 001.jpg](https://commons.wikimedia.org/wiki/File:De_Stijl_-_vierde_jaargang_1921_001.jpg))."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "The movement’s own journal: rectilinear sans-serif capitals, one flat primary, text turned vertical, and thick black bars as structure.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons records the object as “Typografie voor De Stijl, omslag en een paar advertenties” (typography for De Stijl, cover and some advertisements), printed matter, 1920–1922, 41 × 32.5 cm, Centraal Museum Utrecht, on loan from the Dutch State. [Commons](https://commons.wikimedia.org/wiki/File:De_Stijl_typography_by_Theo_van_Doesburg_AB4945.jpg).",
+    "The same cover layout, with “VIERDE JAARGANG 1921”, opens the fourth volume. Commons credits that cover to Theo van Doesburg and Piet Mondrian. [Commons](https://commons.wikimedia.org/wiki/File:De_Stijl_-_vierde_jaargang_1921_001.jpg).",
+    "Van Doesburg edited the journal from 1917 until his death in 1931. [Wikipedia: De Stijl](https://en.wikipedia.org/wiki/De_Stijl)."
+  ],
+  "observed": [
+    "The cover shows “DE STIJL” in black geometric sans-serif capitals printed over two tall red letters, “N” and “B”.",
+    "“VIJFDE JAARGANG 1922” sits at top right; a tall red numeral “1” stands in the middle.",
+    "A block of letter-spaced capitals, “INTERNATIONAAL MAANDBLAD VOOR NIEUWE KUNST WETENSCHAP EN KULTUUR REDACTIE THEO VAN DOESBURG”, runs vertically at the right.",
+    "“WEIMAR” runs vertically at the lower left above the line “LEIDEN ANTWERPEN PARIJS ROME”.",
+    "The advertisement page is divided into boxes by thick black bars: horizontal bars above and below some notices and vertical bars at the sides of others. The notices advertise Gispen, Valori Plastici, De Sikkel, and Mécano.",
+    "The sheets are mounted on a dark blue-black ground with the label “1921 / THEO VAN DOESBURG”."
+  ],
+  "interpretation": [
+    "The red NB probably abbreviates Nieuwe Beelding, the Dutch name for neoplasticism (not checked against a source). The cover sets the movement’s program as a letter block under the title.",
+    "The advertisement page shows the painted grid translated into print: black bars do the work of rules and borders, and they stop short of each other instead of closing the boxes."
+  ],
+  "borrow": [
+    "Set a short title in black capitals over one oversized letter in a primary.",
+    "Frame content blocks with thick black bars on only two sides, and let the bars stop short of each other.",
+    "Turn a secondary text block 90° and set it in letter-spaced capitals."
+  ],
+  "images": [
+    {
+      "file": "assets/references/de-stijl-journal-cover-and-advertisements-1922.jpg",
+      "alt": "Two printed sheets on a dark ground. Above, a journal cover with DE STIJL in black capitals over a large red N and B, a red numeral 1, and a vertical block of small capitals. Below, an advertisement page where thick black bars frame notices for Gispen, Valori Plastici, De Sikkel, and Mécano.",
+      "width": 960,
+      "height": 1226,
+      "kind": "source-image",
+      "caption": "Theo van Doesburg, typography for De Stijl: cover of the fifth volume (1922) and an advertisement page. Centraal Museum Utrecht, on loan from the Dutch State. Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:De_Stijl_typography_by_Theo_van_Doesburg_AB4945.jpg), public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8f/De_Stijl_typography_by_Theo_van_Doesburg_AB4945.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks the image PD-old. Van Doesburg died in 1931 and Mondrian in 1944, so the design is public domain in the Netherlands. It was published in 1921–1922, before 1931, so it is public domain in the United States."
+  },
+  "identifiers": {
+    "commons": "File:De Stijl typography by Theo van Doesburg AB4945.jpg"
+  }
+}

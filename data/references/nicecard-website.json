@@ -1,0 +1,55 @@
+{
+  "id": "nicecard-website",
+  "title": "Nicecard",
+  "type": "website",
+  "medium": "website",
+  "lede": "A Webflow landing page for a fictional credit card, in the dark variant of the style.",
+  "summary": "Dark Webflow landing page: raised charcoal pill buttons, orange headline, and floating 3D cards.",
+  "source": {
+    "url": "https://nicecard.webflow.io/",
+    "label": "nicecard (Webflow)"
+  },
+  "moods": [
+    "premium",
+    "tactile"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A “Made in Webflow” badge sits at the lower right."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "Borderline. The navigation and hero pills are dark neumorphic shapes (charcoal on charcoal, lit edge above, dark shadow below), but the main image is floating 3D cards and many elements carry outlines.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A charcoal page. “The future of credit cards is nice ;)” is set in large bold orange sans-serif; the body is lorem ipsum.",
+    "Navigation pills (Home, Features, Pricing) and the “View pricing” button are charcoal on charcoal with a faint light edge and a dark shadow; “Home” has an orange outline.",
+    "“Discover features” is an orange gradient pill. White App Store and Google Play badges sit below.",
+    "Three 3D credit cards (black, silver, orange) float at the right with glossy highlights."
+  ],
+  "interpretation": [
+    "Evidence for the dark variant on the web, comparable to the [CRED app](ref:cred-app-synth-neumorphic-ui). The measurement finds outlines on most boxes, so the fingerprint rejects it.",
+    "Measured: shadows on 37 % of boxes (median offset 5.7 px, median blur 6 px, none hard), borders on 82 %, median radius 0 px."
+  ],
+  "images": [
+    {
+      "file": "assets/references/nicecard-website.jpg",
+      "alt": "Nicecard Webflow landing page: a charcoal page with an orange headline, dark raised pill buttons with soft shadows, an orange gradient button, and three floating 3D credit cards.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [nicecard (Webflow)](https://nicecard.webflow.io/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

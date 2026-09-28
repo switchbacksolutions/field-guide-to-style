@@ -1,0 +1,69 @@
+{
+  "id": "roboto-typeface-2014",
+  "title": "Roboto",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "Christian Robertson’s grotesque for Android, redesigned in 2014 to be the voice of Material Design.",
+  "summary": "A neutral grotesque with open curves and straight-sided rounds, in weights from Thin to Black. Google, 2011, redesigned 2014.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Roboto",
+    "label": "Wikipedia: Roboto"
+  },
+  "creator": {
+    "name": "Christian Robertson for Google"
+  },
+  "made": "2011; redesigned 2014 (announced 25 June 2014, per Wikipedia)",
+  "moods": [
+    "neutral",
+    "clear",
+    "systematic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Opened the Wikimedia Commons weight sample *Roboto weights.png* by Blythwood (26 December 2014) as a 960 × 1338 rendering on 28 September 2026. The sample has no R, i-dot close-up, or figures, so it does not show which of the two Roboto versions it uses."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "The style’s typeface. The Material 1 and 2 type scale is defined in Roboto, and the 2014 redesign was announced with Material Design.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Christian Robertson designed Roboto in house at Google for Android 4.0 in 2011. On 25 June 2014 Matías Duarte announced at Google I/O that Roboto was redesigned for Android 5.0: dots and punctuation became rounded, the leg of R became straight, and the family became “slightly wider and rounder”. [Wikipedia: Roboto](https://en.wikipedia.org/wiki/Roboto).",
+    "The family was released under the Apache License, and most variants were later relicensed under the SIL Open Font License. [Wikipedia: Roboto](https://en.wikipedia.org/wiki/Roboto)."
+  ],
+  "observed": [
+    "The phrase “Semi-fast” repeats six times in orange-red on a pale cream ground, from a hairline Thin weight to a heavy Black.",
+    "The round letters (S, e, a) have fairly straight sides and open apertures. The a has a small bowl and a straight stem.",
+    "Weights grow evenly. In the Black weight the counters of e and a close to small slits."
+  ],
+  "interpretation": [
+    "Roboto is neutral enough to disappear into an interface. That fits Material, where hierarchy comes from size, weight, and elevation, not from a characterful font."
+  ],
+  "borrow": [
+    "Use only Regular and Medium for interface text, and Light or Regular for large display lines, as the Material type scale does."
+  ],
+  "images": [
+    {
+      "file": "assets/references/roboto-typeface-2014.png",
+      "alt": "The word Semi-fast set six times in orange-red Roboto on a cream background, from very thin at the top to very heavy at the bottom.",
+      "width": 1148,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Roboto weight sample by Blythwood, 2014, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Roboto_weights.png), resized. CC BY-SA 4.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Roboto_weights.png",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "The sample image is licensed CC BY-SA 4.0 by its author, Blythwood. It shows only letterforms. Typeface designs are not protected by copyright in the United States, Roboto’s country of origin, and the font itself is under the Apache License 2.0 or the SIL Open Font License."
+  },
+  "identifiers": {
+    "wikidata": "Q1812400"
+  }
+}

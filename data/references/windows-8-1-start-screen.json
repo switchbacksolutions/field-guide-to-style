@@ -1,0 +1,72 @@
+{
+  "id": "windows-8-1-start-screen",
+  "title": "Windows 8.1 Start screen (geometric version)",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "The tile grid of the Windows 8.1 Start screen, with names, icons, and pictures removed so that only the colored rectangles remain.",
+  "summary": "Grid of solid-color tiles in four sizes on a charcoal ground, under a thin white “Start” title. Windows 8.1, 2013.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Start81.png",
+    "label": "Wikimedia Commons: File:Start81.png"
+  },
+  "creator": {
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com/"
+  },
+  "made": "2013 (Windows 8.1)",
+  "moods": [
+    "bright",
+    "orderly",
+    "digital"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected [File:Start81.png](https://commons.wikimedia.org/wiki/File:Start81.png) (1366 × 768, dated 2013-12-12) and stored it. Commons describes it as the Start screen “without text, backgrounds, and other non-geometric material”, so it is an edited image, not a raw screenshot."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "Clear, and the core of the Metro branch: a grid of solid colored rectangles with light type and no chrome.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia names Windows 8 as one of the products that adopted Metro after Windows Phone 7, and says that flat colored “live tiles” came from early Windows Phone studies ([Wikipedia: Metro (design language)](https://en.wikipedia.org/wiki/Metro_(design_language))).",
+    "NN/g names Metro and Windows 8 as the main influence that made flat design popular ([NN/g 2015](ref:nngroup-flat-design-article-2015))."
+  ],
+  "observed": [
+    "The ground is a flat charcoal gray. The title “Start” is set in large, thin white type at top left.",
+    "Group labels “essential” and “internet” are lowercase, light, white, and smaller.",
+    "Tiles come in four sizes: small squares, medium squares, wide rectangles, and one large square. All have square corners and are separated by narrow even gaps.",
+    "Tile colors include blue, royal blue, cyan, crimson, green, lime, purple, violet, orange-red, orange, and a dark slate.",
+    "Each tile brightens slightly from left to right and has a faint lighter edge. The effect is subtle next to the color change between tiles.",
+    "A user tile at top right shows the name “Wikipedia” and a plain white square."
+  ],
+  "interpretation": [
+    "Measured with `tools/image-traits.py`; see the measurement file. The image strips the Start screen to its structure: size, color, and gap.",
+    "The faint gradient on each tile belongs to Windows 8.1. The strict no-gradient rule of this record is stricter than Metro was in practice."
+  ],
+  "borrow": [
+    "Lay out navigation as tiles in two or three sizes on one grid, with one even gap, and give each destination its own saturated color.",
+    "Label groups with small lowercase words instead of boxes or rules."
+  ],
+  "images": [
+    {
+      "file": "assets/references/windows-8-1-start-screen.png",
+      "alt": "Windows 8.1 Start screen with text and icons removed: a charcoal ground with the thin white title Start, lowercase group labels essential and internet, and a grid of solid tiles in blue, crimson, green, purple, lime, cyan, orange, and slate in several sizes.",
+      "width": 1366,
+      "height": 768,
+      "kind": "source-image",
+      "caption": "Windows 8.1 Start screen reduced to its geometry, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Start81.png) (PD-simple).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Start81.png",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Wikimedia Commons tags this image {{PD-simple}}: it consists only of simple geometric shapes and short text, which are not protected by copyright. Commons also marks the Wikipedia name as a trademark. Credit: Microsoft, via Wikimedia Commons."
+  }
+}

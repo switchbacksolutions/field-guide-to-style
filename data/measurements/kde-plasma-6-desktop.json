@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/kde-plasma-6-desktop.jpg",
+  "captured": "2026-09-28T17:19:05+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#eff0f2",
+        "share": 0.275
+      },
+      {
+        "hex": "#5682d2",
+        "share": 0.116
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.085
+      },
+      {
+        "hex": "#648dd6",
+        "share": 0.058
+      },
+      {
+        "hex": "#f1dfe6",
+        "share": 0.055
+      },
+      {
+        "hex": "#a84d60",
+        "share": 0.047
+      },
+      {
+        "hex": "#ba6973",
+        "share": 0.041
+      },
+      {
+        "hex": "#92b2dc",
+        "share": 0.041
+      },
+      {
+        "hex": "#bc7f8e",
+        "share": 0.038
+      },
+      {
+        "hex": "#d2e6f2",
+        "share": 0.03
+      }
+    ],
+    "background": "#eff0f2",
+    "chroma": 0.22,
+    "lightness": 0.74,
+    "chromaticShare": 0.37,
+    "accentChroma": 0.46,
+    "distinct": 16,
+    "hues": 4
+  }
+}

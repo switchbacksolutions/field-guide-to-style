@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lovelace-soft-ui-home-assistant.jpg",
+  "captured": "2026-09-28T17:31:52+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f7f8fa",
+        "share": 0.971
+      },
+      {
+        "hex": "#7d8289",
+        "share": 0.003
+      },
+      {
+        "hex": "#676e76",
+        "share": 0.003
+      },
+      {
+        "hex": "#91969c",
+        "share": 0.003
+      },
+      {
+        "hex": "#a7abb0",
+        "share": 0.003
+      },
+      {
+        "hex": "#e8eef1",
+        "share": 0.003
+      },
+      {
+        "hex": "#bbbfc3",
+        "share": 0.003
+      },
+      {
+        "hex": "#dde0e4",
+        "share": 0.003
+      },
+      {
+        "hex": "#cdd1d5",
+        "share": 0.003
+      },
+      {
+        "hex": "#16a4f6",
+        "share": 0.002
+      }
+    ],
+    "background": "#f7f8fa",
+    "chroma": 0.02,
+    "lightness": 0.97,
+    "chromaticShare": 0.0,
+    "accentChroma": 0.74,
+    "distinct": 1,
+    "hues": 0
+  }
+}

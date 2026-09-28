@@ -1,0 +1,145 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20130920043843if_/http://www.apple.com/ios/",
+  "title": "Apple - iOS 7",
+  "captured": "2013-09-20T04:38:54.548Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Lucida Grande",
+        "share": 1
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 16,
+    "sizeRange": 1,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0,
+    "monoShare": 1,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.733
+      },
+      {
+        "hex": "#404040",
+        "share": 0.169
+      },
+      {
+        "hex": "#0088cc",
+        "share": 0.043
+      },
+      {
+        "hex": "#888888",
+        "share": 0.042
+      },
+      {
+        "hex": "#333333",
+        "share": 0.009
+      },
+      {
+        "hex": "#666666",
+        "share": 0.003
+      },
+      {
+        "hex": "#999999",
+        "share": 0.001
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#404040",
+    "contrast": 10.4,
+    "chroma": 0.03,
+    "lightness": 0.82,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.8,
+    "distinct": 4,
+    "hues": 1,
+    "imageShare": 0.45,
+    "gradientShare": 0.01,
+    "patternShare": 0.17
+  },
+  "surface": {
+    "boxes": 26,
+    "radius": {
+      "median": 0,
+      "max": 9.8,
+      "roundShare": 0.15
+    },
+    "border": {
+      "share": 0.65,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.08,
+      "hardShare": 0,
+      "medianBlur": 1.5,
+      "medianOffset": 1.5
+    },
+    "gradientShare": 0.08,
+    "patternShare": 0.27,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.788
+      },
+      {
+        "hex": "#dadbdb",
+        "share": 0.021
+      },
+      {
+        "hex": "#767778",
+        "share": 0.02
+      },
+      {
+        "hex": "#f1f1f2",
+        "share": 0.019
+      },
+      {
+        "hex": "#45c1e4",
+        "share": 0.015
+      },
+      {
+        "hex": "#3d8aa7",
+        "share": 0.015
+      },
+      {
+        "hex": "#1d2840",
+        "share": 0.014
+      },
+      {
+        "hex": "#143f61",
+        "share": 0.014
+      },
+      {
+        "hex": "#c4c7c7",
+        "share": 0.013
+      },
+      {
+        "hex": "#929293",
+        "share": 0.011
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.04,
+    "lightness": 0.91,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.48,
+    "distinct": 3,
+    "hues": 2
+  }
+}

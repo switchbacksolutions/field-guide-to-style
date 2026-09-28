@@ -1,0 +1,59 @@
+{
+  "id": "agora-road-website",
+  "title": "Agora Road’s Macintosh Cafe portal",
+  "type": "website",
+  "medium": "website",
+  "lede": "The Neocities portal of a forum for vaporwave and the old internet, built as a Windows 95 desktop inside a Mac OS window.",
+  "summary": "Windows 95 Control Panel and dialog inside a lavender Mac-style window, over a dim bedroom photograph.",
+  "source": {
+    "url": "https://agoraroad.neocities.org/",
+    "label": "agoraroad.neocities.org"
+  },
+  "moods": [
+    "nostalgic",
+    "ironic",
+    "cosy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Clear: a community site for the genre that uses its signature device, bevelled Windows 95 windows, in a lavender palette with a pixel-art figure. Its window chrome is real CSS, so it passes the shadow and radius metrics.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A lavender menu bar with a pixel font runs across the top, with a clock at the right and pixel icons down the right edge.",
+    "A central window with a pinstriped title bar reading “Agora Road’s Macintosh Cafe” frames a teal Windows 95 desktop with Start button, taskbar, and desktop icons.",
+    "Inside, a Control Panel window and an “ANTI GLOWY CHARM” dialog with a yellow warning icon and YES and NO buttons overlap a dithered pixel-art figure holding a glowing pyramid with an eye.",
+    "Below, a bold pixel-font welcome line, a short paragraph, outlined tag chips (vaporwave, nostalgia, art, macintosh, y2k), and square buttons.",
+    "The page background is a dim, blue-tinted photograph of a bedroom."
+  ],
+  "interpretation": [
+    "The measurement finds hard, unblurred shadows on 29% of boxes with a 1.4 px median offset and zero radius: the two-step Windows bevel, drawn in CSS. It finds almost no gradient or pattern, because the backdrop is a photograph."
+  ],
+  "borrow": [
+    "Nest one period operating system inside another for the frame: it signals irony without any statue or sunset."
+  ],
+  "images": [
+    {
+      "file": "assets/references/agora-road-website.jpg",
+      "alt": "Agora Road portal: a lavender Mac-style window containing a teal Windows 95 desktop with a Control Panel window, a warning dialog, and a pixel-art figure, above a welcome line and square buttons, on a dim bedroom photograph.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [agoraroad.neocities.org](https://agoraroad.neocities.org/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

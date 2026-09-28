@@ -1,0 +1,73 @@
+{
+  "id": "coca-cola-building-los-angeles",
+  "title": "Coca-Cola Building, Los Angeles",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Robert V. Derrah wrapped five industrial buildings in one ocean-liner facade for the Coca-Cola bottling plant on Central Avenue.",
+  "summary": "A long white hull with rows of portholes, rivet lines, a bridge on the roof, and Coca-Cola script. Robert V. Derrah, Los Angeles, 1939.",
+  "source": {
+    "url": "https://www.loc.gov/pictures/item/ca0218/",
+    "label": "Library of Congress: HABS CAL,19-LOSAN,31, Coca-Cola Bottling Company"
+  },
+  "creator": {
+    "name": "Robert V. Derrah"
+  },
+  "made": "1939 (Wikipedia)",
+  "moods": [
+    "nautical",
+    "streamlined",
+    "commercial"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Historic American Buildings Survey general view (HABS CAL,19-LOSAN,31-1, taken between 1972 and 1977) through its [Commons copy](https://commons.wikimedia.org/wiki/File:GENERAL_VIEW_-_Coca-Cola_Bottling_Company,_1334_South_Central_Avenue,_Los_Angeles,_Los_Angeles_County,_CA_HABS_CAL,19-LOSAN,31-1.tif) at 1920 px."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "streamline-moderne",
+      "note": "The most literal ocean-liner building of the style: a whole factory block drawn as a hull, with portholes, rivets, a bridge, and horizontal bands.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Robert V. Derrah designed a Streamline Moderne facade in 1939 that joined five existing industrial buildings; the building mimics an ocean liner with portholes, a catwalk, and a bridge. It is Los Angeles Historic-Cultural Monument No. 138, designated 5 February 1975. [Wikipedia](https://en.wikipedia.org/wiki/Coca-Cola_Building_(Los_Angeles))."
+  ],
+  "observed": [
+    "The block runs the full length of the street as one smooth white hull with a fully rounded corner.",
+    "Rows of round portholes of two sizes pierce the wall; some are grouped in pairs and threes.",
+    "Horizontal lines of rivets and two thin raised bands sweep along the wall and curve around the corner.",
+    "A darker band forms the base, like a waterline.",
+    "On the roof, a stepped bridge carries a flat oval sign with the Coca-Cola script.",
+    "A door with a rounded top, shaped like a ship’s hatch, sits in the wall. Script lettering “Coca-Cola Bottling Co.” is the only other sign."
+  ],
+  "interpretation": [
+    "The building uses streamlining as a brand image: a factory turned into a ship suggests speed, cleanliness, and modernity. The long flat wall shows how repeated portholes and a few parallel bands carry a large surface without ornament."
+  ],
+  "borrow": [
+    "Carry a long panel with only a few parallel horizontal rules and a row of circles; round one end.",
+    "Use a darker base band under a light surface, like a waterline."
+  ],
+  "images": [
+    {
+      "file": "assets/references/coca-cola-building-los-angeles.jpg",
+      "alt": "Black-and-white photograph of a long white factory building shaped like a ship's hull, with rows of round portholes, rivet lines, a rounded corner, and a bridge-like structure on the roof carrying a Coca-Cola sign.",
+      "width": 1600,
+      "height": 1260,
+      "kind": "photograph",
+      "caption": "General view. Historic American Buildings Survey, HABS CAL,19-LOSAN,31-1, [Library of Congress](https://www.loc.gov/pictures/item/ca0218.photos.012085p/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:GENERAL_VIEW_-_Coca-Cola_Bottling_Company,_1334_South_Central_Avenue,_Los_Angeles,_Los_Angeles_County,_CA_HABS_CAL,19-LOSAN,31-1.tif).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/f/f1/GENERAL_VIEW_-_Coca-Cola_Bottling_Company%2C_1334_South_Central_Avenue%2C_Los_Angeles%2C_Los_Angeles_County%2C_CA_HABS_CAL%2C19-LOSAN%2C31-1.tif",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "HABS photographs are works of the United States government and are in the public domain; Commons marks the file public domain. The building dates from 1939, before December 1990, so it has no architectural copyright in the United States. The Coca-Cola script is a trademark that appears as part of the building."
+  },
+  "identifiers": {
+    "habs": "CAL,19-LOSAN,31",
+    "commons": "File:GENERAL VIEW - Coca-Cola Bottling Company, 1334 South Central Avenue, Los Angeles, Los Angeles County, CA HABS CAL,19-LOSAN,31-1.tif"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://vasarely.com/",
+  "title": "Homepage | Michèle Vasarely Foundation",
+  "captured": "2026-09-28T17:47:26.472Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "ABCSocial",
+        "share": 1
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 14,
+    "sizeRange": 1,
+    "scaleRatio": null,
+    "headingWeight": null,
+    "bodyWeight": 500,
+    "headingTracking": null,
+    "uppercaseShare": 0.02,
+    "monoShare": 0,
+    "centerShare": 0.58
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.833
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.167
+      }
+    ],
+    "background": "#000000",
+    "text": "#ffffff",
+    "contrast": 21,
+    "chroma": 0,
+    "lightness": 0.17,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 1,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#797979",
+        "share": 0.135
+      },
+      {
+        "hex": "#c0c0c0",
+        "share": 0.124
+      },
+      {
+        "hex": "#656565",
+        "share": 0.113
+      },
+      {
+        "hex": "#a7a7a7",
+        "share": 0.094
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.075
+      },
+      {
+        "hex": "#5a5a5a",
+        "share": 0.068
+      },
+      {
+        "hex": "#878787",
+        "share": 0.066
+      },
+      {
+        "hex": "#dddddd",
+        "share": 0.065
+      },
+      {
+        "hex": "#020202",
+        "share": 0.039
+      },
+      {
+        "hex": "#cbcbcb",
+        "share": 0.031
+      }
+    ],
+    "background": "#797979",
+    "chroma": 0,
+    "lightness": 0.57,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 17,
+    "hues": 0
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "google-material-theme-2018",
+  "title": "Google Material Theme (Material Design 2)",
+  "type": "product",
+  "medium": "app",
+  "lede": "The 2018 update that Google applied to its own apps: more white, rounder 4 dp corners, Google Sans headings, and colorful icons.",
+  "summary": "Material Design 2 in Google’s products: white app bars, rounder corners, Google Sans, and a bottom app bar. 2018.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Material_Design",
+    "label": "Wikipedia: Material Design, Material Design 2"
+  },
+  "creator": {
+    "name": "Google"
+  },
+  "made": "2018",
+  "moods": [
+    "clean",
+    "light",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Relies on Wikipedia and on 9to5Google’s article of 26 April 2018. No image was inspected: the 9to5Google images did not load for scripts, and m2.material.io renders only with JavaScript."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "Documents the Material 2 branch of the style, in which white app bars and rounder corners replace the bold primary bar of 2014.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: “After the 2018 revamp, Google began redesigning most of their apps based on an updated set of principles and guidelines dubbed ‘Material Design 2’, which appeared on Android Pie.” The update emphasizes “white space, rounded corners, colorful icons, and bottom navigation bars”, and Google began to use Google Sans, a version of Product Sans. [Wikipedia: Material Design](https://en.wikipedia.org/wiki/Material_Design).",
+    "9to5Google (Stephen Hall, 26 April 2018) lists the redesigned Gmail web client, Google Tasks, the Google I/O 2018 app, and Android P Settings, and notes “lots of white space” and “a much rounder radius on corners”. [9to5Google](https://9to5google.com/2018/04/26/what-is-material-design-2-examples-launch-io/)."
+  ],
+  "interpretation": [
+    "Material 2 keeps the elevation system but moves color out of the app bar and into icons and accents. This is why many Material 2 screens measure far less chromatic color than Material 1 screens."
+  ],
+  "next": [
+    "Capture a dated Wayback copy of a Material 2 Google page, for example material.io in 2019, to observe the theme directly."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The products belong to Google."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "bjango-website-2011",
+  "title": "Bjango website, 2011",
+  "type": "website",
+  "medium": "website",
+  "lede": "The app studio Bjango’s home page, archived June 2011: dark gray plates held by small screws, with beveled buttons and embossed labels.",
+  "summary": "Dark screwed-on plates, beveled buttons, embossed navigation, and a recessed email field.",
+  "source": {
+    "url": "http://bjango.com/",
+    "label": "bjango.com",
+    "archive": "https://web.archive.org/web/20110622074312/http://bjango.com/"
+  },
+  "made": "2011",
+  "moods": [
+    "dark",
+    "machined",
+    "polished"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The archived page may lack some images or scripts that the live page had."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "Clear: each panel is a metal-gray plate with a screw at every corner, buttons are beveled, labels are embossed, and the email field is an inset well.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The page is dark charcoal. A large framed banner and three smaller plates sit on it with soft drop shadows.",
+    "Each gray plate has a small dot like a screw head at each corner and a light top edge.",
+    "Navigation words (iPhone, iPad, Mac, Articles, Help) are light gray with a dark shadow, as if embossed.",
+    "The footer buttons are rounded rectangles with a vertical gradient; the email field is recessed into a darker well with a Join button at its end.",
+    "A band of dark jagged shapes above a purple footer suggests a mountain silhouette."
+  ],
+  "interpretation": [
+    "No CSS surface was measured: the page has 0 styled boxes in the viewport and 100% image share, so every bevel and shadow is a bitmap. The measurement sees none of the texture, because the page draws it with bitmap background images; see the style synthesis."
+  ],
+  "borrow": [
+    "Put a small screw head in each corner of a panel to make it read as a mounted plate.",
+    "Recess a single email field into a darker well with the button attached to its end."
+  ],
+  "images": [
+    {
+      "file": "assets/references/bjango-website-2011.jpg",
+      "alt": "Archived Bjango page: a dark charcoal background with the bjango logo, embossed navigation links, a framed banner for the game Sideways, three gray plates with screw heads linking to iPhone, iPad, and Mac apps, and beveled footer buttons.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [archived copy](https://web.archive.org/web/20110622074312/http://bjango.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  },
+  "creator": {
+    "name": "Bjango"
+  }
+}

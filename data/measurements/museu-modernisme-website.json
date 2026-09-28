@@ -1,0 +1,169 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.mmbcn.cat/",
+  "title": "MMBCN | Museu del Modernisme de Barcelona",
+  "captured": "2026-09-28T17:26:56.042Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Arial",
+        "share": 0.68
+      },
+      {
+        "family": "league_gothicregular",
+        "share": 0.23
+      },
+      {
+        "family": "Trip Sans VF",
+        "share": 0.06
+      },
+      {
+        "family": "interstateregular",
+        "share": 0.04
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 32,
+    "sizeRange": 2.29,
+    "scaleRatio": 1.14,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.08,
+    "monoShare": 0,
+    "centerShare": 0.07
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.514
+      },
+      {
+        "hex": "#e3e3e1",
+        "share": 0.235
+      },
+      {
+        "hex": "#7f7f7f",
+        "share": 0.186
+      },
+      {
+        "hex": "#706d6c",
+        "share": 0.021
+      },
+      {
+        "hex": "#002b11",
+        "share": 0.02
+      },
+      {
+        "hex": "#018716",
+        "share": 0.005
+      },
+      {
+        "hex": "#3f3f3f",
+        "share": 0.005
+      },
+      {
+        "hex": "#e23401",
+        "share": 0.004
+      },
+      {
+        "hex": "#c72b12",
+        "share": 0.004
+      },
+      {
+        "hex": "#797e17",
+        "share": 0.004
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#e3e3e1",
+    "contrast": 1.3,
+    "chroma": 0.02,
+    "lightness": 0.83,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.63,
+    "distinct": 4,
+    "hues": 3,
+    "imageShare": 0.63,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 31,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.68,
+      "medianWidth": 3
+    },
+    "shadow": {
+      "share": 0.03,
+      "hardShare": 0,
+      "medianBlur": 8,
+      "medianOffset": 8
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#7f7f7f",
+        "share": 0.168
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.139
+      },
+      {
+        "hex": "#d81a19",
+        "share": 0.101
+      },
+      {
+        "hex": "#e5e5e5",
+        "share": 0.092
+      },
+      {
+        "hex": "#3f3f3e",
+        "share": 0.067
+      },
+      {
+        "hex": "#ce742e",
+        "share": 0.036
+      },
+      {
+        "hex": "#d87e4c",
+        "share": 0.031
+      },
+      {
+        "hex": "#e4a433",
+        "share": 0.026
+      },
+      {
+        "hex": "#e6a652",
+        "share": 0.026
+      },
+      {
+        "hex": "#16100c",
+        "share": 0.022
+      }
+    ],
+    "background": "#7f7f7f",
+    "chroma": 0.21,
+    "lightness": 0.6,
+    "chromaticShare": 0.33,
+    "accentChroma": 0.6,
+    "distinct": 12,
+    "hues": 3
+  }
+}

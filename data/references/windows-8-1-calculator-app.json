@@ -1,0 +1,58 @@
+{
+  "id": "windows-8-1-calculator-app",
+  "title": "Windows 8.1 Calculator app",
+  "type": "product",
+  "medium": "app",
+  "lede": "A Metro-style app that shows the grammar at small scale: gray key tiles, thin numerals, and one green key.",
+  "summary": "Flat gray key rectangles with thin white numerals on charcoal, and one solid green equals key. Windows 8.1, 2013.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Windows_8.1_Calculator.png",
+    "label": "Wikimedia Commons: File:Windows 8.1 Calculator.png"
+  },
+  "creator": {
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com/"
+  },
+  "made": "2013",
+  "moods": [
+    "calm",
+    "orderly",
+    "technical"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected [File:Windows 8.1 Calculator.png](https://commons.wikimedia.org/wiki/File:Windows_8.1_Calculator.png) (1920 × 1080; first uploaded 24 October 2013, retaken in 16:9 in April 2022) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "Clear for the Metro branch: flat rectangles, thin type, and color used only for the one primary key.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes it as “Windows 8.1’s additional Metro-style calculator app in standard mode”.",
+    "Microsoft published the Windows Calculator source under the MIT License in 2019 ([microsoft/calculator](https://github.com/microsoft/calculator), repository created 28 January 2019)."
+  ],
+  "observed": [
+    "The ground is a flat charcoal. Three mode names at top (Standard, Scientific, Converter) are thin type; the active one is white and the others gray.",
+    "The display is a slightly lighter gray panel with a thin green line along its top edge and a very thin, very large white “0” at right.",
+    "Keys are flat mid-gray rectangles with square corners, separated by narrow dark gaps. Digits and operators are thin white or gray glyphs.",
+    "The equals key is the only color: a solid green rectangle with a white sign.",
+    "A separate column of memory and function keys is set apart by a wider gap, not by a line."
+  ],
+  "interpretation": [
+    "It shows how Metro handles a dense control surface with almost no color: one hue marks the primary action, and space groups the rest."
+  ],
+  "borrow": [
+    "In a dense control grid, keep every key the same neutral fill and give only the primary action a saturated color.",
+    "Group controls with a wider gap instead of a rule or box."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Commons tags the screenshot as MIT-licensed, but Microsoft’s 2019 MIT release is the Windows 10 Calculator source, and I could not confirm that it covers the Windows 8.1 app. No image is stored here."
+  }
+}

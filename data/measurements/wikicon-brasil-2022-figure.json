@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/wikicon-brasil-2022-figure.png",
+  "captured": "2026-09-28T17:42:08+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.593
+      },
+      {
+        "hex": "#e75336",
+        "share": 0.26
+      },
+      {
+        "hex": "#fdcf06",
+        "share": 0.049
+      },
+      {
+        "hex": "#010100",
+        "share": 0.025
+      },
+      {
+        "hex": "#959493",
+        "share": 0.011
+      },
+      {
+        "hex": "#b4b4b3",
+        "share": 0.007
+      },
+      {
+        "hex": "#dcdde0",
+        "share": 0.006
+      },
+      {
+        "hex": "#81392b",
+        "share": 0.006
+      },
+      {
+        "hex": "#ebedee",
+        "share": 0.006
+      },
+      {
+        "hex": "#a93e29",
+        "share": 0.005
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.24,
+    "lightness": 0.8,
+    "chromaticShare": 0.34,
+    "accentChroma": 0.72,
+    "distinct": 4,
+    "hues": 2
+  }
+}

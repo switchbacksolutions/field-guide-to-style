@@ -1,0 +1,50 @@
+{
+  "id": "game-center-2010",
+  "title": "Game Center, iOS 4.1, 2010",
+  "type": "product",
+  "medium": "app",
+  "lede": "Apple’s social gaming app, dressed as a casino card table of green felt framed in wood.",
+  "summary": "Green felt, a wooden table rim, and game chips. Apple, 2010.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Game_Center",
+    "label": "Wikipedia: Game Center"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "Released 8 September 2010 with iOS 4.1",
+  "moods": [
+    "playful",
+    "tactile",
+    "warm"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "No image of 800 px or more was found under a usable source. Based on Wikipedia and Fast Company (2012)."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "A clear object metaphor: a card table with felt cloth and chips, pushed by Steve Jobs according to former Apple designers.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Game Center was released to the public on 8 September 2010 with iOS 4.1. Its developer preview “had a dark appearance with abstract colors”; the release changed to “a lighter ‘game board’ appearance with more skeuomorphic design elements.” [Wikipedia: Game Center](https://en.wikipedia.org/wiki/Game_Center).",
+    "A former Apple designer told Fast Company: “Steve pushed very hard to have everything—the felt-cloth table, the game chips—look like they would in real life.” [Fast Company, Austin Carr, “Will Apple’s Tacky Software-Design Philosophy Cause A Revolt?” (2012)](https://www.fastcompany.com/1670760/will-apples-tacky-software-design-philosophy-cause-a-revolt)."
+  ],
+  "interpretation": [
+    "The shift from an abstract dark preview to felt and wood at release shows the style as a deliberate late choice, not a default."
+  ],
+  "next": [
+    "Find a large screenshot of the iOS 4–6 Game Center and inspect the felt and wood textures."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple software; copyrighted. No image is stored here."
+  }
+}

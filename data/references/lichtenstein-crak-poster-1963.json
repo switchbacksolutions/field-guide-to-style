@@ -1,0 +1,65 @@
+{
+  "id": "lichtenstein-crak-poster-1963",
+  "title": "Crak! Now, Mes Petits… Pour la France!",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Roy Lichtenstein’s offset poster for his 1963 Leo Castelli exhibition: a woman fires a rifle under the sound effect CRAK!, with a speech balloon and a line of exhibition text below.",
+  "summary": "Yellow, red, and black offset print with dot-tinted skin, a speech balloon, and a black sound effect. Roy Lichtenstein, 1963.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O74122/",
+    "label": "V&A: Crak! Now, Mes Petits…Pour La France, E.229-1985"
+  },
+  "creator": {
+    "name": "Roy Lichtenstein",
+    "url": "https://www.wikidata.org/wiki/Q151679"
+  },
+  "made": "1963",
+  "moods": [
+    "loud",
+    "graphic",
+    "commercial"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A image of its copy, E.229-1985 (1400 × 933 px), in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "A Pop exhibition poster printed with the same means as a comic: three inks, a dot tint, black key lines, a speech balloon, and a sound effect.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A records it as a colour offset lithograph poster, 535 × 718 mm, printed in the United States in 1963, given by Steef Davidson. [V&A](https://collections.vam.ac.uk/item/O74122/).",
+    "The catalogue raisonné lists the work as RLCR 812: an offset lithograph in an edition of 300, published by Leo Castelli Gallery and printed by Colorcraft, New York, in yellow, red, and black. It announced Lichtenstein’s exhibition at Castelli from 28 September to 24 October 1963. [RLCR 812](https://www.lichtensteincatalogue.org/catalogue/entry.php?id=296).",
+    "That exhibition included [Whaam!](ref:lichtenstein-whaam-1963) and [Drowning Girl](ref:lichtenstein-drowning-girl-1963). [Wikipedia](https://en.wikipedia.org/wiki/Crak!)."
+  ],
+  "observed": [
+    "The image is one panel with a black border. A line of gray sans-serif text runs below it: “Roy Lichtenstein · September 28 - October 24, 1963 · Leo Castelli 4 E.77 N.Y.”",
+    "The woman’s face, hand, and the sky behind her are filled with red dots on the paper color.",
+    "Her beret is flat dark red. The smoke and the ground are flat yellow with black outlines.",
+    "“CRAK!” is drawn in huge black letters with broken, angular strokes inside a white cloud shape.",
+    "A white speech balloon at lower right holds black hand-lettered capitals: “NOW, MES PETITS… POUR LA FRANCE!” The last words are heavier.",
+    "Outlines are black and of even weight. Only yellow, red, and black ink appear on the off-white paper."
+  ],
+  "interpretation": [
+    "The poster proves that the style works with three inks. Red dots give a pink, and paper white does the rest.",
+    "The exhibition line under the panel is the only set type. The panel carries the message, and the facts sit outside it."
+  ],
+  "borrow": [
+    "Build a whole page from three inks: one primary for flat fills, one for dot tints, and black for lines and lettering.",
+    "Put the essential facts in one plain line under the panel, outside the artwork."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is © Estate of Roy Lichtenstein; the catalogue raisonné states “© 2026 Roy Lichtenstein Foundation. All Rights Reserved.”"
+  },
+  "identifiers": {
+    "vam": "O74122",
+    "rlcr": "812"
+  }
+}

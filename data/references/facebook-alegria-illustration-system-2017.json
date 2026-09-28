@@ -1,0 +1,61 @@
+{
+  "id": "facebook-alegria-illustration-system-2017",
+  "title": "Alegria illustration system for Facebook (Buck)",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "The illustration and animation system that Buck designed for Facebook from 2017: flat figures built from circles and tubes, with long limbs and blue, violet, or pink skin.",
+  "summary": "Buck’s flat, geometric figures for Facebook, with oversized limbs and non-natural skin. The core example of the style.",
+  "source": {
+    "url": "https://buck.co/work/facebook-alegria",
+    "label": "Buck: Facebook Alegria"
+  },
+  "creator": {
+    "name": "Buck, for Facebook",
+    "url": "https://buck.co/"
+  },
+  "made": "Commissioned 2017; Buck gives an end date of 8 February 2020 in its project data",
+  "moods": [
+    "friendly",
+    "playful",
+    "corporate"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected three images from Buck’s project page at 1400 px wide: the cover image of the printed style guide (`alegria_thumbnail.png`), a hero illustration of figures carrying a thumbs-up, and a spread titled “Figure Construction”. None is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "The reference work of the style: Buck’s own page describes “flat, minimal, geometric shapes” and figures with “oversized limbs and non-representational skin colors”.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Buck describes the project as “a new style guide, illustration and animation system for the entire Facebook ecosystem” and says Facebook engaged it in 2017. “Alegria is Spanish for ‘joy’.” [Buck](https://buck.co/work/facebook-alegria).",
+    "Buck credits Xoana Herrera as design lead, Amelia Giller and Janice Ahn as senior art directors, and ten core illustrators. The library also covers transport, plants, animals, buildings, and hands. [Buck](https://buck.co/work/facebook-alegria).",
+    "AIGA Eye on Design (21 August 2019) treats Alegria as the model for the tech illustration style and quotes Herrera on “ethnically non-specific” characters. [AIGA Eye on Design](https://eyeondesign.aiga.org/dont-worry-these-gangley-armed-cartoons-are-here-to-protect-you-from-big-tech/)."
+  ],
+  "observed": [
+    "In the hero illustration, six figures in flat fills carry a large blue thumbs-up. Arms and legs are long tubes that bend in smooth curves; one figure rides a unicycle.",
+    "Skin is violet, pink, pale blue, green, and yellow. Hair and some trousers are near-black navy.",
+    "Heads are small in relation to the bodies, and faces have only dots and short lines.",
+    "Some limbs carry a fine speckled grain in one tone, and a few details use thin colored lines.",
+    "A style-guide spread titled “Figure Construction” says the figures are “11 1/2 heads tall”, that “limbs are composed of cylindrical shapes”, and that men’s arms reach the knee.",
+    "Other guide pages show a woman with blue skin holding up a cup, a dog and fruit built from circles, and a rule on how to crop tall figures at the frame edge."
+  ],
+  "interpretation": [
+    "The construction rules (heads as circles, limbs as cylinders, 11½ heads tall) explain why the style spread so fast: any illustrator can follow them and the results match.",
+    "The grain on some limbs shows that the original system allowed a little texture. Many later imitations removed it and kept only flat fills."
+  ],
+  "borrow": [
+    "Build figures to a fixed head count (about 11 heads tall) with cylinder limbs, so a team of illustrators produces matching people.",
+    "Give each scene one oversized object that the figures lift or carry together."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Facebook (Meta) and Buck. No image is stored; see the project page."
+  }
+}

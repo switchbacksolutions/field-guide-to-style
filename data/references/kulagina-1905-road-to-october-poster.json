@@ -1,0 +1,63 @@
+{
+  "id": "kulagina-1905-road-to-october-poster",
+  "title": "1905: The Road to October",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Valentina Kulagina’s anniversary poster sends a giant red worker striding diagonally across the sheet over a photomontage of the 1905 street massacres.",
+  "summary": "A red constructed figure strides on the diagonal over black-and-white photomontage; red block capitals at the foot. Valentina Kulagina, 1929.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O76004/",
+    "label": "Victoria and Albert Museum, E.1274-1989"
+  },
+  "creator": {
+    "name": "Valentina Kulagina",
+    "url": "https://www.wikidata.org/wiki/Q20007151"
+  },
+  "made": "1929 (V&A)",
+  "moods": [
+    "agitational",
+    "monumental",
+    "dynamic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the V&A image of its copy, E.1274-1989 (1117 × 1600 px through the museum’s IIIF service), in a scratch folder. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "constructivism",
+      "note": "A late constructivist photomontage poster by one of the style’s women designers: red and black, a steep diagonal, photographs cut into flat shapes, and block capitals.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes the poster as half-tone letterpress and colour lithograph, 1025 × 794 mm, published in the USSR in 1929. It commemorates Bloody Sunday in January 1905, and the toppled crown with the head of Nicholas II points forward to the October Revolution of 1917. [V&A](https://collections.vam.ac.uk/item/O76004/).",
+    "The V&A notes that Kulagina “often used photomontage in her work”. [V&A](https://collections.vam.ac.uk/item/O76004/)."
+  ],
+  "observed": [
+    "A giant figure built from flat red planes strides from upper left to lower right. Four more figures repeat his stance behind him in steep recession.",
+    "“1905 ГОД” is set in white capitals on a red band that is tilted on the diagonal at the upper left.",
+    "A strip of black-and-white photographs of crowds and street fighting runs diagonally below the figure. Three smaller figures fire rifles from a white block toward the lower right.",
+    "A white outline of a toppled crown frames a small photograph of a head at the lower right.",
+    "“ПУТЬ К ОКТЯБРЮ” runs across the foot in red square block capitals on a black band.",
+    "The palette is red, black, gray, and the paper; the red figure is modeled with tonal shading."
+  ],
+  "interpretation": [
+    "The poster shows how the style carried the red diagonal of [Lissitzky’s wedge](ref:lissitzky-beat-the-whites-red-wedge-poster) into figurative agitation by 1929: the figure is still built from planes, but it is a person, which points toward the later Socialist Realist poster.",
+    "The square block letters at the foot are drawn, not typeset, and are the kind of lettering that Latin-alphabet imitations of the style copy."
+  ],
+  "borrow": [
+    "Run one dominant shape and one strip of photographs on the same diagonal so that they reinforce each other.",
+    "Close the page with a full-width black band that carries the main line in red block capitals."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Kulagina died in 1987, so the design is protected in Russia until at least 2057. The V&A image is shown under the museum’s own terms."
+  },
+  "identifiers": {
+    "vam": "O76004"
+  }
+}

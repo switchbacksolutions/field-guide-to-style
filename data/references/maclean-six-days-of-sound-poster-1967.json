@@ -1,0 +1,64 @@
+{
+  "id": "maclean-six-days-of-sound-poster-1967",
+  "title": "6 Days of Sound, Fillmore at Winterland",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Bonnie MacLean’s Fillmore poster for the 1967 New Year shows: a hooded woman holding a peace-sign ornament between stacked blocks of bold, colored lettering.",
+  "summary": "Bonnie MacLean, 1967. Pink and orange slab lettering on black bands around a blue and violet figure.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O108960/",
+    "label": "Victoria and Albert Museum: E.427-2004"
+  },
+  "creator": {
+    "name": "Bonnie MacLean",
+    "url": "https://en.wikipedia.org/wiki/Bonnie_MacLean"
+  },
+  "made": "1967 (concerts 26–31 December)",
+  "moods": [
+    "saturated",
+    "dense",
+    "serene"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the V&A image of object E.427-2004 (IIIF, 1081 × 1600 px) to a scratch folder and inspected it. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "Clear on color and density: saturated blue ground, violet, pink, and orange, with lettering in every free space. Partial fit on type: the letters are bold slab-serif capitals that stay legible.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A catalogues it as psychedelic poster #99 by Bonnie MacLean, colour offset lithograph, 53.5 × 35.6 cm: a woman with blue and purple hair and robe holding mistletoe and a CND sign, with text in red and pink above and below. [V&A](https://collections.vam.ac.uk/item/O108960/).",
+    "MacLean (1939–2020) took over the Fillmore posters after Wes Wilson left and made more than thirty, most in 1967. Wikipedia notes her Art Nouveau manner and the influence of Gothic stained glass and pointed arches. [Wikipedia](https://en.wikipedia.org/wiki/Bonnie_MacLean)."
+  ],
+  "observed": [
+    "The ground is a saturated mid blue that covers the whole sheet.",
+    "A woman with a pale face and long blue and violet hair and robe fills the middle. She holds mistletoe in one hand and lifts a white-rimmed oval with an orange-red peace sign on green in the other.",
+    "Band names and dates stack in black bands at top and bottom: 6 DAYS OF SOUND, THE DOORS, CHUCK BERRY, BIG BROTHER AND THE HOLDING CO., QUICKSILVER MESSENGER SERVICE.",
+    "The letters are wide, bold slab-serif capitals, alternating between pink and orange-red line by line. The lines are justified to fill the width.",
+    "A large red numeral 6 runs down the left side of the top block."
+  ],
+  "interpretation": [
+    "Pink and orange on black, next to blue and violet, give the vibrating effect without the melting letterforms. The poster shows a legible branch of the style that suits screens better than Wilson’s lettering.",
+    "The figure and the peace sign form the central medallion; the text blocks are the dense frame."
+  ],
+  "borrow": [
+    "Alternate two warm colors line by line in a stacked, justified title block.",
+    "Set the text blocks on dark bands so saturated letters stay readable on a saturated ground.",
+    "Use a single emblem, such as the peace sign here, as the central medallion."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The V&A image is © Victoria and Albert Museum, London, and the design is in copyright. Bonnie MacLean died in 2020."
+  },
+  "identifiers": {
+    "vam": "O108960",
+    "vam-accession": "E.427-2004"
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

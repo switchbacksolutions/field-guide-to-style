@@ -1,0 +1,62 @@
+{
+  "id": "trustworth-studios-website",
+  "title": "Trustworth Studios website",
+  "type": "website",
+  "medium": "website",
+  "lede": "A maker of Arts and Crafts reproduction wallpapers, with a Voysey-style lettered name on cream and a slideshow of its papers.",
+  "summary": "Voysey-style lettered wordmark on cream, a grey-green bar, and a wide frieze of flat botanical wallpaper.",
+  "source": {
+    "url": "https://www.trustworth.com/",
+    "label": "trustworth.com"
+  },
+  "creator": {
+    "name": "Trustworth Studios"
+  },
+  "moods": [
+    "botanical",
+    "handmade",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "Borderline: the wordmark and cream ground follow Voysey, and the pattern is its own product. The text is a modern sans-serif.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The wordmark “TRUSTWORTH STUDIOS” is in grey-green hand-drawn capitals with small raised O letters, on a cream ground.",
+    "A grey-green bar holds small white serif capitals for the navigation.",
+    "A full-width slideshow shows a wallpaper of flat, outlined wild plants, berries, butterflies, a grasshopper, and birds in teal, blue, red, and yellow on a pale cream ground.",
+    "“Meticulously Hand-Drawn” is set in a grey-green serif, above centred sans-serif text."
+  ],
+  "interpretation": [
+    "The site sells reproductions of the style, so the pattern is product photography. The wordmark and palette are the site’s own use of the style.",
+    "Measured: square corners, no shadows, accent chroma 0.50, and uppercase share 0.23 from the navigation."
+  ],
+  "borrow": [
+    "Use a cream page ground and a grey-green bar as a quiet frame for a colourful botanical pattern."
+  ],
+  "images": [
+    {
+      "file": "assets/references/trustworth-studios-website.jpg",
+      "alt": "Trustworth Studios home page: a Voysey-style lettered wordmark on cream, a grey-green navigation bar, a wide frieze of flat botanical wallpaper with birds and insects, and a serif heading, Meticulously Hand-Drawn.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [trustworth.com](https://www.trustworth.com/), 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners, and the pattern images belong to their rights holders. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "blank-banshee-0-cover-2012",
+  "title": "Blank Banshee 0 cover art",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A low-polygon 3D head floating in a purple-to-cyan gradient under a wide italic title.",
+  "summary": "Low-poly game-style head on a purple-to-cyan gradient. 2012.",
+  "source": {
+    "url": "https://blankbanshee.bandcamp.com/album/blank-banshee-0",
+    "label": "Blank Banshee on Bandcamp"
+  },
+  "creator": {
+    "name": "Blank Banshee"
+  },
+  "made": "September 1, 2012 (Bandcamp release date)",
+  "moods": [
+    "cool",
+    "uncanny",
+    "digital"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 × 1200 cover on the album’s [Bandcamp page](https://blankbanshee.bandcamp.com/album/blank-banshee-0), in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Clear on two diagnostics: a smooth purple-to-cyan gradient and an early 3D render. Wikipedia names the album, with Floral Shoppe, as a turning point of the genre.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: “In September [2012], Blank Banshee released his debut album, Blank Banshee 0,” which Bandwagon called a “progressive record” that, along with Floral Shoppe, “reconfigured what it means to make vaporwave music.” [Wikipedia: Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)."
+  ],
+  "observed": [
+    "The background is a vertical gradient from violet at the top to bright cyan at the bottom, with no texture.",
+    "A flat-shaded, low-polygon female head with angular brows and pink lips floats in the centre, cut off at the neck.",
+    "BLANK BANSHEE runs across the top in white, heavy, extended italic capitals with an A that has no crossbar."
+  ],
+  "interpretation": [
+    "The most economical statement of the style: one dated 3D object and one gradient. The head reads like a late-1990s console character model."
+  ],
+  "borrow": [
+    "Use a single two-stop violet-to-cyan gradient behind one untextured 3D object, with no other decoration."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Copyrighted album art. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q28449347",
+    "musicbrainz-release": "ea561f2a-bde2-4343-aec7-43934789e853"
+  }
+}

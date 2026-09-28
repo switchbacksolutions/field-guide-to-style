@@ -1,0 +1,69 @@
+{
+  "id": "the-source-psychedelic-art-store-1967",
+  "title": "The Source, a psychedelic art store in Washington, D.C.",
+  "type": "image",
+  "medium": "photograph",
+  "lede": "A 1967 news photograph of customers in a store that sold psychedelic posters and objects, showing how far the San Francisco style had spread within a year.",
+  "summary": "Marion S. Trikosko, 21 April 1967. Posters, hangings, and a light fixture in a Washington head shop.",
+  "source": {
+    "url": "https://www.loc.gov/item/2024640512/",
+    "label": "Library of Congress: LC-U9-17308-5A"
+  },
+  "creator": {
+    "name": "Marion S. Trikosko, U.S. News & World Report",
+    "url": "https://www.loc.gov/item/2024640512/"
+  },
+  "made": "21 April 1967",
+  "moods": [
+    "countercultural",
+    "documentary"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the Library of Congress service image (1024 × 697 px) and inspected it. The photograph is black and white, so it shows composition and lettering but not color."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "Context, not an exemplar: posters in the style hang on the walls of a commercial store in Washington, D.C., in April 1967.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Library of Congress titles it “Customers at ‘The Source,’ a psychedelic art store with rock posters and other images on the walls, 2151 K St., N.W. Washington, D.C.”. The job log caption reads “Hippies and Teenie-Boppers”. It is part of the U.S. News & World Report Magazine Photograph Collection. [LoC](https://www.loc.gov/item/2024640512/).",
+    "Wikipedia notes that the San Francisco posters were torn down as soon as they went up and were soon reprinted for sale, with poster shops opening locally and nationwide. [Wikipedia: Wes Wilson](https://en.wikipedia.org/wiki/Wes_Wilson)."
+  ],
+  "observed": [
+    "A low room with fluorescent ceiling lights. Posters, prints, and hangings cover the walls.",
+    "At upper left hangs a vertical poster with a large central medallion and hand-drawn lettering.",
+    "Further back, a poster with a large stylized face and wavy lettering hangs near a dark cloth decorated with dots.",
+    "A large photographic poster of a man’s face fills the upper right.",
+    "Customers browse. Two men crouch at a display in the center, and a table of flat prints stands at left."
+  ],
+  "interpretation": [
+    "The photograph shows the posters as retail goods on the East Coast only months after the first Fillmore and Avalon posters, which supports the account that the style spread through poster sales as much as through concerts."
+  ],
+  "images": [
+    {
+      "file": "assets/references/the-source-psychedelic-art-store-1967.jpg",
+      "alt": "Black-and-white photograph of a small store with posters and hangings on every wall, customers browsing, and two men crouching at a display in the center.",
+      "width": 1024,
+      "height": 697,
+      "kind": "photograph",
+      "caption": "Marion S. Trikosko, 21 April 1967. [Library of Congress](https://www.loc.gov/item/2024640512/), no known restrictions on publication. The posters on the walls are third-party works shown incidentally.",
+      "original": "https://tile.loc.gov/storage-services/service/pnp/ppmsca/89400/89401v.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Library of Congress: “No known restrictions on publication” (U.S. News & World Report Magazine Collection). The posters on the walls are copyrighted works shown incidentally in a documentary photograph of the store."
+  },
+  "identifiers": {
+    "loc": "2024640512",
+    "loc-call-number": "LC-U9-17308-5A"
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

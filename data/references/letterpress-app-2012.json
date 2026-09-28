@@ -1,0 +1,52 @@
+{
+  "id": "letterpress-app-2012",
+  "title": "Letterpress word game",
+  "type": "product",
+  "medium": "app",
+  "lede": "Loren Brichter’s 2012 iPhone game of colored letter tiles, drawn after Windows Phone and cited as an inspiration for iOS 7.",
+  "summary": "A 5 × 5 board of flat letter tiles that turn blue or red as players claim them. Atebits, 2012.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Letterpress_(video_game)",
+    "label": "Wikipedia: Letterpress (video game)"
+  },
+  "creator": {
+    "name": "Loren Brichter, Atebits",
+    "url": "https://www.atebits.com/"
+  },
+  "made": "2012",
+  "moods": [
+    "playful",
+    "clean",
+    "bright"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Wikipedia article read on 2026-09-28. A Wayback copy of atebits.com/letterpress (30 November 2012) shows a small promotional image of the board; it is too small to count as observed and was not kept."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "A link between Metro and iOS 7: its interface borrows from Windows Phone, and Apple’s designers cited it for iOS 7.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Letterpress is a turn-based word game developed by Loren Brichter and published by Atebits, released for iOS on 24 October 2012. Players claim letter tiles on a 5 × 5 grid; claimed tiles take the player’s color ([Wikipedia](https://en.wikipedia.org/wiki/Letterpress_(video_game))).",
+    "“For graphics and the user interface, he took inspiration from the Windows Phone.”",
+    "It won a 2013 Apple Design Award, and “Apple designer Jony Ive took inspiration from minimalist iOS apps, among them Letterpress, while designing graphics for iOS 7.”",
+    "The Verge described the interface as “barren” with “natural-feeling animations”."
+  ],
+  "interpretation": [
+    "It shows the flat grammar moving from Microsoft to Apple’s platform through a third-party app, before [iOS 7](ref:ios-7-interface-2013)."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Software and graphics © Atebits and their successors. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q18353647"
+  }
+}

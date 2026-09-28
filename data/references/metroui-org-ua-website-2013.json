@@ -1,0 +1,72 @@
+{
+  "id": "metroui-org-ua-website-2013",
+  "title": "Metro UI CSS website, 2013",
+  "type": "website",
+  "medium": "website",
+  "lede": "An open-source CSS framework that rebuilt Windows 8 Metro for the web, shown in its own tiles.",
+  "summary": "Blue top bar, a magenta note, and blue, green, and yellow tiles with light white titles and line icons. May 2013.",
+  "source": {
+    "url": "http://metroui.org.ua/",
+    "label": "metroui.org.ua, Metro UI CSS home page",
+    "archive": "https://web.archive.org/web/20130523011043/http://metroui.org.ua/"
+  },
+  "creator": {
+    "name": "Sergey Pimenov",
+    "url": "https://github.com/olton"
+  },
+  "made": "2013",
+  "moods": [
+    "bright",
+    "systematic",
+    "clean"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 from the Wayback Machine copy of 23 May 2013, and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. Nothing covers the page. The page shows photographs of the three team members."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "Clear: square solid tiles in blue, green, and yellow with light white titles and single-color line icons; the framework imitates Windows 8 Metro by design.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "The live site has been redesigned many times since 2013.",
+  "context": [
+    "The page describes Metro UI CSS as “a set of styles to create a site with an interface similar to Windows 8 Metro UI”. A photo caption names Sergey Pimenov as author and team leader.",
+    "The repository [olton/metroui](https://github.com/olton/metroui) was created on 9 March 2012 and is released under the MIT License (GitHub API, read 2026-09-28)."
+  ],
+  "observed": [
+    "A full-width blue bar holds a white four-square logo, “Metro UI CSS 0.95-a”, and white menu words.",
+    "A pale gray panel has the light heading “Metro UI CSS” over a solid magenta bar with white text: “Developed with the advice of Microsoft to build the user interface and include:”. Below it are check-marked features.",
+    "Three short red and black bars mark slide positions. Two thin circled arrows are the slide controls.",
+    "A pale blue panel says “project is looking for a sponsor” in light crimson type, with a crimson circled arrow.",
+    "Three square tiles in blue, green, and yellow have light white titles (Simple, Sufficient, Responsive) and white line icons.",
+    "Team photographs sit on pale blue cards with captions."
+  ],
+  "interpretation": [
+    "Measured: headings weight 200 (Segoe UI Semilight), no radius, no shadow, no gradient, and 7 hue groups in the screenshot. 47% of boxes have a 1 px border, mostly the pale frames around photographs and panels.",
+    "It is a direct translation of the Metro grammar into web components: tiles, light headings, and circled-arrow controls."
+  ],
+  "borrow": [
+    "Build a tile as a solid rectangle with a light title at top left and a one-color glyph at bottom right."
+  ],
+  "images": [
+    {
+      "file": "assets/references/metroui-org-ua-website-2013.jpg",
+      "alt": "Metro UI CSS home page of May 2013: a blue top bar, a gray panel with a magenta bar, a sponsor panel with a crimson circled arrow, three solid tiles in blue, green, and yellow titled Simple, Sufficient, and Responsive, and three team photos.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [Wayback Machine copy of metroui.org.ua, 23 May 2013](https://web.archive.org/web/20130523011043/http://metroui.org.ua/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot of an archived copy, captured for commentary."
+  }
+}

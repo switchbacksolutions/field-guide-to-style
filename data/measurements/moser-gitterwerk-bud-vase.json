@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/moser-gitterwerk-bud-vase.jpg",
+  "captured": "2026-09-28T17:55:11+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#d7d1bc",
+        "share": 0.174
+      },
+      {
+        "hex": "#282727",
+        "share": 0.171
+      },
+      {
+        "hex": "#383736",
+        "share": 0.118
+      },
+      {
+        "hex": "#eceae7",
+        "share": 0.111
+      },
+      {
+        "hex": "#d8d4d2",
+        "share": 0.082
+      },
+      {
+        "hex": "#464542",
+        "share": 0.038
+      },
+      {
+        "hex": "#928f7b",
+        "share": 0.032
+      },
+      {
+        "hex": "#a19c84",
+        "share": 0.03
+      },
+      {
+        "hex": "#c3bca2",
+        "share": 0.028
+      },
+      {
+        "hex": "#85816c",
+        "share": 0.027
+      }
+    ],
+    "background": "#d7d1bc",
+    "chroma": 0.05,
+    "lightness": 0.54,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 17,
+    "hues": 0
+  }
+}

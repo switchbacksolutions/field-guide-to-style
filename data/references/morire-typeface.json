@@ -1,0 +1,54 @@
+{
+  "id": "morire-typeface",
+  "title": "Morire typeface",
+  "type": "product",
+  "medium": "typeface",
+  "lede": "Harriet Goren’s sketchy, vibrating typeface, drawn over one weekend in an experimental type workshop and soon used throughout Ray Gun.",
+  "summary": "A grunge font of sketch lines and shadows, named after a Monteverdi song and sold by T-26. Harriet Goren, c. 1993–94.",
+  "source": {
+    "url": "https://web.archive.org/web/20150925150838/http://www.theawl.com/2012/08/grunge-typography",
+    "label": "Sharan Shetty, “The Rise And Fall Of Grunge Typography”, The Awl (2012), archived copy"
+  },
+  "creator": {
+    "name": "Harriet Goren"
+  },
+  "made": "1993 or 1994 (Goren, quoted in The Awl)",
+  "moods": [
+    "intuitive",
+    "angsty",
+    "raw"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on The Awl’s interview with Goren. The only image found, The Awl’s sample, is 600 × 103 px, too small to describe the letterforms. T-26 stopped selling the font in 2004, so no current specimen was found."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "grunge-typography",
+      "note": "Clear example by documentation: The Awl and Wikipedia name it one of the signature grunge fonts, and Carson used it in Ray Gun.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Goren told The Awl she designed the whole typeface over one weekend in 1993 or 1994, in an experimental typography course taught by P. Scott Makela at the Center for Creative Imaging in Camden, Maine. [The Awl](https://web.archive.org/web/20150925150838/http://www.theawl.com/2012/08/grunge-typography).",
+    "Makela suggested she send it to David Carson; a few months later she found Morire “emblazoned all over the pages” of Ray Gun, credited and used on a cover. [The Awl](https://web.archive.org/web/20150925150838/http://www.theawl.com/2012/08/grunge-typography).",
+    "The Awl says the design was inspired by Monteverdi’s song “Sì ch’io vorrei morire” and is “all sketch and shadows, as though the letters are in perpetual and subtle vibration”. [The Awl](https://web.archive.org/web/20150925150838/http://www.theawl.com/2012/08/grunge-typography).",
+    "T-26 distributed Morire and stopped in 2004. Wikipedia, citing The Awl, lists Morire with Hat Nguyen’s Droplet and Eric Lin’s Tema Cantante as “signature grunge fonts”. [The Awl](https://web.archive.org/web/20150925150838/http://www.theawl.com/2012/08/grunge-typography); [Wikipedia](https://en.wikipedia.org/wiki/Grunge#Graphic_design)."
+  ],
+  "interpretation": [
+    "Morire shows how the style spread: a quickly made, deliberately rough font moved from a workshop to Ray Gun to a commercial foundry within months."
+  ],
+  "borrow": [
+    "Draw display letters as clusters of loose sketch lines, so that their edges seem to vibrate."
+  ],
+  "next": [
+    "Find a specimen or Ray Gun page that shows Morire at 800 px or more, and record the issue that used it on the cover."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The typeface is by Harriet Goren."
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "destijl-neocities-website",
+  "title": "De Stijl student site on Neocities",
+  "type": "website",
+  "medium": "website",
+  "lede": "A small Portuguese-language site about the movement whose header is itself a Mondrian-like composition of thick black bars and red, yellow, and blue planes.",
+  "summary": "Thick black bars and primary planes as a page header, with primary-colored navigation tabs above plain text.",
+  "source": {
+    "url": "https://destijl.neocities.org/",
+    "label": "destijl.neocities.org"
+  },
+  "moods": [
+    "didactic",
+    "orthogonal",
+    "naive"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. The page is 15 px wider than the viewport."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "Clear in the header: black horizontal and vertical bars that run off the edge, with flat red, yellow, and blue planes among white ones. The body below is plain text, and the page describes the movement as well as using it.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The header is a white field divided by thick black vertical bars and one thick black horizontal bar that runs the full width of the page.",
+    "Some cells are filled with flat red, yellow, and blue; a blue plane sits at the far right, red and yellow planes at the left.",
+    "The title “De Stijl” is set in white sans-serif with a dark drop shadow over the composition.",
+    "Six navigation tabs sit in a row, filled red, blue, yellow, black, white, and gray, with small rounded corners.",
+    "Below, the heading “História” and a paragraph about Mondrian and the journal are set in gray Helvetica on white, followed by a bibliography."
+  ],
+  "interpretation": [
+    "The header uses the style’s grammar directly: lines as solid bars, planes in the three primaries, and asymmetric placement. The rest of the page is a default text layout.",
+    "The black bars are drawn as filled boxes, not CSS borders, so `surface.border.medianWidth` measures 1 px although the visible lines are about 24 px thick. The tabs have a 4 px radius, which gives a round share of 0.86 among only 7 measured boxes. No heading is in capitals (uppercase share 0)."
+  ],
+  "borrow": [
+    "Draw the grid lines as solid black bars that run past the content edge, and fill only two or three cells with primaries.",
+    "Color the navigation items with the palette itself: one primary or non-color per item."
+  ],
+  "images": [
+    {
+      "file": "assets/references/destijl-neocities-website.jpg",
+      "alt": "Web page with a header of thick black horizontal and vertical bars dividing white cells, some filled red, yellow, and blue, and the title De Stijl in white. Below are six navigation tabs in red, blue, yellow, black, white, and gray, and a Portuguese text about Mondrian.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [destijl.neocities.org](https://destijl.neocities.org/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

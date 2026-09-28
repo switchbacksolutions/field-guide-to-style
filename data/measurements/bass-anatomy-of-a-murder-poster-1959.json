@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/bass-anatomy-of-a-murder-poster-1959.jpg",
+  "captured": "2026-09-28T17:33:16+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#eda305",
+        "share": 0.382
+      },
+      {
+        "hex": "#dd4024",
+        "share": 0.261
+      },
+      {
+        "hex": "#f5f5f1",
+        "share": 0.23
+      },
+      {
+        "hex": "#161616",
+        "share": 0.037
+      },
+      {
+        "hex": "#852b21",
+        "share": 0.021
+      },
+      {
+        "hex": "#ad3827",
+        "share": 0.017
+      },
+      {
+        "hex": "#dbd6cf",
+        "share": 0.01
+      },
+      {
+        "hex": "#dfa324",
+        "share": 0.007
+      },
+      {
+        "hex": "#b28222",
+        "share": 0.007
+      },
+      {
+        "hex": "#bcbbbb",
+        "share": 0.007
+      }
+    ],
+    "background": "#eda305",
+    "chroma": 0.57,
+    "lightness": 0.58,
+    "chromaticShare": 0.71,
+    "accentChroma": 0.8,
+    "distinct": 5,
+    "hues": 2
+  }
+}

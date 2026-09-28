@@ -1,0 +1,66 @@
+{
+  "id": "emery-walker-trust-website",
+  "title": "Emery Walker’s House website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The house museum of Morris’s typographic adviser puts a woven Morris bird pattern behind its title and sets its headings in a red old-style serif.",
+  "summary": "A full-width woven bird-and-flower pattern in indigo and salmon under white serif type, with red serif headings.",
+  "source": {
+    "url": "https://www.emerywalker.org.uk/",
+    "label": "emerywalker.org.uk"
+  },
+  "creator": {
+    "name": "Emery Walker Trust"
+  },
+  "moods": [
+    "handmade",
+    "dense",
+    "domestic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. A cookie bar covers the bottom 60 px of the viewport."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "Clear: a dense Morris textile fills the hero, and the headings are a red old-style serif under a woodcut-style device.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The logo is a square black-and-white woodcut-style device of a bird in interlaced vines, beside “EMERY WALKER’S HOUSE” in three lines of red serif capitals.",
+    "A thin grey rule runs above and below a row of small grey capital navigation labels.",
+    "The hero is a full-width photograph of a woven textile: pairs of salmon and cream birds among dense leaves and flowers on dark indigo. “Emery Walker’s House” and “7 Hammersmith Terrace” sit over it in large white serif type.",
+    "A slate-blue band below holds “The Arts & Crafts home, London” in dark blue old-style serif.",
+    "Three photo cards at the bottom carry headings such as “Explore The House” in large red serif on a pale band.",
+    "A white cookie bar with a black Accept button covers the bottom edge."
+  ],
+  "interpretation": [
+    "The pattern is a photographic image, so `color.patternShare` measures 0 even though the hero is the densest area of the page; the site shows the limit of the metric.",
+    "Measured: square corners (radius 0), accent chroma 0.36, and a shadow share of 0.15 from the cookie bar and cards.",
+    "The red serif headings over cream and indigo come close to the rubric’s red headings on a dye palette."
+  ],
+  "borrow": [
+    "Set white serif display type directly over a dark, dense textile image, and let the pattern do the work of a hero photograph.",
+    "Pair a square black-and-white device with a red serif wordmark."
+  ],
+  "images": [
+    {
+      "file": "assets/references/emery-walker-trust-website.jpg",
+      "alt": "Emery Walker’s House home page: a red serif wordmark beside a black-and-white bird device, grey navigation, a hero of a dense indigo textile with salmon birds under large white serif type, and a slate-blue band reading The Arts & Crafts home, London.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [emerywalker.org.uk](https://www.emerywalker.org.uk/), 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners, and the pattern images belong to their rights holders. Screenshot captured for commentary."
+  }
+}

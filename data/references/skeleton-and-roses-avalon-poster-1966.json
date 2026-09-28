@@ -1,0 +1,64 @@
+{
+  "id": "skeleton-and-roses-avalon-poster-1966",
+  "title": "Grateful Dead at the Avalon Ballroom (Skeleton and Roses)",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Alton Kelley and Stanley Mouse’s Family Dog poster of September 1966, which framed an old book illustration of a skeleton crowned with roses in banners of hand lettering.",
+  "summary": "Mouse and Kelley, 1966. A rose-crowned skeleton inside red ribbons and blue frames of swelling lettering.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O111021/",
+    "label": "Victoria and Albert Museum: E.55-1999"
+  },
+  "creator": {
+    "name": "Alton Kelley and Stanley Mouse",
+    "url": "https://en.wikipedia.org/wiki/Stanley_Mouse"
+  },
+  "made": "1966 (concerts 16–17 September)",
+  "moods": [
+    "ornate",
+    "macabre",
+    "dense"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the V&A image of object E.55-1999 (IIIF, 1200 × 1600 px) to a scratch folder and inspected it. The imprint on this copy reads 26 (2), so it may be a second printing. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "The Art Nouveau revival side of the style: a borrowed nineteenth-century illustration, symmetrical ribbons, and swollen hand lettering. Partial fit on color: red and blue on cream paper, with a white margin.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A catalogues it as a psychedelic poster promoting the Grateful Dead and Oxford Circle at the Avalon Ballroom, offset lithography, 508 × 356 mm, by Alton Kelley and Stanley Mouse, San Francisco, 1966. [V&A](https://collections.vam.ac.uk/item/O111021/).",
+    "Wikipedia reports that Mouse and Kelley drew heavily on Art Nouveau graphics, in particular Alphonse Mucha and Edmund Joseph Sullivan, and credits the two with the skull-and-roses image for the Grateful Dead. Sullivan’s skeleton comes from a nineteenth-century edition of the Rubáiyát of Omar Khayyám. [Wikipedia: Stanley Mouse](https://en.wikipedia.org/wiki/Stanley_Mouse), [Wikipedia: Alton Kelley](https://en.wikipedia.org/wiki/Alton_Kelley)."
+  ],
+  "observed": [
+    "A skeleton crowned and surrounded by red roses stands in a pale blue rectangle at the center. The drawing is fine black line with red and white roses.",
+    "GRATEFUL DEAD runs across a red ribbon at the top in black-outlined, swelling capitals. The ribbon ends curl down both sides and hold two Family Dog medallions.",
+    "SEPT 16 and SEPT 17 stand in large red script letters left and right of the image, symmetrically.",
+    "A blue cartouche at the bottom holds OXFORD CIRCLE in red and AVALON BALLROOM in blue on a white ribbon.",
+    "A bright blue border fills the space between the frames. Cream paper shows around the edge, and the ticket outlets at the bottom are set in plain type."
+  ],
+  "interpretation": [
+    "The poster shows how much of the style is revival. The skeleton is Victorian book illustration, and the ribbons and medallions come from Art Nouveau and Victorian posters. The psychedelic part is the lettering and the crowding.",
+    "Its two-ink palette of red and blue is saturated but not vibrating, which is common in Family Dog posters."
+  ],
+  "borrow": [
+    "Frame a central image with a ribbon banner and mirrored side elements.",
+    "Set dates or secondary facts as large, symmetrical ornaments rather than small text.",
+    "Combine one fine-line illustration with heavy, swollen display lettering for contrast."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The V&A image is © Victoria and Albert Museum, London, and the design is in copyright. The imprint reads © Family Dog Productions 1966. Stanley Mouse is alive; Alton Kelley died in 2008."
+  },
+  "identifiers": {
+    "vam": "O111021",
+    "vam-accession": "E.55-1999"
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

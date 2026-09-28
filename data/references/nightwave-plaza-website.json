@@ -1,0 +1,57 @@
+{
+  "id": "nightwave-plaza-website",
+  "title": "Nightwave Plaza",
+  "type": "website",
+  "medium": "website",
+  "lede": "An online vaporwave radio whose player is a Windows 9x desktop over a faded anime still of stacked CRT computers.",
+  "summary": "Windows 9x player windows and taskbar over a muted pink-and-teal anime still of old computers.",
+  "source": {
+    "url": "https://plaza.one/",
+    "label": "plaza.one"
+  },
+  "moods": [
+    "nostalgic",
+    "calm",
+    "hazy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Clear: the site calls itself “Online Vaporwave Radio”, and it combines Windows 9x chrome with a faded 1980s-style anime image in dusty pink and teal. The CSS bevels pass the shadow and radius metrics.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The background is a muted anime still of stacked beige computer units and CRT monitors, one labelled TOSHIBA EX-500, with orange, pink, and teal screens showing large pixel characters.",
+    "A grey Windows 9x player window with Play and like buttons and a pink checkered album thumbnail sits in the centre, partly covered by a News dialog with a navy title bar and a Close button.",
+    "A grey Windows 9x taskbar runs along the bottom with task buttons and a clock."
+  ],
+  "interpretation": [
+    "The measurement finds hard shadows on 56% of boxes with a 1.4 px median offset and zero radius: the same bevel values as [Agora Road](ref:agora-road-website). The pastel colour is all in the background image, so gradient share is 0."
+  ],
+  "borrow": [
+    "Put a faded, low-contrast image behind crisp, unfaded Windows 9x windows; the contrast between the two keeps the text readable."
+  ],
+  "images": [
+    {
+      "file": "assets/references/nightwave-plaza-website.jpg",
+      "alt": "Nightwave Plaza: a Windows 9x player window and a News dialog over a muted anime still of stacked beige computers and CRT monitors with pink and teal screens, with a grey taskbar at the bottom.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [plaza.one](https://plaza.one/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

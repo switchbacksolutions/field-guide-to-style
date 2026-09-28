@@ -1,0 +1,65 @@
+{
+  "id": "tailwindcss-neumorphism-demo-website",
+  "title": "tailwindcss-neumorphism demo",
+  "type": "website",
+  "medium": "website",
+  "lede": "A 2020 Tailwind CSS plugin demo in which every form field, button, and toggle is molded from the page.",
+  "summary": "Tailwind plugin demo: pressed inputs, raised pill buttons, and soft toggles on pale blue.",
+  "source": {
+    "url": "https://tailwindcss-neumorphism-demo.netlify.app/",
+    "label": "tailwindcss-neumorphism demo"
+  },
+  "creator": {
+    "name": "sambeevors (GitHub user)",
+    "url": "https://github.com/sambeevors/tailwindcss-neumorphism"
+  },
+  "moods": [
+    "soft",
+    "quiet"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "Clear. Inputs are pressed wells, buttons and the select are raised pills, and toggles and progress tracks are soft, all in the page color.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The plugin repository [sambeevors/tailwindcss-neumorphism](https://github.com/sambeevors/tailwindcss-neumorphism) was created on 4 June 2020."
+  ],
+  "observed": [
+    "A pale blue page (about #edf2f6 in the screenshot). “Full name” and “Email” inputs are pressed pills with inner shadows; the select and the “Submit” button are raised pills.",
+    "A round home button and a “Buy gift card” pill with a faint gradient sit below.",
+    "Three thin progress tracks carry red, yellow, and green fills; three toggles are soft pills, two filled blue and green.",
+    "Labels are small uppercase letter-spaced sans-serif in slate; a raised “Card title” card starts at the bottom."
+  ],
+  "interpretation": [
+    "A compact specimen of raised versus pressed states in real form controls. The three saturated progress colors go beyond the one-accent rule.",
+    "Measured: shadows on 85 % of boxes (median offset 3.4 px, median blur 4.8 px, none hard), borders on 0 %, median radius 12.6 px."
+  ],
+  "borrow": [
+    "Make every input a pressed well and every button a raised pill; the difference alone tells a user what can be typed into and what can be pressed."
+  ],
+  "images": [
+    {
+      "file": "assets/references/tailwindcss-neumorphism-demo-website.jpg",
+      "alt": "tailwindcss-neumorphism demo: a pale blue form with pressed pill inputs, a raised select and Submit button, a round home button, colored progress bars, and soft toggles.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [tailwindcss-neumorphism demo](https://tailwindcss-neumorphism-demo.netlify.app/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

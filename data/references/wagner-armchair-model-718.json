@@ -1,0 +1,73 @@
+{
+  "id": "wagner-armchair-model-718",
+  "title": "Armchair, model no. 718 F/B",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "Otto Wagner’s bentwood armchair of about 1902: ebonized beech, a square upholstered seat and back panel, and aluminium sabots on the feet.",
+  "summary": "Black bentwood frame, square leather panels, and aluminium feet. Otto Wagner for Jacob & Josef Kohn, c. 1902.",
+  "source": {
+    "url": "https://collections.artsmia.org/art/60713/armchair-model-no-718-fb-otto-wagner",
+    "label": "Minneapolis Institute of Art: Armchair, model no. 718 F/B, 98.276.302"
+  },
+  "creator": {
+    "name": "Otto Wagner (designer); Jacob & Josef Kohn (manufacturer)",
+    "url": "https://en.wikipedia.org/wiki/Otto_Wagner"
+  },
+  "made": "c. 1902",
+  "moods": [
+    "austere",
+    "precise",
+    "rational"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Minneapolis Institute of Art photograph of object 98.276.302 (560 × 800 px). The leather colour in the photograph may not be original; the museum record does not say."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "Partial fit: black and metal with square panels and no ornament, as in Wagner’s bank interiors, but the frame is a bentwood curve and the photographed upholstery is bright red.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Mia records the chair as designed by Otto Wagner and made by Jacob & Josef Kohn, c. 1902, in ebonized beechwood with aluminium sabots and leather. [Mia 98.276.302](https://collections.artsmia.org/art/60713/armchair-model-no-718-fb-otto-wagner).",
+    "Mia’s label says the chair precedes a variant armchair of 1904–1906 designed for the Postal Savings Bank in Vienna, that Kohn and the rival firm Gebrüder Thonet produced the form in several variations, and that Wagner was the first of his colleagues to use aluminium in interior elements and furniture. [Mia 98.276.302](https://collections.artsmia.org/art/60713/armchair-model-no-718-fb-otto-wagner). See [the Postal Savings Bank](ref:wagner-austrian-postal-savings-bank)."
+  ],
+  "observed": [
+    "The frame is black: a continuous bentwood rail forms the back and both arms and comes down as the front legs.",
+    "The seat and the back panel are square-cut and upholstered in smooth red leather; the back panel is framed by the black rail and two uprights.",
+    "A ring of bentwood joins the four legs below the seat.",
+    "Each leg ends in a bright metal sleeve (sabot), which stands out against the black wood."
+  ],
+  "interpretation": [
+    "Metal caps at the points of wear are functional, but Wagner shows them as a deliberate accent, like the aluminium bolts on his bank façade. Black with bright metal is the palette of his bank interiors.",
+    "The curved bentwood rail links this chair to the Thonet tradition more than to the square lattice of Hoffmann and Moser, so it is a partial fit."
+  ],
+  "borrow": [
+    "Use black as the main colour, with one bright metallic accent at edges and endpoints.",
+    "Frame one square panel with a thin black line, and keep the panel plain."
+  ],
+  "images": [
+    {
+      "file": "assets/references/wagner-armchair-model-718.jpg",
+      "alt": "Armchair with a black bentwood frame curving round the back and arms, a square red leather seat and back panel, a ring stretcher between the legs, and bright aluminium caps on the feet.",
+      "width": 560,
+      "height": 800,
+      "kind": "photograph",
+      "caption": "Otto Wagner for Jacob & Josef Kohn, armchair model no. 718 F/B, c. 1902. Minneapolis Institute of Art, 98.276.302, The Modernism Collection, gift of Norwest Bank Minnesota. Image from [Mia](https://collections.artsmia.org/art/60713/armchair-model-no-718-fb-otto-wagner), rights status Public Domain.",
+      "original": "https://1.api.artsmia.org/800/60713.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Mia gives the rights status of this object as Public Domain. Otto Wagner died in 1918, and the chair was made c. 1902, so the design is in the public domain in Austria and in the United States."
+  },
+  "identifiers": {
+    "mia": "98.276.302"
+  }
+}

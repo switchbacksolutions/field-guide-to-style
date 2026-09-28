@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lissitzky-beat-the-whites-red-wedge-poster.jpg",
+  "captured": "2026-09-28T17:40:28+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f1efdf",
+        "share": 0.535
+      },
+      {
+        "hex": "#121315",
+        "share": 0.219
+      },
+      {
+        "hex": "#d94b20",
+        "share": 0.071
+      },
+      {
+        "hex": "#e6e5d4",
+        "share": 0.042
+      },
+      {
+        "hex": "#d75f35",
+        "share": 0.022
+      },
+      {
+        "hex": "#dad7c8",
+        "share": 0.02
+      },
+      {
+        "hex": "#7d7f7b",
+        "share": 0.016
+      },
+      {
+        "hex": "#080808",
+        "share": 0.015
+      },
+      {
+        "hex": "#6a6c68",
+        "share": 0.015
+      },
+      {
+        "hex": "#c6c2b6",
+        "share": 0.013
+      }
+    ],
+    "background": "#f1efdf",
+    "chroma": 0.11,
+    "lightness": 0.64,
+    "chromaticShare": 0.09,
+    "accentChroma": 0.7,
+    "distinct": 6,
+    "hues": 1
+  }
+}

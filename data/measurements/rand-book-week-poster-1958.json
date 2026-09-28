@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/rand-book-week-poster-1958.jpg",
+  "captured": "2026-09-28T17:33:17+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#464241",
+        "share": 0.63
+      },
+      {
+        "hex": "#688252",
+        "share": 0.084
+      },
+      {
+        "hex": "#e0d1bb",
+        "share": 0.055
+      },
+      {
+        "hex": "#323432",
+        "share": 0.049
+      },
+      {
+        "hex": "#c15732",
+        "share": 0.048
+      },
+      {
+        "hex": "#e5c74a",
+        "share": 0.036
+      },
+      {
+        "hex": "#cea098",
+        "share": 0.019
+      },
+      {
+        "hex": "#99afb2",
+        "share": 0.013
+      },
+      {
+        "hex": "#aa575e",
+        "share": 0.012
+      },
+      {
+        "hex": "#566185",
+        "share": 0.008
+      }
+    ],
+    "background": "#464241",
+    "chroma": 0.1,
+    "lightness": 0.35,
+    "chromaticShare": 0.11,
+    "accentChroma": 0.53,
+    "distinct": 6,
+    "hues": 3
+  }
+}

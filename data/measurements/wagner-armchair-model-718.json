@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/wagner-armchair-model-718.jpg",
+  "captured": "2026-09-28T17:55:11+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f5f7f4",
+        "share": 0.704
+      },
+      {
+        "hex": "#1a1615",
+        "share": 0.05
+      },
+      {
+        "hex": "#292220",
+        "share": 0.044
+      },
+      {
+        "hex": "#3c302b",
+        "share": 0.042
+      },
+      {
+        "hex": "#c52c21",
+        "share": 0.032
+      },
+      {
+        "hex": "#de553b",
+        "share": 0.031
+      },
+      {
+        "hex": "#58413a",
+        "share": 0.021
+      },
+      {
+        "hex": "#e87a50",
+        "share": 0.02
+      },
+      {
+        "hex": "#e4ded8",
+        "share": 0.016
+      },
+      {
+        "hex": "#d3c7bf",
+        "share": 0.011
+      }
+    ],
+    "background": "#f5f7f4",
+    "chroma": 0.07,
+    "lightness": 0.79,
+    "chromaticShare": 0.09,
+    "accentChroma": 0.61,
+    "distinct": 7,
+    "hues": 1
+  }
+}

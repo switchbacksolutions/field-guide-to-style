@@ -1,0 +1,74 @@
+{
+  "id": "majorelle-gilt-bench-1900",
+  "title": "Gilt bench by Louis Majorelle",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "A Nancy window bench from the Majorelle firm: gilt wood that curves up into two arched, leaf-shaped ends carved with flowers.",
+  "summary": "Gilt-wood bench with arched, upholstered ends and carved flower tops. Louis Majorelle, Nancy, c. 1900.",
+  "source": {
+    "url": "https://clevelandart.org/art/1971.28",
+    "label": "Cleveland Museum of Art: Bench, 1971.28"
+  },
+  "creator": {
+    "name": "Louis Majorelle",
+    "url": "https://clevelandart.org/art/1971.28"
+  },
+  "made": "c. 1900",
+  "moods": [
+    "graceful",
+    "ornate",
+    "organic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Cleveland Museum of Art open-access image of object 1971.28 (3400 × 2587 px print file). Read the object record through the museum’s open-access API."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "art-nouveau",
+      "note": "Nancy School furniture: continuous curves, arched panel ends, and carved plant tops. It is a partial fit, because its gilding and Rococo echo are more courtly than the whiplash core.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Cleveland Museum of Art records the bench as gilt wood, 75 × 118.1 × 40.7 cm, made in Nancy, France, c. 1900, by Louis Majorelle (1859–1926). [CMA 1971.28](https://clevelandart.org/art/1971.28).",
+    "The museum’s text says that French Art Nouveau furniture designers took inspiration from Rococo pieces of about 1750, that this bench shows the Majorelle firm’s version of that taste, and that it is now covered with a Japanese brocade of about 1900. [CMA 1971.28](https://clevelandart.org/art/1971.28)."
+  ],
+  "observed": [
+    "The frame is gilt all over. The seat rail curves gently and runs without a break into the two raised ends.",
+    "Each end is a tall panel with an arched top, divided by a central rib into two pointed, leaf-shaped fields of upholstery.",
+    "Carved flower heads sit at the top of each end, and small carved leaves sit where the legs meet the seat rail.",
+    "The four legs are slender and curve outward to small scrolled feet.",
+    "The brocade is pale pink and gold with small green and red floral sprigs, edged by a coral-orange braid that follows the curves of the panels."
+  ],
+  "interpretation": [
+    "The arched, leaf-shaped end panels are a direct source for the style’s arched and leaf-cut panel shapes.",
+    "The upholstery is a later Japanese brocade, so its colours are not Majorelle’s choice; the frame and its carving are the evidence here."
+  ],
+  "borrow": [
+    "Give a panel an arched top and split it with one central rib into two leaf-shaped fields.",
+    "Run a contrasting edge line around a curved panel so that the curve reads clearly."
+  ],
+  "images": [
+    {
+      "file": "assets/references/majorelle-gilt-bench-1900.jpg",
+      "alt": "Long gilt-wood bench on four slender curved legs. Both ends rise into tall arched panels upholstered in pink and gold floral brocade and topped with carved flowers.",
+      "width": 1600,
+      "height": 1217,
+      "kind": "source-image",
+      "caption": "Louis Majorelle, bench, c. 1900, gilt wood with later Japanese brocade. [Cleveland Museum of Art 1971.28](https://clevelandart.org/art/1971.28), CC0.",
+      "original": "https://openaccess-cdn.clevelandart.org/1971.28/1971.28_print.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Cleveland Museum of Art marks the object and its image CC0. Louis Majorelle died in 1926, so his designs are in the public domain in France, and the bench, made about 1900, is in the public domain in the United States."
+  },
+  "identifiers": {
+    "cleveland": "1971.28"
+  }
+}

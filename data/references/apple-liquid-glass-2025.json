@@ -1,0 +1,60 @@
+{
+  "id": "apple-liquid-glass-2025",
+  "title": "Apple Liquid Glass",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "Apple’s 2025 design material, which adds refraction and moving highlights to translucent glass across all its platforms.",
+  "summary": "A translucent, refracting glass layer for controls and navigation on every Apple platform. 2025.",
+  "source": {
+    "url": "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
+    "label": "Apple Newsroom, June 9, 2025"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "2025 (announced June 9, 2025 at WWDC)",
+  "moods": [
+    "luminous",
+    "premium",
+    "liquid"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected two Apple Newsroom images in scratchpad copies: Apple-WWDC25-Liquid-Glass-hero-250609 and Apple-WWDC25-Liquid-Glass-Home-Screen-clear-look-250609 (both 1960 × 1102). The screens in these images are small, so the refraction is not visible at this size. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "glassmorphism",
+      "note": "Related branch, partial fit. It keeps the frosted, floating layer but adds refraction and specular edges, which the style’s rubric treats as a separate confusion.",
+      "basis": "agent",
+      "qualifier": "related branch"
+    }
+  ],
+  "context": [
+    "Apple describes Liquid Glass as a “translucent material” that “reflects and refracts its surroundings”, whose color “is informed by surrounding content”. It is used for controls, navigation, app icons, widgets, the Lock Screen, and Control Center. [Apple Newsroom](https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/).",
+    "The HIG separates Liquid Glass, a layer for controls and navigation that floats above content, from the standard materials (ultra-thin to thick blur) used in the content layer. It offers a regular and a clear variant, and suggests a 35 % dark dimming layer under clear glass on bright content. [Apple HIG: Materials](https://developer.apple.com/design/human-interface-guidelines/materials).",
+    "Wikipedia and [Everyday UX](https://www.everydayux.net/glassmorphism-apple-liquid-glass-interface-design/) (2025) treat Liquid Glass as a development of glassmorphism that adds real-time lensing and motion. [Wikipedia: Liquid Glass](https://en.wikipedia.org/wiki/Liquid_Glass)."
+  ],
+  "observed": [
+    "Home-screen image: a MacBook desktop with a pale green photo wallpaper. Calendar, weather, reminders, and podcast widgets are clear, rounded glass tiles with thin light edges; the photo shows through almost unblurred.",
+    "The Dock is a clear glass strip with monochrome icons.",
+    "Hero image: a TV, MacBook, iPad, iPhone, and Watch together. On the iPad, widgets and the Dock are translucent over a blue-and-teal wave wallpaper."
+  ],
+  "interpretation": [
+    "Liquid Glass is the largest deployment of the frosted layer since Big Sur, but its clear variant blurs less than classic glassmorphism and relies on lensing, which the stored rubric lists as a counter-trait."
+  ],
+  "borrow": [
+    "Keep glass for the navigation and control layer only, and leave content surfaces opaque or in lighter standard materials."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple press images and software; copyrighted. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q134784675"
+  }
+}

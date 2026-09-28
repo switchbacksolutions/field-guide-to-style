@@ -1,0 +1,51 @@
+{
+  "id": "ical-os-x-lion-2011",
+  "title": "iCal in Mac OS X Lion, 2011",
+  "type": "product",
+  "medium": "software",
+  "lede": "Apple’s desktop calendar in Lion, with a stitched tan leather top bar and torn paper edges, the most cited example of the style’s excess.",
+  "summary": "Stitched leather and torn desk-calendar pages on the Mac. Apple, 2011.",
+  "source": {
+    "url": "https://web.archive.org/web/20110727225723/http://www.apple.com/macosx/whats-new/features.html",
+    "label": "Apple, “Mac OS X Lion: New features” (archived July 2011)"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "2011 (Mac OS X Lion); renamed Calendar in OS X Mountain Lion (2012); leather removed in OS X Mavericks (2013)",
+  "moods": [
+    "tactile",
+    "ornate",
+    "warm"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Apple’s archived Lion features page describes the “streamlined new look” of iCal; its screenshot of the app is only 323 × 199 px, too small to describe. The leather design is documented by Fast Company (2012) and by the style record’s sources."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "skeuomorphism",
+      "note": "The emblematic example of the style: a desk calendar with leather binding, stitching, and torn pages, all without function.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple’s Lion page said iCal “features a streamlined new look that gives you more room to browse and edit your events.” [Apple, archived July 2011](https://web.archive.org/web/20110727225723/http://www.apple.com/macosx/whats-new/features.html).",
+    "A former senior Apple UI designer told Fast Company that “iCal’s leather-stitching was literally based on a texture in his Gulfstream jet,” meaning Steve Jobs’s jet. [Fast Company, Austin Carr, “Will Apple’s Tacky Software-Design Philosophy Cause A Revolt?” (2012)](https://www.fastcompany.com/1670760/will-apples-tacky-software-design-philosophy-cause-a-revolt).",
+    "Wikipedia’s lead on skeuomorphs uses “a software calendar that imitates the appearance of binding on a paper desk calendar” as its virtual example, citing Wired (2012). [Wikipedia: Skeuomorph](https://en.wikipedia.org/wiki/Skeuomorph)."
+  ],
+  "interpretation": [
+    "The leather is decoration from a luxury interior, not from a calendar. That is why critics used it as the clearest sign of the style going too far."
+  ],
+  "next": [
+    "Find an openly licensed or large archived screenshot of Lion iCal and inspect it."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple software; copyrighted. No image is stored here."
+  }
+}

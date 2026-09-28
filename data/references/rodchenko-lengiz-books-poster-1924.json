@@ -1,0 +1,51 @@
+{
+  "id": "rodchenko-lengiz-books-poster-1924",
+  "title": "Lengiz “Books” poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Alexander Rodchenko’s advertisement for the Leningrad State Publishing House, with Lilya Brik calling out the slogan, is the most copied image of Soviet constructivism.",
+  "summary": "A photographed Lilya Brik shouts “Books in all branches of knowledge” through a cupped hand. Alexander Rodchenko, 1924 (some sources: 1925).",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Alexander_Rodchenko",
+    "label": "Wikipedia: Alexander Rodchenko"
+  },
+  "creator": {
+    "name": "Alexander Rodchenko",
+    "url": "https://www.wikidata.org/wiki/Q312631"
+  },
+  "made": "1924 (Wikipedia); 1925 in some dealer and reproduction listings",
+  "moods": [
+    "agitational",
+    "declarative",
+    "photographic"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on text sources only. No museum record with an image of a printed copy was found: MoMA refuses automated access, and the Art Institute of Chicago and the V&A do not list the poster. Search results describe a photomontage and gouache design in a private collection, which may differ from any printed version."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "constructivism",
+      "note": "The best-known constructivist advertisement: a cut-out photograph joined with geometric type, used here to promote reading.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "No image of an identified copy was inspected. Treat the visual description as unverified until a museum record is checked.",
+  "context": [
+    "Wikipedia calls it “likely his most famous poster, an advertisement for the Lengiz Publishing House sometimes titled ‘Books’”, made in 1924, with the slogan “книги по всем отраслям знания” (books in all branches of knowledge). [Wikipedia](https://en.wikipedia.org/wiki/Alexander_Rodchenko).",
+    "The woman in the photograph is Lilya Brik. Franz Ferdinand based the cover of their 2005 album *You Could Have It So Much Better* on the poster. [Wikipedia](https://en.wikipedia.org/wiki/Alexander_Rodchenko)."
+  ],
+  "interpretation": [
+    "The poster’s long afterlife in album covers and advertising shows that its combination of a cut-out photograph and constructivist type is how many people recognize the style today."
+  ],
+  "next": [
+    "Find a museum record with an image of a printed copy (for example the Merrill C. Berman Collection or MoMA) and upgrade the evidence level."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Rodchenko died on 3 December 1956, so his works stay protected in Russia until at least the end of 2026, and until the end of 2030 if he counts as having worked during the Great Patriotic War. The poster was published before 1931, so it is probably in the public domain in the United States."
+  }
+}

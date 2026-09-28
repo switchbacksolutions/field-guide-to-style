@@ -1,0 +1,78 @@
+{
+  "id": "moser-ex-libris-otto-zuckerkandl-1906",
+  "title": "Bookplate for Otto Zuckerkandl",
+  "type": "print",
+  "medium": "book",
+  "lede": "Koloman Moser’s square bookplate of 1906 fits every letter into a ruled band, and sets one frontal figure on the central axis between them.",
+  "summary": "Square black frame, capitals packed into ruled bands, and a frontal figure on the axis. Koloman Moser, Vienna, 1906.",
+  "source": {
+    "url": "https://sammlung.mak.at/en/collect/exlibris-fuer-otto-zuckerkandl_134107",
+    "label": "MAK Collection Online: Exlibris für Otto Zuckerkandl, KI 9136-3859"
+  },
+  "creator": {
+    "name": "Koloman Moser",
+    "url": "https://en.wikipedia.org/wiki/Koloman_Moser"
+  },
+  "made": "1906",
+  "moods": [
+    "geometric",
+    "austere",
+    "precise"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the MAK photograph of the impression MAK KI 9136-3859 (1671 × 1680 px). The MAK also holds the Wiener Werkstätte design sheet for the same bookplate (KI 12558-1), which I looked at only as a small image."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "A clear example of the geometric phase: a square format, thick ruled frame and bands, capitals stretched to fill each band, and strict symmetry in black on white.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The MAK records the bookplate as designed by Koloman Moser in Vienna in 1906 for Otto Zuckerkandl, printed from a block on paper, 8.5 × 8.5 cm. The plate is signed “KM”. It came to the museum with the Artur Wolf collection in 1933. [MAK KI 9136-3859](https://sammlung.mak.at/en/collect/exlibris-fuer-otto-zuckerkandl_134107).",
+    "A design sheet for the same bookplate carries the Wiener Werkstätte stamp. [MAK KI 12558-1](https://sammlung.mak.at/en/collection_online?id=collect-236484).",
+    "Moser co-founded the Wiener Werkstätte with Josef Hoffmann in 1903 and left it in 1907. [Wikipedia: Koloman Moser](https://en.wikipedia.org/wiki/Koloman_Moser)."
+  ],
+  "observed": [
+    "The print is square, in black ink on cream paper, inside a thick hand-cut black frame.",
+    "“EX” and “LIBRIS” sit in two ruled bands at the top; “OTTO” and “ZUCKERKANDL” sit in two bands at the bottom.",
+    "The capitals are drawn from straight strokes and full circles, and are stretched or compressed so that each word fills its band from edge to edge. The U is drawn as a V.",
+    "A frontal female figure stands on the central axis in a dark rectangular robe. She holds a bowl, a snake curves over her head, and its tail ends in a spiral at the bottom.",
+    "The figure’s rectangle cuts through the lower band rules, so the image and the lettering lock together.",
+    "A small square mark with a dot sits at the lower right of the central field.",
+    "Wide areas of the central field are left blank."
+  ],
+  "interpretation": [
+    "This is the Secession lettering rule in its plainest form: the text is set by the frame, not by a font. Each line takes the full width, whatever the letter count, so letter widths change from line to line.",
+    "The snake and spiral keep a trace of the curved early style, but they stay inside the figure’s rectangle. The page as a whole is built from squares and bands."
+  ],
+  "borrow": [
+    "Put headings in full-width ruled bands, and stretch or condense the capitals so each word fills its band.",
+    "Let one central element break through a band rule to join image and text.",
+    "Use a single small square mark as a signature or end mark."
+  ],
+  "images": [
+    {
+      "file": "assets/references/moser-ex-libris-otto-zuckerkandl-1906.jpg",
+      "alt": "Square black and white bookplate: the words Ex Libris at the top and Otto Zuckerkandl at the bottom in capitals packed into ruled bands, with a frontal woman holding a bowl, a snake arching over her head, standing in the middle.",
+      "width": 1591,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Koloman Moser, bookplate for Otto Zuckerkandl, 1906. MAK Vienna, KI 9136-3859, image from the [MAK Collection Online](https://sammlung.mak.at/en/collect/exlibris-fuer-otto-zuckerkandl_134107), Public Domain Mark 1.0.",
+      "original": "https://mak-media.azureedge.net/l/d98a7cd16fac69bf58e5e917407f4458.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The MAK marks this image with the [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/) (“The image can be downloaded and used freely”). Koloman Moser died in 1918, and the bookplate dates from 1906, so the work is in the public domain in Austria and in the United States."
+  },
+  "identifiers": {
+    "mak": "KI 9136-3859"
+  }
+}

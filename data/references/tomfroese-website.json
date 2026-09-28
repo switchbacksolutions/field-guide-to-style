@@ -1,0 +1,66 @@
+{
+  "id": "tomfroese-website",
+  "title": "Tom Froese website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The illustrator’s home page sets a heavy geometric sans-serif heading in white, sky blue, coral, and pale pink on slate, under a pink script logo.",
+  "summary": "A coral script logo and a multicolored bold Futura heading on slate gray, with coral buttons.",
+  "source": {
+    "url": "https://www.tomfroese.com/",
+    "label": "tomfroese.com"
+  },
+  "creator": {
+    "name": "Tom Froese",
+    "url": "https://www.tomfroese.com/"
+  },
+  "moods": [
+    "friendly",
+    "warm",
+    "crafted"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "Borderline: it pairs a script word with a heavy geometric sans-serif and uses warm coral and sky blue, as the rubric describes, but it has no shapes or illustration in the first viewport and the ground is slate, not paper.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The hero ground is flat slate gray (#4d5763 in the screenshot palette).",
+    "“Mr. Tom Froese” at upper left is a pink connected script logotype.",
+    "The centered heading is a heavy geometric sans-serif (the CSS names futura-pt-bold). Words are colored white, sky blue, coral, and pale pink.",
+    "A faint dark script version of the name sits behind the heading, with short brush tick marks radiating around it.",
+    "Three buttons in coral: one solid, two outlined with square corners.",
+    "The menu at right is white geometric sans-serif capitals."
+  ],
+  "interpretation": [
+    "The type pairing is the clearest mid-century signal: a brush script word next to a bold geometric sans, in a few warm colors.",
+    "Measured: two hue families, accent chroma 0.62, heading weight 700, round share 0.57. The CSS chromatic share is 0.02 because the colored areas are small."
+  ],
+  "borrow": [
+    "Color single words of a heavy geometric heading in two or three warm hues.",
+    "Put a faint script signature behind a sans-serif heading as a texture."
+  ],
+  "images": [
+    {
+      "file": "assets/references/tomfroese-website.jpg",
+      "alt": "Tom Froese home page: a slate gray hero with a pink script logo, a large bold geometric heading in white, sky blue, coral, and pale pink, a faint script name and brush marks behind it, and three coral buttons.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [tomfroese.com](https://www.tomfroese.com/), 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design, artwork, and content belong to the site’s owners and artists. Screenshot captured for commentary."
+  }
+}

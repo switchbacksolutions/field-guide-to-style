@@ -1,0 +1,77 @@
+{
+  "id": "beardsley-peacock-skirt-1894",
+  "title": "The Peacock Skirt, Beardsley’s illustration for Salome",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "Aubrey Beardsley’s black-and-white plate for Oscar Wilde’s Salome: a woman seen from behind in a vast robe of peacock-feather scales, joined to a second figure by long hairlines that end in feather eyes.",
+  "summary": "Pen-and-ink figures with a peacock-feather robe, dotted clouds, and long hairline curves. Aubrey Beardsley, London, 1894.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/The_Peacock_Skirt",
+    "label": "Wikipedia: The Peacock Skirt"
+  },
+  "creator": {
+    "name": "Aubrey Beardsley",
+    "url": "https://en.wikipedia.org/wiki/Aubrey_Beardsley"
+  },
+  "made": "Drawn 1893; published 1894 (Wikipedia)",
+  "moods": [
+    "decadent",
+    "graphic",
+    "sinuous"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected a 960 × 1338 px copy of a line reproduction on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beardsley-peacockskirt.PNG), sourced there from humanitiesweb.org. It is a clean black-and-white reproduction, not a museum photograph, so the physical copy it shows is not known. Commons credits another copy to the Harvard Art Museums, which hold the original drawing; that record was not read."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "art-nouveau",
+      "note": "Partial fit: British graphic Art Nouveau with peacock ornament, long curving lines, and Japonisme, but in black and white rather than the earthy palette.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: *The Peacock Skirt* is an 1893 pen-and-ink illustration, first reproduced as a wood engraving in the first English edition of Wilde’s *Salome* (Elkin Mathews and John Lane, 1894), and later as a line block. It was the second of ten plates. The original drawing was bequeathed to the Fogg Art Museum, Harvard, in 1943. The print measures 178 × 127 mm. [Wikipedia](https://en.wikipedia.org/wiki/The_Peacock_Skirt).",
+    "Wikipedia notes the influence of Whistler’s Peacock Room and of Japanese woodblock prints, and says the refined curving lines anticipate the Art Nouveau aesthetic. The Art Nouveau article names Beardsley, whose drawings featured “the curved lines that became the most recognizable feature of the style”, as a key influence, and says the Maison de l’Art Nouveau showed his posters. [Wikipedia: The Peacock Skirt](https://en.wikipedia.org/wiki/The_Peacock_Skirt); [Wikipedia: Art Nouveau](https://en.wikipedia.org/wiki/Art_Nouveau)."
+  ],
+  "observed": [
+    "The image is pure black line and solid black on white, framed by a double rule.",
+    "At left, a woman seen from behind wears a robe that swells into a huge teardrop shape. Its lower half is solid black filled with white scale and feather-eye patterns.",
+    "Long, very thin lines hang from her headdress and shoulders in wide curves and end in small feather-eye pendants.",
+    "A headdress of peacock feathers spreads above her head; a small stylized peacock sits at upper left in a cloud of dotted lines.",
+    "At right, a second figure in a pleated, layered tunic turns toward her, drawn in fine parallel lines.",
+    "Large areas of the sheet are left empty white between the figures."
+  ],
+  "interpretation": [
+    "Beardsley shows how far the style can go with only line: the curve, the peacock motif, and the contrast of dense pattern with empty ground carry everything.",
+    "It is a partial fit for the [Art Nouveau](style:art-nouveau) grammar, which expects earthy colours; it belongs to the British source of the style more than to its Paris core."
+  ],
+  "borrow": [
+    "Contrast one very dense patterned mass with a large empty ground.",
+    "Use a hairline curve that ends in a small ornament, such as a feather eye or a bud, as a connector or divider."
+  ],
+  "images": [
+    {
+      "file": "assets/references/beardsley-peacock-skirt-1894.png",
+      "alt": "Black-and-white illustration in a double-ruled frame: a woman seen from behind in a huge black robe patterned with white peacock-feather scales, with a peacock headdress, facing a figure in a pleated tunic; thin curving lines with feather-eye pendants hang between them.",
+      "width": 960,
+      "height": 1338,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Aubrey Beardsley, *The Peacock Skirt*, plate for Oscar Wilde’s *Salome*, 1894. Line reproduction from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Beardsley-peacockskirt.PNG), public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Beardsley-peacockskirt.PNG",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Wikimedia Commons marks the file PD-Art (PD-old-100-expired). Beardsley died in 1898, and the plate was published in 1894, so it is in the public domain in the United Kingdom and the United States."
+  },
+  "identifiers": {
+    "wikidata": "Q56063344",
+    "commons": "File:Beardsley-peacockskirt.PNG"
+  }
+}

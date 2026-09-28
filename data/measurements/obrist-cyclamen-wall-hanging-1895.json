@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/obrist-cyclamen-wall-hanging-1895.jpg",
+  "captured": "2026-09-28T17:16:37+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#78736f",
+        "share": 0.37
+      },
+      {
+        "hex": "#655b54",
+        "share": 0.266
+      },
+      {
+        "hex": "#70675d",
+        "share": 0.161
+      },
+      {
+        "hex": "#6c4e08",
+        "share": 0.03
+      },
+      {
+        "hex": "#5f4105",
+        "share": 0.028
+      },
+      {
+        "hex": "#f8f3ea",
+        "share": 0.024
+      },
+      {
+        "hex": "#5e5042",
+        "share": 0.022
+      },
+      {
+        "hex": "#6d5624",
+        "share": 0.018
+      },
+      {
+        "hex": "#8a7f73",
+        "share": 0.017
+      },
+      {
+        "hex": "#735f39",
+        "share": 0.017
+      }
+    ],
+    "background": "#78736f",
+    "chroma": 0.09,
+    "lightness": 0.41,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.4,
+    "distinct": 7,
+    "hues": 1
+  }
+}

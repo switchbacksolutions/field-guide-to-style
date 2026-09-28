@@ -1,0 +1,76 @@
+{
+  "id": "atomic-war-1-page-6-1952",
+  "title": "Atomic War! #1, page 6",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "A 1952 war-comic page of the kind Pop art enlarged: six panels with speech balloons, a yellow caption box, and the sound effects BANG! BANG!, ARRRRGH!, and a siren’s WHEEEE.",
+  "summary": "Six comic panels with balloons, a yellow caption box, and sound effects in flat printed color. Ace Comics, November 1952.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:AtomicWar0106.jpg",
+    "label": "Wikimedia Commons: AtomicWar0106.jpg"
+  },
+  "creator": {
+    "name": "Ken Rice (artist, per Commons); Ace Comics (publisher)"
+  },
+  "made": "November 1952",
+  "moods": [
+    "dramatic",
+    "pulp",
+    "graphic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Internet Archive scan of the printed comic, [atomic-war-01](https://archive.org/details/atomic-war-01), page image n5 (960 × 1402 px), which is the page Commons files as AtomicWar0106.jpg. The Commons original could not be downloaded (HTTP 429); its metadata was read."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "Partial fit: source material, not Pop art. It shows the comic devices Pop art borrowed (panels, balloons, caption boxes, sound effects, black ink lines) at their original size, where the Ben-Day dots are too fine to see.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "*Atomic War!* was an Ace Comics series of four issues, November 1952 to February 1953, about a fictional atomic war between the Soviet Union and the United States set in 1960. Commons credits this page to Ken Rice. [Commons](https://commons.wikimedia.org/wiki/File:AtomicWar0106.jpg).",
+    "Lichtenstein’s war paintings, such as [Whaam!](ref:lichtenstein-whaam-1963), came from DC war comics of 1962, not from this series. [Wikipedia](https://en.wikipedia.org/wiki/Whaam!)."
+  ],
+  "observed": [
+    "Six rectangular panels in three rows, each with a thin black border and white gutters between them.",
+    "Speech balloons are white ovals with black outlines and pointed tails. They hold hand-lettered capitals, with some words in heavier letters (“INLAND”, “ALL”, “AT ONCE!”).",
+    "The last panel has a yellow caption box across the top: “HIGH ABOVE THE UNSUSPECTING CITY, THE WAIL OF SIRENS SUDDENLY MINGLED WITH CHURCH BELLS!”",
+    "“BANG! BANG!” is lettered in red with a black outline next to a firing pistol; “ARRRRGH!” sits in a white balloon.",
+    "A red ribbon with the letters “WHEEEE…EEE” growing larger winds across an aerial view of Manhattan.",
+    "Color is flat and printed: mustard uniforms, pink skin, pale blue and green walls. Black ink lines and solid black shadows model the faces.",
+    "The paper is yellowed, and the colors are slightly off-register at some edges. No dot pattern is visible at this scan size."
+  ],
+  "interpretation": [
+    "Compared with the Pop paintings, the source page is small, crowded, and busy. Lichtenstein’s change was to isolate one panel, enlarge it, simplify the color to primaries, and make the printing dot visible as a motif.",
+    "The heavy words inside balloons and the sound effect that grows along a ribbon are lettering devices that transfer directly to screen headings."
+  ],
+  "borrow": [
+    "Mark stressed words in a balloon with heavier letters, as comic letterers do, instead of with color.",
+    "Let a sound-effect word grow in size along a path to show sound moving across a panel."
+  ],
+  "images": [
+    {
+      "file": "assets/references/atomic-war-1-page-6-1952.jpg",
+      "alt": "Comic page with six panels: soldiers in mustard uniforms struggle with a spy at a radar board, speech balloons in capitals, the sound effects BANG! BANG! and ARRRRGH!, and a last panel of Manhattan from the air with a yellow caption box and a red ribbon reading WHEEEE.",
+      "width": 960,
+      "height": 1402,
+      "kind": "source-image",
+      "caption": "*Atomic War!* #1, November 1952, page 6, art credited to Ken Rice by Commons. Scan from the [Internet Archive](https://archive.org/details/atomic-war-01); the same page is [AtomicWar0106.jpg](https://commons.wikimedia.org/wiki/File:AtomicWar0106.jpg) on Commons.",
+      "original": "https://archive.org/download/atomic-war-01/page/n5.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks this page with the template PD-US-no-renewal and states that the copyright of this US comic, first published in 1952, was not renewed and has expired. The renewal was not checked here against the Copyright Office records. The country of origin is the United States. The stored image is the Internet Archive scan, which carries no license statement; a faithful scan of a public-domain two-dimensional work adds no new US copyright. A curator may prefer to replace it with the Commons file."
+  },
+  "identifiers": {
+    "commons": "File:AtomicWar0106.jpg",
+    "internet-archive": "atomic-war-01"
+  }
+}

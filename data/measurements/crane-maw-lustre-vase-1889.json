@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/crane-maw-lustre-vase-1889.jpg",
+  "captured": "2026-09-28T17:30:15+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#040404",
+        "share": 0.319
+      },
+      {
+        "hex": "#747474",
+        "share": 0.118
+      },
+      {
+        "hex": "#0f0f0f",
+        "share": 0.089
+      },
+      {
+        "hex": "#60605f",
+        "share": 0.038
+      },
+      {
+        "hex": "#bb9b72",
+        "share": 0.036
+      },
+      {
+        "hex": "#1c1b1b",
+        "share": 0.034
+      },
+      {
+        "hex": "#ab8561",
+        "share": 0.032
+      },
+      {
+        "hex": "#ccb086",
+        "share": 0.03
+      },
+      {
+        "hex": "#9c6d4f",
+        "share": 0.027
+      },
+      {
+        "hex": "#272626",
+        "share": 0.025
+      }
+    ],
+    "background": "#040404",
+    "chroma": 0.1,
+    "lightness": 0.23,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.39,
+    "distinct": 18,
+    "hues": 2
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "moser-13th-secession-exhibition-poster-1902",
+  "title": "Poster for the 13th Secession exhibition",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Koloman Moser’s poster of 1902 stacks three flat, frontal figures above a block of lettering set between checkered bands, all on one central axis.",
+  "summary": "Three symmetrical figures above packed capitals and blue and white checkered bands, framed in brown. Koloman Moser, Vienna, 1902.",
+  "source": {
+    "url": "https://gallica.bnf.fr/ark:/12148/btv1b52506931h",
+    "label": "Gallica (BnF): Ver Sacrum V Jahr, XIII Ausstellung … Secession, affiche, Kolo Moser"
+  },
+  "creator": {
+    "name": "Koloman Moser",
+    "url": "https://en.wikipedia.org/wiki/Koloman_Moser"
+  },
+  "made": "1902",
+  "moods": [
+    "geometric",
+    "elegant",
+    "precise"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Bibliothèque nationale de France copy (Gallica btv1b52506931h) at 554 × 1600 px through IIIF, and the Commons copy of the same scan at 960 × 2772 px. The MAK holds two copies (PI 118-1, 177 × 70 cm, and PI 118-2, 94.4 × 32 cm); I did not inspect their images at full size, so differences between sizes are not recorded."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "A clear example: strict symmetry, capitals packed into ruled bands, checkerboard bands, and a frame, with flat colour. It uses two accent colours (blue and ochre brown), one more than the rubric’s limit.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The MAK records the poster as designed by Koloman Moser for the Vienna Secession, printed by Albert Berger, Vienna, 1902, in lithography. The inscription gives the exhibition dates as 1 February to 16 March 1902. [MAK PI 118-2](https://sammlung.mak.at/en/collect/plakat-zur-xiii-ausstellung-d-vereinigung-bildender-kuenstler-oesterreichs-secession-ver-sacrum-v-jahr_53970), [MAK PI 118-1](https://sammlung.mak.at/en/collect/ver-sacrum-v-jahr-xiii-ausstellung-d-vereinigung-bildender-kuenstler-oesterreichs_71619).",
+    "The Museum of Modern Art holds a copy as “Ver Sacrum (Sacred Spring) (Poster for the Thirteenth Secession exhibition)”, 1902. [MoMA 133907](https://www.moma.org/collection/works/133907)."
+  ],
+  "observed": [
+    "The format is tall and narrow. An ochre-brown frame surrounds a white field.",
+    "Three identical women stand on the central axis, one above and two below. Each has a large blue and black disc of hair, a white face, and a narrow, flat, rectangular body with a teardrop-shaped panel of small triangles.",
+    "A thin white circle is drawn around the upper figure’s head.",
+    "A column of blue squares runs down the centre between the lower figures.",
+    "Below, “VER / SACRUM / V. / JAHR” is lettered in blue and “XIII. AUSSTELLUNG / D. VEREINIGUNG / BILDENDER KÜNST / LER ÖSTERREICHS / SECESSION” in brown. Every line is ruled above and below, and the capitals fill each line from edge to edge; words break where the line ends.",
+    "Bands of blue and white checkerboard squares separate the text blocks and frame “VER SACRUM”.",
+    "Opening hours and the entry price sit in two more ruled brown lines; a row of small triangles closes the bottom. The printer’s line “LITH. v. DRUCK A. BERGER WIEN, VIII/2” runs under the frame."
+  ],
+  "interpretation": [
+    "This is the style in one sheet: figure and letters become modules on one grid, and the checkerboard bands work as rules between text blocks.",
+    "Breaking words to fill the line, as in “KÜNST / LER”, shows that the block shape mattered more than word breaks."
+  ],
+  "borrow": [
+    "Put a thin band of small checkerboard squares between text blocks, like a rule.",
+    "Rule every heading line and let the capitals fill it edge to edge.",
+    "Repeat one flat figure or icon three times on a central axis."
+  ],
+  "images": [
+    {
+      "file": "assets/references/moser-13th-secession-exhibition-poster-1902.jpg",
+      "alt": "Tall poster in blue, ochre, black, and white: three identical flat women with large blue and black hair discs stacked symmetrically, above blocks of capitals reading Ver Sacrum V. Jahr and XIII. Ausstellung der Vereinigung bildender Künstler Österreichs Secession, separated by blue and white checkered bands.",
+      "width": 554,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Koloman Moser, poster for the 13th exhibition of the Vienna Secession, 1902. Bibliothèque nationale de France, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ver_Sacrum_V_Jahn,_XIII_Ausstellung._Secession._affiche,_Kolo_Moser.jpg), public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ver_Sacrum_V_Jahn%2C_XIII_Ausstellung._Secession._affiche%2C_Kolo_Moser.jpg/960px-Ver_Sacrum_V_Jahn%2C_XIII_Ausstellung._Secession._affiche%2C_Kolo_Moser.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The Commons file page gives the source as Gallica btv1b52506931h and applies CC0 and PD-US. Koloman Moser died in 1918, and the poster was published in 1902, so the work is in the public domain in Austria and in the United States. The MAK’s own photographs of its copies are CC BY-NC-ND 4.0 and are not used here."
+  },
+  "identifiers": {
+    "gallica": "btv1b52506931h",
+    "mak": "PI 118-1",
+    "moma": "133907",
+    "commons": "File:Ver Sacrum V Jahn, XIII Ausstellung. Secession. affiche, Kolo Moser.jpg"
+  }
+}

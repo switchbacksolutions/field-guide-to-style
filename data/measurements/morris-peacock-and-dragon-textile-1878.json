@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/morris-peacock-and-dragon-textile-1878.jpg",
+  "captured": "2026-09-28T17:30:12+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#655c40",
+        "share": 0.22
+      },
+      {
+        "hex": "#907d60",
+        "share": 0.194
+      },
+      {
+        "hex": "#a08868",
+        "share": 0.169
+      },
+      {
+        "hex": "#756547",
+        "share": 0.124
+      },
+      {
+        "hex": "#a46d53",
+        "share": 0.079
+      },
+      {
+        "hex": "#827153",
+        "share": 0.072
+      },
+      {
+        "hex": "#8e8a8b",
+        "share": 0.031
+      },
+      {
+        "hex": "#a59fa0",
+        "share": 0.027
+      },
+      {
+        "hex": "#af9675",
+        "share": 0.024
+      },
+      {
+        "hex": "#65645c",
+        "share": 0.017
+      }
+    ],
+    "background": "#655c40",
+    "chroma": 0.18,
+    "lightness": 0.43,
+    "chromaticShare": 0.09,
+    "accentChroma": 0.33,
+    "distinct": 9,
+    "hues": 1
+  }
+}

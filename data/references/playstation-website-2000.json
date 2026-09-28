@@ -1,0 +1,65 @@
+{
+  "id": "playstation-website-2000",
+  "title": "PlayStation website, 2000",
+  "type": "website",
+  "medium": "website",
+  "lede": "Sony’s PlayStation region-choice page of October 2000: the logo on a globe inside orbit rings, with region names in spaced capitals on black.",
+  "summary": "The PlayStation logo on the Earth, circled by white orbit rings that end in the controller symbols, on black.",
+  "source": {
+    "url": "http://www.playstation.com/",
+    "label": "www.playstation.com",
+    "archive": "https://web.archive.org/web/20001027223903/http://www.playstation.com/"
+  },
+  "creator": {
+    "name": "Sony Computer Entertainment"
+  },
+  "made": "2000 (capture date, 27 October 2000)",
+  "moods": [
+    "futuristic",
+    "cosmic",
+    "minimal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. Nothing covers the page. It is a short region-choice page; most of the viewport is black."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Borderline: a gateway page with Y2K motifs (orbit rings, space, widely spaced capitals) but no chrome or plastic, and very little content. The page draws its graphics with images, so the CSS fingerprint measures flat, square, unshadowed boxes (see the style page). Judge it by the rubric.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A photograph of the Earth sits at the top center of a black page, with the PlayStation logo in a white-edged square over it.",
+    "White orbit rings curve around the globe. Their ends carry the four controller symbols (cross, circle, square, triangle) in blue, red, and green circles.",
+    "Region names such as “NORTH AMERICA”, “EUROPE”, “JAPAN”, and “AUSTRALASIA” are in small white bold capitals next to the symbols.",
+    "“WELCOME TO THE WORLD OF PLAYSTATION®” runs below in small capitals with very wide letter spacing."
+  ],
+  "interpretation": [
+    "The orbit ring is one of the style’s image motifs. Here it turns a region chooser into a small solar system.",
+    "The widely spaced capitals are drawn as images, so the measured letter spacing and uppercase share are 0."
+  ],
+  "borrow": [
+    "Arrange a few choices on orbit rings around a central logo.",
+    "Set one welcome line in small capitals with very wide letter spacing."
+  ],
+  "images": [
+    {
+      "file": "assets/references/playstation-website-2000.jpg",
+      "alt": "Archived PlayStation gateway: on black, the Earth with the PlayStation logo, circled by white orbit rings ending in the cross, circle, square, and triangle symbols, next to region names, with a widely spaced welcome line below.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [archived copy](https://web.archive.org/web/20001027223903/http://www.playstation.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Sony Computer Entertainment. Screenshot captured for commentary."
+  }
+}

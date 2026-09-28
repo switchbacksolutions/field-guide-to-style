@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/flutter-neumorphic-package.png",
+  "captured": "2026-09-28T17:31:52+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#d8d6d8",
+        "share": 0.869
+      },
+      {
+        "hex": "#0287f8",
+        "share": 0.025
+      },
+      {
+        "hex": "#bcbbbd",
+        "share": 0.021
+      },
+      {
+        "hex": "#fefcfe",
+        "share": 0.02
+      },
+      {
+        "hex": "#c9c7c9",
+        "share": 0.017
+      },
+      {
+        "hex": "#e6e4e6",
+        "share": 0.011
+      },
+      {
+        "hex": "#acacaf",
+        "share": 0.01
+      },
+      {
+        "hex": "#939193",
+        "share": 0.007
+      },
+      {
+        "hex": "#a8cae3",
+        "share": 0.007
+      },
+      {
+        "hex": "#49a1e4",
+        "share": 0.006
+      }
+    ],
+    "background": "#d8d6d8",
+    "chroma": 0.04,
+    "lightness": 0.83,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.9,
+    "distinct": 3,
+    "hues": 1
+  }
+}

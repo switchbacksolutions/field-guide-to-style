@@ -1,0 +1,62 @@
+{
+  "id": "rietveld-red-blue-chair",
+  "title": "Red Blue Chair",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "Rietveld’s armchair of square battens and two flat boards: a red back, a blue seat, and a black frame whose cut ends are painted yellow.",
+  "summary": "Red back, blue seat, black batten frame with yellow ends. Gerrit Rietveld, designed 1917–1918, colored about 1923.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Red_and_Blue_Chair",
+    "label": "Wikipedia: Red and Blue Chair"
+  },
+  "creator": {
+    "name": "Gerrit Rietveld",
+    "url": "https://en.wikipedia.org/wiki/Gerrit_Rietveld"
+  },
+  "made": "Designed 1917–1918; painted in its known colors in the early 1920s (about 1923 per MoMA)",
+  "moods": [
+    "constructive",
+    "planar",
+    "iconic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a photograph by Daderot of the copy in the Museum für Angewandte Kunst Köln, labeled “Roodblauwe Stoel … G. A. van de Groenekan, Utrecht NL, 1918, lacquered wood” ([Commons](https://commons.wikimedia.org/wiki/File:Armchair_Roodblauwe_Stoel,_designed_by_Gerrit_T._Rietveld,_G._A._van_de_Groenekan,_Utrecht_NL,_1918,_lacquered_wood_-_Museum_f%C3%BCr_Angewandte_Kunst_K%C3%B6ln_-_Cologne,_Germany_-_DSC09583.jpg), 3222 × 4039 px, viewed at 1280 px). Many copies exist and they differ. The MoMA page returned 403 to the fetch tool; MoMA facts come from its catalogue text as shown in search results."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "The movement’s best-known object: separate bars and boards that overlap without joining, each painted one color, in the primaries and black.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia dates the design to 1917 and states that the chair was not painted in its distinct colors until the early 1920s, and that several versions are held in collections. [Wikipedia](https://en.wikipedia.org/wiki/Red_and_Blue_Chair).",
+    "MoMA dates its copy 1918–1923, painted wood, 86.7 × 66 × 83.8 cm, and states that the red, yellow, blue, and black scheme was applied around 1923. [MoMA](https://www.moma.org/collection/works/4044)."
+  ],
+  "observed": [
+    "The back is a flat red board set at a steep slant; the seat is a flat dark blue board set at a shallower slant.",
+    "The frame is made of square black battens that cross each other and run past every joint.",
+    "Every cut end of a batten is painted yellow, which makes small yellow squares at the ends.",
+    "The armrests are flat black boards resting on the frame.",
+    "In this museum photograph the chair stands on a white plinth in front of a frosted window."
+  ],
+  "interpretation": [
+    "The chair applies the painting rule to an object: lines become battens, planes become boards, and the joints are left visible as overlaps rather than hidden.",
+    "The yellow ends show how a primary can be used as a point accent that marks where a line ends."
+  ],
+  "borrow": [
+    "Mark the ends of lines or bars with a small square of a primary.",
+    "Let structural bars cross and overshoot, and keep flat panels in single colors."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Commons photograph is CC0, and Commons notes that the chair, as a utilitarian object, is not protected by US copyright. Rietveld died in 1964, and in the Netherlands and the EU applied art is protected until 2035, so the chair is treated as link only."
+  },
+  "identifiers": {
+    "wikidata": "Q2013735"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "hulaween-website",
+  "title": "Suwannee Hulaween festival website",
+  "type": "website",
+  "medium": "website",
+  "lede": "A Florida festival site whose hero wordmark uses melting, swollen letters with a cyan echo outline over a dark, glittering photo.",
+  "summary": "Swollen white letters with a cyan outline on a dark bokeh photo, and a dense psychedelic lineup poster below.",
+  "source": {
+    "url": "https://hulaween.com/",
+    "label": "hulaween.com"
+  },
+  "creator": {
+    "name": "Suwannee Hulaween"
+  },
+  "moods": [
+    "hallucinatory",
+    "nocturnal",
+    "festive"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "Borderline: the wordmark is close to Wes Wilson’s lettering, and the lineup poster is dense and patterned, but the page ground is a dark photograph and the interface is plain.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The hero is a dark photograph of out-of-focus magenta and cyan points of light.",
+    "HULAWEEN is centered in very large white letters that swell and taper, with blobby terminals and a cyan echo outline.",
+    "The dates above and LIVE OAK FL and SPIRIT OF THE SUWANNEE MUSIC PARK below are in a white serif with soft, flared shapes.",
+    "Three outlined buttons in green sit below, in a wide sans.",
+    "A light-blue panel below holds a lineup poster: dense jungle plants, flowers, and figures in green, pink, and blue around the same lettering, with band names in condensed capitals.",
+    "The navigation bar is black with spaced green capitals."
+  ],
+  "interpretation": [
+    "The page keeps the style in its display lettering and in the poster image, and uses a conventional dark festival interface for everything else.",
+    "Measured values: `color.chromaticShare` 0.34 fails because the photo ground is dark; `color.hues` 5 and `type.centerShare` 0.93 pass; `color.patternShare` is 0."
+  ],
+  "borrow": [
+    "Give swollen white display letters a single cyan outline to lift them from a dark ground.",
+    "Pair a psychedelic wordmark with a soft, flared serif for secondary lines."
+  ],
+  "images": [
+    {
+      "file": "assets/references/hulaween-website.jpg",
+      "alt": "Hulaween home page: a dark sparkling photo with the word HULAWEEN in large swollen white letters with a cyan outline, the dates and location in white, three green outlined buttons, and below it part of a colorful lineup poster.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [hulaween.com](https://hulaween.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners. Screenshot captured for commentary."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

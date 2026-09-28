@@ -1,0 +1,62 @@
+{
+  "id": "weingart-tm-special-issue-1976",
+  "title": "“Ist diese Typografie noch zu retten?”, TM special issue",
+  "titleBreak": "“Ist diese Typografie noch zu retten?”,|TM special issue",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "The December 1976 special issue of Typografische Monatsblätter on Weingart’s work from 1969 to 1976, with banded bilingual text on the cover and dense film collages inside.",
+  "summary": "Cover with bilingual lines on grey and white bands, struck through by rules; inside, a black-and-white collage of halftones, maps, stars, and crosses. Wolfgang Weingart, 1976.",
+  "source": {
+    "url": "https://letterformarchive.org/news/from-the-collection-legacies-of-swiss-style-part-2-wolfgang-weingart/",
+    "label": "Letterform Archive: Legacies of Swiss Style, Part 2—Wolfgang Weingart"
+  },
+  "creator": {
+    "name": "Wolfgang Weingart",
+    "url": "https://www.wikidata.org/wiki/Q95955"
+  },
+  "made": "December 1976 (Letterform Archive)",
+  "moods": [
+    "kinetic",
+    "rebellious",
+    "layered",
+    "experimental"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected Letterform Archive’s photograph of the cover and one interior spread of the Archive’s copy (3000 × 1304) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "new-wave-typography",
+      "note": "Clear example. It shows the style’s film collage and the banded, struck-through text at the scale of a whole issue.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Letterform Archive says the issue was produced under Weingart’s supervision and marks the end of his early years on the TM editorial board. It shows seven years of his work in collages of image and text, with “spaced-out letterforms, misaligned images, thick black text boxes, and a broken grid”. [Letterform Archive](https://letterformarchive.org/news/from-the-collection-legacies-of-swiss-style-part-2-wolfgang-weingart/).",
+    "The compositions were made by layering photographic films, not on a computer. [Letterform Archive](https://letterformarchive.org/news/from-the-collection-legacies-of-swiss-style-part-2-wolfgang-weingart/).",
+    "The cover asks “Is This Typography Worth Supporting, Or Do We Live On The Moon?” and calls the issue “a special selection from the works of Weingart, from 1969–1976”."
+  ],
+  "observed": [
+    "The cover is light grey with a masthead of thick and thin rules that divides the three journal names into cells.",
+    "The heading is bold grotesque. The subtitle lines are white on black bars that change length from line to line.",
+    "Body text alternates bold German lines and regular English lines. Each line sits on a grey or white band, and some lines are struck through by horizontal rules.",
+    "Four-digit numbers (0001, 0094) mark the lines in the left margin in two weights.",
+    "The interior spread is a black-and-white collage: halftone portraits, fragments of a New York street map with zip codes on diagonal bands, stars, Swiss crosses, diagonal stripes, a grid of numbered cells, and a small arrow-shaped caption box."
+  ],
+  "interpretation": [
+    "The cover turns reading order into structure: bands, strikes, and line numbers show the alternation of two languages. The collage shows how far the style goes when type is only one layer among many."
+  ],
+  "borrow": [
+    "Put alternate lines of a bilingual text on bands of two different tints.",
+    "Number lines in the margin in a small bold grotesque.",
+    "Use a map fragment on a diagonal band as a texture layer behind photographs."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Photograph by Letterform Archive. Weingart died in 2021, so the design is in copyright."
+  }
+}

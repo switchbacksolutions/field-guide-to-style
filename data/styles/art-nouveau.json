@@ -188,12 +188,12 @@
     {
       "metric": "surface.radius.median",
       "min": 16,
-      "note": "Arched, round, and leaf-cut panels. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Arched, round, and leaf-cut panels. Specimen marker: every website capture so far measures 0, because its curved panels and frames are images (see synthesis)."
     },
     {
       "metric": "color.patternShare",
       "min": 0.03,
-      "note": "A repeated plant or feather field is present. Provisional: many real sites draw ornament as SVG or images, which this metric does not count."
+      "note": "A repeated plant or feather field is present. Specimen marker: the website captures measure 0, because their pattern is a background image ([Cercle Guimard](ref:cercle-guimard-website)) or a sliced graphic ([Horta Museum 2013](ref:hortamuseum-website-2013))."
     },
     {
       "metric": "color.accentChroma",
@@ -202,9 +202,9 @@
       "note": "Earthy, muted colours are present, weaker than primary or fluorescent colours. Provisional: set from the specimen."
     },
     {
-      "metric": "color.hues",
+      "metric": "pixels.hues",
       "min": 2,
-      "note": "At least two colour families, such as moss green and ochre or terracotta. Provisional: set from the specimen."
+      "note": "At least two colour families, such as moss green and ochre or terracotta, counted in the screenshot pixels. Calibrated 2026-09-28: the two clear website captures draw their colour in images, so computed styles count 1 ([Cercle Guimard](ref:cercle-guimard-website)) and 0 ([Horta Museum 2013](ref:hortamuseum-website-2013)) families, while their pixels count 2 each, as does the specimen."
     },
     {
       "metric": "surface.border.share",
@@ -216,5 +216,12 @@
       "max": 0.1,
       "note": "Flat, outlined surfaces without drop shadows. Provisional: set from the specimen."
     }
+  ],
+  "synthesis": [
+    "The core is well documented in open museum collections. Graphic work: Mucha’s [Gismonda](ref:mucha-gismonda-poster-1894) sets the arched halo, flower crown, flared hand lettering, and pastel palette; his [Documents décoratifs plate](ref:mucha-documents-decoratifs-poppies-1902) shows one plant as frieze, field, and flat repeat; Beardsley’s [Peacock Skirt](ref:beardsley-peacock-skirt-1894) is a black-and-white British source and a partial fit.",
+    "The whiplash line has a single origin object, Obrist’s [Cyclamen hanging](ref:obrist-cyclamen-wall-hanging-1895), and becomes structure in Horta’s [Hôtel Tassel stair hall](ref:horta-hotel-tassel-staircase-1893) and Guimard’s [Métro entrance](ref:guimard-paris-metro-entrance-1900), whose sign is the model for the style’s lettering. Guimard’s [chair](ref:guimard-chair-1907) and Majorelle’s [bench](ref:majorelle-gilt-bench-1900) turn the leaf-shaped and arched panel into furniture.",
+    "Objects share one construction: coloured cells inside thin dark or metal lines, as in Driscoll’s [Wisteria lamp](ref:driscoll-tiffany-pony-wisteria-lamp) and Lalique’s [dragonfly brooch](ref:lalique-dragonfly-brooch), and forms that grow like the plant they show, as in Gallé’s [Autumn Crocus vase](ref:galle-autumn-crocus-vase).",
+    "Few websites use the style; most Art Nouveau institutions describe it with photographs and a neutral modern interface. Two clear examples use it in the page itself: [Le Cercle Guimard](ref:cercle-guimard-website) sets its content on a whiplash textile repeat, and the 2013 [Horta Museum](ref:hortamuseum-website-2013) page is an ochre, outlined, rounded panel with flared capitals. [Riga Art Nouveau Centre](ref:riga-art-nouveau-centre-website), [Musée de l’École de Nancy](ref:musee-ecole-de-nancy-website), and [Museu del Modernisme](ref:museu-modernisme-website) are borderline: the style appears only in a drawn header, a wordmark, or a mosaic frame.",
+    "The computed-style measurement cannot see how these sites draw the style. Their curved panels, patterns, and ornaments are background images or sliced graphics, so every capture measures radius 0 and pattern share 0, and the fingerprint fails all of them. The colour-family marker now reads the screenshot pixels. Judge real sites by the rubric, and treat the radius and pattern ranges as specimen markers only."
   ]
 }

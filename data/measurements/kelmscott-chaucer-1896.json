@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/kelmscott-chaucer-1896.jpg",
+  "captured": "2026-09-28T17:38:18+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ebe3cf",
+        "share": 0.254
+      },
+      {
+        "hex": "#a19c92",
+        "share": 0.107
+      },
+      {
+        "hex": "#69645f",
+        "share": 0.106
+      },
+      {
+        "hex": "#e0d1b8",
+        "share": 0.09
+      },
+      {
+        "hex": "#8f8981",
+        "share": 0.068
+      },
+      {
+        "hex": "#78736d",
+        "share": 0.063
+      },
+      {
+        "hex": "#b5b0a4",
+        "share": 0.059
+      },
+      {
+        "hex": "#f3eee6",
+        "share": 0.042
+      },
+      {
+        "hex": "#56514d",
+        "share": 0.035
+      },
+      {
+        "hex": "#4a4541",
+        "share": 0.032
+      }
+    ],
+    "background": "#ebe3cf",
+    "chroma": 0.08,
+    "lightness": 0.63,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 13,
+    "hues": 0
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "aquatic-park-bathhouse-san-francisco",
+  "title": "Aquatic Park Bathhouse, San Francisco",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "A WPA bathhouse of 1936–39 on San Francisco Bay, built like a white ocean liner with rounded decks, ship railings, and portholes.",
+  "summary": "White rounded decks, pipe railings, portholes, and a curved glass corner. William Mooser II and III, San Francisco, 1936–39.",
+  "source": {
+    "url": "https://www.loc.gov/pictures/item/ca1404/",
+    "label": "Library of Congress: HABS CAL,38-SANFRA,157, Aquatic Park Bathhouse"
+  },
+  "creator": {
+    "name": "William Mooser II and William Mooser III, architects; Works Progress Administration"
+  },
+  "made": "1936–1939 (completed January 1939)",
+  "moods": [
+    "nautical",
+    "streamlined",
+    "civic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected two Historic American Buildings Survey photographs through their Commons copies at 1920 px: [general view, front and side](https://commons.wikimedia.org/wiki/File:GENERAL_VIEW,_FRONT_AND_SIDE_-_Aquatic_Park_Bathhouse,_Beach_Street,_West_of_Polk_Street,_San_Francisco,_San_Francisco_County,_CA_HABS_CAL,38-SANFRA,157-1.tif) and [front elevation](https://commons.wikimedia.org/wiki/File:FRONT_ELEVATION_-_Aquatic_Park_Bathhouse,_Beach_Street,_West_of_Polk_Street,_San_Francisco,_San_Francisco_County,_CA_HABS_CAL,38-SANFRA,157-2.tif). The cars in the photographs date them to about the 1980s. The Library of Congress API returned HTTP 429 (rate limit), so the facts come from Wikipedia and Living New Deal."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "streamline-moderne",
+      "note": "A canonical Streamline Moderne building: long horizontal decks, rounded ends, ship railings, and portholes on a smooth white wall.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Designed by William Mooser II and III, begun in 1936 and completed in January 1939 as a WPA project, with murals by Hilaire Hiler. [Wikipedia: Aquatic Park Historic District](https://en.wikipedia.org/wiki/Aquatic_Park_Historic_District); [Living New Deal](https://livingnewdeal.org/sites/maritime-national-historical-park-aquatic-park-san-francisco-ca/).",
+    "The district became a National Historic Landmark District in 1987. The building now houses the San Francisco Maritime National Historical Park’s Maritime Museum. [Wikipedia](https://en.wikipedia.org/wiki/Aquatic_Park_Historic_District)."
+  ],
+  "observed": [
+    "The two-storey white block has a fully rounded end; a curved wall of large glass panes wraps the ground-floor corner.",
+    "Upper decks step back like a ship’s superstructure; each deck has a rounded end and a pipe railing of three horizontal rails.",
+    "Four round portholes with thick frames line the ground-floor wall; smaller portholes flank the entrance.",
+    "Groups of three short horizontal grooves (speed lines) sit beside the windows and on the upper wall.",
+    "Ship details on the roof: ventilator cowls, masts, a flagpole, and an oval name board shaped like a ship’s transom reading “MARITIME MUSEUM”.",
+    "The walls are smooth and unornamented; the only relief is on the dark stone entrance surround."
+  ],
+  "interpretation": [
+    "The building shows almost the whole rubric at once: horizontal decks, rounded ends, railings as parallel lines, and portholes, all on a white ground. The ship metaphor is literal because the building faces the bay."
+  ],
+  "borrow": [
+    "Stack horizontal bands that each end in a semicircle, and run three thin parallel rules along the top edge of each band, like a railing.",
+    "Use groups of three short horizontal rules beside an element as a speed-line mark."
+  ],
+  "images": [
+    {
+      "file": "assets/references/aquatic-park-bathhouse-san-francisco.jpg",
+      "alt": "Black-and-white photograph of a white two-storey building shaped like a ship: rounded decks with pipe railings, round portholes along the wall, a curved glass corner, masts on the roof, and cars parked along the street.",
+      "width": 1600,
+      "height": 1273,
+      "kind": "photograph",
+      "caption": "General view, front and side. Historic American Buildings Survey, HABS CAL,38-SANFRA,157-1, [Library of Congress](https://www.loc.gov/pictures/item/ca1404.photos.016582p/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:GENERAL_VIEW,_FRONT_AND_SIDE_-_Aquatic_Park_Bathhouse,_Beach_Street,_West_of_Polk_Street,_San_Francisco,_San_Francisco_County,_CA_HABS_CAL,38-SANFRA,157-1.tif).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c9/GENERAL_VIEW%2C_FRONT_AND_SIDE_-_Aquatic_Park_Bathhouse%2C_Beach_Street%2C_West_of_Polk_Street%2C_San_Francisco%2C_San_Francisco_County%2C_CA_HABS_CAL%2C38-SANFRA%2C157-1.tif",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "HABS photographs are works of the United States government and are in the public domain; Commons marks the file public domain. The building was completed in 1939, before December 1990, so it has no architectural copyright in the United States."
+  },
+  "identifiers": {
+    "habs": "CAL,38-SANFRA,157",
+    "commons": "File:GENERAL VIEW, FRONT AND SIDE - Aquatic Park Bathhouse, Beach Street, West of Polk Street, San Francisco, San Francisco County, CA HABS CAL,38-SANFRA,157-1.tif"
+  }
+}

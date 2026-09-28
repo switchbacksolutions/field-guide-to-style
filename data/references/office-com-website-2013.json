@@ -1,0 +1,65 @@
+{
+  "id": "office-com-website-2013",
+  "title": "Office.com website, 2013",
+  "type": "website",
+  "medium": "website",
+  "lede": "A red-orange Office 365 panel and light Segoe headings on a white page with blue link lists.",
+  "summary": "Solid red-orange hero panel with a light white headline and a flat green button, over three columns of light headings. April 2013.",
+  "source": {
+    "url": "http://office.microsoft.com/en-us/",
+    "label": "office.microsoft.com, Office home page",
+    "archive": "https://web.archive.org/web/20130401081631/http://office.microsoft.com/en-us/"
+  },
+  "creator": {
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com/"
+  },
+  "made": "2013",
+  "moods": [
+    "clean",
+    "corporate",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 from the Wayback Machine copy of 1 April 2013, and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. Nothing covers the page. The headings render in a light Segoe-like face."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "Clear: a solid red-orange panel with a flat green button and light headings; the rest is white space, light headings, and blue text links.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A dark gray top bar holds the white Office logo. Below it, uppercase navigation has the active item in red-orange.",
+    "The search field is a thin gray outline with a red-orange magnifier glyph.",
+    "A solid red-orange panel holds the Office 365 logo, the headline “Transform how you run your business with Office 365” in large light white type, and a square green “Try it for free” button. A photograph fills its right half.",
+    "Three columns have large light headings: “What’s New in Office?”, “Get Templates”, and “Office for Home Use”. Each has a picture and a list of blue text links.",
+    "A pale gray band at the bottom holds more headings."
+  ],
+  "interpretation": [
+    "Measured: headings weight 400 in Segoe UI and Segoe UI Light; 16% of screenshot pixels are saturated; no shadows or gradients. 33% of boxes have a 1 px border, from the search field and hairline dividers on a page with only 9 filled boxes."
+  ],
+  "borrow": [
+    "Put one saturated panel at the top of an otherwise white page, and set its headline in a light weight at large size."
+  ],
+  "images": [
+    {
+      "file": "assets/references/office-com-website-2013.jpg",
+      "alt": "Office.com home page of April 2013: a dark top bar, a search field, a red-orange Office 365 panel with a light white headline and green Try it for free button next to a photo of a man at a laptop, and three columns with light headings and blue links.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [Wayback Machine copy of office.microsoft.com, 1 April 2013](https://web.archive.org/web/20130401081631/http://office.microsoft.com/en-us/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot of an archived copy, captured for commentary."
+  }
+}

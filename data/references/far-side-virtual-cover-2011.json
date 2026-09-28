@@ -1,0 +1,56 @@
+{
+  "id": "far-side-virtual-cover-2011",
+  "title": "Far Side Virtual cover art",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "James Ferraro’s 2011 cover: an iPad showing a cloud-sky face, pasted over a grainy New York street full of taxis.",
+  "summary": "Tablet with a sky-collage face over a noisy Manhattan street; spaced multicolour title. 2011.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Far_Side_Virtual",
+    "label": "Wikipedia: Far Side Virtual"
+  },
+  "creator": {
+    "name": "James Ferraro"
+  },
+  "made": "October 25, 2011 (Hippos in Tanks)",
+  "moods": [
+    "uncanny",
+    "ironic",
+    "consumerist"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 2000 × 1995 front cover of the Hippos in Tanks digital release in the [Cover Art Archive](https://musicbrainz.org/release/964ec492-5cf2-4635-a54a-0287007f956c/cover-art), in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "A precursor and the start of the “utopian virtual” branch. Partial fit: it quotes then-current tablets and stock imagery rather than 1980s–1990s media, and it has no pastel palette.",
+      "basis": "agent",
+      "qualifier": "precursor"
+    }
+  ],
+  "context": [
+    "Wikipedia: Far Side Virtual “drew primarily on ‘the grainy and bombastic beeps’ of then-recent past media, such as Skype, Second Life, Windows XP and the Nintendo Wii,” and the utopian virtual offshoot it began “later became associated with the Frutiger Aero Internet aesthetic.” [Wikipedia: Vaporwave](https://en.wikipedia.org/wiki/Vaporwave). See [Frutiger Aero](style:frutiger-aero)."
+  ],
+  "observed": [
+    "A black tablet, tilted, fills the left half; its screen shows a face cut out of a blue sky with white clouds, with brush-stroke eyebrows and a red oval mouth.",
+    "The background is a Manhattan street with yellow taxis, overlaid with heavy colour noise.",
+    "A small copy of the same tablet sits at the upper right; smeared rainbow shapes and a blurred green-and-red blob float at the edges.",
+    "The title FARSIDEVIRTUAL runs along the bottom in widely spaced capitals, each letter a different primary colour."
+  ],
+  "interpretation": [
+    "It shows the style’s irony toward consumer technology before the palette settled. The widely spaced title already anticipates the fullwidth-letter habit."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Copyrighted album art. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q17001955",
+    "musicbrainz-release": "964ec492-5cf2-4635-a54a-0287007f956c"
+  }
+}

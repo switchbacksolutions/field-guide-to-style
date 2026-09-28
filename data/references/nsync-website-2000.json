@@ -1,0 +1,68 @@
+{
+  "id": "nsync-website-2000",
+  "title": "*NSYNC website, 2000",
+  "type": "website",
+  "medium": "website",
+  "lede": "The boy band’s Flash intro of August 2000: a wavy blue panel with a wide slanted logo, its mirror reflection, glowing blue orbs, and a member portrait in a halo.",
+  "summary": "Wavy blue panel, wide slanted NSYNC logo with a mirror reflection, glossy blue orb corners, and a portrait in a glowing ring.",
+  "source": {
+    "url": "http://www.nsync.com/",
+    "label": "www.nsync.com",
+    "archive": "https://web.archive.org/web/20000815052750/http://www.nsync.com/"
+  },
+  "creator": {
+    "name": "*NSYNC (Jive Records)"
+  },
+  "made": "2000 (capture date, 15 August 2000)",
+  "moods": [
+    "glossy",
+    "pop",
+    "techno-optimistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The main panel is Flash content, which rendered in the capture. Nothing covers the page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Clear: glossy orbs, a floor reflection, wide slanted techno lettering, a glowing halo, a blob-edged panel, and speed lines with a star. The page draws its graphics with images, so the CSS fingerprint measures flat, square, unshadowed boxes (see the style page). Judge it by the rubric.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The page background is flat teal-blue. A large panel of brighter blue with soft, wavy edges and rounded corners fills the center.",
+    "Four glossy dark-blue orbs with white highlights sit at the panel corners like rivets.",
+    "The logo is a big italic “N” with “SYNC” in wide, slanted, outlined capitals; a mirror image of the logo appears below, as on a glossy floor.",
+    "A member’s photo sits in a circle with a violet glow and a white lens-flare highlight; his name “CHRIS” is in light-blue italic capitals.",
+    "A purple star and horizontal speed lines sit behind the portrait. A red star with speed lines marks the “skip…” link.",
+    "Below the panel, a glossy black oval button reads “Get *NSYNC”, next to a plain email form and a Shockwave badge."
+  ],
+  "interpretation": [
+    "This intro gathers many Y2K web devices in one frame: orb buttons, a mirror reflection, glow halos, lens flare, wide slanted type, and speed lines.",
+    "The pixel palette is almost all saturated blue (chromatic share 0.97). The CSS measurement sees only the plain HTML around the Flash."
+  ],
+  "borrow": [
+    "Put a mirror reflection of a wide logo under it on a glossy panel.",
+    "Use glossy orbs with one white highlight as corner rivets or buttons.",
+    "Circle a portrait with a soft colored glow instead of a border."
+  ],
+  "images": [
+    {
+      "file": "assets/references/nsync-website-2000.jpg",
+      "alt": "Archived *NSYNC intro: on teal-blue, a wavy bright-blue panel with glossy blue orbs at its corners, the NSYNC logo in wide slanted capitals with a mirror reflection, a member portrait in a glowing violet ring with a star and speed lines, and a skip link.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [archived copy](https://web.archive.org/web/20000815052750/http://www.nsync.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to *NSYNC (Jive Records). Screenshot captured for commentary."
+  }
+}

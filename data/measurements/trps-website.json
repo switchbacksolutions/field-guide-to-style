@@ -1,0 +1,141 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://trps.org/",
+  "title": "The Rock Poster Society – Supporting rock poster artists and their work since 1998",
+  "captured": "2026-09-28T17:20:18.729Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Source Sans Pro",
+        "share": 0.97
+      },
+      {
+        "family": "Averia Serif Libre",
+        "share": 0.03
+      }
+    ],
+    "baseSize": 12,
+    "maxSize": 32,
+    "sizeRange": 2.67,
+    "scaleRatio": 1.23,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.77
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.825
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.159
+      },
+      {
+        "hex": "#dadada",
+        "share": 0.012
+      },
+      {
+        "hex": "#00bffb",
+        "share": 0.004
+      },
+      {
+        "hex": "#2c324c",
+        "share": 0.001
+      }
+    ],
+    "background": "#000000",
+    "text": "#ffffff",
+    "contrast": 21,
+    "chroma": 0,
+    "lightness": 0.17,
+    "chromaticShare": 0,
+    "accentChroma": 0.98,
+    "distinct": 2,
+    "hues": 1,
+    "imageShare": 0.93,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 26,
+    "radius": {
+      "median": 4,
+      "max": 4,
+      "roundShare": 0.65
+    },
+    "border": {
+      "share": 0.23,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0.73,
+      "hardShare": 0,
+      "medianBlur": 5,
+      "medianOffset": 4
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#001534",
+        "share": 0.333
+      },
+      {
+        "hex": "#012665",
+        "share": 0.185
+      },
+      {
+        "hex": "#010101",
+        "share": 0.091
+      },
+      {
+        "hex": "#10336f",
+        "share": 0.027
+      },
+      {
+        "hex": "#0d2349",
+        "share": 0.026
+      },
+      {
+        "hex": "#215d40",
+        "share": 0.025
+      },
+      {
+        "hex": "#397344",
+        "share": 0.025
+      },
+      {
+        "hex": "#23666f",
+        "share": 0.024
+      },
+      {
+        "hex": "#478b7a",
+        "share": 0.023
+      },
+      {
+        "hex": "#7f7b3a",
+        "share": 0.023
+      }
+    ],
+    "background": "#001534",
+    "chroma": 0.24,
+    "lightness": 0.21,
+    "chromaticShare": 0.28,
+    "accentChroma": 0.4,
+    "distinct": 13,
+    "hues": 5
+  }
+}

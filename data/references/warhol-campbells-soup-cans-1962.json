@@ -1,0 +1,59 @@
+{
+  "id": "warhol-campbells-soup-cans-1962",
+  "title": "Campbell’s Soup Cans",
+  "type": "object",
+  "medium": "painting",
+  "lede": "Andy Warhol’s thirty-two canvases, each a single Campbell’s soup can in the same format, one for each variety the company then sold.",
+  "summary": "Thirty-two identical-format paintings of soup cans, hung as a grid. Andy Warhol, 1962.",
+  "source": {
+    "url": "https://www.moma.org/collection/works/79809",
+    "label": "MoMA: Andy Warhol, Campbell’s Soup Cans, 1962"
+  },
+  "creator": {
+    "name": "Andy Warhol",
+    "url": "https://www.wikidata.org/wiki/Q5603"
+  },
+  "made": "1962",
+  "moods": [
+    "commercial",
+    "deadpan",
+    "repetitive"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "MoMA’s collection page blocks scripts, and no open image of at least 800 px was found. Description relies on Wikipedia and on the MoMA record as quoted in search results."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "The founding packaging work of American Pop: a product label repeated as a grid of flat, uniform panels. Partial fit: it has no dots or comic devices.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The series has 32 paintings, each showing a different variety of Campbell’s soup in a uniform 20 × 16 inch format. It was first shown in July 1962 at the Ferus Gallery, Los Angeles, and the Museum of Modern Art acquired the canvases in 1996. [Wikipedia](https://en.wikipedia.org/wiki/Campbell%27s_Soup_Cans).",
+    "Wikipedia quotes MoMA that Warhol “was careful to maintain an exceptional uniformity among the canvases and to minimize the visibility of brushstrokes or other signs of his own hand.” [Wikipedia](https://en.wikipedia.org/wiki/Campbell%27s_Soup_Cans).",
+    "In 1967 Campbell’s promoted its soup with a paper dress printed after the series: [“Souper” paper dress](ref:campbells-souper-paper-dress-1967)."
+  ],
+  "interpretation": [
+    "The series defines the product branch of Pop art: an everyday package isolated, enlarged, and repeated, with the hand of the painter hidden.",
+    "For a screen layout, it suggests identical cards in a strict grid in which only the label text changes."
+  ],
+  "borrow": [
+    "Build a catalogue grid of identical product cards and change only the name on each card.",
+    "Keep the product front-on and centered in every cell, with no perspective or shadow."
+  ],
+  "next": [
+    "Inspect an image at least 800 px wide and add observed traits."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is © The Andy Warhol Foundation for the Visual Arts, and the Campbell’s label is a trademark of the Campbell’s Company."
+  },
+  "identifiers": {
+    "wikidata": "Q2697937"
+  }
+}

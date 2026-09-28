@@ -1,0 +1,67 @@
+{
+  "id": "material-system-icons-2014",
+  "title": "Material Design system icons",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "Google’s set of simple 24 dp interface glyphs, drawn on one grid with the same stroke, corners, and flat gray fill.",
+  "summary": "A grid of flat gray interface glyphs with 2 dp strokes and square-cut geometry. Google, 2014.",
+  "source": {
+    "url": "https://m1.material.io/style/icons.html",
+    "label": "Google, Material Design 1 guidelines: Icons"
+  },
+  "creator": {
+    "name": "Google"
+  },
+  "made": "2014 (repository google/material-design-icons created 8 October 2014)",
+  "moods": [
+    "systematic",
+    "neutral",
+    "clear"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Opened the system icon overview *style-icons-system-intro.png* (1520 × 730) from the Material Design 1 icons page on 28 September 2026. Checked the repository date and license through the GitHub API for [google/material-design-icons](https://github.com/google/material-design-icons)."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "The standard glyph set of the style. Every Material 1 and 2 app bar, list, and action button uses these icons or ones drawn to the same rules.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Material Design 1 icons page separates product icons (see [Material product icons](ref:material-product-icons-2014)) from system icons, which are simple glyphs for actions and objects. It shows the system icons on a keyline grid. [Icons](https://m1.material.io/style/icons.html).",
+    "Google publishes the icons in the repository google/material-design-icons under the Apache License 2.0. The GitHub API gives the creation date as 8 October 2014. [GitHub](https://github.com/google/material-design-icons)."
+  ],
+  "observed": [
+    "Seventy-two icons in six rows, all in one mid-gray (about #757575) on a near-white ground.",
+    "Strokes have one weight throughout. Ends are cut square, and corners of outlined shapes are slightly rounded.",
+    "Glyphs mix solid shapes (camera, envelope, bookmark) with outlines (heart, cloud, circle with plus). None has a gradient, a highlight, or a shadow."
+  ],
+  "interpretation": [
+    "The icons carry the flat half of the style. Depth in Material belongs to surfaces, not to glyphs, so an icon stays flat even when it sits on a raised button."
+  ],
+  "borrow": [
+    "Draw interface icons on a 24 px grid with one stroke weight and square ends, and color them with the secondary text color (black at 54 %) instead of pure black."
+  ],
+  "images": [
+    {
+      "file": "assets/references/material-system-icons-2014.png",
+      "alt": "Grid of seventy-two flat gray interface icons in six rows, including a printer, globe, pin, camera, shopping cart, envelope, bell, heart, cloud, arrows, and a plus sign.",
+      "width": 1520,
+      "height": 730,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "System icon overview from the [Material Design 1 guidelines, Icons](https://m1.material.io/style/icons.html). Google, Apache License 2.0.",
+      "original": "https://storage.googleapis.com/material-io-design/m1/assets/0Bx4BSt6jniD7OFZFR1ZOUmFWTEE/style-icons-system-intro.png",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "Apache-2.0",
+    "statement": "Borderline tier A, for the curator to confirm. The icons are not public domain, but Google licenses them under the Apache License 2.0, both in the [icon repository](https://github.com/google/material-design-icons) and on m1.material.io (“All content and code on this site are licensed under the Apache 2 license unless otherwise specified”)."
+  }
+}

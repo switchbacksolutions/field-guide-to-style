@@ -1,0 +1,153 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://agoraroad.neocities.org/",
+  "title": "Agora Road's Macintosh Cafe!",
+  "captured": "2026-09-28T17:15:34.416Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Plex",
+        "share": 0.65
+      },
+      {
+        "family": "PerfectDOSVGA437",
+        "share": 0.18
+      },
+      {
+        "family": "Chicago",
+        "share": 0.17
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 22,
+    "sizeRange": 1.57,
+    "scaleRatio": 1.27,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0.18,
+    "centerShare": 0.09
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#474a7e",
+        "share": 0.43
+      },
+      {
+        "hex": "#bdbad6",
+        "share": 0.214
+      },
+      {
+        "hex": "#1b1a33",
+        "share": 0.162
+      },
+      {
+        "hex": "#ece9f3",
+        "share": 0.161
+      },
+      {
+        "hex": "#71709a",
+        "share": 0.028
+      },
+      {
+        "hex": "#000000",
+        "share": 0.002
+      },
+      {
+        "hex": "#8d8bb8",
+        "share": 0.002
+      }
+    ],
+    "background": "#474a7e",
+    "text": "#1b1a33",
+    "contrast": 2.1,
+    "chroma": 0.14,
+    "lightness": 0.52,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 5,
+    "hues": 0,
+    "imageShare": 0.2,
+    "gradientShare": 0.07,
+    "patternShare": 0.06
+  },
+  "surface": {
+    "boxes": 225,
+    "radius": {
+      "median": 0,
+      "max": 6,
+      "roundShare": 0.1
+    },
+    "border": {
+      "share": 0.8,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.29,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 1.4
+    },
+    "gradientShare": 0.09,
+    "patternShare": 0.24,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#3b4160",
+        "share": 0.212
+      },
+      {
+        "hex": "#58a8a9",
+        "share": 0.109
+      },
+      {
+        "hex": "#bebbd6",
+        "share": 0.099
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.093
+      },
+      {
+        "hex": "#626c87",
+        "share": 0.061
+      },
+      {
+        "hex": "#4a536e",
+        "share": 0.053
+      },
+      {
+        "hex": "#555f7c",
+        "share": 0.053
+      },
+      {
+        "hex": "#c2c9ca",
+        "share": 0.037
+      },
+      {
+        "hex": "#bebdbc",
+        "share": 0.035
+      },
+      {
+        "hex": "#d8d9e0",
+        "share": 0.029
+      }
+    ],
+    "background": "#3b4160",
+    "chroma": 0.14,
+    "lightness": 0.57,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.37,
+    "distinct": 15,
+    "hues": 3
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "id": "microsoft-fluent-acrylic-material",
+  "title": "Microsoft Fluent Acrylic material",
+  "type": "product",
+  "medium": "software",
+  "lede": "Microsoft’s frosted-glass brush for Windows apps: blur, tint, and noise over the desktop, three years before the style had a name.",
+  "summary": "Fluent Design’s translucent Acrylic brush and its documented recipe. Microsoft, 2017 onward.",
+  "source": {
+    "url": "https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic",
+    "label": "Microsoft Learn: Acrylic material"
+  },
+  "creator": {
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com/"
+  },
+  "made": "2017 (Fluent Design System; first shipped in the Windows 10 Fall Creators Update, October 2017, per Wikipedia); documentation page updated 2026",
+  "moods": [
+    "layered",
+    "calm",
+    "luminous"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Read the documentation page (ms.date 2026-08-29) and inspected two of its images in scratchpad copies: the Windows 11 context menu over a colorful wallpaper (acrylic-transient-context-menu.png, 1591 × 871) and the recipe diagram (acrylic-recipe-diagram.jpg, 1920 × 1080). Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "glassmorphism",
+      "note": "NN/g and t3n name Acrylic as glassmorphism under another name, and Malewicz quotes it in the naming article. It is the style’s material in a shipping design system.",
+      "basis": "agent",
+      "qualifier": "earlier name"
+    }
+  ],
+  "context": [
+    "The page defines Acrylic as “a type of Brush that creates a translucent texture” that adds depth and helps establish visual hierarchy. Background acrylic shows the desktop and other windows; in-app acrylic shows content inside the app. [Microsoft Learn](https://learn.microsoft.com/en-us/windows/apps/design/style/acrylic).",
+    "Guidance: use background acrylic for transient surfaces such as context menus and flyouts; avoid layering several acrylic surfaces and placing acrylic panes edge to edge; do not place accent-colored text on acrylic. Acrylic falls back to a solid color when the user turns off transparency effects, in Battery Saver mode, in High Contrast mode, and on low-end hardware.",
+    "The text gives the recipe as “background, blur, exclusion blend, color/tint overlay, noise”. The diagram labels the layers Desktop background, Gaussian blur, Luminosity blend, Tint/Color blend, and Noise texture; the two labels for the blend layer differ.",
+    "Fluent Design (codename Project Neon) was introduced by Microsoft in 2017 with five components: light, depth, motion, material, and scale. [Wikipedia: Fluent Design System](https://en.wikipedia.org/wiki/Fluent_Design_System). Microsoft’s [materials overview](https://learn.microsoft.com/en-us/windows/apps/design/signature-experiences/materials) calls Acrylic “a semi-transparent material that replicates the effect of frosted glass”."
+  ],
+  "observed": [
+    "Context-menu screenshot: a File Explorer window sits on a wallpaper of blurred violet, magenta, red, blue, and cyan light.",
+    "The context menu is a pale, pink-tinted translucent panel. The wallpaper colors show through it as soft washes, with no detail.",
+    "The menu has rounded corners, a thin light edge, and a soft shadow. Its icons and text are dark and flat.",
+    "Recipe diagram: five slanted sheets in a stack, from a saturated blue ‘desktop’ through a blurred sheet, a grey blend sheet, a light-blue tint, and a grey noise texture."
+  ],
+  "interpretation": [
+    "Acrylic is the style before its name, fixed as an engineering recipe. The noise layer is Microsoft’s addition; web glassmorphism usually leaves it out."
+  ],
+  "borrow": [
+    "Add a faint noise texture over the blur and tint so that large glass areas do not look like a plain gradient.",
+    "Give every glass surface a solid fallback for reduced-transparency settings."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Microsoft documentation and images; copyrighted. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q29900635"
+  }
+}

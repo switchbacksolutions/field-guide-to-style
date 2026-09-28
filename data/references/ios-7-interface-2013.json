@@ -1,0 +1,52 @@
+{
+  "id": "ios-7-interface-2013",
+  "title": "iOS 7 interface",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "Apple’s 2013 redesign that dropped the textures of earlier iOS for flatter icons and thinner type.",
+  "summary": "Flatter icons, slimmer fonts, and redesigned apps in Apple’s mobile system. Jony Ive’s team, 2013.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/IOS_7",
+    "label": "Wikipedia: iOS 7"
+  },
+  "creator": {
+    "name": "Apple (design team led by Jony Ive)",
+    "url": "https://www.apple.com/"
+  },
+  "made": "2013",
+  "moods": [
+    "airy",
+    "light",
+    "clean"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Wikipedia article read on 2026-09-28. The home screen is visible only small and at an angle in the capture of [Apple’s iOS 7 page](ref:apple-ios-7-website-2013), so the record is not marked observed."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "The turn of the most skeuomorphic mobile system to flat design; partial fit, because the icons keep soft gradients and the system uses translucent blurred panels.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "iOS 7 was announced on 10 June 2013 and released on 18 September 2013. It “introduced a completely redesigned user interface, a design credited to a team led by Apple’s former senior vice president of design, Jony Ive” ([Wikipedia: iOS 7](https://en.wikipedia.org/wiki/IOS_7)).",
+    "Wikipedia quotes the redesign as “sharper, flatter icons, slimmer fonts, a new slide-to-unlock function, and a new control panel that slides up from the bottom of the screen”.",
+    "Ive: “There is a profound and enduring beauty in simplicity, in clarity, in efficiency.”",
+    "Wikipedia’s article on [Letterpress](ref:letterpress-app-2012) states that Ive took inspiration from minimalist iOS apps, among them Letterpress, for the iOS 7 graphics."
+  ],
+  "interpretation": [
+    "The style record lists Helvetica Neue as the iOS 7 face and treats iOS 7 as part of the flat turn. Its blurred panels also point toward [glassmorphism](style:glassmorphism)."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple software; copyrighted. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q13426339"
+  }
+}

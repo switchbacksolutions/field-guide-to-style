@@ -1,0 +1,59 @@
+{
+  "id": "paperpillar-smart-calendar-app-2020",
+  "title": "Smart Calendar App (Dribbble shot)",
+  "type": "image",
+  "medium": "app",
+  "lede": "A 2020 Dribbble concept for a calendar app in candy colors, cited in the article that named the style.",
+  "summary": "Three frosted phone screens with light edges over a pink and lilac glow. Paperpillar, 2020.",
+  "source": {
+    "url": "https://dribbble.com/shots/13842720-Smart-Calendar-App",
+    "label": "Dribbble"
+  },
+  "creator": {
+    "name": "Ghani Pradita for Paperpillar",
+    "url": "https://dribbble.com/paperpillar"
+  },
+  "made": "2020 (the screens show August 2020; cited by Malewicz in November 2020)",
+  "moods": [
+    "playful",
+    "airy",
+    "luminous"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the shot image named in the page’s structured data (1600 × 1200, Dribbble CDN) in a scratchpad copy. Not stored. The page was read in Claude in Chrome; the cookie banner was not accepted. The exact post date was not visible on the page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "glassmorphism",
+      "note": "A clear concept example from the Dribbble wave, cited by Malewicz for its 1 pt semi-transparent white outline that simulates the glass edge.",
+      "basis": "agent",
+      "qualifier": "concept"
+    }
+  ],
+  "context": [
+    "The Dribbble description reads “Calendar App exploration using some candy colors.” The shot is credited to Ghani Pradita for Paperpillar. [Dribbble](https://dribbble.com/shots/13842720-Smart-Calendar-App).",
+    "Malewicz calls it “a clear representation of this trend” and notes that it “may be on the verge of readability in some places”. [Malewicz 2020](ref:malewicz-glassmorphism-article-2020)."
+  ],
+  "observed": [
+    "The background is a soft glow of coral pink at the top fading into lilac at the upper right and white at the bottom.",
+    "Three tall phone screens are frosted panels: pink-tinted and translucent in their upper parts, near-opaque white in their lower cards.",
+    "Each panel and card has large rounded corners and a thin, lighter edge.",
+    "Colorful gradient spheres (Task, Notes, Event) sit on the third screen; the glass itself carries no imagery.",
+    "Text is a geometric sans-serif in dark plum. The primary buttons (‘Mulai’ and a plus button) are solid dark plum pills and discs."
+  ],
+  "interpretation": [
+    "The shot matches all four diagnostic traits and also the ‘opaque primary action’ rule. It shows the Dribbble version of the style: presentation panels floating over a generated glow, not a real app screen."
+  ],
+  "borrow": [
+    "Use near-opaque white for reading surfaces and more transparent tinted glass for headers.",
+    "Make the one primary button solid and dark so it reads through all the glass."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Ghani Pradita / Paperpillar. No image is stored here."
+  }
+}

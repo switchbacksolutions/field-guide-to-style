@@ -1,0 +1,65 @@
+{
+  "id": "william-morris-archive-website",
+  "title": "William Morris Archive website",
+  "type": "website",
+  "medium": "website",
+  "lede": "The University of Iowa’s edition of Morris’s writings frames its blackletter title with Morris wallpaper and stacks its main links as blocks of dye colour.",
+  "summary": "A Morris Troy blackletter title between Morris pattern corners, a slate navigation bar, and gold, ochre, indigo, and madder link blocks.",
+  "source": {
+    "url": "https://morrisarchive.lib.uiowa.edu/",
+    "label": "morrisarchive.lib.uiowa.edu"
+  },
+  "creator": {
+    "name": "University of Iowa"
+  },
+  "moods": [
+    "scholarly",
+    "medieval",
+    "rich"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "Clear: Morris pattern bands, a blackletter title set in a revival of Morris’s own Troy type, and flat blocks in dye colours. The navigation is in sans-serif capitals.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The header is pale grey. Cut-outs of a Morris floral pattern in indigo, green, and pink fill its left and right corners.",
+    "“William Morris Archive” is set in a dark slate blackletter.",
+    "A slate-blue bar holds white sans-serif capitals: POETRY, PROSE, NONFICTION, TRANSLATIONS, DRAMA, BOOK ARTS.",
+    "A red italic serif “Welcome” heads a short text in a small sans-serif.",
+    "Four square-cornered blocks stack under it in yellow ochre, brown ochre, dark indigo, and madder red, each with an underlined spaced-capital link.",
+    "A portrait of Morris with a soft shadow sits on the right, and a strip of the same pattern runs along the bottom of the viewport."
+  ],
+  "interpretation": [
+    "The measurement names the title font “Morris Troy”, a digital revival of the Kelmscott Press’s Troy type.",
+    "Measured: two hues, accent chroma 0.40, square corners, no shadows, and an uppercase share of 0.46 from the navigation and the link blocks. The uppercase share is one reason the fingerprint now allows capitals up to 0.5."
+  ],
+  "borrow": [
+    "Stack primary links as flat, square blocks in a dye palette: ochre, brown, indigo, and madder.",
+    "Use a pattern as corner or border ornament around a centred blackletter title, and keep the content area plain."
+  ],
+  "images": [
+    {
+      "file": "assets/references/william-morris-archive-website.jpg",
+      "alt": "William Morris Archive home page: a pale header with Morris floral pattern in the corners around a blackletter title, a slate navigation bar with white capitals, four stacked link blocks in ochre, brown, indigo, and red, and a portrait of Morris.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [morrisarchive.lib.uiowa.edu](https://morrisarchive.lib.uiowa.edu/), 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners, and the pattern images belong to their rights holders. Screenshot captured for commentary."
+  }
+}

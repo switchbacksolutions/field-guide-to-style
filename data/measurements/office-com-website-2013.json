@@ -1,0 +1,161 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20130401081631if_/http://office.microsoft.com/en-us/",
+  "title": "Office - Office.com",
+  "captured": "2013-04-01T08:16:41.620Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Segoe UI",
+        "share": 0.93
+      },
+      {
+        "family": "Segoe UI Light",
+        "share": 0.07
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 38,
+    "sizeRange": 2.71,
+    "scaleRatio": 1.29,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.04,
+    "monoShare": 0,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.606
+      },
+      {
+        "hex": "#1570a6",
+        "share": 0.134
+      },
+      {
+        "hex": "#eb3c00",
+        "share": 0.114
+      },
+      {
+        "hex": "#505050",
+        "share": 0.042
+      },
+      {
+        "hex": "#101010",
+        "share": 0.041
+      },
+      {
+        "hex": "#eeeeee",
+        "share": 0.041
+      },
+      {
+        "hex": "#666666",
+        "share": 0.007
+      },
+      {
+        "hex": "#3b3b3b",
+        "share": 0.007
+      },
+      {
+        "hex": "#118b04",
+        "share": 0.005
+      },
+      {
+        "hex": "#0044cc",
+        "share": 0.003
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#1570a6",
+    "contrast": 5.4,
+    "chroma": 0.19,
+    "lightness": 0.77,
+    "chromaticShare": 0.26,
+    "accentChroma": 0.73,
+    "distinct": 6,
+    "hues": 3,
+    "imageShare": 0.24,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 9,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.33,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.568
+      },
+      {
+        "hex": "#ea3c00",
+        "share": 0.106
+      },
+      {
+        "hex": "#edeeee",
+        "share": 0.065
+      },
+      {
+        "hex": "#505153",
+        "share": 0.045
+      },
+      {
+        "hex": "#6b7380",
+        "share": 0.017
+      },
+      {
+        "hex": "#8f8f8d",
+        "share": 0.017
+      },
+      {
+        "hex": "#a6a39d",
+        "share": 0.015
+      },
+      {
+        "hex": "#b6b5b0",
+        "share": 0.014
+      },
+      {
+        "hex": "#171311",
+        "share": 0.013
+      },
+      {
+        "hex": "#c3c5c4",
+        "share": 0.013
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.14,
+    "lightness": 0.81,
+    "chromaticShare": 0.16,
+    "accentChroma": 0.79,
+    "distinct": 4,
+    "hues": 2
+  }
+}

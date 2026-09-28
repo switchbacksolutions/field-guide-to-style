@@ -1,0 +1,75 @@
+{
+  "id": "van-doesburg-section-dor-poster-design-1920",
+  "title": "Design for a poster for La Section d’Or",
+  "type": "print",
+  "medium": "poster",
+  "lede": "An ink design for an exhibition poster in which blocky right-angled capitals are stacked, stepped, and turned on their sides to fill a square.",
+  "summary": "Black rectilinear capitals in stepped blocks and rotated words on a square sheet. Theo van Doesburg, about April 1920.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_Design_for_a_poster.jpg",
+    "label": "Wikimedia Commons: Theo van Doesburg, design for a poster for La Section d’Or"
+  },
+  "creator": {
+    "name": "Theo van Doesburg",
+    "url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg"
+  },
+  "made": "About April 1920",
+  "moods": [
+    "typographic",
+    "dense",
+    "rectilinear"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons image (1106 × 1140 px, viewed at 960 px), from Geheugen van Nederland. The object is Indian ink on transparent paper mounted on panel, 65 × 62.5 cm, RCE inventory AB4980, on loan to the Centraal Museum Utrecht. No printed copy of the poster was checked."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "Partial fit: the typography is fully orthogonal, in van Doesburg’s rectilinear letters, but the sheet is black on paper with no primary colors.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The inscriptions read “INTERNATIONALE TENTOONSTELLING LA SECTION D’OR”, “KUBISTEN EN” at top right, and “NEOKUBISTEN” at bottom left, signed “THEO V.D”. The design came to the Dutch State in 1981 with the Van Moorsel donation. [Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_Design_for_a_poster.jpg).",
+    "Commons lists it in the exhibitions *De Stijl, 1917–1931: Visions of Utopia* and *Van Doesburg and the International Avant-Garde*. [Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_Design_for_a_poster.jpg)."
+  ],
+  "observed": [
+    "All letters are black capitals built from thick horizontal and vertical strokes, like van Doesburg’s alphabet.",
+    "“LA” sits large at top left; “KUBISTEN” runs along the top right, and “EN” descends vertically at the right edge.",
+    "The center holds a stepped stack: a very heavy word, then “INTERNATIONALE” and “TENTOONSTELLING” in narrower letters, then another very heavy word.",
+    "“D’OR” sits in a large block at lower right; “NEO” is turned on its side at the left and “KUBISTEN” runs along the bottom left.",
+    "The transparent paper has yellowed and shows water stains; the signature “THEO V.D” is at bottom right."
+  ],
+  "interpretation": [
+    "The words are placed as rectangular blocks that interlock across the square, so the text itself builds an asymmetric grid.",
+    "The heaviest words are hard to read, which shows how far van Doesburg put composition before legibility in 1920."
+  ],
+  "borrow": [
+    "Treat each word as a rectangle and interlock the rectangles in a square field, turning one or two words 90°.",
+    "Vary letter width, not letter shape, to fit words to the blocks."
+  ],
+  "images": [
+    {
+      "file": "assets/references/van-doesburg-section-dor-poster-design-1920.jpg",
+      "alt": "Square ink design on yellowed paper: black blocky capitals built from right angles, arranged in stepped blocks, with some words running vertically; the words include LA, KUBISTEN, INTERNATIONALE, TENTOONSTELLING, D’OR, and NEO KUBISTEN.",
+      "width": 960,
+      "height": 990,
+      "kind": "source-image",
+      "caption": "Theo van Doesburg, design for a poster for La Section d’Or, about April 1920. Dutch State collection (RCE AB4980), on loan to the Centraal Museum Utrecht. Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_Design_for_a_poster.jpg), public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Theo_van_Doesburg_Design_for_a_poster.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks the image public domain. Van Doesburg died in 1931, so the design is public domain in the Netherlands; made in 1920, it is public domain in the United States under either the pre-1931 publication rule or the life-plus-70 rule."
+  },
+  "identifiers": {
+    "commons": "File:Theo van Doesburg Design for a poster.jpg",
+    "rce": "AB4980"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "se7en-title-sequence-1995",
+  "title": "Se7en title sequence",
+  "type": "image",
+  "medium": "other",
+  "lede": "Kyle Cooper’s opening titles for David Fincher’s 1995 film: hand-scratched letters that jitter and smear over close-ups of a killer’s notebooks.",
+  "summary": "Scratched white credits flicker over notebooks, razor blades, and film leader in dark brown and green. Kyle Cooper, R/GA, 1995.",
+  "source": {
+    "url": "https://www.artofthetitle.com/title/se7en/",
+    "label": "Art of the Title: Se7en"
+  },
+  "creator": {
+    "name": "Kyle Cooper (R/Greenberg Associates)",
+    "url": "https://en.wikipedia.org/wiki/Kyle_Cooper"
+  },
+  "made": "1995",
+  "moods": [
+    "dark",
+    "angsty",
+    "dirty"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected Art of the Title’s grid of nine stills (1080 × 452, each still about 360 px wide) in a scratchpad copy. The moving sequence was not watched. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "grunge-typography",
+      "note": "Clear example of the style in motion: scratched, smeared, jittering letters mixed with a plain sans-serif over grimy close-ups.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Art of the Title says the typography was hand-etched into black scratchboard and manipulated during film transfer “to further smear and jitter it”, then cut up and reassembled. [Art of the Title](https://www.artofthetitle.com/title/se7en/).",
+    "Cooper says he and Fincher “decided to use hand-drawn [type] mixed with Helvetica”, because the titles came “from the mind of the killer”. [Art of the Title](https://www.artofthetitle.com/title/se7en/).",
+    "The sequence was assembled mostly by hand as a traditional film optical; the notebooks were designed by Clive Piercy and John Sabel. Art of the Title reports that the New York Times called it “one of the most important design innovations of the 1990s”. [Art of the Title](https://www.artofthetitle.com/title/se7en/)."
+  ],
+  "observed": [
+    "Credits are white on dark frames: small plain sans-serif capitals (“NEW LINE CINEMA PRESENTS”, “CASTING BY”) beside larger hand-scratched names.",
+    "The title “SE7EN” is rough, uneven white capitals over a blurred notebook page.",
+    "Some credit words are doubled or ghosted, with letters shifted against each other.",
+    "Images are extreme close-ups of hands, notebooks with dense handwriting, cut photographs, a razor, and a dollar bill with “IN GOD” cut out.",
+    "The palette is near-black with sepia, olive, and dirty green."
+  ],
+  "interpretation": [
+    "Se7en carries the grunge vocabulary into film and fixed it as a horror and thriller convention. The mix of neutral Helvetica with scratched letters matches the style’s rule of clashing faces."
+  ],
+  "borrow": [
+    "Mix a neutral sans-serif with scratched, hand-drawn letters in the same credit line.",
+    "Animate display type with small frame-to-frame jitter and ghosting, and keep the timing short."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. © New Line Cinema; stills via Art of the Title."
+  }
+}

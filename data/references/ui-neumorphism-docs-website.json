@@ -1,0 +1,63 @@
+{
+  "id": "ui-neumorphism-docs-website",
+  "title": "ui-neumorphism documentation",
+  "type": "website",
+  "medium": "website",
+  "lede": "The documentation site of a 2020 React component library, laid out as two fitness-app screens on one pale surface.",
+  "summary": "React component library docs: fitness-app cards, a round step counter, and pressed nav tabs on pale blue-gray.",
+  "source": {
+    "url": "https://akaspanion.github.io/ui-neumorphism/",
+    "label": "ui-neumorphism"
+  },
+  "creator": {
+    "name": "AKAspanion (GitHub user)",
+    "url": "https://github.com/AKAspanion/ui-neumorphism"
+  },
+  "moods": [
+    "soft",
+    "calm",
+    "tactile"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "Clear. Cards, tiles, a round counter, and nav buttons share the pale blue-gray page and rise from it; the active tab is pressed in.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The library describes itself as “a react component library designed on the ‘new skeuomorphism’ UI/UX trend”. Repository created on 11 May 2020, MIT License."
+  ],
+  "observed": [
+    "A pale blue-gray page with a raised frame around the whole layout and a large blue “UI-Neumorphism” title.",
+    "Two phone-sized cards (“Program”, “Plan list”) hold raised tiles, a large raised circle with a runner icon and “8,690”, and raised list rows with thin blue progress rings.",
+    "In each bottom bar the active icon sits in a small pressed square.",
+    "One blue accent for icons and links; text is near-black sans-serif (Roboto-like). A plain text list of components runs down the left."
+  ],
+  "interpretation": [
+    "A faithful web translation of the Dribbble-era fitness concepts, with state shown as pressed versus raised.",
+    "Measured: shadows on 70 % of boxes (median offset 2.8 px, median blur 5 px, none hard), borders on 5 %, median radius 8 px."
+  ],
+  "images": [
+    {
+      "file": "assets/references/ui-neumorphism-docs-website.jpg",
+      "alt": "ui-neumorphism documentation: a pale blue-gray page with two raised phone-sized cards showing fitness tiles, a large raised circle with 8,690 steps, and bottom navigation with a pressed active tab.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [ui-neumorphism](https://akaspanion.github.io/ui-neumorphism/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

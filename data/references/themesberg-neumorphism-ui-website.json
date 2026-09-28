@@ -1,0 +1,62 @@
+{
+  "id": "themesberg-neumorphism-ui-website",
+  "title": "Neumorphism UI by Themesberg",
+  "type": "website",
+  "medium": "website",
+  "lede": "The demo of a 2020 open-source Bootstrap kit, set on a pale blue-gray surface with raised buttons and round icon wells.",
+  "summary": "Themesberg’s Bootstrap UI kit demo: raised buttons and round icon badges on one blue-gray surface.",
+  "source": {
+    "url": "https://demo.themesberg.com/neumorphism-ui/",
+    "label": "Neumorphism UI demo"
+  },
+  "creator": {
+    "name": "Themesberg",
+    "url": "https://themesberg.com/"
+  },
+  "moods": [
+    "soft",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "Clear. Buttons, the logo tile, and round icon badges are the page color and rise with a white highlight and a gray shadow. Many components also carry a faint 1 px border.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Source code: [themesberg/neumorphism-ui-bootstrap](https://github.com/themesberg/neumorphism-ui-bootstrap), created on 7 May 2020, MIT License."
+  ],
+  "observed": [
+    "A pale blue-gray page (about #e6e6ee in the screenshot). A square “N” logo tile, the “Upgrade to PRO”, “Docs v1.0”, and “Download” buttons are raised in the same color.",
+    "Three large round badges with dark icons rise from the surface above “Over 200 components”, “10+ sections”, and “5 example pages”.",
+    "Text is dark slate in a rounded sans-serif (Nunito-like); “Upgrade to PRO” is blue.",
+    "A dark “Featured on Product Hunt” badge covers the lower right corner. A small GitHub star button shows 893."
+  ],
+  "interpretation": [
+    "The best-known web kit for the style. Its components add a faint border to the paired shadows, which raises contrast but also puts it outside the border limit of the fingerprint.",
+    "Measured: shadows on 71 % of boxes (median offset 4.2 px, median blur 7 px, none hard), borders on 68 %, median radius 8.8 px."
+  ],
+  "images": [
+    {
+      "file": "assets/references/themesberg-neumorphism-ui-website.jpg",
+      "alt": "Neumorphism UI demo page: a pale blue-gray page with the title Neumorphism UI, a raised Download button, raised navigation buttons, and three raised round icon badges.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [Neumorphism UI demo](https://demo.themesberg.com/neumorphism-ui/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

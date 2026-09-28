@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lissitzky-russische-ausstellung-poster-1929.jpg",
+  "captured": "2026-09-28T17:40:28+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#47433e",
+        "share": 0.45
+      },
+      {
+        "hex": "#5a534b",
+        "share": 0.123
+      },
+      {
+        "hex": "#e74c34",
+        "share": 0.107
+      },
+      {
+        "hex": "#686056",
+        "share": 0.078
+      },
+      {
+        "hex": "#a69986",
+        "share": 0.047
+      },
+      {
+        "hex": "#998c7b",
+        "share": 0.04
+      },
+      {
+        "hex": "#7d7466",
+        "share": 0.029
+      },
+      {
+        "hex": "#b4a691",
+        "share": 0.028
+      },
+      {
+        "hex": "#d2c2a9",
+        "share": 0.025
+      },
+      {
+        "hex": "#8b8071",
+        "share": 0.025
+      }
+    ],
+    "background": "#47433e",
+    "chroma": 0.14,
+    "lightness": 0.38,
+    "chromaticShare": 0.12,
+    "accentChroma": 0.67,
+    "distinct": 10,
+    "hues": 1
+  }
+}

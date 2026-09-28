@@ -173,11 +173,19 @@
       "Posters and event sites"
     ]
   },
+  "synthesis": [
+    "Mondrian’s paintings of 1920–1921 set the core grammar: a [white center ringed by black, gray, and primary planes](ref:mondrian-composition-yellow-red-black-blue-gray-1920), or [one large blue plane answered by small red, black, and yellow ones](ref:mondrian-composition-large-blue-plane-1921). The primaries in both are less pure than later pastiche, and gray and black cover as much area as color.",
+    "Van Doesburg shows the range of the movement. His [Composition XXII](ref:van-doesburg-composition-xxii-1922) drops the black lines and uses ochre and gray-green; his [1917 windows](ref:van-doesburg-stained-glass-composition-iv-1917) are dense mirrored patterns with green and brown glass; the [Aubette ciné-dancing](ref:aubette-cine-dancing-strasbourg) turns the grid 45°, which is Elementarism. The black line grid is Mondrian’s signature more than a rule of the whole group.",
+    "Type and print follow the same rule: van Doesburg’s [alphabet](ref:van-doesburg-alphabet-1919) and [Section d’Or poster design](ref:van-doesburg-section-dor-poster-design-1920) build letters from right angles only, and the [journal cover and advertisements](ref:de-stijl-journal-cover-and-advertisements-1922) use black capitals, one red, vertical text, and thick black bars as frames.",
+    "In three dimensions the planes separate: the [Schröder House](ref:rietveld-schroder-house) and the [Red Blue Chair](ref:rietveld-red-blue-chair) use primaries as thin bars or single boards against white, gray, and black, and [Café De Unie](ref:cafe-de-unie-rotterdam) makes a facade into a graphic panel with lettering.",
+    "Websites in the style are rare. Of about 25 candidates checked on 28 September 2026, one is a clear example, a small student page on [Neocities](ref:destijl-neocities-website) whose header is a Mondrian grid. Four are borderline: the [Van Doesburghuis](ref:vandoesburghuis-website) uses flat primary panels without black lines, the [Mondriaanhuis](ref:mondriaanhuis-website) uses offset line frames and yellow, [Mondrian Generator](ref:mondriangenerator-com-website) draws compositions as images beside square outlined controls, and the [100 jaar De Stijl](ref:100jaardestijl-website-2021) holding page has only a rectilinear logo. No kept site passes the fingerprint.",
+    "The fingerprint is therefore not calibrated on real sites. The main blind spot is the line: web imitations draw black bars as filled boxes or grid gaps, so `surface.border.medianWidth` reads 1 px, and generators draw the composition in a canvas that computed styles cannot see. Judge such pages by the rubric."
+  ],
   "fingerprint": [
     {
       "metric": "surface.border.medianWidth",
       "min": 5,
-      "note": "Positive marker. Thick black lines divide the planes; other catalogue styles use 3 px or less. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Positive marker. Thick black lines divide the planes; other catalogue styles use 3 px or less. Provisional: set from the specimen, recalibrate with measured references. Checked on 28 September 2026: every kept website capture measures 1–3 px or none, because web imitations draw the black lines as filled boxes or grid gaps, not CSS borders ([destijl.neocities.org](ref:destijl-neocities-website) shows about 24 px bars and measures 1 px). The range is unchanged; judge such pages by the rubric."
     },
     {
       "metric": "color.hues",
@@ -189,12 +197,12 @@
       "metric": "color.chromaticShare",
       "min": 0.05,
       "max": 0.5,
-      "note": "Positive marker. The primaries fill real planes, but white and gray planes cover more of the surface. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Positive marker. The primaries fill real planes, but white and gray planes cover more of the surface. Provisional: set from the specimen, recalibrate with measured references. Stored painting images measure 0.18 ([1920](ref:mondrian-composition-yellow-red-black-blue-gray-1920)) and 0.41 ([1921](ref:mondrian-composition-large-blue-plane-1921)), inside the range."
     },
     {
       "metric": "type.uppercaseShare",
       "min": 0.2,
-      "note": "Positive marker. Headings, labels, and navigation are set in capitals, after the rectilinear capitals of the journal and van Doesburg’s alphabet. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Positive marker. Headings, labels, and navigation are set in capitals, after the rectilinear capitals of the journal and van Doesburg’s alphabet. Provisional: set from the specimen, recalibrate with measured references. Supported by the journal cover, the alphabet, and the poster design; only 1 of 5 kept website captures ([Mondriaanhuis](ref:mondriaanhuis-website)) reaches it. Unchanged, because the one clear website example is a small student page."
     },
     {
       "metric": "surface.radius.roundShare",

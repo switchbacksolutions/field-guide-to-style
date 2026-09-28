@@ -120,7 +120,12 @@
       "text": "Headings are a bold geometric or rounded sans-serif in sentence case. CARI lists geometric sans typefaces among the traits of the friendly corporate look. The type supports the illustration and does not carry the style."
     }
   ],
-  "synthesis": [],
+  "synthesis": [
+    "The template is Buck’s [Alegria](ref:facebook-alegria-illustration-system-2017) system for Facebook (2017). Its style guide fixes the rules that made the look easy to copy: circle heads, cylinder limbs, figures 11½ heads tall, and non-natural skin. Free kits then spread it: [Humaaans](ref:humaaans-illustration-library-2018) (2018) sells mix-and-match parts under CC0, and Wired names [unDraw](ref:undraw-illustration-library) with Freepik and Adobe’s library. [Katharina Brenner’s illustration](ref:brenner-big-tech-cartoons-illustration-2019) for AIGA, built from Humaaans parts, is the image most sources use for the style, and a [Wikimedia research deck](ref:wikimedia-android-microcontributions-report-2019) shows the same parts used as ready-made decoration.",
+    "Not every Big Tech illustration system of the period joined in. Airbnb’s head of illustration [rejected the rainbow-colored figures](ref:airbnb-illustration-guidelines-2018) as “not real”, and [Slack’s 2018 site](ref:slack-website-2018) and [Fastmail’s 2020 site](ref:fastmail-website-2020) keep the flat, long-limbed figures with natural skin and some texture. Later uses add outlines and patterns: the [WikiCon Brasil 2022](ref:wikicon-brasil-2022-figure) identity, a [Firefox Pocket illustration](ref:firefox-pocket-rainbow-reader-2020), and a [Catalan government video](ref:generalitat-catalunya-election-video-2024). The game [Going Under](ref:going-under-video-game-2020) (2020) turns the palette and props into satire.",
+    "The clearest websites are Wayback copies from 2018: [Twist](ref:twist-website-2018), [Stasher](ref:stasher-website-2018), and [Airtable](ref:airtable-website-2018). [TokyWoky 2020](ref:tokywoky-website-2020), [JotForm 2018](ref:jotform-website-2018), and the live [Jotform](ref:jotform-website) are borderline. Of about twenty live SaaS sites captured in September 2026, only Jotform came close, which supports the sources that date the style’s decline to about 2023.",
+    "The style lives in the illustration, not in the CSS. The three clear sites have a median corner radius of 0, medium-weight headings, and small shadows on 12–38% of boxes, so the first fingerprint (set from the specimen: pill shapes, radius 20 px or more, no shadows) failed all of them. The calibrated fingerprint measures the screenshot instead: several bright hues, a saturated strongest color, a high average chroma, and a white or pale page. Twist fails it because its figures use one blue family, and Fastmail and JotForm 2018 fail because their heroes are full-bleed color fields."
+  ],
   "rubric": {
     "diagnostic": [
       "People are drawn with small heads and long, bendy arms and legs.",
@@ -187,34 +192,39 @@
   },
   "fingerprint": [
     {
-      "metric": "surface.radius.roundShare",
-      "min": 0.8,
-      "note": "Almost every card, panel, button, and input is rounded, and buttons and inputs are pills. Provisional: set from the specimen, recalibrate with measured references."
-    },
-    {
-      "metric": "surface.radius.median",
-      "min": 20,
-      "note": "Corners are large, not just softened: soft cards and blob-like panels. Provisional: set from the specimen, recalibrate with measured references."
-    },
-    {
       "metric": "pixels.hues",
       "min": 4,
-      "note": "The illustrations use several bright hues at once, such as violet skin, a yellow shirt, coral shoes, and green leaves. Measured on screenshot pixels so that colors in SVG and image illustrations count. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "The illustrations use several bright hues at once, such as violet skin, a yellow shirt, coral shoes, and green leaves. Measured on screenshot pixels so that colors in SVG and image illustrations count. Checked 2026-09-28: the clear captures of Stasher (5) and Airtable (6) pass; Twist (2) fails because its figures are drawn in one blue family."
+    },
+    {
+      "metric": "pixels.accentChroma",
+      "min": 0.6,
+      "note": "The strongest color on the page is a saturated illustration color, not a muted accent. Calibrated 2026-09-28 on the clear captures Twist 2018 (0.64), Stasher 2018 (0.68), and Airtable 2018 (0.65); the specimen measures 0.67."
+    },
+    {
+      "metric": "pixels.chroma",
+      "min": 0.06,
+      "note": "The colored illustration fills a large part of the first screen, so the average screenshot chroma is well above a white page with small accents. Added 2026-09-28 from the clear captures Twist 2018 (0.07), Stasher 2018 (0.12), and Airtable 2018 (0.09); the specimen measures 0.09. It separates the style from white pages with a few bright icons (0.03–0.04)."
+    },
+    {
+      "metric": "pixels.lightness",
+      "min": 0.88,
+      "note": "The illustration sits on a white or very pale page. Calibrated 2026-09-28 on the clear captures Twist 2018 (0.94), Stasher 2018 (0.92), and Airtable 2018 (0.93); the specimen measures 0.92. Pages with a full-bleed color hero, such as Fastmail 2020 (0.82), fail."
     },
     {
       "metric": "type.headingWeight",
-      "min": 600,
-      "note": "Headings are a bold or heavy friendly sans-serif. Provisional: set from the specimen, recalibrate with measured references."
+      "min": 500,
+      "note": "Headings are a medium to heavy sans-serif, never light. Lowered from 600 on 2026-09-28: all three clear captures (Twist, Stasher, Airtable, 2018) set headings at 500."
     },
     {
       "metric": "surface.shadow.share",
-      "max": 0.05,
-      "note": "Flat: no drop shadows on cards or buttons. Shadows point to Material Design or neumorphism. Provisional: set from the specimen, recalibrate with measured references."
+      "max": 0.4,
+      "note": "Flat illustration does not mean a shadowless interface. Widened from 0.05 on 2026-09-28: the clear captures measure 0.23 (Twist), 0.38 (Stasher), and 0.12 (Airtable), from small shadows on search bars, fields, and cards. Heavy shadow on most boxes still points to Material Design or neumorphism."
     },
     {
       "metric": "color.gradientShare",
       "max": 0.02,
-      "note": "Solid fills only, no gradients. Provisional: set from the specimen, recalibrate with measured references."
+      "note": "Solid fills only, no gradients. Checked 2026-09-28: Stasher and Airtable measure 0; Twist 2018 (0.46) fails on CSS gradients outside the illustration."
     }
   ]
 }

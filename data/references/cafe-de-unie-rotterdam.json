@@ -1,0 +1,64 @@
+{
+  "id": "cafe-de-unie-rotterdam",
+  "title": "Café De Unie, Rotterdam",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "J. J. P. Oud’s 1925 café front, rebuilt in 1986: the building is a billboard of flat colored planes, yellow bars, and square capitals.",
+  "summary": "Black, red-orange, white, blue, and yellow planes with capital lettering on a café facade. J. J. P. Oud, 1925; reconstruction 1986.",
+  "source": {
+    "url": "https://www.archiweb.cz/en/b/cafe-de-unie",
+    "label": "archiweb: Café De Unie"
+  },
+  "creator": {
+    "name": "J. J. P. Oud",
+    "url": "https://en.wikipedia.org/wiki/J._J._P._Oud"
+  },
+  "made": "1924–1925 (original on the Coolsingel, destroyed 1940); reconstruction 1985–1986 on the Mauritsweg",
+  "moods": [
+    "loud",
+    "commercial",
+    "planar"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 2009 photograph of the reconstruction by “Ad” on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WLANL_-_Adfoto_-_Caf%C3%A9_De_Unie,_JJP_Oud_(1925).jpg) (1920 × 2560 px, viewed at 1600 px). No image is stored. The photograph shows the 1986 reconstruction, not the 1925 building."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "notice": "The original building was destroyed on 14 May 1940. The existing facade is a reconstruction on a different street.",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "De Stijl applied to a commercial front: flat rectangles in primaries, black, and white, with lettering built into the composition.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Oud designed the café for the Coolsingel in Rotterdam in 1924–1925. It was destroyed on 14 May 1940 and reconstructed in 1985–1986 by the architect Carel Weeber on the Mauritsweg. [archiweb](https://www.archiweb.cz/en/b/cafe-de-unie).",
+    "archiweb names Theo van Doesburg as a co-author; this record does not rely on that claim."
+  ],
+  "observed": [
+    "A black band near the top carries “DE UNIE” in large light gray-blue capitals, with “CAFE” set vertically at both ends and a yellow bar above.",
+    "Below it a large red-orange plane carries raised lines that form nested right angles.",
+    "Yellow bars frame the upper window band and the lower windows; the lower windows have yellow inner frames.",
+    "A vertical sign reads “DE • UNIE” in blue capitals with a yellow strip; a tall blue sign at the left reads “CAFE RESTAURANT” twice.",
+    "The ground floor is framed in bright blue; the rest of the facade is white.",
+    "A dark later storey rises behind the facade, and ordinary brick buildings stand on both sides."
+  ],
+  "interpretation": [
+    "The facade treats architecture as a graphic panel, which makes it the closest pre-war precedent for a De Stijl website or sign system.",
+    "The red is closer to orange in this photograph, which may reflect the reconstruction, weathering, or the camera."
+  ],
+  "borrow": [
+    "Build the name into the composition as one rectangular plane among others.",
+    "Use thin yellow bars as frames and dividers between larger black, red, and white planes."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Commons photograph is CC BY-SA 2.0, but Oud died in 1963, so his design is protected in the Netherlands until 2034. Dutch freedom of panorama would probably permit exterior photographs; the lead curator can decide."
+  },
+  "identifiers": {
+    "commons": "File:WLANL - Adfoto - Café De Unie, JJP Oud (1925).jpg"
+  }
+}

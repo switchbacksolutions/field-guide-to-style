@@ -1,0 +1,60 @@
+{
+  "id": "mondriangenerator-com-website",
+  "title": "Mondrian Generator (mondriangenerator.com)",
+  "type": "website",
+  "medium": "website",
+  "lede": "A browser tool that draws random Mondrian-like compositions, with controls in black-outlined boxes and flat yellow and black buttons.",
+  "summary": "Generated black-line compositions beside square, outlined control panels with yellow and black buttons.",
+  "source": {
+    "url": "https://mondriangenerator.com/",
+    "label": "mondriangenerator.com"
+  },
+  "moods": [
+    "playful",
+    "orthogonal",
+    "utilitarian"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens. The first capture with a 3-second wait showed an empty canvas; the kept capture waited 9 seconds. A cookie bar covers the bottom 35 px."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "de-stijl",
+      "note": "Borderline: the page exists to produce the style, and its controls use square black-outlined boxes and flat yellow and black, but the composition itself is a generated image and the page chrome uses thin outlines.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A black top bar holds the title “Mondrian Generator” in white bold sans-serif and small navigation links.",
+    "At left, two white panels with thin black outlines hold settings: black label cells, light gray option cells, and flat yellow buttons with black text.",
+    "At right, a generated composition in a portrait format shows many black-outlined rectangles, several filled red, yellow, blue, or black, the rest white.",
+    "The page background is a light gray with a faint texture; no control has rounded corners.",
+    "A dark cookie bar with a blue Accept button runs along the bottom edge."
+  ],
+  "interpretation": [
+    "The generated compositions follow the grammar loosely: they subdivide into many small cells, which is closer to Mondrian’s 1918–1919 grids than to the few large planes of 1920–1921.",
+    "The composition is drawn as an image (image share 0.71), so computed styles see only the controls: 1 px outlines, 2 hues, and a 0.08 round share from a few small elements."
+  ],
+  "borrow": [
+    "Put tool controls in square cells with 1 px black outlines and one yellow action color; keep the working area white."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mondriangenerator-com-website.jpg",
+      "alt": "Web tool with a black title bar, two outlined settings panels with black, gray, and yellow buttons on the left, and a generated composition of black-outlined white, red, yellow, blue, and black rectangles on the right.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [mondriangenerator.com](https://mondriangenerator.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

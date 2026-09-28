@@ -1,0 +1,74 @@
+{
+  "id": "jefferson-airplane-fillmore-poster-1966",
+  "title": "Jefferson Airplane at the Fillmore Auditorium (BG-1)",
+  "type": "print",
+  "medium": "poster",
+  "lede": "The first poster in Bill Graham’s Fillmore series, February 1966, before the psychedelic style formed: red calligraphy and a winged horse on flat yellow.",
+  "summary": "Peter Bailey, 1966. Red bands and calligraphic lettering on full-bleed yellow, still legible and diagonal.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Jefferson_airplane_fillmore_poster_1966.jpg",
+    "label": "Wikimedia Commons: Jefferson airplane fillmore poster 1966.jpg"
+  },
+  "creator": {
+    "name": "Peter Bailey (per collector sources; Commons names Bill Graham)"
+  },
+  "made": "1966 (concerts 4–6 February); the printing shown is undated",
+  "moods": [
+    "saturated",
+    "flat",
+    "transitional"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the Commons file (1091 × 1538 px, a photograph of one copy taken from an eBay listing) and inspected it. The copy carries the imprint “Creative Lithograph Co. 1” at lower left. Collector sources say the first printing read “Design Peter Bailey, East Wind Printers”, so this is probably a later printing."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "Partial fit, kept as the starting point: full-bleed saturated color and hand-drawn lettering, but the letters stay legible, the layout is diagonal, and there is no ornament or pattern. Compare Wilson’s [Otis Rush poster](ref:wes-wilson-otis-rush-grateful-dead-poster-1967) a year later.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Collectors call this poster BG-1, the first in the Bill Graham Fillmore series. Poster dealers attribute it to Peter Bailey and report that Graham had Bailey’s credit removed after the first copies; Wes Wilson designed BG-2 and most of the posters that followed. [Heritage Auctions](https://entertainment.ha.com/itm/music-memorabilia/posters/bg-1-jefferson-airplane-1966-fillmore-auditorium-concert-poster-signed-by-peter-bailey/a/41154-5225.s), [PosterCentral](https://blog.postercentral.com/2013/12/10/jefferson-airplane-1966-concert-poster-bg-1-very-first-printing/).",
+    "The Commons description says there are no copyright marks on the poster and names Bill Graham as author. [Commons](https://commons.wikimedia.org/wiki/File:Jefferson_airplane_fillmore_poster_1966.jpg).",
+    "The poster names the “Sights and Sounds of the Trips Festival”, the January 1966 event that preceded the Fillmore dances."
+  ],
+  "observed": [
+    "The whole sheet is a flat golden yellow. All text and image are in one red ink.",
+    "THE JEFFERSON and AIRPLANE run in two broad red bands that climb diagonally from lower left to upper right. The letters are yellow, cut out of the bands, in a tall calligraphic hand with swashes.",
+    "A red winged horse with a rider, drawn over the frame of a biplane, crosses the bands at the center.",
+    "The concert details are in condensed sans-serif capitals, set at the same diagonal: BILL GRAHAM PRESENTS THREE DANCE CONCERTS at top left, FILLMORE AUDITORIUM and DONATIONS: $2 at lower right.",
+    "Nothing is centered and there is no border, frame, or background pattern."
+  ],
+  "interpretation": [
+    "The poster has the style’s color habit, a single saturated ink over the whole sheet, but not its type or layout. It helps separate what the San Francisco posters added in 1966: lettering that fills shapes, symmetry, and ornament.",
+    "Measured with `tools/image-traits.py`, the scan has a chromatic share of 1.0 and 3 hues, which is closer to the style’s fingerprint than most of the later posters."
+  ],
+  "borrow": [
+    "Cut display letters out of a solid colored band so the ground shows through them.",
+    "Use one strong ink on a saturated ground for a two-color scheme with no white."
+  ],
+  "images": [
+    {
+      "file": "assets/references/jefferson-airplane-fillmore-poster-1966.jpg",
+      "alt": "Yellow poster with two diagonal red bands carrying the words The Jefferson Airplane in yellow calligraphic letters, a red winged horse and biplane at the center, and concert details in red condensed type.",
+      "width": 1091,
+      "height": 1538,
+      "kind": "photograph",
+      "caption": "A copy of BG-1 photographed for an eBay listing. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Jefferson_airplane_fillmore_poster_1966.jpg), public domain (PD-US-no notice).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/Jefferson_airplane_fillmore_poster_1966.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Wikimedia Commons marks the file public domain under PD-US-no notice: a United States work published before 1978 without a copyright notice. I saw no notice on this copy. The first printing is not inspected; if it carried a notice, this tier needs review."
+  },
+  "identifiers": {
+    "commons": "File:Jefferson_airplane_fillmore_poster_1966.jpg"
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

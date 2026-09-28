@@ -1,0 +1,69 @@
+{
+  "id": "windows-8-logo-pentagram-2012",
+  "title": "Windows 8 logo",
+  "type": "image",
+  "medium": "other",
+  "lede": "Pentagram’s 2012 Windows logo: the waving four-color flag redrawn as a flat, single-color window in perspective.",
+  "summary": "Four flat light-blue panes in perspective beside a plain sans-serif wordmark. Pentagram for Microsoft, 2012.",
+  "source": {
+    "url": "https://www.pentagram.com/work/windows",
+    "label": "Pentagram: Windows"
+  },
+  "creator": {
+    "name": "Pentagram (Paula Scher) for Microsoft",
+    "url": "https://www.pentagram.com/work/windows"
+  },
+  "made": "2012",
+  "moods": [
+    "clean",
+    "direct",
+    "digital"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1920 × 420 render of [File:Windows logo and wordmark - 2012–2015.svg](https://commons.wikimedia.org/wiki/File:Windows_logo_and_wordmark_-_2012%E2%80%932015.svg) and stored a 1600 px copy. Pentagram’s project page read on 2026-09-28; it lists Paula Scher as partner."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "Clear: the brand mark itself drops gradient, gloss, and the four colors for one flat hue, and Pentagram ties it to Metro’s “authentically digital” rule.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Pentagram writes that the Windows logo gained “a 3D effect with a gradient” for Windows XP and became a “pearl” for Vista, and that the new logo “reflects the sleek, modern ‘Metro’ design language”.",
+    "Pentagram: “One guideline of Metro is that the graphic or interface must appear ‘authentically digital’ – that is, it should not appear to be material or three-dimensional using gradients or effects.” The logo instead “suggests dimensionality using the classic principle of perspective”.",
+    "Commons dates the logo to February 2012, with the Windows 8 Consumer Preview."
+  ],
+  "observed": [
+    "Four panes of one flat light blue form a window seen in perspective: the left panes are shorter and narrower than the right panes.",
+    "A white cross of even width separates the panes.",
+    "The wordmark “Windows” is a plain humanist sans-serif in the same blue, with no effects."
+  ],
+  "interpretation": [
+    "Measured with `tools/image-traits.py`; see the measurement file. The logo shows the rule of the style at the scale of a brand mark: depth by drawing (perspective), never by rendering (gradient or shadow).",
+    "Compare the gradients and glossy orbs of the Aero era in [Windows 7](ref:windows-7-aero-interface)."
+  ],
+  "borrow": [
+    "When a flat mark needs depth, draw it with geometry, such as perspective or overlap, and keep each shape one solid color."
+  ],
+  "images": [
+    {
+      "file": "assets/references/windows-8-logo-pentagram-2012.png",
+      "alt": "Windows logo of 2012: four light-blue panes forming a window in perspective, separated by a white cross, beside the word Windows in the same blue.",
+      "width": 1600,
+      "height": 350,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Windows logo and wordmark, 2012–2015, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Windows_logo_and_wordmark_-_2012%E2%80%932015.svg) (PD-textlogo).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Wikimedia Commons tags the logo {{PD-textlogo}}: simple geometric shapes and text, below the threshold of originality in the United States. It is a Microsoft trademark; it appears here only to identify and discuss the design."
+  }
+}

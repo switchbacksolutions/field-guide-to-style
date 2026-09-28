@@ -1,0 +1,153 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.klimt-foundation.com/en/",
+  "title": "Homepage - klimt-foundation.com",
+  "captured": "2026-09-28T17:46:49.876Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica",
+        "share": 0.65
+      },
+      {
+        "family": "Klavika Regular",
+        "share": 0.18
+      },
+      {
+        "family": "Klavika Medium",
+        "share": 0.17
+      },
+      {
+        "family": "Klavika Bold",
+        "share": 0
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 18,
+    "sizeRange": 1.13,
+    "scaleRatio": 1.13,
+    "headingWeight": null,
+    "bodyWeight": 400,
+    "headingTracking": null,
+    "uppercaseShare": 0.17,
+    "monoShare": 0,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#5c7291",
+        "share": 0.351
+      },
+      {
+        "hex": "#eaf7f7",
+        "share": 0.271
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.19
+      },
+      {
+        "hex": "#828282",
+        "share": 0.096
+      },
+      {
+        "hex": "#c2ac72",
+        "share": 0.09
+      },
+      {
+        "hex": "#000000",
+        "share": 0.002
+      }
+    ],
+    "background": "#eaf7f7",
+    "text": "#5c7291",
+    "contrast": 4.5,
+    "chroma": 0.11,
+    "lightness": 0.71,
+    "chromaticShare": 0.09,
+    "accentChroma": 0.31,
+    "distinct": 5,
+    "hues": 1,
+    "imageShare": 0.83,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 5,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.4,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#efece4",
+        "share": 0.506
+      },
+      {
+        "hex": "#e8f6f6",
+        "share": 0.078
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.073
+      },
+      {
+        "hex": "#a8a08c",
+        "share": 0.035
+      },
+      {
+        "hex": "#beb29c",
+        "share": 0.031
+      },
+      {
+        "hex": "#332e25",
+        "share": 0.031
+      },
+      {
+        "hex": "#978b76",
+        "share": 0.028
+      },
+      {
+        "hex": "#5f4739",
+        "share": 0.024
+      },
+      {
+        "hex": "#d2cbba",
+        "share": 0.024
+      },
+      {
+        "hex": "#707169",
+        "share": 0.022
+      }
+    ],
+    "background": "#efece4",
+    "chroma": 0.09,
+    "lightness": 0.78,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.46,
+    "distinct": 12,
+    "hues": 3
+  }
+}

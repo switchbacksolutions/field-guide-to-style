@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/moser-13th-secession-exhibition-poster-1902.jpg",
+  "captured": "2026-09-28T18:16:20+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#fefdf4",
+        "share": 0.165
+      },
+      {
+        "hex": "#b07945",
+        "share": 0.156
+      },
+      {
+        "hex": "#d5c8b8",
+        "share": 0.072
+      },
+      {
+        "hex": "#f4f1e5",
+        "share": 0.065
+      },
+      {
+        "hex": "#45568d",
+        "share": 0.05
+      },
+      {
+        "hex": "#343230",
+        "share": 0.043
+      },
+      {
+        "hex": "#433c3a",
+        "share": 0.042
+      },
+      {
+        "hex": "#282624",
+        "share": 0.039
+      },
+      {
+        "hex": "#344c86",
+        "share": 0.037
+      },
+      {
+        "hex": "#516199",
+        "share": 0.035
+      }
+    ],
+    "background": "#fefdf4",
+    "chroma": 0.17,
+    "lightness": 0.59,
+    "chromaticShare": 0.22,
+    "accentChroma": 0.4,
+    "distinct": 18,
+    "hues": 2
+  }
+}

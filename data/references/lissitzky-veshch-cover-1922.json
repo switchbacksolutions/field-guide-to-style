@@ -1,0 +1,75 @@
+{
+  "id": "lissitzky-veshch-cover-1922",
+  "title": "Veshch/Gegenstand/Objet cover, issue 1–2",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "El Lissitzky’s cover for the trilingual Berlin review builds its title from stencil-like black letters and a steep black bar with a circle, all printed on red.",
+  "summary": "Black geometric capitals, a tilted black bar, a black disc, and outline numerals on a red cover. El Lissitzky, Berlin, 1922.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Veshch%27/Gegenstand/Objet",
+    "label": "Wikipedia: Veshch'/Gegenstand/Objet"
+  },
+  "creator": {
+    "name": "El Lissitzky (cover); El Lissitzky and Ilya Ehrenburg (editors)",
+    "url": "https://www.wikidata.org/wiki/Q152233"
+  },
+  "made": "1922 (issue 1–2, March–April 1922, per Wikipedia)",
+  "moods": [
+    "architectonic",
+    "declarative",
+    "international"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the cover image on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Weschch_1-2.jpg) (1218 × 1600 px, viewed at 1200 px). Commons credits the image to the Deutsche Nationalbibliothek and names the Mayakovsky Museum, Moscow, as the holding institution; no inventory number is given."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "constructivism",
+      "note": "A canonical constructivist cover: a steep black bar, a circle, and letters built from bars and blocks. It inverts the usual palette and prints black on a red ground.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "*Veshch’/Gegenstand/Objet* was an international review of modern art published in Berlin by El Lissitzky and Ilya Ehrenburg in 1922. Its title gives the word for “object” in Russian, German, and French. Issue 1–2 appeared in March–April 1922 and issue 3 in May 1922; there were no further issues. [Wikipedia](https://en.wikipedia.org/wiki/Veshch%27/Gegenstand/Objet).",
+    "Commons describes the print technique as zinc printing (Zinkdruck). [Commons](https://commons.wikimedia.org/wiki/File:Weschch_1-2.jpg)."
+  ],
+  "observed": [
+    "The whole cover is a flat, slightly mottled red. All type and shapes are printed in black.",
+    "A thick black bar runs steeply from the upper left to the lower center and turns at its foot into a short horizontal. “OBJET” runs along it, reading upward, and “GEGENSTAND” sits in the foot, both in red letters reversed out of the black.",
+    "“ВЕЩЬ” is set in large black letters built from bars and blocks, with stencil-like gaps. The letter В is doubled by an offset shadow.",
+    "The issue number “№ 1·2” is drawn in outline and solid strokes with thin rules that cross the black bar.",
+    "A solid black disc sits beside the foot of the bar. “BERLIN 1922” is stacked at the top of the bar in small heavy letters.",
+    "A small stepped block of text in three languages runs diagonally at the lower left."
+  ],
+  "interpretation": [
+    "The cover uses the same vocabulary as [Beat the Whites with the Red Wedge](ref:lissitzky-beat-the-whites-red-wedge-poster), a diagonal bar and a circle, but turns it into a masthead. The letters are drawn as constructions, not set from a font.",
+    "The red ground covers the whole cover, so the measurement finds 69% chromatic area, above the website fingerprint’s maximum of 0.6. Print covers and posters by Klutsis show that a full red field belongs to the style."
+  ],
+  "borrow": [
+    "Print black type and shapes on a full red ground for a cover or hero, and reverse small labels out of the black shapes in red.",
+    "Run the secondary title words along the edge of a steep bar."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lissitzky-veshch-cover-1922.jpg",
+      "alt": "Red magazine cover: a steep black bar with the words Objet and Gegenstand, a black disc, the Russian title ВЕЩЬ in large black block letters, and the issue number 1·2 drawn with outlines and thin rules.",
+      "width": 1200,
+      "height": 1576,
+      "kind": "source-image",
+      "caption": "El Lissitzky, cover of *Veshch’/Gegenstand/Objet* 1–2, Berlin 1922. Image by the Deutsche Nationalbibliothek, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Weschch_1-2.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/10/Weschch_1-2.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons marks the image {{PD-old-70-1923}} (Public Domain Mark). The cover design is by Lissitzky, who died in 1941, so it is in the public domain in Germany and Russia, and it was published in 1922, so it is in the public domain in the United States. The co-editor Ilya Ehrenburg died in 1967, but none of his text appears on the cover."
+  },
+  "identifiers": {
+    "commons": "File:Weschch 1-2.jpg"
+  }
+}

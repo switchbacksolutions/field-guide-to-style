@@ -1,0 +1,53 @@
+{
+  "id": "material-product-icons-2014",
+  "title": "Material Design product icons",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "Google’s rules for app icons as shapes of cut and folded paper, lit from above, with the 2014 Gmail envelope as the model.",
+  "summary": "App icons drawn as folded paper with flat color, soft fold shading, and a thin edge shadow. Google, 2014.",
+  "source": {
+    "url": "https://m1.material.io/style/icons.html",
+    "label": "Google, Material Design 1 guidelines: Icons, Product icons"
+  },
+  "creator": {
+    "name": "Google"
+  },
+  "made": "2014",
+  "moods": [
+    "tactile",
+    "bright",
+    "crafted"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Opened the product icon definition image *style-logos-product-intro-definition.png* (1520 × 960) and three 720 × 720 anatomy and lighting diagrams from the Material Design 1 icons page on 28 September 2026. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "The imagery facet of the style: product icons use the same paper metaphor as the interface, with flat color, clean folds, and soft light from above.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Material Design 1 icons page describes product icons as the visual expression of a brand’s product and defines their anatomy, a keyline grid, lighting at 45 degrees from the top left, and rules for folds and shadows. [Icons](https://m1.material.io/style/icons.html)."
+  ],
+  "observed": [
+    "The Gmail envelope is a flat red M over a pale gray paper envelope with rounded outer corners.",
+    "The folds of the envelope show as flat facets of slightly different grays, with a soft shadow under the red M.",
+    "A thin, slightly darker line along the bottom edge suggests that the paper has thickness. There is no gloss and no texture."
+  ],
+  "interpretation": [
+    "Product icons are the one place where Material draws light and shade inside an image. They still read as flat color, because the shading is limited to large facets and short soft shadows."
+  ],
+  "borrow": [
+    "Build an emblem from two or three flat paper layers. Shade only the folds and the edge where one layer lies on another."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The m1.material.io site is under the Apache License 2.0 unless otherwise specified, but the product icons are Google trademarks, so the catalogue links to them only."
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://kaboom-ui-kit.pages.dev/",
+  "title": "KABOOM! UI - Retro Comic CSS Framework",
+  "captured": "2026-09-28T17:34:01.984Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Comic Neue",
+        "share": 0.77
+      },
+      {
+        "family": "Bangers",
+        "share": 0.21
+      },
+      {
+        "family": "Muli",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 18,
+    "maxSize": 80,
+    "sizeRange": 4.44,
+    "scaleRatio": 1.2,
+    "headingWeight": 700,
+    "bodyWeight": 700,
+    "headingTracking": 0.042,
+    "uppercaseShare": 0.19,
+    "monoShare": 0,
+    "centerShare": 0.5
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#fdfbf7",
+        "share": 0.67
+      },
+      {
+        "hex": "#ffd166",
+        "share": 0.149
+      },
+      {
+        "hex": "#111111",
+        "share": 0.139
+      },
+      {
+        "hex": "#06d6a0",
+        "share": 0.017
+      },
+      {
+        "hex": "#457b9d",
+        "share": 0.011
+      },
+      {
+        "hex": "#e63946",
+        "share": 0.009
+      },
+      {
+        "hex": "#0000ff",
+        "share": 0.003
+      },
+      {
+        "hex": "#555555",
+        "share": 0.001
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#111111",
+    "contrast": 18.9,
+    "chroma": 0.13,
+    "lightness": 0.79,
+    "chromaticShare": 0.19,
+    "accentChroma": 0.61,
+    "distinct": 3,
+    "hues": 4,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0.39
+  },
+  "surface": {
+    "boxes": 65,
+    "radius": {
+      "median": 0,
+      "max": 138.8,
+      "roundShare": 0.08
+    },
+    "border": {
+      "share": 1,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0.43,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 8.5
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffd167",
+        "share": 0.652
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.236
+      },
+      {
+        "hex": "#f6f6f2",
+        "share": 0.017
+      },
+      {
+        "hex": "#0e0e0f",
+        "share": 0.014
+      },
+      {
+        "hex": "#437a9b",
+        "share": 0.014
+      },
+      {
+        "hex": "#302d26",
+        "share": 0.01
+      },
+      {
+        "hex": "#91968e",
+        "share": 0.008
+      },
+      {
+        "hex": "#756443",
+        "share": 0.007
+      },
+      {
+        "hex": "#514b40",
+        "share": 0.007
+      },
+      {
+        "hex": "#e4e7e9",
+        "share": 0.006
+      }
+    ],
+    "background": "#ffd167",
+    "chroma": 0.4,
+    "lightness": 0.75,
+    "chromaticShare": 0.68,
+    "accentChroma": 0.59,
+    "distinct": 2,
+    "hues": 2
+  }
+}

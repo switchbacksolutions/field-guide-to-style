@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/horta-hotel-tassel-staircase-1893.jpg",
+  "captured": "2026-09-28T17:21:17+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#fefcfe",
+        "share": 0.077
+      },
+      {
+        "hex": "#321910",
+        "share": 0.067
+      },
+      {
+        "hex": "#402a1c",
+        "share": 0.061
+      },
+      {
+        "hex": "#4a413e",
+        "share": 0.061
+      },
+      {
+        "hex": "#b69a8f",
+        "share": 0.049
+      },
+      {
+        "hex": "#a18b86",
+        "share": 0.048
+      },
+      {
+        "hex": "#40372e",
+        "share": 0.046
+      },
+      {
+        "hex": "#917b75",
+        "share": 0.041
+      },
+      {
+        "hex": "#846c61",
+        "share": 0.038
+      },
+      {
+        "hex": "#785c4f",
+        "share": 0.036
+      }
+    ],
+    "background": "#fefcfe",
+    "chroma": 0.16,
+    "lightness": 0.48,
+    "chromaticShare": 0.19,
+    "accentChroma": 0.4,
+    "distinct": 26,
+    "hues": 2
+  }
+}

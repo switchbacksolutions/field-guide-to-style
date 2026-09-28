@@ -1,0 +1,72 @@
+{
+  "id": "pioneer-zephyr-1934",
+  "title": "Pioneer Zephyr, 1934",
+  "type": "product",
+  "medium": "product",
+  "lede": "The Burlington’s stainless-steel diesel train of 1934: a sloping, rounded nose and sides fluted with horizontal lines.",
+  "summary": "A polished stainless-steel train with a rounded, sloping nose, a grilled dome, and horizontal fluting. Budd Company for the Burlington, 1934.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Pioneer_Zephyr",
+    "label": "Wikipedia: Pioneer Zephyr"
+  },
+  "creator": {
+    "name": "Budd Company; exterior design by Albert Gardner Dean with Paul Philippe Cret and John Harbeson (Wikipedia)"
+  },
+  "made": "1934 (completed 9 April 1934)",
+  "moods": [
+    "streamlined",
+    "machine-age",
+    "optimistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Daderot’s 2014 photograph of the train at the Museum of Science and Industry, Chicago, on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pioneer_Zephyr_-_Museum_of_Science_and_Industry_(Chicago)_-_DSC06911.JPG), at 1280 × 1920 px."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "streamline-moderne",
+      "note": "A founding object of American streamlining: a rounded, sloping nose, polished metal, and horizontal fluting along the sides.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Built by the Budd Company in 1934 of stainless steel joined by shotwelding; exterior design by Albert Gardner Dean with the architects Paul Philippe Cret and John Harbeson. On 26 May 1934 it ran non-stop from Denver to Chicago, 1,015 miles in 13 hours 5 minutes, and appeared at the Century of Progress fair. It entered service on 11 November 1934. [Wikipedia](https://en.wikipedia.org/wiki/Pioneer_Zephyr).",
+    "The train was donated to the Museum of Science and Industry, Chicago, in 1960. [Wikipedia](https://en.wikipedia.org/wiki/Pioneer_Zephyr)."
+  ],
+  "observed": [
+    "The nose slopes back and rounds over into a dome covered by a grille of curved ribs, with a large round headlamp on top.",
+    "The cab windows form a curved band across the front.",
+    "Several thin parallel ridges run horizontally around the nose and continue along the sides as fluting.",
+    "The skirt below curves forward to a blunt, rounded lower edge.",
+    "The whole surface is polished stainless steel with visible rivet lines; the only color is a black and red “Burlington Route” sign on the nose."
+  ],
+  "interpretation": [
+    "The fluting turns the speed line into structure: the parallel ridges that stiffen the steel also give the train its look. Many later graphics draw the same few parallel lines to mean stainless steel and speed."
+  ],
+  "borrow": [
+    "Use a band of four to six thin parallel lines that wraps a rounded corner and continues along the edge.",
+    "Set one small saturated badge on a large field of silver-gray."
+  ],
+  "images": [
+    {
+      "file": "assets/references/pioneer-zephyr-1934.jpg",
+      "alt": "Front three-quarter view of a polished stainless-steel train in a museum hall: a rounded, sloping nose with a ribbed grille dome and a large headlamp, a curved band of cab windows, horizontal ridges wrapping the nose, and a black and red Burlington Route sign.",
+      "width": 1067,
+      "height": 1600,
+      "kind": "photograph",
+      "caption": "Pioneer Zephyr at the Museum of Science and Industry, Chicago. Photograph by Daderot, 2014, CC0, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pioneer_Zephyr_-_Museum_of_Science_and_Industry_(Chicago)_-_DSC06911.JPG).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/13/Pioneer_Zephyr_-_Museum_of_Science_and_Industry_%28Chicago%29_-_DSC06911.JPG",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The photographer dedicated the photograph to the public domain (CC0). A train is a useful article: its shape is not protected by copyright in the United States, its country of origin. The Burlington Route sign is a trademark shown as part of the object."
+  },
+  "identifiers": {
+    "commons": "File:Pioneer Zephyr - Museum of Science and Industry (Chicago) - DSC06911.JPG"
+  }
+}

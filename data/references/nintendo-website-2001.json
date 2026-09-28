@@ -1,0 +1,67 @@
+{
+  "id": "nintendo-website-2001",
+  "title": "Nintendo website, 2001",
+  "type": "website",
+  "medium": "website",
+  "lede": "Nintendo’s home page of August 2001, framed as a periwinkle console with rounded corners, dark side rails, and pixel-font labels.",
+  "summary": "Periwinkle device-like frame with rounded corners, dark rails, pixel type, and orange capsule buttons around game promotions.",
+  "source": {
+    "url": "http://www.nintendo.com/",
+    "label": "www.nintendo.com",
+    "archive": "https://web.archive.org/web/20010822153959/http://www.nintendo.com/"
+  },
+  "creator": {
+    "name": "Nintendo of America"
+  },
+  "made": "2001 (capture date, 22 August 2001)",
+  "moods": [
+    "playful",
+    "techno-optimistic",
+    "busy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. Nothing covers the page. All images loaded."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Clear: the page is built as a device, with a rounded periwinkle casing, dark control rails, pixel labels, and small capsule buttons. It has little chrome. The page draws its graphics with images, so the CSS fingerprint measures flat, square, unshadowed boxes (see the style page). Judge it by the rubric.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The whole page sits in one periwinkle frame with rounded outer corners and angled cut-outs, like the housing of a handheld device, on a light gray ground.",
+    "Dark charcoal rails with dotted texture run across the top and down both sides and hold the navigation.",
+    "Main navigation (“GAMES”, “SYSTEMS”, “NEWS”, “NSIDER”, “DOWNLOADS”) is in orange pixel-style capitals; side labels such as “TOP TEN” and “PLAYER’S CHOICE” run vertically.",
+    "Small controls are capsule-shaped orange and gray buttons with pixel labels, such as “CODE BANK”, “GAME FINDER”, and “SUBMIT”.",
+    "Content panels have rounded ends and stacked list rows, each with a small icon and an orange arrow tab.",
+    "Game art and a purple Game Boy Advance fill the panels; Mario stands at top left with a pixel speech bubble."
+  ],
+  "interpretation": [
+    "This is the style’s “interface as device” layout on the web: the page is drawn as a piece of hardware, with rails, ports, and buttons.",
+    "Measured: no CSS gradients, shadows, or radii, because the frame is sliced images; the pixel palette has three hues."
+  ],
+  "borrow": [
+    "Frame a whole page as a device housing: one rounded outer shape, dark rails for navigation, and capsule buttons.",
+    "Set small labels in a pixel font and run side labels vertically."
+  ],
+  "images": [
+    {
+      "file": "assets/references/nintendo-website-2001.jpg",
+      "alt": "Archived Nintendo home page: a periwinkle, round-cornered frame with dark dotted rails and orange pixel navigation, a Super Smash Bros. Melee banner, lists of news with icons, featured game sites, a poll, and a Pokémon Crystal sweepstakes panel.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [archived copy](https://web.archive.org/web/20010822153959/http://www.nintendo.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Nintendo of America. Screenshot captured for commentary."
+  }
+}

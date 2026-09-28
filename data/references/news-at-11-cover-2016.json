@@ -1,0 +1,56 @@
+{
+  "id": "news-at-11-cover-2016",
+  "title": "News at 11 cover art",
+  "type": "print",
+  "medium": "packaging",
+  "lede": "Cat System Corp.’s 9/11 album: a VHS-degraded American flag in a rounded TV frame, with a Japanese obi strip down the left edge.",
+  "summary": "VHS-smeared flag in a CRT frame, Japanese obi strip, weather-channel logos. 2016.",
+  "source": {
+    "url": "https://catsystemcorp.bandcamp.com/album/news-at-11",
+    "label": "Cat System Corp. on Bandcamp"
+  },
+  "creator": {
+    "name": "Cat System Corp. (Jornt Elzinga)"
+  },
+  "made": "September 11, 2016 (Geometric Lullaby)",
+  "moods": [
+    "melancholic",
+    "eerie",
+    "nostalgic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 × 1200 cover on the album’s [Bandcamp page](https://catsystemcorp.bandcamp.com/album/news-at-11), in a scratchpad copy. Not stored. The creator’s name comes from the Commons file [Cat System Corp. - News at 11 cassette artwork (flag only).jpg](https://commons.wikimedia.org/wiki/File:Cat_System_Corp._-_News_at_11_cassette_artwork_(flag_only).jpg)."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "Partial fit, from the signalwave and mallsoft branches: VHS degradation, a CRT frame, and Japanese text are clear, but the palette is dark red, white, and blue instead of pastel.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: “One vaporwave album that directly interrogates 9/11 is News at 11 (2016) by Cat System Corp.” The label is Geometric Lullaby; the release date is September 11, 2016. [Wikipedia: Vaporwave](https://en.wikipedia.org/wiki/Vaporwave); [Wikipedia: News at 11](https://en.wikipedia.org/wiki/News_at_11_(album))."
+  ],
+  "observed": [
+    "A waving American flag, smeared and colour-shifted like a worn VHS frame, fills a rounded-rectangle screen shape on black.",
+    "NEWS AT 11 sits below in white, narrow, pixel-like capitals.",
+    "A white obi strip on the left carries vertical katakana, a small flag, CATCORP and LOCAL 11 WEATHER logos, track lists in serif capitals, and the Geometric Lullaby logo."
+  ],
+  "interpretation": [
+    "It shows the style’s darker side: the same devices (Japanese packaging, broadcast artefacts) used for mourning instead of play. The obi strip imitates Japanese import records."
+  ],
+  "borrow": [
+    "Add a narrow vertical strip of small, dense label text beside a large image to imitate an import-record obi."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Copyrighted album art. No image is stored here."
+  },
+  "identifiers": {
+    "wikidata": "Q112136732"
+  }
+}

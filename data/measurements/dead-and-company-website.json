@@ -1,0 +1,137 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://deadandcompany.com/",
+  "title": "Dead & Company – Golden Gate",
+  "captured": "2026-09-28T17:21:55.684Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica",
+        "share": 0.45
+      },
+      {
+        "family": "corbertheavy_wide",
+        "share": 0.44
+      },
+      {
+        "family": "windsor_proelongated",
+        "share": 0.11
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 60,
+    "sizeRange": 3.75,
+    "scaleRatio": 1.5,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": -0.025,
+    "uppercaseShare": 0.84,
+    "monoShare": 0,
+    "centerShare": 1
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffc72a",
+        "share": 0.688
+      },
+      {
+        "hex": "#000000",
+        "share": 0.274
+      },
+      {
+        "hex": "#58cab1",
+        "share": 0.038
+      }
+    ],
+    "background": "#ffc72a",
+    "text": "#000000",
+    "contrast": 13.5,
+    "chroma": 0.59,
+    "lightness": 0.42,
+    "chromaticShare": 0.73,
+    "accentChroma": 0.81,
+    "distinct": 3,
+    "hues": 2,
+    "imageShare": 0.47,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 6,
+    "radius": {
+      "median": 0,
+      "max": 6,
+      "roundShare": 0.17
+    },
+    "border": {
+      "share": 0.33,
+      "medianWidth": 4
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.17,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffc72a",
+        "share": 0.618
+      },
+      {
+        "hex": "#b8dce5",
+        "share": 0.109
+      },
+      {
+        "hex": "#020102",
+        "share": 0.043
+      },
+      {
+        "hex": "#fb828a",
+        "share": 0.021
+      },
+      {
+        "hex": "#a7c6ce",
+        "share": 0.019
+      },
+      {
+        "hex": "#9bb7be",
+        "share": 0.017
+      },
+      {
+        "hex": "#769999",
+        "share": 0.017
+      },
+      {
+        "hex": "#8da5ac",
+        "share": 0.016
+      },
+      {
+        "hex": "#668383",
+        "share": 0.016
+      },
+      {
+        "hex": "#171511",
+        "share": 0.015
+      }
+    ],
+    "background": "#ffc72a",
+    "chroma": 0.58,
+    "lightness": 0.56,
+    "chromaticShare": 0.68,
+    "accentChroma": 0.81,
+    "distinct": 4,
+    "hues": 2
+  }
+}

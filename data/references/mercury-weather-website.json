@@ -1,0 +1,59 @@
+{
+  "id": "mercury-weather-website",
+  "title": "Mercury Weather website",
+  "type": "website",
+  "medium": "website",
+  "lede": "A weather app’s page with translucent chips and quote cards, edged in thin light lines, over a dark teal and violet glow.",
+  "summary": "Translucent bordered chips and cards on a dark teal-to-violet glow, for an Apple-platform weather app.",
+  "source": {
+    "url": "https://mercuryweather.app/",
+    "label": "mercuryweather.app"
+  },
+  "moods": [
+    "luminous",
+    "calm",
+    "premium"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. Nothing covers the page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "glassmorphism",
+      "note": "Clear example: translucent chips and cards with hairline light borders and large radii over a colored glow. The glass is dark and tinted rather than white.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "The background is a dark glow: teal at the upper left, deep violet on the right, and near-black at the edges.",
+    "Four feature chips (‘Hyper-local forecasts’, ‘Beautiful charts’, ‘Trip forecast’, ‘All Apple devices’) are dark translucent pills with a thin light border.",
+    "A rounded panel on the right holds three phone screenshots over a blue gradient.",
+    "Three quote cards at the bottom are translucent, rounded, and edged with a thin light line.",
+    "The headline is a heavy sans-serif in white with the word ‘beautifully’ in lilac. The App Store badge is a solid white button."
+  ],
+  "interpretation": [
+    "It passes the radius, border, border-width, and gradient metrics: 80 % of boxes have a 1 px border, the median radius is 18 px, and 40 % of boxes use a backdrop blur. Its chromatic share of 0.33 is close to the threshold because the glow is dark."
+  ],
+  "borrow": [
+    "For dark glass, use a 1 px light border at low opacity on every chip and card, and let one teal and one violet glow provide the color."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mercury-weather-website.jpg",
+      "alt": "Mercury Weather home page: a large white and lilac headline ‘Forecasts, beautifully done.’ on a dark teal and violet glow, translucent bordered feature chips, a panel of phone screenshots, and translucent quote cards.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [mercuryweather.app](https://mercuryweather.app/), captured 28 September 2026.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners. Screenshot captured for commentary."
+  }
+}

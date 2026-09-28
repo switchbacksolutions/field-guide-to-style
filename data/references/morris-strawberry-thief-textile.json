@@ -1,0 +1,75 @@
+{
+  "id": "morris-strawberry-thief-textile",
+  "title": "Strawberry Thief furnishing textile",
+  "type": "object",
+  "medium": "textile",
+  "lede": "William Morris’s best-known printed cotton: thrushes and strawberries mirrored across an indigo ground, with almost no plain ground left.",
+  "summary": "Mirrored thrushes, strawberries, and flowers in red, yellow, green, and white on indigo. William Morris, designed 1883.",
+  "source": {
+    "url": "https://clevelandart.org/art/1937.696",
+    "label": "Cleveland Museum of Art: Strawberry Thief, 1937.696"
+  },
+  "creator": {
+    "name": "William Morris",
+    "url": "https://www.wikidata.org/wiki/Q182589"
+  },
+  "made": "Designed 1883; this length printed at Merton Abbey, about 1936",
+  "moods": [
+    "dense",
+    "handmade",
+    "rich"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Cleveland Museum of Art open-access image of object 1937.696 (3400 × 3035 px). The museum dates this length “c 1936” and gives its place as Merton Abbey, so it is a late printing of the 1883 design."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "arts-and-crafts",
+      "note": "A core Morris & Co. printed textile: a flat, dense, mirror-symmetrical repeat of birds and plants in dye colours on indigo.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Cleveland Museum of Art calls it perhaps the most recognizable of Morris’s textiles. It shows the thrushes that ate the fruit in the garden at Kelmscott Manor. [Cleveland Museum of Art](https://clevelandart.org/art/1937.696).",
+    "Morris perfected the indigo-discharge process with this design: the whole cloth was dyed blue, then bleached and block-printed, here with more colours than any of his other textiles. [Cleveland Museum of Art](https://clevelandart.org/art/1937.696).",
+    "Cleveland describes this length as plain-weave cotton, discharge printed, 88.3 × 99.1 cm, printed at Merton Abbey about 1936. [Cleveland Museum of Art](https://clevelandart.org/art/1937.696)."
+  ],
+  "observed": [
+    "The ground is a deep indigo blue. Plain blue shows only in narrow gaps between motifs.",
+    "Pairs of thrushes face each other across a vertical axis; the pattern is a mirrored, turnover repeat.",
+    "Motifs are red strawberries, pink and salmon flowers, sage and olive leaves, and pale blue-white acanthus leaves, with yellow stems.",
+    "Each motif has a dark outline and flat fills. Speckles on the birds’ breasts give texture, not shading.",
+    "A plain indigo band runs down both edges. Printed white capitals on the right edge read “…PANY 449 OXFORD STREET LONDON W.”"
+  ],
+  "interpretation": [
+    "This is the clearest case of the rubric’s dense all-over repeat: the mirror axis makes the pattern static and symmetrical, and the colours are those of indigo, madder, and weld.",
+    "The red here is a light, warm red on dark blue. It is used for fruit and flowers, not for text."
+  ],
+  "borrow": [
+    "Mirror a motif pair around a vertical axis and fill the gaps with leaves until only thin lines of ground show.",
+    "Use a dark indigo field with small, bright accents of madder red and weld yellow."
+  ],
+  "images": [
+    {
+      "file": "assets/references/morris-strawberry-thief-textile.jpg",
+      "alt": "Printed cotton with a dark indigo ground covered by mirrored pairs of speckled thrushes, red strawberries, pink flowers, and green and pale blue leaves. A plain blue band runs down each side.",
+      "width": 1600,
+      "height": 1428,
+      "kind": "source-image",
+      "caption": "William Morris, Strawberry Thief, designed 1883, printed about 1936. Cleveland Museum of Art, Gift of Mrs. Henry Chisholm, 1937.696. [Open-access image](https://clevelandart.org/art/1937.696), CC0.",
+      "original": "https://openaccess-cdn.clevelandart.org/1937.696/1937.696_print.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Cleveland Museum of Art releases the image as CC0. William Morris died in 1896. The design dates from 1883, so it is in the public domain in the United Kingdom and the United States."
+  },
+  "identifiers": {
+    "cleveland": "1937.696"
+  }
+}

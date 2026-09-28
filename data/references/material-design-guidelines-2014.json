@@ -1,0 +1,94 @@
+{
+  "id": "material-design-guidelines-2014",
+  "title": "Material Design guidelines, first edition",
+  "type": "product",
+  "medium": "other",
+  "lede": "Google’s own specification for Material Design: the document that defines sheets of material, resting elevations, the color palette, and the floating action button.",
+  "summary": "Google’s 2014 design specification, illustrated with flat colored sheets, soft shadow diagrams, and component sheets.",
+  "source": {
+    "url": "https://m1.material.io/material-design/introduction.html",
+    "label": "Google, Material Design 1 guidelines (m1.material.io)"
+  },
+  "creator": {
+    "name": "Google, design team led by Matías Duarte"
+  },
+  "made": "2014 (published at Google I/O, 25 June 2014; revised until 2018)",
+  "moods": [
+    "systematic",
+    "orderly",
+    "bright"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Read the introduction, elevation and shadows, material properties, and color pages at m1.material.io on 28 September 2026. Opened the introduction illustration (2320 × 1248) and the elevation diagram *whatismaterial-3d-elevation1.png* (1520 × 960) from the site’s image store, and the Wikimedia Commons component sheet *Material Design.svg* rendered at 960 × 1707."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "The source document of the style. Its illustrations use the style’s own grammar: flat color, sheets at named heights, soft shadows, and a round action button.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The guidelines name three principles: “Material is the metaphor”, “Bold, graphic, intentional”, and “Motion provides meaning”. Their stated goal is to “create a visual language that synthesizes classic principles of good design with the innovation and possibility of technology and science.” [Introduction](https://m1.material.io/material-design/introduction.html).",
+    "The material properties page says that material is 1 dp thick, that “material casts shadows”, and that “shadows are never approximated by coloring material”. [Material properties](https://m1.material.io/material-design/material-properties.html).",
+    "The elevation page gives resting elevations for Android: card 2 dp, app bar 4 dp, floating action button 6 dp, with higher values for menus, the navigation drawer, and dialogs. [Elevation and shadows](https://m1.material.io/material-design/elevation-shadows.html).",
+    "Google first published the specification at google.com/design/spec when it announced Material Design at Google I/O on 25 June 2014. The m1.material.io copy now says “Material 1 is no longer maintained”. [Wikipedia: Material Design](https://en.wikipedia.org/wiki/Material_Design)."
+  ],
+  "observed": [
+    "The introduction illustration is four flat rectangles and one circle in shades of cyan and teal, stacked with no outlines and no shadows. Only the tone changes from sheet to sheet.",
+    "The elevation diagram shows two near-white cards on a pale gray ground. The upper card has a larger, softer shadow than the lower card. A side view on the right marks heights of 2 dp, 6 dp, and 8 dp with dashed lines.",
+    "The component sheet shows a red app bar with a darker red status bar, blue raised buttons with all-capital labels, a blue toggle, an underlined text field, a white dialog with a large soft shadow, and a round blue action button with a plus sign in the lower right."
+  ],
+  "interpretation": [
+    "The guidelines are both the rulebook and a specimen. They show the grammar in its purest form, with no product content, so they are the best source for token values.",
+    "The introduction illustration shows the flat half of the style, and the elevation diagram shows the paper half. Together they explain why Material is called flat 2.0 ([Evernote for Android](ref:evernote-android-2015))."
+  ],
+  "borrow": [
+    "Give every surface a named elevation and derive its shadow from that height, instead of choosing shadows one by one.",
+    "Show layered structure with tones of one hue when shadows are not available, as the introduction illustration does."
+  ],
+  "images": [
+    {
+      "file": "assets/references/material-design-guidelines-2014.png",
+      "alt": "Diagram on a pale gray ground: two white cards on the left, the upper one with a larger soft shadow, and on the right a side view of two thin sheets at heights marked 2dp, 6dp, and 8dp.",
+      "width": 1520,
+      "height": 960,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Elevation diagram from the [Material Design 1 guidelines, Elevation and shadows](https://m1.material.io/material-design/elevation-shadows.html). Google, Apache License 2.0.",
+      "original": "https://storage.googleapis.com/material-io-design/m1/assets/0B6Okdz75tqQsTVdGcm1LX0dVeGM/whatismaterial-3d-elevation1.png",
+      "saved": "2026-09-28"
+    },
+    {
+      "file": "assets/references/material-design-guidelines-2014-intro.png",
+      "alt": "Flat illustration of overlapping rectangles and a circle in five shades of cyan and teal, with no outlines or shadows.",
+      "width": 1600,
+      "height": 861,
+      "kind": "source-image",
+      "caption": "Introduction illustration from the [Material Design 1 guidelines](https://m1.material.io/material-design/introduction.html), resized. Google, Apache License 2.0.",
+      "original": "https://storage.googleapis.com/material-io-design/m1/assets/0Bx4BSt6jniD7Y1huOXVQdlFPMmM/materialdesign-introduction.png",
+      "saved": "2026-09-28"
+    },
+    {
+      "file": "assets/references/material-design-guidelines-2014-components.png",
+      "alt": "Phone screen of Material components: a red app bar titled Page title, blue raised buttons labeled NORMAL and PRESSED, toggles, an underlined text field, a white Permissions dialog with a soft shadow, checkboxes, radio buttons, a slider, and a round blue plus button.",
+      "width": 900,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Component sheet based on the 2015 Google specification, from [Wikimedia Commons: Material Design.svg](https://commons.wikimedia.org/wiki/File:Material_Design.svg), rendered and resized. Author given as Google Inc. Tagged PD-ineligible and Apache License 2.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Material_Design.svg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "Apache-2.0",
+    "statement": "Borderline tier A, for the curator to confirm. The work is not public domain. The m1.material.io pages state: “All content and code on this site are licensed under the Apache 2 license unless otherwise specified”. The first two images come from that site. The Commons component sheet is tagged both PD-ineligible and Apache License 2.0 (Google Inc., 2015)."
+  },
+  "identifiers": {
+    "wikidata": "Q17590603"
+  }
+}

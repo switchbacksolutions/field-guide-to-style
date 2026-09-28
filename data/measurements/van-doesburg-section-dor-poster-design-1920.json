@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/van-doesburg-section-dor-poster-design-1920.jpg",
+  "captured": "2026-09-28T17:51:45+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f2dfaf",
+        "share": 0.383
+      },
+      {
+        "hex": "#2c2722",
+        "share": 0.174
+      },
+      {
+        "hex": "#e6d2a2",
+        "share": 0.14
+      },
+      {
+        "hex": "#dfc78b",
+        "share": 0.078
+      },
+      {
+        "hex": "#1f1c19",
+        "share": 0.056
+      },
+      {
+        "hex": "#f3e8cc",
+        "share": 0.047
+      },
+      {
+        "hex": "#3e372d",
+        "share": 0.038
+      },
+      {
+        "hex": "#4d4538",
+        "share": 0.015
+      },
+      {
+        "hex": "#c5bb9f",
+        "share": 0.012
+      },
+      {
+        "hex": "#d6ccaf",
+        "share": 0.011
+      }
+    ],
+    "background": "#f2dfaf",
+    "chroma": 0.19,
+    "lightness": 0.6,
+    "chromaticShare": 0.09,
+    "accentChroma": 0.33,
+    "distinct": 7,
+    "hues": 1
+  }
+}

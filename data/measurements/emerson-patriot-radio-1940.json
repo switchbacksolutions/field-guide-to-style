@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/emerson-patriot-radio-1940.jpg",
+  "captured": "2026-09-28T17:50:43+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#b6a987",
+        "share": 0.096
+      },
+      {
+        "hex": "#965148",
+        "share": 0.091
+      },
+      {
+        "hex": "#a5a6a8",
+        "share": 0.087
+      },
+      {
+        "hex": "#7b2114",
+        "share": 0.067
+      },
+      {
+        "hex": "#18181e",
+        "share": 0.067
+      },
+      {
+        "hex": "#6c1409",
+        "share": 0.053
+      },
+      {
+        "hex": "#e7f4fe",
+        "share": 0.043
+      },
+      {
+        "hex": "#b6bac2",
+        "share": 0.042
+      },
+      {
+        "hex": "#43342c",
+        "share": 0.041
+      },
+      {
+        "hex": "#98989b",
+        "share": 0.039
+      }
+    ],
+    "background": "#b6a987",
+    "chroma": 0.18,
+    "lightness": 0.48,
+    "chromaticShare": 0.32,
+    "accentChroma": 0.37,
+    "distinct": 20,
+    "hues": 2
+  }
+}

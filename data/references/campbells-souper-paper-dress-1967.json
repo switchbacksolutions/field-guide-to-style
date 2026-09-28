@@ -1,0 +1,62 @@
+{
+  "id": "campbells-souper-paper-dress-1967",
+  "title": "“Souper” paper dress",
+  "type": "object",
+  "medium": "textile",
+  "lede": "A promotional paper dress from Campbell’s Soup, printed with rows of soup-can labels after Andy Warhol’s Campbell’s Soup Cans.",
+  "summary": "A shift dress printed with a grid of red and white Campbell’s labels. Campbell’s Soup, USA, 1967.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1330466/",
+    "label": "V&A: Paper dress, T.66-2016"
+  },
+  "creator": {
+    "name": "Campbell’s Soup Inc. (producer)"
+  },
+  "made": "1967",
+  "moods": [
+    "commercial",
+    "playful",
+    "ironic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A image of its copy, T.66-2016 (1200 × 1600 px), in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "Pop art’s packaging grid returned to commerce: the soup label repeated in rows as a textile print. Partial fit: it has no dots or comic devices.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes a short sleeveless dress of bonded-fibre “paper”, made in the USA in 1967 and produced to promote Campbell’s vegetable soup, after Andy Warhol’s soup cans of 1962. [V&A](https://collections.vam.ac.uk/item/O1330466/).",
+    "The V&A notes that paper dresses were a brief sensation from 1966 to 1968, and that many were free gifts that promoted consumer products. [V&A](https://collections.vam.ac.uk/item/O1330466/).",
+    "The painting series it follows is [Campbell’s Soup Cans](ref:warhol-campbells-soup-cans-1962)."
+  ],
+  "observed": [
+    "The dress is printed with four rows of soup-can labels in a regular grid; the labels are cut off at the side seams.",
+    "Each label has a red top half with the white script “Campbell’s” and a white bottom half with “SOUP” in black slab-serif capitals.",
+    "A gold medallion sits on the line between red and white; a row of small gold fleurs-de-lis runs along the bottom of each label.",
+    "Thin black vertical lines separate the labels.",
+    "Two gold stripes run along the hem. The neckline and armholes are bound in black."
+  ],
+  "interpretation": [
+    "The dress closes the loop between packaging and Pop: a painter’s grid of labels becomes a product’s own promotion.",
+    "Repetition of one unit in a strict grid is a Pop layout device as important as the comic panel."
+  ],
+  "borrow": [
+    "Repeat one product unit in a strict grid of cells separated by thin black rules.",
+    "Crop the grid at the edges of the container so that it reads as an endless pattern."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The label design is a Campbell’s trademark, and the print follows Andy Warhol’s work; rights are unverified."
+  },
+  "identifiers": {
+    "vam": "O1330466"
+  }
+}

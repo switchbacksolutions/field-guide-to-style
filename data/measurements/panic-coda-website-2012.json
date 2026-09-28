@@ -1,0 +1,177 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20120808132653if_/http://panic.com/coda/",
+  "title": "Coda 2",
+  "captured": "2012-08-08T13:27:00.570Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Chrono Regular",
+        "share": 0.82
+      },
+      {
+        "family": "Times",
+        "share": 0.07
+      },
+      {
+        "family": "Chrono Medium",
+        "share": 0.05
+      },
+      {
+        "family": "HelveticaNeue",
+        "share": 0.02
+      },
+      {
+        "family": "Chrono Bold",
+        "share": 0.02
+      },
+      {
+        "family": "Chrono Light",
+        "share": 0.01
+      }
+    ],
+    "baseSize": 15,
+    "maxSize": 40,
+    "sizeRange": 2.67,
+    "scaleRatio": 1.11,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.09,
+    "monoShare": 0,
+    "centerShare": 0.26
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ebebeb",
+        "share": 0.615
+      },
+      {
+        "hex": "#000000",
+        "share": 0.148
+      },
+      {
+        "hex": "#646464",
+        "share": 0.1
+      },
+      {
+        "hex": "#414141",
+        "share": 0.029
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.01
+      },
+      {
+        "hex": "#9b004f",
+        "share": 0.008
+      },
+      {
+        "hex": "#293189",
+        "share": 0.007
+      },
+      {
+        "hex": "#3786bf",
+        "share": 0.007
+      },
+      {
+        "hex": "#4e00a8",
+        "share": 0.007
+      },
+      {
+        "hex": "#2c5b92",
+        "share": 0.006
+      }
+    ],
+    "background": "#ebebeb",
+    "text": "#000000",
+    "contrast": 17.6,
+    "chroma": 0.05,
+    "lightness": 0.66,
+    "chromaticShare": 0.09,
+    "accentChroma": 0.53,
+    "distinct": 4,
+    "hues": 5,
+    "imageShare": 0.46,
+    "gradientShare": 0.05,
+    "patternShare": 0.26
+  },
+  "surface": {
+    "boxes": 39,
+    "radius": {
+      "median": 0,
+      "max": 10,
+      "roundShare": 0.05
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0.18,
+      "hardShare": 0,
+      "medianBlur": 5,
+      "medianOffset": 2
+    },
+    "gradientShare": 0.31,
+    "patternShare": 0.64,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ebebeb",
+        "share": 0.236
+      },
+      {
+        "hex": "#000000",
+        "share": 0.18
+      },
+      {
+        "hex": "#2d3655",
+        "share": 0.155
+      },
+      {
+        "hex": "#242b43",
+        "share": 0.146
+      },
+      {
+        "hex": "#5eb71c",
+        "share": 0.045
+      },
+      {
+        "hex": "#1b2034",
+        "share": 0.033
+      },
+      {
+        "hex": "#1f578f",
+        "share": 0.027
+      },
+      {
+        "hex": "#2099d3",
+        "share": 0.025
+      },
+      {
+        "hex": "#bcbebd",
+        "share": 0.023
+      },
+      {
+        "hex": "#dddedf",
+        "share": 0.022
+      }
+    ],
+    "background": "#ebebeb",
+    "chroma": 0.12,
+    "lightness": 0.44,
+    "chromaticShare": 0.13,
+    "accentChroma": 0.59,
+    "distinct": 10,
+    "hues": 5
+  }
+}

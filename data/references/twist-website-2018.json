@@ -1,0 +1,66 @@
+{
+  "id": "twist-website-2018",
+  "title": "Twist website, 2018",
+  "type": "website",
+  "medium": "website",
+  "lede": "The 2018 home page of Doist’s team chat app: blue, long-limbed figures lounge on pale cloud shapes with laptops beside a plain headline.",
+  "summary": "Blue-skinned, long-limbed figures on pale clouds, in a nearly single-hue blue palette. 2018.",
+  "source": {
+    "url": "https://twist.com/",
+    "label": "Twist",
+    "archive": "https://web.archive.org/web/20181017050903/https://twist.com/"
+  },
+  "creator": {
+    "name": "Doist",
+    "url": "https://doist.com/"
+  },
+  "made": "2018 (Wayback capture of 17 October 2018)",
+  "moods": [
+    "calm",
+    "friendly",
+    "airy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. No cookie box covers the page. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Clear: figures with blue skin, tiny heads, and long bending limbs work on laptops, drawn in flat fills without outlines. The palette is almost all blue, so the pixel hue count is low.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "The live Twist site has changed since this 2018 capture.",
+  "observed": [
+    "The headline “Fewer notifications.” is dark grey and “More meaningful teamwork.” is bright blue, in a medium-weight sans-serif.",
+    "Below it, a square-cornered blue button reads “Get Started - It’s free”.",
+    "To the right, three figures sit on pale blue cloud blobs with laptops. Their skin is blue or pale blue, their heads are small, and one figure’s legs are longer than its torso.",
+    "Yellow and green accents appear as a leaf, a plant, a note, and a laptop; thin line clouds and a clock float around the scene.",
+    "The page is white; a dark blue band starts at the bottom of the viewport."
+  ],
+  "interpretation": [
+    "The illustration is textbook Corporate Memphis, but the interface around it is not rounded: the measurement finds a median radius of 0 and small shadows on 23% of boxes. In 2018 the style lived in the illustration, not in the CSS."
+  ],
+  "borrow": [
+    "Use one hue family for skin, clothes, and background blobs, and add a single warm accent such as yellow for objects."
+  ],
+  "images": [
+    {
+      "file": "assets/references/twist-website-2018.jpg",
+      "alt": "Twist home page, 2018: headline “Fewer notifications. More meaningful teamwork.” on the left and three blue-skinned, long-limbed figures with laptops sitting on pale cloud shapes on the right.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [Twist](https://web.archive.org/web/20181017050903/https://twist.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  }
+}

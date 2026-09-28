@@ -1,0 +1,53 @@
+{
+  "id": "material-design-lite-2015",
+  "title": "Material Design Lite",
+  "type": "product",
+  "medium": "software",
+  "lede": "Google’s 2015 library of Material components in plain HTML, CSS, and JavaScript, for websites that did not use a framework.",
+  "summary": "Google’s framework-free Material component library, with dashboard, blog, and portfolio templates. 2015.",
+  "source": {
+    "url": "https://github.com/google/material-design-lite",
+    "label": "GitHub: google/material-design-lite"
+  },
+  "creator": {
+    "name": "Google"
+  },
+  "made": "2015 (repository created 14 January 2015)",
+  "moods": [
+    "orderly",
+    "systematic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Opened the template previews *dashboard_2x.jpg* and *general_2x.jpg* (1786 × 966 each) from the repository’s docs/_assets/templates folder on 28 September 2026. Not stored. getmdl.io returned HTTP 403 to scripts."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "A Google implementation of the style for the web. Its templates show drawers, cards with soft shadows, tab bars with an accent underline, and Roboto.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The README describes MDL as “an implementation of Material Design components in vanilla CSS, JS, and HTML” and says that it is now in limited support, with development moved to Material Components for the web. It also says that the old getmdl.io documentation site is gone. [README](https://github.com/google/material-design-lite).",
+    "The GitHub API gives the license as Apache 2.0 and the creation date as 14 January 2015."
+  ],
+  "observed": [
+    "Dashboard template: a dark blue-gray navigation drawer with a round avatar, white Roboto labels, and a cyan band that marks the selected item.",
+    "The content area is pale gray with a white header bar and a white card that has a soft shadow and square corners. The card holds two flat ring charts in lime green and cyan.",
+    "General template: a full-bleed photo above a blue-gray tab bar with all-capital labels, where a pink underline marks the active tab."
+  ],
+  "interpretation": [
+    "The templates show how the style moved from phones to the web: the drawer and app bar stay, and the card becomes the main unit of a desktop layout."
+  ],
+  "borrow": [
+    "Mark the active tab with a 2 px accent underline, and keep the tab labels in medium all-capital letters on the primary color."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The repository is under the Apache License 2.0. The general template’s photograph may have its own rights, so the catalogue links to the previews only."
+  }
+}

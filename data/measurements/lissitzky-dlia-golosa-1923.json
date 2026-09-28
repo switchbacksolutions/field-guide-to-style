@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lissitzky-dlia-golosa-1923.jpg",
+  "captured": "2026-09-28T17:40:29+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#222529",
+        "share": 0.236
+      },
+      {
+        "hex": "#c9c3b3",
+        "share": 0.226
+      },
+      {
+        "hex": "#f1f3ee",
+        "share": 0.208
+      },
+      {
+        "hex": "#131418",
+        "share": 0.127
+      },
+      {
+        "hex": "#d2cec1",
+        "share": 0.046
+      },
+      {
+        "hex": "#c14944",
+        "share": 0.022
+      },
+      {
+        "hex": "#646365",
+        "share": 0.015
+      },
+      {
+        "hex": "#a88f79",
+        "share": 0.014
+      },
+      {
+        "hex": "#e5dbd3",
+        "share": 0.013
+      },
+      {
+        "hex": "#b0a194",
+        "share": 0.012
+      }
+    ],
+    "background": "#222529",
+    "chroma": 0.07,
+    "lightness": 0.53,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.45,
+    "distinct": 6,
+    "hues": 1
+  }
+}

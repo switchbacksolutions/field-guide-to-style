@@ -1,0 +1,55 @@
+{
+  "id": "neumorphism-day-and-night-webflow-website",
+  "title": "Neumorphism Day and Night",
+  "type": "website",
+  "medium": "website",
+  "lede": "A Webflow experiment with raised buttons and a day/night toggle under a rising yellow sun.",
+  "summary": "Webflow experiment: raised gray buttons and tabs, a soft toggle, and a white content card.",
+  "source": {
+    "url": "https://neumorphism-day-and-night.webflow.io/",
+    "label": "Neumorphism Day and Night"
+  },
+  "moods": [
+    "soft",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "neumorphism",
+      "note": "Borderline. The buttons, toggle, and inactive tabs are clear neumorphic shapes on a pale gray surface, but the main content card is plain white with a drop shadow.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A pale gray page with a large yellow sun rising behind a curved horizon at the top.",
+    "Five raised buttons in the page color (Launch, Menu, Apple, Play, and an icon button), each with a white glow above and a gray shadow below.",
+    "A soft pill toggle labeled “Day”, and three tabs: the active one white, the others raised gray.",
+    "A large white card with placeholder rich text fills the lower half."
+  ],
+  "interpretation": [
+    "The controls follow the style closely, but the white card breaks the single-surface rule: it floats instead of rising, as a Material card would.",
+    "Measured: shadows on 87 % of boxes (median offset 9.9 px, median blur 15 px, none hard), borders on 33 %, median radius 20 px."
+  ],
+  "images": [
+    {
+      "file": "assets/references/neumorphism-day-and-night-webflow-website.jpg",
+      "alt": "Neumorphism Day and Night page: a yellow sun rising over a pale gray surface, five raised gray buttons, a soft day/night toggle, three tabs, and a white text card.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [Neumorphism Day and Night](https://neumorphism-day-and-night.webflow.io/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s authors. Screenshot captured for commentary."
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hapshash-move-pink-floyd-ufo-poster-1967",
+  "title": "The Move and Pink Floyd at UFO",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Hapshash and the Coloured Coat’s screen print for the UFO club, London, 1967: a winged woman falling through gold sunburst rays, with lettering that melts from magenta to yellow.",
+  "summary": "Hapshash and the Coloured Coat, 1967. Gold sunburst on white, with rainbow-blended swollen lettering.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O129217/",
+    "label": "Victoria and Albert Museum: E.1708-1991"
+  },
+  "creator": {
+    "name": "Hapshash and the Coloured Coat (Michael English and Nigel Waymouth)",
+    "url": "https://en.wikipedia.org/wiki/Hapshash_and_the_Coloured_Coat"
+  },
+  "made": "1967 (The Move on 26 May, Pink Floyd on 2 June)",
+  "moods": [
+    "hallucinatory",
+    "radiant",
+    "fluid"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the V&A image of object E.1708-1991 (IIIF, 1067 × 1600 px) to a scratch folder and inspected it. The V&A image shows the sheet rotated 180°; the observations below use reading orientation, with the imprint at top left. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "The London branch of the style: swollen, melting lettering with a two-ink rainbow blend, radiating rays, and Art Nouveau patterning. Partial fit on color: much white paper and a metallic gold instead of complements.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A catalogues it as a silkscreen poster by Michael English and Nigel Waymouth (Hapshash and the Coloured Coat) for The Move and Pink Floyd at UFO, Great Britain, 1967. It describes “pink through orange to yellow rainbow lettering with gold on white ground” and an upside-down woman with butterfly wings. The inscription at top left reads “1007 © UFO 1967”. [V&A](https://collections.vam.ac.uk/item/O129217/).",
+    "Hapshash’s silkscreen posters advertised London happenings, clubs, and concerts and helped start the sale of posters as art. The V&A owns many originals and held the retrospective “Cosmic Visions: Psychedelic Posters from the 1960s” in 2000–2001. [Wikipedia](https://en.wikipedia.org/wiki/Hapshash_and_the_Coloured_Coat)."
+  ],
+  "observed": [
+    "Broad rays of metallic gold radiate from the center of the sheet across white paper.",
+    "A woman in white silhouette falls head-down through the middle. Her butterfly wings and robe are filled with scale, bubble, and droplet patterns cut out of the gold.",
+    "Two blocks of swollen, rounded lettering sit lower left and lower right. Each blends from magenta at the top through orange to yellow at the bottom.",
+    "Sprays of fine gold dots soften the edges of the rays near the figure.",
+    "There is no rectangle or frame. The rays run off every edge."
+  ],
+  "interpretation": [
+    "The magenta-to-yellow lettering is the split-fountain rainbow effect that the rubric names, done in screen print. It carries all the color on a sheet that is otherwise gold and white.",
+    "The sunburst is the radiating-ripple motif in its simplest form, a useful background for a hero area."
+  ],
+  "borrow": [
+    "Run one warm two-color blend through the display lettering and keep everything else flat.",
+    "Use a full-bleed sunburst of broad rays as the ground behind a central figure.",
+    "Fill a silhouette with a repeating scale or bubble pattern instead of shading."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The V&A image is © Victoria and Albert Museum, London, and the design is in copyright. Michael English died in 2009; Nigel Waymouth is alive."
+  },
+  "identifiers": {
+    "vam": "O129217",
+    "vam-accession": "E.1708-1991"
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

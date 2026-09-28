@@ -1,0 +1,64 @@
+{
+  "id": "flying-eyeball-hendrix-poster-1968",
+  "title": "Jimi Hendrix, John Mayall, Albert King (Flying Eyeball)",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Rick Griffin’s first Fillmore poster, February 1968: a winged eyeball in a ring of flames, under gothic, dripping lettering on a red ground.",
+  "summary": "Rick Griffin, 1968. A winged eyeball in a flaming blue circle, with gold-outlined black lettering on red.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1376448/",
+    "label": "Victoria and Albert Museum: S.169-2021"
+  },
+  "creator": {
+    "name": "Rick Griffin",
+    "url": "https://en.wikipedia.org/wiki/Rick_Griffin"
+  },
+  "made": "1968 (concerts 1–4 February)",
+  "moods": [
+    "hallucinatory",
+    "saturated",
+    "macabre"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the V&A image of object S.169-2021 (IIIF, 1067 × 1600 px) to a scratch folder and inspected it. The image is not stored."
+  },
+  "styles": [
+    {
+      "id": "psychedelic-art",
+      "note": "A clear example: saturated red over the whole sheet against a blue central circle, a symmetrical medallion composition, and ornate lettering that is hard to read at a glance.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes a “winged eyeball with three tentacles, one gripping a fanged skull, against a sky blue background within a central circle edged with flames”, with the rest of the poster red and “elaborate black and gold lettering”. It advertised the Jimi Hendrix Experience, John Mayall and the Bluesbreakers, and Albert King. [V&A](https://collections.vam.ac.uk/item/O1376448/).",
+    "Griffin (1944–1991) began designing for Bill Graham in February 1968; the Flying Eyeball was the first of these posters and became one of his best-known works. [Wikipedia](https://en.wikipedia.org/wiki/Rick_Griffin)."
+  ],
+  "observed": [
+    "The whole ground is a saturated red. BILL GRAHAM PRESENTS IN SAN FRANCISCO sits in small black capitals at the top.",
+    "JIMI HENDRIX and JOHN MAYALL are drawn in heavy black letters with gold outlines and inner gold details, in a spiky, gothic manner. EXPERIENCE and AND THE BLUESBREAKERS are thinner, looser lines.",
+    "A large circle of sky blue at the center is ringed by red, orange, and yellow flames that break its edge.",
+    "A white eyeball with a blue iris and red veins has white wings. Green tentacles curl around it; one holds a skull at left.",
+    "ALBERT KING and a large numeral 4 sit below the circle. The dates and venues are split left and right of the 4 in the same hand lettering."
+  ],
+  "interpretation": [
+    "Red and blue are not strict complements, but the saturated red field against the blue circle has the same pull. The composition is a single medallion on the vertical axis, as the rubric describes.",
+    "The gold outline on black letters is the echo-outline device done with a metallic ink."
+  ],
+  "borrow": [
+    "Put one saturated circle of a cool color inside a warm full-bleed ground.",
+    "Outline heavy display letters in a second, lighter color to separate them from a busy ground.",
+    "Split secondary information into mirrored columns around a central numeral or symbol."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The V&A image is © Victoria and Albert Museum, London, and the design is in copyright. Rick Griffin died in 1991."
+  },
+  "identifiers": {
+    "vam": "O1376448",
+    "vam-accession": "S.169-2021"
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28"
+}

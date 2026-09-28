@@ -1,0 +1,137 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20181017050903if_/https://twist.com/",
+  "title": "Twist – Calm, Efficient Team Communication",
+  "captured": "2018-10-17T05:09:19.107Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Graphik Web",
+        "share": 1
+      }
+    ],
+    "baseSize": 18,
+    "maxSize": 48,
+    "sizeRange": 2.67,
+    "scaleRatio": 1.33,
+    "headingWeight": 500,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.12
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.785
+      },
+      {
+        "hex": "#6d6d6f",
+        "share": 0.138
+      },
+      {
+        "hex": "#9a9a9a",
+        "share": 0.047
+      },
+      {
+        "hex": "#316fea",
+        "share": 0.016
+      },
+      {
+        "hex": "#474747",
+        "share": 0.014
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#6d6d6f",
+    "contrast": 5.2,
+    "chroma": 0.01,
+    "lightness": 0.89,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.73,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0.28,
+    "gradientShare": 0.46,
+    "patternShare": 0.17
+  },
+  "surface": {
+    "boxes": 31,
+    "radius": {
+      "median": 0,
+      "max": 6,
+      "roundShare": 0.26
+    },
+    "border": {
+      "share": 0.52,
+      "medianWidth": 1.5
+    },
+    "shadow": {
+      "share": 0.23,
+      "hardShare": 0,
+      "medianBlur": 3,
+      "medianOffset": 1
+    },
+    "gradientShare": 0.19,
+    "patternShare": 0.13,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.8
+      },
+      {
+        "hex": "#eef5ff",
+        "share": 0.052
+      },
+      {
+        "hex": "#1453cd",
+        "share": 0.031
+      },
+      {
+        "hex": "#306ee8",
+        "share": 0.02
+      },
+      {
+        "hex": "#81aaeb",
+        "share": 0.014
+      },
+      {
+        "hex": "#4080ec",
+        "share": 0.013
+      },
+      {
+        "hex": "#9fb9e6",
+        "share": 0.009
+      },
+      {
+        "hex": "#628fe1",
+        "share": 0.007
+      },
+      {
+        "hex": "#d8e6f4",
+        "share": 0.006
+      },
+      {
+        "hex": "#c8daf4",
+        "share": 0.005
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.07,
+    "lightness": 0.94,
+    "chromaticShare": 0.1,
+    "accentChroma": 0.64,
+    "distinct": 3,
+    "hues": 2
+  }
+}

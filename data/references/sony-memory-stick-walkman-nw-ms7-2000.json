@@ -1,0 +1,60 @@
+{
+  "id": "sony-memory-stick-walkman-nw-ms7-2000",
+  "title": "Sony Memory Stick Walkman NW-MS7",
+  "type": "product",
+  "medium": "product",
+  "lede": "An early digital music player shaped as a flattened silver capsule, with a translucent blue front and chrome earbuds.",
+  "summary": "Silver capsule body, translucent blue face, wide techno “MS WALKMAN” lettering, chrome earbuds. Sony, 2000.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O60018/sony-memory-stick-walkman-nw-personal-stereo-sony-corporation/",
+    "label": "V&A: Sony Memory Stick Walkman NW-MS7, W.665:1 to 14-2001"
+  },
+  "creator": {
+    "name": "Sony Corporation"
+  },
+  "made": "2000 (V&A)",
+  "moods": [
+    "futuristic",
+    "shiny",
+    "techno-optimistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A photograph of object W.665:1 to 14-2001 (image 2006AF4293, 1271 × 1600) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Clear: silver metallic plastic, a translucent blue panel, a rounded capsule form, chrome earbuds, and wide rounded techno lettering.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes a “flattened cylinder form on grey/silver plastic, incorporating a LED display”. The player stored up to 80 minutes of music on a Memory Stick instead of a cassette. [V&A W.665-2001](https://collections.vam.ac.uk/item/O60018/sony-memory-stick-walkman-nw-personal-stereo-sony-corporation/)."
+  ],
+  "observed": [
+    "The body is a long rounded capsule in pale silver plastic. The ends are rounded and the sides curve.",
+    "A translucent royal-blue panel runs down the front. It narrows in the middle and holds the LCD, the name, and a window for the Memory Stick.",
+    "“MS WALKMAN” is set in wide, rounded, extended capitals; smaller labels such as “PORTABLE MEMORY STICK PLAYER” are in small spaced capitals.",
+    "The earbuds are polished chrome with black rims and show sharp highlight lines."
+  ],
+  "interpretation": [
+    "This is the chrome side of Y2K in a product: silver as the base material, one saturated translucent color, and a wide techno wordmark.",
+    "The hourglass-shaped blue panel on the capsule reads like a device interface drawn as an object."
+  ],
+  "borrow": [
+    "Put a translucent color panel on a silver base, and taper it so the base shows at the edges.",
+    "Set a short product name in wide rounded capitals, with small spaced capitals as secondary labels.",
+    "Use polished chrome with one hard highlight line for small accessories or icons."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is © Victoria and Albert Museum, London; the product design and the Walkman name belong to Sony."
+  },
+  "identifiers": {
+    "vam": "O60018"
+  }
+}

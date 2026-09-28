@@ -1,0 +1,63 @@
+{
+  "id": "warhol-marilyn-screenprint-1967",
+  "title": "Marilyn Monroe (Marilyn), shocking pink colourway",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "One of Andy Warhol’s ten 1967 Marilyn screenprints: a publicity photograph reduced to black, laid over flat blocks of hot pink, yellow, and peach.",
+  "summary": "A face screenprinted in black over flat hot pink, yellow, and peach. Andy Warhol, 1967.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O72301/",
+    "label": "V&A: Marilyn Monroe (Marilyn), CIRC.123-1968"
+  },
+  "creator": {
+    "name": "Andy Warhol",
+    "url": "https://www.wikidata.org/wiki/Q5603"
+  },
+  "made": "1967",
+  "moods": [
+    "brash",
+    "glamorous",
+    "commercial"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the V&A image of its copy, CIRC.123-1968 (1200 × 1198 px), in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "pop-art",
+      "note": "The Warhol branch of the style: flat off-register color blocks under a black photographic screen, in hot pink and yellow instead of process primaries. It has no dots, outlines, or comic devices, so it fits the color grammar more than the panel grammar.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A records a screenprint on paper, 91.4 × 91.6 cm, printed by Aetna Silkscreen Products Inc./Du-Art Displays and published by Factory Additions, New York, 1967. The print is one of a portfolio of ten colourways; this one is described as shocking pink, yellow, and peach. [V&A](https://collections.vam.ac.uk/item/O72301/).",
+    "The V&A notes that every print and painting Warhol made of Marilyn used the same publicity photograph by Gene Kornman for the 1953 film *Niagara*. [V&A](https://collections.vam.ac.uk/item/O72301/).",
+    "The painted version of the motif is [Marilyn Diptych](ref:warhol-marilyn-diptych-1962)."
+  ],
+  "observed": [
+    "The background is a flat hot pink that fills the square to the edges.",
+    "The hair is a flat yellow shape; the face is a flat peach shape with no modeling.",
+    "A black screen of the photograph gives the eyes, brows, nose, mouth, and the shadowed side of the face and neck.",
+    "Eyelids are a brighter pink block, and the lips are dark red under the black.",
+    "The color blocks do not align exactly with the black layer: the yellow runs past the hair outline at the right edge."
+  ],
+  "interpretation": [
+    "Warhol replaces the drawn key line with a black photographic layer, and the process primaries with a hotter palette. The style record’s Warhol variant comes from works like this.",
+    "The misregistration is part of the look: flat color and line are two separate layers that do not quite meet."
+  ],
+  "borrow": [
+    "For a Warhol variant, set a black high-contrast image over flat blocks of hot pink, yellow, and peach.",
+    "Offset one color block a few pixels from the black layer to suggest a printing misregister."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is © The Andy Warhol Foundation for the Visual Arts; Warhol died in 1987."
+  },
+  "identifiers": {
+    "vam": "O72301"
+  }
+}

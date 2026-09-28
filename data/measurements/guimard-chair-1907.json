@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/guimard-chair-1907.jpg",
+  "captured": "2026-09-28T17:14:35+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#aca8a7",
+        "share": 0.187
+      },
+      {
+        "hex": "#bbb7b6",
+        "share": 0.149
+      },
+      {
+        "hex": "#8a8785",
+        "share": 0.111
+      },
+      {
+        "hex": "#3c3939",
+        "share": 0.102
+      },
+      {
+        "hex": "#9f9c9c",
+        "share": 0.089
+      },
+      {
+        "hex": "#653b23",
+        "share": 0.039
+      },
+      {
+        "hex": "#4e3122",
+        "share": 0.039
+      },
+      {
+        "hex": "#4f4d4b",
+        "share": 0.037
+      },
+      {
+        "hex": "#5d5957",
+        "share": 0.035
+      },
+      {
+        "hex": "#774727",
+        "share": 0.034
+      }
+    ],
+    "background": "#aca8a7",
+    "chroma": 0.06,
+    "lightness": 0.49,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.34,
+    "distinct": 15,
+    "hues": 2
+  }
+}

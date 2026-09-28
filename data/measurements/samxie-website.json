@@ -1,0 +1,133 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://samxie.net/",
+  "title": "Sam Xie",
+  "captured": "2026-09-28T17:34:52.695Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Inter",
+        "share": 1
+      },
+      {
+        "family": "Arial",
+        "share": 0
+      }
+    ],
+    "baseSize": 17.1,
+    "maxSize": 90,
+    "sizeRange": 5.26,
+    "scaleRatio": 1.95,
+    "headingWeight": 600,
+    "bodyWeight": 400,
+    "headingTracking": -0.009,
+    "uppercaseShare": 0.09,
+    "monoShare": 0,
+    "centerShare": 0.02
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#1d1d1f",
+        "share": 0.715
+      },
+      {
+        "hex": "#efefef",
+        "share": 0.224
+      },
+      {
+        "hex": "#dddddd",
+        "share": 0.057
+      },
+      {
+        "hex": "#000000",
+        "share": 0.003
+      }
+    ],
+    "background": "#efefef",
+    "text": "#1d1d1f",
+    "contrast": 14.6,
+    "chroma": 0.01,
+    "lightness": 0.34,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 3,
+    "hues": 0,
+    "imageShare": 0.93,
+    "gradientShare": 0.07,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 14,
+    "radius": {
+      "median": 20,
+      "max": 21,
+      "roundShare": 1
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0.71,
+      "hardShare": 0,
+      "medianBlur": 4,
+      "medianOffset": 4.5
+    },
+    "gradientShare": 0.5,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#dddddd",
+        "share": 0.641
+      },
+      {
+        "hex": "#e8e8e8",
+        "share": 0.289
+      },
+      {
+        "hex": "#cfcfcf",
+        "share": 0.028
+      },
+      {
+        "hex": "#c1c1c1",
+        "share": 0.023
+      },
+      {
+        "hex": "#a3a3a3",
+        "share": 0.01
+      },
+      {
+        "hex": "#222223",
+        "share": 0.006
+      },
+      {
+        "hex": "#7d7d7d",
+        "share": 0.004
+      },
+      {
+        "hex": "#ecdfbd",
+        "share": 0
+      },
+      {
+        "hex": "#f9f1cf",
+        "share": 0
+      }
+    ],
+    "background": "#dddddd",
+    "chroma": 0,
+    "lightness": 0.87,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 4,
+    "hues": 0
+  }
+}

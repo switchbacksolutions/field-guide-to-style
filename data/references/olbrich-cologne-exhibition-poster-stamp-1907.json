@@ -1,0 +1,75 @@
+{
+  "id": "olbrich-cologne-exhibition-poster-stamp-1907",
+  "title": "Poster stamp for the Cologne exhibition, 1907",
+  "type": "print",
+  "medium": "other",
+  "lede": "Joseph Maria Olbrich’s advertising stamp puts a tower in a diamond of laurel, and fits the exhibition text into ruled bands of squared capitals.",
+  "summary": "A laurel diamond over stacked, ruled bands of tightly packed capitals, in one gray ink. Joseph Maria Olbrich, 1907.",
+  "source": {
+    "url": "https://sammlung.mak.at/en/collect/werbemarke-zur-koelner-ausstellung-1907_276583",
+    "label": "MAK Collection Online: Werbemarke zur Kölner Ausstellung 1907, KI 21484-3-311"
+  },
+  "creator": {
+    "name": "Joseph Maria Olbrich",
+    "url": "https://en.wikipedia.org/wiki/Joseph_Maria_Olbrich"
+  },
+  "made": "1907",
+  "moods": [
+    "geometric",
+    "precise",
+    "refined"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the MAK photograph of the stamp MAK KI 21484-3-311 (1198 × 1680 px). The photograph is soft and shows JPEG blocking, so fine details of the laurel and the tower figure are uncertain."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vienna-secession",
+      "note": "Clear for the lettering and layout: symmetrical, framed, with capitals packed into ruled bands. It is a German commission by one of the founders of the Secession.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The MAK records the object as a poster stamp (Werbemarke) designed by Joseph Maria Olbrich in 1907, printed in collotype, 4.5 × 3.1 cm. The text reads “Mai / Kölner / October / Ausstellung / veranstaltet v. d. A. G. Flora / Kunst und Kunstgewerbe / wechselnde Ausstellungen”. It is part of an album of poster stamps from the Werner J. Schweiger collection. [MAK KI 21484-3-311](https://sammlung.mak.at/en/collect/werbemarke-zur-koelner-ausstellung-1907_276583).",
+    "Olbrich (1867–1908) was one of the founders of the Vienna Secession. [Wikipedia: Joseph Maria Olbrich](https://en.wikipedia.org/wiki/Joseph_Maria_Olbrich). He completed the Secession building in 1898. [Wikipedia: Secession Building](https://en.wikipedia.org/wiki/Secession_Building)."
+  ],
+  "observed": [
+    "The stamp is printed in one dark gray ink on pale paper, with perforated edges.",
+    "A border of small scallops and dots frames the upper field.",
+    "A diamond (a square set on its point) made of dense laurel leaves holds a tall tower with a figure on top, on the central axis.",
+    "Below, the text sits in five ruled bands. “KÖLNER” and “AUSSTELLUNG” are large; smaller capitals in the lower bands fill each band from edge to edge.",
+    "“MAI” and “OCTOBER” sit in small boxes at the two ends of the “KÖLNER” band. The small words “v. d. A. G.” and “und” are set at a smaller size between larger words.",
+    "The capitals are narrow and geometric; the U is drawn as a V."
+  ],
+  "interpretation": [
+    "Olbrich uses the same devices as the Vienna posters: a frame, a central emblem, and text blocks in which letter size and width change so that every line is full. The laurel echoes the laurel dome of his Secession building.",
+    "Because it is a single-colour miniature, the stamp shows how much of the style is carried by structure and lettering alone."
+  ],
+  "borrow": [
+    "Give a small badge or card a central emblem in a square set on its point, with the text in full-width ruled bands below it.",
+    "Set small connecting words (and, of, from) in a much smaller size between large words, so the line stays justified."
+  ],
+  "images": [
+    {
+      "file": "assets/references/olbrich-cologne-exhibition-poster-stamp-1907.jpg",
+      "alt": "Gray perforated poster stamp: a diamond of laurel leaves around a tower, above ruled bands of capitals reading Mai, Kölner, October, Ausstellung, veranstaltet v. d. A. G. Flora, Kunst und Kunstgewerbe, wechselnde Ausstellungen.",
+      "width": 1141,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Joseph Maria Olbrich, poster stamp for the Cologne exhibition, 1907. MAK Vienna, KI 21484-3-311, image from the [MAK Collection Online](https://sammlung.mak.at/en/collect/werbemarke-zur-koelner-ausstellung-1907_276583), Public Domain Mark 1.0.",
+      "original": "https://mak-media.azureedge.net/l/f57a26b7ec3c1adcff879f5e0a809f45.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The MAK marks this image with the [Public Domain Mark 1.0](https://creativecommons.org/publicdomain/mark/1.0/). Joseph Maria Olbrich died in 1908, and the stamp was issued in 1907, so the work is in the public domain in Germany, Austria, and the United States."
+  },
+  "identifiers": {
+    "mak": "KI 21484-3-311"
+  }
+}

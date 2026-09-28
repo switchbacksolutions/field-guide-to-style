@@ -1,0 +1,69 @@
+{
+  "id": "elegant-themes-flat-icons-2013",
+  "title": "Elegant Themes “Beautiful Flat Icons”",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A free set of 192 flat icons from 2013: objects built from solid shapes on colored circles, with short solid shadows.",
+  "summary": "Round flat icons in muted blue, orange, red, teal, and slate, each object with a short hard-edged shadow. GPL, 2013.",
+  "source": {
+    "url": "https://www.elegantthemes.com/blog/freebie-of-the-week/beautiful-flat-icons-for-free",
+    "label": "Elegant Themes blog",
+    "archive": "https://archive.is/Uc2Ni"
+  },
+  "creator": {
+    "name": "Elegant Themes",
+    "url": "https://www.elegantthemes.com/"
+  },
+  "made": "2013",
+  "moods": [
+    "friendly",
+    "clean",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded eight icons from [Category:Elegant Themes Circle Icons](https://commons.wikimedia.org/wiki/Category:Elegant_Themes_Circle_Icons) as 330 px renders of the SVG files (calendar, camera, chat, lightbulb, mail, music, rocket, tools), inspected them, and stored them as one contact sheet (1420 × 720) made for this record. Publication date and license read on the Elegant Themes post on 2026-09-28."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "flat-design",
+      "note": "Clear for the imagery facet: single objects drawn in solid fills on solid circles, with no gradients or gloss.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The post by Nick Roach, published 16 October 2013, offers “a 192 piece set of flat icons” in “full color and single color” versions, “completely free and Open Source under the GPL”.",
+    "Wikimedia Commons holds the SVG files under GPL-2.0 with the source and date above ([example](https://commons.wikimedia.org/wiki/File:Circle-icons-camera.svg))."
+  ],
+  "observed": [
+    "Each icon is a solid circle in muted blue, orange, red, teal, or dark slate.",
+    "The objects (a calendar, a camera, a speech bubble, a light bulb, an envelope, a music note, a rocket, crossed tools) are built from solid shapes in white, cream, slate, red, and yellow.",
+    "Every object casts a short shadow down and to the right in a darker tint of the circle color. The shadow has a hard edge and no blur.",
+    "There are no gradients, highlights, or outlines. Corners of the shapes are slightly rounded."
+  ],
+  "interpretation": [
+    "Measured with `tools/image-traits.py`; see the measurement file. The palette is softer than the Flat UI kit, which shows that flat design did not require fully saturated color.",
+    "The short solid shadows are the milder form of the 2013 long-shadow trend that NN/g criticises ([NN/g 2015](ref:nngroup-flat-design-article-2015))."
+  ],
+  "borrow": [
+    "Draw icons as one object on one solid circle, with a single hard shadow in a darker tint of the circle color when you need a hint of depth."
+  ],
+  "images": [
+    {
+      "file": "assets/references/elegant-themes-flat-icons-2013.png",
+      "alt": "Eight round flat icons on white: a calendar on blue, a camera on orange, a speech bubble on blue, a light bulb on red, an envelope on blue, a music note on teal, a rocket on dark slate, and crossed tools on teal, each object with a short solid shadow.",
+      "width": 1420,
+      "height": 720,
+      "kind": "source-image",
+      "caption": "Eight icons from the set, arranged for this record from the [Wikimedia Commons SVG files](https://commons.wikimedia.org/wiki/Category:Elegant_Themes_Circle_Icons) (GPL-2.0, Elegant Themes).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "GPL-2.0",
+    "statement": "Elegant Themes released the icons as open source under the GPL ([post](https://www.elegantthemes.com/blog/freebie-of-the-week/beautiful-flat-icons-for-free)); Wikimedia Commons lists them under GPL-2.0. Credit: Elegant Themes. The contact sheet is a derivative arrangement under the same license."
+  }
+}

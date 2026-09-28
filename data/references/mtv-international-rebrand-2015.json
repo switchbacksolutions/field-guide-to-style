@@ -1,0 +1,50 @@
+{
+  "id": "mtv-international-rebrand-2015",
+  "title": "MTV International rebrand, 2015",
+  "type": "image",
+  "medium": "other",
+  "lede": "MTV’s international on-air identity of June 2015, which critics described as pastel, badly 3D-modelled, and borrowed from vaporwave and seapunk.",
+  "summary": "Broadcast identity with pastel 3D idents, drawn from Tumblr microcultures. June 2015.",
+  "source": {
+    "url": "https://www.vice.com/en/article/53989n/what-the-hell-is-mtvs-new-rebrand-about",
+    "label": "Motherboard: What the Hell Is MTV’s New Rebrand About?"
+  },
+  "creator": {
+    "name": "MTV International (creative lead Sean Saylor, per Motherboard)"
+  },
+  "made": "June 25, 2015",
+  "moods": [
+    "frenetic",
+    "ironic",
+    "commercial"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Relies on Motherboard and Wikipedia. No still or video of the idents was inspected."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "vaporwave",
+      "note": "The best-documented corporate adoption: Wikipedia says the rebrand was “heavily inspired by vaporwave and seapunk.” Its appearance is documented, not observed here.",
+      "basis": "agent",
+      "qualifier": "corporate adoption"
+    }
+  ],
+  "context": [
+    "Clinton Nguyen, Motherboard, June 25, 2015: the new look is “pastel-swatched, bad 3D modeling, and visual features drawn directly from Tumblr-born microcultures,” with the slogan changed to “I am my MTV.” Sean Saylor, MTV’s vice-president of creative and marketing, is quoted on refreshing the look constantly. [Motherboard](https://www.vice.com/en/article/53989n/what-the-hell-is-mtvs-new-rebrand-about).",
+    "Wikipedia: on the same day that MTV International introduced the rebrand, Tumblr launched Tumblr TV “with an explicitly MTV-styled visual spin.” Motherboard’s Jordan Pearson wrote that the style’s cynical impulse is “co-opted and erased.” [Wikipedia: Vaporwave](https://en.wikipedia.org/wiki/Vaporwave)."
+  ],
+  "interpretation": [
+    "The point at which the style became a brand look for the kind of company it satirised. The criticism is part of the record: a corporate use of vaporwave reads as either knowing or tone-deaf."
+  ],
+  "next": [
+    "Find a still or archived ident at useful size and upgrade the evidence to observed."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Copyrighted broadcast identity. No image is stored here."
+  }
+}

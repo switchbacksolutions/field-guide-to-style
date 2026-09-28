@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/atomic-war-1-page-6-1952.jpg",
+  "captured": "2026-09-28T17:59:19+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#fae8d5",
+        "share": 0.208
+      },
+      {
+        "hex": "#51463a",
+        "share": 0.138
+      },
+      {
+        "hex": "#f0bfac",
+        "share": 0.046
+      },
+      {
+        "hex": "#f7dc93",
+        "share": 0.035
+      },
+      {
+        "hex": "#bd9475",
+        "share": 0.034
+      },
+      {
+        "hex": "#9f785c",
+        "share": 0.033
+      },
+      {
+        "hex": "#896752",
+        "share": 0.032
+      },
+      {
+        "hex": "#efc18b",
+        "share": 0.032
+      },
+      {
+        "hex": "#6c6e68",
+        "share": 0.031
+      },
+      {
+        "hex": "#7b8a81",
+        "share": 0.031
+      }
+    ],
+    "background": "#fae8d5",
+    "chroma": 0.18,
+    "lightness": 0.63,
+    "chromaticShare": 0.13,
+    "accentChroma": 0.38,
+    "distinct": 24,
+    "hues": 2
+  }
+}

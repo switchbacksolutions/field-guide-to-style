@@ -1,0 +1,65 @@
+{
+  "id": "greiman-sci-arc-changing-concepts-poster-1986",
+  "title": "Sci-Arc “Changing Concepts” poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "April Greiman’s lecture-series poster for the Southern California Institute of Architecture: pixel type in black squares, dot-screen gradients, and a spaced-out subtitle.",
+  "summary": "Orange-to-blue gradient panels, a dotted Vitruvian figure, “sci-arc” in pixel letters on black squares, and “concepts of s p a c e”. April Greiman, 1986.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1176682/",
+    "label": "V&A: Sci-Arc, E.1500-2010"
+  },
+  "creator": {
+    "name": "April Greiman",
+    "url": "https://www.wikidata.org/wiki/Q4782033"
+  },
+  "made": "1986 (V&A)",
+  "moods": [
+    "kinetic",
+    "rebellious",
+    "layered",
+    "experimental"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A photograph of object E.1500-2010 (image 2011EN9653, 1200 × 1600) in a scratchpad copy. Not stored. The smallest text is not readable at this size."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "new-wave-typography",
+      "note": "Clear example from the late, digital phase: letterspacing, weight changes inside a phrase, dot screens, and overlapping panels, with early bitmap letters.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A holds the poster as E.1500-2010, colour offset lithograph, 91.5 × 61 cm, published in the United States in 1986, and describes it as the “Sci-Arc Changing Concepts poster”. [V&A E.1500-2010](https://collections.vam.ac.uk/item/O1176682/)."
+  ],
+  "observed": [
+    "Overlapping rectangles in orange, magenta, pale yellow, and cyan fade into each other as gradients.",
+    "A white dotted drawing of a Vitruvian figure in a circle and square fills a panel that is covered by a regular grid of dots.",
+    "A small orange-framed photograph of broken classical fragments sits at the centre.",
+    "“sci-arc” is set in blocky pixel letters, one letter on each black square, with wide gaps between the squares.",
+    "“changing / concepts of s p a c e / in architecture / and art” is set flush left in lines that change weight, and “space” is spaced out letter by letter.",
+    "A lecture list at the top right runs on thin rules, with black numbered squares and black bars at the right edge.",
+    "A column of small photographs runs down the left edge. Fields of scattered dots cover the orange ground."
+  ],
+  "interpretation": [
+    "The poster keeps the Basel habits (steps, bars, screens, spacing) and replaces film halftones with computer dot patterns and bitmap letters. It sits at the point where New Wave turns into digital design.",
+    "The pixel letters are clean, not distressed, so the counter-rule on damaged letterforms still holds."
+  ],
+  "borrow": [
+    "Set a short name one letter per solid square, with gaps between the squares.",
+    "Letterspace only one word in a phrase to make it the subject.",
+    "Put a list on hairline rules and end each row with a black bar at the page edge."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is © Victoria and Albert Museum, London. April Greiman is living, so the design is in copyright."
+  },
+  "identifiers": {
+    "vam": "O1176682"
+  }
+}

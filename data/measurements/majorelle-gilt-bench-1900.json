@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/majorelle-gilt-bench-1900.jpg",
+  "captured": "2026-09-28T17:14:35+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#a2a1a3",
+        "share": 0.337
+      },
+      {
+        "hex": "#b4b0b0",
+        "share": 0.314
+      },
+      {
+        "hex": "#bfbbbc",
+        "share": 0.078
+      },
+      {
+        "hex": "#97765c",
+        "share": 0.061
+      },
+      {
+        "hex": "#a88166",
+        "share": 0.033
+      },
+      {
+        "hex": "#886243",
+        "share": 0.03
+      },
+      {
+        "hex": "#ad8152",
+        "share": 0.027
+      },
+      {
+        "hex": "#9e6f47",
+        "share": 0.027
+      },
+      {
+        "hex": "#be9163",
+        "share": 0.025
+      },
+      {
+        "hex": "#94908f",
+        "share": 0.019
+      }
+    ],
+    "background": "#a2a1a3",
+    "chroma": 0.09,
+    "lightness": 0.63,
+    "chromaticShare": 0.12,
+    "accentChroma": 0.38,
+    "distinct": 9,
+    "hues": 2
+  }
+}

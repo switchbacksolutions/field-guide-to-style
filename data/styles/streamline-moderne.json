@@ -220,5 +220,11 @@
       "max": 0.1,
       "note": "Surfaces are flat enamel and paint, not glossy gradients. Provisional: set from the specimen."
     }
+  ],
+  "synthesis": [
+    "Architecture shows the style most completely. The [Aquatic Park Bathhouse](ref:aquatic-park-bathhouse-san-francisco) and the [Coca-Cola Building](ref:coca-cola-building-los-angeles) turn a building into a white ocean liner, with rounded decks, railings, and rows of portholes. The [Greyhound station in Huntington](ref:greyhound-bus-station-huntington) (1953) applies the same forms to a roadside brand, and [Flagey](ref:flagey-building-brussels) in Brussels gives a European version with continuous ribbon windows and a round tower.",
+    "Transport is the style’s source. The [Pioneer Zephyr](ref:pioneer-zephyr-1934), the [Chrysler Airflow](ref:chrysler-airflow-1934), and Loewy’s [S1 locomotive](ref:pennsylvania-railroad-s1-locomotive-1939) show where the rounded nose and the parallel speed lines come from: fluting, bumpers, and trim lines on moving machines. The [Zephyr brochure](ref:pioneer-zephyr-brochure-1934) shows the same lines used as a graphic device in 1934, trailing from script lettering.",
+    "Domestic products reduce the style to two signs: a block of horizontal bars and a circle. Bel Geddes’s [Patriot radio](ref:emerson-patriot-radio-1940) keeps a rectangular case, and Teague’s [Nocturne](ref:sparton-nocturne-radio-teague) and Binder’s [World’s Fair poster](ref:new-york-worlds-fair-poster-binder-1939) sit on the boundary with [Art Deco](style:art-deco): horizontal streamline elements inside a vertical, symmetrical composition. Cassandre’s Normandie poster, already in the catalogue under Art Deco, was not added here because its composition is symmetrical and vertical.",
+    "Websites in the style are rare. 49 candidate sites were tried and 37 captured (diners, streamline hotels and theaters, Art Deco societies, Airstream, and Wayback copies); only the [Silver Diner site](ref:silver-diner-website) was kept, as a borderline example. There, the speed lines are part of the logo image, so the page measures 0 on both pattern metrics, 0 radius, and 0.87 centered text. Real sites use the style as a logo and palette, not as layout. With no clear website examples, the fingerprint stays provisional and was not recalibrated."
   ]
 }

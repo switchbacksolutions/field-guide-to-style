@@ -1,0 +1,153 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://www.mondriaanhuis.nl/nl/",
+  "title": "Home - Mondriaanhuis",
+  "captured": "2026-09-28T17:28:53.801Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Pluto Sans",
+        "share": 1
+      }
+    ],
+    "baseSize": 17.4,
+    "maxSize": 38,
+    "sizeRange": 2.19,
+    "scaleRatio": 1.27,
+    "headingWeight": 400,
+    "bodyWeight": 300,
+    "headingTracking": 0.006,
+    "uppercaseShare": 0.24,
+    "monoShare": 0,
+    "centerShare": 0.16
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.719
+      },
+      {
+        "hex": "#000000",
+        "share": 0.099
+      },
+      {
+        "hex": "#87a4aa",
+        "share": 0.093
+      },
+      {
+        "hex": "#fdf7e7",
+        "share": 0.036
+      },
+      {
+        "hex": "#f0bb25",
+        "share": 0.024
+      },
+      {
+        "hex": "#b7242e",
+        "share": 0.013
+      },
+      {
+        "hex": "#666666",
+        "share": 0.006
+      },
+      {
+        "hex": "#a27b89",
+        "share": 0.005
+      },
+      {
+        "hex": "#184890",
+        "share": 0.004
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#000000",
+    "contrast": 21,
+    "chroma": 0.05,
+    "lightness": 0.83,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.69,
+    "distinct": 5,
+    "hues": 3,
+    "imageShare": 0.36,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 16,
+    "radius": {
+      "median": 0,
+      "max": 2,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.63,
+      "medianWidth": 3
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.06,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.541
+      },
+      {
+        "hex": "#869a9e",
+        "share": 0.045
+      },
+      {
+        "hex": "#96adb3",
+        "share": 0.036
+      },
+      {
+        "hex": "#aa9f91",
+        "share": 0.021
+      },
+      {
+        "hex": "#62564d",
+        "share": 0.021
+      },
+      {
+        "hex": "#53493c",
+        "share": 0.019
+      },
+      {
+        "hex": "#75777a",
+        "share": 0.019
+      },
+      {
+        "hex": "#b8b5af",
+        "share": 0.018
+      },
+      {
+        "hex": "#423a30",
+        "share": 0.018
+      },
+      {
+        "hex": "#958167",
+        "share": 0.018
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.07,
+    "lightness": 0.78,
+    "chromaticShare": 0.07,
+    "accentChroma": 0.51,
+    "distinct": 5,
+    "hues": 1
+  }
+}

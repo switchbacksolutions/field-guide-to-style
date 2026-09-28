@@ -1,0 +1,55 @@
+{
+  "id": "generalitat-catalunya-election-video-2024",
+  "title": "Generalitat de Catalunya election information video",
+  "type": "image",
+  "medium": "other",
+  "lede": "An animated public-information video for the 2024 Catalan parliamentary election: long-legged figures in patterned clothes stand on a globe or carry a giant highlighter.",
+  "summary": "Outlined, long-limbed figures with dotted and striped clothes on peach and pink. Government explainer video, 2024.",
+  "source": {
+    "url": "https://www.youtube.com/watch?v=0v9SzSRqxok",
+    "label": "YouTube: Eleccions al Parlament de Catalunya – 12 de maig | ERTA"
+  },
+  "creator": {
+    "name": "Generalitat de Catalunya, Departament d’Acció Exterior i Unió Europea"
+  },
+  "made": "2024",
+  "moods": [
+    "friendly",
+    "civic",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected two 1280 × 720 video frames on Wikimedia Commons: [frame 1](https://commons.wikimedia.org/wiki/File:Corporate_Memphis_-_Generalitat_de_Catalunya_(2024),_1.png) and [frame 2](https://commons.wikimedia.org/wiki/File:Corporate_Memphis_-_Generalitat_de_Catalunya_(2024),_2.png). The video itself was not watched. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Partial fit: the Commons uploader gives it as an example of the style, and the figures have small heads, long limbs, and oversized objects, but they have black outlines and dot and stripe patterns, which the rubric lists as counter-traits.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Commons description (in Catalan) calls it an example of the Corporate Memphis style used by the Generalitat de Catalunya in general videos in 2024, and gives the YouTube video as the source. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Corporate_Memphis_-_Generalitat_de_Catalunya_(2024),_1.png).",
+    "Wikipedia notes that by 2023 the style was spreading from tech to other sectors while its popularity fell. [Wikipedia](https://en.wikipedia.org/wiki/Corporate_Memphis)."
+  ],
+  "observed": [
+    "Frame 1: four figures stand around the curve of a dark plum globe on a flat peach background. Their bodies are tall and thin with small heads and small feet.",
+    "Their clothes have dot, check, and stripe patterns in pink and plum; every shape has a thin dark outline.",
+    "A red label reads “VOT EXTERIOR ERTA” and a subtitle runs along the bottom.",
+    "Frame 2: on flat pink, a woman in a beret and striped wide trousers holds a highlighter as long as her torso next to a desk calendar showing “maig 2”."
+  ],
+  "interpretation": [
+    "It shows the style after its tech years: adopted by government communication, with outline and pattern added. The oversized object and the long thin figure remain; the non-natural skin and flat unoutlined fills are gone."
+  ],
+  "borrow": [
+    "Put the key fact (a date, a place) on an oversized object that the figure holds or points to."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Commons tags the frames with the Generalitat’s attribution license, which covers content published on gencat.cat. These frames come from a YouTube video, so the tag may not apply; no image is stored."
+  }
+}

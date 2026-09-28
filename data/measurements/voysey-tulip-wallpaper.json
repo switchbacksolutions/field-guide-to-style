@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/voysey-tulip-wallpaper.jpg",
+  "captured": "2026-09-28T17:38:19+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#deddbe",
+        "share": 0.337
+      },
+      {
+        "hex": "#d8d2a5",
+        "share": 0.217
+      },
+      {
+        "hex": "#b7ad81",
+        "share": 0.102
+      },
+      {
+        "hex": "#ccc49b",
+        "share": 0.092
+      },
+      {
+        "hex": "#9aada1",
+        "share": 0.071
+      },
+      {
+        "hex": "#9a9a9a",
+        "share": 0.066
+      },
+      {
+        "hex": "#dec797",
+        "share": 0.036
+      },
+      {
+        "hex": "#a69b6e",
+        "share": 0.024
+      },
+      {
+        "hex": "#908f8d",
+        "share": 0.015
+      },
+      {
+        "hex": "#adb5a1",
+        "share": 0.015
+      }
+    ],
+    "background": "#deddbe",
+    "chroma": 0.15,
+    "lightness": 0.72,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 8,
+    "hues": 0
+  }
+}

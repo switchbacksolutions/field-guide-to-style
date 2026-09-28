@@ -1,0 +1,145 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://destijl.neocities.org/",
+  "title": "De Stijl",
+  "captured": "2026-09-28T17:35:13.064Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica Neue",
+        "share": 1
+      }
+    ],
+    "baseSize": 14,
+    "maxSize": 63,
+    "sizeRange": 4.5,
+    "scaleRatio": 1.34,
+    "headingWeight": 500,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.03
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.772
+      },
+      {
+        "hex": "#333333",
+        "share": 0.193
+      },
+      {
+        "hex": "#808080",
+        "share": 0.008
+      },
+      {
+        "hex": "#0000ff",
+        "share": 0.008
+      },
+      {
+        "hex": "#ff0000",
+        "share": 0.006
+      },
+      {
+        "hex": "#ffff00",
+        "share": 0.006
+      },
+      {
+        "hex": "#000000",
+        "share": 0.006
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#333333",
+    "contrast": 12.6,
+    "chroma": 0.02,
+    "lightness": 0.83,
+    "chromaticShare": 0.02,
+    "accentChroma": 1,
+    "distinct": 2,
+    "hues": 3,
+    "imageShare": 0.2,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 7,
+    "radius": {
+      "median": 4,
+      "max": 4,
+      "roundShare": 0.86
+    },
+    "border": {
+      "share": 0.86,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.79
+      },
+      {
+        "hex": "#000000",
+        "share": 0.045
+      },
+      {
+        "hex": "#adadad",
+        "share": 0.029
+      },
+      {
+        "hex": "#e6e6e6",
+        "share": 0.026
+      },
+      {
+        "hex": "#bcbcbc",
+        "share": 0.015
+      },
+      {
+        "hex": "#d3d3d5",
+        "share": 0.015
+      },
+      {
+        "hex": "#0109fc",
+        "share": 0.013
+      },
+      {
+        "hex": "#979797",
+        "share": 0.01
+      },
+      {
+        "hex": "#d9192f",
+        "share": 0.009
+      },
+      {
+        "hex": "#828385",
+        "share": 0.008
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.03,
+    "lightness": 0.9,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.85,
+    "distinct": 4,
+    "hues": 4
+  }
+}

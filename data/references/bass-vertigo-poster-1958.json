@@ -1,0 +1,75 @@
+{
+  "id": "bass-vertigo-poster-1958",
+  "title": "Vertigo poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "A white line spiral on flat red-orange pulls two small figures into its center, under hand-cut capitals that lean and bounce.",
+  "summary": "A white spiral and black silhouettes on flat red-orange, with rough hand-cut capitals. Saul Bass, 1958.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Vertigomovie_restoration.jpg",
+    "label": "Wikimedia Commons: Vertigomovie restoration.jpg"
+  },
+  "creator": {
+    "name": "Saul Bass",
+    "url": "https://www.wikidata.org/wiki/Q536884"
+  },
+  "made": "1958",
+  "moods": [
+    "dizzy",
+    "graphic",
+    "tense"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Commons restoration (2703 × 4189 px, stored here at 1032 × 1600). Adam Cuerden restored the scan on Commons by removing fold marks and blemishes. No museum copy was checked."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "mid-century-modern",
+      "note": "Hand-cut lettering, flat silhouettes, and one flat printed ground: the Bass branch of the graphic core. Partial fit: only one hue, and it is saturated.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Theatrical poster for Alfred Hitchcock’s film, released by Paramount in 1958. Commons credits the artwork to Saul Bass and cites Adrian Curry’s [Movie Poster of the Week](http://mubi.com/notebook/posts/movie-poster-of-the-week-alfred-hitchcocks-vertigo) column. [Commons](https://commons.wikimedia.org/wiki/File:Vertigomovie_restoration.jpg).",
+    "The foot of the poster carries “Copyright 1958 Paramount Pictures Corporation. Country of Origin U.S.A.”. Commons states that a Copyright Office catalog search found no renewal. [Commons](https://commons.wikimedia.org/wiki/File:Vertigomovie_restoration.jpg)."
+  ],
+  "observed": [
+    "The whole sheet is one flat red-orange field inside a thin off-white margin.",
+    "A large spiral of fine white lines fills the middle. Its lines cross into a lattice at the outer turns.",
+    "At the center a black silhouette of a man and a line drawing of a woman fall together over a small red-orange ellipse.",
+    "“JAMES STEWART”, “KIM NOVAK”, and “IN ALFRED HITCHCOCK’S MASTERPIECE” are black capitals with rough, cut edges and uneven letter widths.",
+    "“VERTIGO” at the foot is in wide, heavy black capitals with notched, hand-cut strokes, between single quotation marks.",
+    "The credit block below the field is a condensed grotesque on off-white."
+  ],
+  "interpretation": [
+    "The lettering is the most transferable part: capitals cut or drawn by hand, with uneven widths and a slight bounce, next to a plain grotesque for the credits.",
+    "Measured on the stored image, the accent chroma is 0.69 with one hue family. The poster is flatter and more saturated than the warm, multi-hue textile side of the style."
+  ],
+  "borrow": [
+    "Draw the heading as rough, hand-cut capitals and set the small print in a plain grotesque.",
+    "Put a single line-drawn motif (a spiral, a starburst) on a flat colored ground and let it carry the page."
+  ],
+  "images": [
+    {
+      "file": "assets/references/bass-vertigo-poster-1958.jpg",
+      "alt": "Film poster on flat red-orange: a large white line spiral with a black silhouette of a man and a line drawing of a woman falling at its center; black hand-cut capitals name James Stewart and Kim Novak at the top and Vertigo at the bottom.",
+      "width": 1032,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Saul Bass, US theatrical poster for *Vertigo*, 1958, restored scan by Adam Cuerden. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Vertigomovie_restoration.jpg), marked public domain (not renewed).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/75/Vertigomovie_restoration.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons gives the reason in the permission field: a Copyright Office catalog search found no renewal of the 1958 US copyright, so the poster art entered the US public domain 28 years after publication. The country of origin is the United States. The license tag on the page is {{PD-art|PD-old-auto-1964}}, which does not match that reason; the non-renewal claim is the operative one. This catalogue did not repeat the renewal search."
+  },
+  "identifiers": {
+    "commons": "File:Vertigomovie restoration.jpg"
+  }
+}

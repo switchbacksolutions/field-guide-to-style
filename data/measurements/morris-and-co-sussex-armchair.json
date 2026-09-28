@@ -1,0 +1,49 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/morris-and-co-sussex-armchair.jpg",
+  "captured": "2026-09-28T17:38:19+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#c1c2c6",
+        "share": 0.554
+      },
+      {
+        "hex": "#cdd0d5",
+        "share": 0.215
+      },
+      {
+        "hex": "#b4b7b9",
+        "share": 0.094
+      },
+      {
+        "hex": "#2e2c28",
+        "share": 0.035
+      },
+      {
+        "hex": "#4a4742",
+        "share": 0.031
+      },
+      {
+        "hex": "#8e8c8d",
+        "share": 0.027
+      },
+      {
+        "hex": "#7b6f61",
+        "share": 0.025
+      },
+      {
+        "hex": "#9e9fa1",
+        "share": 0.019
+      }
+    ],
+    "background": "#c1c2c6",
+    "chroma": 0.02,
+    "lightness": 0.72,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 7,
+    "hues": 0
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20200701220517if_/https://www.fastmail.com/",
+  "title": "Fastmail: email on your side",
+  "captured": "2020-07-01T22:05:26.396Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Proxima Nova",
+        "share": 0.85
+      },
+      {
+        "family": "cresta",
+        "share": 0.15
+      }
+    ],
+    "baseSize": 18,
+    "maxSize": 40,
+    "sizeRange": 2.22,
+    "scaleRatio": 1.33,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.44
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.512
+      },
+      {
+        "hex": "#d2e8f8",
+        "share": 0.231
+      },
+      {
+        "hex": "#333e48",
+        "share": 0.187
+      },
+      {
+        "hex": "#243959",
+        "share": 0.047
+      },
+      {
+        "hex": "#1565c0",
+        "share": 0.022
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#333e48",
+    "contrast": 10.9,
+    "chroma": 0.07,
+    "lightness": 0.79,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.67,
+    "distinct": 5,
+    "hues": 1,
+    "imageShare": 0.38,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 40,
+    "radius": {
+      "median": 0,
+      "max": 12.8,
+      "roundShare": 0.23
+    },
+    "border": {
+      "share": 0.7,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.13,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 0
+    },
+    "gradientShare": 0.03,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffe8a5",
+        "share": 0.519
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.303
+      },
+      {
+        "hex": "#233859",
+        "share": 0.043
+      },
+      {
+        "hex": "#fdd782",
+        "share": 0.016
+      },
+      {
+        "hex": "#1563bf",
+        "share": 0.012
+      },
+      {
+        "hex": "#9ebecc",
+        "share": 0.009
+      },
+      {
+        "hex": "#ddd2a2",
+        "share": 0.009
+      },
+      {
+        "hex": "#465464",
+        "share": 0.009
+      },
+      {
+        "hex": "#146b59",
+        "share": 0.008
+      },
+      {
+        "hex": "#83a0a4",
+        "share": 0.007
+      }
+    ],
+    "background": "#ffe8a5",
+    "chroma": 0.23,
+    "lightness": 0.82,
+    "chromaticShare": 0.58,
+    "accentChroma": 0.37,
+    "distinct": 3,
+    "hues": 5
+  }
+}

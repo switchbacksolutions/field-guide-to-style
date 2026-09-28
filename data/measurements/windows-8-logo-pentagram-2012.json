@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/windows-8-logo-pentagram-2012.png",
+  "captured": "2026-09-28T17:31:03+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.615
+      },
+      {
+        "hex": "#0dadea",
+        "share": 0.309
+      },
+      {
+        "hex": "#05687f",
+        "share": 0.011
+      },
+      {
+        "hex": "#0884b4",
+        "share": 0.011
+      },
+      {
+        "hex": "#034b73",
+        "share": 0.01
+      },
+      {
+        "hex": "#00252d",
+        "share": 0.008
+      },
+      {
+        "hex": "#00131d",
+        "share": 0.007
+      },
+      {
+        "hex": "#06729a",
+        "share": 0.007
+      },
+      {
+        "hex": "#0a93c4",
+        "share": 0.007
+      },
+      {
+        "hex": "#013044",
+        "share": 0.006
+      }
+    ],
+    "background": "#000000",
+    "chroma": 0.3,
+    "lightness": 0.17,
+    "chromaticShare": 0.36,
+    "accentChroma": 0.82,
+    "distinct": 2,
+    "hues": 1
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "mucha-documents-decoratifs-poppies-1902",
+  "title": "Poppy plate from Mucha’s Documents décoratifs",
+  "type": "print",
+  "medium": "book",
+  "lede": "A plate from Alphonse Mucha’s 1902 pattern book: a frieze of pink poppies on tall stems above ochre and sea-green leaves, with two small studies of the same flower made into flat repeat patterns.",
+  "summary": "Lithographed plate of poppy friezes and patterns in pink, ochre, and sea green on buff. Alphonse Mucha, Paris, 1901–2.",
+  "source": {
+    "url": "https://clevelandart.org/art/1969.236",
+    "label": "Cleveland Museum of Art: Documents Decoratifs: Oriental Poppies, 1969.236"
+  },
+  "creator": {
+    "name": "Alphonse Mucha",
+    "url": "https://www.wikidata.org/wiki/Q146691"
+  },
+  "made": "1901–2 (Cleveland Museum of Art); published 1902 (Wikipedia)",
+  "moods": [
+    "botanical",
+    "decorative",
+    "soft"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Cleveland Museum of Art open-access image of print 1969.236 (2400 × 3400 px print file). Read the object record through the museum’s open-access API. The plate is numbered “PL. 38” at its upper right; Cleveland titles it “Oriental Poppies” and lists a separate print 1969.237 as “Plate 38”, which this record did not inspect."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "art-nouveau",
+      "note": "A teaching sheet for the style: one plant shown as a frieze, a dense field, and a stylized repeat, in the earthy pastel palette.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Cleveland Museum of Art records the print as a lithograph from *Documents Décoratifs*, 1901–2, by Alphonse Mucha (1860–1939). [CMA 1969.236](https://clevelandart.org/art/1969.236).",
+    "Wikipedia: *Documents Décoratifs* is a series of seventy-two plates published as a book in 1902 by the Librairie Centrale des Beaux-Arts. The plates show how floral, vegetal, and natural forms can be used in decoration and decorative objects. Mucha taught decoration at the Académie Colarossi from about 1900. [Wikipedia: Alphonse Mucha](https://en.wikipedia.org/wiki/Alphonse_Mucha)."
+  ],
+  "observed": [
+    "The sheet has a wide plain buff margin. The design sits in a rectangle with a thin ochre border line.",
+    "The lower two thirds is a frieze: three large pink poppies and several buds on tall, thin, vertical stems, against a pale peach ground.",
+    "Sea-green leaves with jagged edges fill the base of the frieze, over a tangle of ochre-gold leaf outlines. At the very bottom, small ochre spirals run along a sea-green band.",
+    "Top left: a dense field of pink poppies with ochre and blue-gray curving leaves on a sage-green ground.",
+    "Top right: the poppy reduced to a flat repeat of tomato-red cells separated by pale yellow, branching lines with green centres.",
+    "Every shape has a thin ochre or dark red outline. The colours are soft: dusty pink, plum, ochre, sea green, and sage."
+  ],
+  "interpretation": [
+    "The plate shows the style’s method in three steps: the natural plant, a decorative field, and a flat pattern. The frieze is calm and vertical; the whiplash appears only in the leaves.",
+    "The palette matches the style’s grammar closely: dusty rose, ochre, and moss or sea green on a cream ground, with outlines instead of shading."
+  ],
+  "borrow": [
+    "Use one flower at three scales: a hero frieze, a small dense field, and an abstract repeat for backgrounds.",
+    "Outline every coloured shape in ochre instead of black to keep a warm, soft contrast."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mucha-documents-decoratifs-poppies-1902.jpg",
+      "alt": "Lithographed plate on buff paper, numbered PL. 38: a frieze of pink poppies on tall stems above sea-green leaves on a peach ground, with a small panel of pink poppies on sage green and a small red-and-yellow flat pattern above it.",
+      "width": 1129,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Alphonse Mucha, plate 38 of *Documents Décoratifs*, 1901–2, lithograph. [Cleveland Museum of Art 1969.236](https://clevelandart.org/art/1969.236), CC0.",
+      "original": "https://openaccess-cdn.clevelandart.org/1969.236/1969.236_print.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Cleveland Museum of Art marks the print and its image CC0. Alphonse Mucha died in 1939, so his work entered the public domain in the Czech Republic and France in 2010. The book was published in 1902, so it is in the public domain in the United States."
+  },
+  "identifiers": {
+    "cleveland": "1969.236"
+  }
+}

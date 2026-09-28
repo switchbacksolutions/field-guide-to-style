@@ -1,0 +1,65 @@
+{
+  "id": "airtable-website-2018",
+  "title": "Airtable website, 2018",
+  "type": "website",
+  "medium": "website",
+  "lede": "Airtable’s 2018 home page: five blue- and pink-skinned figures with long bending limbs climb, lift, and pass shapes to each other beside the heading “Create, your way”.",
+  "summary": "Blue-skinned, gangly figures stacking and passing blocks and plants beside a plain heading. 2018.",
+  "source": {
+    "url": "https://airtable.com/",
+    "label": "Airtable",
+    "archive": "https://web.archive.org/web/20181126004018/https://airtable.com/"
+  },
+  "creator": {
+    "name": "Airtable"
+  },
+  "made": "2018 (Wayback capture of 26 November 2018)",
+  "moods": [
+    "playful",
+    "energetic",
+    "collaborative"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. No cookie box covers the page. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Clear: figures with blue skin, small heads, and long, curving arms and legs lift and pass oversized shapes in bright flat colors on white. A light grain and a few doodled lines on the clothes are the only departures.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "The live Airtable site has changed since this 2018 capture.",
+  "observed": [
+    "The heading “Create, your way” is set in a dark grey sans-serif of regular weight, with grey body text, a grey email field, and a blue “Get started” button with small rounded corners.",
+    "On the right, five figures form a human tower: one sits on a yellow circle and draws a line with a pen, one kneels on another’s back with a laptop, one lunges to lift a figure above.",
+    "Skin is blue on all figures; hair is black; clothes are coral pink, yellow, and blue, some with small white doodles or dots.",
+    "Pink and pale blue blocks, yellow circles, a blue triangle, and teal potted plants are stacked around them.",
+    "The fills are flat with a light speckled grain; there are no outlines. A pale lilac curve starts the next section, where a purple app window appears."
+  ],
+  "interpretation": [
+    "It shows the style’s core metaphor of teamwork: many bendy figures assembling simple shapes into a structure, which also stands for the product’s building blocks."
+  ],
+  "borrow": [
+    "Show collaboration as figures physically stacking or passing simple geometric blocks."
+  ],
+  "images": [
+    {
+      "file": "assets/references/airtable-website-2018.jpg",
+      "alt": "Airtable home page, 2018: the heading “Create, your way” and an email sign-up on the left; on the right, five blue-skinned, long-limbed figures in pink, yellow, and blue clothes climb on each other and pass blocks, circles, and potted plants.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [Airtable](https://web.archive.org/web/20181126004018/https://airtable.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  }
+}

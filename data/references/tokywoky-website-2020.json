@@ -1,0 +1,67 @@
+{
+  "id": "tokywoky-website-2020",
+  "title": "TokyWoky website, 2020",
+  "type": "website",
+  "medium": "website",
+  "lede": "The 2020 home page of a French community-platform startup: small flat figures with long legs gather on a grey platform in front of an oversized browser window.",
+  "summary": "Small long-legged flat figures around a giant tilted browser window, next to a bold blue heading. 2020.",
+  "source": {
+    "url": "https://www.tokywoky.com/",
+    "label": "TokyWoky",
+    "archive": "https://web.archive.org/web/20200907211042/https://www.tokywoky.com/"
+  },
+  "creator": {
+    "name": "TokyWoky"
+  },
+  "made": "2020 (Wayback capture of 7 September 2020)",
+  "moods": [
+    "busy",
+    "friendly",
+    "corporate"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. No cookie box covers the page. Wayback redirected to a copy without the `if_` flag, but no archive toolbar appears in the screenshot. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Borderline: long-legged figures with small heads act around an oversized interface, the style’s standard scene, but the skin is natural and the platform and screen use soft gradients.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The live address now redirects to a Skeepers brand-community page, which returned “Error 403 Forbidden” to `tools/capture.mjs` on 28 September 2026."
+  ],
+  "observed": [
+    "The heading “Go from website to community” is set in a heavy bright blue sans-serif, with grey body text and a pill-shaped blue button “REQUEST A DEMO”.",
+    "On the right, a large tilted browser window in light grey shows a red-framed portrait and grey text bars.",
+    "Seven small figures stand around it on a grey oval platform: they hold star-rating cards, speech bubbles with “?” and “!”, and a phone.",
+    "The figures have small heads, long thin legs, and dark clothes; skin tones are natural. Teal plant shapes stand behind them.",
+    "The window and the platform have soft grey gradients and cast shadows."
+  ],
+  "interpretation": [
+    "The scene is the style’s most common product layout: many small people acting on one giant screen. The gradients and shadows mix it with the soft 3D of later SaaS illustration."
+  ],
+  "borrow": [
+    "Show a platform with many small figures each doing one different action around the product screen, to suggest a community."
+  ],
+  "images": [
+    {
+      "file": "assets/references/tokywoky-website-2020.jpg",
+      "alt": "TokyWoky home page, 2020: the bold blue heading “Go from website to community” on the left and seven small long-legged figures holding rating cards and speech bubbles around a giant tilted browser window on the right.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of [TokyWoky](https://web.archive.org/web/20200907211042/https://www.tokywoky.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owner. Screenshot captured for commentary."
+  }
+}

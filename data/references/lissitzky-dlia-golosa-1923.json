@@ -1,0 +1,77 @@
+{
+  "id": "lissitzky-dlia-golosa-1923",
+  "title": "Dlia golosa (For the Voice)",
+  "type": "print",
+  "medium": "book",
+  "lede": "El Lissitzky’s design for thirteen poems by Vladimir Mayakovsky builds letters, bars, and a ship from type material in red and black, with a thumb index to find each poem.",
+  "summary": "Red and black letterpress pages with giant stacked capitals, a diagonal black bar, and a stepped thumb index. Lissitzky and Mayakovsky, Berlin, 1923.",
+  "source": {
+    "url": "https://josefchladek.com/book/el_lissitzky_vladimir_mayakovsky_-_dlia_golosa",
+    "label": "Josef Chladek: Dlia golosa (For the Voice), Gosizdat / Lutze and Vogt, 1923"
+  },
+  "creator": {
+    "name": "El Lissitzky (design), Vladimir Mayakovsky (poems)",
+    "url": "https://www.wikidata.org/wiki/Q152233"
+  },
+  "made": "1923",
+  "moods": [
+    "typographic",
+    "rhythmic",
+    "agitational"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected a photograph of an open copy on display at the Deutsches Buch- und Schriftmuseum, Leipzig, published by Karl432 on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seiten_aus_dem_Gedichtband_Dlja_golosa_von_Wladimir_Majakowski_gestaltet_von_El_Lissitzky.jpg) (2816 × 2300 px, viewed at 1920 px). The photograph shows one spread, the opening of “Left March”. Other spreads are known only from the Commons category [Dlia Golosa](https://commons.wikimedia.org/wiki/Category:Dlia_Golosa), which was not inspected page by page."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "constructivism",
+      "note": "The canonical constructivist book: red and black type material, stacked heavy capitals, a diagonal bar, and pictures built from rules.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The book collects thirteen of Mayakovsky’s poems for reading aloud. It was published by Gosizdat (the State Publishing House) in Berlin in 1923 and printed by Lutze & Vogt; it has 61 pages and measures about 13 × 19 cm. [Josef Chladek](https://josefchladek.com/book/el_lissitzky_vladimir_mayakovsky_-_dlia_golosa).",
+    "Lissitzky added a thumb index so that a reader could find a poem quickly. He compared his role to “an accompanying piano to a violin”. [Josef Chladek](https://josefchladek.com/book/el_lissitzky_vladimir_mayakovsky_-_dlia_golosa).",
+    "The Leipzig museum shows the book as an example of “Elementare Typografie”. [Commons](https://commons.wikimedia.org/wiki/File:Seiten_aus_dem_Gedichtband_Dlja_golosa_von_Wladimir_Majakowski_gestaltet_von_El_Lissitzky.jpg)."
+  ],
+  "observed": [
+    "The left page shows a sailing ship drawn from black and red rules and bars. A red flag reads “РСФСР”, and the word “ЛЕВ” repeats on stepped red lines above it.",
+    "The right page opens “ЛЕВЫЙ МАРШ” (Left March). Two red slabs with black rules form a giant letter М; “ЛЕВЫЙ” runs vertically in black capitals inside the first slab.",
+    "A thick black bar runs diagonally from upper right to lower center. “МАТРОСАМ” (to the sailors) runs on a diagonal beside it in red serif capitals.",
+    "The first lines of the poem are set small in a black serif text face.",
+    "The thumb index along the right edge gives each poem a title in small black sans-serif capitals and a symbol in red or black: a dot, a square, a cross, a question mark, two circles.",
+    "The paper is off-white. The only colors are red and black."
+  ],
+  "interpretation": [
+    "The spread shows that constructivist heavy capitals and bars came first from the type case: letters and pictures are built from the same rules and blocks.",
+    "Body text stays small and horizontal while display words rotate, which matches the style rule not to rotate body text."
+  ],
+  "borrow": [
+    "Build a large initial letter or a simple picture from thick rules and blocks in red and black.",
+    "Give each section a short symbol and use the symbols as a visible index or tab bar.",
+    "Pair one steep black bar with a heading set on the same angle."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lissitzky-dlia-golosa-1923.jpg",
+      "alt": "An open book on a black background. The left page shows a ship built from black and red bars with a red flag. The right page has a giant red letter M built from slabs, the words Left March in Russian capitals, a thick black diagonal bar, and a stepped thumb index with small red and black symbols.",
+      "width": 1600,
+      "height": 1307,
+      "kind": "photograph",
+      "caption": "El Lissitzky and Vladimir Mayakovsky, *Dlia golosa*, Berlin 1923, opening of “Left March”. Copy on display at the Deutsches Buch- und Schriftmuseum, Leipzig; photograph by Karl432, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seiten_aus_dem_Gedichtband_Dlja_golosa_von_Wladimir_Majakowski_gestaltet_von_El_Lissitzky.jpg), CC0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Seiten_aus_dem_Gedichtband_Dlja_golosa_von_Wladimir_Majakowski_gestaltet_von_El_Lissitzky.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The photograph is CC0 1.0 by Karl432; Commons also marks the book PD-old-70-expired. The book was published in Berlin in 1923. Lissitzky died in 1941 and Mayakovsky in 1930, so the design and the poems are in the public domain in Germany and Russia, and publication before 1931 puts them in the public domain in the United States."
+  },
+  "identifiers": {
+    "commons": "File:Seiten aus dem Gedichtband Dlja golosa von Wladimir Majakowski gestaltet von El Lissitzky.jpg"
+  }
+}

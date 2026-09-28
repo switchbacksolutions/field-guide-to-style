@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lissitzky-veshch-cover-1922.jpg",
+  "captured": "2026-09-28T17:52:21+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#91372c",
+        "share": 0.411
+      },
+      {
+        "hex": "#9d4b3e",
+        "share": 0.253
+      },
+      {
+        "hex": "#292121",
+        "share": 0.179
+      },
+      {
+        "hex": "#f1f3f3",
+        "share": 0.045
+      },
+      {
+        "hex": "#672d27",
+        "share": 0.024
+      },
+      {
+        "hex": "#191616",
+        "share": 0.013
+      },
+      {
+        "hex": "#a65949",
+        "share": 0.012
+      },
+      {
+        "hex": "#3e2320",
+        "share": 0.012
+      },
+      {
+        "hex": "#532a25",
+        "share": 0.011
+      },
+      {
+        "hex": "#5c4f4c",
+        "share": 0.01
+      }
+    ],
+    "background": "#91372c",
+    "chroma": 0.28,
+    "lightness": 0.37,
+    "chromaticShare": 0.69,
+    "accentChroma": 0.39,
+    "distinct": 5,
+    "hues": 1
+  }
+}

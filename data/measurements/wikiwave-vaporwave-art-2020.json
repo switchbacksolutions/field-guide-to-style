@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/wikiwave-vaporwave-art-2020.jpg",
+  "captured": "2026-09-28T17:27:09+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f6f6f7",
+        "share": 0.173
+      },
+      {
+        "hex": "#4b1a93",
+        "share": 0.076
+      },
+      {
+        "hex": "#f7f136",
+        "share": 0.056
+      },
+      {
+        "hex": "#5530a9",
+        "share": 0.046
+      },
+      {
+        "hex": "#f7f157",
+        "share": 0.042
+      },
+      {
+        "hex": "#160a3f",
+        "share": 0.038
+      },
+      {
+        "hex": "#2c0f56",
+        "share": 0.038
+      },
+      {
+        "hex": "#7c39af",
+        "share": 0.036
+      },
+      {
+        "hex": "#6d2393",
+        "share": 0.033
+      },
+      {
+        "hex": "#e9e6ef",
+        "share": 0.033
+      }
+    ],
+    "background": "#f6f6f7",
+    "chroma": 0.35,
+    "lightness": 0.6,
+    "chromaticShare": 0.62,
+    "accentChroma": 0.49,
+    "distinct": 20,
+    "hues": 9
+  }
+}

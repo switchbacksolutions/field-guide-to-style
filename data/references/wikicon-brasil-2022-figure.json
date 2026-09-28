@@ -1,0 +1,68 @@
+{
+  "id": "wikicon-brasil-2022-figure",
+  "title": "WikiCon Brasil 2022 visual identity figure (Isadora Pinheiro)",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A figure from the visual identity of the WikiCon Brasil 2022 conference: a woman with yellow skin, huge block limbs, and a tiny head, holding up a phone.",
+  "summary": "Yellow skin, tiny head, giant block arms and flared red trousers, with thin black outlines. Conference identity, 2022.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:WikiCon_Brasil_2022_-_%C3%8Dcone_-_Ser_humano_4.svg",
+    "label": "Wikimedia Commons: WikiCon Brasil 2022 – Ícone – Ser humano 4"
+  },
+  "creator": {
+    "name": "Isadora Pinheiro (User:Zaphyrza), for Wiki Movimento Brasil",
+    "url": "https://commons.wikimedia.org/wiki/User:Zaphyrza"
+  },
+  "made": "2022 (file dated 29 March 2022)",
+  "moods": [
+    "friendly",
+    "bold",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1280 × 3101 rendering of the SVG from Wikimedia Commons and the first page of the [identity PDF](https://commons.wikimedia.org/wiki/File:WikiCon_Brasil_2022_-_Identidade_Visual.pdf). Stored the figure, flattened onto white and reduced."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "corporate-memphis",
+      "note": "Partial fit: non-natural yellow skin, a tiny head, and huge limbs match the style, but every shape has a thin black outline, which the rubric lists as a counter-trait. It shows the outlined variant used after 2020.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes the file as an icon of the visual identity of WikiCon Brasil 2022 and credits Isadora Pinheiro (User:Zaphyrza) as author, under CC BY-SA 4.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WikiCon_Brasil_2022_-_%C3%8Dcone_-_Ser_humano_4.svg).",
+    "The identity PDF names Wiki Movimento Brasil as organizer, with support from the Wikimedia Foundation, the Goethe-Institut, nic.br, and cgi.br. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WikiCon_Brasil_2022_-_Identidade_Visual.pdf)."
+  ],
+  "observed": [
+    "The figure is about four times as tall as it is wide. The head is a small yellow circle with a black bun of hair, and one curved line marks the ear.",
+    "A white shirt forms one huge rounded arm that bends up to hold a white phone above the head; three short lines show the phone’s flash.",
+    "The trousers are two long orange-red trapezoids that flare to the floor, over yellow ankles and white shoes with thin laces.",
+    "All shapes are flat fills in yellow, orange-red, white, and black, each with a thin black outline."
+  ],
+  "interpretation": [
+    "The proportions are more extreme than Alegria’s: the body is built from a few large geometric blocks. The outline and the limited palette point toward the later, more graphic variants of the style."
+  ],
+  "borrow": [
+    "Exaggerate one limb into a large block that holds the key object, and keep the head as a small circle."
+  ],
+  "images": [
+    {
+      "file": "assets/references/wikicon-brasil-2022-figure.png",
+      "alt": "Tall flat figure with thin black outlines: a small yellow head with a black bun, a huge white arm raising a phone, flared orange-red trousers, and white shoes, on white.",
+      "width": 660,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "“WikiCon Brasil 2022 – Ícone – Ser humano 4” by Isadora Pinheiro, 2022. CC BY-SA 4.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:WikiCon_Brasil_2022_-_%C3%8Dcone_-_Ser_humano_4.svg), flattened onto white.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e0/WikiCon_Brasil_2022_-_%C3%8Dcone_-_Ser_humano_4.svg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Released by the author under CC BY-SA 4.0 on Wikimedia Commons. Credit: Isadora Pinheiro (Zaphyrza), WikiCon Brasil 2022."
+  }
+}

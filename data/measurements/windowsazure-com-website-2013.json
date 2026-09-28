@@ -1,0 +1,149 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://web.archive.org/web/20130214051149if_/http://www.windowsazure.com/en-us/",
+  "title": "Windows Azure: Microsoft's Cloud Platform | Cloud Hosting | Cloud Services",
+  "captured": "2013-02-14T05:11:58.256Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Segoe UI",
+        "share": 1
+      }
+    ],
+    "baseSize": 10,
+    "maxSize": 48,
+    "sizeRange": 4.8,
+    "scaleRatio": 1.17,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.17,
+    "monoShare": 0,
+    "centerShare": 0.1
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.396
+      },
+      {
+        "hex": "#eeeeee",
+        "share": 0.387
+      },
+      {
+        "hex": "#888888",
+        "share": 0.116
+      },
+      {
+        "hex": "#3c454f",
+        "share": 0.051
+      },
+      {
+        "hex": "#5f676f",
+        "share": 0.021
+      },
+      {
+        "hex": "#4a91ac",
+        "share": 0.016
+      },
+      {
+        "hex": "#0ca2da",
+        "share": 0.009
+      },
+      {
+        "hex": "#999999",
+        "share": 0.005
+      }
+    ],
+    "background": "#eeeeee",
+    "text": "#888888",
+    "contrast": 3.1,
+    "chroma": 0.02,
+    "lightness": 0.86,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.54,
+    "distinct": 5,
+    "hues": 1,
+    "imageShare": 0.39,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 12,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.17,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.08,
+      "hardShare": 0,
+      "medianBlur": 85,
+      "medianOffset": 0
+    },
+    "gradientShare": 0.17,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.298
+      },
+      {
+        "hex": "#eeeeee",
+        "share": 0.29
+      },
+      {
+        "hex": "#1ec3f3",
+        "share": 0.06
+      },
+      {
+        "hex": "#412f54",
+        "share": 0.048
+      },
+      {
+        "hex": "#ee9d05",
+        "share": 0.039
+      },
+      {
+        "hex": "#01b6f1",
+        "share": 0.039
+      },
+      {
+        "hex": "#dbdbdb",
+        "share": 0.039
+      },
+      {
+        "hex": "#b304a0",
+        "share": 0.03
+      },
+      {
+        "hex": "#cdcdcd",
+        "share": 0.029
+      },
+      {
+        "hex": "#0eade6",
+        "share": 0.021
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.22,
+    "lightness": 0.79,
+    "chromaticShare": 0.26,
+    "accentChroma": 0.81,
+    "distinct": 10,
+    "hues": 3
+  }
+}

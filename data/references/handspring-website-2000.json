@@ -1,0 +1,65 @@
+{
+  "id": "handspring-website-2000",
+  "title": "Handspring website, 2000",
+  "type": "website",
+  "medium": "website",
+  "lede": "Handspring’s home page in August 2000, led by a large photograph of a translucent blue Visor.",
+  "summary": "A translucent blue Visor on a textured blue swoosh, light serif VISOR heading, and rounded lilac tab headings.",
+  "source": {
+    "url": "http://www.handspring.com/",
+    "label": "www.handspring.com",
+    "archive": "https://web.archive.org/web/20000815053118/http://www.handspring.com/"
+  },
+  "creator": {
+    "name": "Handspring"
+  },
+  "made": "2000 (capture date, 15 August 2000)",
+  "moods": [
+    "playful",
+    "friendly",
+    "techno-optimistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured from the Internet Archive with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. Nothing covers the page. All images loaded."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "y2k",
+      "note": "Borderline: the translucent candy product and the rounded tab shapes carry the style; the page around them is a plain white table layout. The page draws its graphics with images, so the CSS fingerprint measures flat, square, unshadowed boxes (see the style page). Judge it by the rubric.",
+      "basis": "agent"
+    }
+  ],
+  "observed": [
+    "A large photograph at upper left shows a translucent blue Visor at an angle, with round silver buttons, on a blue textured surface that curves away in a swoosh.",
+    "“VISOR” is set in large serif capitals that fade from pale blue to dark blue; the tagline “whatever the heck you want it to be.” is in small blue sans-serif.",
+    "Three columns start with lilac tab bars whose ends are rounded: “places to go”, “things to buy”, and “news to know”, with the last word in heavy blue.",
+    "Product teasers pair small photos (an orange Visor, a thin modem, colored styluses, a leather case) with light lilac headings.",
+    "Small orange “GO” circles and square lilac and green buttons act as controls. A blue textured swoosh closes the layout at the bottom."
+  ],
+  "interpretation": [
+    "The site sells the object that carries the style: the [Visor](ref:handspring-visor-deluxe-2000) in translucent candy colors. The page shows the product photo as the hero and repeats its blue and rounded shapes in the tab bars.",
+    "Measured: no CSS gradients, shadows, or radii; the pixel palette is mostly white with a strong blue accent."
+  ],
+  "borrow": [
+    "Use a product photo on a curved band of color as the page header, and echo the curve in the footer."
+  ],
+  "images": [
+    {
+      "file": "assets/references/handspring-website-2000.jpg",
+      "alt": "Archived Handspring home page: a translucent blue Visor handheld on a curved blue textured band at top left, a large VISOR heading and tagline, and three columns under rounded lilac tab bars with product photos and news links.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "First viewport of the [archived copy](https://web.archive.org/web/20000815053118/http://www.handspring.com/).",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to Handspring. Screenshot captured for commentary."
+  }
+}

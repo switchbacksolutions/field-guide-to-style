@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lalique-dragonfly-brooch.jpg",
+  "captured": "2026-09-28T17:14:35+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#676766",
+        "share": 0.238
+      },
+      {
+        "hex": "#434343",
+        "share": 0.226
+      },
+      {
+        "hex": "#838483",
+        "share": 0.193
+      },
+      {
+        "hex": "#535353",
+        "share": 0.129
+      },
+      {
+        "hex": "#747474",
+        "share": 0.072
+      },
+      {
+        "hex": "#373737",
+        "share": 0.071
+      },
+      {
+        "hex": "#9d9873",
+        "share": 0.016
+      },
+      {
+        "hex": "#807b5b",
+        "share": 0.015
+      },
+      {
+        "hex": "#bdb48b",
+        "share": 0.013
+      },
+      {
+        "hex": "#92b4b0",
+        "share": 0.009
+      }
+    ],
+    "background": "#676766",
+    "chroma": 0.01,
+    "lightness": 0.39,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 6,
+    "hues": 0
+  }
+}

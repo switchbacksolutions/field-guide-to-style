@@ -1,0 +1,149 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "https://obeygiant.com/",
+  "title": "Obey Giant - The Art of Shepard Fairey",
+  "captured": "2026-09-28T17:20:34.223Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Sentinel SSm A",
+        "share": 0.62
+      },
+      {
+        "family": "Knockout 27 A",
+        "share": 0.38
+      }
+    ],
+    "baseSize": 17.6,
+    "maxSize": 80,
+    "sizeRange": 4.55,
+    "scaleRatio": 1.42,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.38,
+    "monoShare": 0,
+    "centerShare": 0
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.366
+      },
+      {
+        "hex": "#d0221b",
+        "share": 0.188
+      },
+      {
+        "hex": "#ededed",
+        "share": 0.158
+      },
+      {
+        "hex": "#000000",
+        "share": 0.117
+      },
+      {
+        "hex": "#999999",
+        "share": 0.108
+      },
+      {
+        "hex": "#333333",
+        "share": 0.059
+      },
+      {
+        "hex": "#666666",
+        "share": 0.003
+      }
+    ],
+    "background": "#ffffff",
+    "text": "#999999",
+    "contrast": 2.8,
+    "chroma": 0.13,
+    "lightness": 0.68,
+    "chromaticShare": 0.19,
+    "accentChroma": 0.71,
+    "distinct": 6,
+    "hues": 1,
+    "imageShare": 0.38,
+    "gradientShare": 0.08,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 27,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.78,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.04,
+      "hardShare": 0,
+      "medianBlur": 85,
+      "medianOffset": 28.3
+    },
+    "gradientShare": 0.04,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#d0221b",
+        "share": 0.363
+      },
+      {
+        "hex": "#09090a",
+        "share": 0.134
+      },
+      {
+        "hex": "#212121",
+        "share": 0.075
+      },
+      {
+        "hex": "#edecec",
+        "share": 0.061
+      },
+      {
+        "hex": "#2a0705",
+        "share": 0.051
+      },
+      {
+        "hex": "#4e4e4d",
+        "share": 0.042
+      },
+      {
+        "hex": "#3e3f3e",
+        "share": 0.035
+      },
+      {
+        "hex": "#a1a7a4",
+        "share": 0.03
+      },
+      {
+        "hex": "#8b928f",
+        "share": 0.028
+      },
+      {
+        "hex": "#605e5c",
+        "share": 0.027
+      }
+    ],
+    "background": "#d0221b",
+    "chroma": 0.29,
+    "lightness": 0.4,
+    "chromaticShare": 0.41,
+    "accentChroma": 0.68,
+    "distinct": 12,
+    "hues": 4
+  }
+}

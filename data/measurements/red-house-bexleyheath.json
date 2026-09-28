@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/red-house-bexleyheath.jpg",
+  "captured": "2026-09-28T17:50:07+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#9eb56e",
+        "share": 0.138
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.104
+      },
+      {
+        "hex": "#90ab62",
+        "share": 0.078
+      },
+      {
+        "hex": "#928d8d",
+        "share": 0.049
+      },
+      {
+        "hex": "#848080",
+        "share": 0.043
+      },
+      {
+        "hex": "#957363",
+        "share": 0.039
+      },
+      {
+        "hex": "#856556",
+        "share": 0.037
+      },
+      {
+        "hex": "#1e2219",
+        "share": 0.035
+      },
+      {
+        "hex": "#4d6538",
+        "share": 0.031
+      },
+      {
+        "hex": "#3e562b",
+        "share": 0.031
+      }
+    ],
+    "background": "#9eb56e",
+    "chroma": 0.15,
+    "lightness": 0.49,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.31,
+    "distinct": 24,
+    "hues": 1
+  }
+}

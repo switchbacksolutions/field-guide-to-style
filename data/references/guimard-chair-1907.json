@@ -1,0 +1,75 @@
+{
+  "id": "guimard-chair-1907",
+  "title": "Side chair by Hector Guimard",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "A pearwood chair whose back posts rise, split, and flow into a leaf-shaped leather panel, with no joint or edge left straight.",
+  "summary": "Pearwood chair with a pointed leaf-shaped leather back and flowing carved posts. Hector Guimard, Paris, c. 1907.",
+  "source": {
+    "url": "https://clevelandart.org/art/1985.96",
+    "label": "Cleveland Museum of Art: Chair, 1985.96"
+  },
+  "creator": {
+    "name": "Hector Guimard",
+    "url": "https://clevelandart.org/art/1985.96"
+  },
+  "made": "c. 1907",
+  "moods": [
+    "organic",
+    "flowing",
+    "sculptural"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Cleveland Museum of Art open-access image of object 1985.96 (2272 × 3400 px print file). Read the object record through the museum’s open-access API."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "art-nouveau",
+      "note": "Paris Art Nouveau furniture by the designer of the Métro entrances: the frame reads as one carved plant stem that divides and joins.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Cleveland Museum of Art records the chair as pearwood with a tooled leather back and seat, 108 × 45.4 × 50.4 cm, French, c. 1907, by Hector Guimard (1867–1942). [CMA 1985.96](https://clevelandart.org/art/1985.96).",
+    "Wikipedia: after visiting Horta’s [Hôtel Tassel](ref:horta-hotel-tassel-staircase-1893), Guimard built the Castel Béranger (1895–1898), among the first Paris buildings in the new style, and his [Métro entrances](ref:guimard-paris-metro-entrance-1900) brought it to the visitors of the 1900 Exposition. [Wikipedia: Art Nouveau](https://en.wikipedia.org/wiki/Art_Nouveau)."
+  ],
+  "observed": [
+    "The back is a pointed, inverted-triangle shield with curved sides, filled with a brown leather panel edged by a row of brass nails.",
+    "The two back posts swell as they rise, bend inward, and merge into the top rail; carved grooves run along them like the veins of a stem.",
+    "A single central splat drops from the back panel, splits into a narrow pointed opening, and joins the seat rail.",
+    "The front seat rail dips in the middle and carries a small carved scroll ornament.",
+    "The legs taper and flare slightly into small pad feet. No edge on the frame is straight.",
+    "The photograph shows the chair in three-quarter view on a gray ground."
+  ],
+  "interpretation": [
+    "The chair turns the rubric’s leaf-shaped panel into structure: the back is literally a leaf held up by its stalk.",
+    "The palette is only wood brown, leather brown, and brass, which fits the style’s earthy colours."
+  ],
+  "borrow": [
+    "Shape a card or badge as a pointed shield with softly curved sides.",
+    "Carry a thin groove or line along a curved edge so the edge reads as a stem."
+  ],
+  "images": [
+    {
+      "file": "assets/references/guimard-chair-1907.jpg",
+      "alt": "Tall wooden side chair on a gray ground, in three-quarter view. The back is a pointed leaf shape filled with brown leather and edged with brass nails, carried on curved carved posts, above a brown leather seat.",
+      "width": 1069,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Hector Guimard, chair, c. 1907, pearwood and tooled leather. [Cleveland Museum of Art 1985.96](https://clevelandart.org/art/1985.96), CC0.",
+      "original": "https://openaccess-cdn.clevelandart.org/1985.96/1985.96_print.jpg",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Cleveland Museum of Art marks the object and its image CC0. Hector Guimard died in 1942, so his work entered the public domain in France in 2013. A chair made about 1907 is in the public domain in the United States. The Met, by contrast, marks its Guimard objects as not public domain; this record relies on Cleveland’s CC0 statement and the author’s death date."
+  },
+  "identifiers": {
+    "cleveland": "1985.96"
+  }
+}

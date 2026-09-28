@@ -1,0 +1,57 @@
+{
+  "id": "grignani-alfieri-lacroix-ad-1959",
+  "title": "Alfieri & Lacroix advertising page",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "Franco Grignani’s 1959 advertising page for the Milan printer Alfieri & Lacroix: white stripes that twist and swell across a black page, above a small striped figure.",
+  "summary": "Bending white stripes on black and a striped head in blue and yellow, with small sans-serif text. Franco Grignani, 1959.",
+  "source": {
+    "url": "https://eyeondesign.aiga.org/the-hypnotic-mind-bending-work-of-italian-designer-franco-grignani/",
+    "label": "AIGA Eye on Design: Franco Grignani (2019)"
+  },
+  "creator": {
+    "name": "Franco Grignani"
+  },
+  "made": "1959",
+  "moods": [
+    "dynamic",
+    "experimental",
+    "high-contrast"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the AIGA Eye on Design reproduction (1689 × 2400 px), credited to the AIAP archive, in a scratchpad. No image is stored."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "op-art",
+      "note": "Grignani’s optical graphics before the term op art existed: distorted stripes fill a black page. Partial fit: a photographed figure and two colours are counter-traits.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "AIGA Eye on Design captions the page “Franco Grignani, Pagina pubblicitaria Alfieri & Lacroix, 1959, offset print, 27.5 x 21 cm, AIAP archive”, and says that from 1952 Grignani had a 30-year partnership with the printer Alfieri & Lacroix, which gave him full creative freedom. [AIGA Eye on Design](https://eyeondesign.aiga.org/the-hypnotic-mind-bending-work-of-italian-designer-franco-grignani/).",
+    "Wikipedia’s Op art article names Grignani as the graphic designer of the movement (cited in the [style record](style:op-art))."
+  ],
+  "observed": [
+    "A black page is crossed from top left to bottom centre by a broad path of white stripes.",
+    "At the top the stripes are narrow and close together, and the path bends like a tube; lower down they become wide, flat bars that twist and taper.",
+    "At the bottom right a small photographed head and shoulders is striped in blue, white, and yellow.",
+    "Small white sans-serif text reads “tavola offerta dall’Alfieri & Lacroix” at upper right, with a dictionary-style definition of “Correlazione” at the lower left."
+  ],
+  "interpretation": [
+    "The stripe path is an op device: parallel bands that change width and direction make a flat page look like a bent surface.",
+    "The figure and the colour belong to Grignani’s advertising practice, not to the black and white core of the style."
+  ],
+  "borrow": [
+    "Let one band of parallel stripes cross the whole page and change width along its path.",
+    "Set small plain type in white on the solid black areas the pattern leaves free."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Grignani died in 1999, and the reproduction is credited to the AIAP archive."
+  }
+}

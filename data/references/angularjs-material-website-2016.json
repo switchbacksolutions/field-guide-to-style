@@ -1,0 +1,63 @@
+{
+  "id": "angularjs-material-website-2016",
+  "title": "Angular Material (AngularJS) documentation website, 2016",
+  "type": "website",
+  "medium": "website",
+  "lede": "The 2016 home page of Google’s Material library for AngularJS, with a blue side navigation and flat gray tiles.",
+  "summary": "Blue side navigation with all-capital items, a pale gray header bar, and flat gray tiles with Material icons. 2016.",
+  "source": {
+    "url": "https://material.angularjs.org/latest/",
+    "label": "material.angularjs.org",
+    "archive": "https://web.archive.org/web/20160529050309/https://material.angularjs.org/latest/"
+  },
+  "creator": {
+    "name": "Google, Angular team"
+  },
+  "made": "2016",
+  "moods": [
+    "orderly",
+    "systematic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured with `tools/capture.mjs` (headless Chrome, 1440 × 900) on 28 September 2026 and inspected. The screenshot shows the first viewport; the measurement covers up to four screens."
+  },
+  "reviewed": "2026-09-28",
+  "added": "2026-09-28",
+  "styles": [
+    {
+      "id": "material-design",
+      "note": "Clear example of a Material 1 documentation layout: a saturated blue navigation drawer, all-capital medium labels, Material system icons, Roboto, and a header bar that casts a thin shadow. The tiles themselves are flat.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "The live site now documents the end of long-term support for AngularJS Material, which ended in January 2022.",
+  "observed": [
+    "A blue navigation drawer on the left holds a red Angular shield, the name “Angular Material” in white, and sections in white all-capital labels with small chevrons.",
+    "A pale gray header bar reads “Introduction” and casts a thin shadow over the white content area.",
+    "The content is Roboto on white, with four flat light gray tiles (GETTING STARTED, DEMOS, CUSTOMIZATION, API REFERENCE), each with a gray Material icon and an all-capital label.",
+    "Links in the tiles are a red-pink accent color."
+  ],
+  "interpretation": [
+    "The page measures shadows on only 8 % of its boxes, with a median blur of 7.5 px and offset of 2 px. Most of its boxes are flat gray tiles and navigation rows, so the shadow share falls far below the specimen."
+  ],
+  "borrow": [
+    "Put navigation on the primary color and content on white, and use gray tiles with a single icon and an all-capital label for primary links."
+  ],
+  "images": [
+    {
+      "file": "assets/references/angularjs-material-website-2016.jpg",
+      "alt": "Angular Material documentation in 2016: a blue left navigation with a red Angular shield logo and all-capital section labels, a gray header bar reading Introduction, and flat gray tiles with icons for Getting started, Demos, Customization, and API reference.",
+      "width": 1440,
+      "height": 900,
+      "kind": "screenshot",
+      "caption": "[Wayback Machine copy of material.angularjs.org](https://web.archive.org/web/20160529050309/https://material.angularjs.org/latest/), 29 May 2016.",
+      "saved": "2026-09-28"
+    }
+  ],
+  "rights": {
+    "tier": "C",
+    "license": "unverified",
+    "statement": "Design and content belong to the site’s owners. Screenshot captured for commentary."
+  }
+}
