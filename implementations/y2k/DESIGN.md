@@ -113,6 +113,8 @@ Full record: api/styles/y2k.json. Specimen: implementations/y2k/index.html.
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Techno and bubble type.** Wide extended sans-serifs such as Eurostile and Microgramma, rounded or inflated letters, and pixel or OCR faces at small sizes. Headings are often uppercase and widely spaced.
 - **display** ("Eurostile Extended", "Microgramma D Extended", Microgramma, "Bank Gothic", Krungthep, "Arial Black", sans-serif)
 - **body** (Verdana, Tahoma, Geneva, sans-serif)

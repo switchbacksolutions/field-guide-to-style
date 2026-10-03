@@ -107,6 +107,8 @@ Full record: api/styles/de-stijl.json. Specimen: implementations/de-stijl/index.
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Rectilinear capitals.** Blocky sans-serif letters built from straight strokes, as in van Doesburg’s 1919 alphabet. Capitals and letter-spaced titles are common.
 - **display** ("DIN Condensed", "Avenir Next Condensed", "Arial Narrow", "Helvetica Neue", sans-serif)
 - **body** ("Helvetica Neue", Arial, sans-serif)

@@ -109,6 +109,8 @@ Full record: api/styles/psychedelic-art.json. Specimen: implementations/psychede
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Swollen, melting lettering.** Hand-drawn letters stretch, bulge, and bend to fill a shape, often at the cost of legibility. Words and image merge. Soft, fat letterforms and echo outlines are common.
 - **display** ("Cooper Black", "Cooper Std", "Arial Rounded MT Bold", "Arial Rounded MT", "Trebuchet MS", sans-serif): Swollen, soft letters. Period posters used hand lettering. Cooper Black and rounded faces are the nearest system fonts.
 - **body** (Optima, Candara, "Segoe UI", "Trebuchet MS", sans-serif): Flared humanist sans with an Art Nouveau echo.

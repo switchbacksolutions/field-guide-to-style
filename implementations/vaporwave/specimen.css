@@ -69,10 +69,11 @@ a { color: var(--color-primary); }
   transform-origin: 50% 100%;
 }
 .kicker { display: inline-block; margin: 0 0 var(--spacing-md); padding: 3px 10px; font-family: var(--font-mono); font-size: var(--text-sm); letter-spacing: var(--tracking-label); }
+/* Navy fill: white or sun-yellow glyphs fall below 3:1 on the pale end of the sunset. */
 h1 {
   margin: 0 auto;
   max-width: 14ch;
-  color: var(--color-highlight);
+  color: var(--color-primary);
   font-family: var(--font-display);
   font-size: clamp(36px, 6vw, 76px);
   font-style: italic;
@@ -80,9 +81,9 @@ h1 {
   line-height: var(--leading-tight);
   letter-spacing: var(--tracking-display);
   text-transform: uppercase;
-  text-shadow: -3px 0 0 var(--color-secondary), 3px 0 0 var(--color-accent), 0 6px 0 var(--color-primary);
+  text-shadow: -3px 0 0 var(--color-secondary), 3px 0 0 var(--color-accent), 0 6px 0 var(--color-highlight);
 }
-h1 span { display: block; color: var(--color-sun); }
+h1 span { display: block; text-shadow: -3px 0 0 var(--color-sun), 3px 0 0 var(--color-accent), 0 6px 0 var(--color-highlight); }
 /* Katakana for the festival name, as decoration only: the empty alt text keeps it out of the accessible name. */
 h1::after { content: "オープンスタジオ・ウィーク" / ""; display: block; margin-top: var(--spacing-sm); color: var(--color-highlight); font-family: var(--font-mono); font-size: var(--text-lg); font-style: normal; letter-spacing: 0.4em; text-shadow: 2px 2px 0 var(--color-primary); }
 .lede { max-width: 46ch; margin: var(--spacing-md) auto; padding: var(--spacing-md); text-align: left; }

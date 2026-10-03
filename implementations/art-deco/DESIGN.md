@@ -107,6 +107,8 @@ Full record: api/styles/art-deco.json. Specimen: implementations/art-deco/index.
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Spaced geometric capitals.** Headings and labels use capitals with wide letter spacing. Letters are geometric, condensed, or high in contrast.
 - **display** (Futura, "Avenir Next Condensed", "Gill Sans", "Century Gothic", sans-serif)
 - **body** ("Gill Sans", "Avenir Next", Futura, "Trebuchet MS", sans-serif)

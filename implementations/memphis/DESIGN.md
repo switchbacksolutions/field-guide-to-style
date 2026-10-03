@@ -112,6 +112,8 @@ Full record: api/styles/memphis.json. Specimen: implementations/memphis/index.ht
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **display** (Futura, "Avenir Next", "Trebuchet MS", sans-serif)
 - **body** ("Avenir Next", "Helvetica Neue", Arial, sans-serif)
 - **mono** ("Avenir Next", "Helvetica Neue", sans-serif)

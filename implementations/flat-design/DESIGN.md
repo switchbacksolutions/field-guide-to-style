@@ -115,6 +115,8 @@ Full record: api/styles/flat-design.json. Specimen: implementations/flat-design/
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Plain, often light sans-serif.** Segoe UI in Metro, Helvetica Neue in iOS 7, and Lato or Open Sans on the web. Large headings are often light or regular weight. Zune and Windows Phone set titles in large lowercase letters.
 - **display** ("Segoe UI", "Helvetica Neue", Lato, "Open Sans", Arial, sans-serif)
 - **body** ("Segoe UI", "Helvetica Neue", Lato, "Open Sans", Arial, sans-serif)

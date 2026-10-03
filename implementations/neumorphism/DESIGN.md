@@ -112,6 +112,8 @@ Full record: api/styles/neumorphism.json. Specimen: implementations/neumorphism/
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Rounded sans-serif.** Geometric or rounded sans-serif type (Poppins, Nunito, Montserrat, SF Pro Rounded) in slate gray, medium to bold, with no borders and no text shadows.
 - **display** ("SF Pro Rounded", Nunito, "Varela Round", "Avenir Next", "Segoe UI", system-ui, sans-serif)
 - **body** (Nunito, "Avenir Next", "Segoe UI", system-ui, -apple-system, "Helvetica Neue", sans-serif)

@@ -162,18 +162,14 @@
     {
       "rule": "cream-palette",
       "match": "rgb\\(255, 244, 224\\)",
+      "max": 1,
       "kind": "trait",
       "reason": "The grammar sets flat brights on an off-white or white ground. #fff4e0 is that off-white."
     },
     {
       "rule": "tight-leading",
-      "match": "line-height 1\\.20x",
-      "kind": "trait",
-      "reason": "The pull quote is heavy display type at 26 px. Display sizes take leading of about 1.2."
-    },
-    {
-      "rule": "tight-leading",
       "match": "line-height 1\\.27x",
+      "max": 1,
       "kind": "detector",
       "reason": "The lede inherits the unitless body leading of 1.5 and renders at 1.5. The detector computes it from the body's pixel line height."
     }

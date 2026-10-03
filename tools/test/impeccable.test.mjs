@@ -14,14 +14,13 @@ before(async () => {
   bin = await engine();
 });
 
-// Detects a staged copy of a specimen with extra CSS appended, and returns what the exceptions leave.
 function check(id, css = "", design = (text) => text) {
   const dir = stageSpecimen(id);
   try {
     appendFileSync(join(dir, "specimen.css"), `\n${css}\n`);
     const designPath = join(dir, "DESIGN.md");
     writeFileSync(designPath, design(readFileSync(designPath, "utf8")));
-    return applyExceptions(detect(bin, dir), loadStyle(id).detectorExceptions);
+    return applyExceptions(detect(bin, dir), loadStyle(id).detectorExceptions, id);
   } finally {
     rmSync(dir, { recursive: true, force: true });
   }
@@ -32,7 +31,7 @@ test("the pilot styles are detector-checked", () => {
   assert.deepEqual(CHECKED.sort(), ["glassmorphism", "memphis", "minimalist-machine", "neo-brutalism", "vaporwave"]);
 });
 
-for (const id of ["glassmorphism", "memphis", "minimalist-machine", "neo-brutalism", "vaporwave"]) {
+for (const id of CHECKED) {
   test(`${id}: every finding is explained and every exception is used`, () => {
     const result = check(id);
     assert.deepEqual(result.unexplained, []);
@@ -46,11 +45,14 @@ const DEFECTS = [
   ["neo-brutalism", '.lede { font-family: "Comic Sans MS", cursive; }', "design-system-font"],
   ["neo-brutalism", "body { background: #f7efd9; }", "cream-palette"],
   ["neo-brutalism", ".card p { line-height: 1.05; }", "tight-leading"],
+  ["neo-brutalism", ".card p { line-height: 1.2; }", "tight-leading"],
   ["memphis", ".card { border-radius: 37px; }", "design-system-radius"],
   ["memphis", ".lede { text-transform: uppercase; }", "all-caps-body"],
   ["vaporwave", ".lede { color: #d0d0d0; }", "low-contrast"],
+  ["vaporwave", "h1 { color: #ffffff; }", "low-contrast"],
   ["vaporwave", "h2 { letter-spacing: 0.2em; }", "wide-tracking"],
   ["glassmorphism", ".card { box-shadow: 0 0 30px #ff00ff; }", "dark-glow"],
+  ["glassmorphism", ".card p { padding: 8px; border: 1px solid var(--color-border); border-radius: var(--radius-sm); background-color: var(--color-subtle); box-shadow: var(--shadow-sm); }", "nested-cards"],
   ["glassmorphism", "h2 { background: linear-gradient(90deg, #ff0080, #7928ca); -webkit-background-clip: text; background-clip: text; color: transparent; }", "gradient-text"],
   ["minimalist-machine", ".card p { line-height: 1.05; }", "tight-leading"],
   ["minimalist-machine", ".card { box-shadow: inset 4px 0 0 #ff3b30; }", "side-tab"],
@@ -68,7 +70,7 @@ test("the old first-family DESIGN.md typography fails again", () => {
 });
 
 test("an exception covers only snippets that match it", () => {
-  const exceptions = [{ rule: "tight-leading", match: "1\\.20x", kind: "trait", reason: "r" }];
+  const exceptions = [{ rule: "tight-leading", match: "1\\.20x", max: 5, kind: "trait", reason: "r" }];
   const findings = [
     { antipattern: "tight-leading", snippet: "line-height 1.20x (need >=1.3)" },
     { antipattern: "tight-leading", snippet: "line-height 1.05x (need >=1.3)" },
@@ -80,8 +82,19 @@ test("an exception covers only snippets that match it", () => {
 });
 
 test("an exception that matches nothing is reported as unused", () => {
-  const stale = { rule: "dark-glow", match: "#123456", kind: "trait", reason: "r" };
+  const stale = { rule: "dark-glow", match: "#123456", max: 1, kind: "trait", reason: "r" };
   assert.deepEqual(applyExceptions([], [stale]).unused, [stale]);
   const result = applyExceptions(check("glassmorphism").explained, [...loadStyle("glassmorphism").detectorExceptions, stale]);
   assert.deepEqual(result.unused, [stale]);
+});
+
+test("findings beyond an exception's max are reported", () => {
+  const finding = { antipattern: "nested-cards", snippet: "Card inside card (p)" };
+  const result = applyExceptions([finding, finding, finding], [{ rule: "nested-cards", match: "\\(p\\)", max: 1, kind: "trait", reason: "r" }]);
+  assert.equal(result.explained.length, 1);
+  assert.equal(result.unexplained.length, 2);
+});
+
+test("an invalid match pattern names the style", () => {
+  assert.throws(() => applyExceptions([], [{ rule: "x", match: "(", max: 1, kind: "trait", reason: "r" }], "memphis"), /memphis/);
 });

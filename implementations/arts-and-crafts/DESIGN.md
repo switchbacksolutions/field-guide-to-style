@@ -107,6 +107,8 @@ Full record: api/styles/arts-and-crafts.json. Specimen: implementations/arts-and
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Heavy old-style roman and blackletter.** Dark, sturdy type after 15th-century printers: Morris’s Golden type is a Venetian roman, and his Troy and Chaucer types are gothic. Text is black, and red marks headings, initials, and side notes.
 - **display** ("Hoefler Text", "Iowan Old Style", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif)
 - **body** ("Iowan Old Style", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif)

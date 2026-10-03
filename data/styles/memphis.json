@@ -173,30 +173,35 @@
     {
       "rule": "hero-eyebrow-chip",
       "match": "Festival of design",
+      "max": 1,
       "kind": "content",
       "reason": "The shared specimen content puts a kicker above the h1 in every style. Memphis sets it as a black sticker label, part of its collage of parts."
     },
     {
       "rule": "all-caps-body",
       "match": "on 35 chars",
-      "kind": "content",
-      "reason": "The 35 characters are the shared kicker, one uppercase label line, not running text."
+      "max": 1,
+      "kind": "trait",
+      "reason": "The 35 characters are the kicker, one uppercase label line. Memphis sets labels in caps on black stickers."
     },
     {
       "rule": "cream-palette",
       "match": "rgb\\(255, 253, 246\\)",
+      "max": 1,
       "kind": "trait",
-      "reason": "#fffdf6 is a near-white laminate ground that the squiggle pattern covers. Black-and-white grids and printed pattern are the grammar's neutral foil."
+      "reason": "#fffdf6 is near-white, and the squiggle laminate pattern covers it. It reads as the white of the grammar's black-and-white foil. The grammar does not name a cream ground, so change it to white if this exception is not wanted."
     },
     {
       "rule": "codex-grid-background",
       "match": "two-axis grid-line",
+      "max": 1,
       "kind": "trait",
       "reason": "The black-and-white grid is a Memphis structure in the grammar, a neutral foil for the brights."
     },
     {
       "rule": "tight-leading",
       "match": "line-height 1\\.21x",
+      "max": 1,
       "kind": "detector",
       "reason": "The lede inherits the unitless body leading of 1.5 and renders at 1.5. The detector computes it from the body's pixel line height."
     }

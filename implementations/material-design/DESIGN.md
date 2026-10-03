@@ -109,6 +109,8 @@ Full record: api/styles/material-design.json. Specimen: implementations/material
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Roboto on a fixed scale.** Roboto in named styles: Display, Headline, Title, Subheading, Body, and Caption. Titles are Medium 20 sp, large display lines are Regular or Light, and buttons are Medium 14 sp in all capitals. Material 2 brings Google Sans to Google’s own products.
 - **display** (Roboto, "Helvetica Neue", Arial, sans-serif)
 - **body** (Roboto, "Helvetica Neue", Arial, sans-serif)

@@ -107,6 +107,8 @@ Full record: api/styles/constructivism.json. Specimen: implementations/construct
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Heavy block capitals.** Bold sans-serif capitals, often drawn by hand and condensed. Words are stacked, enlarged, turned on the diagonal, or set vertically.
 - **display** ("Avenir Next Condensed", "DIN Condensed", Impact, Haettenschweiler, "Arial Narrow", sans-serif)
 - **body** ("Helvetica Neue", Helvetica, Arial, sans-serif)

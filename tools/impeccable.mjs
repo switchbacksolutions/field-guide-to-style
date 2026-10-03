@@ -1,11 +1,11 @@
-// Runs the pinned Impeccable detector on generated specimens and fails on findings that a style's detectorExceptions do not explain.
-// Optional and separate from build.mjs: it downloads a binary, checks it against a pinned sha256, and runs it with no telemetry in a throwaway home.
+// Fails when the pinned Impeccable detector reports a specimen finding that the style's detectorExceptions do not explain.
+// It downloads a binary, so it stays out of build.mjs. The binary runs only after a sha256 check, with telemetry off and a throwaway home.
 // Usage: node tools/impeccable.mjs [style-id ...] [--all] [--json]. With no ids it checks the styles that have detectorExceptions.
 
 import { createHash } from "node:crypto";
 import { spawnSync } from "node:child_process";
 import { chmodSync, copyFileSync, existsSync, mkdirSync, mkdtempSync, readdirSync, readFileSync, renameSync, rmSync, writeFileSync } from "node:fs";
-import { tmpdir } from "node:os";
+import { homedir, tmpdir } from "node:os";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
 import { applyExceptions } from "./lib/detector.mjs";
@@ -24,15 +24,16 @@ const SPECIMEN_FILES = ["index.html", "tokens.css", "specimen.css", "DESIGN.md"]
 
 const sha256 = (path) => createHash("sha256").update(readFileSync(path)).digest("hex");
 
-// Returns the path of a verified engine binary, downloading it once into the temp directory.
+// A per-user 0700 cache, so no other account can swap the binary between the check and the run.
 export async function engine() {
   const platform = `${process.platform}-${process.arch}`;
   const expected = ENGINE.sha256[platform];
   if (!expected) throw new Error(`No pinned Impeccable engine for ${platform}.`);
-  const dir = join(tmpdir(), "field-guide-impeccable", ENGINE.version);
+  const dir = join(process.env.XDG_CACHE_HOME || join(homedir(), ".cache"), "field-guide-to-style", "impeccable", ENGINE.version);
   const bin = join(dir, "impeccable");
+  mkdirSync(dir, { recursive: true, mode: 0o700 });
+  chmodSync(dir, 0o700);
   if (existsSync(bin) && sha256(bin) === expected) return bin;
-  mkdirSync(dir, { recursive: true });
   const url = `https://github.com/pbakaus/impeccable/releases/download/engine-v${ENGINE.version}/impeccable-${platform}`;
   const response = await fetch(url);
   if (!response.ok) throw new Error(`Download failed: ${url} (${response.status}).`);
@@ -48,9 +49,8 @@ export async function engine() {
   return bin;
 }
 
-// Runs the detector on dir/index.html. dir must hold a specimen page and the DESIGN.md that it checks against.
+// bin must come from engine(), which verified it.
 export function detect(bin, dir) {
-  if (sha256(bin) !== ENGINE.sha256[`${process.platform}-${process.arch}`]) throw new Error(`${bin} does not match the pinned checksum.`);
   const home = mkdtempSync(join(tmpdir(), "impeccable-home-"));
   try {
     const env = {
@@ -63,16 +63,18 @@ export function detect(bin, dir) {
       DO_NOT_TRACK: "1",
       IMPECCABLE_NO_TELEMETRY: "1"
     };
-    const run = spawnSync(bin, ["detect", "--json", "index.html"], { cwd: dir, env, encoding: "utf8" });
+    const run = spawnSync(bin, ["detect", "--json", "index.html"], { cwd: dir, env, encoding: "utf8", timeout: 60000 });
     // Exit 2 means the scan finished with findings.
-    if (run.status !== 0 && run.status !== 2) throw new Error(`Detector failed in ${dir} (exit ${run.status}): ${run.stderr || run.error}`);
-    return JSON.parse(run.stdout || "[]");
+    if (run.status !== 0 && run.status !== 2) throw new Error(`Detector failed in ${dir} (exit ${run.status}, signal ${run.signal}): ${run.stderr || run.error}`);
+    const findings = JSON.parse(run.stdout);
+    if (!Array.isArray(findings)) throw new Error(`Detector output in ${dir} is not a list of findings.`);
+    return findings;
   } finally {
     rmSync(home, { recursive: true, force: true });
   }
 }
 
-// Copies a style's generated specimen into a fresh directory so no repo file or config reaches the detector.
+// A copy, so no repo file or .impeccable config reaches the detector.
 export function stageSpecimen(id) {
   const dir = mkdtempSync(join(tmpdir(), `impeccable-${id}-`));
   for (const file of SPECIMEN_FILES) copyFileSync(join(ROOT, "implementations", id, file), join(dir, file));
@@ -91,7 +93,7 @@ async function main() {
   for (const id of ids.sort()) {
     const dir = stageSpecimen(id);
     try {
-      report.push({ id, ...applyExceptions(detect(bin, dir), loadStyle(id).detectorExceptions) });
+      report.push({ id, ...applyExceptions(detect(bin, dir), loadStyle(id).detectorExceptions, id) });
     } finally {
       rmSync(dir, { recursive: true, force: true });
     }
@@ -107,10 +109,10 @@ async function main() {
     }
     console.log(failed.length ? `${failed.length} style(s) have unexplained findings or unused exceptions.` : "Every finding is explained by a style exception.");
   }
-  process.exit(failed.length ? 1 : 0);
+  process.exitCode = failed.length ? 1 : 0;
 }
 
 if (process.argv[1] === fileURLToPath(import.meta.url)) main().catch((error) => {
   console.error(error.message);
-  process.exit(2);
+  process.exitCode = 2;
 });

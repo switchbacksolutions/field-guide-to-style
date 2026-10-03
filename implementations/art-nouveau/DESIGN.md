@@ -107,6 +107,8 @@ Full record: api/styles/art-nouveau.json. Specimen: implementations/art-nouveau/
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Hand-drawn, flared letters.** Lettering is drawn to match the image, with swelling strokes, soft terminals, and unusual proportions. Mixed case and capitals both appear. Typefaces such as Eckmann and Arnold Böcklin copy this lettering.
 - **display** (Optima, Candara, "Segoe UI", "URW Classico", sans-serif)
 - **body** ("Iowan Old Style", Palatino, "Palatino Linotype", "Book Antiqua", Georgia, serif)

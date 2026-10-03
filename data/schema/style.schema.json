@@ -123,10 +123,11 @@
       "items": {
         "type": "object",
         "additionalProperties": false,
-        "required": ["rule", "match", "kind", "reason"],
+        "required": ["rule", "match", "max", "kind", "reason"],
         "properties": {
           "rule": { "$ref": "#/$defs/slug", "description": "An Impeccable rule id, for example tight-leading." },
           "match": { "type": "string", "minLength": 1, "description": "A regular expression that the finding's snippet must match. Name the value or element, so other findings of the same rule still fail." },
+          "max": { "type": "integer", "description": "The most findings this exception explains. Findings beyond it fail, so a broad pattern cannot hide new instances." },
           "kind": {
             "enum": ["trait", "content", "detector"],
             "description": "trait: the finding is part of this style. content: it comes from the shared specimen content, not the style. detector: the detector misreads the page."

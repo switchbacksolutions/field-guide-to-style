@@ -107,6 +107,8 @@ Full record: api/styles/bauhaus.json. Specimen: implementations/bauhaus/index.ht
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Sans-serif, often lowercase.** Geometric or grotesque letters. Herbert Bayer’s universal alphabet (1925) removed capitals.
 - **display** (Futura, "Century Gothic", "Avenir Next", "Trebuchet MS", sans-serif)
 - **body** ("Avenir Next", Futura, "Century Gothic", "Helvetica Neue", sans-serif)

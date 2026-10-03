@@ -120,6 +120,8 @@ Full record: api/styles/glassmorphism.json. Specimen: implementations/glassmorph
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Clean sans-serif.** Geometric or neo-grotesque sans-serif type, often white on dark glass or dark on light glass, with little decoration.
 - **display** ("SF Pro Display", "Segoe UI Variable Display", Inter, system-ui, -apple-system, "Helvetica Neue", sans-serif)
 - **body** ("SF Pro Text", "Segoe UI Variable Text", Inter, system-ui, -apple-system, "Helvetica Neue", sans-serif)

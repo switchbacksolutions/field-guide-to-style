@@ -107,6 +107,8 @@ Full record: api/styles/streamline-moderne.json. Specimen: implementations/strea
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Bold geometric sans, leaning forward.** Lettering is geometric or monoline sans serif, often in capitals, often slanted forward or with speed lines attached. Interpretation from 1930s transport graphics; to confirm with references.
 - **display** (Futura, "Avenir Next", "Century Gothic", "Trebuchet MS", sans-serif)
 - **body** ("Avenir Next", Futura, "Century Gothic", "Helvetica Neue", sans-serif)

@@ -219,7 +219,7 @@ function designMd(id, title, flat, resolve, style) {
   lines.push(
     ...section("Overview", style ? [plain(style.lede), "", `Moods: ${style.moods.join(", ")}.`, "", `Full record: api/styles/${id}.json. Specimen: implementations/${id}/index.html.`] : [title]),
     ...section("Colors", [...grammar(["color"]), ...colors.map(describe)]),
-    ...section("Typography", [...grammar(["type"]), ...group("font").map(describe)]),
+    ...section("Typography", [...(typography.length ? ["Each fontFamily in the front matter is a CSS font stack, first choice first.", ""] : []), ...grammar(["type"]), ...group("font").map(describe)]),
     ...section("Layout", grammar(["layout", "structure"])),
     ...section("Elevation & Depth", group("shadow").map(describe)),
     ...section("Shapes", [...grammar(["surface"]), ...group("radius").map(describe)]),

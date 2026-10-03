@@ -107,6 +107,8 @@ Full record: api/styles/op-art.json. Specimen: implementations/op-art/index.html
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Plain sans-serif, patterned display.** Text is a neutral or condensed grotesque, set black on white. Display letters sometimes carry stripes or concentric outlines, as in Grignani’s work, but body text stays plain.
 - **display** ("Avenir Next Condensed", Futura, "Helvetica Neue", "Arial Narrow", sans-serif)
 - **body** ("Helvetica Neue", Helvetica, Arial, sans-serif)

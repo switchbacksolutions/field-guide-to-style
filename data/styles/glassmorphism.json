@@ -235,20 +235,23 @@
     {
       "rule": "dark-glow",
       "match": "\\(#0a0624\\)",
+      "max": 26,
       "kind": "trait",
       "reason": "The soft, wide shadow under each glass panel is the light-edge grammar. #0a0624 is the dark indigo of the backdrop at 20 to 30 % alpha, a shadow and not a neon glow."
     },
     {
       "rule": "radial-halo",
       "match": "#7c3aed → transparent",
+      "max": 1,
       "kind": "trait",
       "reason": "The blurred violet blob behind the glass is the vivid backdrop in the grammar. The glass needs it to show depth."
     },
     {
       "rule": "nested-cards",
       "match": "\\(p\\)",
+      "max": 1,
       "kind": "trait",
-      "reason": "The kicker is a glass chip on the hero glass panel: two layers, which the floating-cards grammar allows. The rules forbid many stacked layers, not one chip."
+      "reason": "The kicker is a glass chip on the hero glass panel: two layers, which the floating-cards grammar allows. The rules forbid many stacked layers, so max stays 1."
     }
   ]
 }

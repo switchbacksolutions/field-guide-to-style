@@ -105,6 +105,8 @@ Full record: api/styles/frutiger-aero.json. Specimen: implementations/frutiger-a
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Humanist sans-serif.** Frutiger, Segoe UI, Myriad, and similar open, friendly typefaces.
 - **display** (Frutiger, "Segoe UI", "Myriad Pro", "Lucida Grande", "Helvetica Neue", sans-serif)
 - **body** ("Segoe UI", Frutiger, "Myriad Pro", "Lucida Grande", "Helvetica Neue", sans-serif)

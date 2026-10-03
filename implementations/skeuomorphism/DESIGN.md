@@ -151,6 +151,8 @@ Full record: api/styles/skeuomorphism.json. Specimen: implementations/skeuomorph
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Letterpress text.** Labels are pressed into the surface: dark text with a 1 px white shadow below, or light text with a 1 px dark shadow above. Helvetica Neue for interface text, with handwriting faces such as Marker Felt for notes.
 - **display** ("Helvetica Neue", Helvetica, Arial, sans-serif)
 - **body** ("Helvetica Neue", Helvetica, Arial, sans-serif)

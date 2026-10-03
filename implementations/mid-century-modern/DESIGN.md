@@ -111,6 +111,8 @@ Full record: api/styles/mid-century-modern.json. Specimen: implementations/mid-c
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Mixed, playful lettering.** Geometric sans-serif or slab headings next to brush script or hand lettering. Words may bounce off the baseline or tilt. Body text is a plain serif or sans-serif.
 - **display** (Futura, "Century Gothic", "Avenir Next", "Trebuchet MS", sans-serif)
 - **body** ("Iowan Old Style", Palatino, "Book Antiqua", Georgia, serif)

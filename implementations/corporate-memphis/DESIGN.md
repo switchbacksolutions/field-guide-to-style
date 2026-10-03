@@ -123,6 +123,8 @@ Full record: api/styles/corporate-memphis.json. Specimen: implementations/corpor
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Friendly geometric sans.** Headings are a bold geometric or rounded sans-serif in sentence case. CARI lists geometric sans typefaces among the traits of the friendly corporate look. The type supports the illustration and does not carry the style.
 - **display** ("Avenir Next", Nunito, "Segoe UI", "Helvetica Neue", Arial, sans-serif)
 - **body** ("Avenir Next", Nunito, "Segoe UI", "Helvetica Neue", Arial, sans-serif)

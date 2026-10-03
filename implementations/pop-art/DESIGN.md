@@ -109,6 +109,8 @@ Full record: api/styles/pop-art.json. Specimen: implementations/pop-art/index.ht
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Balloon and sound-effect lettering.** Capital letters in speech balloons and yellow caption boxes. Sound effects in huge condensed or blocky letters with a black outline and a drop. Robert Indiana used stacked slab-serif words.
 - **display** (Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif): Condensed heavy sans for sound-effect lettering and headlines. These faces are heavy at weight 400.
 - **body** ("Helvetica Neue", Arial, sans-serif)

@@ -119,6 +119,8 @@ Full record: api/styles/vaporwave.json. Specimen: implementations/vaporwave/inde
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Fullwidth and Japanese text.** Latin text set in fullwidth forms (ＡＥＳＴＨＥＴＩＣ) or widely spaced, Japanese katakana or kanji as decoration, and default system fonts such as Times New Roman, Arial, and MS Gothic.
 - **display** ("Times New Roman", Times, "Liberation Serif", serif)
 - **body** (Tahoma, Verdana, "MS Sans Serif", Geneva, "DejaVu Sans", sans-serif)

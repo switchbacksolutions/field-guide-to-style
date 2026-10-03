@@ -99,6 +99,8 @@ Full record: api/styles/minimalist-machine.json. Specimen: implementations/minim
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Functional typography.** Plain sans-serif headings; monospaced labels, values, and object names.
 - **display** ("Helvetica Neue", Helvetica, Arial, sans-serif)
 - **body** ("Helvetica Neue", Helvetica, Arial, sans-serif)

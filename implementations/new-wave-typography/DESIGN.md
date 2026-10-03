@@ -107,6 +107,8 @@ Full record: api/styles/new-wave-typography.json. Specimen: implementations/new-
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Swiss grotesques, set loose.** Akzidenz-Grotesk, Univers, and Helvetica, as in the Swiss style. The difference is the handling: very wide or uneven letterspacing, several weights inside one word or line, and very large type next to very small type.
 - **display** ("Helvetica Neue", Helvetica, "Arial Black", Arial, sans-serif)
 - **body** ("Helvetica Neue", Helvetica, Arial, sans-serif)

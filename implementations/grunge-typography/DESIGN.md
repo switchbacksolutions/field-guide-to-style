@@ -107,6 +107,8 @@ Full record: api/styles/grunge-typography.json. Specimen: implementations/grunge
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Distressed letterforms.** Letters look photocopied too many times, torn, scratched, blurred, or eroded. Fonts such as Droplet, Morire, and Reactor were drawn damaged. Carson also ripped and remade existing letters.
 - **Clashing typefaces.** Five or more unrelated faces in one layout: a heavy condensed grotesque, a high-contrast serif, a typewriter face, hand scrawl, and the default desktop serif. Case, size, and weight change without a system.
 - **Crushed spacing.** Letters are packed until they touch or overlap, and lines of display type overlap their neighbours. Kerning, leading, and baselines are ignored on purpose.

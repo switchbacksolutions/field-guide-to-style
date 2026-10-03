@@ -99,6 +99,8 @@ Full record: api/styles/international-typographic-style.json. Specimen: implemen
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Grotesque sans-serif.** Akzidenz-Grotesk, Helvetica, and Univers in a small number of sizes and weights. Text is flush left and ragged right.
 - **Scale contrast.** One very large element, such as a headline or number, against small, even body text.
 - **display** ("Helvetica Neue", Helvetica, Arial, sans-serif): A grotesque: Helvetica, Akzidenz-Grotesk, or Univers when licensed.

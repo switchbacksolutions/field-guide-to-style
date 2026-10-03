@@ -107,6 +107,8 @@ Full record: api/styles/vienna-secession.json. Specimen: implementations/vienna-
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Capitals fitted to a block.** Lettering is hand-drawn capitals, often condensed or squared, set close and stretched to fill a rectangle. Body text in Ver Sacrum and Werkstätte printing is a plain roman.
 - **display** ("Avenir Next Condensed", "DIN Condensed", "Arial Narrow", "Roboto Condensed", sans-serif)
 - **body** (Baskerville, Georgia, "Times New Roman", serif)

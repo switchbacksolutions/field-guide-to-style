@@ -111,6 +111,8 @@ Full record: api/styles/neo-brutalism.json. Specimen: implementations/neo-brutal
 
 ## Typography
 
+Each fontFamily in the front matter is a CSS font stack, first choice first.
+
 - **Heavy display type.** Large, bold grotesque or geometric sans-serif headings. Sometimes monospaced labels.
 - **display** ("Arial Black", "Helvetica Neue", Arial, sans-serif)
 - **body** ("Helvetica Neue", Arial, sans-serif)
