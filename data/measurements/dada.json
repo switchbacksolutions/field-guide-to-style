@@ -1,0 +1,161 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/dada/index.html",
+  "title": "Dada specimen · A Field Guide to Style",
+  "captured": "2026-10-03T00:01:00.990Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Georgia",
+        "share": 0.48
+      },
+      {
+        "family": "Franklin Gothic Medium",
+        "share": 0.24
+      },
+      {
+        "family": "Didot",
+        "share": 0.15
+      },
+      {
+        "family": "Impact",
+        "share": 0.11
+      },
+      {
+        "family": "Courier New",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 197.1,
+    "sizeRange": 11.6,
+    "scaleRatio": 1.48,
+    "headingWeight": 900,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.2,
+    "monoShare": 0.02,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#ebe3d0",
+        "share": 0.655
+      },
+      {
+        "hex": "#151311",
+        "share": 0.149
+      },
+      {
+        "hex": "#f4efe2",
+        "share": 0.057
+      },
+      {
+        "hex": "#c8231b",
+        "share": 0.054
+      },
+      {
+        "hex": "#d8cdb5",
+        "share": 0.044
+      },
+      {
+        "hex": "#857d72",
+        "share": 0.037
+      },
+      {
+        "hex": "#4a443d",
+        "share": 0.005
+      }
+    ],
+    "background": "#ebe3d0",
+    "text": "#151311",
+    "contrast": 14.5,
+    "chroma": 0.12,
+    "lightness": 0.71,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.68,
+    "distinct": 6,
+    "hues": 1,
+    "imageShare": 0.1,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 42,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.71,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#ebe3d0",
+        "share": 0.681
+      },
+      {
+        "hex": "#141311",
+        "share": 0.068
+      },
+      {
+        "hex": "#d8ceb6",
+        "share": 0.057
+      },
+      {
+        "hex": "#2c2825",
+        "share": 0.016
+      },
+      {
+        "hex": "#a19e97",
+        "share": 0.016
+      },
+      {
+        "hex": "#acabab",
+        "share": 0.015
+      },
+      {
+        "hex": "#67635c",
+        "share": 0.015
+      },
+      {
+        "hex": "#c6c5c5",
+        "share": 0.014
+      },
+      {
+        "hex": "#b9b9b8",
+        "share": 0.014
+      },
+      {
+        "hex": "#908e89",
+        "share": 0.014
+      }
+    ],
+    "background": "#ebe3d0",
+    "chroma": 0.1,
+    "lightness": 0.75,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.55,
+    "distinct": 3,
+    "hues": 1
+  }
+}

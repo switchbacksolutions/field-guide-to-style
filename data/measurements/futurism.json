@@ -1,0 +1,165 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/futurism/index.html",
+  "title": "Italian Futurism specimen · A Field Guide to Style",
+  "captured": "2026-10-02T23:55:03.132Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Bodoni 72",
+        "share": 0.58
+      },
+      {
+        "family": "Courier New",
+        "share": 0.14
+      },
+      {
+        "family": "Helvetica Neue",
+        "share": 0.12
+      },
+      {
+        "family": "Impact",
+        "share": 0.12
+      },
+      {
+        "family": "Rockwell",
+        "share": 0.04
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 172.8,
+    "sizeRange": 10.16,
+    "scaleRatio": 1.44,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.27,
+    "monoShare": 0.18,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#f1e9d6",
+        "share": 0.622
+      },
+      {
+        "hex": "#15130f",
+        "share": 0.109
+      },
+      {
+        "hex": "#d9261c",
+        "share": 0.09
+      },
+      {
+        "hex": "#f2b20c",
+        "share": 0.09
+      },
+      {
+        "hex": "#ddd2bb",
+        "share": 0.061
+      },
+      {
+        "hex": "#0f7a4c",
+        "share": 0.013
+      },
+      {
+        "hex": "#fbf4e4",
+        "share": 0.013
+      },
+      {
+        "hex": "#4d463c",
+        "share": 0.004
+      }
+    ],
+    "background": "#f1e9d6",
+    "text": "#15130f",
+    "contrast": 15.3,
+    "chroma": 0.23,
+    "lightness": 0.71,
+    "chromaticShare": 0.19,
+    "accentChroma": 0.79,
+    "distinct": 5,
+    "hues": 3,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 31,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.1,
+      "medianWidth": 10
+    },
+    "shadow": {
+      "share": 0.48,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 45.7
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#f1e9d6",
+        "share": 0.729
+      },
+      {
+        "hex": "#d8261c",
+        "share": 0.074
+      },
+      {
+        "hex": "#f1b20b",
+        "share": 0.068
+      },
+      {
+        "hex": "#15130f",
+        "share": 0.047
+      },
+      {
+        "hex": "#9a9588",
+        "share": 0.01
+      },
+      {
+        "hex": "#e9d8c4",
+        "share": 0.008
+      },
+      {
+        "hex": "#7b7569",
+        "share": 0.007
+      },
+      {
+        "hex": "#33291a",
+        "share": 0.005
+      },
+      {
+        "hex": "#b5ae9e",
+        "share": 0.005
+      },
+      {
+        "hex": "#cbc6b5",
+        "share": 0.005
+      }
+    ],
+    "background": "#f1e9d6",
+    "chroma": 0.22,
+    "lightness": 0.77,
+    "chromaticShare": 0.17,
+    "accentChroma": 0.78,
+    "distinct": 4,
+    "hues": 2
+  }
+}

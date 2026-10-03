@@ -1,0 +1,546 @@
+{
+  "id": "cyberpunk",
+  "title": "Cyberpunk",
+  "order": 30,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Cyberpunk design",
+    "Neon noir",
+    "Tech noir"
+  ],
+  "summary": "Neon signs in a wet black night, terminal text, and heads-up displays. High tech, low life.",
+  "lede": "The visual look of the cyberpunk science-fiction genre, as designers apply it to posters, games, and interfaces: a near-black night city lit by saturated cyan, magenta, and warning-yellow neon, monospace terminal text, heads-up-display frames and brackets, and glitch interference. The name comes from Bruce Bethke’s 1983 story and the 1980s fiction of William Gibson. Blade Runner (1982) and Akira set its look. This record covers the screen and graphic look. Cybergoth fashion, techwear, and cyberdelic art are related branches.",
+  "moods": [
+    "dystopian",
+    "gritty",
+    "nocturnal",
+    "high-tech",
+    "rebellious",
+    "tense"
+  ],
+  "era": {
+    "from": 1982,
+    "note": "Wikipedia: the Akira manga began in 1982, the year of Blade Runner, and Neuromancer followed in 1984. Envato wrote in 2017 that “cyberpunk is big right now”. The Aesthetics Wiki uses Cyberpunk 2077 (2020) as its lead image. The look continues in games and marketing."
+  },
+  "regions": [
+    "United States",
+    "Japan",
+    "Hong Kong",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q174526"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Cyberpunk",
+      "url": "https://en.wikipedia.org/wiki/Cyberpunk",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Aesthetics Wiki: Cyberpunk",
+      "url": "https://aesthetics.fandom.com/wiki/Cyberpunk",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Envato (5 September 2017): A Cyberpunk Future Is Closer Than You Think",
+      "url": "https://elements.envato.com/learn/cyberpunk-design-trend",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Film noir",
+      "wikidata": "Q185867",
+      "note": "Wikipedia: “much of the genre’s atmosphere echoes film noir”. The deep shadows, rain, and hard light of noir carry over into the neon night city."
+    },
+    {
+      "relation": "related-to",
+      "label": "Tech noir",
+      "wikidata": "Q1894374",
+      "note": "Wikipedia: some cyberpunk films “have been described as tech-noir, a hybrid genre combining neo-noir and science fiction or cyberpunk”."
+    },
+    {
+      "relation": "related-to",
+      "label": "Glitch art",
+      "wikidata": "Q5569949",
+      "note": "The Aesthetics Wiki lists glitch art as a related aesthetic. Envato names the digital glitch, “the digital flickering caused by interference”, as a cyberpunk effect."
+    },
+    {
+      "relation": "related-to",
+      "label": "Cybergoth",
+      "wikidata": "Q176497",
+      "note": "Wikipedia: cybergoth is a fashion and dance subculture that “draws its inspiration from cyberpunk fiction, as well as rave and Gothic subcultures”. It is a fashion branch, not covered here."
+    },
+    {
+      "relation": "related-to",
+      "style": "synthwave",
+      "note": "The Aesthetics Wiki lists synthwave as related. Both use neon on black. Synthwave looks back at 1980s pop culture, and cyberpunk shows a dystopian near future."
+    },
+    {
+      "relation": "related-to",
+      "style": "vaporwave",
+      "note": "The Aesthetics Wiki lists vaporwave as related and says the revival “often blends traditional cyberpunk motifs” with vaporwave and synthwave."
+    },
+    {
+      "relation": "related-to",
+      "style": "y2k",
+      "note": "The Aesthetics Wiki lists Y2K Futurism as related. Both are digital futures of the late 20th century, with opposite moods."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Neon on black.",
+      "text": "A near-black, blue-black ground lit by small areas of saturated cyan, magenta, and acid or warning yellow. Envato: “hot pink neon contrasted with the cool metallic blues and grays”."
+    },
+    {
+      "facet": "surface",
+      "term": "Glow, not shadow.",
+      "text": "Lines, frames, and letters give off light: blurred halos with no offset, as from neon tubes and screens. There are no drop shadows, because the light source is the object."
+    },
+    {
+      "facet": "type",
+      "term": "Terminal and HUD type.",
+      "text": "Monospace text for data, labels, and body, and condensed or squared sans-serif capitals for display. Labels carry codes, numbers, and status words."
+    },
+    {
+      "facet": "structure",
+      "term": "Heads-up-display frames.",
+      "text": "Thin 1 px frames, corner brackets, chamfered corners, tick marks, and numbered panels, as on a targeting screen or a terminal window."
+    },
+    {
+      "facet": "layout",
+      "term": "Dense data panels.",
+      "text": "Information sits in many small, labelled panels and tables, like a dashboard or a wall of signs. Diagonal cuts and hazard stripes break the grid."
+    },
+    {
+      "facet": "imagery",
+      "term": "Night city and the cyborg body.",
+      "text": "Rain-wet streets, megastructures, vertical neon signs, often in Japanese or Chinese, cables, implants, and holograms. Wikipedia names Hong Kong and Kowloon Walled City as models for the city."
+    },
+    {
+      "facet": "motion",
+      "term": "Glitch and flicker.",
+      "text": "Color-channel splits, scan lines, flickering neon, and typed-out text. Envato describes the glitch effect as “fallibility” in holograms and displays."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "The ground is black or near-black blue, and saturated cyan, magenta, or yellow neon lights the elements.",
+      "Lines and letters glow with a blurred halo that has no offset.",
+      "Monospace terminal text, codes, and numbered labels appear throughout, with condensed capitals for display.",
+      "Thin HUD frames, corner brackets, chamfered corners, or hazard stripes structure the content.",
+      "Night city, cyborg, or screen imagery with glitch artefacts."
+    ],
+    "counter": [
+      "A pastel sunset, Windows 95 windows, or Greek statues: that is vaporwave.",
+      "A striped setting sun over a grid horizon with chrome lettering and no dystopian content: that is synthwave.",
+      "A light silver or white ground with rounded candy-plastic shapes and an optimistic tone: that is Y2K.",
+      "Soft, rounded, friendly controls on a light ground.",
+      "Drop shadows that suggest daylight from above."
+    ],
+    "confusions": [
+      {
+        "with": "vaporwave",
+        "difference": "Vaporwave is pastel pink, purple, and cyan, ironic and nostalgic, with gray Windows 95 windows and classical statues. Cyberpunk is dark and serious, with saturated neon, terminal text, and HUD frames."
+      },
+      {
+        "with": "y2k",
+        "difference": "Y2K is bright, silver, rounded, and optimistic: chrome blobs and candy plastic around the year 2000. Cyberpunk is black, square or chamfered, and dystopian."
+      },
+      {
+        "with": "synthwave",
+        "difference": "Synthwave is retro 1980s nostalgia: a striped sunset over a neon grid horizon, chrome logotypes, and sunset gradients. Cyberpunk has no sunset. It shows a dense night city, HUD panels, terminal text, and glitches."
+      },
+      {
+        "with": "glassmorphism",
+        "difference": "Dark glassmorphism dashboards can use neon accents, but their panels are frosted, translucent, and generously rounded. Cyberpunk panels are opaque, square or chamfered, and outlined with glowing hairlines."
+      },
+      {
+        "with": "Cybergoth",
+        "difference": "Cybergoth is a fashion and club subculture: neon falls, goggles, and PVC. This record covers the graphic and interface look, not dress."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a near-black, slightly blue background, and keep neon colors to lines, labels, and small fills.",
+      "Pick two or three neon colors: cyan, magenta, and acid yellow. Give each one a job, for example yellow for primary actions and cyan for frames.",
+      "Make frames glow with a blurred box shadow that has no offset.",
+      "Set body text, labels, and data in a monospace font. Set display headings in condensed sans-serif capitals.",
+      "Frame panels with 1 px lines, corner brackets, and chamfered corners, and number or code them like HUD readouts.",
+      "Use color-channel offsets, scan lines, or hazard stripes for emphasis, in small areas."
+    ],
+    "dont": [
+      "Do not round corners or use pill shapes.",
+      "Do not use drop shadows with an offset. Light comes from the elements themselves.",
+      "Do not use pastel colors or sunset gradients. They read as vaporwave or synthwave.",
+      "Do not put long body text in neon colors. Keep it in a pale, cool off-white with a contrast ratio of at least 7:1.",
+      "Do not add Japanese or Chinese text that you cannot read or check. Use short, correct phrases, or none.",
+      "Do not animate flicker or glitch continuously. Respect prefers-reduced-motion."
+    ],
+    "uses": [
+      "Video games and game studios",
+      "Esports teams and tournaments",
+      "Electronic music, club nights, and festivals",
+      "Developer tools, security, and hacking products",
+      "Science-fiction film, books, and fan sites"
+    ],
+    "avoid": [
+      "Health, children’s, and wellness products. The style signals danger, surveillance, and decay.",
+      "Banks, insurance, and government services. Its anti-corporate tone undercuts trust.",
+      "Long-form reading. Dark grounds, monospace body text, and glow tire the eye over many pages."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "type.monoShare",
+      "min": 0.5,
+      "note": "Positive marker: terminal and HUD text in a monospace font covers most of the page. The specimen measures 0.87. The finished specimens measure 0.3 or less, and the synthwave specimen measures 0.02. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "pixels.lightness",
+      "max": 0.15,
+      "note": "Positive marker: a near-black night ground. The specimen screenshot measures 0.09. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.2,
+      "note": "Positive marker: neon frames glow. The specimen measures 0.32. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.medianOffset",
+      "max": 0.5,
+      "note": "Glows have no offset, because the light comes from the element. The specimen measures 0. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.hardShare",
+      "max": 0.2,
+      "note": "Glows are blurred halos, not hard bevels or offset blocks. The specimen measures 0. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "min": 0.25,
+      "note": "Positive marker: HUD labels, navigation, and display headings are in capitals. The specimen measures 0.36. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Frames are square or chamfered. clip-path chamfers do not change the measured radius. The specimen measures 0. Provisional: set from the specimen, recalibrate with measured references."
+    }
+  ],
+  "page": "cyberpunk.html",
+  "implementation": {
+    "tokens": "implementations/cyberpunk/tokens.json",
+    "css": "implementations/cyberpunk/tokens.css",
+    "tailwind": "implementations/cyberpunk/tailwind.css",
+    "shadcn": "implementations/cyberpunk/shadcn.css",
+    "registry": "implementations/cyberpunk/registry-item.json",
+    "designMd": "implementations/cyberpunk/DESIGN.md",
+    "specimen": "implementations/cyberpunk/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for cyberpunk. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#07080d"
+      },
+      "surface": {
+        "$value": "#0d1119"
+      },
+      "subtle": {
+        "$value": "#151b27"
+      },
+      "text": {
+        "$value": "#d8f3ff"
+      },
+      "muted": {
+        "$value": "#93a9bf"
+      },
+      "border": {
+        "$value": "#1f6f86"
+      },
+      "primary": {
+        "$value": "#fcee0a",
+        "$description": "Acid yellow: primary actions and warnings."
+      },
+      "on-primary": {
+        "$value": "#07080d"
+      },
+      "secondary": {
+        "$value": "#00e5ff",
+        "$description": "Cyan: frames, links, and glow."
+      },
+      "on-secondary": {
+        "$value": "#07080d"
+      },
+      "accent": {
+        "$value": "#ff2a6d",
+        "$description": "Magenta: emphasis and glitch offsets."
+      },
+      "on-accent": {
+        "$value": "#07080d"
+      },
+      "glow": {
+        "$value": "#00e5ff",
+        "$description": "Glow color for frames."
+      },
+      "shade": {
+        "$value": "#000000"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Bahnschrift",
+          "DIN Condensed",
+          "Arial Narrow",
+          "Roboto Condensed",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Cascadia Mono",
+          "JetBrains Mono",
+          "Consolas",
+          "Menlo",
+          "DejaVu Sans Mono",
+          "Courier New",
+          "monospace"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Cascadia Mono",
+          "JetBrains Mono",
+          "Consolas",
+          "Menlo",
+          "DejaVu Sans Mono",
+          "Courier New",
+          "monospace"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 700
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "13px"
+      },
+      "base": {
+        "$value": "15px"
+      },
+      "lg": {
+        "$value": "18px"
+      },
+      "xl": {
+        "$value": "22px"
+      },
+      "2xl": {
+        "$value": "30px"
+      },
+      "3xl": {
+        "$value": "44px"
+      },
+      "4xl": {
+        "$value": "64px"
+      },
+      "5xl": {
+        "$value": "96px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.95
+      },
+      "body": {
+        "$value": 1.6
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.06,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.16,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "3px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "4px"
+      },
+      "sm": {
+        "$value": "8px"
+      },
+      "md": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "28px"
+      },
+      "xl": {
+        "$value": "48px"
+      },
+      "2xl": {
+        "$value": "80px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "sm": {
+        "$value": [
+          {
+            "color": "#00e5ff80",
+            "offsetX": "0px",
+            "offsetY": "0px",
+            "blur": "6px",
+            "spread": "0px",
+            "inset": false
+          }
+        ],
+        "$description": "Faint glow for buttons and fields."
+      },
+      "md": {
+        "$value": [
+          {
+            "color": "#00e5ff59",
+            "offsetX": "0px",
+            "offsetY": "0px",
+            "blur": "14px",
+            "spread": "0px",
+            "inset": false
+          },
+          {
+            "color": "#00e5ff26",
+            "offsetX": "0px",
+            "offsetY": "0px",
+            "blur": "2px",
+            "spread": "0px",
+            "inset": true
+          }
+        ],
+        "$description": "Neon glow for panels: an outer halo and a faint inner one."
+      },
+      "accent": {
+        "$value": [
+          {
+            "color": "#ff2a6d73",
+            "offsetX": "0px",
+            "offsetY": "0px",
+            "blur": "16px",
+            "spread": "0px",
+            "inset": false
+          }
+        ],
+        "$description": "Magenta glow for the featured panel."
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": []
+}

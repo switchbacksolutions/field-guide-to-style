@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/kawaii/index.html",
+  "title": "Kawaii specimen · A Field Guide to Style",
+  "captured": "2026-10-02T23:56:49.609Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "ui-rounded",
+        "share": 1
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 96,
+    "sizeRange": 5.65,
+    "scaleRatio": 1.33,
+    "headingWeight": 800,
+    "bodyWeight": 500,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.18
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#fff6f9",
+        "share": 0.584
+      },
+      {
+        "hex": "#5b3a4a",
+        "share": 0.133
+      },
+      {
+        "hex": "#c4a8ff",
+        "share": 0.066
+      },
+      {
+        "hex": "#ffe4ee",
+        "share": 0.061
+      },
+      {
+        "hex": "#ffe08a",
+        "share": 0.034
+      },
+      {
+        "hex": "#ffb59a",
+        "share": 0.031
+      },
+      {
+        "hex": "#7d5a6a",
+        "share": 0.028
+      },
+      {
+        "hex": "#8fe3c4",
+        "share": 0.024
+      },
+      {
+        "hex": "#8fcbff",
+        "share": 0.024
+      },
+      {
+        "hex": "#ff9ec7",
+        "share": 0.013
+      }
+    ],
+    "background": "#fff6f9",
+    "text": "#5b3a4a",
+    "contrast": 9.2,
+    "chroma": 0.12,
+    "lightness": 0.84,
+    "chromaticShare": 0.19,
+    "accentChroma": 0.38,
+    "distinct": 9,
+    "hues": 6,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0.08
+  },
+  "surface": {
+    "boxes": 24,
+    "radius": {
+      "median": 44,
+      "max": 64,
+      "roundShare": 1
+    },
+    "border": {
+      "share": 0.92,
+      "medianWidth": 3
+    },
+    "shadow": {
+      "share": 0.46,
+      "hardShare": 0,
+      "medianBlur": 24,
+      "medianOffset": 10
+    },
+    "gradientShare": 0,
+    "patternShare": 0.04,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#fff6f9",
+        "share": 0.837
+      },
+      {
+        "hex": "#fd9fc7",
+        "share": 0.029
+      },
+      {
+        "hex": "#fee7ee",
+        "share": 0.026
+      },
+      {
+        "hex": "#593948",
+        "share": 0.019
+      },
+      {
+        "hex": "#866f79",
+        "share": 0.018
+      },
+      {
+        "hex": "#dbc9d1",
+        "share": 0.011
+      },
+      {
+        "hex": "#90d6de",
+        "share": 0.01
+      },
+      {
+        "hex": "#c1b1b8",
+        "share": 0.009
+      },
+      {
+        "hex": "#fade8b",
+        "share": 0.009
+      },
+      {
+        "hex": "#9f959e",
+        "share": 0.008
+      }
+    ],
+    "background": "#fff6f9",
+    "chroma": 0.06,
+    "lightness": 0.93,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.37,
+    "distinct": 3,
+    "hues": 3
+  }
+}

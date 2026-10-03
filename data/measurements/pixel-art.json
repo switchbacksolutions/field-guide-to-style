@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/pixel-art/index.html",
+  "title": "Pixel Art specimen · A Field Guide to Style",
+  "captured": "2026-10-02T23:56:08.542Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Monaco",
+        "share": 0.55
+      },
+      {
+        "family": "Fixedsys",
+        "share": 0.43
+      },
+      {
+        "family": "monospace",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 72,
+    "sizeRange": 4.5,
+    "scaleRatio": 1.27,
+    "headingWeight": 400,
+    "bodyWeight": 400,
+    "headingTracking": 0.04,
+    "uppercaseShare": 0.31,
+    "monoShare": 1,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#fff1e8",
+        "share": 0.576
+      },
+      {
+        "hex": "#1d2b53",
+        "share": 0.349
+      },
+      {
+        "hex": "#ffccaa",
+        "share": 0.031
+      },
+      {
+        "hex": "#000000",
+        "share": 0.021
+      },
+      {
+        "hex": "#ffec27",
+        "share": 0.013
+      },
+      {
+        "hex": "#5f574f",
+        "share": 0.004
+      },
+      {
+        "hex": "#29adff",
+        "share": 0.003
+      },
+      {
+        "hex": "#ff004d",
+        "share": 0.003
+      }
+    ],
+    "background": "#fff1e8",
+    "text": "#1d2b53",
+    "contrast": 12.5,
+    "chroma": 0.15,
+    "lightness": 0.66,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.53,
+    "distinct": 4,
+    "hues": 3,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0.25
+  },
+  "surface": {
+    "boxes": 29,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0.66,
+      "hardShare": 1,
+      "medianBlur": 0,
+      "medianOffset": 4
+    },
+    "gradientShare": 0,
+    "patternShare": 0.07,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#fff1e8",
+        "share": 0.44
+      },
+      {
+        "hex": "#1d2b52",
+        "share": 0.4
+      },
+      {
+        "hex": "#f2e32a",
+        "share": 0.013
+      },
+      {
+        "hex": "#6f6a56",
+        "share": 0.013
+      },
+      {
+        "hex": "#038850",
+        "share": 0.012
+      },
+      {
+        "hex": "#2a201e",
+        "share": 0.011
+      },
+      {
+        "hex": "#101832",
+        "share": 0.01
+      },
+      {
+        "hex": "#444037",
+        "share": 0.009
+      },
+      {
+        "hex": "#817e85",
+        "share": 0.009
+      },
+      {
+        "hex": "#2aacfa",
+        "share": 0.009
+      }
+    ],
+    "background": "#fff1e8",
+    "chroma": 0.17,
+    "lightness": 0.57,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.68,
+    "distinct": 2,
+    "hues": 5
+  }
+}

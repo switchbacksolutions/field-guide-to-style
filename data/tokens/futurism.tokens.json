@@ -1,0 +1,252 @@
+{
+  "$description": "Authored tokens for futurism. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#f1e9d6",
+      "$description": "Unbleached book paper."
+    },
+    "surface": {
+      "$value": "#f1e9d6"
+    },
+    "subtle": {
+      "$value": "#ddd2bb",
+      "$description": "Screened black on paper, for panels and table rows."
+    },
+    "text": {
+      "$value": "#15130f"
+    },
+    "muted": {
+      "$value": "#4d463c"
+    },
+    "border": {
+      "$value": "#15130f"
+    },
+    "primary": {
+      "$value": "#d9261c",
+      "$description": "Futurist red, the loudest ink."
+    },
+    "on-primary": {
+      "$value": "#fbf4e4"
+    },
+    "secondary": {
+      "$value": "#0f7a4c",
+      "$description": "Depero's advertising green. A second strong ink, not a background."
+    },
+    "on-secondary": {
+      "$value": "#fbf4e4"
+    },
+    "accent": {
+      "$value": "#f2b20c",
+      "$description": "Chrome yellow for force lines and motion echoes."
+    },
+    "on-accent": {
+      "$value": "#15130f"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": ["Impact", "Haettenschweiler", "Arial Black", "sans-serif"],
+      "$description": "Heavy poster grotesque for shouted words."
+    },
+    "body": {
+      "$value": ["Bodoni 72", "Bodoni MT", "Didot", "Georgia", "serif"],
+      "$description": "The Bodoni of Italian book printing, which words-in-freedom pages set against grotesques."
+    },
+    "mono": {
+      "$value": ["Courier New", "Courier", "monospace"],
+      "$description": "Typewriter type for dates, times, and labels."
+    },
+    "grotesque": {
+      "$value": ["Helvetica Neue", "Arial", "Liberation Sans", "sans-serif"],
+      "$description": "A plain grotesque for small capitals and navigation."
+    },
+    "slab": {
+      "$value": ["Rockwell", "Clarendon", "Courier 10 Pitch", "serif"],
+      "$description": "A slab or Egyptian face, a fifth voice in the typographic mix."
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 900
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "22px"
+    },
+    "xl": {
+      "$value": "32px"
+    },
+    "2xl": {
+      "$value": "46px"
+    },
+    "3xl": {
+      "$value": "68px"
+    },
+    "4xl": {
+      "$value": "108px"
+    },
+    "5xl": {
+      "$value": "176px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.88
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.12,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "0px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "3px"
+    },
+    "thick": {
+      "$value": "10px"
+    }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "sm": {
+      "$value": [
+        { "color": "#f2b20c", "offsetX": "-12px", "offsetY": "0px", "blur": "0px", "spread": "0px" },
+        { "color": "#d9261c", "offsetX": "-24px", "offsetY": "0px", "blur": "0px", "spread": "0px" }
+      ],
+      "$description": "Two hard echoes trailing to the left: the shape repeated along its path of motion, after Balla. Not depth."
+    },
+    "md": {
+      "$value": [
+        { "color": "#f2b20c", "offsetX": "-14px", "offsetY": "6px", "blur": "0px", "spread": "0px" },
+        { "color": "#d9261c", "offsetX": "-28px", "offsetY": "12px", "blur": "0px", "spread": "0px" },
+        { "color": "#15130f", "offsetX": "-42px", "offsetY": "18px", "blur": "0px", "spread": "0px" }
+      ],
+      "$description": "Three hard echoes along a diagonal path, for cards and panels."
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

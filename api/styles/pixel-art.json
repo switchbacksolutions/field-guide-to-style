@@ -1,0 +1,634 @@
+{
+  "id": "pixel-art",
+  "title": "Pixel Art",
+  "order": 35,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Dot art",
+    "Pixel pushing",
+    "8-bit and 16-bit graphics"
+  ],
+  "summary": "Visible square pixels. Small palettes. Stepped edges and bitmap type.",
+  "lede": "Pictures and interfaces built from visible square pixels in a small palette, after the graphics of 8-bit and 16-bit computers, arcade machines, and game consoles. This record covers that core look in interfaces and graphics.",
+  "moods": [
+    "playful",
+    "nostalgic",
+    "crisp",
+    "game-like",
+    "handmade"
+  ],
+  "era": {
+    "from": 1978,
+    "note": "The core look comes from arcade games such as Space Invaders (1978) and the 8-bit and 16-bit consoles and home computers of the 1980s and 1990s. The term was first published in 1982. Independent games revived it from the 2010s, and it is still in use."
+  },
+  "regions": [
+    "Japan",
+    "United States",
+    "Europe"
+  ],
+  "identifiers": {
+    "wikidata": "Q811179"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Pixel art. Defines the form, ties it to 8-bit and 16-bit era graphics, and dates the first published use of the term to Goldberg and Flegal, Xerox PARC, 1982.",
+      "url": "https://en.wikipedia.org/wiki/Pixel_art",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikidata Q811179: pixel art, an instance of art genre and a subclass of digital art.",
+      "url": "https://www.wikidata.org/wiki/Q811179",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia: Susan Kare. Calls her a pioneer of pixel art and of the graphical computer interface, for the first Apple Macintosh (1983–1986).",
+      "url": "https://en.wikipedia.org/wiki/Susan_Kare",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "NES.css on GitHub: a \"NES-style CSS Framework\" for web interfaces, MIT license, created 2018.",
+      "url": "https://github.com/nostalgic-css/NES.css",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Video game art",
+      "wikidata": "Q1493029",
+      "note": "Wikipedia says pixel art as it is known today largely originates from the golden age of arcade video games and 8-bit consoles such as the Nintendo Entertainment System (1983)."
+    },
+    {
+      "relation": "related-to",
+      "label": "Mosaic",
+      "wikidata": "Q133067",
+      "note": "Wikipedia names mosaic, cross-stitch, and beadwork as non-digital counterparts that build pictures from small colored units."
+    },
+    {
+      "relation": "related-to",
+      "label": "Cross-stitch",
+      "wikidata": "Q18282",
+      "note": "Wikipedia names counted-thread embroidery, including cross-stitch, as a possible predecessor."
+    },
+    {
+      "relation": "related-to",
+      "label": "Demoscene",
+      "wikidata": "Q824340",
+      "note": "Wikipedia describes demoscene graphicians publishing pixel art in demos from the late 1980s and holding pixel graphics competitions in the 1990s."
+    },
+    {
+      "relation": "related-to",
+      "style": "synthwave",
+      "note": "Wikipedia says synthwave artists used pixel art for music videos in the 2010s, for example for Perturbator and Gunship."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "One pixel unit.",
+      "text": "Every size, gap, outline, and step is a whole multiple of one enlarged pixel, often 4 px on screen."
+    },
+    {
+      "facet": "surface",
+      "term": "Stepped edges.",
+      "text": "Frames are drawn pixel by pixel: hard outlines with notched corners and one-step bevels. No anti-aliasing, blur, or gloss."
+    },
+    {
+      "facet": "type",
+      "term": "Bitmap letters.",
+      "text": "Monospaced or bitmap pixel faces in one weight, often in capitals, for headings, labels, and counters."
+    },
+    {
+      "facet": "color",
+      "term": "Small fixed palette.",
+      "text": "About 8 to 16 saturated, hardware-like colors with black and a light ground. Shading is in flat palette steps or checkerboard dithering, not gradients."
+    },
+    {
+      "facet": "imagery",
+      "term": "Sprites and tiles.",
+      "text": "Small characters, items, and icons drawn at low resolution and enlarged by whole numbers, so each pixel stays square. Tiled ground and sky strips."
+    },
+    {
+      "facet": "layout",
+      "term": "Game screens.",
+      "text": "Title screens, menu windows, dialogue boxes, score counters, and status bars organize the page."
+    },
+    {
+      "facet": "motion",
+      "term": "Frame by frame.",
+      "text": "Animation steps between a few frames, such as a blinking cursor or a two-frame sprite, with no easing."
+    }
+  ],
+  "synthesis": [
+    "This collection has no references yet. The grammar comes from the attested sources and the specimen, and it is provisional until references are collected and measured.",
+    "The record is scoped to the 8-bit and 16-bit core. Isometric pixel art (Wikipedia names Habbo Hotel and eBoy), pixel dolls, photorealistic demoscene work with anti-aliasing, and high-definition hybrids that mix pixel sprites with smooth effects are related branches."
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Square pixels are visible and placed by hand: curves and diagonals step like staircases.",
+      "Colors come from a small fixed palette. Shading is in flat steps or checkerboard dithering.",
+      "Frames and buttons have hard pixel outlines with notched corners or one-pixel bevels.",
+      "Headings and labels use a bitmap or monospaced pixel face, often in capitals.",
+      "Sprites, tiles, and game furniture appear: dialogue boxes, menu cursors, hearts, coins, score counters."
+    ],
+    "counter": [
+      "Smooth anti-aliased curves, blur, glows, or smooth gradients on the main surfaces.",
+      "Pixels enlarged by uneven factors, so they look blurred or have different sizes.",
+      "Rounded corners and capsule shapes.",
+      "A photograph run through a pixelate filter, with no deliberate placement of pixels."
+    ],
+    "confusions": [
+      {
+        "with": "minimalist-machine",
+        "difference": "Minimalist Machine is quiet and neutral: thin 1 px rules, sans-serif headings, and at most one signal color. Pixel art uses chunky stepped frames, bitmap type throughout, several saturated palette colors, and sprites."
+      },
+      {
+        "with": "y2k",
+        "difference": "Y2K is chrome, silver, translucent candy plastic, glows, and rounded capsules with smooth gradients. Pixel art has no gradients or glows: shading is flat palette steps and dithering, and corners are square or stepped."
+      },
+      {
+        "with": "vaporwave",
+        "difference": "Vaporwave quotes high-resolution 1990s desktop windows with 1 px bevels, pastel pink and purple, Greek statues, and collage. It can put pixel images inside the collage. Pixel art draws the whole surface on one coarse pixel grid, with bitmap type and saturated game palettes."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Neo-brutalism uses smooth thick black outlines, offset block shadows, and large sans-serif type. Pixel art outlines step at the corners, the type is bitmap, and the page adds sprites and dithering."
+      },
+      {
+        "with": "Glitch art",
+        "difference": "Glitch art shows corrupted or broken digital images: smeared rows, shifted channels, noise. Pixel art places clean pixels on purpose on a stable grid."
+      },
+      {
+        "with": "ASCII art",
+        "difference": "ASCII art builds pictures from text characters. Pixel art builds them from colored square pixels."
+      },
+      {
+        "with": "Voxel art",
+        "difference": "Voxel art builds three-dimensional models from cubes, usually rendered with smooth lighting. Pixel art is flat and two-dimensional."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Choose one pixel unit, for example 4 px, and make every size, outline, and gap a whole multiple of it.",
+      "Limit the palette to about 8 to 16 colors. Shade with palette steps or checkerboard dithering.",
+      "Draw frames with hard, unblurred outlines and notched corners. Give buttons a one-unit bevel that moves when pressed.",
+      "Enlarge pixel images by whole numbers and set image-rendering: pixelated.",
+      "Use a bitmap or monospaced face for headings and labels. Keep body text at a readable size and line length.",
+      "Animate in steps, and stop the animation when the user asks for reduced motion."
+    ],
+    "dont": [
+      "Do not blur, smooth, or anti-alias edges, shadows, or enlarged sprites.",
+      "Do not use smooth gradients, glows, or rounded corners.",
+      "Do not set long body text in a small pixel font.",
+      "Do not mix pixel sizes in one view. A sprite drawn with 2 px pixels next to one drawn with 8 px pixels breaks the grid.",
+      "Do not run a photograph through a pixelate filter and call it pixel art."
+    ],
+    "uses": [
+      "Independent game sites, press kits, and game jams",
+      "Gaming events and esports microsites",
+      "Hobby software, developer side projects, and command-line tool sites with a playful tone",
+      "Chiptune music, retro computing, and demoscene pages",
+      "Achievement badges, progress bars, and other game-like interface details"
+    ],
+    "avoid": [
+      "Long-form reading such as documentation or news. Bitmap type tires readers over long text.",
+      "Healthcare, finance, and legal services. The style reads as a game, not as calm and serious.",
+      "Luxury and premium brands. The coarse grid reads as cheap or nostalgic.",
+      "Dashboards with fine charts and dense data. The coarse pixel unit cannot show fine detail."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "type.monoShare",
+      "min": 0.6,
+      "note": "Bitmap or monospaced type carries most text, not only labels. The specimen measures 1; no other specimen measures more than 0.3. Provisional: set from the specimen, recalibrate with measured references. Sites that load a pixel webfont without a monospace fallback in the stack measure 0 here."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.4,
+      "note": "Most windows, buttons, and fields carry a stepped pixel frame. The specimen draws the frames with hard shadows and measures 0.66. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.hardShare",
+      "min": 0.9,
+      "note": "Stepped outlines and bevels are drawn with unblurred shadows, not glows. The specimen measures 1. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.medianOffset",
+      "min": 2,
+      "max": 6,
+      "note": "Outlines step by one enlarged pixel, 2 to 6 px on screen. Not the 8 px or larger blocks of offset-shadow styles. The specimen measures 4. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.1,
+      "note": "A tiled or dithered strip covers part of the page. The specimen measures 0.25. Provisional: set from the specimen, recalibrate with measured references. Sites that draw tiles as images measure 0 here."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Shading is in flat steps or dithering, never smooth gradients. The specimen measures 0. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 1,
+      "note": "Corners are square or stepped, never rounded. The specimen measures 0. Provisional: set from the specimen, recalibrate with measured references."
+    }
+  ],
+  "page": "pixel-art.html",
+  "implementation": {
+    "tokens": "implementations/pixel-art/tokens.json",
+    "css": "implementations/pixel-art/tokens.css",
+    "tailwind": "implementations/pixel-art/tailwind.css",
+    "shadcn": "implementations/pixel-art/shadcn.css",
+    "registry": "implementations/pixel-art/registry-item.json",
+    "designMd": "implementations/pixel-art/DESIGN.md",
+    "specimen": "implementations/pixel-art/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for pixel-art. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#fff1e8"
+      },
+      "surface": {
+        "$value": "#fff1e8"
+      },
+      "subtle": {
+        "$value": "#ffccaa",
+        "$description": "Peach: alternate rows and the light dither step."
+      },
+      "text": {
+        "$value": "#1d2b53",
+        "$description": "Night blue: text, and the ground of title screens and dialogue boxes."
+      },
+      "muted": {
+        "$value": "#5f574f"
+      },
+      "border": {
+        "$value": "#000000",
+        "$description": "Pixel outlines."
+      },
+      "primary": {
+        "$value": "#ff004d"
+      },
+      "on-primary": {
+        "$value": "#000000"
+      },
+      "secondary": {
+        "$value": "#29adff"
+      },
+      "on-secondary": {
+        "$value": "#000000"
+      },
+      "accent": {
+        "$value": "#ffec27"
+      },
+      "on-accent": {
+        "$value": "#000000"
+      },
+      "grass": {
+        "$value": "#00e436",
+        "$description": "Light step of the tiled ground strip."
+      },
+      "grass-dark": {
+        "$value": "#008751",
+        "$description": "Dark step of the tiled ground strip."
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Fixedsys",
+          "Terminal",
+          "Monaco",
+          "Lucida Console",
+          "Consolas",
+          "DejaVu Sans Mono",
+          "monospace"
+        ],
+        "$description": "Bitmap faces first. Every fallback is monospaced."
+      },
+      "body": {
+        "$value": [
+          "Monaco",
+          "Lucida Console",
+          "Consolas",
+          "DejaVu Sans Mono",
+          "Liberation Mono",
+          "monospace"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Fixedsys",
+          "Terminal",
+          "Monaco",
+          "Lucida Console",
+          "Consolas",
+          "DejaVu Sans Mono",
+          "monospace"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 400,
+        "$description": "Bitmap faces have one weight."
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "20px"
+      },
+      "xl": {
+        "$value": "24px"
+      },
+      "2xl": {
+        "$value": "32px"
+      },
+      "3xl": {
+        "$value": "40px"
+      },
+      "4xl": {
+        "$value": "56px"
+      },
+      "5xl": {
+        "$value": "72px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.1
+      },
+      "body": {
+        "$value": 1.6
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.04,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.08,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "4px",
+        "$description": "One pixel unit."
+      },
+      "thick": {
+        "$value": "8px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "4px"
+      },
+      "sm": {
+        "$value": "8px"
+      },
+      "md": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "32px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "96px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "sm": {
+        "$value": [
+          {
+            "color": "#000000",
+            "offsetX": "4px",
+            "offsetY": "0px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#000000",
+            "offsetX": "-4px",
+            "offsetY": "0px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#000000",
+            "offsetX": "0px",
+            "offsetY": "4px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#000000",
+            "offsetX": "0px",
+            "offsetY": "-4px",
+            "blur": "0px",
+            "spread": "0px"
+          }
+        ],
+        "$description": "Stepped outline: four hard one-unit offsets leave notched corners."
+      },
+      "md": {
+        "$value": [
+          {
+            "color": "#000000",
+            "offsetX": "4px",
+            "offsetY": "0px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#000000",
+            "offsetX": "-4px",
+            "offsetY": "0px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#000000",
+            "offsetX": "0px",
+            "offsetY": "4px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#000000",
+            "offsetX": "0px",
+            "offsetY": "-4px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#00000040",
+            "offsetX": "0px",
+            "offsetY": "-4px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          }
+        ],
+        "$description": "Stepped outline with a one-unit shade on the inside bottom. Move the shade to the top on press."
+      },
+      "lg": {
+        "$value": [
+          {
+            "color": "#000000",
+            "offsetX": "4px",
+            "offsetY": "0px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#000000",
+            "offsetX": "-4px",
+            "offsetY": "0px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#000000",
+            "offsetX": "0px",
+            "offsetY": "4px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#000000",
+            "offsetX": "0px",
+            "offsetY": "-4px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#00000040",
+            "offsetX": "0px",
+            "offsetY": "-4px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#000000",
+            "offsetX": "8px",
+            "offsetY": "8px",
+            "blur": "0px",
+            "spread": "0px"
+          }
+        ],
+        "$description": "Raised window: stepped outline plus a two-unit drop step."
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}",
+          "textTransform": "uppercase"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}",
+          "textTransform": "uppercase"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}",
+          "textTransform": "uppercase"
+        }
+      }
+    }
+  },
+  "references": []
+}

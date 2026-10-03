@@ -1,0 +1,407 @@
+{
+  "$description": "Authored tokens for synthwave. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#0d0221",
+      "$description": "Night sky behind the grid."
+    },
+    "surface": {
+      "$value": "#160536"
+    },
+    "subtle": {
+      "$value": "#2a0e5c"
+    },
+    "text": {
+      "$value": "#f5ecff"
+    },
+    "muted": {
+      "$value": "#c2b0e8"
+    },
+    "border": {
+      "$value": "#ff2bd6"
+    },
+    "primary": {
+      "$value": "#ff2bd6",
+      "$description": "Neon magenta: grid lines, borders, glows."
+    },
+    "on-primary": {
+      "$value": "#0d0221"
+    },
+    "secondary": {
+      "$value": "#2de2e6",
+      "$description": "Neon cyan: the second tube color."
+    },
+    "on-secondary": {
+      "$value": "#0d0221"
+    },
+    "accent": {
+      "$value": "#ffb000",
+      "$description": "Sun orange-yellow."
+    },
+    "on-accent": {
+      "$value": "#0d0221"
+    },
+    "violet": {
+      "$value": "#7a2cff"
+    },
+    "horizon": {
+      "$value": "#4a0d67",
+      "$description": "Sky color just above the horizon."
+    },
+    "sun-top": {
+      "$value": "#ffe45c"
+    },
+    "chrome-light": {
+      "$value": "#eaf6ff"
+    },
+    "chrome-mid": {
+      "$value": "#6fa8ff"
+    },
+    "chrome-dark": {
+      "$value": "#1b1446"
+    },
+    "chrome-glint": {
+      "$value": "#ffc2ec"
+    },
+    "panel": {
+      "$value": "#160536b3",
+      "$description": "Panel fill at 70% opacity: the sky shows through."
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Futura",
+        "Avenir Next Condensed",
+        "Arial Black",
+        "Helvetica Neue",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Avenir Next",
+        "Segoe UI",
+        "Helvetica Neue",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Eurostile",
+        "Microgramma",
+        "Bank Gothic",
+        "Arial Narrow",
+        "sans-serif"
+      ],
+      "$description": "Wide techno caps for labels. Not a monospace face; synthwave labels are not terminal text."
+    },
+    "script": {
+      "$value": [
+        "Brush Script MT",
+        "Segoe Script",
+        "Snell Roundhand",
+        "cursive"
+      ],
+      "$description": "Airbrush-style script for a second word under the chrome logotype."
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 800
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "21px"
+    },
+    "xl": {
+      "$value": "28px"
+    },
+    "2xl": {
+      "$value": "38px"
+    },
+    "3xl": {
+      "$value": "56px"
+    },
+    "4xl": {
+      "$value": "84px"
+    },
+    "5xl": {
+      "$value": "128px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.92
+    },
+    "body": {
+      "$value": 1.6
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": 0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.08,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.24,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "2px"
+    },
+    "lg": {
+      "$value": "2px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "2px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "sm": {
+      "$value": [
+        {
+          "color": "#ff2bd6",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "10px",
+          "spread": "0px"
+        }
+      ],
+      "$description": "Neon tube glow: centered, blurred, no offset."
+    },
+    "md": {
+      "$value": [
+        {
+          "color": "#ff2bd6",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "4px",
+          "spread": "0px"
+        },
+        {
+          "color": "#ff2bd680",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "22px",
+          "spread": "2px"
+        }
+      ],
+      "$description": "Panel glow with a tight core and a wide halo."
+    },
+    "cyan": {
+      "$value": [
+        {
+          "color": "#2de2e6",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "4px",
+          "spread": "0px"
+        },
+        {
+          "color": "#2de2e680",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "20px",
+          "spread": "2px"
+        }
+      ]
+    }
+  },
+  "gradient": {
+    "$type": "gradient",
+    "sky": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#0d0221",
+            "position": 0
+          },
+          {
+            "color": "#170434",
+            "position": 0.5
+          },
+          {
+            "color": "#2e0a52",
+            "position": 0.8
+          },
+          {
+            "color": "#4a0d67",
+            "position": 1
+          }
+        ]
+      },
+      "$description": "Night sky that warms toward the horizon."
+    },
+    "sun": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#ffe45c",
+            "position": 0
+          },
+          {
+            "color": "#ffb000",
+            "position": 0.35
+          },
+          {
+            "color": "#ff6a3d",
+            "position": 0.62
+          },
+          {
+            "color": "#ff2bd6",
+            "position": 1
+          }
+        ]
+      },
+      "$description": "Retrosun: yellow at the top, magenta at the horizon."
+    },
+    "chrome": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#eaf6ff",
+            "position": 0
+          },
+          {
+            "color": "#6fa8ff",
+            "position": 0.48
+          },
+          {
+            "color": "#1b1446",
+            "position": 0.5
+          },
+          {
+            "color": "#ffc2ec",
+            "position": 0.62
+          },
+          {
+            "color": "#eaf6ff",
+            "position": 1
+          }
+        ]
+      },
+      "$description": "Chrome lettering: sky reflection, a hard horizon line, then a pink ground reflection."
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

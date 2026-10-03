@@ -342,6 +342,116 @@ globalThis.styleHub = {
         "bland"
       ],
       "status": "draft"
+    },
+    {
+      "id": "futurism",
+      "title": "Italian Futurism",
+      "href": "futurism.html",
+      "moods": [
+        "fast",
+        "loud",
+        "mechanical",
+        "exuberant",
+        "aggressive",
+        "theatrical"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "dada",
+      "title": "Dada",
+      "href": "dada.html",
+      "moods": [
+        "irreverent",
+        "chaotic",
+        "ironic",
+        "experimental",
+        "rebellious",
+        "raw"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "cyberpunk",
+      "title": "Cyberpunk",
+      "href": "cyberpunk.html",
+      "moods": [
+        "dystopian",
+        "gritty",
+        "nocturnal",
+        "high-tech",
+        "rebellious",
+        "tense"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "solarpunk",
+      "title": "Solarpunk",
+      "href": "solarpunk.html",
+      "moods": [
+        "hopeful",
+        "sunlit",
+        "verdant",
+        "communal",
+        "handmade"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "googie",
+      "title": "Googie",
+      "href": "googie.html",
+      "moods": [
+        "exuberant",
+        "optimistic",
+        "futuristic",
+        "retro",
+        "flashy",
+        "roadside"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "synthwave",
+      "title": "Synthwave",
+      "href": "synthwave.html",
+      "moods": [
+        "nostalgic",
+        "cinematic",
+        "energetic",
+        "nocturnal",
+        "retrofuturist"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "kawaii",
+      "title": "Kawaii",
+      "href": "kawaii.html",
+      "moods": [
+        "cute",
+        "sweet",
+        "gentle",
+        "playful",
+        "innocent",
+        "friendly",
+        "cheerful"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "pixel-art",
+      "title": "Pixel Art",
+      "href": "pixel-art.html",
+      "moods": [
+        "playful",
+        "nostalgic",
+        "crisp",
+        "game-like",
+        "handmade"
+      ],
+      "status": "draft"
     }
   ],
   "references": [

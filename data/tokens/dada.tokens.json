@@ -1,0 +1,258 @@
+{
+  "$description": "Authored tokens for dada. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#ebe3d0",
+      "$description": "Cheap newsprint, slightly yellowed."
+    },
+    "surface": {
+      "$value": "#f4efe2",
+      "$description": "A whiter pasted slip of paper."
+    },
+    "subtle": {
+      "$value": "#d8cdb5",
+      "$description": "Darker newsprint for a second pasted layer."
+    },
+    "text": {
+      "$value": "#151311",
+      "$description": "Printing black."
+    },
+    "muted": {
+      "$value": "#4a443d"
+    },
+    "border": {
+      "$value": "#151311"
+    },
+    "primary": {
+      "$value": "#c8231b",
+      "$description": "Overprint red, the one strong hue."
+    },
+    "on-primary": {
+      "$value": "#f6f0e2"
+    },
+    "secondary": {
+      "$value": "#151311",
+      "$description": "Printing black, for solid blocks and reversed type."
+    },
+    "on-secondary": {
+      "$value": "#ebe3d0"
+    },
+    "accent": {
+      "$value": "#857d72",
+      "$description": "Halftone grey of a reproduced photograph. Not a hue."
+    },
+    "on-accent": {
+      "$value": "#151311"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Impact",
+        "Haettenschweiler",
+        "Arial Black",
+        "sans-serif"
+      ],
+      "$description": "Heavy poster grotesque from the jobbing case."
+    },
+    "body": {
+      "$value": [
+        "Georgia",
+        "Times New Roman",
+        "serif"
+      ],
+      "$description": "Plain newspaper roman for running text."
+    },
+    "mono": {
+      "$value": [
+        "Courier New",
+        "Courier",
+        "monospace"
+      ]
+    },
+    "serif": {
+      "$value": [
+        "Didot",
+        "Bodoni 72",
+        "Bodoni MT",
+        "Times New Roman",
+        "serif"
+      ],
+      "$description": "High-contrast display roman, set against the grotesque."
+    },
+    "condensed": {
+      "$value": [
+        "Franklin Gothic Medium",
+        "Arial Narrow",
+        "sans-serif"
+      ],
+      "$description": "Condensed gothic for labels and small capitals."
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 900
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "22px"
+    },
+    "xl": {
+      "$value": "30px"
+    },
+    "2xl": {
+      "$value": "46px"
+    },
+    "3xl": {
+      "$value": "68px"
+    },
+    "4xl": {
+      "$value": "108px"
+    },
+    "5xl": {
+      "$value": "176px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.84
+    },
+    "body": {
+      "$value": 1.45
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.12,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "0px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "8px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

@@ -1,0 +1,145 @@
+/* Synthwave specimen. Uses tokens.css. A night-sky gradient, a striped sun over a magenta laser grid, chrome lettering, and neon tube glows.
+   Panels stay translucent so the sky gradient shows behind all content; text sits on the dark part of the sky. */
+* { box-sizing: border-box; }
+html {
+  min-height: 100%;
+  background: var(--gradient-sky);
+  background-color: var(--color-bg);
+  background-attachment: fixed;
+}
+body { max-width: 1160px; min-height: 100vh; margin: 0 auto; padding: 0 5% var(--spacing-xl); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); line-height: var(--leading-body); }
+a { color: var(--color-secondary); }
+:focus-visible { outline: 2px solid var(--color-secondary); outline-offset: 3px; }
+.specimen-back { display: inline-block; margin: var(--spacing-sm) 0 0; font-family: var(--font-mono); font-size: var(--text-xs); letter-spacing: var(--tracking-label); text-transform: uppercase; }
+
+.site-header { display: flex; justify-content: space-between; align-items: center; gap: var(--spacing-sm); flex-wrap: wrap; padding: var(--spacing-md) 0; border-bottom: var(--border-width-thin) solid var(--color-primary); box-shadow: 0 1px 0 0 var(--color-primary), 0 8px 18px -10px var(--color-primary); }
+.logo { color: var(--color-text); font-family: var(--font-display); font-size: var(--text-lg); font-style: italic; font-weight: var(--font-weight-display); letter-spacing: var(--tracking-heading); text-decoration: none; text-transform: uppercase; text-shadow: 0 0 6px var(--color-primary), 0 0 18px var(--color-primary); }
+.site-header nav { display: flex; flex-wrap: wrap; gap: var(--spacing-md); }
+.site-header nav a { color: var(--color-secondary); font-family: var(--font-mono); font-size: var(--text-sm); letter-spacing: var(--tracking-label); text-decoration: none; text-transform: uppercase; text-shadow: 0 0 8px var(--color-secondary); }
+
+/* Hero: the chrome title sits over a retrosun that sinks behind a receding laser grid. The sun and the floor hang from the h1,
+   so the scene always falls between the title and the lede and no body text sits on it. */
+.hero {
+  position: relative;
+  overflow: hidden;
+  margin: var(--spacing-md) 0 var(--spacing-lg);
+  padding: var(--spacing-lg) var(--spacing-md) var(--spacing-md);
+  text-align: center;
+}
+.kicker { margin: 0 0 var(--spacing-md); color: var(--color-secondary); font-family: var(--font-mono); font-size: var(--text-sm); letter-spacing: var(--tracking-label); text-transform: uppercase; text-shadow: 0 0 8px var(--color-secondary); }
+
+/* Chrome logotype: a gradient clipped to the letters, with a hard horizon line across the middle. */
+h1 {
+  margin: 0 auto;
+  max-width: 12ch;
+  font-family: var(--font-display);
+  font-size: clamp(44px, 8vw, 104px);
+  font-style: italic;
+  font-weight: var(--font-weight-display);
+  line-height: var(--leading-tight);
+  letter-spacing: var(--tracking-display);
+  text-transform: uppercase;
+  color: var(--color-chrome-light);
+  /* The chrome covers only the text rows, not the scene below them. */
+  background: var(--gradient-chrome) top / 100% calc(100% - 280px) no-repeat;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 2px 0 var(--color-violet)) drop-shadow(0 0 14px var(--color-primary));
+  position: relative;
+  isolation: isolate;
+  padding-bottom: 280px;
+}
+h1::before {
+  content: "";
+  position: absolute;
+  z-index: -2;
+  left: 50%;
+  bottom: 8px;
+  width: 260px;
+  height: 260px;
+  margin-left: -130px;
+  border-radius: var(--radius-pill);
+  background: var(--gradient-sun);
+  /* Top half solid, lower half cut into bands that thin toward the horizon. */
+  -webkit-mask-image: linear-gradient(180deg, var(--color-bg) 0 50%, transparent 50%), linear-gradient(180deg, transparent 0 50%, var(--color-bg) 50% 57%, transparent 57% 61%, var(--color-bg) 61% 67%, transparent 67% 72%, var(--color-bg) 72% 77%, transparent 77% 83%, var(--color-bg) 83% 87%, transparent 87%);
+  mask-image: linear-gradient(180deg, var(--color-bg) 0 50%, transparent 50%), linear-gradient(180deg, transparent 0 50%, var(--color-bg) 50% 57%, transparent 57% 61%, var(--color-bg) 61% 67%, transparent 67% 72%, var(--color-bg) 72% 77%, transparent 77% 83%, var(--color-bg) 83% 87%, transparent 87%);
+}
+h1::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: -100%;
+  bottom: 0;
+  width: 300%;
+  height: 230px;
+  border-top: var(--border-width-thick) solid var(--color-primary);
+  background:
+    repeating-linear-gradient(90deg, var(--color-primary) 0 2px, transparent 2px 64px),
+    repeating-linear-gradient(0deg, var(--color-primary) 0 2px, transparent 2px 40px),
+    var(--color-bg);
+  -webkit-mask-image: linear-gradient(180deg, var(--color-bg) 40%, transparent);
+  mask-image: linear-gradient(180deg, var(--color-bg) 40%, transparent);
+  transform: perspective(200px) rotateX(55deg);
+  transform-origin: 50% 100%;
+}
+/* The second word is a neon script, as on airbrushed 1980s logos. */
+h1 span { position: relative; display: block; margin-top: -0.1em; font-family: var(--font-script); font-size: 0.62em; font-weight: var(--font-weight-regular); letter-spacing: 0; text-transform: none; -webkit-text-fill-color: var(--color-primary); transform: rotate(-6deg); text-shadow: 0 0 6px var(--color-primary), 0 0 20px var(--color-primary); }
+.lede { max-width: 46ch; margin: var(--spacing-lg) auto var(--spacing-md); color: var(--color-text); font-size: var(--text-lg); }
+.actions { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--spacing-md); margin: 0 0 var(--spacing-lg); }
+
+/* Buttons are neon tubes: a 1 px line, a centered glow, square ends. */
+.button, button { display: inline-block; min-width: 150px; padding: 10px 22px; border: var(--border-width-thin) solid var(--color-primary); border-radius: var(--radius-none); background: var(--color-primary); color: var(--color-on-primary); font: var(--font-weight-bold) var(--text-sm)/1.2 var(--font-mono); font-style: italic; letter-spacing: var(--tracking-heading); text-align: center; text-decoration: none; text-transform: uppercase; box-shadow: var(--shadow-md); cursor: pointer; }
+.button-secondary { border-color: var(--color-secondary); background: var(--color-panel); color: var(--color-secondary); box-shadow: var(--shadow-cyan); }
+.button:hover, button:hover { background: var(--color-text); color: var(--color-on-primary); }
+.button-secondary:hover { background: var(--color-secondary); }
+
+.facts { display: flex; flex-wrap: wrap; justify-content: center; gap: var(--spacing-md); margin: 0; }
+.facts div { min-width: 132px; padding: var(--spacing-sm) var(--spacing-md); border: var(--border-width-thin) solid var(--color-secondary); background: var(--color-panel); box-shadow: var(--shadow-cyan); }
+dt { color: var(--color-muted); font-family: var(--font-mono); font-size: var(--text-xs); letter-spacing: var(--tracking-label); text-transform: uppercase; }
+dd { margin: 0; color: var(--color-accent); font-family: var(--font-display); font-size: var(--text-3xl); font-style: italic; font-weight: var(--font-weight-display); line-height: 1.1; text-shadow: 0 0 10px var(--color-accent); }
+
+/* Sections float on the night sky as dark glass panels outlined in neon. */
+section:not(.hero), .quote { margin: var(--spacing-xl) 0; padding: var(--spacing-lg); border: var(--border-width-thin) solid var(--color-primary); border-radius: var(--radius-none); background: var(--color-panel); box-shadow: var(--shadow-md); }
+h2 { margin: 0 0 var(--spacing-md); color: var(--color-text); font-family: var(--font-display); font-size: var(--text-2xl); font-style: italic; font-weight: var(--font-weight-display); line-height: 1.1; letter-spacing: var(--tracking-heading); text-transform: uppercase; text-shadow: 0 0 6px var(--color-primary), 0 0 20px var(--color-primary); }
+h3 { margin: 0 0 var(--spacing-xs); color: var(--color-secondary); font-family: var(--font-display); font-size: var(--text-lg); font-style: italic; letter-spacing: var(--tracking-heading); text-transform: uppercase; text-shadow: 0 0 8px var(--color-secondary); }
+
+.cards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: var(--spacing-md); }
+.card { display: flex; flex-direction: column; padding: var(--spacing-md); border: var(--border-width-thin) solid var(--color-secondary); border-radius: var(--radius-none); background: var(--color-panel); box-shadow: var(--shadow-cyan); }
+.card p { margin: var(--spacing-xs) 0 var(--spacing-sm); color: var(--color-muted); }
+.card-number { color: var(--color-accent); font-family: var(--font-display); font-size: var(--text-3xl); font-style: italic; font-weight: var(--font-weight-display); line-height: 1; text-shadow: 0 0 10px var(--color-accent); }
+
+/* The programme is a neon timetable: cyan rules, a magenta header line. */
+table { width: 100%; border-collapse: collapse; }
+th { padding: 6px 10px; border-bottom: var(--border-width-thick) solid var(--color-primary); color: var(--color-primary); font-family: var(--font-mono); font-size: var(--text-xs); letter-spacing: var(--tracking-label); text-align: left; text-transform: uppercase; }
+td { padding: 8px 10px; border-bottom: var(--border-width-thin) solid color-mix(in srgb, var(--color-secondary) 45%, transparent); }
+td:first-child { color: var(--color-accent); font-family: var(--font-mono); text-transform: uppercase; }
+
+.quote { position: relative; text-align: center; }
+.quote p { margin: 0 auto var(--spacing-sm); max-width: 34ch; color: var(--color-text); font-family: var(--font-display); font-size: var(--text-xl); font-style: italic; line-height: 1.3; }
+.quote footer { color: var(--color-secondary); font-family: var(--font-mono); font-size: var(--text-xs); letter-spacing: var(--tracking-label); text-transform: uppercase; }
+
+.card .price { margin: 0; color: var(--color-accent); font-family: var(--font-display); font-size: var(--text-3xl); font-style: italic; font-weight: var(--font-weight-display); text-shadow: 0 0 10px var(--color-accent); }
+.card .button { margin-top: auto; align-self: flex-start; }
+.card-featured { border-color: var(--color-primary); box-shadow: var(--shadow-md); }
+
+/* The signup panel carries a flat laser grid, the floor seen from above. */
+.signup {
+  background:
+    repeating-linear-gradient(90deg, color-mix(in srgb, var(--color-primary) 22%, transparent) 0 1px, transparent 1px 40px),
+    repeating-linear-gradient(0deg, color-mix(in srgb, var(--color-primary) 22%, transparent) 0 1px, transparent 1px 40px),
+    var(--color-panel);
+}
+form { display: flex; flex-wrap: wrap; align-items: center; gap: var(--spacing-sm); }
+label { width: 100%; color: var(--color-muted); font-family: var(--font-mono); font-size: var(--text-xs); letter-spacing: var(--tracking-label); text-transform: uppercase; }
+input { flex: 1 1 220px; min-width: 0; padding: 10px 12px; border: var(--border-width-thin) solid var(--color-secondary); border-radius: var(--radius-none); background: var(--color-bg); color: var(--color-text); font: inherit; box-shadow: var(--shadow-cyan); }
+input::placeholder { color: var(--color-muted); }
+.note { margin: var(--spacing-sm) 0 0; color: var(--color-muted); font-size: var(--text-sm); }
+
+.site-footer { padding: var(--spacing-lg) 0 0; border-top: var(--border-width-thin) solid var(--color-primary); color: var(--color-muted); font-size: var(--text-sm); text-align: center; }
+code { color: var(--color-secondary); }
+
+@media (prefers-reduced-motion: no-preference) {
+  h1::after { animation: grid-run 1.6s linear infinite; }
+  @keyframes grid-run { to { background-position: 0 0, 0 40px, 0 0; } }
+}

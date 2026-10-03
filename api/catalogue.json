@@ -611,6 +611,196 @@
         "designMd": "implementations/corporate-memphis/DESIGN.md",
         "specimen": "implementations/corporate-memphis/index.html"
       }
+    },
+    {
+      "id": "futurism",
+      "title": "Italian Futurism",
+      "summary": "Speed, noise, and machines. Words in many typefaces fly at different angles, and shapes repeat along their path of motion.",
+      "moods": [
+        "fast",
+        "loud",
+        "mechanical",
+        "exuberant",
+        "aggressive",
+        "theatrical"
+      ],
+      "status": "draft",
+      "api": "api/styles/futurism.json",
+      "implementation": {
+        "tokens": "implementations/futurism/tokens.json",
+        "css": "implementations/futurism/tokens.css",
+        "tailwind": "implementations/futurism/tailwind.css",
+        "shadcn": "implementations/futurism/shadcn.css",
+        "registry": "implementations/futurism/registry-item.json",
+        "designMd": "implementations/futurism/DESIGN.md",
+        "specimen": "implementations/futurism/index.html"
+      }
+    },
+    {
+      "id": "dada",
+      "title": "Dada",
+      "summary": "Clashing typefaces, cut photographs, and red on newsprint. A collage that refuses to behave.",
+      "moods": [
+        "irreverent",
+        "chaotic",
+        "ironic",
+        "experimental",
+        "rebellious",
+        "raw"
+      ],
+      "status": "draft",
+      "api": "api/styles/dada.json",
+      "implementation": {
+        "tokens": "implementations/dada/tokens.json",
+        "css": "implementations/dada/tokens.css",
+        "tailwind": "implementations/dada/tailwind.css",
+        "shadcn": "implementations/dada/shadcn.css",
+        "registry": "implementations/dada/registry-item.json",
+        "designMd": "implementations/dada/DESIGN.md",
+        "specimen": "implementations/dada/index.html"
+      }
+    },
+    {
+      "id": "cyberpunk",
+      "title": "Cyberpunk",
+      "summary": "Neon signs in a wet black night, terminal text, and heads-up displays. High tech, low life.",
+      "moods": [
+        "dystopian",
+        "gritty",
+        "nocturnal",
+        "high-tech",
+        "rebellious",
+        "tense"
+      ],
+      "status": "draft",
+      "api": "api/styles/cyberpunk.json",
+      "implementation": {
+        "tokens": "implementations/cyberpunk/tokens.json",
+        "css": "implementations/cyberpunk/tokens.css",
+        "tailwind": "implementations/cyberpunk/tailwind.css",
+        "shadcn": "implementations/cyberpunk/shadcn.css",
+        "registry": "implementations/cyberpunk/registry-item.json",
+        "designMd": "implementations/cyberpunk/DESIGN.md",
+        "specimen": "implementations/cyberpunk/index.html"
+      }
+    },
+    {
+      "id": "solarpunk",
+      "title": "Solarpunk",
+      "summary": "Sunlit greens, sky blue, and sun gold; plants grown over solar panes and arched windows. A hopeful, handmade future.",
+      "moods": [
+        "hopeful",
+        "sunlit",
+        "verdant",
+        "communal",
+        "handmade"
+      ],
+      "status": "draft",
+      "api": "api/styles/solarpunk.json",
+      "implementation": {
+        "tokens": "implementations/solarpunk/tokens.json",
+        "css": "implementations/solarpunk/tokens.css",
+        "tailwind": "implementations/solarpunk/tailwind.css",
+        "shadcn": "implementations/solarpunk/shadcn.css",
+        "registry": "implementations/solarpunk/registry-item.json",
+        "designMd": "implementations/solarpunk/DESIGN.md",
+        "specimen": "implementations/solarpunk/index.html"
+      }
+    },
+    {
+      "id": "googie",
+      "title": "Googie",
+      "summary": "Neon signs, starbursts, boomerangs, and upswept angles in turquoise, flamingo pink, and tangerine. The space-age look of 1950s American coffee shops, motels, and roadside signs.",
+      "moods": [
+        "exuberant",
+        "optimistic",
+        "futuristic",
+        "retro",
+        "flashy",
+        "roadside"
+      ],
+      "status": "draft",
+      "api": "api/styles/googie.json",
+      "implementation": {
+        "tokens": "implementations/googie/tokens.json",
+        "css": "implementations/googie/tokens.css",
+        "tailwind": "implementations/googie/tailwind.css",
+        "shadcn": "implementations/googie/shadcn.css",
+        "registry": "implementations/googie/registry-item.json",
+        "designMd": "implementations/googie/DESIGN.md",
+        "specimen": "implementations/googie/index.html"
+      }
+    },
+    {
+      "id": "synthwave",
+      "title": "Synthwave",
+      "summary": "Neon grids, striped sunsets, and chrome lettering on a black night sky. The 1980s remembered as a movie.",
+      "moods": [
+        "nostalgic",
+        "cinematic",
+        "energetic",
+        "nocturnal",
+        "retrofuturist"
+      ],
+      "status": "draft",
+      "api": "api/styles/synthwave.json",
+      "implementation": {
+        "tokens": "implementations/synthwave/tokens.json",
+        "css": "implementations/synthwave/tokens.css",
+        "tailwind": "implementations/synthwave/tailwind.css",
+        "shadcn": "implementations/synthwave/shadcn.css",
+        "registry": "implementations/synthwave/registry-item.json",
+        "designMd": "implementations/synthwave/DESIGN.md",
+        "specimen": "implementations/synthwave/index.html"
+      }
+    },
+    {
+      "id": "kawaii",
+      "title": "Kawaii",
+      "summary": "Pastel, round, and smiling. Every object can have a face.",
+      "moods": [
+        "cute",
+        "sweet",
+        "gentle",
+        "playful",
+        "innocent",
+        "friendly",
+        "cheerful"
+      ],
+      "status": "draft",
+      "api": "api/styles/kawaii.json",
+      "implementation": {
+        "tokens": "implementations/kawaii/tokens.json",
+        "css": "implementations/kawaii/tokens.css",
+        "tailwind": "implementations/kawaii/tailwind.css",
+        "shadcn": "implementations/kawaii/shadcn.css",
+        "registry": "implementations/kawaii/registry-item.json",
+        "designMd": "implementations/kawaii/DESIGN.md",
+        "specimen": "implementations/kawaii/index.html"
+      }
+    },
+    {
+      "id": "pixel-art",
+      "title": "Pixel Art",
+      "summary": "Visible square pixels. Small palettes. Stepped edges and bitmap type.",
+      "moods": [
+        "playful",
+        "nostalgic",
+        "crisp",
+        "game-like",
+        "handmade"
+      ],
+      "status": "draft",
+      "api": "api/styles/pixel-art.json",
+      "implementation": {
+        "tokens": "implementations/pixel-art/tokens.json",
+        "css": "implementations/pixel-art/tokens.css",
+        "tailwind": "implementations/pixel-art/tailwind.css",
+        "shadcn": "implementations/pixel-art/shadcn.css",
+        "registry": "implementations/pixel-art/registry-item.json",
+        "designMd": "implementations/pixel-art/DESIGN.md",
+        "specimen": "implementations/pixel-art/index.html"
+      }
     }
   ],
   "references": [

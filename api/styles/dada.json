@@ -1,0 +1,515 @@
+{
+  "id": "dada",
+  "title": "Dada",
+  "order": 29,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Dadaism",
+    "Dada typography",
+    "Dada photomontage"
+  ],
+  "summary": "Clashing typefaces, cut photographs, and red on newsprint. A collage that refuses to behave.",
+  "lede": "The printed graphic work of Dada (about 1916–1924): magazines, posters, broadsides, and invitations in Zürich, Berlin, Hannover, Cologne, Paris, and New York. Pages mix many unrelated typefaces, sizes, and angles from the jobbing printer’s case, and Berlin artists cut press photographs into photomontage. The movement also covers readymades, assemblage, sound poetry, and performance. This record covers its typographic collage and photomontage and treats the other branches as related work.",
+  "moods": [
+    "irreverent",
+    "chaotic",
+    "ironic",
+    "experimental",
+    "rebellious",
+    "raw"
+  ],
+  "era": {
+    "from": 1916,
+    "to": 1924,
+    "note": "From the Cabaret Voltaire in Zürich (1916) to the move of Paris Dada into Surrealism (about 1924). Schwitters continued Merz typography into the 1930s."
+  },
+  "regions": [
+    "Switzerland",
+    "Germany",
+    "France",
+    "United States",
+    "Netherlands"
+  ],
+  "identifiers": {
+    "wikidata": "Q6034",
+    "aat": "300021500"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Dada (sections “Photomontage” and “Circulation”)",
+      "url": "https://en.wikipedia.org/wiki/Dada",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Getty AAT: Dada (300021500)",
+      "url": "https://vocab.getty.edu/page/aat/300021500",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikidata: Dada (Q6034)",
+      "url": "https://www.wikidata.org/wiki/Q6034",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Tate: Art term “Dada”",
+      "url": "https://www.tate.org.uk/art/art-terms/d/dada",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Tate: Art term “Photomontage”",
+      "url": "https://www.tate.org.uk/art/art-terms/p/photomontage",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia: Kurt Schwitters (Merz periodical and typography)",
+      "url": "https://en.wikipedia.org/wiki/Kurt_Schwitters",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Cubism",
+      "wikidata": "Q42934",
+      "note": "Wikidata lists Cubism as an influence (P737). Cubist papier collé is the usual source given for Dada collage."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Futurism",
+      "wikidata": "Q131221",
+      "note": "Wikipedia says Dada developed in the context of the Futurist movement. Futurist parole in libertà had already freed type from the line."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Expressionism",
+      "wikidata": "Q80113",
+      "note": "Wikidata lists Expressionism as an influence (P737). Wikipedia names it, with Cubism and Futurism, among the movements Dada emerged from."
+    },
+    {
+      "relation": "related-to",
+      "style": "constructivism",
+      "note": "Wikipedia says El Lissitzky edited and typeset Schwitters’s *Merz 8/9* (1924), and the Bauhaus record notes that Moholy-Nagy brought constructivist photomontage to the school. Both movements use photomontage, so late Dada and early Constructivist print overlap."
+    },
+    {
+      "relation": "related-to",
+      "style": "de-stijl",
+      "note": "Wikipedia says Theo van Doesburg wrote Dada poetry as I.K. Bonset and published the Dutch Dada magazine *Mécano* (1922–23)."
+    },
+    {
+      "relation": "related-to",
+      "label": "Surrealism",
+      "wikidata": "Q39427",
+      "note": "Wikipedia says the energies of Paris Dada merged into Surrealism by the mid-1920s. Tate says the Surrealists later adopted photomontage."
+    },
+    {
+      "relation": "related-to",
+      "style": "grunge-typography",
+      "note": "The grunge record cites Eskilson’s *Graphic Design: A New History* for the influence of Dada on 1990s illegible typography."
+    },
+    {
+      "relation": "related-to",
+      "style": "pop-art",
+      "note": "The Pop art record cites the Getty AAT scope note that Pop art was influenced by Dada."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "type",
+      "term": "Mixed cases.",
+      "text": "One page or one line combines heavy grotesques, high-contrast romans, condensed gothics, and ornaments from the jobbing printer’s case. Sizes jump from caption to poster scale inside a line."
+    },
+    {
+      "facet": "layout",
+      "term": "Lines at several angles.",
+      "text": "Lines of type run at different angles, upside down, or vertical on one page. There is no shared grid or axis. Blocks overlap and crowd each other."
+    },
+    {
+      "facet": "imagery",
+      "term": "Photomontage.",
+      "text": "Photographs cut from the illustrated press, with heads, machines, crowds, and words pasted together. The cut edges are visible, and the scale of the pieces does not agree."
+    },
+    {
+      "facet": "color",
+      "term": "Black on newsprint, sometimes one red.",
+      "text": "Most work is printed in black on cheap paper. Red is the usual second color. The grey of the halftone photograph is the third tone."
+    },
+    {
+      "facet": "structure",
+      "term": "Printer’s material as image.",
+      "text": "Rules, brackets, pointing hands, stock blocks, and ticket fragments become compositional elements, not only dividers."
+    },
+    {
+      "facet": "surface",
+      "term": "Flat printed paper.",
+      "text": "Letterpress and line block on paper, with pasted pieces in original collages. No gloss, gradient, or soft shadow."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Three or more unrelated typefaces appear in one composition, often in one line.",
+      "Lines of type run at several different angles, with no shared grid.",
+      "Cut photographic fragments are combined with type, and their edges stay visible.",
+      "Black on paper dominates, with at most one strong second color, usually red.",
+      "Printer’s ornaments such as pointing hands, rules, or brackets are used as images."
+    ],
+    "counter": [
+      "One typeface family set on a consistent grid.",
+      "Gradients, gloss, soft shadows, or rounded components.",
+      "Torn, eroded, or blurred letterforms. Dada letters are clean metal type; the disorder is in the arrangement.",
+      "A palette of several bright hues."
+    ],
+    "confusions": [
+      {
+        "with": "constructivism",
+        "difference": "Both use photomontage and red and black on paper. Constructivism builds an ordered, directed composition with one heavy sans-serif in capitals, diagonal bars, and wedges. Dada mixes unrelated faces at random angles and sizes, with no geometric system. Some late pieces, such as *Merz 8/9*, sit between the two."
+      },
+      {
+        "with": "grunge-typography",
+        "difference": "Grunge also collides many faces, but its letters are damaged, blurred, and digitally layered over dirty texture. Dada letters are clean metal type on plain newsprint, and its texture is the halftone of the photographs."
+      },
+      {
+        "with": "new-wave-typography",
+        "difference": "New Wave stays inside one grotesque family and works with letterspacing, stepped lines, and dot screens. Dada mixes serif, grotesque, and ornament faces and uses press photographs."
+      },
+      {
+        "with": "pop-art",
+        "difference": "Pop art uses comic-strip images, Ben-Day dots, and several flat bright hues. Dada uses press photographs, mostly black and one red, and no comic devices."
+      },
+      {
+        "with": "Punk visual art",
+        "difference": "Punk ransom-note flyers revive Dada collage with photocopies and cut-out letters glued by hand, often with dirt and toner. Dada used letterpress and line blocks, so its type is clean."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Set the page in black on a warm newsprint color. Use red as the only strong hue.",
+      "Use at least three unrelated typefaces: a heavy grotesque, a high-contrast roman, and a condensed gothic. Change face, size, and case inside one heading.",
+      "Rotate headings, labels, and pasted slips to several different small angles.",
+      "Use black-and-white photographs cut to irregular straight-edged shapes, and paste type labels on them.",
+      "Use printer’s ornaments such as the pointing hand (☞), heavy rules, and brackets as visual elements.",
+      "Keep body text in a plain readable roman, so the collage stays in headings, labels, and images."
+    ],
+    "dont": [
+      "Do not erode, blur, or distress the letterforms. The disorder comes from arrangement, not from damaged type.",
+      "Do not use gradients, rounded corners, or soft shadows.",
+      "Do not add more than one strong hue beyond black and paper grey.",
+      "Do not align everything to one grid. A tidy collage loses the style.",
+      "Do not rotate or overlap body text or form controls so that they become hard to read or use."
+    ],
+    "uses": [
+      "Art and performance events",
+      "Experimental music and club nights",
+      "Independent magazines and zines",
+      "Satirical or protest campaigns",
+      "Gallery and exhibition sites"
+    ],
+    "avoid": [
+      "Banking, healthcare, and government services. The style mocks authority and order, which these services need to show.",
+      "Dense data apps and long reading. Mixed faces and angles slow scanning.",
+      "Children’s products. The source tone is satirical and anti-bourgeois, not playful."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.imageShare",
+      "min": 0.05,
+      "note": "Photomontage: photographic fragments cover part of the page. No other specimen uses images. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.families.length",
+      "min": 4,
+      "note": "Typographic collage of unrelated faces. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.sizeRange",
+      "min": 8,
+      "note": "Sizes jump from caption to poster scale. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.hues",
+      "max": 1,
+      "note": "Black and paper with at most one strong hue, usually red. Provisional."
+    },
+    {
+      "metric": "color.patternShare",
+      "max": 0.1,
+      "note": "Texture lives in the photographs, not in tiled backgrounds. Tiled grain points to grunge typography. Provisional."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "Flat printed paper. Provisional."
+    }
+  ],
+  "page": "dada.html",
+  "implementation": {
+    "tokens": "implementations/dada/tokens.json",
+    "css": "implementations/dada/tokens.css",
+    "tailwind": "implementations/dada/tailwind.css",
+    "shadcn": "implementations/dada/shadcn.css",
+    "registry": "implementations/dada/registry-item.json",
+    "designMd": "implementations/dada/DESIGN.md",
+    "specimen": "implementations/dada/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for dada. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#ebe3d0",
+        "$description": "Cheap newsprint, slightly yellowed."
+      },
+      "surface": {
+        "$value": "#f4efe2",
+        "$description": "A whiter pasted slip of paper."
+      },
+      "subtle": {
+        "$value": "#d8cdb5",
+        "$description": "Darker newsprint for a second pasted layer."
+      },
+      "text": {
+        "$value": "#151311",
+        "$description": "Printing black."
+      },
+      "muted": {
+        "$value": "#4a443d"
+      },
+      "border": {
+        "$value": "#151311"
+      },
+      "primary": {
+        "$value": "#c8231b",
+        "$description": "Overprint red, the one strong hue."
+      },
+      "on-primary": {
+        "$value": "#f6f0e2"
+      },
+      "secondary": {
+        "$value": "#151311",
+        "$description": "Printing black, for solid blocks and reversed type."
+      },
+      "on-secondary": {
+        "$value": "#ebe3d0"
+      },
+      "accent": {
+        "$value": "#857d72",
+        "$description": "Halftone grey of a reproduced photograph. Not a hue."
+      },
+      "on-accent": {
+        "$value": "#151311"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Impact",
+          "Haettenschweiler",
+          "Arial Black",
+          "sans-serif"
+        ],
+        "$description": "Heavy poster grotesque from the jobbing case."
+      },
+      "body": {
+        "$value": [
+          "Georgia",
+          "Times New Roman",
+          "serif"
+        ],
+        "$description": "Plain newspaper roman for running text."
+      },
+      "mono": {
+        "$value": [
+          "Courier New",
+          "Courier",
+          "monospace"
+        ]
+      },
+      "serif": {
+        "$value": [
+          "Didot",
+          "Bodoni 72",
+          "Bodoni MT",
+          "Times New Roman",
+          "serif"
+        ],
+        "$description": "High-contrast display roman, set against the grotesque."
+      },
+      "condensed": {
+        "$value": [
+          "Franklin Gothic Medium",
+          "Arial Narrow",
+          "sans-serif"
+        ],
+        "$description": "Condensed gothic for labels and small capitals."
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 900
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "22px"
+      },
+      "xl": {
+        "$value": "30px"
+      },
+      "2xl": {
+        "$value": "46px"
+      },
+      "3xl": {
+        "$value": "68px"
+      },
+      "4xl": {
+        "$value": "108px"
+      },
+      "5xl": {
+        "$value": "176px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.84
+      },
+      "body": {
+        "$value": 1.45
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.12,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "8px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "104px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": []
+}

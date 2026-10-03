@@ -1,0 +1,654 @@
+{
+  "id": "synthwave",
+  "title": "Synthwave",
+  "order": 33,
+  "status": "draft",
+  "naming": "internet-aesthetic",
+  "aliases": [
+    "Outrun",
+    "Retrowave"
+  ],
+  "summary": "Neon grids, striped sunsets, and chrome lettering on a black night sky. The 1980s remembered as a movie.",
+  "lede": "The visual side of the synthwave music microgenre of the late 2000s and 2010s, usually called the Outrun aesthetic after the 1986 Sega game *Out Run*: a dark night sky, a striped retrosun on the horizon, a glowing magenta laser grid that recedes to a vanishing point, chrome and airbrush-script logotypes, and 1980s sports cars and palm trees, in magenta, cyan, and violet. Wikipedia describes outrun as a term for “retro 1980s aesthetics such as VHS tracking artefacts, magenta neon, and gridlines”. Unlike [vaporwave](style:vaporwave), it celebrates its sources without irony and keeps a polished, high-contrast finish.",
+  "moods": [
+    "nostalgic",
+    "cinematic",
+    "energetic",
+    "nocturnal",
+    "retrofuturist"
+  ],
+  "era": {
+    "from": 2006,
+    "note": "Kavinsky’s “Testarossa Autodrive” (2006) and the Valerie Collective set the template, per the Aesthetics Wiki; Wikidata dates the genre to 2005. Drive (2011), Hotline Miami (2012), Far Cry 3: Blood Dragon (2013), and Kung Fury (2015) spread the look. It continues in the 2020s in games, merchandise, and music videos."
+  },
+  "regions": [
+    "France",
+    "International (online)"
+  ],
+  "identifiers": {
+    "wikidata": "Q19938910"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Synthwave",
+      "url": "https://en.wikipedia.org/wiki/Synthwave",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Aesthetics Wiki: Synthwave (Outrun redirects here)",
+      "url": "https://aesthetics.fandom.com/wiki/Synthwave",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "PC Gamer (Phil Iwaniuk, 4 October 2017): How synthwave music inspired games to explore a past that never existed",
+      "url": "https://www.pcgamer.com/how-synthwave-music-inspired-games-to-explore-a-past-that-never-existed/",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Out Run (1986 video game)",
+      "wikidata": "Q1142287",
+      "note": "Wikipedia: the term “outrun” comes from the 1986 Sega arcade racing game. PC Gamer notes that the Ferrari Testarossa and palm trees on Kavinsky’s *OutRun* album cover (2013) reference the game."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Tron (1982 film)",
+      "wikidata": "Q626483",
+      "note": "PC Gamer: in synthwave games “Tron’s neon lines often appear”. The glowing wireframe grid floor descends from its vector graphics."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Blade Runner (1982 film)",
+      "wikidata": "Q184843",
+      "note": "Wikipedia names *Blade Runner*, “both the soundtrack and the film itself”, as a key reference point. PC Gamer: “Blade Runner’s cityscapes” recur in synthwave game art."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Miami Vice",
+      "wikidata": "Q559321",
+      "note": "Invisible Oranges, quoted by Wikipedia, describes the genre’s bright side as “Miami Vice vibes”: pastel-neon coastal nights, sports cars, and palm silhouettes."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Italo disco",
+      "wikidata": "Q744417",
+      "note": "The Aesthetics Wiki lists Italo disco as a predecessor and compares synthwave’s airbrushed chrome script lettering to Italo disco album covers."
+    },
+    {
+      "relation": "related-to",
+      "style": "vaporwave",
+      "note": "Wikipedia: Nicholas Diak traces both genres to the same shift toward 1980s homage after *Grand Theft Auto: Vice City* (2002), and calls “retrowave” an umbrella that covers both. The Aesthetics Wiki tabulates the difference: synthwave is earnest, dark, and high-contrast; vaporwave is ironic, pastel, and lo-fi."
+    },
+    {
+      "relation": "related-to",
+      "label": "Darksynth",
+      "wikidata": "Q60973191",
+      "note": "Wikidata classes darksynth as a subclass of synthwave. The Aesthetics Wiki: it swaps the neon-sunset palette for red and black, occult imagery, and horror tropes. This record covers the Outrun core, not that branch."
+    },
+    {
+      "relation": "related-to",
+      "style": "cyberpunk",
+      "note": "The Aesthetics Wiki lists cyberpunk as a related aesthetic, and Wikipedia’s synthwave article links it. Both use neon on black; cyberpunk is dystopian and urban, synthwave nostalgic and open-horizon."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Neon on night.",
+      "text": "Deep black, navy, and violet grounds carry magenta, cyan, and violet light. The sun adds yellow and orange. Colors glow rather than fill."
+    },
+    {
+      "facet": "layout",
+      "term": "Horizon and vanishing point.",
+      "text": "A flat plane, usually a laser grid, recedes to a central vanishing point under a striped sun or a skyline. Compositions are symmetrical and centered on the horizon."
+    },
+    {
+      "facet": "type",
+      "term": "Chrome logotype and neon script.",
+      "text": "Heavy italic capitals rendered as chrome, with a sky-blue top, a hard horizon line, and a pink reflection below, often paired with a glowing airbrush or brush script. Secondary text is wide, spaced techno capitals."
+    },
+    {
+      "facet": "imagery",
+      "term": "Sunset, grid, car, palm.",
+      "text": "The striped retrosun, the wireframe grid, wireframe mountains, 1980s supercars such as the Testarossa, Countach, and DeLorean, palm silhouettes, and night city skylines."
+    },
+    {
+      "facet": "surface",
+      "term": "Glow and gloss.",
+      "text": "Neon tube glows, chrome highlights, star fields, and lens flares. The finish is clean and high-definition. VHS scan lines appear as an accent, not as decay."
+    },
+    {
+      "facet": "structure",
+      "term": "Neon outlines.",
+      "text": "Panels and buttons are dark, square boxes outlined with a thin glowing line, like a neon sign or a vector display."
+    },
+    {
+      "facet": "motion",
+      "term": "Endless drive.",
+      "text": "The grid scrolls toward the viewer, the sun sinks, and the road runs on in loops, as in music videos and arcade attract modes."
+    }
+  ],
+  "synthesis": [
+    "Provisional: no references are recorded yet. The record is written from the sources in the attestation list. The Outrun core is consistent across them: a striped sun, a magenta laser grid, chrome lettering, and cars and palms on a night sky."
+  ],
+  "rubric": {
+    "diagnostic": [
+      "A dark night-sky ground with magenta, cyan, and violet neon light.",
+      "A striped sun on a horizon, a glowing perspective grid floor, or both.",
+      "Chrome or glowing italic lettering, often with a neon script word.",
+      "1980s supercars, palm silhouettes, wireframe mountains, or night skylines, shown without irony."
+    ],
+    "counter": [
+      "A pastel or faded palette, classical statues, Windows 95 windows, or glitch decay as the main surface: that is vaporwave.",
+      "Rain, grime, crowded street signage, and a dystopian city mood without a horizon or a sunset: that is cyberpunk.",
+      "Red and black only, with occult or horror imagery: that is the darksynth branch.",
+      "Light or white grounds with neon used only as small accents."
+    ],
+    "confusions": [
+      {
+        "with": "vaporwave",
+        "difference": "Both use a grid floor and a striped sun. Synthwave is dark, saturated, polished, and sincere, with chrome type, cars, and palms. Vaporwave is pastel, faded, glitched, and ironic, with statues, Windows 95 chrome, and fullwidth or Japanese text."
+      },
+      {
+        "with": "cyberpunk",
+        "difference": "Cyberpunk is a dystopian city at street level: rain, dense signs, grime, and hacker interfaces in neon on black. Synthwave looks at an open horizon at sunset, with a clean grid, chrome logos, and nostalgia instead of dread."
+      },
+      {
+        "with": "y2k",
+        "difference": "Y2K uses silver chrome, iridescent blobs, rounded plastic, and light grounds. Synthwave chrome is a striped 1980s logotype on a black sky with neon grids, and its corners are square."
+      },
+      {
+        "with": "Darksynth",
+        "difference": "Darksynth is a branch of synthwave that drops the sunset palette for red, black, and horror imagery. Count it as related, not as the core."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a near-black navy-to-violet sky gradient as the page background, warming toward magenta at the horizon.",
+      "Put a striped sun on the horizon of the hero and a receding magenta laser grid below it.",
+      "Set display headings in heavy italic capitals with a chrome gradient: light top, hard horizon line at the middle, pink reflection below.",
+      "Outline panels and buttons with a 1 px neon line and a centered, blurred glow. Keep the corners square.",
+      "Use magenta and cyan as the two neon colors, and yellow-orange only for the sun and for figures such as prices.",
+      "Keep body text light on the dark part of the sky or on a dark translucent panel."
+    ],
+    "dont": [
+      "Do not use pastel or faded colors as the base. That reads as vaporwave.",
+      "Do not add glitch decay, Windows 95 windows, or classical statues.",
+      "Do not use offset or hard drop shadows. Neon glows are centered and blurred.",
+      "Do not put body text on the sun, the grid, or the bright horizon band.",
+      "Do not set long text in script or chrome type. Keep them for one or two words.",
+      "Do not animate the grid or flicker the neon for users who prefer reduced motion."
+    ],
+    "uses": [
+      "Music releases, artists, and labels",
+      "Retro and arcade games",
+      "Club nights and festivals",
+      "Esports and streaming overlays",
+      "Merchandise and car culture",
+      "Nostalgic campaigns"
+    ],
+    "avoid": [
+      "Finance, health, government, and other products where calm and trust come first. The style is loud and theatrical.",
+      "Long reading and dense documentation. Glow and dark grounds tire the eye over long text.",
+      "Daylight, outdoor, or nature brands. The style is nocturnal and artificial."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.gradientShare",
+      "min": 0.4,
+      "note": "Positive marker. A night-sky gradient sits behind most of the page; the specimen measures 0.64. The other dark specimens (Cyberpunk 0.09 lightness, Googie, Art Deco) measure 0 here. Provisional: set from the specimen, recalibrate with measured references. Real sites often paint the sky in an image, which this metric does not count."
+    },
+    {
+      "metric": "pixels.lightness",
+      "max": 0.3,
+      "note": "Positive marker, read from the screenshot. A dark night ground covers most of the page; the specimen measures 0.18. Gradient-heavy light styles (Y2K 0.87, Frutiger Aero 0.92, Vaporwave 0.68, Glassmorphism 0.36) fail. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.25,
+      "note": "Positive marker. Neon outlines glow, so many boxes carry a shadow; the specimen measures 0.48. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.medianBlur",
+      "min": 8,
+      "note": "Positive marker. Glows are wide and soft; the specimen measures 20. Vaporwave bevels measure 0. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.centerShare",
+      "min": 0.25,
+      "note": "Positive marker. The composition is symmetrical about the vanishing point, so the hero, the quote, and the footer are centered; the specimen measures 0.36. Cyberpunk and Googie specimens measure 0.01. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.medianOffset",
+      "max": 1,
+      "note": "Neon light is centered on its tube, not cast to one side. The specimen measures 0. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 4,
+      "note": "Panels and buttons are square, like vector-display lines. The specimen measures 0; Googie and Y2K round their corners. Provisional: set from the specimen, recalibrate with measured references."
+    }
+  ],
+  "page": "synthwave.html",
+  "implementation": {
+    "tokens": "implementations/synthwave/tokens.json",
+    "css": "implementations/synthwave/tokens.css",
+    "tailwind": "implementations/synthwave/tailwind.css",
+    "shadcn": "implementations/synthwave/shadcn.css",
+    "registry": "implementations/synthwave/registry-item.json",
+    "designMd": "implementations/synthwave/DESIGN.md",
+    "specimen": "implementations/synthwave/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for synthwave. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#0d0221",
+        "$description": "Night sky behind the grid."
+      },
+      "surface": {
+        "$value": "#160536"
+      },
+      "subtle": {
+        "$value": "#2a0e5c"
+      },
+      "text": {
+        "$value": "#f5ecff"
+      },
+      "muted": {
+        "$value": "#c2b0e8"
+      },
+      "border": {
+        "$value": "#ff2bd6"
+      },
+      "primary": {
+        "$value": "#ff2bd6",
+        "$description": "Neon magenta: grid lines, borders, glows."
+      },
+      "on-primary": {
+        "$value": "#0d0221"
+      },
+      "secondary": {
+        "$value": "#2de2e6",
+        "$description": "Neon cyan: the second tube color."
+      },
+      "on-secondary": {
+        "$value": "#0d0221"
+      },
+      "accent": {
+        "$value": "#ffb000",
+        "$description": "Sun orange-yellow."
+      },
+      "on-accent": {
+        "$value": "#0d0221"
+      },
+      "violet": {
+        "$value": "#7a2cff"
+      },
+      "horizon": {
+        "$value": "#4a0d67",
+        "$description": "Sky color just above the horizon."
+      },
+      "sun-top": {
+        "$value": "#ffe45c"
+      },
+      "chrome-light": {
+        "$value": "#eaf6ff"
+      },
+      "chrome-mid": {
+        "$value": "#6fa8ff"
+      },
+      "chrome-dark": {
+        "$value": "#1b1446"
+      },
+      "chrome-glint": {
+        "$value": "#ffc2ec"
+      },
+      "panel": {
+        "$value": "#160536b3",
+        "$description": "Panel fill at 70% opacity: the sky shows through."
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Futura",
+          "Avenir Next Condensed",
+          "Arial Black",
+          "Helvetica Neue",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Avenir Next",
+          "Segoe UI",
+          "Helvetica Neue",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Eurostile",
+          "Microgramma",
+          "Bank Gothic",
+          "Arial Narrow",
+          "sans-serif"
+        ],
+        "$description": "Wide techno caps for labels. Not a monospace face; synthwave labels are not terminal text."
+      },
+      "script": {
+        "$value": [
+          "Brush Script MT",
+          "Segoe Script",
+          "Snell Roundhand",
+          "cursive"
+        ],
+        "$description": "Airbrush-style script for a second word under the chrome logotype."
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 800
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "21px"
+      },
+      "xl": {
+        "$value": "28px"
+      },
+      "2xl": {
+        "$value": "38px"
+      },
+      "3xl": {
+        "$value": "56px"
+      },
+      "4xl": {
+        "$value": "84px"
+      },
+      "5xl": {
+        "$value": "128px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.92
+      },
+      "body": {
+        "$value": 1.6
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.08,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.24,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "2px"
+      },
+      "lg": {
+        "$value": "2px"
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "2px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "104px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "sm": {
+        "$value": [
+          {
+            "color": "#ff2bd6",
+            "offsetX": "0px",
+            "offsetY": "0px",
+            "blur": "10px",
+            "spread": "0px"
+          }
+        ],
+        "$description": "Neon tube glow: centered, blurred, no offset."
+      },
+      "md": {
+        "$value": [
+          {
+            "color": "#ff2bd6",
+            "offsetX": "0px",
+            "offsetY": "0px",
+            "blur": "4px",
+            "spread": "0px"
+          },
+          {
+            "color": "#ff2bd680",
+            "offsetX": "0px",
+            "offsetY": "0px",
+            "blur": "22px",
+            "spread": "2px"
+          }
+        ],
+        "$description": "Panel glow with a tight core and a wide halo."
+      },
+      "cyan": {
+        "$value": [
+          {
+            "color": "#2de2e6",
+            "offsetX": "0px",
+            "offsetY": "0px",
+            "blur": "4px",
+            "spread": "0px"
+          },
+          {
+            "color": "#2de2e680",
+            "offsetX": "0px",
+            "offsetY": "0px",
+            "blur": "20px",
+            "spread": "2px"
+          }
+        ]
+      }
+    },
+    "gradient": {
+      "$type": "gradient",
+      "sky": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#0d0221",
+              "position": 0
+            },
+            {
+              "color": "#170434",
+              "position": 0.5
+            },
+            {
+              "color": "#2e0a52",
+              "position": 0.8
+            },
+            {
+              "color": "#4a0d67",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "Night sky that warms toward the horizon."
+      },
+      "sun": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#ffe45c",
+              "position": 0
+            },
+            {
+              "color": "#ffb000",
+              "position": 0.35
+            },
+            {
+              "color": "#ff6a3d",
+              "position": 0.62
+            },
+            {
+              "color": "#ff2bd6",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "Retrosun: yellow at the top, magenta at the horizon."
+      },
+      "chrome": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#eaf6ff",
+              "position": 0
+            },
+            {
+              "color": "#6fa8ff",
+              "position": 0.48
+            },
+            {
+              "color": "#1b1446",
+              "position": 0.5
+            },
+            {
+              "color": "#ffc2ec",
+              "position": 0.62
+            },
+            {
+              "color": "#eaf6ff",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "Chrome lettering: sky reflection, a hard horizon line, then a pink ground reflection."
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": []
+}

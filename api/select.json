@@ -958,6 +958,313 @@
         "websiteCaptures": 8,
         "capturesPassing": 3
       }
+    },
+    {
+      "id": "futurism",
+      "title": "Italian Futurism",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/futurism.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/futurism.json",
+      "status": "draft",
+      "summary": "Speed, noise, and machines. Words in many typefaces fly at different angles, and shapes repeat along their path of motion.",
+      "moods": [
+        "fast",
+        "loud",
+        "mechanical",
+        "exuberant",
+        "aggressive",
+        "theatrical"
+      ],
+      "uses": [
+        "Event, festival, and music posters",
+        "Motorsport, cycling, and transport brands",
+        "Editorial covers and experimental magazines",
+        "Exhibitions about the avant-garde",
+        "Drinks and food advertising in the Depero manner"
+      ],
+      "avoid": [
+        "Dense data products, forms, and dashboards. Mixed faces and tilted elements slow reading.",
+        "Calm or caring services such as healthcare. The style is aggressive and loud.",
+        "Institutions that must avoid political associations. The movement is linked with Italian Fascism."
+      ],
+      "era": {
+        "from": 1909,
+        "to": 1944
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "dada",
+      "title": "Dada",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/dada.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/dada.json",
+      "status": "draft",
+      "summary": "Clashing typefaces, cut photographs, and red on newsprint. A collage that refuses to behave.",
+      "moods": [
+        "irreverent",
+        "chaotic",
+        "ironic",
+        "experimental",
+        "rebellious",
+        "raw"
+      ],
+      "uses": [
+        "Art and performance events",
+        "Experimental music and club nights",
+        "Independent magazines and zines",
+        "Satirical or protest campaigns",
+        "Gallery and exhibition sites"
+      ],
+      "avoid": [
+        "Banking, healthcare, and government services. The style mocks authority and order, which these services need to show.",
+        "Dense data apps and long reading. Mixed faces and angles slow scanning.",
+        "Children’s products. The source tone is satirical and anti-bourgeois, not playful."
+      ],
+      "era": {
+        "from": 1916,
+        "to": 1924
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "cyberpunk",
+      "title": "Cyberpunk",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/cyberpunk.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/cyberpunk.json",
+      "status": "draft",
+      "summary": "Neon signs in a wet black night, terminal text, and heads-up displays. High tech, low life.",
+      "moods": [
+        "dystopian",
+        "gritty",
+        "nocturnal",
+        "high-tech",
+        "rebellious",
+        "tense"
+      ],
+      "uses": [
+        "Video games and game studios",
+        "Esports teams and tournaments",
+        "Electronic music, club nights, and festivals",
+        "Developer tools, security, and hacking products",
+        "Science-fiction film, books, and fan sites"
+      ],
+      "avoid": [
+        "Health, children’s, and wellness products. The style signals danger, surveillance, and decay.",
+        "Banks, insurance, and government services. Its anti-corporate tone undercuts trust.",
+        "Long-form reading. Dark grounds, monospace body text, and glow tire the eye over many pages."
+      ],
+      "era": {
+        "from": 1982,
+        "to": null
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "solarpunk",
+      "title": "Solarpunk",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/solarpunk.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/solarpunk.json",
+      "status": "draft",
+      "summary": "Sunlit greens, sky blue, and sun gold; plants grown over solar panes and arched windows. A hopeful, handmade future.",
+      "moods": [
+        "hopeful",
+        "sunlit",
+        "verdant",
+        "communal",
+        "handmade"
+      ],
+      "uses": [
+        "Community gardens, food co-ops, and repair cafés",
+        "Renewable-energy cooperatives and climate organizations",
+        "Speculative-fiction magazines, anthologies, and indie games",
+        "Festivals, maker spaces, and education about sustainability"
+      ],
+      "avoid": [
+        "Oil, gas, mining, and fast-fashion brands. The style promises ecological change, so it reads as greenwashing.",
+        "Banking, legal, and security products that must look neutral and serious. The illustrative, hopeful tone can look naive.",
+        "Dense dashboards and developer tools. Arched panels and patterns take space and compete with data."
+      ],
+      "era": {
+        "from": 2014,
+        "to": null
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "googie",
+      "title": "Googie",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/googie.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/googie.json",
+      "status": "draft",
+      "summary": "Neon signs, starbursts, boomerangs, and upswept angles in turquoise, flamingo pink, and tangerine. The space-age look of 1950s American coffee shops, motels, and roadside signs.",
+      "moods": [
+        "exuberant",
+        "optimistic",
+        "futuristic",
+        "retro",
+        "flashy",
+        "roadside"
+      ],
+      "uses": [
+        "Diners, coffee shops, and drive-ins",
+        "Motels, bowling alleys, and car washes",
+        "Retro events, film nights, and space-age themed festivals",
+        "Neighborhood preservation and roadside history projects",
+        "Playful landing pages for consumer products with a retro-futurist theme"
+      ],
+      "avoid": [
+        "Enterprise software, finance, and health products. Neon and starbursts read as a carnival, not as trust.",
+        "Long reading and documentation. A dark ground with glowing color tires the eye.",
+        "Brands that must look contemporary or quiet. The style is loud and openly retro."
+      ],
+      "era": {
+        "from": 1945,
+        "to": 1972
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "synthwave",
+      "title": "Synthwave",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/synthwave.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/synthwave.json",
+      "status": "draft",
+      "summary": "Neon grids, striped sunsets, and chrome lettering on a black night sky. The 1980s remembered as a movie.",
+      "moods": [
+        "nostalgic",
+        "cinematic",
+        "energetic",
+        "nocturnal",
+        "retrofuturist"
+      ],
+      "uses": [
+        "Music releases, artists, and labels",
+        "Retro and arcade games",
+        "Club nights and festivals",
+        "Esports and streaming overlays",
+        "Merchandise and car culture",
+        "Nostalgic campaigns"
+      ],
+      "avoid": [
+        "Finance, health, government, and other products where calm and trust come first. The style is loud and theatrical.",
+        "Long reading and dense documentation. Glow and dark grounds tire the eye over long text.",
+        "Daylight, outdoor, or nature brands. The style is nocturnal and artificial."
+      ],
+      "era": {
+        "from": 2006,
+        "to": null
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "kawaii",
+      "title": "Kawaii",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/kawaii.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/kawaii.json",
+      "status": "draft",
+      "summary": "Pastel, round, and smiling. Every object can have a face.",
+      "moods": [
+        "cute",
+        "sweet",
+        "gentle",
+        "playful",
+        "innocent",
+        "friendly",
+        "cheerful"
+      ],
+      "uses": [
+        "Products for children and families",
+        "Stationery, gift, and character-goods shops",
+        "Cafés, sweets, and bakeries",
+        "Casual mobile games",
+        "Sticker, chat, and journaling apps",
+        "Fan events and community sites",
+        "Friendly onboarding and empty states in consumer apps"
+      ],
+      "avoid": [
+        "Banking, insurance, and legal services that must feel serious and trustworthy. Cuteness can read as unprofessional.",
+        "Healthcare, crisis, and safety information. A cheerful mascot can trivialize the subject.",
+        "Dense dashboards and data tools. Large radii and decoration waste space and compete with data.",
+        "Luxury and high fashion brands that depend on restraint.",
+        "Enterprise and B2B software for specialist users."
+      ],
+      "era": {
+        "from": 1970,
+        "to": null
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 5,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "pixel-art",
+      "title": "Pixel Art",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/pixel-art.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/pixel-art.json",
+      "status": "draft",
+      "summary": "Visible square pixels. Small palettes. Stepped edges and bitmap type.",
+      "moods": [
+        "playful",
+        "nostalgic",
+        "crisp",
+        "game-like",
+        "handmade"
+      ],
+      "uses": [
+        "Independent game sites, press kits, and game jams",
+        "Gaming events and esports microsites",
+        "Hobby software, developer side projects, and command-line tool sites with a playful tone",
+        "Chiptune music, retro computing, and demoscene pages",
+        "Achievement badges, progress bars, and other game-like interface details"
+      ],
+      "avoid": [
+        "Long-form reading such as documentation or news. Bitmap type tires readers over long text.",
+        "Healthcare, finance, and legal services. The style reads as a game, not as calm and serious.",
+        "Luxury and premium brands. The coarse grid reads as cheap or nostalgic.",
+        "Dashboards with fine charts and dense data. The coarse pixel unit cannot show fine detail."
+      ],
+      "era": {
+        "from": 1978,
+        "to": null
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
     }
   ]
 }

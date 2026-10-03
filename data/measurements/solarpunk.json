@@ -1,0 +1,161 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/solarpunk/index.html",
+  "title": "Solarpunk specimen · A Field Guide to Style",
+  "captured": "2026-10-02T23:59:06.357Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Charter",
+        "share": 0.66
+      },
+      {
+        "family": "Seravek",
+        "share": 0.32
+      },
+      {
+        "family": "monospace",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 18,
+    "maxSize": 78,
+    "sizeRange": 4.33,
+    "scaleRatio": 1.31,
+    "headingWeight": 600,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0.02,
+    "centerShare": 0.03
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#fbf8ec",
+        "share": 0.542
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.162
+      },
+      {
+        "hex": "#1d3326",
+        "share": 0.126
+      },
+      {
+        "hex": "#00a843",
+        "share": 0.052
+      },
+      {
+        "hex": "#0b8fd0",
+        "share": 0.046
+      },
+      {
+        "hex": "#e2f1d0",
+        "share": 0.043
+      },
+      {
+        "hex": "#4f6655",
+        "share": 0.017
+      },
+      {
+        "hex": "#f5b922",
+        "share": 0.007
+      },
+      {
+        "hex": "#10241a",
+        "share": 0.005
+      }
+    ],
+    "background": "#fbf8ec",
+    "text": "#1d3326",
+    "contrast": 12.7,
+    "chroma": 0.13,
+    "lightness": 0.78,
+    "chromaticShare": 0.11,
+    "accentChroma": 0.72,
+    "distinct": 6,
+    "hues": 3,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0.22
+  },
+  "surface": {
+    "boxes": 32,
+    "radius": {
+      "median": 25.3,
+      "max": 200,
+      "roundShare": 0.59
+    },
+    "border": {
+      "share": 0.75,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.22,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#fbf9ec",
+        "share": 0.736
+      },
+      {
+        "hex": "#0b8fcf",
+        "share": 0.051
+      },
+      {
+        "hex": "#dfeed0",
+        "share": 0.034
+      },
+      {
+        "hex": "#01a842",
+        "share": 0.034
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.02
+      },
+      {
+        "hex": "#f4b923",
+        "share": 0.018
+      },
+      {
+        "hex": "#abbfa8",
+        "share": 0.012
+      },
+      {
+        "hex": "#c5d3be",
+        "share": 0.011
+      },
+      {
+        "hex": "#93a690",
+        "share": 0.011
+      },
+      {
+        "hex": "#446449",
+        "share": 0.009
+      }
+    ],
+    "background": "#fbf9ec",
+    "chroma": 0.15,
+    "lightness": 0.84,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.66,
+    "distinct": 4,
+    "hues": 3
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "$description": "Authored tokens for googie. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#0f1a33",
+      "$description": "Night sky over the strip."
+    },
+    "surface": {
+      "$value": "#18284a"
+    },
+    "subtle": {
+      "$value": "#223761"
+    },
+    "text": {
+      "$value": "#fbf3e2",
+      "$description": "Warm white of a lit plastic panel."
+    },
+    "muted": {
+      "$value": "#b8c3d9"
+    },
+    "border": {
+      "$value": "#2fd3c6"
+    },
+    "primary": {
+      "$value": "#ff4f9a",
+      "$description": "Flamingo pink neon."
+    },
+    "on-primary": {
+      "$value": "#0f1a33"
+    },
+    "secondary": {
+      "$value": "#2fd3c6",
+      "$description": "Turquoise sign paint."
+    },
+    "on-secondary": {
+      "$value": "#0f1a33"
+    },
+    "accent": {
+      "$value": "#ff8a1f",
+      "$description": "Tangerine."
+    },
+    "on-accent": {
+      "$value": "#0f1a33"
+    },
+    "highlight": {
+      "$value": "#ffd23f",
+      "$description": "Atomic yellow for starbursts."
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Futura",
+        "Century Gothic",
+        "Avenir Next",
+        "Trebuchet MS",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Avenir Next",
+        "Century Gothic",
+        "Trebuchet MS",
+        "Helvetica Neue",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Futura",
+        "Century Gothic",
+        "Trebuchet MS",
+        "sans-serif"
+      ]
+    },
+    "script": {
+      "$value": [
+        "Brush Script MT",
+        "Snell Roundhand",
+        "Segoe Script",
+        "cursive"
+      ],
+      "$description": "Neon script for one sign word at a time."
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 800
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "21px"
+    },
+    "xl": {
+      "$value": "28px"
+    },
+    "2xl": {
+      "$value": "38px"
+    },
+    "3xl": {
+      "$value": "56px"
+    },
+    "4xl": {
+      "$value": "84px"
+    },
+    "5xl": {
+      "$value": "112px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 1.0
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": 0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.04,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.16,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "4px"
+    },
+    "md": {
+      "$value": "10px"
+    },
+    "lg": {
+      "$value": "24px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "2px"
+    },
+    "thick": {
+      "$value": "4px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "solarpunk",
+  "type": "registry:theme",
+  "title": "Solarpunk",
+  "description": "Sunlit greens, sky blue, and sun gold; plants grown over solar panes and arched windows. A hopeful, handmade future.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "Charter, \"Bitstream Charter\", \"Sitka Text\", Cambria, Georgia, serif",
+      "font-mono": "Seravek, \"Gill Sans\", \"Gill Sans MT\", Candara, \"Segoe UI\", sans-serif"
+    },
+    "light": {
+      "background": "#fbf8ec",
+      "foreground": "#1d3326",
+      "card": "#ffffff",
+      "card-foreground": "#1d3326",
+      "popover": "#ffffff",
+      "popover-foreground": "#1d3326",
+      "primary": "#00a843",
+      "primary-foreground": "#10241a",
+      "secondary": "#0b8fd0",
+      "secondary-foreground": "#ffffff",
+      "muted": "#e2f1d0",
+      "muted-foreground": "#4f6655",
+      "accent": "#f5b922",
+      "accent-foreground": "#1d3326",
+      "destructive": "#b42318",
+      "border": "#2a5636",
+      "input": "#2a5636",
+      "ring": "#00a843",
+      "radius": "22px"
+    }
+  }
+}

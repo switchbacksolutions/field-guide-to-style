@@ -38,6 +38,14 @@ Use it like this: choose a style from the list, read its JSON record for rules a
 - [Material Design](api/styles/material-design.json): Flat color on sheets of paper that float at set heights. Soft shadows, a bold primary bar, and a round action button. Tokens: implementations/material-design/tokens.css
 - [Neumorphism](api/styles/neumorphism.json): Soft, extruded controls pressed out of one pale surface. Light and shadow instead of color. Tokens: implementations/neumorphism/tokens.css
 - [Corporate Memphis](api/styles/corporate-memphis.json): Flat cartoon people with small heads, long bendy limbs, and purple or blue skin. The friendly face of Big Tech. Tokens: implementations/corporate-memphis/tokens.css
+- [Italian Futurism](api/styles/futurism.json): Speed, noise, and machines. Words in many typefaces fly at different angles, and shapes repeat along their path of motion. Tokens: implementations/futurism/tokens.css
+- [Dada](api/styles/dada.json): Clashing typefaces, cut photographs, and red on newsprint. A collage that refuses to behave. Tokens: implementations/dada/tokens.css
+- [Cyberpunk](api/styles/cyberpunk.json): Neon signs in a wet black night, terminal text, and heads-up displays. High tech, low life. Tokens: implementations/cyberpunk/tokens.css
+- [Solarpunk](api/styles/solarpunk.json): Sunlit greens, sky blue, and sun gold; plants grown over solar panes and arched windows. A hopeful, handmade future. Tokens: implementations/solarpunk/tokens.css
+- [Googie](api/styles/googie.json): Neon signs, starbursts, boomerangs, and upswept angles in turquoise, flamingo pink, and tangerine. The space-age look of 1950s American coffee shops, motels, and roadside signs. Tokens: implementations/googie/tokens.css
+- [Synthwave](api/styles/synthwave.json): Neon grids, striped sunsets, and chrome lettering on a black night sky. The 1980s remembered as a movie. Tokens: implementations/synthwave/tokens.css
+- [Kawaii](api/styles/kawaii.json): Pastel, round, and smiling. Every object can have a face. Tokens: implementations/kawaii/tokens.css
+- [Pixel Art](api/styles/pixel-art.json): Visible square pixels. Small palettes. Stepped edges and bitmap type. Tokens: implementations/pixel-art/tokens.css
 
 ## Data
 

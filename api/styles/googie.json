@@ -1,0 +1,506 @@
+{
+  "id": "googie",
+  "title": "Googie",
+  "order": 32,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Googie architecture",
+    "Doo Wop",
+    "Populuxe"
+  ],
+  "summary": "Neon signs, starbursts, boomerangs, and upswept angles in turquoise, flamingo pink, and tangerine. The space-age look of 1950s American coffee shops, motels, and roadside signs.",
+  "lede": "A futurist style of American commercial architecture and signage of about 1945 to the early 1970s, influenced by car culture, jets, the Atomic Age, and the Space Age: upswept roofs, acute angles, boomerangs, starbursts, atoms, and flying saucers, in steel, glass, and neon. This record covers the sign and graphic core that roadside businesses used to catch the eye of drivers. The buildings are its source, and the wider [Atomic Age](https://en.wikipedia.org/wiki/Atomic_Age_(design)) design of textiles and household goods is a related branch.",
+  "moods": [
+    "exuberant",
+    "optimistic",
+    "futuristic",
+    "retro",
+    "flashy",
+    "roadside"
+  ],
+  "era": {
+    "from": 1945,
+    "to": 1972,
+    "note": "Wikipedia: popular in the United States from roughly 1945 to the early 1970s. The name comes from John Lautner’s Googie’s Coffee Shop in Hollywood (1949); Douglas Haskell popularized it in House and Home in 1952. Getty AAT: first popular in the 1950s. Revived as retrofuturism and in animation from the 1990s."
+  },
+  "regions": [
+    "United States",
+    "Southern California",
+    "Las Vegas",
+    "Miami Beach",
+    "Wildwood, New Jersey"
+  ],
+  "identifiers": {
+    "wikidata": "Q717220",
+    "aat": "300265600"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Googie architecture",
+      "url": "https://en.wikipedia.org/wiki/Googie_architecture",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikidata: Googie (Q717220)",
+      "url": "https://www.wikidata.org/wiki/Q717220",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Getty Art & Architecture Thesaurus: Googie (300265600)",
+      "url": "https://vocab.getty.edu/page/aat/300265600",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "PRINT Magazine: Charlotte Beach, Los Angeles’ “Googie World” Architecture Tour Took Us Back to the Future (2023-01-23)",
+      "url": "https://www.printmag.com/architecture/googie-world/",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "style": "streamline-moderne",
+      "note": "Wikipedia: Googie originated in Southern California from the Streamline Moderne architecture of the 1930s. Alan Hess, cited there, argues that the simple 1930s vision of the future was obsolete by 1950, so the style turned from smooth streamlining to opulence."
+    },
+    {
+      "relation": "related-to",
+      "style": "mid-century-modern",
+      "note": "Wikipedia: Googie later became widely known as part of the mid-century modern style. Interpretation: Googie is its loud commercial branch. It uses neon and saturated sign colors and angular forms, where the mid-century graphic core uses muted cut-paper shapes."
+    },
+    {
+      "relation": "related-to",
+      "label": "Atomic Age (design)",
+      "wikidata": "Q4817248",
+      "note": "Wikidata lists “Googie” as an alias of Atomic Age design. Wikipedia describes Atomic Age design (about 1945–1967) as the wider use of atomic motifs and space-age symbols in architecture, industrial, commercial, and interior design."
+    },
+    {
+      "relation": "related-to",
+      "label": "Futurist architecture",
+      "wikidata": "Q333353",
+      "note": "Wikidata records Googie as a subclass (P279) of futurist architecture. Wikipedia calls it a type of futurist architecture."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Space Age",
+      "wikidata": "Q938328",
+      "note": "Wikidata lists jet aircraft (Q206592), the Atomic Age (Q757669), and the Space Age under “influenced by” (P737). Wikipedia links the rocket-like sign angles to Sputnik and the Space Race."
+    },
+    {
+      "relation": "related-to",
+      "label": "Retrofuturism",
+      "wikidata": "Q919036",
+      "note": "Wikipedia: the Googie style of The Jetsons and Disneyland’s Tomorrowland gave birth decades later to retrofuturism, and it inspired the background art of The Powerpuff Girls, Futurama, and The Incredibles."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Upswept angles.",
+      "text": "Roofs, sign panels, and pylons slope up at an angle, like an inverted wedge or a tail fin. Edges are diagonal or cantilevered, so forms seem to lift off the ground. Wikipedia and Getty AAT both name bold angular forms."
+    },
+    {
+      "facet": "imagery",
+      "term": "Space-age symbols.",
+      "text": "Starbursts, boomerangs, diagrammatic atoms with orbit rings, flying saucers, parabolas, rockets, and the free-form artist’s palette shape. The starburst is pure ornament, as on the Welcome to Fabulous Las Vegas sign."
+    },
+    {
+      "facet": "layout",
+      "term": "The building is a sign.",
+      "text": "One large sign panel or pylon carries the name and is meant to be read from a moving car. Several themes and shapes stack on one composition; Haskell’s third rule asks for more than one structural system."
+    },
+    {
+      "facet": "type",
+      "term": "Neon script and sign capitals.",
+      "text": "The name is in a connected script, as a neon tube would draw it, next to bold sans-serif capitals on a panel. Letters can sit on tilted or starred panels. Interpretation from roadside signs; to confirm with references."
+    },
+    {
+      "facet": "color",
+      "term": "Neon on a night sky.",
+      "text": "Turquoise, flamingo pink, tangerine, and atomic yellow, saturated and flat, with white and chrome. At night the colors glow on dark sky; by day they sit on white walls. Getty AAT names intensive use of steel, glass, and neon."
+    },
+    {
+      "facet": "surface",
+      "term": "Illuminated plastic and chrome.",
+      "text": "Wikipedia lists illuminated plastic paneling, plate glass, stainless steel, and neon. Color areas are flat sign paint and lit panels, outlined by bright tubes."
+    },
+    {
+      "facet": "motion",
+      "term": "Chasing lights.",
+      "text": "Sign bulbs and neon blink and chase in sequence. On screen, motion is a short flicker or a twinkle of a star, not a smooth glide."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Starbursts, boomerangs, atoms with orbit rings, or flying saucers appear as ornament.",
+      "Roof lines, sign panels, or pylons slope up at an angle or end in a point.",
+      "A sign panel carries a name in script or bold capitals, outlined like a neon tube.",
+      "Three or more saturated sign colors (turquoise, pink, orange, yellow) appear flat, often on a dark night ground.",
+      "Bright outlines glow against the ground, as neon does."
+    ],
+    "counter": [
+      "Long, calm horizontal bands with parallel speed lines and no angled or star shapes.",
+      "Muted earthy colors, cut-paper overprint, and illustration without signs.",
+      "Stepped setbacks, chevrons, and gold on black in a symmetrical vertical composition.",
+      "Smooth gradients, sunset grids, or chrome type with reflections.",
+      "A plain grid with one accent color."
+    ],
+    "confusions": [
+      {
+        "with": "mid-century-modern",
+        "difference": "Mid-century modern graphics use muted mustard, orange, teal, and olive on cream paper, cut-paper overprint, and illustration. Googie uses saturated neon sign colors, glowing outlines, upswept angles, and signs read from a car."
+      },
+      {
+        "with": "streamline-moderne",
+        "difference": "Streamline Moderne (1930s) is restrained and horizontal: rounded ends, speed lines, and portholes in cream, chrome, and navy. Googie (1950s) breaks the line with acute angles, starbursts, and boomerangs, and adds neon color."
+      },
+      {
+        "with": "art-deco",
+        "difference": "Art Deco is vertical and symmetrical, with stepped setbacks, sunrays, and gold on black. Googie is asymmetric and tilted, and its stars are bursts of points, not sunrays from a base line."
+      },
+      {
+        "with": "vaporwave",
+        "difference": "Vaporwave also likes pink, cyan, and night skies, but uses gradients, perspective grids, glitch, and 1990s computer imagery. Googie colors are flat sign paint and neon, with 1950s space-age symbols."
+      },
+      {
+        "with": "y2k",
+        "difference": "Y2K is also futurist, but its surfaces are glossy chrome gradients, translucent plastic, and bubbles. Googie surfaces are flat and lit, and its forms are angular."
+      },
+      {
+        "with": "synthwave",
+        "difference": "Synthwave draws neon on dark ground too, but with 1980s sunset gradients, laser grids, and chrome lettering. Googie has no gradients or grids, and uses starbursts, boomerangs, and script signs."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a deep night-blue ground, warm white text, and three or four saturated sign colors: turquoise, flamingo pink, tangerine, and atomic yellow.",
+      "Put the name on a sign panel with an upswept, angled edge, cut with clip-path, and set one word in a connected script.",
+      "Outline key panels, buttons, and inputs with a bright line and a soft glow in the same color, like a neon tube.",
+      "Scatter four- and eight-point starbursts as ornament, and repeat a small star pattern on one real panel.",
+      "Tilt sign panels and card tops a few degrees, so the page has diagonals, not only horizontal bands.",
+      "Use boomerang and atom shapes for bullets, badges, and dividers."
+    ],
+    "dont": [
+      "Do not use gradients, sunset grids, or chrome reflections. That points to Synthwave, Vaporwave, or Y2K.",
+      "Do not use muted earthy colors or cut-paper overprint. That points to mid-century modern.",
+      "Do not use only rounded bands with horizontal speed lines. That points to Streamline Moderne.",
+      "Do not center everything on a vertical axis with stepped outlines. That points to Art Deco.",
+      "Do not put glow on body text. Keep long text plain and readable.",
+      "Do not make lights blink without a reduced-motion fallback."
+    ],
+    "uses": [
+      "Diners, coffee shops, and drive-ins",
+      "Motels, bowling alleys, and car washes",
+      "Retro events, film nights, and space-age themed festivals",
+      "Neighborhood preservation and roadside history projects",
+      "Playful landing pages for consumer products with a retro-futurist theme"
+    ],
+    "avoid": [
+      "Enterprise software, finance, and health products. Neon and starbursts read as a carnival, not as trust.",
+      "Long reading and documentation. A dark ground with glowing color tires the eye.",
+      "Brands that must look contemporary or quiet. The style is loud and openly retro."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "pixels.lightness",
+      "max": 0.4,
+      "note": "A dark night-sky ground carries the neon, as signs do after dark. Specimen 0.23. Provisional: set from the specimen on 2026-10-02; recalibrate with measured references. Daytime Googie (turquoise and pink on white walls) will fail this range; decide after references whether the record keeps the night version as its core."
+    },
+    {
+      "metric": "pixels.hues",
+      "min": 4,
+      "note": "Four or more sign colors in the first viewport: turquoise, flamingo pink, tangerine, and atomic yellow. Specimen 5. Cyberpunk and Synthwave specimens show 3. Provisional: set from the specimen on 2026-10-02; recalibrate with measured references."
+    },
+    {
+      "metric": "pixels.accentChroma",
+      "min": 0.55,
+      "note": "Sign colors are saturated, stronger than the muted mid-century palette (its range ends at 0.6) and the Synthwave specimen (0.38). Specimen 0.62. Provisional: set from the specimen on 2026-10-02; recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.3,
+      "note": "Many panels, buttons, and inputs glow, like neon tubes. Specimen 0.67. Provisional: set from the specimen on 2026-10-02; recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.medianBlur",
+      "min": 8,
+      "note": "The glow is soft and centered, not a hard offset shadow. Specimen 14. Provisional: set from the specimen on 2026-10-02; recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.roundShare",
+      "min": 0.4,
+      "note": "Sign panels are soft parallelograms, boomerangs, and rounded lit boxes, unlike the square panels of Cyberpunk and Synthwave (0). Specimen 0.78. Provisional: set from the specimen on 2026-10-02; recalibrate with measured references."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.05,
+      "note": "Sign paint and lit panels are flat. Gradients point to Synthwave, Vaporwave, Y2K, or glassmorphism. Specimen 0. Provisional: set from the specimen on 2026-10-02; recalibrate with measured references."
+    }
+  ],
+  "page": "googie.html",
+  "implementation": {
+    "tokens": "implementations/googie/tokens.json",
+    "css": "implementations/googie/tokens.css",
+    "tailwind": "implementations/googie/tailwind.css",
+    "shadcn": "implementations/googie/shadcn.css",
+    "registry": "implementations/googie/registry-item.json",
+    "designMd": "implementations/googie/DESIGN.md",
+    "specimen": "implementations/googie/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for googie. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#0f1a33",
+        "$description": "Night sky over the strip."
+      },
+      "surface": {
+        "$value": "#18284a"
+      },
+      "subtle": {
+        "$value": "#223761"
+      },
+      "text": {
+        "$value": "#fbf3e2",
+        "$description": "Warm white of a lit plastic panel."
+      },
+      "muted": {
+        "$value": "#b8c3d9"
+      },
+      "border": {
+        "$value": "#2fd3c6"
+      },
+      "primary": {
+        "$value": "#ff4f9a",
+        "$description": "Flamingo pink neon."
+      },
+      "on-primary": {
+        "$value": "#0f1a33"
+      },
+      "secondary": {
+        "$value": "#2fd3c6",
+        "$description": "Turquoise sign paint."
+      },
+      "on-secondary": {
+        "$value": "#0f1a33"
+      },
+      "accent": {
+        "$value": "#ff8a1f",
+        "$description": "Tangerine."
+      },
+      "on-accent": {
+        "$value": "#0f1a33"
+      },
+      "highlight": {
+        "$value": "#ffd23f",
+        "$description": "Atomic yellow for starbursts."
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Futura",
+          "Century Gothic",
+          "Avenir Next",
+          "Trebuchet MS",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Avenir Next",
+          "Century Gothic",
+          "Trebuchet MS",
+          "Helvetica Neue",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Futura",
+          "Century Gothic",
+          "Trebuchet MS",
+          "sans-serif"
+        ]
+      },
+      "script": {
+        "$value": [
+          "Brush Script MT",
+          "Snell Roundhand",
+          "Segoe Script",
+          "cursive"
+        ],
+        "$description": "Neon script for one sign word at a time."
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 800
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "21px"
+      },
+      "xl": {
+        "$value": "28px"
+      },
+      "2xl": {
+        "$value": "38px"
+      },
+      "3xl": {
+        "$value": "56px"
+      },
+      "4xl": {
+        "$value": "84px"
+      },
+      "5xl": {
+        "$value": "112px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.04,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.16,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "4px"
+      },
+      "md": {
+        "$value": "10px"
+      },
+      "lg": {
+        "$value": "24px"
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "2px"
+      },
+      "thick": {
+        "$value": "4px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "104px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": []
+}

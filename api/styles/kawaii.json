@@ -1,0 +1,516 @@
+{
+  "id": "kawaii",
+  "title": "Kawaii",
+  "order": 34,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Kawaii style",
+    "Japanese cute style",
+    "Kawaii-kei",
+    "かわいい"
+  ],
+  "summary": "Pastel, round, and smiling. Every object can have a face.",
+  "lede": "The graphic side of *kawaii*, the Japanese culture of cuteness that grew from girls’ magazines and round teenage handwriting in the 1970s and from character goods such as Sanrio’s Hello Kitty (1974): soft pastel colors, rounded shapes, and big-headed characters with dot eyes, small mouths, and pink cheeks. This record covers that pastel, character-led graphic and interface core. Fashion styles such as Decora, Fairy Kei, and Lolita, and the darker *yami-kawaii* and *kimo-kawaii*, are related branches.",
+  "moods": [
+    "cute",
+    "sweet",
+    "gentle",
+    "playful",
+    "innocent",
+    "friendly",
+    "cheerful"
+  ],
+  "era": {
+    "from": 1970,
+    "note": "Round handwriting and Sanrio goods in the 1970s. Rune Naito’s big-headed girls of the 1950s are a precursor. The style is still in wide use."
+  },
+  "regions": [
+    "Japan",
+    "East Asia",
+    "Southeast Asia",
+    "Global"
+  ],
+  "identifiers": {
+    "wikidata": "Q281639"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Kawaii",
+      "url": "https://en.wikipedia.org/wiki/Kawaii",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikidata: kawaii (Q281639), “Japanese culture of cuteness”",
+      "url": "https://www.wikidata.org/wiki/Q281639",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Japan House Los Angeles: Yes, KAWAII is Art – Express Yourself – Sebastian Masuda (2024)",
+      "url": "https://www.japanhousela.com/exhibitions/yes-kawaii-is-art-express-yourself-sebastian-masuda/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wu, Tanio, and Yang: Kawaii as interface grammar (IASDR 2025)",
+      "url": "https://doi.org/10.21606/iasdr.2025.948",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Shōjo manga",
+      "wikidata": "Q242492",
+      "note": "Wikipedia calls kawaii culture an offshoot of Japanese girls’ culture and its shōjo magazines and manga. It credits Rune Naito’s big-headed, baby-faced girls, drawn for girls’ magazines from the 1950s to the 1970s, with pioneering the kawaii aesthetic."
+    },
+    {
+      "relation": "related-to",
+      "label": "Chibi (super deformed)",
+      "wikidata": "Q1146647",
+      "note": "Wikipedia describes chibi as characters drawn small and chubby with oversized heads and eyes and minimal detail: the same proportions that kawaii characters use. Chibi is a drawing convention of anime and manga; kawaii is the wider culture and palette."
+    },
+    {
+      "relation": "related-to",
+      "label": "Yuru-chara",
+      "wikidata": "Q11280995",
+      "note": "Wikipedia describes yuru-kyara mascots as characterized by kawaii and unsophisticated designs. They carry the style into public promotion, for example Kumamon."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Pastels on near-white.",
+      "text": "Sakura pink, mint, baby blue, butter yellow, lavender, and peach on a white or pale pink ground. Several pastels appear together. Text and outlines are a warm dark brown or plum rather than pure black."
+    },
+    {
+      "facet": "imagery",
+      "term": "Faces on everything.",
+      "text": "Characters, food, clouds, and objects get the same small face: two dot eyes set wide and low, often with a white highlight, a tiny mouth, and pink blush ovals on the cheeks."
+    },
+    {
+      "facet": "imagery",
+      "term": "Big heads, small bodies.",
+      "text": "Characters have oversized heads and short, stubby limbs or no limbs. Animals are simplified to a round body with ears, as in Hello Kitty, Miffy, or Rilakkuma."
+    },
+    {
+      "facet": "imagery",
+      "term": "Scattered motifs.",
+      "text": "Hearts, stars, sparkles, flowers, bows, clouds, and rainbows decorate the space around the main subject."
+    },
+    {
+      "facet": "structure",
+      "term": "Everything is rounded.",
+      "text": "Blobs, circles, and pills replace corners. Cards and panels have very large radii, buttons are pills, and even speech bubbles and badges are soft."
+    },
+    {
+      "facet": "surface",
+      "term": "Sticker outlines.",
+      "text": "Characters and many interface parts have an even, medium outline in the dark text color, like a sticker. Fills inside are flat or have one soft highlight. Polka dots and gingham are common patterns."
+    },
+    {
+      "facet": "type",
+      "term": "Round letters.",
+      "text": "Rounded gothic (maru gothic) or round handwritten letters, from the 1970s *marui ji* handwriting. Headings are bold and friendly, never condensed or sharp."
+    },
+    {
+      "facet": "motion",
+      "term": "Bouncy.",
+      "text": "In interfaces, elements squash, bounce, and wobble with springy easing. Characters blink or wave."
+    },
+    {
+      "facet": "layout",
+      "term": "Mascot as guide.",
+      "text": "A character often stands beside the content, greets the user, or reacts to actions. Layouts stay simple so the character and the color carry the mood."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "A character or object has a small face with dot eyes, a tiny mouth, and pink cheek blush.",
+      "Characters have big round heads and small or stubby bodies.",
+      "Three or more pastel colors, such as pink, mint, baby blue, butter yellow, and lavender, appear on a white or pale ground.",
+      "Shapes, panels, and buttons are rounded: blobs, circles, pills, and large radii.",
+      "Hearts, stars, sparkles, bows, or flowers are scattered as decoration.",
+      "Type is rounded or looks like round handwriting."
+    ],
+    "counter": [
+      "Sharp corners, hard angles, or condensed type dominate.",
+      "Saturated primaries or neon colors with no pastels.",
+      "Figures with small heads and long, bendy limbs and no faces. This points to Corporate Memphis.",
+      "Chrome, metallic gradients, or glossy plastic. This points to Y2K.",
+      "Black, gray, and deep purple with pills, bandages, and tears. This is the yami-kawaii branch, not the core."
+    ],
+    "confusions": [
+      {
+        "with": "corporate-memphis",
+        "difference": "Corporate Memphis figures have small heads, long bendy limbs, non-natural skin, and usually no facial features, in saturated colors. Kawaii characters have big heads, short bodies, and a clear face with dot eyes and blush, in pastels."
+      },
+      {
+        "with": "memphis",
+        "difference": "Memphis clashes saturated colors and fills surfaces with squiggles and confetti on angular, toy-like objects. Kawaii uses soft pastels, round forms, and faces, and its patterns are polka dots or gingham."
+      },
+      {
+        "with": "y2k",
+        "difference": "Y2K uses chrome, translucent plastic, glows, and techno type. Kawaii is flat or softly shaded pastel with rounded type and cute characters."
+      },
+      {
+        "with": "neumorphism",
+        "difference": "Neumorphism extrudes controls from one pale background color with paired soft shadows and has no characters. Kawaii uses several pastel colors, outlines, and faces."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Both can outline components in a dark color. Neo-brutalism uses square blocks, hard offset shadows, and bold saturated fills. Kawaii uses pills and blobs, soft or no shadows, and pastels."
+      },
+      {
+        "with": "Superflat",
+        "difference": "Takashi Murakami’s Superflat paints anime and kawaii imagery as fine art, often in saturated colors with ironic or dark themes. This record covers the sincere commercial and interface style."
+      },
+      {
+        "with": "Yami-kawaii",
+        "difference": "Yami-kawaii keeps the cute characters but uses black, gray, and deep purple with medical and melancholy motifs. The core uses light pastels and cheerful motifs."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a white or very pale pink page with three to five pastel fills: pink, mint, baby blue, butter yellow, lavender, or peach.",
+      "Set text and outlines in a warm dark brown or plum, so that text on pastel fills keeps its contrast.",
+      "Round everything: pill buttons and inputs, circles for badges, and radii of 32 px or more on cards and panels.",
+      "Give one mascot or object a face with two dot eyes, a small mouth, and pink cheeks. Keep it decorative, next to the content.",
+      "Scatter a few hearts, stars, or sparkles, and use polka dots for a pattern.",
+      "Use a rounded sans-serif in bold for headings.",
+      "Use springy hover and press motion, and switch it off for reduced motion."
+    ],
+    "dont": [
+      "Do not use square corners or sharp, angular shapes.",
+      "Do not use saturated primaries, neon, or black as the main colors.",
+      "Do not set body text in pastel colors. Pastel text on a pale ground is unreadable.",
+      "Do not draw long-limbed, faceless figures. That is Corporate Memphis.",
+      "Do not put text inside the mascot or make the mascot carry information that is not also in the text.",
+      "Do not use chrome, metallic gradients, or glossy reflections."
+    ],
+    "uses": [
+      "Products for children and families",
+      "Stationery, gift, and character-goods shops",
+      "Cafés, sweets, and bakeries",
+      "Casual mobile games",
+      "Sticker, chat, and journaling apps",
+      "Fan events and community sites",
+      "Friendly onboarding and empty states in consumer apps"
+    ],
+    "avoid": [
+      "Banking, insurance, and legal services that must feel serious and trustworthy. Cuteness can read as unprofessional.",
+      "Healthcare, crisis, and safety information. A cheerful mascot can trivialize the subject.",
+      "Dense dashboards and data tools. Large radii and decoration waste space and compete with data.",
+      "Luxury and high fashion brands that depend on restraint.",
+      "Enterprise and B2B software for specialist users."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.radius.median",
+      "min": 36,
+      "note": "Positive marker. Panels, cards, circles, and pills are very round; no other specimen exceeds 30. Provisional: set from the specimen (44), recalibrate with measured references. Real sites with many small square boxes may measure lower."
+    },
+    {
+      "metric": "surface.radius.roundShare",
+      "min": 0.9,
+      "note": "Positive marker. Almost no box has square corners. Provisional: set from the specimen (1)."
+    },
+    {
+      "metric": "color.hues",
+      "min": 4,
+      "note": "Positive marker. Several pastel hues appear together. The specimen pastels sit just above the 0.3 chroma threshold, so paler real pastels may not count. Provisional: set from the specimen (6)."
+    },
+    {
+      "metric": "pixels.lightness",
+      "min": 0.85,
+      "note": "Positive marker. The page is pale: pastels on white or pale pink. Provisional: set from the specimen (0.93)."
+    },
+    {
+      "metric": "color.accentChroma",
+      "max": 0.5,
+      "note": "The colors are soft pastels, not the saturated colors of Memphis or Corporate Memphis (0.7 or more). Provisional: set from the specimen (0.38)."
+    }
+  ],
+  "page": "kawaii.html",
+  "implementation": {
+    "tokens": "implementations/kawaii/tokens.json",
+    "css": "implementations/kawaii/tokens.css",
+    "tailwind": "implementations/kawaii/tailwind.css",
+    "shadcn": "implementations/kawaii/shadcn.css",
+    "registry": "implementations/kawaii/registry-item.json",
+    "designMd": "implementations/kawaii/DESIGN.md",
+    "specimen": "implementations/kawaii/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for kawaii. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#fff6f9",
+        "$description": "Pale strawberry milk: the page is almost white with a pink cast."
+      },
+      "surface": {
+        "$value": "#ffffff"
+      },
+      "subtle": {
+        "$value": "#ffe4ee"
+      },
+      "text": {
+        "$value": "#5b3a4a",
+        "$description": "Cocoa: text and character outlines are warm dark brown, not black."
+      },
+      "muted": {
+        "$value": "#7d5a6a"
+      },
+      "border": {
+        "$value": "#5b3a4a"
+      },
+      "primary": {
+        "$value": "#ff9ec7",
+        "$description": "Sakura pink."
+      },
+      "on-primary": {
+        "$value": "#5b3a4a"
+      },
+      "secondary": {
+        "$value": "#8fe3c4",
+        "$description": "Mint."
+      },
+      "on-secondary": {
+        "$value": "#5b3a4a"
+      },
+      "accent": {
+        "$value": "#ffe08a",
+        "$description": "Butter yellow."
+      },
+      "on-accent": {
+        "$value": "#5b3a4a"
+      },
+      "sky": {
+        "$value": "#8fcbff",
+        "$description": "Baby blue."
+      },
+      "on-sky": {
+        "$value": "#5b3a4a"
+      },
+      "lavender": {
+        "$value": "#c4a8ff",
+        "$description": "Lavender."
+      },
+      "on-lavender": {
+        "$value": "#5b3a4a"
+      },
+      "peach": {
+        "$value": "#ffb59a",
+        "$description": "Peach."
+      },
+      "blush": {
+        "$value": "#ff7fa8",
+        "$description": "Cheek blush on character faces."
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "ui-rounded",
+          "Hiragino Maru Gothic ProN",
+          "Arial Rounded MT Bold",
+          "Varela Round",
+          "Nunito",
+          "Quicksand",
+          "system-ui",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "ui-rounded",
+          "Hiragino Maru Gothic ProN",
+          "Nunito",
+          "Quicksand",
+          "Segoe UI",
+          "system-ui",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "ui-rounded",
+          "Hiragino Maru Gothic ProN",
+          "Arial Rounded MT Bold",
+          "Nunito",
+          "system-ui",
+          "sans-serif"
+        ],
+        "$description": "Labels stay rounded; kawaii has no technical monospace voice."
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 500
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 800
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "13px"
+      },
+      "sm": {
+        "$value": "15px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "20px"
+      },
+      "xl": {
+        "$value": "26px"
+      },
+      "2xl": {
+        "$value": "34px"
+      },
+      "3xl": {
+        "$value": "46px"
+      },
+      "4xl": {
+        "$value": "64px"
+      },
+      "5xl": {
+        "$value": "96px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.05
+      },
+      "body": {
+        "$value": 1.6
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.04,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "16px"
+      },
+      "md": {
+        "$value": "28px"
+      },
+      "lg": {
+        "$value": "44px"
+      },
+      "pill": {
+        "$value": "999px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "2px"
+      },
+      "thick": {
+        "$value": "3px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "8px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "96px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": []
+}

@@ -1,0 +1,36 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "futurism",
+  "type": "registry:theme",
+  "title": "Italian Futurism",
+  "description": "Speed, noise, and machines. Words in many typefaces fly at different angles, and shapes repeat along their path of motion.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Bodoni 72\", \"Bodoni MT\", Didot, Georgia, serif",
+      "font-mono": "\"Courier New\", Courier, monospace",
+      "shadow-sm": "-12px 0px 0px 0px #f2b20c, -24px 0px 0px 0px #d9261c",
+      "shadow-md": "-14px 6px 0px 0px #f2b20c, -28px 12px 0px 0px #d9261c, -42px 18px 0px 0px #15130f"
+    },
+    "light": {
+      "background": "#f1e9d6",
+      "foreground": "#15130f",
+      "card": "#f1e9d6",
+      "card-foreground": "#15130f",
+      "popover": "#f1e9d6",
+      "popover-foreground": "#15130f",
+      "primary": "#d9261c",
+      "primary-foreground": "#fbf4e4",
+      "secondary": "#0f7a4c",
+      "secondary-foreground": "#fbf4e4",
+      "muted": "#ddd2bb",
+      "muted-foreground": "#4d463c",
+      "accent": "#f2b20c",
+      "accent-foreground": "#15130f",
+      "destructive": "#b42318",
+      "border": "#15130f",
+      "input": "#15130f",
+      "ring": "#d9261c",
+      "radius": "0px"
+    }
+  }
+}

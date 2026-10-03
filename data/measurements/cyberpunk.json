@@ -1,0 +1,145 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/cyberpunk/index.html",
+  "title": "Cyberpunk specimen · A Field Guide to Style",
+  "captured": "2026-10-02T23:54:13.319Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Cascadia Mono",
+        "share": 0.87
+      },
+      {
+        "family": "Bahnschrift",
+        "share": 0.13
+      }
+    ],
+    "baseSize": 15,
+    "maxSize": 96,
+    "sizeRange": 6.4,
+    "scaleRatio": 1.36,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": 0.06,
+    "uppercaseShare": 0.36,
+    "monoShare": 0.87,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#07080d",
+        "share": 0.826
+      },
+      {
+        "hex": "#d8f3ff",
+        "share": 0.064
+      },
+      {
+        "hex": "#93a9bf",
+        "share": 0.058
+      },
+      {
+        "hex": "#00e5ff",
+        "share": 0.036
+      },
+      {
+        "hex": "#fcee0a",
+        "share": 0.011
+      },
+      {
+        "hex": "#ff2a6d",
+        "share": 0.006
+      }
+    ],
+    "background": "#07080d",
+    "text": "#d8f3ff",
+    "contrast": 17.3,
+    "chroma": 0.09,
+    "lightness": 0.16,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.97,
+    "distinct": 4,
+    "hues": 3,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0.26
+  },
+  "surface": {
+    "boxes": 41,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 0.76,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0.32,
+      "hardShare": 0,
+      "medianBlur": 14,
+      "medianOffset": 0
+    },
+    "gradientShare": 0,
+    "patternShare": 0.02,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#070c12",
+        "share": 0.872
+      },
+      {
+        "hex": "#0e1b24",
+        "share": 0.037
+      },
+      {
+        "hex": "#103c46",
+        "share": 0.016
+      },
+      {
+        "hex": "#d5f2fc",
+        "share": 0.013
+      },
+      {
+        "hex": "#f8ea13",
+        "share": 0.01
+      },
+      {
+        "hex": "#16616f",
+        "share": 0.01
+      },
+      {
+        "hex": "#13d9ee",
+        "share": 0.008
+      },
+      {
+        "hex": "#40453b",
+        "share": 0.006
+      },
+      {
+        "hex": "#f03a71",
+        "share": 0.006
+      },
+      {
+        "hex": "#59656e",
+        "share": 0.005
+      }
+    ],
+    "background": "#070c12",
+    "chroma": 0.07,
+    "lightness": 0.09,
+    "chromaticShare": 0.04,
+    "accentChroma": 0.67,
+    "distinct": 2,
+    "hues": 3
+  }
+}

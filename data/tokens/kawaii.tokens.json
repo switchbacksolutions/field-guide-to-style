@@ -1,0 +1,270 @@
+{
+  "$description": "Authored tokens for kawaii. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#fff6f9",
+      "$description": "Pale strawberry milk: the page is almost white with a pink cast."
+    },
+    "surface": {
+      "$value": "#ffffff"
+    },
+    "subtle": {
+      "$value": "#ffe4ee"
+    },
+    "text": {
+      "$value": "#5b3a4a",
+      "$description": "Cocoa: text and character outlines are warm dark brown, not black."
+    },
+    "muted": {
+      "$value": "#7d5a6a"
+    },
+    "border": {
+      "$value": "#5b3a4a"
+    },
+    "primary": {
+      "$value": "#ff9ec7",
+      "$description": "Sakura pink."
+    },
+    "on-primary": {
+      "$value": "#5b3a4a"
+    },
+    "secondary": {
+      "$value": "#8fe3c4",
+      "$description": "Mint."
+    },
+    "on-secondary": {
+      "$value": "#5b3a4a"
+    },
+    "accent": {
+      "$value": "#ffe08a",
+      "$description": "Butter yellow."
+    },
+    "on-accent": {
+      "$value": "#5b3a4a"
+    },
+    "sky": {
+      "$value": "#8fcbff",
+      "$description": "Baby blue."
+    },
+    "on-sky": {
+      "$value": "#5b3a4a"
+    },
+    "lavender": {
+      "$value": "#c4a8ff",
+      "$description": "Lavender."
+    },
+    "on-lavender": {
+      "$value": "#5b3a4a"
+    },
+    "peach": {
+      "$value": "#ffb59a",
+      "$description": "Peach."
+    },
+    "blush": {
+      "$value": "#ff7fa8",
+      "$description": "Cheek blush on character faces."
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "ui-rounded",
+        "Hiragino Maru Gothic ProN",
+        "Arial Rounded MT Bold",
+        "Varela Round",
+        "Nunito",
+        "Quicksand",
+        "system-ui",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "ui-rounded",
+        "Hiragino Maru Gothic ProN",
+        "Nunito",
+        "Quicksand",
+        "Segoe UI",
+        "system-ui",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "ui-rounded",
+        "Hiragino Maru Gothic ProN",
+        "Arial Rounded MT Bold",
+        "Nunito",
+        "system-ui",
+        "sans-serif"
+      ],
+      "$description": "Labels stay rounded; kawaii has no technical monospace voice."
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 500
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 800
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "13px"
+    },
+    "sm": {
+      "$value": "15px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "20px"
+    },
+    "xl": {
+      "$value": "26px"
+    },
+    "2xl": {
+      "$value": "34px"
+    },
+    "3xl": {
+      "$value": "46px"
+    },
+    "4xl": {
+      "$value": "64px"
+    },
+    "5xl": {
+      "$value": "96px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 1.05
+    },
+    "body": {
+      "$value": 1.6
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": 0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.04,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "16px"
+    },
+    "md": {
+      "$value": "28px"
+    },
+    "lg": {
+      "$value": "44px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "2px"
+    },
+    "thick": {
+      "$value": "3px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "8px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "96px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

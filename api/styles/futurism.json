@@ -1,0 +1,580 @@
+{
+  "id": "futurism",
+  "title": "Italian Futurism",
+  "order": 28,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Futurism",
+    "Futurist",
+    "Futurismo",
+    "Futurist typography",
+    "Words in freedom",
+    "Parole in libertà"
+  ],
+  "summary": "Speed, noise, and machines. Words in many typefaces fly at different angles, and shapes repeat along their path of motion.",
+  "lede": "The art and graphic design of the Italian Futurist movement (1909–1944), launched by F. T. Marinetti’s manifesto: lines of force, shapes repeated to show motion, words set free from the line in mixed typefaces and sizes, and bright flat inks in advertising and books. The movement also covers literature, music, theatre, architecture, and a Russian branch. This record covers the Italian painted and printed work and treats the other branches as related styles.",
+  "moods": [
+    "fast",
+    "loud",
+    "mechanical",
+    "exuberant",
+    "aggressive",
+    "theatrical"
+  ],
+  "era": {
+    "from": 1909,
+    "to": 1944,
+    "note": "From Marinetti’s Manifesto of Futurism in Le Figaro (20 February 1909) to his death in 1944, the range of the Guggenheim survey. Critics divide it into plastic dynamism (1910s), mechanical art (1920s), and aeropainting (1930s)."
+  },
+  "regions": [
+    "Italy"
+  ],
+  "identifiers": {
+    "wikidata": "Q131221",
+    "aat": "300021374"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Futurism",
+      "url": "https://en.wikipedia.org/wiki/Futurism",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Getty AAT 300021374: Futurist",
+      "url": "https://vocab.getty.edu/page/aat/300021374",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Tate: Futurism (art term)",
+      "url": "https://www.tate.org.uk/art/art-terms/f/futurism",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Guggenheim: Italian Futurism, 1909–1944: Reconstructing the Universe (exhibition, 2014)",
+      "url": "https://www.guggenheim.org/exhibition/italian-futurism-1909-1944-reconstructing-the-universe",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia: Zang Tumb Tumb (Marinetti’s words-in-freedom book)",
+      "url": "https://en.wikipedia.org/wiki/Zang_Tumb_Tumb",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia: Fortunato Depero (Futurist graphic designer)",
+      "url": "https://en.wikipedia.org/wiki/Fortunato_Depero",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Cubism",
+      "wikidata": "Q42934",
+      "note": "Wikidata lists Cubism as an influence (P737). The Getty AAT note says Futurist painting adopted “the simultaneous views and distorted planes of Cubism” in 1912."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Divisionism",
+      "wikidata": "Q2487023",
+      "note": "The Getty AAT note says Futurist painting relied on divisionist technique until 1912. Tate names neo-impressionism as a source of Futurist painting."
+    },
+    {
+      "relation": "related-to",
+      "label": "Russian Futurism",
+      "wikidata": "Q617166",
+      "note": "The Russian branch of the movement, mainly literary, according to Wikipedia. The Getty AAT note says it had “more revolutionary and political connotations”. This record does not cover it."
+    },
+    {
+      "relation": "related-to",
+      "label": "Aeropittura",
+      "wikidata": "Q1479489",
+      "note": "Aeropainting, the movement’s phase of the 1930s, shows landscapes from an aeroplane. Wikipedia treats it as a section of Futurism. This record includes its color and diagonals but not its aerial perspective."
+    },
+    {
+      "relation": "related-to",
+      "label": "Vorticism",
+      "wikidata": "Q915841",
+      "note": "Wikipedia names Vorticism as a movement that Futurism influenced “to a greater degree”, and says the Vorticist magazine BLAST was directly influenced by Marinetti’s Zang Tumb Tumb."
+    },
+    {
+      "relation": "related-to",
+      "style": "constructivism",
+      "note": "Wikipedia says Futurism influenced Constructivism “to some extent”. Russian Futurist poets such as Mayakovsky later worked with the Constructivists."
+    },
+    {
+      "relation": "related-to",
+      "style": "art-deco",
+      "note": "Wikipedia says Futurism influenced Art Deco “to some extent”. Depero’s advertising of the 1920s and 1930s shares its flat geometric figures with Deco posters."
+    },
+    {
+      "relation": "related-to",
+      "note": "Wikipedia names Dada among the movements that Futurism influenced. Dada typography continued the mixed typefaces of words in freedom.",
+      "style": "dada"
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "motion",
+      "term": "Repeated shapes along a path.",
+      "text": "A moving thing is drawn several times, each copy a little further along its path, as in Balla’s Dynamism of a Dog on a Leash (1912). The copies overlap and make a trail."
+    },
+    {
+      "facet": "layout",
+      "term": "Lines of force.",
+      "text": "Sharp wedges, rays, and curves fan out from a point or cut across the picture to show energy and direction. Planes interpenetrate instead of sitting side by side."
+    },
+    {
+      "facet": "type",
+      "term": "Words in freedom.",
+      "text": "Words leave the straight line. They run at many angles, in curves, and in many typefaces and sizes on one page: bold grotesques beside Bodoni italics and typewriter type. Onomatopoeia and numbers are set very large."
+    },
+    {
+      "facet": "type",
+      "term": "Type as image.",
+      "text": "The arrangement of the letters shows the subject: an explosion, a train, the noise of a battle (Marinetti’s Zang Tumb Tumb, 1914). Depero builds figures and buildings from capital letters."
+    },
+    {
+      "facet": "color",
+      "term": "Several loud inks.",
+      "text": "Paintings use prismatic, divisionist color. Printed work uses red, black, and one or two more strong inks such as yellow, green, or blue on paper. Depero’s advertising uses flat, bright fields."
+    },
+    {
+      "facet": "imagery",
+      "term": "Machines and the city.",
+      "text": "Cars, trains, aeroplanes, factories, crowds, and electric light. In the 1920s, figures become mechanical puppets made from cones, cylinders, and wedges."
+    },
+    {
+      "facet": "surface",
+      "term": "Flat print, hard edges.",
+      "text": "Printed work is flat letterpress or lithography with hard edges and no soft shadows. Paintings use broken, divided brushwork."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Words or lines of type run at several different angles on one page, not only one diagonal.",
+      "Three or more typefaces or styles mix in one composition, for example a heavy grotesque, a Bodoni italic, and typewriter type.",
+      "A shape is repeated along a path to show motion, or wedges and rays fan out as lines of force.",
+      "Very large words, numbers, or onomatopoeia stand among small text.",
+      "Subjects are machines, speed, the city, or noise."
+    ],
+    "counter": [
+      "All type is set in one family on a calm horizontal grid.",
+      "One strong hue only, used with black, in an ordered diagonal composition (Constructivism).",
+      "Symmetry, ornament, airbrushed gradients, and metallic color.",
+      "Static figures and still life without a sign of motion.",
+      "Soft shadows, rounded corners, or glossy surfaces."
+    ],
+    "confusions": [
+      {
+        "with": "constructivism",
+        "difference": "Constructivism is red and black, uses one family of heavy capitals, and organizes bars and wedges into one strong diagonal. Futurism mixes several typefaces and inks, scatters words at many angles, and repeats shapes to show motion."
+      },
+      {
+        "with": "art-deco",
+        "difference": "Art Deco posters also show speed and machines, but they are symmetrical, smooth, and often airbrushed or metallic, with one elegant typeface. Futurist work is asymmetrical and noisy, with flat inks and mixed type."
+      },
+      {
+        "with": "grunge-typography",
+        "difference": "Both mix many typefaces at angles. Grunge typography (1990s) layers distressed, photocopied, and overlapping type with low contrast and few strong hues. Futurist pages are crisp letterpress in several strong inks, with lines of force and repeated shapes."
+      },
+      {
+        "with": "new-wave-typography",
+        "difference": "New Wave typography also breaks the grid and tilts type, but it keeps Swiss grotesques, uses texture and layered screens, and is calm in color. Futurism mixes serif, grotesque, and typewriter faces and shouts."
+      },
+      {
+        "with": "Vorticism",
+        "difference": "Vorticism (London, 1914–1915) announced itself as a “Death Blow to Impressionism and Futurism” (Wikipedia) and tends toward abstract, hard-edged machine planes. Interpretation: Vorticist work rarely repeats a shape to show motion, and BLAST is set mostly in heavy grotesque capitals, while Futurist pages mix faces."
+      },
+      {
+        "with": "dada",
+        "difference": "Dada also mixes typefaces, but it adds collage, found images, and irony, and it has no programme of speed and machines."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Mix at least four type families on the page: a heavy grotesque for shouted words, a Bodoni-style italic, a typewriter face, and a slab or a plain grotesque.",
+      "Tilt headings, labels, and cards at several different small angles, between about 2 and 12 degrees, in both directions.",
+      "Show motion by repetition: give key shapes two or three hard echoes offset along one path, in the accent colors.",
+      "Use lines of force: sharp red and yellow wedges and rays that fan from one edge behind the hero.",
+      "Use a paper ground with red, black, and one or two more strong inks such as yellow or green.",
+      "Set one word or number much larger than everything around it."
+    ],
+    "dont": [
+      "Do not tilt body text or form fields. Tilt headings, labels, numbers, and boxes only.",
+      "Do not use soft or blurred shadows. Echoes are hard copies of the shape, not depth.",
+      "Do not use gradients, rounded corners, or glossy surfaces.",
+      "Do not use one type family for everything. The page then reads as Constructivism or Swiss style.",
+      "Do not use Fascist emblems, such as the fasces, or war imagery as decoration. Many Futurists supported Fascism, and the movement glorified war.",
+      "Do not let echoes cover text or reduce the contrast of controls."
+    ],
+    "uses": [
+      "Event, festival, and music posters",
+      "Motorsport, cycling, and transport brands",
+      "Editorial covers and experimental magazines",
+      "Exhibitions about the avant-garde",
+      "Drinks and food advertising in the Depero manner"
+    ],
+    "avoid": [
+      "Dense data products, forms, and dashboards. Mixed faces and tilted elements slow reading.",
+      "Calm or caring services such as healthcare. The style is aggressive and loud.",
+      "Institutions that must avoid political associations. The movement is linked with Italian Fascism."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.shadow.medianOffset",
+      "min": 20,
+      "note": "Positive marker: shapes have hard echoes far along their path of motion, as in Balla. No other specimen has a median shadow offset above 12 px. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "min": 0.15,
+      "note": "Positive marker: the echoes appear on many boxes (cards, buttons, panels), not on one. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.families.length",
+      "min": 5,
+      "note": "Positive marker: words in freedom mix many typefaces. The extractor reports at most six. Grunge typography also reaches this range; it fails on hues and shadows. Provisional: set from the specimen; historical pages mix faces that a computed style cannot see when they are images."
+    },
+    {
+      "metric": "color.hues",
+      "min": 3,
+      "note": "Positive marker: several strong inks, for example red, yellow, and green. One hue points to Constructivism. Provisional: set from the specimen, recalibrate with image measurements of print references."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Flat printed ink. Provisional: Futurist paintings have tonal modelling, so this applies to print and screen work."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Hard, square edges. Provisional."
+    },
+    {
+      "metric": "surface.border.share",
+      "max": 0.35,
+      "note": "Futurist print sets shapes and words free on the paper, not in outlined boxes. Separates the style from Neo-Brutalism, which also has hard offset shadows. Provisional: set from the specimen."
+    }
+  ],
+  "page": "futurism.html",
+  "implementation": {
+    "tokens": "implementations/futurism/tokens.json",
+    "css": "implementations/futurism/tokens.css",
+    "tailwind": "implementations/futurism/tailwind.css",
+    "shadcn": "implementations/futurism/shadcn.css",
+    "registry": "implementations/futurism/registry-item.json",
+    "designMd": "implementations/futurism/DESIGN.md",
+    "specimen": "implementations/futurism/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for futurism. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#f1e9d6",
+        "$description": "Unbleached book paper."
+      },
+      "surface": {
+        "$value": "#f1e9d6"
+      },
+      "subtle": {
+        "$value": "#ddd2bb",
+        "$description": "Screened black on paper, for panels and table rows."
+      },
+      "text": {
+        "$value": "#15130f"
+      },
+      "muted": {
+        "$value": "#4d463c"
+      },
+      "border": {
+        "$value": "#15130f"
+      },
+      "primary": {
+        "$value": "#d9261c",
+        "$description": "Futurist red, the loudest ink."
+      },
+      "on-primary": {
+        "$value": "#fbf4e4"
+      },
+      "secondary": {
+        "$value": "#0f7a4c",
+        "$description": "Depero's advertising green. A second strong ink, not a background."
+      },
+      "on-secondary": {
+        "$value": "#fbf4e4"
+      },
+      "accent": {
+        "$value": "#f2b20c",
+        "$description": "Chrome yellow for force lines and motion echoes."
+      },
+      "on-accent": {
+        "$value": "#15130f"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Impact",
+          "Haettenschweiler",
+          "Arial Black",
+          "sans-serif"
+        ],
+        "$description": "Heavy poster grotesque for shouted words."
+      },
+      "body": {
+        "$value": [
+          "Bodoni 72",
+          "Bodoni MT",
+          "Didot",
+          "Georgia",
+          "serif"
+        ],
+        "$description": "The Bodoni of Italian book printing, which words-in-freedom pages set against grotesques."
+      },
+      "mono": {
+        "$value": [
+          "Courier New",
+          "Courier",
+          "monospace"
+        ],
+        "$description": "Typewriter type for dates, times, and labels."
+      },
+      "grotesque": {
+        "$value": [
+          "Helvetica Neue",
+          "Arial",
+          "Liberation Sans",
+          "sans-serif"
+        ],
+        "$description": "A plain grotesque for small capitals and navigation."
+      },
+      "slab": {
+        "$value": [
+          "Rockwell",
+          "Clarendon",
+          "Courier 10 Pitch",
+          "serif"
+        ],
+        "$description": "A slab or Egyptian face, a fifth voice in the typographic mix."
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 900
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "22px"
+      },
+      "xl": {
+        "$value": "32px"
+      },
+      "2xl": {
+        "$value": "46px"
+      },
+      "3xl": {
+        "$value": "68px"
+      },
+      "4xl": {
+        "$value": "108px"
+      },
+      "5xl": {
+        "$value": "176px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.88
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.12,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "3px"
+      },
+      "thick": {
+        "$value": "10px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "sm": {
+        "$value": [
+          {
+            "color": "#f2b20c",
+            "offsetX": "-12px",
+            "offsetY": "0px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#d9261c",
+            "offsetX": "-24px",
+            "offsetY": "0px",
+            "blur": "0px",
+            "spread": "0px"
+          }
+        ],
+        "$description": "Two hard echoes trailing to the left: the shape repeated along its path of motion, after Balla. Not depth."
+      },
+      "md": {
+        "$value": [
+          {
+            "color": "#f2b20c",
+            "offsetX": "-14px",
+            "offsetY": "6px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#d9261c",
+            "offsetX": "-28px",
+            "offsetY": "12px",
+            "blur": "0px",
+            "spread": "0px"
+          },
+          {
+            "color": "#15130f",
+            "offsetX": "-42px",
+            "offsetY": "18px",
+            "blur": "0px",
+            "spread": "0px"
+          }
+        ],
+        "$description": "Three hard echoes along a diagonal path, for cards and panels."
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "104px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": []
+}

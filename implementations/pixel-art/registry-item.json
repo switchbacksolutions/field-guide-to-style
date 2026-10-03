@@ -1,0 +1,36 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "pixel-art",
+  "type": "registry:theme",
+  "title": "Pixel Art",
+  "description": "Visible square pixels. Small palettes. Stepped edges and bitmap type.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "Monaco, \"Lucida Console\", Consolas, \"DejaVu Sans Mono\", \"Liberation Mono\", monospace",
+      "font-mono": "Fixedsys, Terminal, Monaco, \"Lucida Console\", Consolas, \"DejaVu Sans Mono\", monospace",
+      "shadow-sm": "4px 0px 0px 0px #000000, -4px 0px 0px 0px #000000, 0px 4px 0px 0px #000000, 0px -4px 0px 0px #000000",
+      "shadow-md": "4px 0px 0px 0px #000000, -4px 0px 0px 0px #000000, 0px 4px 0px 0px #000000, 0px -4px 0px 0px #000000, inset 0px -4px 0px 0px #00000040"
+    },
+    "light": {
+      "background": "#fff1e8",
+      "foreground": "#1d2b53",
+      "card": "#fff1e8",
+      "card-foreground": "#1d2b53",
+      "popover": "#fff1e8",
+      "popover-foreground": "#1d2b53",
+      "primary": "#ff004d",
+      "primary-foreground": "#000000",
+      "secondary": "#29adff",
+      "secondary-foreground": "#000000",
+      "muted": "#ffccaa",
+      "muted-foreground": "#5f574f",
+      "accent": "#ffec27",
+      "accent-foreground": "#000000",
+      "destructive": "#b42318",
+      "border": "#000000",
+      "input": "#000000",
+      "ring": "#ff004d",
+      "radius": "0px"
+    }
+  }
+}

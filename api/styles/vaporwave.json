@@ -78,8 +78,7 @@
     },
     {
       "relation": "related-to",
-      "label": "Synthwave",
-      "wikidata": "Q19938910",
+      "style": "synthwave",
       "note": "A neighbouring 1980s-nostalgia genre. The Aesthetics Wiki contrasts synthwave’s high-contrast neon grids on black with vaporwave’s soft, faded pastels."
     },
     {
@@ -155,7 +154,7 @@
         "difference": "Frutiger Aero is sincere and glossy: blue and green, water, grass, rounded glass controls. Vaporwave is ironic and pastel pink and purple, with square, bevelled old-OS windows."
       },
       {
-        "with": "Synthwave",
+        "with": "synthwave",
         "difference": "Synthwave is dark and high-contrast: black sky, neon magenta grid, chrome logotype, and a striped sun. Vaporwave shares the grid and sun but is pastel, faded, and collaged with statues and consumer goods."
       },
       {

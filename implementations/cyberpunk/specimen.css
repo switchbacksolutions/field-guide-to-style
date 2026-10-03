@@ -1,0 +1,121 @@
+/* Cyberpunk specimen. Uses tokens.css. Neon hairlines glow on a black night ground, with terminal text and HUD frames.
+   clip-path cuts off box shadows, so only unshadowed elements get chamfered corners. */
+* { box-sizing: border-box; }
+html { min-height: 100%; background: var(--color-bg); }
+body { max-width: 1160px; min-height: 100vh; margin: 0 auto; padding: 0 5% var(--spacing-xl); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); line-height: var(--leading-body); }
+a { color: var(--color-secondary); }
+:focus-visible { outline: 1px solid var(--color-primary); outline-offset: 3px; }
+.specimen-back { margin: var(--spacing-sm) 0 0; font-size: var(--text-xs); text-transform: uppercase; letter-spacing: var(--tracking-label); }
+.specimen-back a::before { content: "<< "; }
+
+h1, h2, h3 { font-family: var(--font-display); font-weight: var(--font-weight-display); line-height: var(--leading-tight); text-transform: uppercase; }
+h2 { margin: 0 0 var(--spacing-md); font-size: var(--text-2xl); letter-spacing: var(--tracking-heading); }
+h2::before { content: "// "; color: var(--color-accent); }
+h3 { margin: 0 0 var(--spacing-sm); font-size: var(--text-xl); letter-spacing: var(--tracking-heading); color: var(--color-secondary); }
+
+/* Header: a status bar with a glowing bottom rule. */
+.site-header { display: flex; justify-content: space-between; align-items: center; gap: var(--spacing-sm); flex-wrap: wrap; margin-top: var(--spacing-sm); padding: var(--spacing-sm) var(--spacing-md); background: var(--color-surface); border: var(--border-width-thin) solid var(--color-border); border-bottom-color: var(--color-secondary); box-shadow: var(--shadow-sm); }
+.logo { color: var(--color-primary); font-family: var(--font-display); font-size: var(--text-lg); font-weight: var(--font-weight-display); letter-spacing: var(--tracking-heading); text-decoration: none; text-transform: uppercase; }
+.logo::after { content: "_"; color: var(--color-secondary); }
+.site-header nav { display: flex; flex-wrap: wrap; gap: var(--spacing-md); }
+.site-header nav a { font-size: var(--text-sm); text-decoration: none; text-transform: uppercase; letter-spacing: var(--tracking-label); }
+.site-header nav a::before { content: "> "; color: var(--color-muted); }
+.site-header nav a:hover { color: var(--color-primary); }
+
+/* Hero: scan lines over the night ground, a glitched title, and HUD readouts. */
+.hero {
+  position: relative;
+  margin: var(--spacing-lg) 0;
+  padding: var(--spacing-xl) var(--spacing-lg);
+  border: var(--border-width-thin) solid var(--color-border);
+  background-color: var(--color-bg);
+  background-image: repeating-linear-gradient(180deg, transparent 0 3px, color-mix(in srgb, var(--color-secondary) 7%, transparent) 3px 4px);
+}
+.hero::before, .hero::after { content: ""; position: absolute; width: 28px; height: 28px; border: 0 solid var(--color-primary); }
+.hero::before { top: -1px; left: -1px; border-top-width: var(--border-width-thick); border-left-width: var(--border-width-thick); }
+.hero::after { right: -1px; bottom: -1px; border-right-width: var(--border-width-thick); border-bottom-width: var(--border-width-thick); }
+.kicker { display: inline-block; margin: 0 0 var(--spacing-md); padding: 2px var(--spacing-sm); color: var(--color-on-accent); background: var(--color-accent); font-size: var(--text-xs); text-transform: uppercase; letter-spacing: var(--tracking-label); clip-path: polygon(0 0, 100% 0, calc(100% - 8px) 100%, 0 100%); }
+h1 {
+  margin: 0;
+  max-width: 12ch;
+  font-size: clamp(44px, 8vw, var(--text-5xl));
+  letter-spacing: var(--tracking-display);
+  text-shadow: -3px 0 var(--color-accent), 3px 0 var(--color-secondary);
+}
+h1 span { display: block; color: var(--color-primary); }
+.lede { max-width: 56ch; margin: var(--spacing-md) 0 var(--spacing-lg); color: var(--color-text); }
+.lede::before { content: "> "; color: var(--color-primary); }
+.actions { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); margin: 0 0 var(--spacing-lg); }
+
+/* Buttons are chamfered, so they carry no glow. */
+.button, button {
+  display: inline-block;
+  padding: var(--spacing-sm) var(--spacing-lg) var(--spacing-sm) var(--spacing-md);
+  border: 0;
+  color: var(--color-on-primary);
+  background: var(--color-primary);
+  font-family: var(--font-mono);
+  font-size: var(--text-sm);
+  font-weight: var(--font-weight-bold);
+  letter-spacing: var(--tracking-label);
+  text-decoration: none;
+  text-transform: uppercase;
+  cursor: pointer;
+  clip-path: polygon(0 0, 100% 0, 100% calc(100% - 12px), calc(100% - 12px) 100%, 0 100%);
+}
+.button-secondary { color: var(--color-on-secondary); background: var(--color-secondary); }
+.button:hover, button:hover { background: var(--color-text); }
+
+.facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--spacing-sm); max-width: 520px; margin: 0; }
+.facts div { padding: var(--spacing-sm) var(--spacing-md); border: var(--border-width-thin) solid var(--color-secondary); background: var(--color-surface); box-shadow: var(--shadow-md); }
+.facts dt { color: var(--color-muted); font-size: var(--text-xs); text-transform: uppercase; letter-spacing: var(--tracking-label); }
+.facts dd { margin: 0; color: var(--color-secondary); font-size: var(--text-3xl); font-weight: var(--font-weight-bold); line-height: 1.1; }
+
+/* Panels: glowing hairline frames with yellow corner ticks and HUD numbers. */
+.features, .programme, .tickets, .signup { margin: var(--spacing-xl) 0; }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: var(--spacing-md); margin: 0; padding: 0; list-style: none; }
+.card { position: relative; padding: var(--spacing-md) var(--spacing-md) var(--spacing-lg); border: var(--border-width-thin) solid var(--color-secondary); background: var(--color-surface); box-shadow: var(--shadow-md); }
+.card::before { content: ""; position: absolute; top: 6px; right: 6px; width: 14px; height: 14px; border-top: var(--border-width-thin) solid var(--color-primary); border-right: var(--border-width-thin) solid var(--color-primary); }
+.card p { margin: 0 0 var(--spacing-md); color: var(--color-muted); }
+.card-number { display: block; margin-bottom: var(--spacing-sm); color: var(--color-accent); font-size: var(--text-xs); letter-spacing: var(--tracking-label); }
+.card-number::before { content: "UNIT_"; }
+
+/* Programme: a terminal table. */
+.programme table { width: 100%; border-collapse: collapse; border: var(--border-width-thin) solid var(--color-border); background: var(--color-surface); box-shadow: var(--shadow-sm); font-size: var(--text-sm); }
+.programme th { padding: var(--spacing-sm) var(--spacing-md); color: var(--color-on-secondary); background: var(--color-secondary); text-align: left; font-weight: var(--font-weight-bold); text-transform: uppercase; letter-spacing: var(--tracking-label); }
+.programme td { padding: var(--spacing-sm) var(--spacing-md); border-top: var(--border-width-thin) solid var(--color-subtle); }
+.programme td:nth-child(2) { color: var(--color-primary); }
+.programme tbody tr:hover td { background: var(--color-subtle); }
+
+.quote { margin: var(--spacing-xl) 0; padding: var(--spacing-md) var(--spacing-lg); border: var(--border-width-thin) solid var(--color-accent); border-left-width: var(--border-width-thick); background: var(--color-surface); box-shadow: var(--shadow-accent); }
+.quote p { margin: 0 0 var(--spacing-sm); font-size: var(--text-lg); }
+.quote footer { color: var(--color-accent); font-size: var(--text-xs); text-transform: uppercase; letter-spacing: var(--tracking-label); }
+.quote footer::before { content: "-- SRC: "; }
+
+.price { margin: 0 0 var(--spacing-sm); color: var(--color-primary); font-family: var(--font-display); font-size: var(--text-3xl); font-weight: var(--font-weight-display); }
+.card-featured { border-color: var(--color-accent); box-shadow: var(--shadow-accent); }
+.card-featured::after { content: ""; position: absolute; left: 0; right: 0; top: 0; height: 6px; background: repeating-linear-gradient(135deg, var(--color-primary) 0 8px, var(--color-shade) 8px 16px); }
+.card-featured h3 { color: var(--color-accent); }
+
+/* Signup: a command prompt. */
+.signup { padding: var(--spacing-lg); border: var(--border-width-thin) solid var(--color-border); background: var(--color-surface); box-shadow: var(--shadow-sm); }
+.signup form { display: flex; flex-wrap: wrap; align-items: center; gap: var(--spacing-sm); }
+.signup label { width: 100%; color: var(--color-muted); font-size: var(--text-xs); text-transform: uppercase; letter-spacing: var(--tracking-label); }
+.signup label::before { content: "$ "; color: var(--color-primary); }
+.signup input { flex: 1 1 240px; min-width: 0; padding: var(--spacing-sm) var(--spacing-md); border: var(--border-width-thin) solid var(--color-secondary); border-radius: var(--radius-none); color: var(--color-text); background: var(--color-bg); box-shadow: var(--shadow-sm); font-family: var(--font-mono); font-size: var(--text-base); }
+.signup input::placeholder { color: var(--color-muted); }
+.signup input:focus { outline: none; border-color: var(--color-primary); }
+.note { margin: var(--spacing-sm) 0 0; color: var(--color-muted); font-size: var(--text-sm); }
+
+.site-footer { margin-top: var(--spacing-xl); padding-top: var(--spacing-md); border-top: var(--border-width-thin) solid var(--color-border); color: var(--color-muted); font-size: var(--text-xs); text-transform: uppercase; letter-spacing: var(--tracking-label); }
+.site-footer code { color: var(--color-secondary); font-family: var(--font-mono); text-transform: none; }
+
+@media (prefers-reduced-motion: no-preference) {
+  .logo::after { animation: cursor-blink 1s steps(1) infinite; }
+  @keyframes cursor-blink { 50% { opacity: 0; } }
+}
+@media (max-width: 600px) {
+  .hero { padding: var(--spacing-lg) var(--spacing-md); }
+  .facts { grid-template-columns: 1fr; }
+  .programme { overflow-x: auto; }
+}

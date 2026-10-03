@@ -1,0 +1,87 @@
+/* Pixel art specimen. Uses tokens.css. Every length is a multiple of the 4 px pixel unit. */
+/* Frames are hard box-shadows, not CSS borders, so their corners step like drawn pixels. */
+* { box-sizing: border-box; }
+body { max-width: 1120px; margin: 0 auto; padding: 0 24px; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); font-weight: var(--font-weight-regular); line-height: var(--leading-body); }
+a { color: inherit; text-decoration-thickness: 4px; text-underline-offset: 4px; }
+:focus-visible { outline: var(--border-width-thin) solid var(--color-primary); outline-offset: 4px; }
+.specimen-back { margin: 0; padding: var(--spacing-sm) 0; font: var(--text-xs) var(--font-mono); }
+img, svg { image-rendering: pixelated; }
+
+.site-header, .card, table, input, .facts div, .logo { box-shadow: var(--shadow-md); border-radius: var(--radius-none); }
+
+.site-header { display: flex; justify-content: space-between; align-items: center; gap: var(--spacing-md); flex-wrap: wrap; margin: var(--spacing-sm) 4px 0; padding: var(--spacing-sm) var(--spacing-md); background: var(--color-surface); }
+.logo { padding: 4px 12px; background: var(--color-accent); color: var(--color-on-accent); font-family: var(--font-display); text-transform: uppercase; letter-spacing: var(--tracking-label); text-decoration: none; }
+.site-header nav { display: flex; flex-wrap: wrap; gap: var(--spacing-md); text-transform: uppercase; }
+
+/* Title screen: night sky over a tiled ground strip with one dithered row. */
+.hero { position: relative; margin: var(--spacing-lg) 4px 0; padding: var(--spacing-xl) var(--spacing-lg) 112px; background-color: var(--color-text); color: var(--color-bg); box-shadow: var(--shadow-sm); background-image: repeating-conic-gradient(var(--color-grass) 0 25%, var(--color-text) 0 50%), linear-gradient(var(--color-grass), var(--color-grass)), repeating-conic-gradient(var(--color-grass) 0 25%, var(--color-grass-dark) 0 50%), linear-gradient(var(--color-grass-dark), var(--color-grass-dark)); background-size: 8px 8px, 100% 8px, 8px 8px, 100% 16px; background-repeat: repeat-x, no-repeat, repeat-x, no-repeat; background-position: 0 calc(100% - 32px), 0 calc(100% - 24px), 0 calc(100% - 16px), 0 100%; }
+.kicker { display: inline-flex; align-items: center; gap: var(--spacing-sm); margin: 0 0 var(--spacing-lg); font: var(--text-sm) var(--font-mono); text-transform: uppercase; letter-spacing: var(--tracking-label); color: var(--color-accent); }
+/* Heart sprite: one 4 px cell per shadow. */
+.kicker::before { content: ""; flex: none; width: 4px; height: 4px; margin: 0 28px 20px 0;
+  box-shadow: 4px 0 var(--color-primary), 8px 0 var(--color-primary), 16px 0 var(--color-primary), 20px 0 var(--color-primary),
+    0 4px var(--color-primary), 4px 4px var(--color-bg), 8px 4px var(--color-primary), 12px 4px var(--color-primary), 16px 4px var(--color-primary), 20px 4px var(--color-primary), 24px 4px var(--color-primary),
+    0 8px var(--color-primary), 4px 8px var(--color-primary), 8px 8px var(--color-primary), 12px 8px var(--color-primary), 16px 8px var(--color-primary), 20px 8px var(--color-primary), 24px 8px var(--color-primary),
+    4px 12px var(--color-primary), 8px 12px var(--color-primary), 12px 12px var(--color-primary), 16px 12px var(--color-primary), 20px 12px var(--color-primary),
+    8px 16px var(--color-primary), 12px 16px var(--color-primary), 16px 16px var(--color-primary), 12px 20px var(--color-primary); }
+h1 { margin: 0; font-family: var(--font-display); font-size: clamp(36px, 9vw, var(--text-5xl)); font-weight: var(--font-weight-display); line-height: var(--leading-tight); letter-spacing: var(--tracking-display); text-transform: uppercase; text-shadow: 4px 4px 0 var(--color-border); }
+h1 span { color: var(--color-accent); }
+.lede { max-width: 44ch; margin: var(--spacing-lg) 0; font-size: var(--text-lg); }
+.actions { display: flex; flex-wrap: wrap; gap: var(--spacing-lg); margin: 0 0 var(--spacing-lg); padding: 0 4px; }
+
+/* Press: the shade moves from the bottom to the top and the button drops one unit. */
+.button, button { display: inline-block; padding: 12px 20px 16px; border: 0; border-radius: var(--radius-none); background: var(--color-accent); color: var(--color-on-accent); box-shadow: var(--shadow-md); font: var(--text-base)/1.2 var(--font-display); text-transform: uppercase; letter-spacing: var(--tracking-label); text-decoration: none; cursor: pointer; }
+.button:hover, button:hover { background: var(--color-primary); color: var(--color-on-primary); }
+.button:active, button:active { transform: translateY(4px); box-shadow: var(--shadow-sm); }
+.button-secondary { background: var(--color-secondary); color: var(--color-on-secondary); }
+.facts { display: flex; flex-wrap: wrap; gap: var(--spacing-lg); margin: 0; padding: 0 4px; }
+.facts div { min-width: 128px; padding: var(--spacing-xs) var(--spacing-md) var(--spacing-sm); background: var(--color-surface); color: var(--color-text); }
+dt { font: var(--text-xs) var(--font-mono); text-transform: uppercase; letter-spacing: var(--tracking-label); }
+dd { margin: 0; font-family: var(--font-display); font-size: var(--text-2xl); line-height: 1.2; }
+dd::before { content: "x"; margin-right: 4px; font-size: var(--text-base); color: var(--color-muted); }
+
+h2 { margin: var(--spacing-xl) 0 var(--spacing-lg); font-family: var(--font-display); font-size: var(--text-3xl); font-weight: var(--font-weight-display); line-height: var(--leading-tight); letter-spacing: var(--tracking-heading); text-transform: uppercase; }
+h2::before { content: "> "; color: var(--color-primary); }
+h3 { margin: var(--spacing-sm) 0; font-family: var(--font-display); font-size: var(--text-xl); font-weight: var(--font-weight-display); text-transform: uppercase; letter-spacing: var(--tracking-heading); }
+.cards { list-style: none; margin: 0; padding: 0 4px; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: var(--spacing-lg); }
+.card { padding: var(--spacing-md) var(--spacing-md) var(--spacing-lg); background: var(--color-surface); }
+/* Menu windows: a neutral body under a colored title bar, as in game menus. */
+.features .card { padding-top: 0; }
+.card-number { display: block; margin: 0 calc(-1 * var(--spacing-md)) var(--spacing-sm); padding: 4px var(--spacing-md); background: var(--color-text); color: var(--color-bg); font: var(--text-sm) var(--font-mono); }
+.features .card:nth-child(1) .card-number { background: var(--color-primary); color: var(--color-on-primary); }
+.features .card:nth-child(2) .card-number { background: var(--color-accent); color: var(--color-on-accent); }
+.features .card:nth-child(3) .card-number { background: var(--color-secondary); color: var(--color-on-secondary); }
+
+.programme { padding: 0 4px; }
+table { width: 100%; border-collapse: collapse; background: var(--color-surface); }
+th { text-align: left; padding: 12px 16px; background: var(--color-text); color: var(--color-bg); font: var(--text-sm) var(--font-mono); text-transform: uppercase; letter-spacing: var(--tracking-label); }
+td { padding: 12px 16px; }
+tbody tr:nth-child(even) { background: var(--color-subtle); }
+td:first-child { color: var(--color-primary); text-shadow: 2px 2px 0 var(--color-border); text-transform: uppercase; }
+
+/* Dialogue box: a night-blue window with a light inner ring and a blinking pixel cursor. */
+.quote { position: relative; margin: var(--spacing-2xl) auto var(--spacing-xl); max-width: 720px; padding: var(--spacing-lg) var(--spacing-lg) var(--spacing-xl); background: var(--color-text); color: var(--color-bg); box-shadow: inset 0 0 0 4px var(--color-text), inset 0 0 0 8px var(--color-bg), var(--shadow-sm); }
+.quote p { margin: 0 0 var(--spacing-md); font-family: var(--font-display); font-size: var(--text-xl); line-height: 1.4; }
+.quote footer { font: var(--text-sm) var(--font-mono); color: var(--color-accent); text-transform: uppercase; letter-spacing: var(--tracking-label); }
+.quote::after { content: ""; position: absolute; right: 48px; bottom: 32px; width: 4px; height: 4px; background: var(--color-bg); box-shadow: 4px 0 var(--color-bg), 8px 0 var(--color-bg), 12px 0 var(--color-bg), 16px 0 var(--color-bg), 4px 4px var(--color-bg), 8px 4px var(--color-bg), 12px 4px var(--color-bg), 8px 8px var(--color-bg); animation: blink 1s steps(2, jump-none) infinite; }
+@keyframes blink { to { opacity: 0; } }
+
+.card .price { margin: 0; font-family: var(--font-display); font-size: var(--text-4xl); line-height: 1.1; color: var(--color-primary); text-shadow: 4px 4px 0 var(--color-border); }
+.card-featured { background: var(--color-secondary); color: var(--color-on-secondary); box-shadow: var(--shadow-lg); }
+.card-featured .button { background: var(--color-accent); }
+
+.signup { padding: 0 4px; }
+form { display: flex; flex-wrap: wrap; gap: var(--spacing-lg); }
+label { width: 100%; text-transform: uppercase; letter-spacing: var(--tracking-label); }
+input { flex: 1 1 240px; padding: 12px 16px; border: 0; border-radius: var(--radius-none); background: var(--color-surface); color: var(--color-text); font: inherit; }
+button { background: var(--color-primary); color: var(--color-on-primary); }
+.note { font: var(--text-sm) var(--font-mono); color: var(--color-muted); }
+.site-footer { margin: var(--spacing-xl) 4px var(--spacing-md); padding: var(--spacing-lg) var(--spacing-md) var(--spacing-sm); font: var(--text-xs) var(--font-mono); background-color: var(--color-bg); background-image: repeating-conic-gradient(var(--color-text) 0 25%, var(--color-bg) 0 50%), linear-gradient(var(--color-text), var(--color-text)); background-size: 8px 8px, 100% 16px; background-repeat: repeat-x, no-repeat; background-position: 0 16px, 0 0; }
+
+@media (prefers-reduced-motion: reduce) {
+  .quote::after { animation: none; }
+}
+@media (max-width: 640px) {
+  body { padding: 0 12px; }
+  .hero { padding: var(--spacing-lg) var(--spacing-md) 96px; }
+  table { display: block; overflow-x: auto; }
+}

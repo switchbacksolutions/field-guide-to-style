@@ -1,0 +1,300 @@
+{
+  "$description": "Authored tokens for cyberpunk. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#07080d"
+    },
+    "surface": {
+      "$value": "#0d1119"
+    },
+    "subtle": {
+      "$value": "#151b27"
+    },
+    "text": {
+      "$value": "#d8f3ff"
+    },
+    "muted": {
+      "$value": "#93a9bf"
+    },
+    "border": {
+      "$value": "#1f6f86"
+    },
+    "primary": {
+      "$value": "#fcee0a",
+      "$description": "Acid yellow: primary actions and warnings."
+    },
+    "on-primary": {
+      "$value": "#07080d"
+    },
+    "secondary": {
+      "$value": "#00e5ff",
+      "$description": "Cyan: frames, links, and glow."
+    },
+    "on-secondary": {
+      "$value": "#07080d"
+    },
+    "accent": {
+      "$value": "#ff2a6d",
+      "$description": "Magenta: emphasis and glitch offsets."
+    },
+    "on-accent": {
+      "$value": "#07080d"
+    },
+    "glow": {
+      "$value": "#00e5ff",
+      "$description": "Glow color for frames."
+    },
+    "shade": {
+      "$value": "#000000"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Bahnschrift",
+        "DIN Condensed",
+        "Arial Narrow",
+        "Roboto Condensed",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Cascadia Mono",
+        "JetBrains Mono",
+        "Consolas",
+        "Menlo",
+        "DejaVu Sans Mono",
+        "Courier New",
+        "monospace"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Cascadia Mono",
+        "JetBrains Mono",
+        "Consolas",
+        "Menlo",
+        "DejaVu Sans Mono",
+        "Courier New",
+        "monospace"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 700
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "13px"
+    },
+    "base": {
+      "$value": "15px"
+    },
+    "lg": {
+      "$value": "18px"
+    },
+    "xl": {
+      "$value": "22px"
+    },
+    "2xl": {
+      "$value": "30px"
+    },
+    "3xl": {
+      "$value": "44px"
+    },
+    "4xl": {
+      "$value": "64px"
+    },
+    "5xl": {
+      "$value": "96px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.95
+    },
+    "body": {
+      "$value": 1.6
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": 0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.06,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.16,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "0px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "3px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "4px"
+    },
+    "sm": {
+      "$value": "8px"
+    },
+    "md": {
+      "$value": "16px"
+    },
+    "lg": {
+      "$value": "28px"
+    },
+    "xl": {
+      "$value": "48px"
+    },
+    "2xl": {
+      "$value": "80px"
+    }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "sm": {
+      "$value": [
+        {
+          "color": "#00e5ff80",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "6px",
+          "spread": "0px",
+          "inset": false
+        }
+      ],
+      "$description": "Faint glow for buttons and fields."
+    },
+    "md": {
+      "$value": [
+        {
+          "color": "#00e5ff59",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "14px",
+          "spread": "0px",
+          "inset": false
+        },
+        {
+          "color": "#00e5ff26",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "2px",
+          "spread": "0px",
+          "inset": true
+        }
+      ],
+      "$description": "Neon glow for panels: an outer halo and a faint inner one."
+    },
+    "accent": {
+      "$value": [
+        {
+          "color": "#ff2a6d73",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "16px",
+          "spread": "0px",
+          "inset": false
+        }
+      ],
+      "$description": "Magenta glow for the featured panel."
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}
