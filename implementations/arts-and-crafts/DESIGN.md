@@ -139,3 +139,5 @@ Full record: api/styles/arts-and-crafts.json. Specimen: implementations/arts-and
 - Don't: shade or model the motifs. Draw them flat with outlines.
 - Don't: round corners or use pill buttons.
 - Don't: set headings in a sans-serif or in widely spaced capitals.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

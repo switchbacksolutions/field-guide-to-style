@@ -139,3 +139,5 @@ Full record: api/styles/ulm-school.json. Specimen: implementations/ulm-school/in
 - Don't: use heavy or very large display type. Headings are medium weight.
 - Don't: use square, hard-edged blocks or pill shapes everywhere. The radius is small and even.
 - Don't: add illustration or ornament.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

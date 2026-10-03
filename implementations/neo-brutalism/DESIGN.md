@@ -146,3 +146,5 @@ Full record: api/styles/neo-brutalism.json. Specimen: implementations/neo-brutal
 - Don't: blur shadows or use gradients.
 - Don't: use thin gray borders. The outline must read as a strong black line.
 - Don't: use more than one pastel as a large background.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

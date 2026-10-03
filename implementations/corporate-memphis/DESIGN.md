@@ -157,3 +157,5 @@ Full record: api/styles/corporate-memphis.json. Specimen: implementations/corpor
 - Don't: draw detailed faces or realistic proportions.
 - Don't: fill backgrounds with repeating patterns. That points to Memphis.
 - Don't: let figures overlap body text. Keep the illustration in its own area.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

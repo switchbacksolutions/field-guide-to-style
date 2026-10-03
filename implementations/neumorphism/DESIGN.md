@@ -153,3 +153,5 @@ Full record: api/styles/neumorphism.json. Specimen: implementations/neumorphism/
 - Don't: put important information into the shadow alone. Many people cannot see a contrast this low.
 - Don't: add textures, gloss, or translucency.
 - Don't: crowd elements. Overlapping shadows turn into gray smears.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

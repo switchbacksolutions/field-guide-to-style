@@ -144,3 +144,5 @@ Full record: api/styles/mid-century-modern.json. Specimen: implementations/mid-c
 - Don't: outline every shape in black. Shapes meet by color.
 - Don't: fill the whole page with pattern. Keep open paper around the shapes.
 - Don't: use a strict Swiss grid with only one accent. That points to the International Typographic Style.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

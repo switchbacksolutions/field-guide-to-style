@@ -139,3 +139,5 @@ Full record: api/styles/art-nouveau.json. Specimen: implementations/art-nouveau/
 - Don't: use glossy gradients, glass blur, or soft drop shadows.
 - Don't: use a geometric sans-serif with wide letter spacing for headings.
 - Don't: fill every surface with ornament. Keep a calm ground around the framed fields.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

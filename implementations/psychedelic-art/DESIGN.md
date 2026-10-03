@@ -148,3 +148,5 @@ Full record: api/styles/psychedelic-art.json. Specimen: implementations/psychede
 - Don't: set headings in a neutral grotesque on a strict grid.
 - Don't: use square cards and hard rectangular frames as the main shapes.
 - Don't: put vibrating low-contrast pairs on body text, form labels, or table cells.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

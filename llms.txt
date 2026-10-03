@@ -59,4 +59,4 @@ Use it like this: choose a style from the list, read its JSON record for rules a
 
 - [Catalogue](api/catalogue.json): all styles and references.
 - [Style schema](data/schema/style.schema.json) and [reference schema](data/schema/reference.schema.json).
-- [Rights and removal](rights.html): third-party works keep their owners' rights.
+- [Rights and removal](rights.html): code, design tokens, and implementation files are MIT licensed. Third-party works keep their owners' rights.

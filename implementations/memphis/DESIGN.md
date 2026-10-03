@@ -142,3 +142,5 @@ Full record: api/styles/memphis.json. Specimen: implementations/memphis/index.ht
 - Don't: put body text on top of a busy pattern. Use a solid panel under text.
 - Don't: use gradients or realistic shadows.
 - Don't: reduce the style to cartoon people. That is Corporate Memphis, a different style.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

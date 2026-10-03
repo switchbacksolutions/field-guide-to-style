@@ -137,3 +137,5 @@ Full record: api/styles/brutalist-web-design.json. Specimen: implementations/bru
 - Don't: turn content into cards, tiles, or hero banners.
 - Don't: confuse raw with broken. Keep the page readable, keep links obvious, and keep the back button working.
 - Don't: add clashing colors, overlapping layers, or odd cursors. That is antidesign, a different style.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

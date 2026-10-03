@@ -152,3 +152,5 @@ Full record: api/styles/y2k.json. Specimen: implementations/y2k/index.html.
 - Don't: let iridescent rainbow film dominate. It was rarer in the period than in the revival.
 - Don't: put body text on chrome or saturated plastic without checking contrast.
 - Don't: use serif, script, or condensed grotesque display type.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

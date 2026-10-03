@@ -143,3 +143,5 @@ Full record: api/styles/googie.json. Specimen: implementations/googie/index.html
 - Don't: center everything on a vertical axis with stepped outlines. That points to Art Deco.
 - Don't: put glow on body text. Keep long text plain and readable.
 - Don't: make lights blink without a reduced-motion fallback.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

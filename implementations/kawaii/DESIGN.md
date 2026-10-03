@@ -153,3 +153,5 @@ Full record: api/styles/kawaii.json. Specimen: implementations/kawaii/index.html
 - Don't: draw long-limbed, faceless figures. That is Corporate Memphis.
 - Don't: put text inside the mascot or make the mascot carry information that is not also in the text.
 - Don't: use chrome, metallic gradients, or glossy reflections.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

@@ -1,6 +1,7 @@
 ---
 name: style-select
 description: Choose a visual design style for a project from its mood, audience, and product type. Then apply the style's tokens and rules, and check the result against the style's rubric. Uses the Field Guide to Style catalogue of 27 styles, with tokens for CSS, Tailwind v4, and shadcn/ui. Use when the user asks for a look, theme, aesthetic, or visual direction for a site or app. Also use when the user asks which style fits a project, wants an interface to feel a certain way ("warmer", "more playful", "more serious"), or starts a front end with no design system. Not for adding styles or references to the catalogue.
+license: MIT
 ---
 
 # Choose and apply a style

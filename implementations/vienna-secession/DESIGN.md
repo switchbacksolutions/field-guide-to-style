@@ -139,3 +139,5 @@ Full record: api/styles/vienna-secession.json. Specimen: implementations/vienna-
 - Don't: round corners, and do not add gradients or drop shadows.
 - Don't: use more than one strong colour beside gold.
 - Don't: cover every surface with checks. Keep ornament in frames and bands, and keep wide plain areas.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

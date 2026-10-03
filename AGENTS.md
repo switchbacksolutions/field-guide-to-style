@@ -16,6 +16,7 @@ A static style catalogue for people and agents. Open `index.html` directly. No s
 - Set `basis` to `agent` when you place a reference in a style. Only a person sets `curator`.
 - Link inside rich text with `ref:<id>`, `style:<id>`, and `page:<name>`. The build rejects unknown targets.
 - Keep local images in `assets/references/`. Record the rights tier and license. Read `rights.html` before you store a third-party image.
+- Original code and design tokens use the MIT License. `content/rights.html` lists the covered folders and the third-party exclusions. Do not put third-party code, fonts, or images in a covered folder. When you change the scope, update `content/rights.html` and the License section of `README.md` together.
 - Separate observed evidence from interpretation. Mark inaccessible sources as pending. Never infer a source's appearance from an error page.
 - Record only external identifiers (Wikidata, Getty AAT, museum IDs) that you checked against the source.
 

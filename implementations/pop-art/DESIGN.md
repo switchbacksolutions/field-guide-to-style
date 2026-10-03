@@ -143,3 +143,5 @@ Full record: api/styles/pop-art.json. Specimen: implementations/pop-art/index.ht
 - Don't: use squiggle, confetti, or grid patterns. The only pattern is the dot.
 - Don't: make the dots so small that they read as a smooth tint.
 - Don't: reproduce a specific artist’s painting or a comic publisher’s characters.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

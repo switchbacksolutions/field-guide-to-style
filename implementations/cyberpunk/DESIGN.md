@@ -150,3 +150,5 @@ Full record: api/styles/cyberpunk.json. Specimen: implementations/cyberpunk/inde
 - Don't: put long body text in neon colors. Keep it in a pale, cool off-white with a contrast ratio of at least 7:1.
 - Don't: add Japanese or Chinese text that you cannot read or check. Use short, correct phrases, or none.
 - Don't: animate flicker or glitch continuously. Respect prefers-reduced-motion.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license
