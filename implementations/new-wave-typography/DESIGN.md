@@ -141,3 +141,5 @@ Full record: api/styles/new-wave-typography.json. Specimen: implementations/new-
 - Don't: distress, blur, or break the letterforms themselves.
 - Don't: rotate or overlap body text, form fields, or table data.
 - Don't: align everything to one grid.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

@@ -129,3 +129,5 @@ Full record: api/styles/international-typographic-style.json. Specimen: implemen
 - Don't: add rounded corners, drop shadows, or gradients.
 - Don't: use more than two type sizes for body content.
 - Don't: fill empty grid areas with decoration.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

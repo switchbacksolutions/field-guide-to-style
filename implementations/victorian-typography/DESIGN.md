@@ -143,3 +143,5 @@ Full record: api/styles/victorian-typography.json. Specimen: implementations/vic
 - Don't: use more than two inks beyond black.
 - Don't: set long paragraphs in display faces or capitals.
 - Don't: centre form controls and data tables so far that they become hard to scan.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

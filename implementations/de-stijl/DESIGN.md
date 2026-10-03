@@ -137,3 +137,5 @@ Full record: api/styles/de-stijl.json. Specimen: implementations/de-stijl/index.
 - Don't: use diagonals, rotation, or skew.
 - Don't: use green, orange, purple, or tints of the primaries.
 - Don't: use gradients, shadows, textures, or photographs.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

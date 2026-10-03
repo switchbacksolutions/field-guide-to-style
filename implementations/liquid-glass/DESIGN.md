@@ -166,3 +166,5 @@ Full record: api/styles/liquid-glass.json. Specimen: implementations/liquid-glas
 - Don't: put long text or dense forms on clear glass.
 - Don't: animate controls without a reason. NN/g reports that pulsing and wobbling controls distract.
 - Don't: depend on backdrop-filter or SVG displacement alone. Give each glass element a fill that stays readable without them.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

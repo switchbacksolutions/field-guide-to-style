@@ -147,3 +147,5 @@ Full record: api/styles/futurism.json. Specimen: implementations/futurism/index.
 - Don't: use one type family for everything. The page then reads as Constructivism or Swiss style.
 - Don't: use Fascist emblems, such as the fasces, or war imagery as decoration. Many Futurists supported Fascism, and the movement glorified war.
 - Don't: let echoes cover text or reduce the contrast of controls.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

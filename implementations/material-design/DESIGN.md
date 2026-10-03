@@ -148,3 +148,5 @@ Full record: api/styles/material-design.json. Specimen: implementations/material
 - Don't: put two surfaces at the same height with different shadows, or different heights with the same shadow.
 - Don't: use more than one floating action button on a screen, and do not use it for a destructive action.
 - Don't: round cards into pills or large soft blobs. Those belong to Material You.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

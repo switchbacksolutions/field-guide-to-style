@@ -192,3 +192,5 @@ Full record: api/styles/skeuomorphism.json. Specimen: implementations/skeuomorph
 - Don't: mix many materials on one screen without a physical reason.
 - Don't: use hard offset shadows or thick black outlines.
 - Don't: use pill-shaped glass buttons and sky gradients alone. That is Frutiger Aero.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

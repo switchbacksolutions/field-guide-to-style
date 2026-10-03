@@ -147,3 +147,5 @@ Full record: api/styles/flat-design.json. Specimen: implementations/flat-design/
 - Don't: outline cards and tiles. Outlines turn the page into a wireframe or neo-brutalism.
 - Don't: remove every signifier from links and buttons. NN/g found that flat elements without cues cause click uncertainty.
 - Don't: put white text on light hues such as turquoise or yellow.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

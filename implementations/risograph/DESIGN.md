@@ -144,3 +144,5 @@ Full record: api/styles/risograph.json. Specimen: implementations/risograph/inde
 - Don't: add a fourth ink for variety. The constraint is the look.
 - Don't: make the grain so strong that body text loses contrast.
 - Don't: damage or erode the letterforms. Riso type is clean.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license
