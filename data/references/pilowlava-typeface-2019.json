@@ -1,0 +1,57 @@
+{
+  "id": "pilowlava-typeface-2019",
+  "title": "Pilowlava typeface, Velvetyne",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "An open-source display face by Anton Moglia and Jérémy Landes with viscous, lava-like letters built from compass curves and teardrop terminals.",
+  "summary": "Viscous, blobby display letters with teardrop terminals. Anton Moglia and Jérémy Landes, Velvetyne, 2019, SIL Open Font License.",
+  "source": {
+    "url": "https://velvetyne.fr/fonts/pilowlava/",
+    "label": "Velvetyne: Pilowlava"
+  },
+  "creator": {
+    "name": "Anton Moglia and Jérémy Landes, with Maksym Kobuzan (Cyrillic)"
+  },
+  "made": "First published on 26 April 2019, updated on 28 May 2024 (Velvetyne)",
+  "moods": [
+    "fluid",
+    "playful",
+    "strange"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the web font `pilowlava-regular.woff` from the Velvetyne page and rendered “Pilowlava”, “Quantum leaps”, and a pair alphabet at 90–170 px in a 1400 px scratch image with Pillow. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "acid-graphics",
+      "note": "Partial fit: free liquid letterforms of the kind the style renders as dripping metal. The face itself is flat and closer to 1970s psychedelic lettering.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Velvetyne: the typeface “recalls cooled lava flows drawn with a compass” and “seeks a balance between viscous energy and controlled geometry”. Its geometric approach draws on Armin Hofmann’s *Graphic Design Manual* (1965), and its glyphs draw on “both calligraphic and graffiti references”. [Velvetyne](https://velvetyne.fr/fonts/pilowlava/).",
+    "The page gives the license as SIL Open Font License, Version 1.1, two styles (Atome and Regular), and Latin and Cyrillic support.",
+    "Fonts In Use lists a 2019 use of Pilowlava in a user-made set called “Acid”. [Fonts In Use](https://fontsinuse.com/sets/14955/acid)."
+  ],
+  "observed": [
+    "Letters are heavy black blobs with smooth, swelling curves and round teardrop terminals.",
+    "Counters are narrow, pointed slits or triangles.",
+    "Upper and lower case look alike, and letter widths vary a lot.",
+    "Strokes do not follow a constant angle. Some letters lean, and some look upside down."
+  ],
+  "interpretation": [
+    "The face provides the liquid letter shapes of the trend under a free license. It needs a chrome or iridescent fill and a dark ground to read as acid graphics rather than psychedelic or 1970s lettering."
+  ],
+  "borrow": [
+    "Use a viscous display face for one word and fill it with a chrome gradient.",
+    "Keep running text in a plain sans-serif when the display face is this irregular."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "OFL-1.1",
+    "statement": "The font software is licensed under the SIL Open Font License 1.1 (Velvetyne). No specimen image is stored, because no openly licensed image of the typeface was found and the design itself is not public domain."
+  }
+}

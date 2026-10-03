@@ -31,6 +31,12 @@
       "note": "Partial fit. The glass, blur, radii, and opacity levels match, but the backdrop is a real room, not vivid color. NN/g and Everyday UX use it as a current example.",
       "basis": "agent",
       "qualifier": "spatial variant"
+    },
+    {
+      "id": "liquid-glass",
+      "note": "Partial fit: the precursor glass material of visionOS, before the refractive, lensing edge of Liquid Glass.",
+      "basis": "agent",
+      "qualifier": "partial fit"
     }
   ],
   "context": [

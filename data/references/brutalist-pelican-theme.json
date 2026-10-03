@@ -1,0 +1,46 @@
+{
+  "id": "brutalist-pelican-theme",
+  "title": "Brutalist (Pelican theme)",
+  "type": "product",
+  "medium": "software",
+  "lede": "A static-site theme that applies Copeland’s brutalist guidelines: readable, accessible, fast, underlined links.",
+  "summary": "A 2018 Pelican theme written after reading brutalist-web.design. It follows the rules more than the default look.",
+  "source": {
+    "url": "https://github.com/mc-buckets/brutalist",
+    "label": "GitHub: mc-buckets/brutalist"
+  },
+  "creator": {
+    "name": "mc-buckets (GitHub user)"
+  },
+  "made": "2018",
+  "moods": [
+    "plain",
+    "utilitarian"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Read the README and `static/css/main.css` on GitHub on 2026-10-02. Repository created 28 August 2018 (GitHub API). The README cover image shows only the theme name and the Pelican logo, so it is not evidence of the look. The demo site was not captured."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "brutalist-web-design",
+      "note": "Partial fit: it follows the guidelines of the style, but uses Lato and dark gray links instead of default type and link blue.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "README: “After reading David Bryant Copeland’s [Brutalist Web Design](ref:copeland-brutalist-web-design-guidelines) a few weeks ago, I was inspired to try and apply those design principles to a Pelican theme.” Its stated features include “Clean, readable, accessible, and fast” and “W3C validated”.",
+    "`main.css` sets `font-family: \"Lato\", sans-serif` on the body and underlined links in `#232a2e`, with `#39739d` on hover.",
+    "No license file is reported by the GitHub API."
+  ],
+  "interpretation": [
+    "Evidence that the guidelines travel without the default look. A capture would show whether the result still reads as [Brutalist web design](style:brutalist-web-design)."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No license stated. Link only."
+  }
+}

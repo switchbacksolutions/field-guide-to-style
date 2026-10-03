@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/harunobu-evening-snow-on-a-floss-shaper-1766.jpg",
+  "captured": "2026-10-03T01:44:15+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#d7b3a0",
+        "share": 0.355
+      },
+      {
+        "hex": "#e7ccb3",
+        "share": 0.338
+      },
+      {
+        "hex": "#c5ac95",
+        "share": 0.085
+      },
+      {
+        "hex": "#866249",
+        "share": 0.048
+      },
+      {
+        "hex": "#faebd8",
+        "share": 0.046
+      },
+      {
+        "hex": "#b29a84",
+        "share": 0.036
+      },
+      {
+        "hex": "#a58d78",
+        "share": 0.024
+      },
+      {
+        "hex": "#bc715a",
+        "share": 0.02
+      },
+      {
+        "hex": "#514840",
+        "share": 0.018
+      },
+      {
+        "hex": "#cf8f76",
+        "share": 0.014
+      }
+    ],
+    "background": "#d7b3a0",
+    "chroma": 0.21,
+    "lightness": 0.72,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.37,
+    "distinct": 7,
+    "hues": 1
+  }
+}

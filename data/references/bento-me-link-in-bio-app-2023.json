@@ -1,0 +1,53 @@
+{
+  "id": "bento-me-link-in-bio-app-2023",
+  "title": "Bento (bento.me) link-in-bio pages",
+  "type": "product",
+  "medium": "app",
+  "lede": "A Berlin web app of 2022–2026 that let anyone build a personal page as a grid of rounded tiles in several sizes, and took its name from the layout.",
+  "summary": "Personal link pages made of rounded white tiles in mixed sizes beside a profile column. Bento, Berlin, 2023.",
+  "source": {
+    "url": "https://tech.eu/2023/06/06/sequoia-backed-bento-boxed-up-by-linktree/",
+    "label": "Tech.eu: Sequoia-backed Bento boxed up by Linktree (Dan Taylor, 2023-06-06)",
+    "archive": "https://web.archive.org/web/20230927080251/https://bento.me/selim"
+  },
+  "creator": { "name": "Bento (Sélim Benayat, co-founder and CEO)" },
+  "made": "2022–2026 (founded 2022, public launch February 2023 according to Tech.eu; shut down 2026-02-13)",
+  "moods": ["personal", "organized", "friendly"],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Wayback Machine copy of the co-founder’s page [bento.me/selim of 2023-09-27](https://web.archive.org/web/20230927080251/https://bento.me/selim), captured at 1440 × 900 on 2026-10-02. Only the first screen was inspected. An archived copy of [bento.me/bento](https://web.archive.org/web/20230319014443/https://bento.me/bento) shows only “No profile found” and was not used. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "bento-grid",
+      "note": "Clear for the layout: tiles of several sizes with large radii and wide even gaps. The tiles have a hairline edge and a faint shadow, which the core look omits.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Tech.eu reports that Bento was founded in Berlin in 2022, backed by Sequoia’s Arc programme, launched publicly in February 2023, and was acquired by Linktree in June 2023, with the whole team joining Linktree.",
+    "AlternativeTo reported on 2025-12-21 that Bento would shut down on 2026-02-13 and that its links would redirect to Linktree ([AlternativeTo](https://alternativeto.net/news/2025/12/bento-to-shut-down-in-2026-as-linktree-takes-over-and-offers-migration-path/)).",
+    "Taplink describes the editor: “You can make each block large, small, horizontal, vertical, or square”, with “almost no design settings” ([Taplink](https://taplink.at/en/blog/bento-me.html), updated 2026-04-29)."
+  ],
+  "observed": [
+    "The page is white. A left column holds a round profile photo, the name “Sélim” in large bold black type, and the line “Builder and bento fanatic” in grey.",
+    "The right two thirds hold a two-column grid of white tiles with large rounded corners, wide even gaps, a very light grey hairline edge, and a faint shadow.",
+    "Tiles come in at least three sizes: tall link tiles with a small icon, a title, and a grey domain; a large square photo tile; and short wide tiles with one line of text.",
+    "Section headings (“Find me on the internet ↓”, “Get to know me ↓”) sit on the white ground between groups of tiles, not inside a tile.",
+    "A small violet “Create Your Bento” button sits at the bottom left."
+  ],
+  "interpretation": [
+    "The product is named after the layout, which shows how widely the word “bento” was attached to tile grids by 2022–2023. Its tiles are white on white, so a hairline and a faint shadow replace the tonal step of the Apple slides."
+  ],
+  "borrow": [
+    "Offer each block in a few fixed shapes (small, wide, tall, large square) on a two- or four-column grid, so that users cannot break the grid.",
+    "Keep the identity column fixed beside the grid on wide screens and above it on narrow screens."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Bento software and user content; copyrighted by their owners. The profile photo shows a private person. No image is stored here."
+  }
+}

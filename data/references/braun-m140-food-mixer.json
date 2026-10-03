@@ -1,0 +1,57 @@
+{
+  "id": "braun-m140-food-mixer",
+  "title": "Braun M 140 hand mixer, 1960s",
+  "type": "object",
+  "medium": "product",
+  "lede": "A Braun hand mixer credited to Dieter Rams and Reinhold Weiss: an off-white plastic body with a cut-out handle, a slotted vent, and orange accents on the switch and one beater.",
+  "summary": "Off-white plastic body, cut-out handle, slotted vent, and orange on the switch and one beater. Braun, 1960–1970.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1227045/",
+    "label": "Victoria and Albert Museum, CIRC.343:1 to 7-1974"
+  },
+  "creator": {
+    "name": "Dieter Rams and Reinhold Weiss, designers; Braun, manufacturer"
+  },
+  "made": "1960–1970 (V&A)",
+  "moods": [
+    "calm",
+    "practical",
+    "restrained"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A’s primary image 2019MA6040 of object CIRC.343:1 to 7-1974 at 1600 × 1600 px, through the V&A IIIF service. The V&A gives a date range, not a model year."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ulm-school",
+      "note": "Braun’s domestic line: a plain light housing, a slotted vent as the only texture, and orange used only where the hand acts.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A lists Dieter Rams and Reinhold Weiss as designers, Braun as manufacturer, Kronberg and Barcelona as places of origin, and 1960–1970 as the date. It describes an “off white plastic casing” with “a rectangular gap at the top to accommodate the hand” and an end “triangular in cross section with horizontal ventilation slots”. The object came as a gift of the manufacturer. [V&A CIRC.343:1 to 7-1974](https://collections.vam.ac.uk/item/O1227045/)."
+  ],
+  "observed": [
+    "The body is one off-white plastic volume with softly rounded edges and a rectangular opening for the hand.",
+    "A recessed panel of parallel slots marks the vent on the sloping end.",
+    "The sliding switch and the collar of one beater are orange. The other collar is white. There is no other color.",
+    "The model name “M 140” and the “braun” logo are printed small in black on the side."
+  ],
+  "interpretation": [
+    "The mixer moves the radio grammar into the kitchen: one pale shell, slots for air, small black type, and color only on the switch."
+  ],
+  "borrow": [
+    "Color the control that the user moves, and nothing else."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Image © Victoria and Albert Museum, London. The V&A allows non-commercial use of its images under its own terms, not an open license. The design is by living or recently deceased designers. No image is stored."
+  },
+  "identifiers": {
+    "vam": "O1227045"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "harunobu-evening-snow-on-a-floss-shaper-1766",
+  "title": "Harunobu, Evening Snow on a Floss Shaper",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "Two women stretch silk floss in a quiet room, a visual pun on a snowy mountain, in Suzuki Harunobu’s Eight Views of the Parlor, one of the first sets of full-color prints.",
+  "summary": "Pale pinks and grays, patterned robes, and an open diagonal floor. Suzuki Harunobu, about 1766.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/88977",
+    "label": "Art Institute of Chicago, 1928.903"
+  },
+  "creator": {
+    "name": "Suzuki Harunobu"
+  },
+  "made": "c. 1766",
+  "moods": [
+    "calm",
+    "delicate",
+    "witty"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Art Institute of Chicago image of impression 1928.903 (1686 × 2214 px)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ukiyo-e",
+      "note": "An early nishiki-e from the decade when full-color printing began: thin outlines, soft flat colors, patterned textiles, and a diagonal interior.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "AIC catalogues the sheet as a color woodblock print, chūban, 28.7 × 21.6 cm, about 1766, from the series Eight Views of the Parlor. [AIC 1928.903](https://www.artic.edu/artworks/88977).",
+    "AIC says that the series appeared around the time full-color prints emerged, that the floss stands for snow and the floss shaper for the mountain, and that this sheet carries the handwritten signature of the patron Kyosen (Ōkubo Tadanobu), not Harunobu’s. [AIC](https://www.artic.edu/artworks/88977)."
+  ],
+  "observed": [
+    "A lattice window at upper left and the edges of the floor and wall run as long diagonals across a plain cream ground.",
+    "Two women in patterned robes sit to the right of center. One robe has a gray check, another a beige lattice, and an under-robe a red key pattern.",
+    "The lines are thin, even, and black. Faces and hands are unprinted paper.",
+    "Colors are soft and flat: pale pink floor, brown, gray, salmon red, and black.",
+    "White floss mounds at lower left are left almost unprinted, with only faint contour lines.",
+    "A two-character signature and a red square seal sit in the empty area at right."
+  ],
+  "interpretation": [
+    "Harunobu’s prints show the style before Prussian blue: the same outlines, flat areas, and empty grounds, with a softer palette of pinks and grays.",
+    "Pattern is confined to garments, and the large empty wall is part of the composition."
+  ],
+  "borrow": [
+    "Leave large areas plain and let thin diagonal lines divide the space.",
+    "Put small all-over patterns inside clothing-like shapes, and keep each pattern to one area."
+  ],
+  "images": [
+    {
+      "file": "assets/references/harunobu-evening-snow-on-a-floss-shaper-1766.jpg",
+      "alt": "Color woodblock print. Two women in patterned kimonos sit in a room with a lattice window, beside mounds of white silk floss on a pale pink floor. A short vertical signature and a red seal are at right.",
+      "width": 1218,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Suzuki Harunobu, Evening Snow on a Floss Shaper, from Eight Views of the Parlor, c. 1766. [Art Institute of Chicago 1928.903](https://www.artic.edu/artworks/88977), Clarence Buckingham Collection. CC0.",
+      "original": "https://www.artic.edu/iiif/2/d17e4df1-ed79-c99c-a67a-2dd59b928e35/full/1686,/0/default.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Art Institute of Chicago marks the object public domain (`is_public_domain: true`) and releases images of public-domain works under CC0. [AIC open access](https://www.artic.edu/open-access/open-access-images). Harunobu died in 1770, so the work is public domain in Japan and the United States."
+  },
+  "identifiers": {
+    "aic": "88977",
+    "accession": "1928.903"
+  }
+}

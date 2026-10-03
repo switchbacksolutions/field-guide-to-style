@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/thorowgood-egyptian-specimen-1825.jpg",
+  "captured": "2026-10-03T01:51:25+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#cbbd98",
+        "share": 0.259
+      },
+      {
+        "hex": "#000000",
+        "share": 0.201
+      },
+      {
+        "hex": "#b9a877",
+        "share": 0.139
+      },
+      {
+        "hex": "#d9cba7",
+        "share": 0.088
+      },
+      {
+        "hex": "#c4b285",
+        "share": 0.084
+      },
+      {
+        "hex": "#b08108",
+        "share": 0.039
+      },
+      {
+        "hex": "#190a04",
+        "share": 0.029
+      },
+      {
+        "hex": "#8e600a",
+        "share": 0.02
+      },
+      {
+        "hex": "#570d03",
+        "share": 0.019
+      },
+      {
+        "hex": "#b08d47",
+        "share": 0.018
+      }
+    ],
+    "background": "#cbbd98",
+    "chroma": 0.2,
+    "lightness": 0.45,
+    "chromaticShare": 0.14,
+    "accentChroma": 0.48,
+    "distinct": 7,
+    "hues": 2
+  }
+}

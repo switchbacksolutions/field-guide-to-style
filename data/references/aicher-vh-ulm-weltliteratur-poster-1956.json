@@ -1,0 +1,62 @@
+{
+  "id": "aicher-vh-ulm-weltliteratur-poster-1956",
+  "title": "Otl Aicher, Ulm Volkshochschule poster “Realistische Weltliteratur der Gegenwart”, 1956",
+  "type": "print",
+  "medium": "poster",
+  "lede": "A square poster by Otl Aicher for the Ulm adult education centre: alternating red and black bars on pale paper, with the course text set inside them.",
+  "summary": "Red and black horizontal and vertical bars on pale paper, with text in a bold sans set inside the bars. Aicher, Ulm, 1956.",
+  "source": {
+    "url": "https://global.museum-digital.org/object/2047820",
+    "label": "Museum Ulm/HfG-Archiv, HfG-Ar Ai G 591 (museum-digital)"
+  },
+  "creator": {
+    "name": "Otl Aicher",
+    "url": "https://www.wikidata.org/wiki/Q61191"
+  },
+  "made": "1956",
+  "moods": [
+    "rational",
+    "rhythmic",
+    "austere"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the HfG-Archiv image of poster HfG-Ar Ai G 591 at 960 × 958 px through museum-digital. The lower left corner of the sheet is torn."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ulm-school",
+      "note": "Aicher’s Ulm graphic work from the school’s founding years. It belongs to the graphic branch, not the grey product core.",
+      "basis": "agent",
+      "qualifier": "graphic branch, partial fit"
+    }
+  ],
+  "context": [
+    "The HfG-Archiv record gives Otl Aicher (1922–1991) as author, 1956, print on paper, 40.5 × 40.5 cm, and calls it a poster of the Ulm Volkshochschule for a course by Hans Werner Richter. [museum-digital 2047820](https://global.museum-digital.org/object/2047820).",
+    "The record says that Richter, Inge Scholl, the founder of the Volkshochschule, and Otl Aicher met in November 1947 at a meeting of the “Gruppe 47”, and planned a “new school” from which the Hochschule für Gestaltung grew. [museum-digital](https://global.museum-digital.org/object/2047820)."
+  ],
+  "observed": [
+    "The square sheet is pale grey-beige paper, filled with flat bars of red and black that alternate.",
+    "On the left, eight horizontal bars of different lengths stack with even gaps. On the right, four vertical bars stand above five horizontal bars.",
+    "The title “Realistische Weltliteratur der Gegenwart” runs vertically up two red bars, in a bold sans-serif.",
+    "“Kurs Hans Werner Richter” and the lowercase word “dienstags” sit inside red bars in black type.",
+    "There is no image and no ornament."
+  ],
+  "interpretation": [
+    "The poster shows the graphic side of Ulm before the product program: a modular system of bars, text placed inside the system, and two colors. It is louder than the Braun products and closer to the Swiss style, so it marks the edge of this record."
+  ],
+  "borrow": [
+    "Build a layout from bars of one width and set the text inside them."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The museum-digital record marks the image “RR-P” (rights reserved) and names Museum Ulm/HfG-Archiv and Florian Aicher. Otl Aicher died in 1991, so the work is protected until the end of 2061. No image is stored."
+  },
+  "identifiers": {
+    "museum-digital": "2047820",
+    "hfg-archiv": "HfG-Ar Ai G 591"
+  }
+}

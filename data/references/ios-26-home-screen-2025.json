@@ -1,0 +1,57 @@
+{
+  "id": "ios-26-home-screen-2025",
+  "title": "iOS 26 Home Screen",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "The iPhone Home Screen of iOS 26, shown in Apple’s launch images with clear, dark, and default Liquid Glass looks.",
+  "summary": "iPhone Home Screen in clear, dark, and default glass looks. Apple, 2025.",
+  "source": {
+    "url": "https://www.apple.com/newsroom/2025/06/apple-elevates-the-iphone-experience-with-ios-26/",
+    "label": "Apple Newsroom, June 9, 2025"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "2025 (announced June 9, 2025; released September 2025)",
+  "moods": [
+    "luminous",
+    "liquid",
+    "personal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Apple Newsroom image Apple-WWDC25-iOS-26-Home-Screen-customization-250609 (1960 × 1102, large_2x variant) in a scratchpad copy. It is a press render, not a device photo. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "liquid-glass",
+      "note": "Apple’s own launch image of the Home Screen, with clear glass icons and widgets and a floating search capsule.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple: iOS 26 is “crafted with Liquid Glass — a new translucent material that reflects and refracts its surroundings”. It brings “new customization options to app icons and widgets, including a stunning clear look”. [Apple Newsroom](https://www.apple.com/newsroom/2025/06/apple-elevates-the-iphone-experience-with-ios-26/).",
+    "The same release says that on the Lock Screen “the time fluidly adapts to the available space in an image”, and that in Safari web pages flow from the top edge to the bottom of the screen."
+  ],
+  "observed": [
+    "Three iPhones on white show one blue-and-teal wave wallpaper with three icon looks: clear (left), dark (middle), and default color (right).",
+    "In the clear look, icons and widgets are colorless glass tiles. The wallpaper shows through, and each tile has a bright rim on its upper-left edge and a darker lower edge.",
+    "A small “Search” capsule floats above the Dock. The Dock is one wide glass platter inset from the screen edges, with corners that follow the rounded screen.",
+    "Widget text is white and thin-weighted on glass. The weather widget in the right phone takes a darker blue tint from the wallpaper."
+  ],
+  "interpretation": [
+    "The clear look is the style at its purest and at its weakest: the glass becomes almost invisible, and labels depend on the wallpaper for contrast."
+  ],
+  "borrow": [
+    "Light only one edge of a glass tile and let the opposite edge go darker. This reads as thickness without a drawn border."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple press image of copyrighted software. No image is stored here."
+  },
+  "related": "See also the overview record [Apple Liquid Glass](ref:apple-liquid-glass-2025)."
+}

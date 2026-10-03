@@ -1,0 +1,56 @@
+{
+  "id": "studio-cryo-drumstation-eternia-poster-2018",
+  "title": "Studio Cryo, Drumstation vs. Eternia poster, Cross Club 2018",
+  "type": "print",
+  "medium": "poster",
+  "lede": "A dark event poster with a red line-up band at the top and a rendered collage of clear plastic, smoke, rock, and dripping flowers.",
+  "summary": "Black ground, red type band, rendered clear-plastic shapes, orange smoke, and dripping flowers. Studio Cryo (Mindaugas Gavrilovas), 2018.",
+  "source": {
+    "url": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+    "label": "AIGA Eye on Design (5 September 2019): “Acid Graphics” Are the New Psychedelia"
+  },
+  "creator": {
+    "name": "Studio Cryo (Mindaugas Gavrilovas)"
+  },
+  "made": "2018 (Eye on Design file name and caption). The poster gives the date “07.12”.",
+  "moods": [
+    "nocturnal",
+    "eerie",
+    "dense"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 px image `Studio-Cryo-Drumstation-VS-Eternia-event-Cross-Club-2018.jpg` that [Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) published with the article, in a scratch folder. Not stored. The object is a digital image as the magazine published it, not a named physical copy. Eye on Design names Mindaugas Gavrilovas and Studio Cryo in the article text."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "acid-graphics",
+      "note": "Partial fit: a black ground, rendered clear and metallic forms, and flyer-style line-up type, but in red and orange, with no chrome lettering.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "[Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) names Studio Cryo and Mindaugas Gavrilovas in its 2019 article and shows this poster, captioned as the Drumstation vs. Eternia event at Cross Club, 2018."
+  ],
+  "observed": [
+    "A red band at the top holds “DRUMSTATION VS. ETERNIA” in heavy grotesque capitals, “CROSS CLUB 07.12” in a thin, flared display face, and two blocks of small capitals with the line-up.",
+    "A red rule separates the band from a near-black image field.",
+    "The field holds rendered, transparent plastic shapes with engraved circles, a brown rock surface, a plume of orange smoke, and a bunch of red and white flowers that drip blue and white paint.",
+    "A perforated mesh surface crosses the lower right.",
+    "There is no green and no chrome type."
+  ],
+  "interpretation": [
+    "The poster shows the rendered-object side of the trend: glossy clear materials, smoke, and drips on black, with a dense club line-up. It shares the mood and the rendering, not the chrome lettering."
+  ],
+  "borrow": [
+    "Confine all type to one dense band, and give the rest of the sheet to a single rendered scene on black.",
+    "Pair a heavy grotesque with a thin flared display face in the same band."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is recent and in copyright. The rights holder is the designer or the client."
+  }
+}

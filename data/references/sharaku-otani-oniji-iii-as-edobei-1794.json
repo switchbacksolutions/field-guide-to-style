@@ -1,0 +1,74 @@
+{
+  "id": "sharaku-otani-oniji-iii-as-edobei-1794",
+  "title": "Sharaku, The Actor Ōtani Oniji III as Edobei",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "A half-length kabuki actor grimaces with spread, claw-like hands against a dark ground, in one of Tōshūsai Sharaku’s actor portraits of 1794.",
+  "summary": "Black outlines, flat striped robe, and a dark plain ground. Tōshūsai Sharaku, 1794.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/18765",
+    "label": "Art Institute of Chicago, 1934.207"
+  },
+  "creator": {
+    "name": "Tōshūsai Sharaku"
+  },
+  "made": "1794",
+  "moods": [
+    "dramatic",
+    "bold",
+    "graphic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Art Institute of Chicago image of impression 1934.207 (1686 × 2516 px)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ukiyo-e",
+      "note": "A canonical actor print (yakusha-e): key-block outlines, flat color areas with a striped textile, and a figure cropped by the sheet edges.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "AIC catalogues the sheet as a color woodblock print, ōban, 37.9 × 25 cm, dated 1794, signed “Tōshūsai Sharaku ga”. AIC gives the artist as active 1794–1795. [AIC 1934.207](https://www.artic.edu/artworks/18765)."
+  ],
+  "observed": [
+    "The actor fills the sheet and is cut by the left and bottom edges. He faces right, and the right third is empty ground.",
+    "The ground is a dark, mottled gray, printed flat, with no horizon or setting.",
+    "The face and hands are unprinted paper, drawn with thin black lines. Eyebrows, hair, and robe are solid black areas.",
+    "The robe is a brown-red with fine cream stripes, a repeating textile pattern inside an outlined area.",
+    "Small areas of pale green and pink-red sit between the black robe and the hands.",
+    "The signature runs in one vertical column at the right, with a small seal under it."
+  ],
+  "interpretation": [
+    "The portrait reduces the figure to a few flat shapes, so the outline and the black areas carry the expression.",
+    "The striped robe shows how the style keeps pattern inside a bounded shape rather than over the whole surface."
+  ],
+  "borrow": [
+    "Crop a figure hard at two edges and leave the opposite side as flat ground for one column of text.",
+    "Put a fine stripe pattern inside one outlined shape only."
+  ],
+  "images": [
+    {
+      "file": "assets/references/sharaku-otani-oniji-iii-as-edobei-1794.jpg",
+      "alt": "Color woodblock print. Half-length kabuki actor with black topknot, fierce frowning face, and two spread hands, wearing a black robe with a brown-red striped outer garment, on a dark gray ground. A vertical signature is at right.",
+      "width": 1072,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Tōshūsai Sharaku, The Actor Ōtani Oniji III as Edobei, 1794. [Art Institute of Chicago 1934.207](https://www.artic.edu/artworks/18765), Clarence Buckingham Collection. CC0.",
+      "original": "https://www.artic.edu/iiif/2/df22cedf-8d22-a116-fc52-bc21ac0b3ab0/full/1686,/0/default.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Art Institute of Chicago marks the object public domain (`is_public_domain: true`) and releases images of public-domain works under CC0. [AIC open access](https://www.artic.edu/open-access/open-access-images). Sharaku worked in 1794–1795 and the print was published in 1794, so the work is public domain in Japan and the United States."
+  },
+  "identifiers": {
+    "aic": "18765",
+    "accession": "1934.207"
+  }
+}

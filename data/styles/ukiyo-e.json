@@ -1,0 +1,214 @@
+{
+  "id": "ukiyo-e",
+  "title": "Ukiyo-e",
+  "order": 36,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Ukiyoe",
+    "Japanese woodblock print style",
+    "Pictures of the floating world"
+  ],
+  "summary": "Black key lines, flat color blocks, and a blue bokashi sky. Woodblock prints of the floating world.",
+  "lede": "The graphic language of Japanese woodblock prints from the Edo period (about 1670–1868): black outlines cut in a key block, flat areas of color printed from separate blocks, hand-wiped bokashi gradients, and asymmetric, cropped compositions with a title cartouche.",
+  "moods": [
+    "calm",
+    "graphic",
+    "crafted",
+    "narrative",
+    "traditional"
+  ],
+  "era": {
+    "from": 1670,
+    "to": 1868,
+    "note": "From the first single-sheet prints to the end of the Edo period. Full-color nishiki-e date from 1765. Meiji prints and the 20th-century shin-hanga revival continue the look."
+  },
+  "regions": [
+    "Japan"
+  ],
+  "identifiers": {
+    "wikidata": "Q185905",
+    "aat": "300106769"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Ukiyo-e",
+      "url": "https://en.wikipedia.org/wiki/Ukiyo-e",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikidata: ukiyo-e (Q185905)",
+      "url": "https://www.wikidata.org/wiki/Q185905",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Getty AAT: Ukiyo-e (300106769)",
+      "url": "https://vocab.getty.edu/page/aat/300106769",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia: Bokashi (printing)",
+      "url": "https://en.wikipedia.org/wiki/Bokashi_(printing)",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Yamato-e",
+      "wikidata": "Q597365",
+      "note": "Wikipedia: Yamato-e painting of the 17th century developed outlined forms, and “this outlining of forms was to become the dominant style of ukiyo-e.”"
+    },
+    {
+      "relation": "related-to",
+      "label": "Japonisme",
+      "wikidata": "Q751880",
+      "note": "Wikipedia: Japonisme is the influence of Japanese art on Western European artists after 1858, and the landscapes of Hokusai and Hiroshige formed the Western idea of Japanese art."
+    },
+    {
+      "relation": "related-to",
+      "style": "art-nouveau",
+      "note": "The [Art Nouveau](style:art-nouveau) record names Japonisme, the enthusiasm for Hiroshige, Hokusai, and Kunisada prints, as a source of its flat colour and outlines."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Key-block outline.",
+      "text": "One black line block carries the drawing. Its lines are even in weight, thin to medium, and close every color area."
+    },
+    {
+      "facet": "color",
+      "term": "Flat block colors.",
+      "text": "Each color is one flat area from its own block: Prussian blue, indigo, vermilion, beni pink, pale green, and yellow ochre on cream paper. Black is the line color."
+    },
+    {
+      "facet": "surface",
+      "term": "Bokashi gradient.",
+      "text": "The printer wiped ink across a wet block, so a band of color fades into the paper. The most common place is a band of blue at the top of the sky or the bottom of the water."
+    },
+    {
+      "facet": "layout",
+      "term": "Asymmetric, cropped composition.",
+      "text": "The subject sits off center. A near object crops the scene at the edge or cuts across it, and a high or low viewpoint opens a deep space behind it."
+    },
+    {
+      "facet": "type",
+      "term": "Cartouche and seals.",
+      "text": "Text sits in a narrow vertical cartouche with a thin border, in a corner of the picture, beside small red seals. Japanese text runs vertically, from right to left."
+    },
+    {
+      "facet": "imagery",
+      "term": "Floating-world subjects.",
+      "text": "Actors, courtesans, travel views, waves, rain, and birds and flowers. Water and textiles carry repeating patterns, such as wave crests and arrow-feather stripes."
+    }
+  ],
+  "synthesis": [
+    "The single-sheet color woodblock print is the core medium, and the late landscape prints show the grammar most completely. Hokusai’s [Under the Wave off Kanagawa](ref:hokusai-under-the-wave-off-kanagawa-1830) has all the main devices together: an even key line, two flat blues with the paper as a third tone, a dark band fading from the horizon, a vertical title cartouche, and a second wave cut by the edge. His [Red Fuji](ref:hokusai-south-wind-clear-sky-red-fuji-1830s) reduces the view to one large shape that leaves the frame on the right, under a sky that darkens to Prussian blue at the top. Hiroshige’s [Mitsumata Wakarenofuchi](ref:hiroshige-mitsumata-wakarenofuchi-1857) puts bokashi in both standard places, the top of the sky and the bottom of the water, and his [Sudden Shower](ref:hiroshige-sudden-shower-over-shin-ohashi-1857) pushes a bridge into a corner and cuts it with two edges. AIC says that the printer wiped the storm cloud by hand in a scalloped shape.",
+    "The figure prints keep the outline, the flat areas, and the cropping, but they use a different palette. [Harunobu’s Evening Snow](ref:harunobu-evening-snow-on-a-floss-shaper-1766), from about 1766, uses pale pinks and grays on a large empty cream ground. [Utamaro’s Flirtatious Type](ref:utamaro-flirtatious-type-physiognomy-of-women-1793) sets one cropped figure on a flat pink ground and balances it with a three-panel cartouche. [Sharaku’s Ōtani Oniji III](ref:sharaku-otani-oniji-iii-as-edobei-1794) cuts an actor at two edges on a dark gray ground and keeps a stripe pattern inside one robe. [Toyokuni’s fan print](ref:toyokuni-danjuro-vii-fan-print-1816) uses the fan shape as the frame, and [Kuniyoshi’s Futamigaura triptych](ref:kuniyoshi-splendid-view-at-futamigaura-1854) of 1854 runs one denser, more saturated scene across three sheets with a bokashi sky. Two references extend the formats: [Utamaro’s Picture Book of Selected Insects](ref:utamaro-picture-book-of-selected-insects-1788) puts picture and vertical poems in one ruled frame, and [Shunshō’s hanging scroll](ref:shunsho-three-beauties-by-a-veranda-1792) shows the same language in paint. The scroll is a partial fit, because it has soft tonal washes. Its gold mist bands do what bokashi does in print.",
+    "The references do not all follow the color rules. The summary, the rule “Prussian blue and vermilion as the main colors”, and the bokashi-sky rule describe the landscapes of the 1830s to 1850s. AIC dates the affordable Berlin (Prussian) blue to Hokusai’s series begun in 1830. The Harunobu, Utamaro, Sharaku, and Toyokuni sheets have no blue sky and use pink, gray, or dark grounds. Outlines are also not universal: in the Sudden Shower the far bank is a band of trees without outlines, and the rain itself is drawn with key-block lines. The cropped, asymmetric composition and the cartouche or seal are the more constant traits. A curator must decide whether the rules should allow a pink or gray ground as well as cream with blue.",
+    "The measurements are palette traits of museum photographs only, so they cannot see outlines, bokashi bands, textile pattern, or cartouches. Gradient share, pattern share, border share, radius, and shadow are not measured for any reference. All 11 images measure `color.hues` 0 to 2, below the fingerprint minimum of 3. Great Wave, Red Fuji, and the Utamaro portrait measure 0. Mean chroma is 0.09 to 0.23, and the share of colors with chroma of at least 0.3 is 0 to 0.05, except 0.36 for the Shunshō scroll, where the brocade mount adds color. Interpretation: the photographed paper and inks are buff, tan, and gray-blue (the Great Wave background measures #c5b397), much less saturated than the specimen’s declared colors. Lightness is 0.44 to 0.72 against 0.63 for the specimen. No website references exist yet, so the fingerprint stays specimen-based."
+  ],
+  "preview": [
+    "hokusai-under-the-wave-off-kanagawa-1830",
+    "hiroshige-sudden-shower-over-shin-ohashi-1857"
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Black outlines of even weight close every color area.",
+      "Color areas are flat, apart from one or two bands that fade from color into the paper.",
+      "The main subject is off center and something at the edge crops it.",
+      "A narrow vertical cartouche or a red seal holds the title text."
+    ],
+    "counter": [
+      "Modelled shading, cast shadows, or glossy highlights.",
+      "Symmetric, centered composition.",
+      "Saturated neon colors or pure primary triads without blue and cream paper."
+    ],
+    "confusions": [
+      {
+        "with": "art-nouveau",
+        "difference": "Art Nouveau borrowed flat color and outlines from these prints, but its lines swell and whip, its ornament frames the picture, and its type is decorative Latin lettering. Ukiyo-e lines are even, the frame is the plain edge of the sheet, and text is in a small cartouche."
+      },
+      {
+        "with": "pop-art",
+        "difference": "Pop art uses flat bright primaries, heavy black outlines, and Ben-Day dots, with no gradients. Ukiyo-e outlines are thinner, its palette is blue, red, and cream, and bokashi bands fade color into the paper."
+      },
+      {
+        "with": "flat-design",
+        "difference": "Flat design has no outlines and no gradients, and it uses bright interface colors in a centered grid. Ukiyo-e outlines every area, uses bokashi, and composes asymmetrically."
+      },
+      {
+        "with": "Shin-hanga",
+        "difference": "The 20th-century shin-hanga prints keep the technique but add Western light, atmosphere, and soft shading. This record covers the flatter Edo-period look."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use cream paper as the ground, black for lines and text, and Prussian blue and vermilion as the main colors.",
+      "Outline panels and cards with thin black lines of one weight.",
+      "Fade one band of blue into the paper at the top of the hero, like a bokashi sky.",
+      "Put the main shape off center, and let it run off one edge.",
+      "Put the title or a label in a narrow vertical cartouche with a thin border, and add a small red square seal.",
+      "Use a repeating wave-crest or stripe pattern only in one bounded area, like a textile."
+    ],
+    "dont": [
+      "Do not use drop shadows, glows, or rounded cards.",
+      "Do not shade forms with smooth modelling. A gradient is a band that fades into the paper, not a 3D effect.",
+      "Do not center the composition symmetrically.",
+      "Do not use brush-script fonts or fake Japanese lettering for Latin text."
+    ],
+    "uses": [
+      "Museums and print collections",
+      "Tea, sake, and food brands",
+      "Travel and hospitality",
+      "Editorial features and book covers"
+    ],
+    "avoid": [
+      "Dense dashboards and data tables. Outlines and pattern fields compete with many small numbers.",
+      "Brands without a link to Japan, where the style can read as costume or appropriation."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.gradientShare",
+      "min": 0.12,
+      "max": 0.5,
+      "note": "Positive marker: bokashi bands fade one color into the paper over part of the page. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.08,
+      "max": 0.4,
+      "note": "Positive marker: a bounded wave-crest or stripe field, like a textile in a print. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.border.share",
+      "min": 0.5,
+      "note": "Positive marker: key-block outlines close most panels. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "No cast shadows. Prints have no modelled depth. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Panels are square-cut like the edge of a sheet. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.hues",
+      "min": 3,
+      "max": 6,
+      "note": "Positive marker: nishiki-e print one block per color, so blue, red, green, and ochre all appear, however small. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "pixels.hues",
+      "min": 2,
+      "max": 5,
+      "note": "Measured on screenshot pixels, so that colors in images count. Provisional: set from the specimen, recalibrate with measured references."
+    }
+  ]
+}

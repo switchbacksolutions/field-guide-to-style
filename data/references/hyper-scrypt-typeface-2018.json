@@ -1,0 +1,58 @@
+{
+  "id": "hyper-scrypt-typeface-2018",
+  "title": "Hyper Scrypt typeface, Velvetyne",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "An open-source stencil display face by Jérémy Landes that draws gothic letters as heavy, molten-looking black shapes cut by thin channels, after the lead lines of stained glass.",
+  "summary": "Heavy gothic stencil letters with molten curves and thin cuts. Jérémy Landes, Velvetyne, 2018, SIL Open Font License.",
+  "source": {
+    "url": "https://velvetyne.fr/fonts/hyper-scrypt/",
+    "label": "Velvetyne: Hyper Scrypt"
+  },
+  "creator": {
+    "name": "Jérémy Landes (Studio Triple)"
+  },
+  "made": "Published on 6 September 2018 (Velvetyne)",
+  "moods": [
+    "heavy",
+    "gothic",
+    "metallic",
+    "ominous"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the web font `hyperscrypt-stencil.woff` from the Velvetyne page and rendered “HYPER SCRYPT”, “MY LORD BELZEBUTH”, and a pair alphabet at 90–170 px in a 1400 px scratch image with Pillow. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "acid-graphics",
+      "note": "Partial fit: a free gothic display face whose designer cites molten metal and heavy metal. It supplies the blackletter-metal letterforms of the style, but it is flat and needs a chrome treatment to read as the core.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Velvetyne: “The Hyper Scrypt typeface was designed for the Hyper Chapelle exhibition. It was commissioned by AAAAA Atelier to Studio Triple's designer Jérémy Landes.” It is “a modern stencil typeface inspired by the stained glass technique used in the Metz cathedral”. [Velvetyne](https://velvetyne.fr/fonts/hyper-scrypt/).",
+    "Velvetyne: Hyper Scrypt “is at the intersection between 3 metals : the sacred lead of stained glass, the lead of print characters and the heavy metal. Despite its organic look inherited for the molted metal, Hyper Scrypt is based upon a rigorous grid”.",
+    "The page gives the license as SIL Open Font License, Version 1.1, and one style, Stencil."
+  ],
+  "observed": [
+    "Letters are heavy black slabs with rounded corners, split by thin horizontal and diagonal channels, so that each letter reads as several cast pieces.",
+    "The forms mix straight gothic verticals with swelling, liquid curves in letters such as S, O, and C.",
+    "Counters are small, and the letters sit close, so lines read as a dense black band.",
+    "All rendered letters share one cap height. Upper and lower case look much alike."
+  ],
+  "interpretation": [
+    "The face gives a designer a free, legal blackletter-and-metal display type for the style. With a chrome gradient and a black ground it would come close to the core look. Alone it is a gothic stencil."
+  ],
+  "borrow": [
+    "Use a gothic stencil for one display word and fill it with a chrome gradient.",
+    "Let thin channels cut through heavy letters to suggest cast metal."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "OFL-1.1",
+    "statement": "The font software is licensed under the SIL Open Font License 1.1 (Velvetyne). No specimen image is stored, because no openly licensed image of the typeface was found and the design itself is not public domain."
+  }
+}

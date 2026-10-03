@@ -1,0 +1,607 @@
+{
+  "id": "ukiyo-e",
+  "title": "Ukiyo-e",
+  "order": 36,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Ukiyoe",
+    "Japanese woodblock print style",
+    "Pictures of the floating world"
+  ],
+  "summary": "Black key lines, flat color blocks, and a blue bokashi sky. Woodblock prints of the floating world.",
+  "lede": "The graphic language of Japanese woodblock prints from the Edo period (about 1670–1868): black outlines cut in a key block, flat areas of color printed from separate blocks, hand-wiped bokashi gradients, and asymmetric, cropped compositions with a title cartouche.",
+  "moods": [
+    "calm",
+    "graphic",
+    "crafted",
+    "narrative",
+    "traditional"
+  ],
+  "era": {
+    "from": 1670,
+    "to": 1868,
+    "note": "From the first single-sheet prints to the end of the Edo period. Full-color nishiki-e date from 1765. Meiji prints and the 20th-century shin-hanga revival continue the look."
+  },
+  "regions": [
+    "Japan"
+  ],
+  "identifiers": {
+    "wikidata": "Q185905",
+    "aat": "300106769"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Ukiyo-e",
+      "url": "https://en.wikipedia.org/wiki/Ukiyo-e",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikidata: ukiyo-e (Q185905)",
+      "url": "https://www.wikidata.org/wiki/Q185905",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Getty AAT: Ukiyo-e (300106769)",
+      "url": "https://vocab.getty.edu/page/aat/300106769",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia: Bokashi (printing)",
+      "url": "https://en.wikipedia.org/wiki/Bokashi_(printing)",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Yamato-e",
+      "wikidata": "Q597365",
+      "note": "Wikipedia: Yamato-e painting of the 17th century developed outlined forms, and “this outlining of forms was to become the dominant style of ukiyo-e.”"
+    },
+    {
+      "relation": "related-to",
+      "label": "Japonisme",
+      "wikidata": "Q751880",
+      "note": "Wikipedia: Japonisme is the influence of Japanese art on Western European artists after 1858, and the landscapes of Hokusai and Hiroshige formed the Western idea of Japanese art."
+    },
+    {
+      "relation": "related-to",
+      "style": "art-nouveau",
+      "note": "The [Art Nouveau](style:art-nouveau) record names Japonisme, the enthusiasm for Hiroshige, Hokusai, and Kunisada prints, as a source of its flat colour and outlines."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Key-block outline.",
+      "text": "One black line block carries the drawing. Its lines are even in weight, thin to medium, and close every color area."
+    },
+    {
+      "facet": "color",
+      "term": "Flat block colors.",
+      "text": "Each color is one flat area from its own block: Prussian blue, indigo, vermilion, beni pink, pale green, and yellow ochre on cream paper. Black is the line color."
+    },
+    {
+      "facet": "surface",
+      "term": "Bokashi gradient.",
+      "text": "The printer wiped ink across a wet block, so a band of color fades into the paper. The most common place is a band of blue at the top of the sky or the bottom of the water."
+    },
+    {
+      "facet": "layout",
+      "term": "Asymmetric, cropped composition.",
+      "text": "The subject sits off center. A near object crops the scene at the edge or cuts across it, and a high or low viewpoint opens a deep space behind it."
+    },
+    {
+      "facet": "type",
+      "term": "Cartouche and seals.",
+      "text": "Text sits in a narrow vertical cartouche with a thin border, in a corner of the picture, beside small red seals. Japanese text runs vertically, from right to left."
+    },
+    {
+      "facet": "imagery",
+      "term": "Floating-world subjects.",
+      "text": "Actors, courtesans, travel views, waves, rain, and birds and flowers. Water and textiles carry repeating patterns, such as wave crests and arrow-feather stripes."
+    }
+  ],
+  "synthesis": [
+    "The single-sheet color woodblock print is the core medium, and the late landscape prints show the grammar most completely. Hokusai’s [Under the Wave off Kanagawa](ref:hokusai-under-the-wave-off-kanagawa-1830) has all the main devices together: an even key line, two flat blues with the paper as a third tone, a dark band fading from the horizon, a vertical title cartouche, and a second wave cut by the edge. His [Red Fuji](ref:hokusai-south-wind-clear-sky-red-fuji-1830s) reduces the view to one large shape that leaves the frame on the right, under a sky that darkens to Prussian blue at the top. Hiroshige’s [Mitsumata Wakarenofuchi](ref:hiroshige-mitsumata-wakarenofuchi-1857) puts bokashi in both standard places, the top of the sky and the bottom of the water, and his [Sudden Shower](ref:hiroshige-sudden-shower-over-shin-ohashi-1857) pushes a bridge into a corner and cuts it with two edges. AIC says that the printer wiped the storm cloud by hand in a scalloped shape.",
+    "The figure prints keep the outline, the flat areas, and the cropping, but they use a different palette. [Harunobu’s Evening Snow](ref:harunobu-evening-snow-on-a-floss-shaper-1766), from about 1766, uses pale pinks and grays on a large empty cream ground. [Utamaro’s Flirtatious Type](ref:utamaro-flirtatious-type-physiognomy-of-women-1793) sets one cropped figure on a flat pink ground and balances it with a three-panel cartouche. [Sharaku’s Ōtani Oniji III](ref:sharaku-otani-oniji-iii-as-edobei-1794) cuts an actor at two edges on a dark gray ground and keeps a stripe pattern inside one robe. [Toyokuni’s fan print](ref:toyokuni-danjuro-vii-fan-print-1816) uses the fan shape as the frame, and [Kuniyoshi’s Futamigaura triptych](ref:kuniyoshi-splendid-view-at-futamigaura-1854) of 1854 runs one denser, more saturated scene across three sheets with a bokashi sky. Two references extend the formats: [Utamaro’s Picture Book of Selected Insects](ref:utamaro-picture-book-of-selected-insects-1788) puts picture and vertical poems in one ruled frame, and [Shunshō’s hanging scroll](ref:shunsho-three-beauties-by-a-veranda-1792) shows the same language in paint. The scroll is a partial fit, because it has soft tonal washes. Its gold mist bands do what bokashi does in print.",
+    "The references do not all follow the color rules. The summary, the rule “Prussian blue and vermilion as the main colors”, and the bokashi-sky rule describe the landscapes of the 1830s to 1850s. AIC dates the affordable Berlin (Prussian) blue to Hokusai’s series begun in 1830. The Harunobu, Utamaro, Sharaku, and Toyokuni sheets have no blue sky and use pink, gray, or dark grounds. Outlines are also not universal: in the Sudden Shower the far bank is a band of trees without outlines, and the rain itself is drawn with key-block lines. The cropped, asymmetric composition and the cartouche or seal are the more constant traits. A curator must decide whether the rules should allow a pink or gray ground as well as cream with blue.",
+    "The measurements are palette traits of museum photographs only, so they cannot see outlines, bokashi bands, textile pattern, or cartouches. Gradient share, pattern share, border share, radius, and shadow are not measured for any reference. All 11 images measure `color.hues` 0 to 2, below the fingerprint minimum of 3. Great Wave, Red Fuji, and the Utamaro portrait measure 0. Mean chroma is 0.09 to 0.23, and the share of colors with chroma of at least 0.3 is 0 to 0.05, except 0.36 for the Shunshō scroll, where the brocade mount adds color. Interpretation: the photographed paper and inks are buff, tan, and gray-blue (the Great Wave background measures #c5b397), much less saturated than the specimen’s declared colors. Lightness is 0.44 to 0.72 against 0.63 for the specimen. No website references exist yet, so the fingerprint stays specimen-based."
+  ],
+  "preview": [
+    "hokusai-under-the-wave-off-kanagawa-1830",
+    "hiroshige-sudden-shower-over-shin-ohashi-1857"
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Black outlines of even weight close every color area.",
+      "Color areas are flat, apart from one or two bands that fade from color into the paper.",
+      "The main subject is off center and something at the edge crops it.",
+      "A narrow vertical cartouche or a red seal holds the title text."
+    ],
+    "counter": [
+      "Modelled shading, cast shadows, or glossy highlights.",
+      "Symmetric, centered composition.",
+      "Saturated neon colors or pure primary triads without blue and cream paper."
+    ],
+    "confusions": [
+      {
+        "with": "art-nouveau",
+        "difference": "Art Nouveau borrowed flat color and outlines from these prints, but its lines swell and whip, its ornament frames the picture, and its type is decorative Latin lettering. Ukiyo-e lines are even, the frame is the plain edge of the sheet, and text is in a small cartouche."
+      },
+      {
+        "with": "pop-art",
+        "difference": "Pop art uses flat bright primaries, heavy black outlines, and Ben-Day dots, with no gradients. Ukiyo-e outlines are thinner, its palette is blue, red, and cream, and bokashi bands fade color into the paper."
+      },
+      {
+        "with": "flat-design",
+        "difference": "Flat design has no outlines and no gradients, and it uses bright interface colors in a centered grid. Ukiyo-e outlines every area, uses bokashi, and composes asymmetrically."
+      },
+      {
+        "with": "Shin-hanga",
+        "difference": "The 20th-century shin-hanga prints keep the technique but add Western light, atmosphere, and soft shading. This record covers the flatter Edo-period look."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use cream paper as the ground, black for lines and text, and Prussian blue and vermilion as the main colors.",
+      "Outline panels and cards with thin black lines of one weight.",
+      "Fade one band of blue into the paper at the top of the hero, like a bokashi sky.",
+      "Put the main shape off center, and let it run off one edge.",
+      "Put the title or a label in a narrow vertical cartouche with a thin border, and add a small red square seal.",
+      "Use a repeating wave-crest or stripe pattern only in one bounded area, like a textile."
+    ],
+    "dont": [
+      "Do not use drop shadows, glows, or rounded cards.",
+      "Do not shade forms with smooth modelling. A gradient is a band that fades into the paper, not a 3D effect.",
+      "Do not center the composition symmetrically.",
+      "Do not use brush-script fonts or fake Japanese lettering for Latin text."
+    ],
+    "uses": [
+      "Museums and print collections",
+      "Tea, sake, and food brands",
+      "Travel and hospitality",
+      "Editorial features and book covers"
+    ],
+    "avoid": [
+      "Dense dashboards and data tables. Outlines and pattern fields compete with many small numbers.",
+      "Brands without a link to Japan, where the style can read as costume or appropriation."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "color.gradientShare",
+      "min": 0.12,
+      "max": 0.5,
+      "note": "Positive marker: bokashi bands fade one color into the paper over part of the page. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.08,
+      "max": 0.4,
+      "note": "Positive marker: a bounded wave-crest or stripe field, like a textile in a print. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.border.share",
+      "min": 0.5,
+      "note": "Positive marker: key-block outlines close most panels. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "No cast shadows. Prints have no modelled depth. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Panels are square-cut like the edge of a sheet. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.hues",
+      "min": 3,
+      "max": 6,
+      "note": "Positive marker: nishiki-e print one block per color, so blue, red, green, and ochre all appear, however small. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "pixels.hues",
+      "min": 2,
+      "max": 5,
+      "note": "Measured on screenshot pixels, so that colors in images count. Provisional: set from the specimen, recalibrate with measured references."
+    }
+  ],
+  "page": "ukiyo-e.html",
+  "implementation": {
+    "tokens": "implementations/ukiyo-e/tokens.json",
+    "css": "implementations/ukiyo-e/tokens.css",
+    "tailwind": "implementations/ukiyo-e/tailwind.css",
+    "shadcn": "implementations/ukiyo-e/shadcn.css",
+    "registry": "implementations/ukiyo-e/registry-item.json",
+    "designMd": "implementations/ukiyo-e/DESIGN.md",
+    "specimen": "implementations/ukiyo-e/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for ukiyo-e. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#f2e8d2",
+        "$description": "Cream hosho paper."
+      },
+      "surface": {
+        "$value": "#f7f0df"
+      },
+      "subtle": {
+        "$value": "#e6d7b8"
+      },
+      "text": {
+        "$value": "#1d1a16",
+        "$description": "Sumi black of the key block."
+      },
+      "muted": {
+        "$value": "#5a5145"
+      },
+      "border": {
+        "$value": "#1d1a16"
+      },
+      "primary": {
+        "$value": "#1f4e8c",
+        "$description": "Prussian blue, used for bokashi skies and water after the 1820s."
+      },
+      "on-primary": {
+        "$value": "#f7f0df"
+      },
+      "secondary": {
+        "$value": "#c0392b",
+        "$description": "Vermilion and beni red, used for seals and garments."
+      },
+      "on-secondary": {
+        "$value": "#f7f0df"
+      },
+      "accent": {
+        "$value": "#5b8a3c",
+        "$description": "Green of hills and pine."
+      },
+      "on-accent": {
+        "$value": "#1d1a16"
+      },
+      "highlight": {
+        "$value": "#d9a13b",
+        "$description": "Yellow ochre of title cartouches and sky glow."
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Hiragino Mincho ProN",
+          "Yu Mincho",
+          "Noto Serif JP",
+          "Iowan Old Style",
+          "Palatino Linotype",
+          "Georgia",
+          "serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Iowan Old Style",
+          "Palatino Linotype",
+          "Book Antiqua",
+          "Georgia",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Hiragino Mincho ProN",
+          "Yu Mincho",
+          "Noto Serif JP",
+          "Iowan Old Style",
+          "Palatino Linotype",
+          "Georgia",
+          "serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 600
+      },
+      "display": {
+        "$value": 600
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "20px"
+      },
+      "xl": {
+        "$value": "26px"
+      },
+      "2xl": {
+        "$value": "34px"
+      },
+      "3xl": {
+        "$value": "46px"
+      },
+      "4xl": {
+        "$value": "68px"
+      },
+      "5xl": {
+        "$value": "96px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.05
+      },
+      "body": {
+        "$value": 1.6
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.12,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "2px"
+      },
+      "thick": {
+        "$value": "3px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "104px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "harunobu-evening-snow-on-a-floss-shaper-1766",
+      "title": "Harunobu, Evening Snow on a Floss Shaper",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "An early nishiki-e from the decade when full-color printing began: thin outlines, soft flat colors, patterned textiles, and a diagonal interior.",
+      "page": "references/harunobu-evening-snow-on-a-floss-shaper-1766.html",
+      "source": "https://www.artic.edu/artworks/88977",
+      "image": "assets/references/harunobu-evening-snow-on-a-floss-shaper-1766.jpg",
+      "measurement": "data/measurements/harunobu-evening-snow-on-a-floss-shaper-1766.json"
+    },
+    {
+      "id": "hiroshige-mitsumata-wakarenofuchi-1857",
+      "title": "Hiroshige, Mitsumata Wakarenofuchi",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear example of bokashi used as a band at the top of the sky and the bottom of the water, with flat color fields, cartouches, and an off-center Fuji.",
+      "page": "references/hiroshige-mitsumata-wakarenofuchi-1857.html",
+      "source": "https://www.loc.gov/item/2009631870/",
+      "image": "assets/references/hiroshige-mitsumata-wakarenofuchi-1857.jpg",
+      "measurement": "data/measurements/hiroshige-mitsumata-wakarenofuchi-1857.json"
+    },
+    {
+      "id": "hiroshige-sudden-shower-over-shin-ohashi-1857",
+      "title": "Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical late landscape print: a bridge cut diagonally by the sheet edges, rain as fine key-block lines, and bokashi clouds and water.",
+      "page": "references/hiroshige-sudden-shower-over-shin-ohashi-1857.html",
+      "source": "https://www.artic.edu/artworks/26545",
+      "image": "assets/references/hiroshige-sudden-shower-over-shin-ohashi-1857.jpg",
+      "measurement": "data/measurements/hiroshige-sudden-shower-over-shin-ohashi-1857.json"
+    },
+    {
+      "id": "hokusai-south-wind-clear-sky-red-fuji-1830s",
+      "title": "Hokusai, South Wind, Clear Sky (Red Fuji)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical landscape print: one large flat shape placed off center, bokashi at the top of the sky and across the slope, and a title cartouche.",
+      "page": "references/hokusai-south-wind-clear-sky-red-fuji-1830s.html",
+      "source": "https://clevelandart.org/art/1930.189",
+      "image": "assets/references/hokusai-south-wind-clear-sky-red-fuji-1830s.jpg",
+      "measurement": "data/measurements/hokusai-south-wind-clear-sky-red-fuji-1830s.json"
+    },
+    {
+      "id": "hokusai-under-the-wave-off-kanagawa-1830",
+      "title": "Hokusai, Under the Wave off Kanagawa (The Great Wave)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical landscape print: key-block outlines, flat Prussian blue, a dark bokashi band at the horizon, a title cartouche, and an asymmetric, cropped composition.",
+      "page": "references/hokusai-under-the-wave-off-kanagawa-1830.html",
+      "source": "https://www.artic.edu/artworks/24645",
+      "image": "assets/references/hokusai-under-the-wave-off-kanagawa-1830.jpg",
+      "measurement": "data/measurements/hokusai-under-the-wave-off-kanagawa-1830.json"
+    },
+    {
+      "id": "kuniyoshi-splendid-view-at-futamigaura-1854",
+      "title": "Kuniyoshi, Splendid View at Futamigaura Bay (triptych)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A late Edo triptych: dense patterned robes, flat blue sea and sky with bokashi bands, a red sun, and red signature cartouches, across three sheets.",
+      "page": "references/kuniyoshi-splendid-view-at-futamigaura-1854.html",
+      "source": "https://clevelandart.org/art/1943.10",
+      "image": "assets/references/kuniyoshi-splendid-view-at-futamigaura-1854.jpg",
+      "measurement": "data/measurements/kuniyoshi-splendid-view-at-futamigaura-1854.json"
+    },
+    {
+      "id": "sharaku-otani-oniji-iii-as-edobei-1794",
+      "title": "Sharaku, The Actor Ōtani Oniji III as Edobei",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical actor print (yakusha-e): key-block outlines, flat color areas with a striped textile, and a figure cropped by the sheet edges.",
+      "page": "references/sharaku-otani-oniji-iii-as-edobei-1794.html",
+      "source": "https://www.artic.edu/artworks/18765",
+      "image": "assets/references/sharaku-otani-oniji-iii-as-edobei-1794.jpg",
+      "measurement": "data/measurements/sharaku-otani-oniji-iii-as-edobei-1794.json"
+    },
+    {
+      "id": "shunsho-three-beauties-by-a-veranda-1792",
+      "title": "Shunshō, Three Beauties Chatting by a Veranda",
+      "medium": "painting",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A painted ukiyo-e (nikuhitsu-ga): the same outlined figures, flat patterned robes, and off-center composition as the prints, in ink and color on silk. Partial fit: the painting has soft tonal washes that prints do not have.",
+      "page": "references/shunsho-three-beauties-by-a-veranda-1792.html",
+      "source": "https://www.artic.edu/artworks/11613",
+      "image": "assets/references/shunsho-three-beauties-by-a-veranda-1792.jpg",
+      "measurement": "data/measurements/shunsho-three-beauties-by-a-veranda-1792.json"
+    },
+    {
+      "id": "toyokuni-danjuro-vii-fan-print-1816",
+      "title": "Toyokuni I, Ichikawa Danjūrō VII as Fujiwara no Shihei (fan print)",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A fan print: the style applied to an everyday object, with flat pattern, key-block outlines, and a figure cropped by the fan shape.",
+      "page": "references/toyokuni-danjuro-vii-fan-print-1816.html",
+      "source": "https://www.artic.edu/artworks/154248",
+      "image": "assets/references/toyokuni-danjuro-vii-fan-print-1816.jpg",
+      "measurement": "data/measurements/toyokuni-danjuro-vii-fan-print-1816.json"
+    },
+    {
+      "id": "utamaro-picture-book-of-selected-insects-1788",
+      "title": "Utamaro, Picture Book of Selected Insects (Ehon mushi erabi)",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A color-printed picture book (ehon): the same key-block line and flat block colors as single-sheet prints, with text and picture sharing a framed page.",
+      "page": "references/utamaro-picture-book-of-selected-insects-1788.html",
+      "source": "https://www.artic.edu/artworks/220320",
+      "image": "assets/references/utamaro-picture-book-of-selected-insects-1788.jpg",
+      "measurement": "data/measurements/utamaro-picture-book-of-selected-insects-1788.json"
+    },
+    {
+      "id": "utamaro-flirtatious-type-physiognomy-of-women-1793",
+      "title": "Utamaro, The Flirtatious Type, from Ten Types in the Physiognomy of Women",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical bijinga close-up: one figure cut by the sheet edges on a flat ground, thin key lines, patterned robes, and a title cartouche.",
+      "page": "references/utamaro-flirtatious-type-physiognomy-of-women-1793.html",
+      "source": "https://clevelandart.org/art/1930.218",
+      "image": "assets/references/utamaro-flirtatious-type-physiognomy-of-women-1793.jpg",
+      "measurement": "data/measurements/utamaro-flirtatious-type-physiognomy-of-women-1793.json"
+    }
+  ]
+}

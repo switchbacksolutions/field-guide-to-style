@@ -1,0 +1,57 @@
+{
+  "id": "rudnick-turbo-warehouse-series-sleeve",
+  "title": "David Rudnick, Turbo Warehouse Series compilation sleeve",
+  "type": "print",
+  "medium": "packaging",
+  "lede": "A record sleeve shown in a clear plastic bag: a pale pink insert crammed with mixed display type, a wavy rendered texture, and a woodcut, with a yellow sticker and a two-euro coin.",
+  "summary": "Dense mixed display type on a pink insert, a wavy metallic texture, a plastic bag, and a yellow sticker. David Rudnick, Turbo TWR72, before September 2016.",
+  "source": {
+    "url": "https://eyeondesign.aiga.org/david-rudnicks-portfolio-is-a-codex-for-electronic-music-design/",
+    "label": "AIGA Eye on Design (5 September 2016): David Rudnick’s Portfolio is a Codex for Electronic Music Design"
+  },
+  "creator": {
+    "name": "David Rudnick"
+  },
+  "made": "Before September 2016 (the article does not date it)",
+  "moods": [
+    "ironic",
+    "dense",
+    "synthetic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1000 × 1000 px image `David-Rudnick-Turbo-Warehouse-Series.png` that [Eye on Design](https://eyeondesign.aiga.org/david-rudnicks-portfolio-is-a-codex-for-electronic-music-design/) published, in a scratch folder. Not stored. It is a staged product image, not a named physical copy."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "acid-graphics",
+      "note": "Partial fit: flyer density, mixed and stretched display faces, and a rendered wavy metal texture, in pale pink and black instead of acid green, with no chrome lettering.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "[Eye on Design](https://eyeondesign.aiga.org/david-rudnicks-portfolio-is-a-codex-for-electronic-music-design/) (Emily Gosling, 5 September 2016) shows this image among works captioned “David Rudnick, Turbo Warehouse Series”. It says that Rudnick “mainly designs for electronic music clients, creating posters and sleeve designs”, and names the record label Turbo among his partners.",
+    "The insert reads “TWR72”, “COMPILATION TURBO”, and “Warehouse Series?” and lists Gingy & Bordello, Sei-A, Joe Farr, and Randomer."
+  ],
+  "observed": [
+    "A clear, wrinkled plastic bag holds a pale gray sleeve with a large black square-and-triangle mark, on a black ground.",
+    "A pale pink insert covers the left half. It is crammed with display lines in at least six faces: a bold grotesque, a heavy italic, a thin wide sans, a squared bracket face, a serif, and a stencil.",
+    "“REAL ESTATE” runs vertically down the insert in very tall, thin letters that are cut by horizontal bars.",
+    "A panel near the top holds a gray, wavy rendered texture like liquid metal. A woodcut of two figures under a tree sits below it.",
+    "A yellow sticker at the upper right reads “100% Turbo Commodity Warehouse Series: Real Estate for Real Value”. A two-euro coin lies on the lower right."
+  ],
+  "interpretation": [
+    "The sleeve shows the self-referential, ironic packaging of the trend: dense flyer type, stretched letters, a rendered liquid texture, and props such as a coin and a sticker. It lacks the black ground and the acid green of the core."
+  ],
+  "borrow": [
+    "Stack many display faces in one narrow column, each on its own line, like a flyer line-up.",
+    "Use a rendered liquid-metal texture as one small panel among type panels."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is recent and in copyright (David Rudnick and Turbo Recordings)."
+  }
+}

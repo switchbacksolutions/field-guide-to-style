@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "ukiyo-e",
+  "type": "registry:theme",
+  "title": "Ukiyo-e",
+  "description": "Black key lines, flat color blocks, and a blue bokashi sky. Woodblock prints of the floating world.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Iowan Old Style\", \"Palatino Linotype\", \"Book Antiqua\", Georgia, serif",
+      "font-mono": "\"Hiragino Mincho ProN\", \"Yu Mincho\", \"Noto Serif JP\", \"Iowan Old Style\", \"Palatino Linotype\", Georgia, serif"
+    },
+    "light": {
+      "background": "#f2e8d2",
+      "foreground": "#1d1a16",
+      "card": "#f7f0df",
+      "card-foreground": "#1d1a16",
+      "popover": "#f7f0df",
+      "popover-foreground": "#1d1a16",
+      "primary": "#1f4e8c",
+      "primary-foreground": "#f7f0df",
+      "secondary": "#c0392b",
+      "secondary-foreground": "#f7f0df",
+      "muted": "#e6d7b8",
+      "muted-foreground": "#5a5145",
+      "accent": "#5b8a3c",
+      "accent-foreground": "#1d1a16",
+      "destructive": "#b42318",
+      "border": "#1d1a16",
+      "input": "#1d1a16",
+      "ring": "#1f4e8c",
+      "radius": "0px"
+    }
+  }
+}

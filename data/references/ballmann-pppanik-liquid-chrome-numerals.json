@@ -1,0 +1,55 @@
+{
+  "id": "ballmann-pppanik-liquid-chrome-numerals",
+  "title": "Julia Ballmann, “Pppanik” liquid-chrome numerals",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "The numerals “2009” drawn as melted, iridescent chrome blobs, alone on a black square.",
+  "summary": "“2009” as melted, iridescent liquid chrome on black. Julia Ballmann, Pppanik.",
+  "source": {
+    "url": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+    "label": "AIGA Eye on Design (5 September 2019): “Acid Graphics” Are the New Psychedelia"
+  },
+  "creator": {
+    "name": "Julia Ballmann"
+  },
+  "made": "Not stated. The caption reads “Pppanik, 2009”, and “2009” is also the content of the image, so the year may be the title, not the date.",
+  "moods": [
+    "fluid",
+    "synthetic",
+    "dreamlike"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 px image `Julia-Ballmann-Pppanik-2009.jpg` that [Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) published with the article, in a scratch folder. Not stored. The object is a digital image as the magazine published it, not a named physical copy. The caption reads “Julia Ballmann, Pppanik, 2009”."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "acid-graphics",
+      "note": "Liquid-metal type, the trait that Eye on Design describes as “viscously dripping liquid metal”, here with no other element.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "[Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) shows the image in its 2019 article on acid graphics, with the caption “Julia Ballmann, Pppanik, 2009”."
+  ],
+  "observed": [
+    "Four numerals, “2009”, sit in the middle of a square black ground with nothing else.",
+    "The numerals are tubes of glossy, melted metal. Their outlines wobble like poured liquid, and the counters are irregular.",
+    "The surface reflects white highlights and iridescent violet, blue, cyan, and green, like oil on chrome.",
+    "The first numeral keeps a flat, square-cut edge on one side, so it reads as a melted solid letter rather than a drawn outline."
+  ],
+  "interpretation": [
+    "The image isolates the liquid-chrome lettering of the style. It has no acid green and no layout, so it shows that the metal effect alone can carry the look."
+  ],
+  "borrow": [
+    "Render a short word or number as melted iridescent chrome and give it a whole black field.",
+    "Keep one straight cut edge on a melted letter so that it still reads as type."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is recent and in copyright. The rights holder is the designer or the client."
+  }
+}

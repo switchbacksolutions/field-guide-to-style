@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/utamaro-picture-book-of-selected-insects-1788.jpg",
+  "captured": "2026-10-03T01:45:14+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e7d8b2",
+        "share": 0.534
+      },
+      {
+        "hex": "#d8c8a0",
+        "share": 0.139
+      },
+      {
+        "hex": "#020202",
+        "share": 0.073
+      },
+      {
+        "hex": "#a48e5f",
+        "share": 0.031
+      },
+      {
+        "hex": "#cdb98c",
+        "share": 0.027
+      },
+      {
+        "hex": "#b4a06e",
+        "share": 0.027
+      },
+      {
+        "hex": "#f1e2be",
+        "share": 0.025
+      },
+      {
+        "hex": "#8a7247",
+        "share": 0.025
+      },
+      {
+        "hex": "#a08446",
+        "share": 0.023
+      },
+      {
+        "hex": "#c0ad81",
+        "share": 0.023
+      }
+    ],
+    "background": "#e7d8b2",
+    "chroma": 0.2,
+    "lightness": 0.65,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.35,
+    "distinct": 12,
+    "hues": 1
+  }
+}

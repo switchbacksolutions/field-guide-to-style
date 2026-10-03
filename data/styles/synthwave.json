@@ -131,7 +131,10 @@
     }
   ],
   "synthesis": [
-    "Provisional: no references are recorded yet. The record is written from the sources in the attestation list. The Outrun core is consistent across them: a striped sun, a magenta laser grid, chrome lettering, and cars and palms on a night sky."
+    "The album cover is the core medium. The [GUNSHIP cover](ref:gunship-album-cover-2015) has every Outrun motif in one symmetrical frame: a striped sun, a grid that changes from orange to magenta with depth, a cyan wireframe mountain, a star field, heavy brushed capitals, and a scan-line texture. [Atlas](ref:fm-84-atlas-cover-2016) reduces the scene to the striped sun on a navy starry sky. [Endless Summer](ref:the-midnight-endless-summer-cover-2016) shows the type and surface side: a pink neon-tube script on near-black, with VHS noise and a false “©1984” as accents on a sharp image. Kavinsky’s [OutRun](ref:kavinsky-outrun-cover-2013) is the photographic branch: a Testarossa, a palm, a blue night, and a red brush script, with no grid, sun, or chrome. James White made the GUNSHIP and Atlas artwork and the Blood Dragon box art.",
+    "The open images show the motif set without a product. The [j4p4n banner](ref:j4p4n-synthwave-banner-2018) has a striped sun, a glowing magenta mesh, and a green script word on a flat dark violet ground. The [Chase The Sun still](ref:casqueiro-chase-the-sun-2019) has a cyan wireframe valley that converges on a yellow sun under an indigo-to-magenta sky. [Grauer’s wallpaper](ref:grauer-vaporwave-wallpaper-2018) has the sun and grid on a violet sky, and its author calls it vaporwave. Films and games spread the look but show only parts of it. The [Drive poster](ref:drive-film-poster-2011) has the hot-pink script on a light photograph. The [Kung Fury poster](ref:kung-fury-poster-2015) is a warm painted montage with a sun, lightning, palms, and a Countach. [Blood Dragon](ref:far-cry-3-blood-dragon-2013) has tube-lit interiors with red and cyan colour offsets and scan lines, and [Hotline Miami](ref:hotline-miami-2012) fills whole areas with pink and magenta pixel art. [The Midnight at Brixton](ref:the-midnight-live-brixton-2022) shows the palette as stage light.",
+    "The references disagree with the record in three places. First, the grammar and rubric name chrome lettering, but no observed reference has chrome type: the title type is brush or script in GUNSHIP, OutRun, Kung Fury, Drive, Endless Summer, and the j4p4n banner. Second, the rules forbid offset shadows, but the OutRun and Kung Fury titles have blue offset shadows and the Hotline Miami scores have a dark drop shadow. Third, the rules call for a magenta grid on a black sky, but the Chase The Sun grid is cyan, and the j4p4n and Grauer grounds are violet, not black.",
+    "No website reference exists yet, so none of the CSS markers (`color.gradientShare`, the shadow metrics, `type.centerShare`, and `surface.radius.median`) has a measured reference, and the fingerprint stays specimen-based. The four stored images are measured for colour only, with the same lightness formula as the screenshot metric. All four are lighter than the 0.3 limit for `pixels.lightness`: the j4p4n banner 0.31, Grauer 0.40, Brixton 0.41, and Chase The Sun 0.54. The sun, the glowing grid, and lit haze cover much of these frames. The limit may still hold for web pages that put text on the dark part of the sky, but it does not describe the images."
   ],
   "rubric": {
     "diagnostic": [
@@ -232,5 +235,9 @@
       "max": 4,
       "note": "Panels and buttons are square, like vector-display lines. The specimen measures 0; Googie and Y2K round their corners. Provisional: set from the specimen, recalibrate with measured references."
     }
+  ],
+  "preview": [
+    "j4p4n-synthwave-banner-2018",
+    "casqueiro-chase-the-sun-2019"
   ]
 }

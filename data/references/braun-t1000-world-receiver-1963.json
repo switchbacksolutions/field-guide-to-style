@@ -1,0 +1,60 @@
+{
+  "id": "braun-t1000-world-receiver-1963",
+  "title": "Braun T 1000 world receiver, 1963",
+  "type": "object",
+  "medium": "product",
+  "lede": "Dieter Rams’s portable short-wave radio for Braun: an aluminium case with a perforated speaker panel, a dark tuning scale, and a front flap that holds the manual.",
+  "summary": "Silver aluminium case, finely perforated speaker panel, dense rows of small controls, and one orange button. Rams for Braun, 1961–1963.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O168288/",
+    "label": "Victoria and Albert Museum, W.12:1 to 3-2007"
+  },
+  "creator": {
+    "name": "Dieter Rams, designer; Braun AG, manufacturer"
+  },
+  "made": "1963 (V&A date field); the V&A brief description says 1961",
+  "moods": [
+    "precise",
+    "technical",
+    "rational"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A’s primary image 2007BR3164 of object W.12:1 to 3-2007 at 1067 × 1600 px, through the V&A IIIF service."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ulm-school",
+      "note": "The technical end of the Braun program: an aluminium housing, a perforated panel, controls on a strict grid, and one orange signal.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A dates the object 1963 in its production fields, while its brief description says “West Germany, 1961”. It is an “oblong aluminium radio with drop down flap on the front, revealing dials and controls”, 24.5 × 36.2 × 13.4 cm. [V&A W.12:1 to 3-2007](https://collections.vam.ac.uk/item/O168288/).",
+    "The V&A notes that the complex wavebands needed “a thick user manual, stored in the drop-down cover”, and that the aerials and dials give it “the character of a piece of military or surveillance equipment”. [V&A](https://collections.vam.ac.uk/item/O168288/)."
+  ],
+  "observed": [
+    "The case is matte silver aluminium with slightly rounded vertical edges and a black top strip with a bar handle.",
+    "A tall panel on the left is covered in very fine, regular perforation.",
+    "A black tuning scale fills the upper right with rows of small white numerals. Two large white knobs sit at its right edge, one with a red dot.",
+    "Below, five dark knobs, four toggle switches, and three round sockets line up in three rows. A column of four white round buttons ends in one orange button.",
+    "The open front flap holds the printed manual."
+  ],
+  "interpretation": [
+    "The T 1000 shows that the style can carry dense controls. The density stays calm because every part sits on the same rows and columns and the color is held back."
+  ],
+  "borrow": [
+    "Use a finely perforated panel next to a dense control area to give the eye a rest.",
+    "Put many small controls on a strict grid, and give color to one button only."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Image © Victoria and Albert Museum, London. The V&A allows non-commercial use of its images under its own terms, not an open license. The design is by living or recently deceased designers. No image is stored."
+  },
+  "identifiers": {
+    "vam": "O168288"
+  }
+}

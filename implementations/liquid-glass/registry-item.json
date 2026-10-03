@@ -1,0 +1,36 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "liquid-glass",
+  "type": "registry:theme",
+  "title": "Liquid Glass",
+  "description": "Clear, lensing glass controls that float over edge-to-edge content. Apple’s design language from 2025.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"SF Pro Text\", -apple-system, system-ui, \"Segoe UI Variable Text\", Inter, \"Helvetica Neue\", sans-serif",
+      "font-mono": "\"SF Mono\", ui-monospace, Menlo, \"Cascadia Mono\", monospace",
+      "shadow-sm": "inset 1px 1px 0px 0px #ffffffcc, inset -1px -1px 0px 0px #ffffff59, 0px 4px 14px 0px #0000001f",
+      "shadow-md": "inset 1.5px 1.5px 1px 0px #ffffffd9, inset -1px -1.5px 1px 0px #ffffff66, inset 0px 0px 12px 0px #ffffff40, 0px 10px 30px 0px #00000029"
+    },
+    "light": {
+      "background": "#f2f2f7",
+      "foreground": "#1d1d1f",
+      "card": "#ffffff",
+      "card-foreground": "#1d1d1f",
+      "popover": "#ffffff",
+      "popover-foreground": "#1d1d1f",
+      "primary": "#0a6cff",
+      "primary-foreground": "#ffffff",
+      "secondary": "#ffffff73",
+      "secondary-foreground": "#1d1d1f",
+      "muted": "#f6f6fa",
+      "muted-foreground": "#5e5e66",
+      "accent": "#ff6a3d",
+      "accent-foreground": "#ffffff",
+      "destructive": "#b42318",
+      "border": "#e3e3ea",
+      "input": "#e3e3ea",
+      "ring": "#0a6cff",
+      "radius": "22px"
+    }
+  }
+}

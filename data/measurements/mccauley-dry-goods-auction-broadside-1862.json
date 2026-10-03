@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/mccauley-dry-goods-auction-broadside-1862.jpg",
+  "captured": "2026-10-03T01:54:12+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#cdcdcd",
+        "share": 0.464
+      },
+      {
+        "hex": "#d8d8d8",
+        "share": 0.123
+      },
+      {
+        "hex": "#b4b4b4",
+        "share": 0.067
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.059
+      },
+      {
+        "hex": "#c0c0c0",
+        "share": 0.048
+      },
+      {
+        "hex": "#363636",
+        "share": 0.031
+      },
+      {
+        "hex": "#676767",
+        "share": 0.031
+      },
+      {
+        "hex": "#4d4d4d",
+        "share": 0.03
+      },
+      {
+        "hex": "#212121",
+        "share": 0.03
+      },
+      {
+        "hex": "#0a0a0a",
+        "share": 0.03
+      }
+    ],
+    "background": "#cdcdcd",
+    "chroma": 0.0,
+    "lightness": 0.7,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 13,
+    "hues": 0
+  }
+}

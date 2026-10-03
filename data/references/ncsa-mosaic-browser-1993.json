@@ -1,0 +1,46 @@
+{
+  "id": "ncsa-mosaic-browser-1993",
+  "title": "NCSA Mosaic (web browser)",
+  "type": "product",
+  "medium": "software",
+  "lede": "The 1993 browser that brought pages with inline images, blue underlined links, and a gray page ground to a wide audience.",
+  "summary": "NCSA Mosaic: the default rendering of early web pages, with serif headings and blue underlined links.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:NCSA_Mosaic_Browser_Screenshot.png",
+    "label": "Wikimedia Commons: NCSA Mosaic Browser Screenshot"
+  },
+  "creator": {
+    "name": "National Center for Supercomputing Applications (NCSA), University of Illinois"
+  },
+  "made": "1993 (browser); 2013 (screenshot by Charles Severance)",
+  "moods": [
+    "plain",
+    "utilitarian"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "The Commons screenshot (772 × 668 px, CC0, by Charles Severance, 2013) is below the 800 px threshold for an observed record, so no traits are recorded as observed. The release year comes from general histories and was not checked against an NCSA source."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "brutalist-web-design",
+      "note": "Lineage: an early browser whose default rendering became the look that later brutalist sites copy on purpose.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "This is a lineage reference. Mosaic’s default page ground was gray, not white.",
+  "context": [
+    "The Commons description reads “NCSA Mosaic for X Screenshot”. The license is CC0 for the screenshot, but the browser interface belongs to the University of Illinois, so the image is not stored.",
+    "[NN/g (2017)](ref:nngroup-brutalism-antidesign-article-2017) ties the style to early 1990s websites, which were shaped by browsers of this generation."
+  ],
+  "interpretation": [
+    "A source for the defaults that [Brutalist web design](style:brutalist-web-design) restates: link blue, underlines, bold serif headings, and native gray controls. A larger image is needed to record the traits as observed."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Screenshot CC0 (Charles Severance); the depicted software interface is © University of Illinois. Not stored."
+  }
+}

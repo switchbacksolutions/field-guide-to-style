@@ -1,0 +1,75 @@
+{
+  "id": "kuniyoshi-splendid-view-at-futamigaura-1854",
+  "title": "Kuniyoshi, Splendid View at Futamigaura Bay (triptych)",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "Three sheets form one beach scene: pilgrims and travellers at the Wedded Rocks near Ise, with the sun rising between the rocks, by Utagawa Kuniyoshi.",
+  "summary": "Three-sheet panorama with indigo robes, a bokashi sky, and a red sun. Utagawa Kuniyoshi, 1854.",
+  "source": {
+    "url": "https://clevelandart.org/art/1943.10",
+    "label": "Cleveland Museum of Art, 1943.10"
+  },
+  "creator": {
+    "name": "Utagawa Kuniyoshi"
+  },
+  "made": "1854",
+  "moods": [
+    "lively",
+    "narrative",
+    "bold"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Cleveland Museum of Art print image of the joined triptych 1943.10 (3400 × 1707 px, viewed at 1600 × 803)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ukiyo-e",
+      "note": "A late Edo triptych: dense patterned robes, flat blue sea and sky with bokashi bands, a red sun, and red signature cartouches, across three sheets.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Cleveland catalogues the work as a triptych of color woodblock prints, each sheet 36.9 × 25.4 cm, 1854. [CMA 1943.10](https://clevelandart.org/art/1943.10).",
+    "Cleveland describes a continuous scene of visitors at Futamigaura Bay near Ise Grand Shrine, with the sun rising between the Wedded Rocks joined by a shimenawa rope. [CMA](https://clevelandart.org/art/1943.10)."
+  ],
+  "observed": [
+    "Three vertical sheets join edge to edge. The figures continue across the joins.",
+    "The sky is pale blue with a dark Prussian-blue band at the top and a pink-red glow at the horizon. A flat red sun sits between two dark rocks at left.",
+    "The sea is pale blue-green with white wave crests outlined in blue. The beach in the foreground is flat dark gray-black.",
+    "Robes carry dense patterns in indigo, gray, red, and white: flowers, checks, and wave shapes.",
+    "Red and yellow signature cartouches with seals stand on the dark beach under each sheet’s figures. A red title cartouche is at upper right.",
+    "A dark brown cliff at right is cut by the top and right edges."
+  ],
+  "interpretation": [
+    "By 1854 the palette is denser and more saturated than in Harunobu’s or Utamaro’s prints, but the devices are the same: outline, flat ground, bokashi sky, and cartouches.",
+    "The triptych shows that the style composes across panels without a gutter break."
+  ],
+  "borrow": [
+    "Run one scene across three equal panels and let figures cross the joins.",
+    "Use a dark flat foreground band under busy patterned figures to make them read."
+  ],
+  "images": [
+    {
+      "file": "assets/references/kuniyoshi-splendid-view-at-futamigaura-1854.jpg",
+      "alt": "Color woodblock triptych. Women in indigo and gray patterned kimonos and children on a dark beach in front of a blue sea. At left a red sun rises between two rocks joined by a rope. A palanquin and a brown cliff are at right.",
+      "width": 1600,
+      "height": 803,
+      "kind": "source-image",
+      "caption": "Utagawa Kuniyoshi, Splendid View at Futamigaura Bay, 1854, triptych. [Cleveland Museum of Art 1943.10](https://clevelandart.org/art/1943.10). CC0.",
+      "original": "https://openaccess-cdn.clevelandart.org/1943.10/1943.10_print.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Cleveland Museum of Art open access API gives `share_license_status: CC0` for this object. Kuniyoshi died in 1861, so the work is public domain in Japan and the United States."
+  },
+  "identifiers": {
+    "cleveland": "122833",
+    "accession": "1943.10"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/theatre-royal-birmingham-playbill-1845.jpg",
+  "captured": "2026-10-03T01:55:53+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#d0beb1",
+        "share": 0.302
+      },
+      {
+        "hex": "#c4b3a6",
+        "share": 0.183
+      },
+      {
+        "hex": "#988677",
+        "share": 0.123
+      },
+      {
+        "hex": "#b2a090",
+        "share": 0.119
+      },
+      {
+        "hex": "#a69484",
+        "share": 0.098
+      },
+      {
+        "hex": "#e1cec4",
+        "share": 0.065
+      },
+      {
+        "hex": "#4e403b",
+        "share": 0.026
+      },
+      {
+        "hex": "#827164",
+        "share": 0.024
+      },
+      {
+        "hex": "#605149",
+        "share": 0.022
+      },
+      {
+        "hex": "#726258",
+        "share": 0.019
+      }
+    ],
+    "background": "#d0beb1",
+    "chroma": 0.12,
+    "lightness": 0.65,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 9,
+    "hues": 0
+  }
+}

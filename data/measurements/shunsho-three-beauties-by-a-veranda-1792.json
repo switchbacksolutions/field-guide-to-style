@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/shunsho-three-beauties-by-a-veranda-1792.jpg",
+  "captured": "2026-10-03T01:44:31+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#dbbc85",
+        "share": 0.137
+      },
+      {
+        "hex": "#a58152",
+        "share": 0.121
+      },
+      {
+        "hex": "#8e7a5e",
+        "share": 0.101
+      },
+      {
+        "hex": "#cdac79",
+        "share": 0.09
+      },
+      {
+        "hex": "#46655b",
+        "share": 0.044
+      },
+      {
+        "hex": "#856d51",
+        "share": 0.041
+      },
+      {
+        "hex": "#d0bf98",
+        "share": 0.036
+      },
+      {
+        "hex": "#37574f",
+        "share": 0.036
+      },
+      {
+        "hex": "#6f6f5a",
+        "share": 0.035
+      },
+      {
+        "hex": "#5a6353",
+        "share": 0.035
+      }
+    ],
+    "background": "#dbbc85",
+    "chroma": 0.21,
+    "lightness": 0.49,
+    "chromaticShare": 0.36,
+    "accentChroma": 0.34,
+    "distinct": 19,
+    "hues": 2
+  }
+}

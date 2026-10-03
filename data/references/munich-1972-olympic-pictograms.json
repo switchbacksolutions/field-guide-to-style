@@ -30,6 +30,12 @@
       "note": "Aicher applied the style’s grid and objectivity to a wayfinding system; the pictograms are geometry on a fixed angular grid, without illustration.",
       "basis": "agent",
       "qualifier": "German extension"
+    },
+    {
+      "id": "ulm-school",
+      "note": "Partial fit: Aicher’s work, which belongs to the graphic branch of the style.",
+      "basis": "agent",
+      "qualifier": "partial fit"
     }
   ],
   "context": [

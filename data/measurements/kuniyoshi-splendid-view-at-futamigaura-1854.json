@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/kuniyoshi-splendid-view-at-futamigaura-1854.jpg",
+  "captured": "2026-10-03T01:46:15+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#8f9b8d",
+        "share": 0.134
+      },
+      {
+        "hex": "#484540",
+        "share": 0.126
+      },
+      {
+        "hex": "#38332f",
+        "share": 0.095
+      },
+      {
+        "hex": "#c7b69a",
+        "share": 0.052
+      },
+      {
+        "hex": "#d5c3a6",
+        "share": 0.046
+      },
+      {
+        "hex": "#656058",
+        "share": 0.039
+      },
+      {
+        "hex": "#f4f0e5",
+        "share": 0.038
+      },
+      {
+        "hex": "#726e65",
+        "share": 0.038
+      },
+      {
+        "hex": "#b2aa95",
+        "share": 0.035
+      },
+      {
+        "hex": "#57514b",
+        "share": 0.035
+      }
+    ],
+    "background": "#8f9b8d",
+    "chroma": 0.09,
+    "lightness": 0.44,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.37,
+    "distinct": 18,
+    "hues": 1
+  }
+}

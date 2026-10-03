@@ -1,0 +1,76 @@
+{
+  "id": "theatre-royal-birmingham-playbill-1845",
+  "title": "Theatre Royal, Birmingham, playbill for *The Dragon of Wantley* pantomime",
+  "titleBreak": "Theatre Royal, Birmingham,|pantomime playbill, 1845",
+  "type": "print",
+  "medium": "poster",
+  "lede": "An English Christmas pantomime playbill for New Year’s Day 1845, with condensed and fat display lines above a dense cast list braced and dotted in many small faces.",
+  "summary": "British theatre playbill with very condensed display lines, fat slabs, braces, and dotted leaders. Birmingham, 1845.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Theatre_Royal_Birmingham_-_playbill_-_1844.jpg",
+    "label": "Wikimedia Commons: Theatre Royal Birmingham – playbill – 1844"
+  },
+  "creator": {
+    "name": "Unknown printer"
+  },
+  "made": "1845 (dated on the bill: Wednesday, January 1, 1845; Commons gives 1844)",
+  "moods": [
+    "theatrical",
+    "busy",
+    "festive"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1280 × 2157 px Commons thumbnail, because the full-size original (1216 × 2049 px according to Commons) returned HTTP 429. The thumbnail is slightly upscaled from that original. Commons gives a blog post as source; the holding collection of the physical bill is not named, so the copy is unidentified."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "victorian-typography",
+      "note": "A British playbill in full Victorian form: centred display lines in condensed and fat faces, many sizes, rules, braces, and dotted leaders.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes the file as a playbill from the [Theatre Royal, Birmingham](https://en.wikipedia.org/wiki/Theatre_Royal,_Birmingham), dated 1844, author anonymous, source [The Iron Room](https://theironroom.wordpress.com/2017/01/01/its-behind-you/), and tags it {{PD-anon-70-EU}}.",
+    "The bill itself announces the play *Foundling of the Forest* and the Christmas pantomime *The Dragon of Wantley! or, Harlequin Knight and the Fire King of the Burning Isle!* for Wednesday, 1 January 1845, “produced under the immediate direction” of Mr. J. Ridgway."
+  ],
+  "observed": [
+    "“CONTINUED SUCCESS!” uses two faces in one line: a very condensed roman for “CONTINUED” and a fat condensed slab for “SUCCESS!”.",
+    "“DRAGON OF WANTLEY!” is the largest line, in a very condensed heavy roman, with “OF” stacked small between the two words. “FOUNDLING OF THE FOREST!” repeats the trick with “OF THE”.",
+    "“WEDNESDAY, JANUARY 1, 1845,” is set in a wide, letterspaced fat face.",
+    "“THE VAULTED CHAMBER OF GIGANTIC CYCLOPS!” runs full width in a condensed sans-serif capital.",
+    "The cast list fills most of the sheet: dotted leaders join roles to actors, and curly braces group several roles to one description.",
+    "Wide sans-serif, bold roman, italic, small capitals, and an outline letter (“GRAND AUDIENCE CHAMBER”) appear in the small lines.",
+    "Thin rules divide the sections. Black ink on off-white paper, with show-through and creases."
+  ],
+  "interpretation": [
+    "The British playbill packs more text than the American poster. The display lines act as signposts in a dense page of small type, which is the pattern Meggs’s phrase about every inch of space describes.",
+    "Stacking a small “OF” between two big words is a typical device of the condensed theatre line."
+  ],
+  "borrow": [
+    "Stack small joining words between two large words in one line.",
+    "Use braces and dotted leaders to organise a dense list without a table."
+  ],
+  "images": [
+    {
+      "file": "assets/references/theatre-royal-birmingham-playbill-1845.jpg",
+      "alt": "Long black-and-white playbill with centred lines: Theatre Royal, Birmingham, Continued Success!, Wednesday January 1 1845, Foundling of the Forest!, and very large condensed letters reading Dragon of Wantley!, above a dense cast list with dotted leaders and braces.",
+      "width": 949,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Theatre Royal, Birmingham, playbill for 1 January 1845. Anonymous, through [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theatre_Royal_Birmingham_-_playbill_-_1844.jpg) (1280 px thumbnail). Public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/Theatre_Royal_Birmingham_-_playbill_-_1844.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons tags the file {{PD-anon-70-EU}}: an anonymous work published more than 70 years ago. The bill was published in England in 1845, so it is also in the public domain in the United States."
+  },
+  "identifiers": {
+    "commons": "File:Theatre Royal Birmingham - playbill - 1844.jpg"
+  }
+}

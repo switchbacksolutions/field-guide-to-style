@@ -1,0 +1,161 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/victorian-typography/index.html",
+  "title": "Victorian typography specimen · A Field Guide to Style",
+  "captured": "2026-10-03T01:36:50.816Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Century Schoolbook",
+        "share": 0.41
+      },
+      {
+        "family": "Haettenschweiler",
+        "share": 0.21
+      },
+      {
+        "family": "Rockwell Extra Bold",
+        "share": 0.19
+      },
+      {
+        "family": "Bodoni Poster",
+        "share": 0.1
+      },
+      {
+        "family": "Courier New",
+        "share": 0.04
+      },
+      {
+        "family": "Playbill",
+        "share": 0.04
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 144,
+    "sizeRange": 8.47,
+    "scaleRatio": 1.36,
+    "headingWeight": 900,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.59,
+    "monoShare": 0.04,
+    "centerShare": 1
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#efe4cc",
+        "share": 0.595
+      },
+      {
+        "hex": "#e3d3b0",
+        "share": 0.208
+      },
+      {
+        "hex": "#1b1712",
+        "share": 0.163
+      },
+      {
+        "hex": "#b3261e",
+        "share": 0.016
+      },
+      {
+        "hex": "#f6eedb",
+        "share": 0.014
+      },
+      {
+        "hex": "#4b4236",
+        "share": 0.004
+      }
+    ],
+    "background": "#efe4cc",
+    "text": "#1b1712",
+    "contrast": 14.1,
+    "chroma": 0.14,
+    "lightness": 0.72,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.58,
+    "distinct": 3,
+    "hues": 1,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 42,
+    "radius": {
+      "median": 0,
+      "max": 0,
+      "roundShare": 0
+    },
+    "border": {
+      "share": 1,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#efe5cc",
+        "share": 0.622
+      },
+      {
+        "hex": "#e3d3b1",
+        "share": 0.229
+      },
+      {
+        "hex": "#1b1813",
+        "share": 0.036
+      },
+      {
+        "hex": "#cbbfaa",
+        "share": 0.031
+      },
+      {
+        "hex": "#807969",
+        "share": 0.019
+      },
+      {
+        "hex": "#bcb3a0",
+        "share": 0.013
+      },
+      {
+        "hex": "#aca290",
+        "share": 0.012
+      },
+      {
+        "hex": "#af271f",
+        "share": 0.01
+      },
+      {
+        "hex": "#958b7c",
+        "share": 0.009
+      },
+      {
+        "hex": "#3b362d",
+        "share": 0.007
+      }
+    ],
+    "background": "#efe5cc",
+    "chroma": 0.15,
+    "lightness": 0.79,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.49,
+    "distinct": 4,
+    "hues": 1
+  }
+}

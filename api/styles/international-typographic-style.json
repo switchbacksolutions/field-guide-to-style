@@ -637,6 +637,18 @@
       "source": "https://www.zhdk.ch/en",
       "image": "assets/references/zhdk-website.jpg",
       "measurement": "data/measurements/zhdk-website.json"
+    },
+    {
+      "id": "ulm-journal-hfg-1958-1968",
+      "title": "“ulm”, journal of the Hochschule für Gestaltung, 1958–1968",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: flush-left grotesque and column grids, used with Ulm’s lowercase and very small text.",
+      "page": "references/ulm-journal-hfg-1958-1968.html",
+      "source": "https://global.museum-digital.org/object/2088573",
+      "image": null,
+      "measurement": null
     }
   ]
 }

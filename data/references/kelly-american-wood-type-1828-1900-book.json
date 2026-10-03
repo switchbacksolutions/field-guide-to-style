@@ -1,0 +1,53 @@
+{
+  "id": "kelly-american-wood-type-1828-1900-book",
+  "title": "Rob Roy Kelly, *American Wood Type, 1828–1900*",
+  "type": "print",
+  "medium": "book",
+  "lede": "The 1969 survey that catalogued nineteenth-century American wood type styles from printers’ stock and specimen books, and the main source for later digital revivals.",
+  "summary": "Rob Roy Kelly’s 1969 history and catalogue of American wood type. Reference work, not a period object.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Rob_Roy_Kelly",
+    "label": "Wikipedia: Rob Roy Kelly"
+  },
+  "creator": {
+    "name": "Rob Roy Kelly",
+    "url": "https://www.wikidata.org/wiki/Q66012999"
+  },
+  "made": "1969",
+  "moods": [
+    "scholarly",
+    "nostalgic"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Documented from the Wikipedia articles “Rob Roy Kelly” and “Wood type”. I did not open a copy or an image of the book, so this record states nothing about its appearance."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "victorian-typography",
+      "note": "The standard reference on the wood type faces of the style. It documents the style; it is not an example of it.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia says Kelly was a design educator and a collector and scholar of wood type, that he wrote *American Wood Type, 1828–1900* (1969), and that his wood type collection is now at the University of Texas. [Wikipedia: Rob Roy Kelly](https://en.wikipedia.org/wiki/Rob_Roy_Kelly).",
+    "Wikipedia (Wood type) says Kelly built his collection from old print shops and printers’ families in the 1950s, judged that the aesthetic quality of wood type declined in the twentieth century, and that Adobe drew a series of wood type revivals in the early 1990s from proofs he supplied. [Wikipedia: Wood type](https://en.wikipedia.org/wiki/Wood_type)."
+  ],
+  "interpretation": [
+    "The dates in the title, 1828 to 1900, match the core of this style. Kelly’s judgement that the craft declined after 1900 supports ending the core era before the twentieth century."
+  ],
+  "borrow": [
+    "Use Kelly’s genre names (Antique, French Clarendon, Tuscan, Gothic, Grecian) as the vocabulary when choosing display faces for this style."
+  ],
+  "next": [
+    "Open a library copy and record its plates, or link the University of Texas collection record."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The book is in copyright. No image is stored."
+  },
+  "identifiers": {}
+}

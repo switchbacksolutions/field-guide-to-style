@@ -1,0 +1,59 @@
+{
+  "id": "rudnick-turbo-warehouse-series-sei-a-poster",
+  "title": "David Rudnick, Turbo Warehouse Series poster for Sei A",
+  "type": "print",
+  "medium": "poster",
+  "lede": "An acid-green record poster packed with black panels, sliced italic capitals, a barcode, a woodcut, and a track list, like a 1990s rave flyer.",
+  "summary": "Acid green and black, sliced italic “REAL E$TATE” and “TURBO”, barcode, dense panels. David Rudnick, Turbo 151, before September 2016.",
+  "source": {
+    "url": "https://eyeondesign.aiga.org/david-rudnicks-portfolio-is-a-codex-for-electronic-music-design/",
+    "label": "AIGA Eye on Design (5 September 2016): David Rudnick’s Portfolio is a Codex for Electronic Music Design"
+  },
+  "creator": {
+    "name": "David Rudnick"
+  },
+  "made": "Before September 2016 (the article does not date it)",
+  "moods": [
+    "loud",
+    "ironic",
+    "dense",
+    "hedonistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 900 × 1336 px image `SeiAPoster.png` that [Eye on Design](https://eyeondesign.aiga.org/david-rudnicks-portfolio-is-a-codex-for-electronic-music-design/) published, in a scratch folder. Not stored. The object is a digital image of the poster as the magazine published it."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "acid-graphics",
+      "note": "The flyer side of the style at full strength: one acid green with black, horror vacui, mixed display faces, and sliced, slanted capitals. It has no chrome.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "[Eye on Design](https://eyeondesign.aiga.org/david-rudnicks-portfolio-is-a-codex-for-electronic-music-design/) (Emily Gosling, 5 September 2016) shows this image among works captioned “David Rudnick, Turbo Warehouse Series”. It says that Rudnick “mainly designs for electronic music clients, creating posters and sleeve designs”, and names the record label Turbo among his partners.",
+    "The poster text names Turbo 151, the Warehouse Series, the artist Sei A, and three tracks: “Blades of Brazil”, “Swoon”, and “Made of Something”."
+  ],
+  "observed": [
+    "The whole sheet is a flat acid green, framed by a black border.",
+    "Black panels of different sizes tile the sheet edge to edge, like a flyer or a cereal box.",
+    "“REAL E$TATE” and “TURBO” are set in very heavy, slanted capitals that are sliced through by thin horizontal cuts.",
+    "Other lines use a heavy grotesque (“Warehouse Series”), a thin wide sans (“SEI-A”), a squared techno face (the track list), and a condensed italic.",
+    "A barcode, small triangle arrows, stars, and a black-and-green woodcut of robed figures fill the side panels.",
+    "Small ironic texts, such as “THE HEAVY-HEAVY SOUND OF PROPERTY SPECULATION”, sit between the large words."
+  ],
+  "interpretation": [
+    "This is the rave-flyer root of the style, redrawn with a cynical text about property and clubs. It shows the acid green, the density, and the mixed display faces. It does not show the chrome type, so it marks the flyer side of the core."
+  ],
+  "borrow": [
+    "Tile the page edge to edge with black panels on one acid green, and give each panel one job.",
+    "Slice heavy italic capitals with thin horizontal cuts for speed."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is recent and in copyright (David Rudnick and Turbo Recordings)."
+  }
+}

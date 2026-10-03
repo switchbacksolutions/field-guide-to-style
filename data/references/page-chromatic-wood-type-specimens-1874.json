@@ -1,0 +1,86 @@
+{
+  "id": "page-chromatic-wood-type-specimens-1874",
+  "title": "Wm. H. Page & Co., *Specimens of Chromatic Wood Type, Borders, &c.*",
+  "titleBreak": "Wm. H. Page & Co.,|*Specimens of Chromatic Wood Type*",
+  "type": "print",
+  "medium": "type-specimen",
+  "lede": "The 1874 colour specimen book of the largest American wood type maker of its day, showing Tuscan, pointed, and shaded letters cut as separate blocks for each ink.",
+  "summary": "Wood type specimen sheets with chromatic Tuscan and paneled gothic letters in ornament borders. Greeneville, Connecticut, 1874.",
+  "source": {
+    "url": "https://archive.org/details/ldpd_10147342_000",
+    "label": "Internet Archive (Columbia University Libraries): Specimens of chromatic wood type, borders, etc."
+  },
+  "creator": {
+    "name": "Wm. H. Page & Co."
+  },
+  "made": "1874",
+  "moods": [
+    "showy",
+    "festive",
+    "crafted"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected two plates through Commons copies of photographs by Flickr user CircaSassy (818 × 1100 px each): [Tuscan plate](https://commons.wikimedia.org/wiki/File:Pointed_and_Tuscan_wood_type,_Wm._H._Page_%26_Co.,_1874_specimen.jpg) and [paneled gothic plate](https://commons.wikimedia.org/wiki/File:Specimens_of_chromatic_wood_type,_borders,_etc._manufactured_by_Wm._H._Page_%26_Co._by_Wm._H._Page_%26_Co._Published_1874.jpg). The uploader names the Columbia scan as the source. I read the Internet Archive metadata, not the scan itself."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "victorian-typography",
+      "note": "The supply side of the style: the Tuscan, pointed, and shaded display letters that printers bought for posters. Partial fit: the chromatic colours are richer than most bills, which print in black and one ink.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Internet Archive record gives the title, Greeneville, Connecticut, 1874, [98] leaves of colour illustrations, 47 cm, contributed by Columbia University Libraries, with the rights note “Digital version available with no restrictions.” [archive.org](https://archive.org/details/ldpd_10147342_000).",
+    "Wikipedia says William H. Page was one of the larger wood type makers until the 1880s, and that wood type came in widths from condensed to ultra-wide. [Wikipedia: Wood type](https://en.wikipedia.org/wiki/Wood_type).",
+    "Each plate gives the type’s size in “lines” (picas) and its price per letter “each color”, and is “Printed with Wade’s Inks, from H. D. Wade & Co., 50 Ann St., New York.”"
+  ],
+  "observed": [
+    "Tuscan plate: the words MATCH, ROSE, and SIGN in light blue letters with white outlines on ochre panels with notched ends. The letters have pointed spurs and, in SIGN, forked Tuscan serifs.",
+    "Tuscan plate: a pink and black chain border with interlaced corner pieces frames the page.",
+    "Paneled plate: RIND and USE in green capitals with a white inline, a black outline, and a deep red three-dimensional shade, in two sizes.",
+    "Paneled plate: a red border of repeated heart-shaped ornaments inside a gold scroll border.",
+    "Small centred lines of roman text name each face, its size in lines, its class, and its price.",
+    "The maker’s name at the top is set in a shaded slab with a drop shadow."
+  ],
+  "interpretation": [
+    "The book shows how printers got colour and depth from letterpress: separate wood blocks for the face, the outline, and the shade, printed one ink at a time.",
+    "Its letters are the vocabulary of the late wood type poster. The chromatic sets were the expensive end of a range that most country printers used in black."
+  ],
+  "borrow": [
+    "Build a display letter from layers: a fill, a contrasting inline, and an offset shade in a third colour.",
+    "Frame a page with a repeating border and separate corner pieces."
+  ],
+  "images": [
+    {
+      "file": "assets/references/page-chromatic-wood-type-specimens-1874.jpg",
+      "alt": "Specimen plate with a pink chain border. The words Match, Rose, and Sign in light blue Tuscan and pointed letters with white outlines sit on ochre panels with notched ends, with small captions naming each typeface.",
+      "width": 818,
+      "height": 1100,
+      "kind": "source-image",
+      "caption": "Wm. H. Page & Co., plate of chromatic streamer gothic pointed and antique Tuscan types, 1874. Photograph by CircaSassy, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), through [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pointed_and_Tuscan_wood_type,_Wm._H._Page_%26_Co.,_1874_specimen.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Pointed_and_Tuscan_wood_type%2C_Wm._H._Page_%26_Co.%2C_1874_specimen.jpg",
+      "saved": "2026-10-02"
+    },
+    {
+      "file": "assets/references/page-chromatic-wood-type-specimens-1874-paneled.jpg",
+      "alt": "Specimen plate with a red and gold ornament border. The words Rind and Use in large green capitals with white inline, black outline, and a deep red three-dimensional shade.",
+      "width": 818,
+      "height": 1100,
+      "kind": "source-image",
+      "caption": "Wm. H. Page & Co., plate of chromatic gothic paneled No. 2, 1874. Photograph by CircaSassy, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), through [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Specimens_of_chromatic_wood_type,_borders,_etc._manufactured_by_Wm._H._Page_%26_Co._by_Wm._H._Page_%26_Co._Published_1874.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/29/Specimens_of_chromatic_wood_type%2C_borders%2C_etc._manufactured_by_Wm._H._Page_%26_Co._by_Wm._H._Page_%26_Co._Published_1874.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-2.0",
+    "statement": "Commons licenses both photographs CC BY 2.0, credit CircaSassy (Flickr). The book was published in the United States in 1874 and is in the public domain; the Columbia scan is marked “Digital version available with no restrictions.”"
+  },
+  "identifiers": {
+    "archive": "ldpd_10147342_000"
+  }
+}

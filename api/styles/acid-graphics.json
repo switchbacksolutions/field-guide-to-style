@@ -1,0 +1,753 @@
+{
+  "id": "acid-graphics",
+  "title": "Acid graphics",
+  "order": 42,
+  "status": "draft",
+  "naming": "internet-aesthetic",
+  "aliases": [
+    "Acidgrafix",
+    "Acid design",
+    "Neu-Grunge",
+    "Chrome type"
+  ],
+  "summary": "Liquid-chrome lettering and warped or blackletter type on black, often with acid green, packed like a rave flyer.",
+  "lede": "A graphic trend of the mid-2010s onward, spread through Instagram, club posters, and record sleeves: chrome and liquid-metal lettering, warped, stretched, spiky, or blackletter type, wireframes and 3D renders, and dense compositions that borrow from 1990s rave flyers, often with a great deal of acid green. AIGA Eye on Design called it “acid graphics” in 2019. The Consumer Aesthetics Research Institute (CARI) lists it as Acidgrafix, also called Neu-Grunge. The name is loose: the works that Eye on Design shows also include flat-color blackletter posters and photo collages. This record covers the chrome-type core that CARI names. Flat-color club posters, the 1970s desert-sky branch, “Y3K” fashion chrome, and the rough “New Ugly” trend are related looks, not the core.",
+  "moods": [
+    "dystopian",
+    "hedonistic",
+    "cynical",
+    "loud",
+    "nocturnal",
+    "futuristic",
+    "underground"
+  ],
+  "era": {
+    "from": 2014,
+    "note": "CARI gives the period of relevance as “mid 2010s – present”. AIGA Eye on Design described the trend on 5 September 2019 and linked it to the Instagram account @acidgraphix. The start year is approximate."
+  },
+  "regions": [
+    "Europe",
+    "United States",
+    "International"
+  ],
+  "identifiers": {},
+  "attestation": [
+    {
+      "label": "AIGA Eye on Design, Emily Gosling (5 September 2019): “Acid Graphics” Are the New Psychedelia—With a Heady Dose of Cynicism",
+      "url": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Consumer Aesthetics Research Institute: Acidgrafix",
+      "url": "https://cari.institute/aesthetics/acidgrafix",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "revival-of",
+      "label": "Acid house and rave flyer graphics",
+      "wikidata": "Q341364",
+      "note": "Eye on Design says the trend grows out of 1990s rave flyers and nightclub posters, and mixes “super organic forms” and “crazy lettering” with a “heavy metal aesthetic”. The Wikidata item is the acid house music genre, not its graphics."
+    },
+    {
+      "relation": "related-to",
+      "style": "psychedelic-art",
+      "note": "Eye on Design calls acid graphics “the new psychedelia”, with a more cynical tone. Both warp lettering until it becomes image. Psychedelic posters use flat complementary inks and hand drawing. Acid graphics use digital chrome and one acid green."
+    },
+    {
+      "relation": "related-to",
+      "style": "grunge-typography",
+      "note": "CARI gives “Neu-Grunge” as an alternate name and describes the look as “Instagram grunge”: rule-bending and full of horror vacui. The grunge look of the 1990s damages letters with photocopy dirt. Acid graphics distorts them digitally and keeps the surfaces glossy."
+    },
+    {
+      "relation": "related-to",
+      "style": "op-art",
+      "note": "Eye on Design lists “op-art-esque patterns” such as warped checkerboards and stripes among the traits."
+    },
+    {
+      "relation": "related-to",
+      "style": "y2k",
+      "note": "Both use chrome lettering and 3D renders. This is our reading of the shared motifs, not a source claim. Y2K is sincere, bright, rounded, and candy-colored. Acid graphics is dark, sharp, and ironic."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "type",
+      "term": "Liquid chrome lettering.",
+      "text": "Display words look cast in polished metal: gray-to-white gradients with a hard dark band at the horizon line, highlights, and drips or melted edges. Eye on Design: type that “takes on the appearance of viscously dripping liquid metal”."
+    },
+    {
+      "facet": "type",
+      "term": "Warped, stretched, and blackletter type.",
+      "text": "Letters are stretched very wide or very tall, mirrored, set on curves, or bent through a mesh. Spiky blackletter and sharp, thorny custom letterforms are common. Eye on Design: type that is “warped, back to front, upside down”."
+    },
+    {
+      "facet": "color",
+      "term": "Black, chrome, and one hot accent.",
+      "text": "The ground is usually black or near-black. One very saturated accent, most often acid or lime green, sits against the grays of the chrome. Eye on Design: “there's a hell of a lot of neon green”. In the works it shows, some posters use orange, red, or lilac instead, so treat green as typical, not required."
+    },
+    {
+      "facet": "layout",
+      "term": "Rave-flyer density.",
+      "text": "Huge display words next to very small text: line-ups, dates, credits, and logos packed into the margins. CARI calls it “full of horror vacui”. Elements run to the edges and overlap."
+    },
+    {
+      "facet": "imagery",
+      "term": "Wireframes and 3D renders.",
+      "text": "Wireframe grids and globes, warped meshes, chrome blobs, sci-fi symbols, smileys, and other rave icons. Op-art checkerboards and stripes bend in perspective."
+    },
+    {
+      "facet": "surface",
+      "term": "Digital gloss, not dirt.",
+      "text": "Surfaces are rendered, glossy, iridescent, or metallic. CARI notes “oddball textures”, but they are digital: noise, scans, or liquid effects, not photocopy grime."
+    },
+    {
+      "facet": "structure",
+      "term": "Sharp and spiky.",
+      "text": "Corners are square or cut to points. Thorny, tribal-tattoo-like shapes and stars with long spikes frame the type. There are almost no rounded capsules."
+    },
+    {
+      "facet": "motion",
+      "term": "Liquid and looping.",
+      "text": "On screens, chrome ripples and drips, meshes rotate, and type stretches in short loops, as in music visualizers and Instagram posts."
+    }
+  ],
+  "synthesis": [
+    "Digital images made for screens carry the chrome core. Julia Ballmann’s [Pppanik numerals](ref:ballmann-pppanik-liquid-chrome-numerals) show the liquid-metal lettering alone: melted, iridescent “2009” on black, with no layout and no green. Jonathan Castro’s [Skechers China lettering](ref:castro-skechers-china-chrome-lettering) is the most concentrated example: bevelled chrome letters with thorny spurs, acid yellow-green streaks, and glows on black. Jack Smith and Jeremy Rieger’s [Lotus](ref:smith-rieger-lotus-artwork) adds melted display letters, op-art rings, and horror vacui on a scratched black ground. Most of these works come from the Eye on Design article of 2019, and two are captioned as featured on @acidgraphix.",
+    "Print shows the flyer side. David Rudnick’s [Sei A poster](ref:rudnick-turbo-warehouse-series-sei-a-poster) has the acid green, the edge-to-edge panels, and sliced, slanted capitals, but no chrome. His [Turbo sleeve](ref:rudnick-turbo-warehouse-series-sleeve) packs at least six display faces and a rendered liquid-metal texture onto a pale pink insert. Anja Kaiser’s Leipzig posters, [Cry Baby](ref:kaiser-cry-baby-poster) and [Balance presents Siren](ref:kaiser-balance-siren-poster-2017), set blackletter against stretched grotesques in flat orange, black, and lilac. [Studio Cryo’s Cross Club poster](ref:studio-cryo-drumstation-eternia-poster-2018) and Darren Oorloff’s [Pure Romance](ref:oorloff-pleasure-planet-pure-romance) show the rendered-object and op-art side: clear plastic, smoke, drips, chrome heads, and warped checkerboards. Three typefaces supply letterforms: [Hyper Scrypt](ref:hyper-scrypt-typeface-2018) and [Pilowlava](ref:pilowlava-typeface-2019) are free but flat, and the commercial [Acid Font](ref:asdf-graphics-acid-font) uses the trend name as a label, in acid yellow-green on black without chrome.",
+    "The references do not support the color rule as strictly as the grammar states it. Acid green or yellow-green is the main accent in only three of the ten colored works (Castro, Rudnick’s Sei A, and the Acid Font), and Sei A puts it on the whole sheet, not on a black ground. The other works use violet (Lotus), pink and red (Pure Romance, the Turbo sleeve), orange and red (Cry Baby, Studio Cryo), or lilac (Siren). Chrome or melted-metal lettering is clear in only three works (Pppanik, Castro, Lotus). The black ground is more constant: five works use a black or near-black ground (Pppanik, Castro, Lotus, Studio Cryo, the Acid Font). Interpretation: chrome on black is the core, and green is typical, not diagnostic. A curator must decide whether the Kaiser and Rudnick prints stay as partial fits of this record or move to a separate club-poster branch.",
+    "No reference has a stored image, and no reference or website is measured. The fingerprint comes only from the specimen, which measures 16.67 for `type.sizeRange`, 0.53 for `surface.gradientShare`, 0.08 for `pixels.lightness`, 1 for `color.hues`, 0 for `surface.radius.median`, and 0.02 for `type.monoShare`. The references cannot test these numbers. Interpretation from the observations alone: the `color.hues` maximum of 2 would probably fail Castro’s multicolored glows and Ballmann’s iridescent chrome, and the `pixels.lightness` maximum of 0.2 would probably fail the acid-green sheet of Sei A and the lilac ground of Siren. Treat the fingerprint as provisional until website examples are captured, and judge the print and image references by the rubric."
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Display lettering looks like polished chrome or liquid metal.",
+      "A black or near-black ground with one very bright accent, most often acid or lime green.",
+      "Type is stretched, mirrored, spiky, warped through a mesh, or set in blackletter.",
+      "Wireframe grids, globes, warped meshes, or op-art checkerboards and rays.",
+      "Very large display words next to very small, dense text, like a club flyer."
+    ],
+    "counter": [
+      "A light or white ground with rounded candy-plastic shapes: that is Y2K.",
+      "Photocopy dirt, eroded letters, and muddy browns or olives: that is grunge typography.",
+      "Monospace terminal text, HUD frames, and a cyan and magenta night city: that is cyberpunk.",
+      "A striped sunset over a magenta laser grid: that is synthwave.",
+      "Clumsy, amateur-looking marks, default fonts, and flat color with no chrome: that is the “New Ugly” or anti-design branch."
+    ],
+    "confusions": [
+      {
+        "with": "y2k",
+        "difference": "Both use chrome lettering. Y2K is optimistic and light: silver and white grounds, candy colors, rounded blobs, and wide techno type. Acid graphics is black, sharp, and cynical, with one acid green and warped or blackletter type."
+      },
+      {
+        "with": "grunge-typography",
+        "difference": "Both break rules and fill the page. Grunge damages letters with photocopy dirt and tape, in muddy colors. Acid graphics distorts letters digitally and keeps them clean and glossy, in chrome and a bright acid green."
+      },
+      {
+        "with": "cyberpunk",
+        "difference": "Both are dark and futuristic. Cyberpunk lights a night city with cyan and magenta neon, and uses monospace terminal text and HUD frames. Acid graphics has no terminal text and no city: it uses chrome display type, acid green, and wireframes."
+      },
+      {
+        "with": "synthwave",
+        "difference": "Both put chrome type on black. Synthwave chrome is a 1980s logotype over a striped sunset and a magenta grid horizon, and it is nostalgic. Acid graphics has no sunset and no 1980s cars. Its chrome melts, and its type is warped or blackletter."
+      },
+      {
+        "with": "psychedelic-art",
+        "difference": "Eye on Design calls acid graphics the new psychedelia. The 1960s posters use flat, vibrating complementary inks and hand-drawn swelling letters. Acid graphics is digital, with chrome renders, black grounds, and one acid green."
+      },
+      {
+        "with": "New Ugly",
+        "difference": "Writers apply “New Ugly” to intentionally clumsy, amateur-looking design, for example in Chinese graphic design. It uses rough marks and default tools, without chrome or acid green. It is a separate trend."
+      },
+      {
+        "with": "Y3K",
+        "difference": "“Y3K” is mostly a fashion, beauty, and interior label for chrome and metallic finishes. It has no stable graphic core and no design-press definition that we found."
+      },
+      {
+        "with": "Experimental club posters",
+        "difference": "Many club posters of the same years mix blackletter, stretched grotesques, and op-art rays in flat color on light grounds, for example Anja Kaiser’s Leipzig posters. Eye on Design includes them under acid graphics. Without chrome or rendered metal, treat them as a related branch."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a black or near-black ground. Use one hot accent, typically acid green, for accents, links, and actions.",
+      "Set the main display words in a chrome effect: a gray-to-white gradient with a hard dark band near the middle, clipped to the text.",
+      "Make the display words very large, and the supporting text small and dense, like a flyer line-up.",
+      "Stretch, skew, or mirror the display type with transforms, or use a blackletter face. Keep the body text in a plain, legible sans-serif.",
+      "Add a wireframe grid or mesh as a pattern on a real element behind the content.",
+      "Keep corners square or cut to points."
+    ],
+    "dont": [
+      "Do not round corners or use pill buttons. They read as Y2K.",
+      "Do not use cyan and magenta neon with monospace HUD labels. They read as cyberpunk.",
+      "Do not add a striped sunset or a grid horizon. They read as synthwave.",
+      "Do not put body text in chrome or in acid green on chrome. Keep it in a light gray with a contrast ratio of at least 7:1.",
+      "Do not mirror or warp text that people must read to act, such as prices, dates, and form labels.",
+      "Do not animate chrome or meshes continuously. Respect prefers-reduced-motion."
+    ],
+    "uses": [
+      "Club nights, raves, and electronic music festivals",
+      "Record labels, album covers, and artist sites",
+      "Streetwear and fashion drops",
+      "Gaming, esports, and energy-drink campaigns",
+      "Art school shows and experimental design portfolios"
+    ],
+    "avoid": [
+      "Healthcare, banking, and government services. The dystopian, distorted look reads as unreliable.",
+      "Long reading, documentation, and forms. Distorted and very small type slows reading.",
+      "Products for young children. The rave and heavy-metal references and the cynical tone do not fit.",
+      "Brands that must look calm or sustainable. Acid green on black and chrome read as loud and synthetic."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "type.sizeRange",
+      "min": 13,
+      "note": "Positive marker: giant display words next to very small flyer text. The specimen measures 16.67 at 1440 px. Other specimens measure 11.6 or less. Media queries shrink the title on narrow screens, so measure at desktop width. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.gradientShare",
+      "min": 0.4,
+      "note": "Positive marker: chrome gradients on headings, prices, buttons, and panels. The specimen measures 0.53. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "pixels.lightness",
+      "max": 0.2,
+      "note": "Positive marker: a black ground. With the chrome gradients it rules out Y2K, Frutiger Aero, and Liquid Glass, which are light. The specimen screenshot measures 0.08. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.hues",
+      "max": 2,
+      "note": "One acid green carries all the color. Chrome grays do not count as hues. The specimen measures 1. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Corners are square or cut to points. The specimen measures 0. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.monoShare",
+      "max": 0.1,
+      "note": "No terminal text, unlike cyberpunk. The specimen measures 0.02. Provisional: set from the specimen, recalibrate with measured references."
+    }
+  ],
+  "page": "acid-graphics.html",
+  "implementation": {
+    "tokens": "implementations/acid-graphics/tokens.json",
+    "css": "implementations/acid-graphics/tokens.css",
+    "tailwind": "implementations/acid-graphics/tailwind.css",
+    "shadcn": "implementations/acid-graphics/shadcn.css",
+    "registry": "implementations/acid-graphics/registry-item.json",
+    "designMd": "implementations/acid-graphics/DESIGN.md",
+    "specimen": "implementations/acid-graphics/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for acid-graphics. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#050505"
+      },
+      "surface": {
+        "$value": "#0f0f0f"
+      },
+      "subtle": {
+        "$value": "#1c1c1c"
+      },
+      "text": {
+        "$value": "#ececec"
+      },
+      "muted": {
+        "$value": "#a6a6a6"
+      },
+      "border": {
+        "$value": "#3d3d3d"
+      },
+      "primary": {
+        "$value": "#b4ff00",
+        "$description": "Acid green: actions, links, and accents."
+      },
+      "on-primary": {
+        "$value": "#050505"
+      },
+      "secondary": {
+        "$value": "#c8c8c8",
+        "$description": "Mid chrome: the gray band of the metal gradient and secondary actions."
+      },
+      "on-secondary": {
+        "$value": "#050505"
+      },
+      "accent": {
+        "$value": "#ffffff",
+        "$description": "Chrome highlight: the white glint of the metal gradient."
+      },
+      "on-accent": {
+        "$value": "#050505"
+      },
+      "glow": {
+        "$value": "#b4ff00",
+        "$description": "Acid green glow for the display type."
+      },
+      "shade": {
+        "$value": "#000000",
+        "$description": "Chrome horizon: the dark band in the metal gradient."
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Old English Text MT",
+          "UnifrakturMaguntia",
+          "Arial Black",
+          "Helvetica Neue",
+          "Arial",
+          "Liberation Sans",
+          "sans-serif"
+        ],
+        "$description": "Blackletter where the system has one, otherwise a heavy sans that the specimen stretches."
+      },
+      "body": {
+        "$value": [
+          "Helvetica Neue",
+          "Arial",
+          "Liberation Sans",
+          "Nimbus Sans",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Menlo",
+          "Consolas",
+          "DejaVu Sans Mono",
+          "monospace"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 900
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "10px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "base": {
+        "$value": "14px"
+      },
+      "lg": {
+        "$value": "18px"
+      },
+      "xl": {
+        "$value": "24px"
+      },
+      "2xl": {
+        "$value": "40px"
+      },
+      "3xl": {
+        "$value": "64px"
+      },
+      "4xl": {
+        "$value": "120px"
+      },
+      "5xl": {
+        "$value": "200px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.82
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.08,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "2px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "4px"
+      },
+      "sm": {
+        "$value": "8px"
+      },
+      "md": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "24px"
+      },
+      "xl": {
+        "$value": "48px"
+      },
+      "2xl": {
+        "$value": "96px"
+      }
+    },
+    "shadow": {
+      "$type": "shadow",
+      "sm": {
+        "$value": [
+          {
+            "color": "#b4ff00",
+            "offsetX": "0px",
+            "offsetY": "0px",
+            "blur": "0px",
+            "spread": "1px",
+            "inset": false
+          }
+        ],
+        "$description": "A hard acid-green edge line for fields and buttons."
+      },
+      "md": {
+        "$value": [
+          {
+            "color": "#ffffff59",
+            "offsetX": "0px",
+            "offsetY": "1px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          },
+          {
+            "color": "#000000",
+            "offsetX": "0px",
+            "offsetY": "-1px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": true
+          }
+        ],
+        "$description": "Hard chrome bevel: a white top edge and a black bottom edge."
+      },
+      "accent": {
+        "$value": [
+          {
+            "color": "#b4ff00",
+            "offsetX": "4px",
+            "offsetY": "4px",
+            "blur": "0px",
+            "spread": "0px",
+            "inset": false
+          }
+        ],
+        "$description": "Hard acid-green offset for the featured pass."
+      }
+    },
+    "gradient": {
+      "$type": "gradient",
+      "chrome": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#ffffff",
+              "position": 0
+            },
+            {
+              "color": "#d9d9d9",
+              "position": 0.3
+            },
+            {
+              "color": "#6e6e6e",
+              "position": 0.52
+            },
+            {
+              "color": "#141414",
+              "position": 0.56
+            },
+            {
+              "color": "#9c9c9c",
+              "position": 0.64
+            },
+            {
+              "color": "#f5f5f5",
+              "position": 0.82
+            },
+            {
+              "color": "#8a8a8a",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "Liquid chrome: bright top, a hard black horizon just below the middle, and a bright lower reflection."
+      },
+      "gunmetal": {
+        "$value": {
+          "angle": "180deg",
+          "stops": [
+            {
+              "color": "#3a3a3a",
+              "position": 0
+            },
+            {
+              "color": "#141414",
+              "position": 0.5
+            },
+            {
+              "color": "#050505",
+              "position": 0.52
+            },
+            {
+              "color": "#262626",
+              "position": 1
+            }
+          ]
+        },
+        "$description": "Dark chrome for panels and secondary buttons."
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "kaiser-balance-siren-poster-2017",
+      "title": "Anja Kaiser, Balance presents Siren poster, Club Culture Festival 2017",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: blackletter, stretched type, an op-art ray disk, and flyer density, but on a light lilac ground with no chrome. Flat-color club-poster branch.",
+      "page": "references/kaiser-balance-siren-poster-2017.html",
+      "source": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "kaiser-cry-baby-poster",
+      "title": "Anja Kaiser, Cry Baby club poster, Institut fuer Zukunft",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: blackletter display type, stretched capitals, and flyer density, but flat color on a half-orange ground and no chrome. It belongs to the flat-color club-poster branch.",
+      "page": "references/kaiser-cry-baby-poster.html",
+      "source": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "asdf-graphics-acid-font",
+      "title": "ASDF Graphics, “Acid Font – Acid Graphics Typography”",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The trend name used as a product label. The specimen shows the market version of the style: acid green on black, sharp spiky letters, curved text, stars, and dense small text.",
+      "page": "references/asdf-graphics-acid-font.html",
+      "source": "https://masterbundles.com/asdf-graphics/acid-font-acid-graphics-typography/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "oorloff-pleasure-planet-pure-romance",
+      "title": "Darren Oorloff, Pleasure Planet “Pure Romance” artwork",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: chrome heads, warped op-art checkerboards, and glitch cuts as the article describes, but with pink and red, not acid green, and no chrome lettering.",
+      "page": "references/oorloff-pleasure-planet-pure-romance.html",
+      "source": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "rudnick-turbo-warehouse-series-sleeve",
+      "title": "David Rudnick, Turbo Warehouse Series compilation sleeve",
+      "medium": "packaging",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: flyer density, mixed and stretched display faces, and a rendered wavy metal texture, in pale pink and black instead of acid green, with no chrome lettering.",
+      "page": "references/rudnick-turbo-warehouse-series-sleeve.html",
+      "source": "https://eyeondesign.aiga.org/david-rudnicks-portfolio-is-a-codex-for-electronic-music-design/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "rudnick-turbo-warehouse-series-sei-a-poster",
+      "title": "David Rudnick, Turbo Warehouse Series poster for Sei A",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The flyer side of the style at full strength: one acid green with black, horror vacui, mixed display faces, and sliced, slanted capitals. It has no chrome.",
+      "page": "references/rudnick-turbo-warehouse-series-sei-a-poster.html",
+      "source": "https://eyeondesign.aiga.org/david-rudnicks-portfolio-is-a-codex-for-electronic-music-design/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "hyper-scrypt-typeface-2018",
+      "title": "Hyper Scrypt typeface, Velvetyne",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: a free gothic display face whose designer cites molten metal and heavy metal. It supplies the blackletter-metal letterforms of the style, but it is flat and needs a chrome treatment to read as the core.",
+      "page": "references/hyper-scrypt-typeface-2018.html",
+      "source": "https://velvetyne.fr/fonts/hyper-scrypt/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "smith-rieger-lotus-artwork",
+      "title": "Jack Smith and Jeremy Rieger, “Lotus” artwork",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Liquid-metal imagery, melted display letters, op-art rings, and horror vacui on black. The accent is violet, not green.",
+      "page": "references/smith-rieger-lotus-artwork.html",
+      "source": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "castro-skechers-china-chrome-lettering",
+      "title": "Jonathan Castro, lettering for a Skechers China project",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A direct example of the chrome-type core: bevelled liquid-metal letters with thorny spurs, an acid accent, and glows on black.",
+      "page": "references/castro-skechers-china-chrome-lettering.html",
+      "source": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "ballmann-pppanik-liquid-chrome-numerals",
+      "title": "Julia Ballmann, “Pppanik” liquid-chrome numerals",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Liquid-metal type, the trait that Eye on Design describes as “viscously dripping liquid metal”, here with no other element.",
+      "page": "references/ballmann-pppanik-liquid-chrome-numerals.html",
+      "source": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "pilowlava-typeface-2019",
+      "title": "Pilowlava typeface, Velvetyne",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: free liquid letterforms of the kind the style renders as dripping metal. The face itself is flat and closer to 1970s psychedelic lettering.",
+      "page": "references/pilowlava-typeface-2019.html",
+      "source": "https://velvetyne.fr/fonts/pilowlava/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "studio-cryo-drumstation-eternia-poster-2018",
+      "title": "Studio Cryo, Drumstation vs. Eternia poster, Cross Club 2018",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: a black ground, rendered clear and metallic forms, and flyer-style line-up type, but in red and orange, with no chrome lettering.",
+      "page": "references/studio-cryo-drumstation-eternia-poster-2018.html",
+      "source": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+      "image": null,
+      "measurement": null
+    }
+  ]
+}

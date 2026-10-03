@@ -1,0 +1,57 @@
+{
+  "id": "apple-event-2022-apple-watch-ultra-summary-slide",
+  "title": "Apple Event September 2022: Apple Watch Ultra summary slide",
+  "type": "image",
+  "medium": "other",
+  "lede": "A light summary slide for Apple Watch Ultra in which one product color, safety orange, carries every key figure across pale grey tiles.",
+  "summary": "Pale grey rounded tiles and black-and-white photo tiles with large orange figures, around a central watch. September 2022.",
+  "source": {
+    "url": "https://apple-summary-slides.vercel.app/events/apple-event-september-2022",
+    "label": "Apple Summary Slides (fan archive): Apple Event September 2022"
+  },
+  "creator": {
+    "name": "Apple Inc.",
+    "url": "https://www.apple.com/apple-events/"
+  },
+  "made": "2022-09-07 (Apple Event “Far out”)",
+  "moods": [
+    "rugged",
+    "confident",
+    "precise"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1920 × 1080 WebP `[Apple Event September 2022]-[Apple Watch]-[Apple Watch Ultra].webp` from the fan archive [Apple Summary Slides](https://apple-summary-slides.vercel.app/events/apple-event-september-2022) (Ricky Zhang), which says that all images are screenshots of Apple event videos. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "bento-grid",
+      "note": "Clear: rounded tonal tiles of many sizes with one fact each, and one accent color for the figures.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple introduced Apple Watch Ultra at its event on 7 September 2022, the same event as the [iPhone 14 Pro slide](ref:apple-event-2022-iphone-14-pro-summary-slide)."
+  ],
+  "observed": [
+    "Pale grey tiles with large rounded corners sit on an off-white ground with narrow even gutters. About twenty tiles range from small pills (“ECG”, “LTE”, “Blood oxygen”) to a tall central tile with three views of the watch.",
+    "Key figures and words are set very large in bold orange: “60 hrs battery life”, “GPS”, “2000 nits”, “EN13319”. Labels are small and black.",
+    "Four tiles are black-and-white photographs (mountains, divers, a storm) with the orange figure set over the photo.",
+    "“WR100” and “MIL-STD 810” are set in a monospaced face, in blue and in black with orange.",
+    "Product photos of the watch and its bands are cropped by the tile edges."
+  ],
+  "interpretation": [
+    "The slide shows how the look takes a brand accent: the tiles stay neutral, and one product color marks every figure. The black-and-white photo tiles keep the accent the only color on the slide."
+  ],
+  "borrow": [
+    "Choose one accent from the product and use it only for figures and key words.",
+    "Desaturate photo tiles so that the accent figure on them stays the strongest color."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Frame of an Apple event video; copyrighted by Apple Inc. The fan archive states “All rights reserved by Apple Inc.” No image is stored here."
+  }
+}

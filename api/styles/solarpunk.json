@@ -138,7 +138,11 @@
     }
   ],
   "synthesis": [
-    "Provisional: no reference records exist yet. The grammar comes from the sources in the attestation. The style-references skill should collect open-licensed concept art, the Solarpunk flag on Wikimedia Commons, and photographs of planted buildings."
+    "The core is digital illustration, most of it shared under open licenses on Wikimedia Commons and Story Seed Library. [A Solarpunk tower](ref:lemonaut-solarpunk-tower-2024) joins nearly every diagnostic trait in one scene: raised beds on a roof, angled solar panels on a steel column that branches like a tree, a train on a viaduct, and three generations at work. [Berlin Friedrichstraße Utopia 2048](ref:aerroscape-zeddies-berlin-friedrichstrasse-utopia-2048) shows the city scale: existing Berlin retrofitted with planted terraces, solar roofs, roof turbines, and swimmers in the Spree. [Solarpunk village on a former oil platform](ref:commando-jugendstil-oil-platform-village) turns fossil infrastructure into greenhouses and gardens under kite turbines. [Solarpunk Technology and Nature together](ref:loop-chan-solarpunk-technology-nature-2024) puts a cart robot and a tram in a vine-covered street, and [Solarpunk community center](ref:lemonaut-solarpunk-community-center-2024) puts the politics of a just transition into a town square.",
+    "The graphic side is thinner. The [Solarpunk flag](ref:starwall-solarpunk-flag-2019) compresses the argument into one sign: a sun whose lower half is a gear, in flat leaf green and sun yellow. Page 1 of [Solarpunk, realism, and dystopia](ref:lemonaut-solarpunk-realism-comic-2025) is the only layout reference: plum hand lettering on white, with text in soft green, coral, and yellow washes, which is the light ground and rounded, framed panels that the layout facet describes. Two references are documented only. The [Dear Alice](ref:chobani-dear-alice-2021) advertisement, which the motion facet uses as its model, was not watched, and the cover of [A Psalm for the Wild-Built](ref:chambers-psalm-for-the-wild-built-cover-2021) was not inspected. Both need observation before they count as visual evidence.",
+    "Two buildings stand for the architectural branch, and both are partial fits without stored images. [Bosco Verticale](ref:bosco-verticale-milan) is the familiar tree-covered tower but shows no renewables. The [Supertree Grove](ref:gardens-by-the-bay-supertree-grove) joins steel tree forms, vertical gardens, and solar cells, but it is a state-funded spectacle, closer to the glossy Frutiger Eco branch than to handmade, community-scale work.",
+    "The references disagree with parts of the grammar. No inspected image shows stained-glass solar panes. The nearest traits are the faceted mosaic on the tower base in A Solarpunk tower and the curling rays of the flag. Arches appear as a station roof, bridges, round-arched windows, and geodesic domes, not as frames for the scene. The only lettering, in the comic, is hand-drawn capitals, not the mixed case of the type facet. The surface rule (flat colour, thin dark outlines) holds for the Lemonaut images and the oil platform, but the Berlin view is a semi-realistic matte painting without outlines, and Loop-chan mixes flat shapes with photo-like textures. The palette also moves: the community center and the tower lean to orange and bronze, and the tower is lit by low, warm light.",
+    "The seven stored images were measured with `tools/image-traits.py`, which reads colour only, so `color.patternShare`, `surface.radius.median`, `surface.shadow.share`, and `pixels.lightness` are not measured. Six of the seven fail `color.accentChroma` (0.40 to 0.48 against the minimum of 0.55); only the flag passes, at 0.74. The painted references are therefore less saturated than the specimen, and the fingerprint’s separation from Art Nouveau and Arts and Crafts (at most 0.55) does not hold for them. `color.hues` passes six of seven with 3 or 4; Loop-chan’s bleached palette gives 2. Palette lightness (`color.lightness`) is 0.83 for the comic and 0.38 to 0.57 for the scenes and the flag, but it is a different metric from `pixels.lightness` and does not test the 0.75 minimum. The fingerprint stays specimen-based. Judge illustrations by the rubric."
   ],
   "rubric": {
     "diagnostic": [
@@ -245,6 +249,10 @@
       "max": 0.1,
       "note": "Matte, flat surfaces without drop shadows. Separates it from Frutiger Aero gloss. Provisional: set from the specimen."
     }
+  ],
+  "preview": [
+    "lemonaut-solarpunk-tower-2024",
+    "aerroscape-zeddies-berlin-friedrichstrasse-utopia-2048"
   ],
   "page": "solarpunk.html",
   "implementation": {

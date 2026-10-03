@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/utamaro-flirtatious-type-physiognomy-of-women-1793.jpg",
+  "captured": "2026-10-03T01:46:15+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#bb8973",
+        "share": 0.524
+      },
+      {
+        "hex": "#c1ac8c",
+        "share": 0.104
+      },
+      {
+        "hex": "#dcc5a9",
+        "share": 0.093
+      },
+      {
+        "hex": "#ae9d80",
+        "share": 0.066
+      },
+      {
+        "hex": "#f7ede3",
+        "share": 0.053
+      },
+      {
+        "hex": "#988b71",
+        "share": 0.029
+      },
+      {
+        "hex": "#3a3431",
+        "share": 0.026
+      },
+      {
+        "hex": "#8c8069",
+        "share": 0.024
+      },
+      {
+        "hex": "#82715e",
+        "share": 0.02
+      },
+      {
+        "hex": "#d3b68d",
+        "share": 0.018
+      }
+    ],
+    "background": "#bb8973",
+    "chroma": 0.23,
+    "lightness": 0.61,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 9,
+    "hues": 0
+  }
+}

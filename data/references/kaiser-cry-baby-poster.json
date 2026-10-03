@@ -1,0 +1,58 @@
+{
+  "id": "kaiser-cry-baby-poster",
+  "title": "Anja Kaiser, Cry Baby club poster, Institut fuer Zukunft",
+  "type": "print",
+  "medium": "poster",
+  "lede": "A Leipzig club poster in orange, black, and gray: a huge blackletter “Cry Baby”, vertical stretched grotesque capitals, and grainy silver shapes like petals.",
+  "summary": "Black blackletter over orange and black halves, gray stretched capitals, grainy silver forms. Anja Kaiser, for Institut fuer Zukunft, Leipzig.",
+  "source": {
+    "url": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+    "label": "AIGA Eye on Design (5 September 2019): “Acid Graphics” Are the New Psychedelia"
+  },
+  "creator": {
+    "name": "Anja Kaiser"
+  },
+  "made": "Not stated (before September 2019). The poster gives the date “Oct 9” without a year.",
+  "moods": [
+    "loud",
+    "nocturnal",
+    "dense"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 px image `Anja-Kaiser-2-Cry-Baby.jpg` that [Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) published with the article, in a scratch folder. Not stored. The object is a digital image as the magazine published it, not a named physical copy. The caption reads “Anja Kaiser, Cry Baby”."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "acid-graphics",
+      "note": "Partial fit: blackletter display type, stretched capitals, and flyer density, but flat color on a half-orange ground and no chrome. It belongs to the flat-color club-poster branch.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "[Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) shows the poster in its 2019 article on acid graphics, with the caption “Anja Kaiser, Cry Baby”.",
+    "The poster text names Institut fuer Zukunft, An den Tierkliniken 38, 04103 Leipzig, and the performers Mykki Blanco, Yves Tumor, Perera Elsewhere, and Neele."
+  ],
+  "observed": [
+    "The upper half is flat red-orange and the lower half near-black. A gray vertical band at the right carries the time and address, set sideways.",
+    "“Cry Baby” fills the upper half in a very large black blackletter, with tight, overlapping letters.",
+    "Gray capitals in a wide grotesque run vertically and are cut by the edges: “MYKKI BLANCO” down the right side and other letters at the left.",
+    "Grainy, silver-gray shapes like petals or leaves cross both halves.",
+    "The line-up at the bottom is set in a heavy orange grotesque, with small notes such as “live SHAME” between the names.",
+    "There is no chrome type and no green."
+  ],
+  "interpretation": [
+    "The poster shows the type side of the trend: blackletter against stretched grotesques, set huge and cut by the edges. Eye on Design includes it under acid graphics. It lacks the chrome core of this record, so it marks the edge of the style."
+  ],
+  "borrow": [
+    "Set one huge blackletter word against a vertical stretched grotesque, and let both run off the edges.",
+    "Split the ground into two flat halves and let the display type cross the split."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is recent and in copyright. The rights holder is the designer or the client."
+  }
+}

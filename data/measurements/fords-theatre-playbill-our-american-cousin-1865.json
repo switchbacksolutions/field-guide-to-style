@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/fords-theatre-playbill-our-american-cousin-1865.jpg",
+  "captured": "2026-10-03T01:51:35+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#cfcfcf",
+        "share": 0.33
+      },
+      {
+        "hex": "#dbdbdb",
+        "share": 0.268
+      },
+      {
+        "hex": "#c0c0c0",
+        "share": 0.086
+      },
+      {
+        "hex": "#f2f2f2",
+        "share": 0.068
+      },
+      {
+        "hex": "#aaaaaa",
+        "share": 0.062
+      },
+      {
+        "hex": "#fefefe",
+        "share": 0.044
+      },
+      {
+        "hex": "#9e9e9e",
+        "share": 0.031
+      },
+      {
+        "hex": "#e7e7e7",
+        "share": 0.031
+      },
+      {
+        "hex": "#5d5d5d",
+        "share": 0.031
+      },
+      {
+        "hex": "#727272",
+        "share": 0.024
+      }
+    ],
+    "background": "#cfcfcf",
+    "chroma": 0.0,
+    "lightness": 0.8,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 11,
+    "hues": 0
+  }
+}

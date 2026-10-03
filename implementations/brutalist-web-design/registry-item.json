@@ -1,0 +1,34 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "brutalist-web-design",
+  "type": "registry:theme",
+  "title": "Brutalist web design",
+  "description": "Raw HTML on purpose. Black text, blue links, browser defaults.",
+  "cssVars": {
+    "theme": {
+      "font-sans": "\"Times New Roman\", Times, serif",
+      "font-mono": "\"Courier New\", Courier, monospace"
+    },
+    "light": {
+      "background": "#ffffff",
+      "foreground": "#000000",
+      "card": "#ffffff",
+      "card-foreground": "#000000",
+      "popover": "#ffffff",
+      "popover-foreground": "#000000",
+      "primary": "#0000ee",
+      "primary-foreground": "#ffffff",
+      "secondary": "#551a8b",
+      "secondary-foreground": "#ffffff",
+      "muted": "#efefef",
+      "muted-foreground": "#555555",
+      "accent": "#ee0000",
+      "accent-foreground": "#ffffff",
+      "destructive": "#b42318",
+      "border": "#808080",
+      "input": "#808080",
+      "ring": "#0000ee",
+      "radius": "0px"
+    }
+  }
+}

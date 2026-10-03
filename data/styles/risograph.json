@@ -1,0 +1,237 @@
+{
+  "id": "risograph",
+  "title": "Risograph",
+  "order": 40,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Riso",
+    "Riso print",
+    "Riso art",
+    "Duplicator art"
+  ],
+  "summary": "Two or three fluorescent and spot inks, overprinted, grainy, and slightly out of register. The look of the zine-fair table.",
+  "lede": "The print look of the Risograph stencil duplicator as artists, zine makers, and small studios have used it since the 2000s: a few semi-transparent spot inks such as fluorescent pink, blue, and yellow on uncoated paper, colors that overprint into new ones, visible grain and patchy coverage, and layers that do not quite align. This record covers the printed look and its digital imitation. The machine itself is a process, not a style.",
+  "moods": [
+    "handmade",
+    "playful",
+    "vibrant",
+    "indie",
+    "tactile"
+  ],
+  "era": {
+    "from": 2000,
+    "note": "Riso Kagaku introduced the Risograph in Japan in 1980 as an office duplicator. Artists and zine publishers took it up from about 2000, and Wikipedia dates its popularity among artists to the 2010s. The look is still current."
+  },
+  "regions": [
+    "United States",
+    "United Kingdom",
+    "Western Europe",
+    "Japan"
+  ],
+  "identifiers": {
+    "wikidata": "Q137838140"
+  },
+  "attestation": [
+    {
+      "label": "Wikidata: Duplicator art (aliases Riso art, Risographisme)",
+      "url": "https://www.wikidata.org/wiki/Q137838140",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikidata: risograph, a type of print",
+      "url": "https://www.wikidata.org/wiki/Q114079395",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Library of Congress Genre/Form Terms: Risographs (established 2022)",
+      "url": "https://id.loc.gov/authorities/genreForms/gf2021026034.html",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia: Risograph (popular among artists in the 2010s, for zines and comics)",
+      "url": "https://en.wikipedia.org/wiki/Risograph",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "AIGA Eye on Design: Tracking the Rise of Risograph Printing with Glasgow’s Risotto Studio (Emma Tucker, 2015-04-20)",
+      "url": "https://eyeondesign.aiga.org/tracking-the-rise-of-risograph-printing-with-glasgows-risotto-studio/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Communication Arts: The Rise of Riso (Garrick Webster, undated)",
+      "url": "https://www.commarts.com/columns/the-rise-of-riso",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "label": "Mimeograph",
+      "wikidata": "Q877869",
+      "note": "The Risograph is a digital stencil duplicator. The Library of Congress term describes the same principle as the mimeograph: ink is forced through holes in a master stencil."
+    },
+    {
+      "relation": "related-to",
+      "label": "Fanzine",
+      "wikidata": "Q181298",
+      "note": "Wikipedia names zines and comics as the main artistic use. Eye on Design (2015) traces the revival through zine publishers such as Nieves."
+    },
+    {
+      "relation": "related-to",
+      "style": "mid-century-modern",
+      "note": "Both overprint flat, semi-transparent colors so that overlaps darken. Mid-century work uses muted, earthy offset and screen inks. Riso work uses fluorescent and spot inks with grain."
+    },
+    {
+      "relation": "related-to",
+      "style": "grunge-typography",
+      "note": "Both come from cheap, do-it-yourself reproduction and accept imperfect ink. Grunge builds dark, damaged type over collage. Riso keeps clean type and bright inks on open paper."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "Two or three spot inks.",
+      "text": "Each ink is a separate drum, so a print has few colors. Fluorescent pink with blue is the classic pair. Yellow, teal, orange, and federal blue are common. Black is often absent."
+    },
+    {
+      "facet": "color",
+      "term": "Overprint mixes.",
+      "text": "Inks are semi-transparent. Where two layers cross, a third color appears: pink over blue gives a deep violet, pink over yellow a red-orange, blue over yellow a green."
+    },
+    {
+      "facet": "surface",
+      "term": "Grain and patchy coverage.",
+      "text": "Large flat areas show speckle, light streaks, and uneven density on uncoated paper. Images are screened as coarse halftone dots or grain."
+    },
+    {
+      "facet": "structure",
+      "term": "Misregistration.",
+      "text": "Color layers shift by a millimeter or more, so outlines and fills do not meet and a thin sliver of one ink shows beside another."
+    },
+    {
+      "facet": "imagery",
+      "term": "Layered illustration.",
+      "text": "Illustrations are drawn as separate color layers, often with flat shapes, line work, and grain textures, instead of full-color photographs."
+    },
+    {
+      "facet": "type",
+      "term": "Clean type in ink.",
+      "text": "Bold grotesques, condensed display faces, and typewriter captions, printed in one of the inks rather than black. Letterforms stay sharp. Only the ink is rough."
+    },
+    {
+      "facet": "layout",
+      "term": "Zine and poster formats.",
+      "text": "Folded zines, posters, and cards with generous paper margins, simple grids, and stamped labels."
+    }
+  ],
+  "synthesis": [
+    "The core medium is the short-run printed sheet: posters, art prints, and zine pages, known here mostly from photographs of single copies. The two-ink pink-and-blue print is the clearest type. Viktor Hachmang’s [Trailer/Min Expo poster](ref:hachmang-trailer-min-expo-riso-poster-2014) uses fluorescent pink and dark blue on cream, a pink halftone ground, a violet overprint, and no black key lines. The [“stuck indoors 2” zine page](ref:stuck-indoors-2-riso-zine-page-2020) shows nearly every trait at once: pink and blue that overprint into violet, grainy blue areas, and a pink layer a few millimeters off register. [Meerpaaltjes](ref:doornenbal-meerpaaltjes-risoprint-2024) makes violet from a salmon pink and a blue, with patchy coverage. The [PIFpack poster](ref:plusea-pifpack-riso-poster-2016) uses fluorescent pink for objects and a dark blue-gray for drawings and clean sans-serif text, and Mario Felipe’s [chairs print](ref:mario-felipe-two-colour-chairs-print-2014) makes a third tone from a grainy screen of its red-pink ink.",
+    "Other references widen the core. [Fort Zuid Wilgen](ref:doornenbal-fort-zuid-wilgen-risoprint-2025) separates a photograph into blue, yellow, and black, with green where blue and yellow cross and banding in the large blue areas. [Cube Cat’s Drink](ref:artlung-cube-cats-drink-riso-print-2020) is a partial fit with four inks and heavy grain. The close view of [Garden Party](ref:cetrl-garden-party-micro-edition-2022) shows red-pink and black broken into pixel-like dither from a web-to-print layout. [Mano V/S Regla](ref:mario-felipe-mano-vs-regla-book-2015) prints one blue ink on cream and turquoise stocks, with no overprint. The [Risograph demo poster](ref:risograph-demo-poster-2015) has two inks and hand lettering, but little grain is visible at the available size. The [RZ670 duplicator](ref:risograph-rz670-duplicator-nagoya-2021) is not an example of the look. It records the office machine whose one ink per drum sets the limits.",
+    "The references do not all follow the grammar and the rules. The grammar says that black is often absent, but black is one of the inks in the chairs print, Fort Zuid Wilgen, and Garden Party, and Cube Cat’s Drink has a dark fourth ink against the rule “Do not add a fourth ink”. Fluorescent pink is not in every reference: Mano V/S Regla is blue only, Fort Zuid Wilgen has no pink, and the demo poster uses a warm red. Misregistration is a diagnostic, but only the zine page records it as observed. Overprint mixing, two or three inks, and open light paper are the more constant traits. A curator must decide whether black as one of two or three inks is core or a variant.",
+    "The measurements are palette traits of 8 photographs and scans. They cannot see grain, misregistration, halftone, or overprint as such, and pattern share and gradient share are not measured. The two clearest overprint examples, the Hachmang poster and the zine page, are link-only, so they have no measurement. The image hue count is 1 to 3 for the 7 examples of the look, so all pass the declared `color.hues` maximum of 3, but none reaches the minimum of 4 that the `pixels.hues` marker takes from the specimen’s overprint. Lightness is at least 0.7 for the PIFpack poster (0.82), the chairs print (0.80), Mano V/S Regla (0.77), and Fort Zuid Wilgen (0.75), and below it for Meerpaaltjes (0.61), Cube Cat’s Drink (0.55), and the Garden Party close-up (0.36). Accent chroma reaches the 0.5 minimum only on the PIFpack poster (0.57). The chairs print measures 0.49, and the others 0.32 to 0.44. Interpretation: a camera can dull fluorescent ink, as the Meerpaaltjes record suggests, and close crops and photographed stacks hide the paper margin. No website references exist yet, so the fingerprint stays specimen-based."
+  ],
+  "preview": [
+    "plusea-pifpack-riso-poster-2016",
+    "doornenbal-meerpaaltjes-risoprint-2024"
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Two or three bright spot inks, often including fluorescent pink, carry the whole image.",
+      "Overlapping colors produce visibly mixed third colors.",
+      "Flat areas show grain, speckle, or uneven ink coverage.",
+      "Color layers are slightly out of register.",
+      "The paper ground is off-white or a pale colored stock, left open around the image."
+    ],
+    "counter": [
+      "Full-color process photography or smooth digital gradients.",
+      "Thick black key lines around every shape.",
+      "Only muted, earthy inks with no fluorescent or bright spot color.",
+      "Glossy, perfectly even color fills with no texture.",
+      "Many unrelated, damaged typefaces over dark collage."
+    ],
+    "confusions": [
+      {
+        "with": "mid-century-modern",
+        "difference": "Both overprint flat shapes. Mid-century inks are warm and muted (mustard, olive, burnt orange) and the fills are even. Riso uses fluorescent pink and bright spot blues and yellows, and the fills are grainy and out of register."
+      },
+      {
+        "with": "pop-art",
+        "difference": "Pop art outlines everything in heavy black and uses regular Ben-Day dots in process primaries. Riso rarely uses black key lines, its dots and grain are irregular, and fluorescent pink replaces red."
+      },
+      {
+        "with": "grunge-typography",
+        "difference": "Grunge damages the letters, mixes many faces, and uses a dark, muddy palette over collage. Riso keeps a few clean faces and bright inks on light paper. Its roughness is in the ink, not in the letters."
+      },
+      {
+        "with": "Screen printing",
+        "difference": "Gig posters made by screen printing also use spot inks and overprint. Screen ink is opaque and even, and registration is usually tight. Riso ink is translucent and grainy. The two can be hard to tell apart in a small image."
+      },
+      {
+        "with": "Photocopy zines",
+        "difference": "Photocopied zines are black toner on white or colored paper, with high contrast and no ink mixing. Riso zines use colored inks that overprint."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Choose two or three inks, for example fluorescent pink, blue, and yellow, and use no other hues.",
+      "Print text in one of the inks, usually the darkest blue, on an off-white paper color.",
+      "Overlap ink shapes with mix-blend-mode: multiply so that overlaps show the mixed color.",
+      "Add a fine grain texture to the paper and to large ink areas. Tile it on real elements, not only on pseudo-elements.",
+      "Offset one color layer of a headline or an illustration by 3 to 6 px to suggest misregistration.",
+      "Use bold or condensed sans-serif display type and a typewriter face for small labels."
+    ],
+    "dont": [
+      "Do not use black outlines around shapes or panels. That is pop art.",
+      "Do not use smooth gradients, glossy highlights, or blurred shadows.",
+      "Do not add a fourth ink for variety. The constraint is the look.",
+      "Do not make the grain so strong that body text loses contrast.",
+      "Do not damage or erode the letterforms. Riso type is clean."
+    ],
+    "uses": [
+      "Zines, small presses, and independent publishers",
+      "Event and gig posters",
+      "Illustrators’ and print studios’ portfolios",
+      "Bookshops, record shops, and cafés",
+      "Community, arts, and education projects"
+    ],
+    "avoid": [
+      "Banking, insurance, and healthcare products. Fluorescent ink and grain read as informal.",
+      "Dense data dashboards. Grain and overprint reduce the legibility of small figures and charts.",
+      "Products that need exact brand color or photography. The palette allows only a few inks."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "pixels.hues",
+      "min": 4,
+      "note": "Positive marker: overprint makes mixed hues in the screenshot that no stylesheet declares. The two-ink specimen declares 2 hues and shows 4 in pixels. Other specimens with four or more pixel hues also declare four or more. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "color.hues",
+      "max": 3,
+      "note": "Only two or three inks are declared. The specimen declares 2. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.5,
+      "note": "Positive marker: a tiled grain covers paper and ink areas. Provisional: real sites often use a grain image or a canvas, which this metric does not count."
+    },
+    {
+      "metric": "pixels.lightness",
+      "min": 0.7,
+      "note": "Positive marker: light paper is left open around the inks. Provisional: set from the specimen."
+    },
+    {
+      "metric": "pixels.accentChroma",
+      "min": 0.5,
+      "note": "Fluorescent and spot inks are strong, but 50% screens of them are common, so the average sits lower than the full inks. Grunge and earthy palettes measure below 0.45. Provisional: set from the specimen (0.57)."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Ink is flat. Grain tiles count as pattern, not gradient."
+    }
+  ]
+}

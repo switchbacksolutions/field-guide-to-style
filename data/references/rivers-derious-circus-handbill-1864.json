@@ -1,0 +1,74 @@
+{
+  "id": "rivers-derious-circus-handbill-1864",
+  "title": "Rivers & Derious’ Combination Circus handbill",
+  "type": "print",
+  "medium": "poster",
+  "lede": "A small Washington circus bill of 1864 in which every act gets its own line, face, and rule, inside a border of cast ornaments.",
+  "summary": "Circus handbill with a Tuscan headline, slab and condensed lines, rules, and an ornament border. Washington, 1864.",
+  "source": {
+    "url": "https://www.loc.gov/item/2020776481/",
+    "label": "Library of Congress, Printed Ephemera Collection: Rivers & Derious’ combination circus!"
+  },
+  "creator": {
+    "name": "H. Polkinhorn & Son’s Steam Job Press, Washington (imprint)"
+  },
+  "made": "1864",
+  "moods": [
+    "showy",
+    "loud",
+    "festive"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Library of Congress scan (Printed Ephemera Collection, Portfolio 204, Folder 51b, copy scanned: 2; 1995 × 3589 px). LoC records six duplicate copies."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "victorian-typography",
+      "note": "A jobbing circus bill: centred lines, a different face for each act, full-width rules between acts, and a border of type ornaments.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "LoC catalogues the bill as 1 p., 30 × 17 cm, Washington, 1864. [LoC 2020776481](https://www.loc.gov/item/2020776481/).",
+    "The bill advertises the circus and a “Bedouin Arab Troupe” on the lot at New York Avenue and 6th Street from Thursday, 29 September 1864. The imprint reads “H. Polkinhorn & Son’s Steam Job Press, 375 and 377 D street.”"
+  ],
+  "observed": [
+    "A border of cast scroll ornaments with corner pieces frames the whole bill.",
+    "“CIRCUS!” is the largest line, in a black Tuscan-style letter with forked serifs and swelling stems.",
+    "Other lines use a shaded slab (“RIVERS & DERIOUS’”), a wide sans-serif (“COMBINATION”, “WONDERFUL ACTS!”), condensed slabs (“MASTER EDDIE RIVERS!”, “THE DELAVANTE BROTHERS!”), a wide Clarendon (“JOHN FOSTER!”), and a very condensed roman (“EVERY AFTERNOON & EVEN’G”).",
+    "Full-width thick-and-thin rules divide the acts. Small capitals under each name describe the act.",
+    "Admission prices use dotted leaders. Every line except the price rows is centred.",
+    "Black ink on white paper, with some broken and over-inked letters."
+  ],
+  "interpretation": [
+    "The bill shows the style at small scale: the hierarchy comes only from face, width, and size, and the ornament border gives the sheet a frame without any picture.",
+    "Each act behaves like a card: a big name, a small description, and a rule."
+  ],
+  "borrow": [
+    "Treat each item as a block of a big name, a small description line, and a rule.",
+    "Frame a whole page with a border of small repeated ornaments and corner pieces."
+  ],
+  "images": [
+    {
+      "file": "assets/references/rivers-derious-circus-handbill-1864.jpg",
+      "alt": "Black-and-white circus handbill inside a border of scroll ornaments. Centred lines in different typefaces read Rivers and Derious' Combination Circus!, Bedouin Arab Troupe, Thursday September 29 1864, Master Eddie Rivers!, Wonderful Acts!, The Delavante Brothers!, John Foster!, and Every Afternoon and Evening, with rules between them.",
+      "width": 889,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Rivers & Derious’ Combination Circus handbill, Washington, 1864. Library of Congress, Printed Ephemera Collection, [2020776481](https://www.loc.gov/item/2020776481/).",
+      "original": "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe20/rbpe204/2040510b/001dr.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The Library of Congress says that, with a few exceptions, it “is not aware of any U.S. copyright protection … or any other restrictions in the materials in the Printed Ephemera Collection.” The bill was published in the United States in 1864, so it is in the public domain."
+  },
+  "identifiers": {
+    "loc": "2020776481"
+  }
+}

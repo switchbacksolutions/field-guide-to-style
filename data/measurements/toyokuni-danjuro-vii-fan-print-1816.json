@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/toyokuni-danjuro-vii-fan-print-1816.jpg",
+  "captured": "2026-10-03T01:45:14+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#d5c3a8",
+        "share": 0.511
+      },
+      {
+        "hex": "#ddd8bb",
+        "share": 0.177
+      },
+      {
+        "hex": "#272720",
+        "share": 0.05
+      },
+      {
+        "hex": "#6f625a",
+        "share": 0.038
+      },
+      {
+        "hex": "#7b6e64",
+        "share": 0.025
+      },
+      {
+        "hex": "#948c6c",
+        "share": 0.024
+      },
+      {
+        "hex": "#d0b47a",
+        "share": 0.024
+      },
+      {
+        "hex": "#a59d79",
+        "share": 0.023
+      },
+      {
+        "hex": "#c6a86a",
+        "share": 0.023
+      },
+      {
+        "hex": "#c1b695",
+        "share": 0.021
+      }
+    ],
+    "background": "#d5c3a8",
+    "chroma": 0.16,
+    "lightness": 0.66,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.35,
+    "distinct": 11,
+    "hues": 1
+  }
+}

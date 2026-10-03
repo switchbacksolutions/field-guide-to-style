@@ -1,0 +1,48 @@
+{
+  "id": "brutal-wordpress-theme-2016",
+  "title": "Brutal theme (WordPress)",
+  "type": "product",
+  "medium": "software",
+  "lede": "Justin Jackson’s open-source WordPress theme, made to carry the plain-page ideas of his essay “This is a web page”.",
+  "summary": "A 2016 one-column WordPress theme: monospace body, small headings, square bullets, no decoration.",
+  "source": {
+    "url": "https://github.com/mijustin/brutal-theme",
+    "label": "GitHub: mijustin/brutal-theme"
+  },
+  "creator": {
+    "name": "Justin Jackson, after a design by Kyle Fox",
+    "url": "https://justinjackson.ca/"
+  },
+  "made": "2016",
+  "moods": [
+    "plain",
+    "honest"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Read the README and `style.css` on GitHub on 2026-10-02. Repository created 27 September 2016 (GitHub API). The bundled `screenshot.png` is only 600 × 450 px, so the look is not recorded as observed."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "brutalist-web-design",
+      "note": "Partial fit: a one-column monospace page with tiny headings, but with a set font (Roboto Mono) and a fixed column instead of raw defaults.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "README: “A brutalist WordPress theme”, “inspired by two of my essays”: [This is a web page](https://justinjackson.ca/words.html) and “I’m a fucking websmaster”. “The original design came from Kyle Fox.”",
+    "`style.css` sets `font-family: 'Roboto Mono', monospace; font-size: 16px; max-width: 46em`, `h1 { font-size: 1.5em }`, `h2 { font-size: 1.2em }`, `h3 { font-size: 1em }`, and square list bullets. Theme tags: one-column, light.",
+    "[NN/g (2017)](ref:nngroup-brutalism-antidesign-article-2017) cites Justin Jackson’s blog for “the black and blue Monospace typography often seen in brutalist sites”.",
+    "Licensed under the GNU General Public License."
+  ],
+  "interpretation": [
+    "Shows how small the type scale of the style is: here the largest heading is only 1.5 times the body."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "GPL-2.0",
+    "statement": "The code is GPL-licensed. No image is stored."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/hiroshige-sudden-shower-over-shin-ohashi-1857.jpg",
+  "captured": "2026-10-03T01:43:21+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#a5b5a9",
+        "share": 0.237
+      },
+      {
+        "hex": "#96a295",
+        "share": 0.146
+      },
+      {
+        "hex": "#b3c4b6",
+        "share": 0.056
+      },
+      {
+        "hex": "#a28d76",
+        "share": 0.043
+      },
+      {
+        "hex": "#858f84",
+        "share": 0.041
+      },
+      {
+        "hex": "#3c3836",
+        "share": 0.041
+      },
+      {
+        "hex": "#f7f3e6",
+        "share": 0.041
+      },
+      {
+        "hex": "#94816c",
+        "share": 0.039
+      },
+      {
+        "hex": "#ab9982",
+        "share": 0.038
+      },
+      {
+        "hex": "#7d8478",
+        "share": 0.036
+      }
+    ],
+    "background": "#a5b5a9",
+    "chroma": 0.11,
+    "lightness": 0.58,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.55,
+    "distinct": 19,
+    "hues": 1
+  }
+}

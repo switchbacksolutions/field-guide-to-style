@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/page-chromatic-wood-type-specimens-1874.jpg",
+  "captured": "2026-10-03T01:52:50+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.469
+      },
+      {
+        "hex": "#fbc82a",
+        "share": 0.154
+      },
+      {
+        "hex": "#69c0fc",
+        "share": 0.035
+      },
+      {
+        "hex": "#5ab4fb",
+        "share": 0.031
+      },
+      {
+        "hex": "#fdc7ea",
+        "share": 0.03
+      },
+      {
+        "hex": "#b398a7",
+        "share": 0.023
+      },
+      {
+        "hex": "#040304",
+        "share": 0.022
+      },
+      {
+        "hex": "#9d8592",
+        "share": 0.021
+      },
+      {
+        "hex": "#bfafb9",
+        "share": 0.02
+      },
+      {
+        "hex": "#f0add4",
+        "share": 0.019
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.23,
+    "lightness": 0.81,
+    "chromaticShare": 0.29,
+    "accentChroma": 0.7,
+    "distinct": 8,
+    "hues": 2
+  }
+}

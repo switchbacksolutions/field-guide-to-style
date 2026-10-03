@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/risograph-rz670-duplicator-nagoya-2021.jpg",
+  "captured": "2026-10-03T01:53:29+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#79644b",
+        "share": 0.132
+      },
+      {
+        "hex": "#131314",
+        "share": 0.13
+      },
+      {
+        "hex": "#babab6",
+        "share": 0.117
+      },
+      {
+        "hex": "#afaeaa",
+        "share": 0.068
+      },
+      {
+        "hex": "#a19d9e",
+        "share": 0.061
+      },
+      {
+        "hex": "#363940",
+        "share": 0.05
+      },
+      {
+        "hex": "#2b2e34",
+        "share": 0.043
+      },
+      {
+        "hex": "#565252",
+        "share": 0.04
+      },
+      {
+        "hex": "#202429",
+        "share": 0.037
+      },
+      {
+        "hex": "#655f5e",
+        "share": 0.036
+      }
+    ],
+    "background": "#79644b",
+    "chroma": 0.06,
+    "lightness": 0.41,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 16,
+    "hues": 0
+  }
+}

@@ -46,6 +46,14 @@ Use it like this: choose a style from the list, read its JSON record for rules a
 - [Synthwave](api/styles/synthwave.json): Neon grids, striped sunsets, and chrome lettering on a black night sky. The 1980s remembered as a movie. Tokens: implementations/synthwave/tokens.css
 - [Kawaii](api/styles/kawaii.json): Pastel, round, and smiling. Every object can have a face. Tokens: implementations/kawaii/tokens.css
 - [Pixel Art](api/styles/pixel-art.json): Visible square pixels. Small palettes. Stepped edges and bitmap type. Tokens: implementations/pixel-art/tokens.css
+- [Ukiyo-e](api/styles/ukiyo-e.json): Black key lines, flat color blocks, and a blue bokashi sky. Woodblock prints of the floating world. Tokens: implementations/ukiyo-e/tokens.css
+- [Victorian typography](api/styles/victorian-typography.json): A centred stack of fat faces, slabs, and condensed gothics, every line in a different letter. The jobbing printer's poster. Tokens: implementations/victorian-typography/tokens.css
+- [Brutalist web design](api/styles/brutalist-web-design.json): Raw HTML on purpose. Black text, blue links, browser defaults. Tokens: implementations/brutalist-web-design/tokens.css
+- [Liquid Glass](api/styles/liquid-glass.json): Clear, lensing glass controls that float over edge-to-edge content. Apple’s design language from 2025. Tokens: implementations/liquid-glass/tokens.css
+- [Risograph](api/styles/risograph.json): Two or three fluorescent and spot inks, overprinted, grainy, and slightly out of register. The look of the zine-fair table. Tokens: implementations/risograph/tokens.css
+- [Ulm School](api/styles/ulm-school.json): White and grey housings, perforated grilles, and one small spot of color on a control. Order as a service. Tokens: implementations/ulm-school/tokens.css
+- [Acid graphics](api/styles/acid-graphics.json): Liquid-chrome lettering and warped or blackletter type on black, often with acid green, packed like a rave flyer. Tokens: implementations/acid-graphics/tokens.css
+- [Bento grid](api/styles/bento-grid.json): Rounded tiles of different sizes in one tight grid, one fact per tile. The look of Apple’s keynote summary slides. Tokens: implementations/bento-grid/tokens.css
 
 ## Data
 

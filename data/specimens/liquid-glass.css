@@ -1,0 +1,94 @@
+/* Liquid Glass specimen. Uses tokens.css. Glass sits only on the control layer; content stays opaque, per Apple's HIG. */
+* { box-sizing: border-box; }
+html { min-height: 100%; background: var(--color-bg); }
+body { max-width: 1160px; min-height: 100vh; margin: 0 auto; padding: 0 4% var(--spacing-xl); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); line-height: var(--leading-body); }
+a { color: var(--color-primary); }
+:focus-visible { outline: 2px solid var(--color-primary); outline-offset: 3px; border-radius: var(--radius-sm); }
+.specimen-back { position: relative; z-index: 3; margin: 0; padding: var(--spacing-sm) 0; font-size: var(--text-xs); }
+
+/* Glass: a sheen gradient over a light fill, low blur with boosted saturation, and a lit rim instead of a stroke. */
+.site-header, .kicker, .facts div, .button, button, input {
+  background-color: var(--color-secondary);
+  background-image: var(--gradient-sheen);
+  box-shadow: var(--shadow-sm);
+  -webkit-backdrop-filter: blur(var(--blur-sm)) saturate(180%) brightness(1.05);
+  backdrop-filter: blur(var(--blur-sm)) saturate(180%) brightness(1.05);
+}
+.facts div, .kicker { background-color: var(--color-glass-clear); }
+
+/* The toolbar floats inset from the edges, over the wallpaper, instead of being pinned to them. */
+.site-header { position: sticky; top: var(--spacing-sm); z-index: 2; display: flex; justify-content: space-between; align-items: center; gap: var(--spacing-md); flex-wrap: wrap; margin: 0 auto; width: min(100%, 760px); padding: 10px 10px 10px var(--spacing-md); border-radius: var(--radius-pill); box-shadow: var(--shadow-md); -webkit-backdrop-filter: blur(var(--blur-md)) saturate(180%); backdrop-filter: blur(var(--blur-md)) saturate(180%); }
+.logo { color: var(--color-text); font-family: var(--font-display); font-size: var(--text-lg); font-weight: var(--font-weight-display); letter-spacing: var(--tracking-heading); text-decoration: none; }
+.site-header nav { display: flex; gap: 4px; }
+.site-header nav a { padding: 8px 16px; border-radius: var(--radius-pill); color: var(--color-text); font-size: var(--text-sm); font-weight: var(--font-weight-bold); text-decoration: none; }
+.site-header nav a:first-child { background: var(--color-glass-sheen); }
+.site-header nav a:hover { color: var(--color-primary); }
+
+/* The hero is content: an opaque, colorful wallpaper that the glass bends and tints. */
+.hero {
+  position: relative; margin: -76px 0 var(--spacing-lg); padding: 150px var(--spacing-xl) var(--spacing-xl); border-radius: var(--radius-lg); color: var(--color-on-primary);
+  background:
+    radial-gradient(ellipse 60% 70% at 88% 18%, var(--color-wallpaper-orange), transparent 70%),
+    radial-gradient(ellipse 55% 60% at 70% 92%, var(--color-wallpaper-pink), transparent 70%),
+    radial-gradient(ellipse 45% 55% at 100% 70%, var(--color-wallpaper-teal), transparent 70%),
+    linear-gradient(160deg, var(--color-wallpaper-deep), var(--color-wallpaper-blue) 45%, var(--color-wallpaper-violet));
+}
+.kicker { display: inline-block; margin: 0 0 var(--spacing-md); padding: 6px 16px; border-radius: var(--radius-pill); color: var(--color-on-primary); font-size: var(--text-sm); font-weight: var(--font-weight-bold); }
+h1 { max-width: 11ch; margin: 0; font-family: var(--font-display); font-size: clamp(48px, 8vw, var(--text-5xl)); font-weight: var(--font-weight-display); line-height: var(--leading-tight); letter-spacing: var(--tracking-display); }
+.lede { max-width: 40ch; margin: var(--spacing-md) 0 var(--spacing-lg); font-size: var(--text-lg); }
+.actions { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); margin: 0 0 var(--spacing-lg); }
+
+/* Buttons are capsules of glass. The prominent one is tinted glass, not an opaque fill. */
+.button, button { display: inline-block; padding: 13px 26px; border: 0; border-radius: var(--radius-pill); color: var(--color-on-secondary); font: var(--font-weight-bold) var(--text-base)/1.2 var(--font-body); text-decoration: none; cursor: pointer; }
+.button:not(.button-secondary), button { background-color: var(--color-primary); background-image: var(--gradient-tint), var(--gradient-sheen); color: var(--color-on-primary); }
+.hero .button-secondary { color: var(--color-on-primary); background-color: var(--color-glass-clear); }
+.button:hover, button:hover { filter: brightness(1.08); }
+
+.facts { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); margin: 0; }
+.facts div { min-width: 120px; padding: var(--spacing-sm) var(--spacing-md); border-radius: var(--radius-md); }
+dt { font-size: var(--text-xs); font-weight: var(--font-weight-bold); letter-spacing: var(--tracking-label); }
+dd { margin: 0; font-family: var(--font-display); font-size: var(--text-3xl); font-weight: var(--font-weight-display); line-height: 1.1; }
+
+/* Content sections are opaque, with concentric corners: inner radius = outer radius minus padding. */
+section:not(.hero) { margin: var(--spacing-lg) 0; padding: var(--spacing-md); border-radius: var(--radius-lg); background: var(--color-surface); }
+h2 { margin: var(--spacing-xs) var(--spacing-xs) var(--spacing-md); font-family: var(--font-display); font-size: var(--text-2xl); font-weight: var(--font-weight-display); line-height: var(--leading-tight); letter-spacing: var(--tracking-heading); }
+h3 { margin: var(--spacing-xs) 0; font-family: var(--font-display); font-size: var(--text-lg); font-weight: var(--font-weight-bold); }
+.cards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: var(--spacing-sm); }
+.card { padding: var(--spacing-md); border-radius: var(--radius-sm); background: var(--color-subtle); }
+.card p { color: var(--color-muted); margin-bottom: var(--spacing-md); }
+.card-number { color: var(--color-primary); font-size: var(--text-sm); font-weight: var(--font-weight-bold); }
+
+table { width: 100%; border-collapse: collapse; }
+th { padding: 6px var(--spacing-xs); color: var(--color-muted); font-size: var(--text-xs); font-weight: var(--font-weight-bold); text-align: left; }
+td { padding: 12px var(--spacing-xs); }
+td:first-child { font-weight: var(--font-weight-bold); }
+td:last-child { color: var(--color-muted); }
+
+.quote { margin: var(--spacing-xl) 0; padding: 0 var(--spacing-md); }
+.quote p { max-width: 30ch; margin: 0 0 var(--spacing-xs); font-family: var(--font-display); font-size: var(--text-3xl); font-weight: var(--font-weight-display); line-height: 1.15; letter-spacing: var(--tracking-display); }
+.quote footer { color: var(--color-muted); font-size: var(--text-sm); }
+
+.card .price { margin: 0; font-family: var(--font-display); font-size: var(--text-3xl); font-weight: var(--font-weight-display); letter-spacing: var(--tracking-display); }
+.card-featured .price { color: var(--color-primary); }
+
+form { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); align-items: center; padding: 0 var(--spacing-xs); }
+label { width: 100%; font-size: var(--text-sm); font-weight: var(--font-weight-bold); }
+input { flex: 1 1 240px; padding: 13px 20px; border: 0; border-radius: var(--radius-pill); background-color: var(--color-subtle); color: var(--color-text); font: inherit; }
+input::placeholder { color: var(--color-muted); }
+.note { margin-bottom: var(--spacing-xs); padding: 0 var(--spacing-xs); color: var(--color-muted); font-size: var(--text-sm); }
+.site-footer { margin-top: var(--spacing-lg); color: var(--color-muted); font-size: var(--text-xs); text-align: center; }
+code { font-family: var(--font-mono); }
+
+/* Without blur or with reduced transparency, glass becomes a frosted, nearly opaque fill. */
+@supports not ((backdrop-filter: blur(1px)) or (-webkit-backdrop-filter: blur(1px))) {
+  .site-header, .facts div, .kicker, .hero .button-secondary { background-color: var(--color-surface); color: var(--color-text); }
+}
+@media (prefers-reduced-transparency: reduce) {
+  .site-header, .facts div, .kicker, .hero .button-secondary { background-color: var(--color-surface); color: var(--color-text); }
+}
+@media (max-width: 640px) {
+  .site-header { border-radius: var(--radius-lg); padding: 10px var(--spacing-sm); }
+  .site-header nav a { padding: 6px 10px; }
+  .hero { margin-top: -110px; padding: 170px var(--spacing-md) var(--spacing-lg); }
+  table { display: block; overflow-x: auto; }
+}

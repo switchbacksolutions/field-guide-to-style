@@ -1,0 +1,75 @@
+{
+  "id": "shunsho-three-beauties-by-a-veranda-1792",
+  "title": "Shunshō, Three Beauties Chatting by a Veranda",
+  "type": "image",
+  "medium": "painting",
+  "lede": "A hanging-scroll painting of three women at a veranda on a summer evening, by Katsukawa Shunshō, a print designer who also painted ukiyo-e on silk.",
+  "summary": "Ink and color on silk: outlined figures, patterned robes, and gold mist bands. Katsukawa Shunshō, about 1792.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/11613",
+    "label": "Art Institute of Chicago, 1960.65"
+  },
+  "creator": {
+    "name": "Katsukawa Shunshō"
+  },
+  "made": "About 1792",
+  "moods": [
+    "calm",
+    "elegant",
+    "narrative"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Art Institute of Chicago image of 1960.65 (843 × 1715 px, the largest size the IIIF server returned for this narrow scroll). The image includes the brocade mounting."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ukiyo-e",
+      "note": "A painted ukiyo-e (nikuhitsu-ga): the same outlined figures, flat patterned robes, and off-center composition as the prints, in ink and color on silk. Partial fit: the painting has soft tonal washes that prints do not have.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "AIC catalogues the work as a hanging scroll, ink and colors on silk, 89.4 × 34.6 cm, about 1792. [AIC 1960.65](https://www.artic.edu/artworks/11613).",
+    "Wikipedia’s Ukiyo-e article says that ukiyo-e artists produced paintings as well as prints, and names hanging scrolls (kakemono) among the most common painted formats. [Wikipedia](https://en.wikipedia.org/wiki/Ukiyo-e)."
+  ],
+  "observed": [
+    "The painting sits in a tall, narrow mount of green and gold brocade with a gold-flecked band above and below.",
+    "A post of the veranda divides the picture vertically to the right of center. Two women lean out at right, a third stands on the ground at lower left.",
+    "Figures have thin black outlines. Faces are flat white with no modelling.",
+    "The standing woman’s robe is black with large cream hexagons. Her sash and under-robe are bright red. The other robes have fine gray stripes and small flower patterns.",
+    "Bands of gold mist with soft edges cross the upper third and fade into the silk.",
+    "A short vertical signature with a red seal sits high at the right."
+  ],
+  "interpretation": [
+    "The scroll shows that the style is a pictorial language, not only a print technique: the painter keeps the print’s outlines and flat pattern.",
+    "The mist bands do in paint what bokashi does in print."
+  ],
+  "borrow": [
+    "Divide a tall layout with one vertical line placed off center, and let figures overlap it.",
+    "Use soft-edged horizontal bands to separate the top of a tall panel from the content."
+  ],
+  "images": [
+    {
+      "file": "assets/references/shunsho-three-beauties-by-a-veranda-1792.jpg",
+      "alt": "Hanging scroll in a green and gold brocade mount. Three women in patterned kimonos at a wooden veranda: two lean over the rail at right, one stands below at left holding a round fan. Gold mist bands cross the upper part.",
+      "width": 786,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Katsukawa Shunshō, Three Beauties Chatting by a Veranda, about 1792. [Art Institute of Chicago 1960.65](https://www.artic.edu/artworks/11613). CC0.",
+      "original": "https://www.artic.edu/iiif/2/db7874fd-c5ca-454a-e775-18ca3a27b523/full/843,/0/default.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Art Institute of Chicago marks the object public domain (`is_public_domain: true`) and releases images of public-domain works under CC0. [AIC open access](https://www.artic.edu/open-access/open-access-images). Shunshō died in 1793, so the painting is public domain in Japan and the United States. The brocade mounting is an old textile with no known author."
+  },
+  "identifiers": {
+    "aic": "11613",
+    "accession": "1960.65"
+  }
+}

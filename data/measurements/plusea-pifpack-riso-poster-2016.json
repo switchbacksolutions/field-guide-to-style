@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/plusea-pifpack-riso-poster-2016.jpg",
+  "captured": "2026-10-03T01:53:30+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e1e0df",
+        "share": 0.369
+      },
+      {
+        "hex": "#f0f3f4",
+        "share": 0.353
+      },
+      {
+        "hex": "#d1d0d0",
+        "share": 0.04
+      },
+      {
+        "hex": "#f852ab",
+        "share": 0.032
+      },
+      {
+        "hex": "#8e898e",
+        "share": 0.028
+      },
+      {
+        "hex": "#c3c3c4",
+        "share": 0.027
+      },
+      {
+        "hex": "#a09ea1",
+        "share": 0.027
+      },
+      {
+        "hex": "#707582",
+        "share": 0.027
+      },
+      {
+        "hex": "#b2b1b4",
+        "share": 0.025
+      },
+      {
+        "hex": "#576073",
+        "share": 0.024
+      }
+    ],
+    "background": "#e1e0df",
+    "chroma": 0.04,
+    "lightness": 0.82,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.57,
+    "distinct": 10,
+    "hues": 2
+  }
+}

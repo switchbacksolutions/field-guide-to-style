@@ -1,0 +1,241 @@
+{
+  "$description": "Authored tokens for brutalist-web-design. Values follow browser default styles. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#ffffff"
+    },
+    "surface": {
+      "$value": "#ffffff"
+    },
+    "subtle": {
+      "$value": "#efefef",
+      "$description": "Chrome's default ButtonFace gray."
+    },
+    "text": {
+      "$value": "#000000"
+    },
+    "muted": {
+      "$value": "#555555"
+    },
+    "border": {
+      "$value": "#808080",
+      "$description": "Default table and rule gray."
+    },
+    "primary": {
+      "$value": "#0000ee",
+      "$description": "The default unvisited link color."
+    },
+    "on-primary": {
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$value": "#551a8b",
+      "$description": "The default visited link color."
+    },
+    "on-secondary": {
+      "$value": "#ffffff"
+    },
+    "accent": {
+      "$value": "#ee0000",
+      "$description": "The default active link color."
+    },
+    "on-accent": {
+      "$value": "#ffffff"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Times New Roman",
+        "Times",
+        "serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Times New Roman",
+        "Times",
+        "serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Courier New",
+        "Courier",
+        "monospace"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 700
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "13px"
+    },
+    "sm": {
+      "$value": "13px"
+    },
+    "base": {
+      "$value": "16px"
+    },
+    "lg": {
+      "$value": "18.72px",
+      "$description": "Default h3: 1.17em."
+    },
+    "xl": {
+      "$value": "24px",
+      "$description": "Default h2: 1.5em."
+    },
+    "2xl": {
+      "$value": "24px"
+    },
+    "3xl": {
+      "$value": "32px",
+      "$description": "Default h1: 2em."
+    },
+    "4xl": {
+      "$value": "32px"
+    },
+    "5xl": {
+      "$value": "32px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 1.15
+    },
+    "body": {
+      "$value": 1.15,
+      "$description": "The browser's line-height: normal for Times."
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "0px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "2px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "2px"
+    },
+    "sm": {
+      "$value": "8px"
+    },
+    "md": {
+      "$value": "16px",
+      "$description": "The default paragraph margin: 1em."
+    },
+    "lg": {
+      "$value": "24px"
+    },
+    "xl": {
+      "$value": "40px",
+      "$description": "The default list and blockquote indent."
+    },
+    "2xl": {
+      "$value": "40px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.3xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

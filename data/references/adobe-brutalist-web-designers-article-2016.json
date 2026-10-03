@@ -1,0 +1,47 @@
+{
+  "id": "adobe-brutalist-web-designers-article-2016",
+  "title": "Adobe Blog, “Brutalist Web Designers Eschew Rules for UX Best Practices”",
+  "type": "website",
+  "medium": "editorial",
+  "lede": "An early trade article that credits Pascal Deville with codifying brutalist web design and quotes his reasons.",
+  "summary": "Adobe’s 2016 article on the brutalist web movement, with quotes from Pascal Deville of brutalistwebsites.com.",
+  "source": {
+    "url": "https://blog.adobe.com/en/publish/2016/12/01/brutalist-web-designers-eschew-rules-for-ux-best-practices",
+    "label": "Adobe Blog"
+  },
+  "creator": {
+    "name": "Adobe Blog"
+  },
+  "made": "2016",
+  "moods": [
+    "raw",
+    "contrarian"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Article text read on 2026-10-02. The date comes from the URL path (2016/12/01). No byline was found in the extracted text. The embedded animation was not inspected."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "brutalist-web-design",
+      "note": "Dated attestation of the name and of Deville’s role. Partial fit: it describes both the plain and the deliberately difficult branches.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "“One of the first people to codify brutalist web design was Pascal Deville,” creative director at Freundliche Grüsse and founder of [Brutalist Websites](ref:brutalist-websites-directory).",
+    "Deville: many designers explain it “as a kind of a minimalist movement. They want to get rid of all the creative elements and stuff you can add to a website today.” Others come from punk or hardcore culture, “where things are very rough”.",
+    "Deville also calls it a push against UX design that “has become a style that is very dominated by how Google and Apple do stuff”.",
+    "The article frames brutalist sites as “rougher, more basic — and at the same time more difficult to navigate”, which mixes in the antidesign branch."
+  ],
+  "interpretation": [
+    "Good for dating and for motive. Its description of difficulty belongs to antidesign, which [NN/g (2017)](ref:nngroup-brutalism-antidesign-article-2017) later separated."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Adobe. Link and quotation only."
+  }
+}

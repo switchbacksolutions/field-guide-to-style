@@ -1,0 +1,272 @@
+{
+  "$description": "Authored tokens for victorian-typography. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#efe4cc",
+      "$description": "Buff poster paper."
+    },
+    "surface": {
+      "$value": "#f6eedb"
+    },
+    "subtle": {
+      "$value": "#e3d3b0"
+    },
+    "text": {
+      "$value": "#1b1712"
+    },
+    "muted": {
+      "$value": "#4b4236"
+    },
+    "border": {
+      "$value": "#1b1712"
+    },
+    "primary": {
+      "$value": "#b3261e",
+      "$description": "Vermilion: the usual second ink on bills."
+    },
+    "on-primary": {
+      "$value": "#f6eedb"
+    },
+    "secondary": {
+      "$value": "#1b1712",
+      "$description": "Black ink."
+    },
+    "on-secondary": {
+      "$value": "#f6eedb"
+    },
+    "accent": {
+      "$value": "#1f3a6e",
+      "$description": "Blue: the rarer third ink."
+    },
+    "on-accent": {
+      "$value": "#f6eedb"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Bodoni Poster",
+        "Bodoni MT Black",
+        "Didot",
+        "Bodoni 72",
+        "Liberation Serif",
+        "Times New Roman",
+        "serif"
+      ],
+      "$description": "Fat face: an ultra-bold Didone for the main lines."
+    },
+    "body": {
+      "$value": [
+        "Century Schoolbook",
+        "Georgia",
+        "DejaVu Serif",
+        "serif"
+      ],
+      "$description": "Plain roman for small print."
+    },
+    "mono": {
+      "$value": [
+        "Courier New",
+        "Courier",
+        "Liberation Mono",
+        "monospace"
+      ]
+    },
+    "slab": {
+      "$value": [
+        "Rockwell Extra Bold",
+        "Rockwell",
+        "Clarendon",
+        "DejaVu Serif",
+        "serif"
+      ],
+      "$description": "Egyptian slab serif."
+    },
+    "condensed": {
+      "$value": [
+        "Haettenschweiler",
+        "Impact",
+        "Ubuntu Sans",
+        "Arial Narrow",
+        "sans-serif"
+      ],
+      "$description": "Condensed theatre gothic; set with font-stretch condensed."
+    },
+    "ornamented": {
+      "$value": [
+        "Playbill",
+        "Algerian",
+        "Rosewood Std",
+        "Bitstream Charter",
+        "serif"
+      ],
+      "$description": "Stand-in for Tuscan and ornamented wood letters."
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 900
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "21px"
+    },
+    "xl": {
+      "$value": "28px"
+    },
+    "2xl": {
+      "$value": "38px"
+    },
+    "3xl": {
+      "$value": "56px"
+    },
+    "4xl": {
+      "$value": "84px"
+    },
+    "5xl": {
+      "$value": "144px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.92
+    },
+    "body": {
+      "$value": 1.45
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.18,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "0px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "6px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "rams-rz62-armchair-1962",
+  "title": "Dieter Rams, RZ 62 armchair, 1962",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "Dieter Rams’s lounge chair for Vitsœ: a dark glass-fibre shell of flat side panels, filled with loose upholstered cushions.",
+  "summary": "Flat dark shell panels with visible fixing bolts, soft square cushions, and a set-back plinth. Rams for Vitsœ, about 1962.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O314704/",
+    "label": "Victoria and Albert Museum, CIRC.430:1-1970"
+  },
+  "creator": {
+    "name": "Dieter Rams, designer; Vitsœ, manufacturer"
+  },
+  "made": "ca. 1962",
+  "moods": [
+    "calm",
+    "restrained",
+    "solid"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A’s image 2014HC8620 of object CIRC.430:1-1970 at 1600 × 1540 px, through the V&A IIIF service. The image is a black-and-white photograph, so it does not show color."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ulm-school",
+      "note": "Rams’s furniture follows his Braun method: flat panels, visible fixings, a modular frame, and no ornament.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "The V&A dates the chair about 1962 and gives a black matt glass-fibre base, sides, and back, with suede-covered rubberised hair upholstery and a separate seat cushion. The record says it was manufactured by Vitsœ, Eschborn, and relaunched by Vitsœ in 2006. [V&A CIRC.430:1-1970](https://collections.vam.ac.uk/item/O314704/).",
+    "The same record quotes R. Hollis (1970): Rams was head of the Product Design Division at Braun AG from 1955. [V&A](https://collections.vam.ac.uk/item/O314704/)."
+  ],
+  "observed": [
+    "Each side is one flat, dark panel with rounded corners. The armrest is a padded top edge that folds out over the panel.",
+    "Two small round bolt heads show on each side panel.",
+    "The seat and back are loose, square cushions with soft edges, set inside the shell.",
+    "The chair stands on a recessed plinth, so the body appears to float a little above the floor."
+  ],
+  "interpretation": [
+    "The chair is the furniture branch of the style: a box of flat parts that is honest about its fixings. It is dark and upholstered, so it fits the structure and surface rules more than the white-and-grey palette."
+  ],
+  "borrow": [
+    "Show the fixings as small, regular round details instead of hiding them."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Image © Victoria and Albert Museum, London. The V&A allows non-commercial use of its images under its own terms, not an open license. The design is by living or recently deceased designers. No image is stored."
+  },
+  "identifiers": {
+    "vam": "O314704"
+  }
+}

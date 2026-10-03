@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/hokusai-under-the-wave-off-kanagawa-1830.jpg",
+  "captured": "2026-10-03T01:42:29+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#c5b397",
+        "share": 0.232
+      },
+      {
+        "hex": "#e5d5b7",
+        "share": 0.153
+      },
+      {
+        "hex": "#dac5a4",
+        "share": 0.141
+      },
+      {
+        "hex": "#fff3dc",
+        "share": 0.053
+      },
+      {
+        "hex": "#1b2740",
+        "share": 0.045
+      },
+      {
+        "hex": "#233650",
+        "share": 0.036
+      },
+      {
+        "hex": "#9badad",
+        "share": 0.033
+      },
+      {
+        "hex": "#28435f",
+        "share": 0.033
+      },
+      {
+        "hex": "#abb7b1",
+        "share": 0.032
+      },
+      {
+        "hex": "#34526e",
+        "share": 0.028
+      }
+    ],
+    "background": "#c5b397",
+    "chroma": 0.15,
+    "lightness": 0.63,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 12,
+    "hues": 0
+  }
+}

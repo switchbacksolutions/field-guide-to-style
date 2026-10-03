@@ -1,0 +1,56 @@
+{
+  "id": "oorloff-pleasure-planet-pure-romance",
+  "title": "Darren Oorloff, Pleasure Planet “Pure Romance” artwork",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A square artwork of chrome mannequin heads in a warped checkerboard room, with a pink gradient sphere, warped stripes, and a vertical title strip.",
+  "summary": "Chrome heads, warped checkerboards, a red-pink sphere, and wavy stripes. Darren Oorloff, featured on @acidgraphix.",
+  "source": {
+    "url": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+    "label": "AIGA Eye on Design (5 September 2019): “Acid Graphics” Are the New Psychedelia"
+  },
+  "creator": {
+    "name": "Darren Oorloff"
+  },
+  "made": "Not stated (before September 2019)",
+  "moods": [
+    "surreal",
+    "cool",
+    "synthetic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 px image `Darren-Oorloff-PP-Pure-Romance.jpg` that [Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) published with the article, in a scratch folder. Not stored. The object is a digital image as the magazine published it, not a named physical copy. The caption reads “Darren Oorloff, PP, Pure-Romance, as featured on @acidgraphix”. The square format suggests a record cover, but the source does not say so."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "acid-graphics",
+      "note": "Partial fit: chrome heads, warped op-art checkerboards, and glitch cuts as the article describes, but with pink and red, not acid green, and no chrome lettering.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "[Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) shows the work in its 2019 article on acid graphics, with the caption “Darren Oorloff, PP, Pure-Romance, as featured on @acidgraphix”."
+  ],
+  "observed": [
+    "Black-and-white checkerboards cover the floor and walls of a room and bend in perspective.",
+    "Two bald mannequin heads in profile face each other. Their surfaces are rendered as dark, reflective metal.",
+    "A red-to-violet gradient sphere sits on the checkerboard floor, and a red-pink doorway glows in the back wall.",
+    "A strip at the left holds “PLEASURE PLANET” in condensed capitals running vertically, “PURE ROMANCE” in italic capitals, the kanji 愛, and a panel of wavy red stripes.",
+    "Diagonal glitch cuts split the image near the left edge."
+  ],
+  "interpretation": [
+    "The work shows the op-art and chrome-figure side of the trend that Eye on Design lists, with a pink palette that brings it close to vaporwave. It is a boundary case for this record."
+  ],
+  "borrow": [
+    "Bend a checkerboard into a room to give a flat layout depth.",
+    "Run the title vertically in a narrow strip beside the image."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is recent and in copyright. The rights holder is the designer or the client."
+  }
+}

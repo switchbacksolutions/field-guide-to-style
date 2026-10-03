@@ -1,0 +1,74 @@
+{
+  "id": "french-clarendon-wood-type-hamilton-museum",
+  "title": "French Clarendon wood type at the Hamilton Wood Type & Printing Museum",
+  "titleBreak": "French Clarendon wood type|at the Hamilton museum",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "A tray of condensed French Clarendon wood letters, the reverse-contrast poster face with heavy slab serifs and thin stems that the Victorian bill used for names and slogans.",
+  "summary": "Tray of condensed reverse-contrast wood type, stained with years of coloured ink. Two Rivers, Wisconsin.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:French_Clarendon_wood_type.jpg",
+    "label": "Wikimedia Commons: French Clarendon wood type (photograph by Jessica Fiess-Hill)"
+  },
+  "creator": {
+    "name": "Unknown wood type maker; photograph by Jessica Fiess-Hill"
+  },
+  "made": "Type undated; photographed 2009",
+  "moods": [
+    "crafted",
+    "nostalgic",
+    "heavy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1280 × 850 px Commons thumbnail of the photograph (original 4288 × 2848 px), used instead of the original because Wikimedia returned HTTP 429. Commons says the type is at the Hamilton Wood Type Museum; no maker, date, or object number is given, so the font is unidentified."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "victorian-typography",
+      "note": "French Clarendon is one of the wood type genres named for the style, and the tray shows the physical letters behind the condensed theatre lines.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes the photograph as “French Clarendon wood type at the Hamilton Wood Type Museum, Wisconsin,” taken 8 November 2009 by Jessica Fiess-Hill.",
+    "Wikipedia lists the reverse-contrast or “French Clarendon” among the common wood type styles, with slab serif, fat face, sans-serif, Tuscan, and Grecian, and says Hamilton’s surviving materials are kept at the Hamilton Wood Type and Printing Museum in Two Rivers. [Wikipedia: Wood type](https://en.wikipedia.org/wiki/Wood_type)."
+  ],
+  "observed": [
+    "A shallow wooden tray holds three rows of wood letters standing on end, with their faces mirrored as type is.",
+    "The letters are condensed, with thin vertical stems and very heavy horizontal serifs and bars: the reverse-contrast pattern.",
+    "Exclamation marks, figures, and an ampersand sit among the capitals.",
+    "The faces carry old ink in yellow, red, brown, and black, and the wood grain shows through the worn surfaces.",
+    "Loose letters and spacing material lie in the tray below."
+  ],
+  "interpretation": [
+    "The tray explains a visual trait of the posters: the thick-and-thin was cut into wood, and the worn faces and grain are the reason big poster letters print unevenly.",
+    "Reverse contrast is one of the most recognisable Victorian letters, and it is almost absent from later design until Western and circus revivals."
+  ],
+  "borrow": [
+    "Use a reverse-contrast condensed face for names and dates on an event page.",
+    "Let large letters carry a little unevenness of ink, rather than a smooth vector fill."
+  ],
+  "images": [
+    {
+      "file": "assets/references/french-clarendon-wood-type-hamilton-museum.jpg",
+      "alt": "A wooden tray of condensed wood type letters standing in rows, seen from above. The letters have thin vertical stems and heavy slab serifs, and their faces are stained yellow, red, brown, and black from old ink.",
+      "width": 1280,
+      "height": 850,
+      "kind": "photograph",
+      "caption": "French Clarendon wood type at the Hamilton Wood Type & Printing Museum, Two Rivers, Wisconsin. Photograph by Jessica Fiess-Hill, 2009, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/), through [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:French_Clarendon_wood_type.jpg) (1280 px thumbnail).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a4/French_Clarendon_wood_type.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-2.0",
+    "statement": "Commons licenses the photograph CC BY 2.0 (Flickr review passed), credit Jessica Fiess-Hill. The subject is utilitarian wood type; typeface designs are not protected by copyright in the United States."
+  },
+  "identifiers": {
+    "commons": "File:French Clarendon wood type.jpg"
+  }
+}

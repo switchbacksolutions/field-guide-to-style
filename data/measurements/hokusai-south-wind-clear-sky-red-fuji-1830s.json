@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/hokusai-south-wind-clear-sky-red-fuji-1830s.jpg",
+  "captured": "2026-10-03T01:49:52+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#c29884",
+        "share": 0.173
+      },
+      {
+        "hex": "#849ba2",
+        "share": 0.152
+      },
+      {
+        "hex": "#d6cebd",
+        "share": 0.136
+      },
+      {
+        "hex": "#3e4c5b",
+        "share": 0.096
+      },
+      {
+        "hex": "#2d3753",
+        "share": 0.074
+      },
+      {
+        "hex": "#566a78",
+        "share": 0.052
+      },
+      {
+        "hex": "#c0c0bb",
+        "share": 0.052
+      },
+      {
+        "hex": "#f2eadf",
+        "share": 0.034
+      },
+      {
+        "hex": "#a1aba8",
+        "share": 0.027
+      },
+      {
+        "hex": "#7a6d66",
+        "share": 0.026
+      }
+    ],
+    "background": "#c29884",
+    "chroma": 0.13,
+    "lightness": 0.58,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 14,
+    "hues": 0
+  }
+}

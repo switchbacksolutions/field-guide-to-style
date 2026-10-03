@@ -1,0 +1,67 @@
+{
+  "id": "plusea-pifpack-riso-poster-2016",
+  "title": "Plusea, PIFpack riso poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "An instruction poster for a wearable tool bag, riso-printed in fluorescent pink and a dark blue-gray, with technical drawings and dot-matrix lettering.",
+  "summary": "Instruction poster in fluorescent pink and dark blue riso ink with technical drawings.",
+  "source": {
+    "url": "https://www.flickr.com/photos/plusea/29434481574/",
+    "label": "Flickr: Plusea, “PIFpack RISO printed posters”"
+  },
+  "creator": {
+    "name": "Plusea (Wearable Studio Practice)",
+    "url": "https://www.flickr.com/photos/plusea/"
+  },
+  "made": "2016 (photographed 22 September 2016)",
+  "moods": [
+    "technical",
+    "playful",
+    "maker"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the 727 × 1023 px Flickr “large” file of one poster, photographed flat. Other photos in the same set show other copies and color variants."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "risograph",
+      "note": "Fluorescent pink with one dark ink, screened tints, and grain in the solid areas.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Flickr title is “PIFpack RISO printed posters”, posted under CC BY 2.0 by Plusea. The poster’s footer reads “www.wsp.plusea.at”, the uploader’s own Wearable Studio Practice site, which supports that the uploader made it."
+  ],
+  "observed": [
+    "Two inks: fluorescent pink for the tools and labels, and a dark blue-gray for drawings, dimensions, and text.",
+    "The blue-gray bands that mark the bag’s seams are screened and grainy.",
+    "Pink squares hold dot-and-line monograms, and the title “PIFPACK” is drawn from dots and lines.",
+    "Text is a clean sans-serif and stays sharp."
+  ],
+  "interpretation": [
+    "The poster shows that riso suits diagrams as well as art: the fluorescent ink highlights, the dark ink explains."
+  ],
+  "borrow": [
+    "Use fluorescent pink only for the objects to notice, and a dark spot ink for all structure and text."
+  ],
+  "images": [
+    {
+      "file": "assets/references/plusea-pifpack-riso-poster-2016.jpg",
+      "alt": "A poster with technical drawings of a bag; tools and labels are fluorescent pink, and lines and text are dark blue-gray.",
+      "width": 727,
+      "height": 1023,
+      "kind": "photograph",
+      "caption": "PIFpack riso poster by Plusea, 2016. CC BY 2.0. [Flickr](https://www.flickr.com/photos/plusea/29434481574/), 1024 px “large” size.",
+      "original": "https://live.staticflickr.com/5175/29434481574_5573bf45ec_b.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-2.0",
+    "statement": "Published on Flickr under CC BY 2.0 by Plusea, whose site is printed on the poster. Credit: Plusea."
+  }
+}

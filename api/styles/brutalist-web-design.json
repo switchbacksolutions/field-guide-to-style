@@ -1,0 +1,624 @@
+{
+  "id": "brutalist-web-design",
+  "title": "Brutalist web design",
+  "order": 38,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Web brutalism",
+    "Brutalism (web design)",
+    "l’Internet brut"
+  ],
+  "summary": "Raw HTML on purpose. Black text, blue links, browser defaults.",
+  "lede": "A web style that deliberately looks raw and unadorned: near-default HTML with black text on white, blue underlined links, browser-default type and controls, and almost no decoration. Designers chose it from about 2014 as a reaction against polished, template-like sites. This record covers that raw core. The loud, chaotic branch that also uses the name is treated as antidesign.",
+  "moods": [
+    "raw",
+    "honest",
+    "plain",
+    "utilitarian",
+    "contrarian"
+  ],
+  "era": {
+    "from": 2014,
+    "note": "Pascal Deville started brutalistwebsites.com in 2014. The look echoes 1990s websites such as Craigslist, which were plain because of early HTML and CSS, not by choice."
+  },
+  "regions": [
+    "International"
+  ],
+  "attestation": [
+    {
+      "label": "Pascal Deville, Brutalist Websites (directory, from 2014)",
+      "url": "https://brutalistwebsites.com/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Kate Moran, Nielsen Norman Group, “Brutalism and Antidesign” (5 November 2017)",
+      "url": "https://www.nngroup.com/articles/brutalism-antidesign/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Adobe Blog, “Brutalist Web Designers Eschew Rules for UX Best Practices” (1 December 2016)",
+      "url": "https://blog.adobe.com/en/publish/2016/12/01/brutalist-web-designers-eschew-rules-for-ux-best-practices",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Smashing Magazine, “The Split Personality of Brutalist Web Development” (January 2020)",
+      "url": "https://www.smashingmagazine.com/2020/01/split-personality-brutalist-web-development/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "David Bryant Copeland, “Guidelines for Brutalist Web Design” (updated 1 June 2025)",
+      "url": "https://brutalist-web.design/",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Brutalist architecture",
+      "wikidata": "Q994776",
+      "note": "The name and the idea of raw material come from architecture. NN/g (2017) and Copeland’s guidelines both cite béton brut and “truth to materials”. The link is by attitude, not by visual form."
+    },
+    {
+      "relation": "revival-of",
+      "label": "Early web pages of the 1990s",
+      "note": "NN/g (2017) says the style “echoes early 1990s-style websites (think Craigslist and the Drudge Report)”. Smashing Magazine (2020) calls the first website an “inadvertent disciple”."
+    },
+    {
+      "relation": "reaction-against",
+      "style": "flat-design",
+      "note": "Deville, quoted by Adobe (2016), describes a reaction to the “lightness, optimism, and frivolity” of web design shaped by Google and Apple. NN/g notes that both styles seek honesty by very different means."
+    },
+    {
+      "relation": "related-to",
+      "style": "neo-brutalism",
+      "note": "Neo-brutalism of the 2020s took the name and the visible structure, then added bright fills, thick outlines, and hard shadows. The neo-brutalism record lists this style as its ancestor."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "HTML as material.",
+      "text": "The page shows its document structure: headings, paragraphs, bulleted lists, definition lists, and tables in their default form. Little or no layout grid."
+    },
+    {
+      "facet": "type",
+      "term": "Default type.",
+      "text": "Times or another browser-default serif for body text, sometimes a monospace throughout. Headings are bold and only one to two times the body size."
+    },
+    {
+      "facet": "color",
+      "term": "Black, white, and link blue.",
+      "text": "Pure black text on pure white. Links are the default blue (#0000EE) and underlined; visited links turn purple. Other color is rare and flat, often a single red for emphasis."
+    },
+    {
+      "facet": "surface",
+      "term": "No polish.",
+      "text": "No shadows, gradients, or rounded corners. Borders come from default tables, inset rules, and gray push buttons."
+    },
+    {
+      "facet": "layout",
+      "term": "Document flow.",
+      "text": "Content runs top to bottom at full width with the browser’s 8 px margin and default indents. Elements are not arranged into cards or columns."
+    },
+    {
+      "facet": "imagery",
+      "term": "Few images.",
+      "text": "Images, when present, sit inline at their natural size without frames, crops, or overlays."
+    },
+    {
+      "facet": "motion",
+      "term": "No motion.",
+      "text": "No transitions or animation. Links and buttons give only the browser’s own feedback."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Links are blue and underlined, in the browser default color or close to it.",
+      "Body text is a default serif or monospace, black on white.",
+      "Headings are bold but small: at most about twice the body size.",
+      "Buttons, inputs, tables, and rules look like unstyled browser controls.",
+      "Content runs in one column of document flow, with no cards or decorative layout."
+    ],
+    "counter": [
+      "Shadows, gradients, rounded cards, or glass effects.",
+      "Bright fills on blocks, or thick black outlines with offset shadows (neo-brutalism).",
+      "Deliberate chaos: clashing colors, overlapping layers, odd cursors, or distracting animation (antidesign).",
+      "Carefully tuned type scale, custom typefaces, and generous designed whitespace."
+    ],
+    "confusions": [
+      {
+        "with": "neo-brutalism",
+        "difference": "Neo-brutalism is a polished, colorful component system: thick black outlines, hard offset shadows, and bright flat fills. Brutalist web design has no fills or shadows and keeps browser-default controls."
+      },
+      {
+        "with": "minimalist-machine",
+        "difference": "Minimalist Machine is designed: thin rules, outlined boxes, monospaced labels, and tuned spacing. Brutalist web design leaves styling at browser defaults, with serif body text and blue underlined links."
+      },
+      {
+        "with": "Antidesign",
+        "difference": "NN/g (2017) separates antidesign, which is often also called brutalism: harsh colors, no hierarchy, disorienting patterns and animation. Brutalist web design in this record is plain and readable, not chaotic."
+      },
+      {
+        "with": "grunge-typography",
+        "difference": "Grunge typography distresses and layers type for expression. Brutalist web design leaves type clean and default."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Write semantic HTML first and keep most elements at their browser-default look.",
+      "Use black text on white, a default serif or monospace, and blue underlined links. Let visited links turn purple.",
+      "Keep headings bold and small: h1 at about 2em, h2 at 1.5em.",
+      "Use native buttons, inputs, and tables with their default borders.",
+      "Put content in one column of document flow. Use rules and headings to separate sections."
+    ],
+    "dont": [
+      "Do not add shadows, gradients, rounded corners, or animation.",
+      "Do not turn content into cards, tiles, or hero banners.",
+      "Do not confuse raw with broken. Keep the page readable, keep links obvious, and keep the back button working.",
+      "Do not add clashing colors, overlapping layers, or odd cursors. That is antidesign, a different style."
+    ],
+    "uses": [
+      "Personal sites and blogs",
+      "Documentation and reference pages",
+      "Classified listings and link directories",
+      "Artist and designer portfolios that want an anti-polish stance",
+      "Low-bandwidth or long-lived public information pages"
+    ],
+    "avoid": [
+      "Consumer brands that must feel warm, premium, or trustworthy to non-designers. The plain look can read as unfinished.",
+      "Rich applications such as dashboards and editors. Default controls do not scale to dense interaction.",
+      "Children's products and playful launches. The style is dry and austere."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "type.sizeRange",
+      "max": 2.6,
+      "note": "Default heading sizes: h1 is 2em, so the largest text is about twice the body. Positive marker. Provisional."
+    },
+    {
+      "metric": "color.contrast",
+      "min": 19.5,
+      "note": "Pure black text on pure white. Positive marker. Provisional."
+    },
+    {
+      "metric": "color.hues",
+      "min": 1,
+      "max": 2,
+      "note": "Link blue is present, with at most one more flat color. Positive marker. Provisional."
+    },
+    {
+      "metric": "type.headingWeight",
+      "min": 700,
+      "note": "Default bold headings. Provisional."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.02,
+      "note": "No depth effects. Provisional."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0,
+      "note": "Flat backgrounds only. Provisional."
+    }
+  ],
+  "synthesis": [
+    "The core of the collection is written, not pictured. [NN/g (2017)](ref:nngroup-brutalism-antidesign-article-2017) sets the scope: “bare-bones, almost naked HTML” with blue links and monospace text, and it puts the chaotic branch under antidesign. [Smashing Magazine (2020)](ref:smashing-split-personality-brutalist-web-2020) calls the same core l’Internet brut: light ground, black text, blue links. [Copeland’s guidelines](ref:copeland-brutalist-web-design-guidelines) turn it into rules about behavior: underlined links, buttons that look like buttons, scrolling, and speed. His own site does not use default styles. [Adobe (2016)](ref:adobe-brutalist-web-designers-article-2016) dates the name and Deville’s motive, but its “more difficult to navigate” describes antidesign. [NN/g (2025)](ref:nngroup-neobrutalism-article-2025) separates plain-HTML brutalism from neobrutalism.",
+    "The look restates browser defaults. [CSS 2 Appendix D](ref:css2-default-style-sheet-for-html) and the [WHATWG Rendering section](ref:whatwg-html-rendering-defaults) document the 8 px body margin, h1 at 2em, h2 at 1.5em, underlined links, and the link colors #0000EE and #551A8B. The lineage records show where the defaults came from. The [first website](ref:worldwideweb-browser-first-website-1990) has black underlined links, a sans-serif heading, and no color. [NCSA Mosaic](ref:ncsa-mosaic-browser-1993) brought blue links, on a gray ground. Both were plain because of their tools, not by choice.",
+    "Few references show the look directly. [no style, please!](ref:no-style-please-jekyll-theme) is the clearest: black monospace on white, default blue and purple underlined links, nested default bullets, and no boxes, rules, or shadows. The [Brutal WordPress theme](ref:brutal-wordpress-theme-2016) keeps the small type scale (h1 at 1.5 times the body) but sets Roboto Mono and a 46em column. The [Brutalist Pelican theme](ref:brutalist-pelican-theme) follows Copeland’s rules with Lato and dark gray links, which shows that the rules can travel without the look. [Brutalist Websites](ref:brutalist-websites-directory) itself is a short monospace text above a loose grid of screenshots.",
+    "The references disagree with the grammar on type and ground. The grammar and the specimen use Times, but no observed reference has serif body text: the directory, no style, please!, and the Brutal theme are monospace, NN/g describes monospace, and the first website is sans-serif. The serif rests only on the browser default. The directory uses a #eeeeee ground and the Mosaic record notes a gray ground, against the rule of pure white. The directory’s screenshot grid also breaks the diagnostic of one column of document flow.",
+    "Only the directory is measured, from a capture of 25 September 2026. It fails `color.contrast`: 18.1 against the minimum of 19.5, because of the gray ground. It passes `type.sizeRange` (1, one 13 px size throughout) and `color.hues` (1, link blue #0000ee), and it has no shadows, gradients, or radii. `type.headingWeight` reads null, because the page has no headings. Its `color.imageShare` of 0.36 is screenshots of other sites, which also add a red to the pixel palette. The specimen measures contrast 21, size range 2, and heading weight 700. The measurements cannot see whether plainness is chosen, so a 1990s page and a 2020 theme can measure the same. The fingerprint stays specimen-based until Copeland’s site and the Smashing examples, such as Craigslist and old Reddit, are captured."
+  ],
+  "page": "brutalist-web-design.html",
+  "implementation": {
+    "tokens": "implementations/brutalist-web-design/tokens.json",
+    "css": "implementations/brutalist-web-design/tokens.css",
+    "tailwind": "implementations/brutalist-web-design/tailwind.css",
+    "shadcn": "implementations/brutalist-web-design/shadcn.css",
+    "registry": "implementations/brutalist-web-design/registry-item.json",
+    "designMd": "implementations/brutalist-web-design/DESIGN.md",
+    "specimen": "implementations/brutalist-web-design/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for brutalist-web-design. Values follow browser default styles. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#ffffff"
+      },
+      "surface": {
+        "$value": "#ffffff"
+      },
+      "subtle": {
+        "$value": "#efefef",
+        "$description": "Chrome's default ButtonFace gray."
+      },
+      "text": {
+        "$value": "#000000"
+      },
+      "muted": {
+        "$value": "#555555"
+      },
+      "border": {
+        "$value": "#808080",
+        "$description": "Default table and rule gray."
+      },
+      "primary": {
+        "$value": "#0000ee",
+        "$description": "The default unvisited link color."
+      },
+      "on-primary": {
+        "$value": "#ffffff"
+      },
+      "secondary": {
+        "$value": "#551a8b",
+        "$description": "The default visited link color."
+      },
+      "on-secondary": {
+        "$value": "#ffffff"
+      },
+      "accent": {
+        "$value": "#ee0000",
+        "$description": "The default active link color."
+      },
+      "on-accent": {
+        "$value": "#ffffff"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Times New Roman",
+          "Times",
+          "serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Times New Roman",
+          "Times",
+          "serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Courier New",
+          "Courier",
+          "monospace"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 700
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "13px"
+      },
+      "sm": {
+        "$value": "13px"
+      },
+      "base": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "18.72px",
+        "$description": "Default h3: 1.17em."
+      },
+      "xl": {
+        "$value": "24px",
+        "$description": "Default h2: 1.5em."
+      },
+      "2xl": {
+        "$value": "24px"
+      },
+      "3xl": {
+        "$value": "32px",
+        "$description": "Default h1: 2em."
+      },
+      "4xl": {
+        "$value": "32px"
+      },
+      "5xl": {
+        "$value": "32px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.15
+      },
+      "body": {
+        "$value": 1.15,
+        "$description": "The browser's line-height: normal for Times."
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "2px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "2px"
+      },
+      "sm": {
+        "$value": "8px"
+      },
+      "md": {
+        "$value": "16px",
+        "$description": "The default paragraph margin: 1em."
+      },
+      "lg": {
+        "$value": "24px"
+      },
+      "xl": {
+        "$value": "40px",
+        "$description": "The default list and blockquote indent."
+      },
+      "2xl": {
+        "$value": "40px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.3xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "brutalist-websites-directory",
+      "title": "Brutalist Websites",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the directory that named and codified the style in 2014, with raw, default-HTML sites as its core.",
+      "page": "references/brutalist-websites-directory.html",
+      "source": "https://brutalistwebsites.com/",
+      "image": "assets/references/brutalist-websites-directory.jpg",
+      "measurement": "data/measurements/brutalist-websites-directory.json"
+    },
+    {
+      "id": "nngroup-neobrutalism-article-2025",
+      "title": "NN/g, “Neobrutalism: Definition and Best Practices”",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Partial fit: the article contrasts plain-HTML brutalism, for example the Drudge Report, with neobrutalism.",
+      "page": "references/nngroup-neobrutalism-article-2025.html",
+      "source": "https://www.nngroup.com/articles/neobrutalism/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "adobe-brutalist-web-designers-article-2016",
+      "title": "Adobe Blog, “Brutalist Web Designers Eschew Rules for UX Best Practices”",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Dated attestation of the name and of Deville’s role. Partial fit: it describes both the plain and the deliberately difficult branches.",
+      "page": "references/adobe-brutalist-web-designers-article-2016.html",
+      "source": "https://blog.adobe.com/en/publish/2016/12/01/brutalist-web-designers-eschew-rules-for-ux-best-practices",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "brutal-wordpress-theme-2016",
+      "title": "Brutal theme (WordPress)",
+      "medium": "software",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Partial fit: a one-column monospace page with tiny headings, but with a set font (Roboto Mono) and a fixed column instead of raw defaults.",
+      "page": "references/brutal-wordpress-theme-2016.html",
+      "source": "https://github.com/mijustin/brutal-theme",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "brutalist-pelican-theme",
+      "title": "Brutalist (Pelican theme)",
+      "medium": "software",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Partial fit: it follows the guidelines of the style, but uses Lato and dark gray links instead of default type and link blue.",
+      "page": "references/brutalist-pelican-theme.html",
+      "source": "https://github.com/mc-buckets/brutalist",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "copeland-brutalist-web-design-guidelines",
+      "title": "David Bryant Copeland, “Guidelines for Brutalist Web Design”",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The best-known written statement of the raw core, cited by Smashing Magazine and by theme authors.",
+      "page": "references/copeland-brutalist-web-design-guidelines.html",
+      "source": "https://brutalist-web.design/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "ncsa-mosaic-browser-1993",
+      "title": "NCSA Mosaic (web browser)",
+      "medium": "software",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Lineage: an early browser whose default rendering became the look that later brutalist sites copy on purpose.",
+      "page": "references/ncsa-mosaic-browser-1993.html",
+      "source": "https://commons.wikimedia.org/wiki/File:NCSA_Mosaic_Browser_Screenshot.png",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "nngroup-brutalism-antidesign-article-2017",
+      "title": "NN/g, “Brutalism and Antidesign”",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The main design-authority source for the name, and the source of the split between the raw core and antidesign.",
+      "page": "references/nngroup-brutalism-antidesign-article-2017.html",
+      "source": "https://www.nngroup.com/articles/brutalism-antidesign/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "no-style-please-jekyll-theme",
+      "title": "no style, please! (Jekyll theme)",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Nearly unstyled HTML on purpose: default links, default lists, black on white, one monospace face.",
+      "page": "references/no-style-please-jekyll-theme.html",
+      "source": "https://github.com/riggraz/no-style-please",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "smashing-split-personality-brutalist-web-2020",
+      "title": "Smashing Magazine, “The Split Personality of Brutalist Web Development”",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Names and describes the raw core of the style and separates it from the audacious branch.",
+      "page": "references/smashing-split-personality-brutalist-web-2020.html",
+      "source": "https://www.smashingmagazine.com/2020/01/split-personality-brutalist-web-development/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "css2-default-style-sheet-for-html",
+      "title": "W3C CSS 2, Appendix D: “Default style sheet for HTML 4”",
+      "medium": "other",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Documentation of the default rendering that the style keeps or restates.",
+      "page": "references/css2-default-style-sheet-for-html.html",
+      "source": "https://www.w3.org/TR/CSS2/sample.html",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "whatwg-html-rendering-defaults",
+      "title": "WHATWG HTML Living Standard, “Rendering”",
+      "medium": "other",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Defines the exact default colors and sizes that the style’s tokens copy.",
+      "page": "references/whatwg-html-rendering-defaults.html",
+      "source": "https://html.spec.whatwg.org/multipage/rendering.html",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "worldwideweb-browser-first-website-1990",
+      "title": "WorldWideWeb browser and the first website (CERN)",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Lineage: the unintended original of the look. Smashing Magazine (2020) calls the first website an “inadvertent disciple”.",
+      "page": "references/worldwideweb-browser-first-website-1990.html",
+      "source": "https://worldwideweb.cern.ch/browser/",
+      "image": null,
+      "measurement": null
+    }
+  ]
+}

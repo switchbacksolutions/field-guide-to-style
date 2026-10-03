@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/liquid-glass-icon-effect-2025-2026-comparison.png",
+  "captured": "2026-10-03T01:41:58+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e6e6e6",
+        "share": 0.712
+      },
+      {
+        "hex": "#17ddfe",
+        "share": 0.111
+      },
+      {
+        "hex": "#010101",
+        "share": 0.049
+      },
+      {
+        "hex": "#fc5d15",
+        "share": 0.018
+      },
+      {
+        "hex": "#1b1716",
+        "share": 0.01
+      },
+      {
+        "hex": "#adaeaf",
+        "share": 0.01
+      },
+      {
+        "hex": "#939696",
+        "share": 0.009
+      },
+      {
+        "hex": "#c7c7c7",
+        "share": 0.009
+      },
+      {
+        "hex": "#d5d5d5",
+        "share": 0.009
+      },
+      {
+        "hex": "#767575",
+        "share": 0.009
+      }
+    ],
+    "background": "#e6e6e6",
+    "chroma": 0.15,
+    "lightness": 0.76,
+    "chromaticShare": 0.17,
+    "accentChroma": 0.87,
+    "distinct": 3,
+    "hues": 2
+  }
+}

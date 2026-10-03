@@ -1,0 +1,646 @@
+{
+  "id": "ulm-school",
+  "title": "Ulm School",
+  "order": 41,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Ulm Model",
+    "HfG Ulm design",
+    "Braun design"
+  ],
+  "summary": "White and grey housings, perforated grilles, and one small spot of color on a control. Order as a service.",
+  "lede": "The functionalist product and graphic design of the Ulm School of Design (HfG Ulm, 1953–1968) and its work for Braun: white and light-grey housings with gently rounded corners, perforated speaker faces, small precise labels in a grotesque, and color kept to one switch or dial. This record covers the product core of Hans Gugelot, Dieter Rams, and the Braun program. Otl Aicher’s Ulm graphic design is close to the [International Typographic Style](style:international-typographic-style) and is treated as a related branch.",
+  "moods": [
+    "calm",
+    "precise",
+    "restrained",
+    "rational",
+    "quiet"
+  ],
+  "era": {
+    "from": 1953,
+    "to": 1968,
+    "note": "The school’s dates. Rams continued the Braun program until 1995, and the look returns in later products and interfaces."
+  },
+  "regions": [
+    "West Germany"
+  ],
+  "identifiers": {
+    "wikidata": "Q591905"
+  },
+  "attestation": [
+    {
+      "label": "Wikipedia: Ulm School of Design (Wikidata Q591905 is the school, not a style item)",
+      "url": "https://en.wikipedia.org/wiki/Ulm_School_of_Design",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "HfG-Archiv Ulm: Hans Gugelot. The Architecture of Design (2020–2021)",
+      "url": "https://hfg-archiv.museumulm.de/en/exhibition/hans-gugelot-100-en/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wallpaper*: The Ulm Model at Raven Row, London (Clare Dowdy)",
+      "url": "https://www.wallpaper.com/design/the-ulm-model-of-product-design-is-explored-at-raven-row-london",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Design Museum: Dieter Rams",
+      "url": "https://designmuseum.org/designers/dieter-rams",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "style": "bauhaus",
+      "note": "Max Bill, the first rector, studied at the Bauhaus, and Josef Albers, Johannes Itten, and Walter Peterhans taught the first Ulm courses in 1953 (Wikipedia, Ulm School of Design). Under Tomás Maldonado from 1956 the school replaced the artist-designer with a method based on science and systems."
+    },
+    {
+      "relation": "related-to",
+      "label": "Gute Form",
+      "wikidata": "Q1234604",
+      "note": "German Wikipedia dates the term to the 1950s and to Max Bill’s 1957 book *Die gute Form*. It names the broader German and Swiss ideal of durable, factual design that Ulm and Braun products embody."
+    },
+    {
+      "relation": "related-to",
+      "style": "international-typographic-style",
+      "note": "Max Bill links both. Otl Aicher’s Ulm graphic work, for example the Lufthansa identity that a development group made after 1956 (Wikipedia), uses the Swiss grid and grotesque type."
+    },
+    {
+      "relation": "related-to",
+      "style": "minimalist-machine",
+      "note": "Both remove decoration and let the function show. The Design Museum names Jonathan Ive and Jasper Morrison as later designers that Rams inspired."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "color",
+      "term": "White, grey, and one signal.",
+      "text": "Housings are white, light grey, or anthracite. The Design Museum describes Rams’ Braun products as “made in white and grey” with “only splash of colour” from switches and dials."
+    },
+    {
+      "facet": "surface",
+      "term": "Perforated faces.",
+      "text": "Speaker and vent areas are fields of small round holes or fine parallel slots in a regular grid. The perforation is the only texture."
+    },
+    {
+      "facet": "structure",
+      "term": "Rounded-rectangle housings.",
+      "text": "Bodies are flat rectangular boxes with a small, even corner radius. Panels meet at clean seams. Parts are modular units that line up, as in Rams’ 606 shelving “series of interchangeable units”."
+    },
+    {
+      "facet": "type",
+      "term": "Small, exact labels.",
+      "text": "A grotesque in small sizes, often lowercase, marks each control. Labels sit beside the control they describe. Headings are medium weight, not heavy."
+    },
+    {
+      "facet": "layout",
+      "term": "Controls in rows.",
+      "text": "Knobs, keys, and scales align on one axis. Large calm surfaces surround a dense, ordered control area."
+    },
+    {
+      "facet": "imagery",
+      "term": "The product itself.",
+      "text": "Catalogues show the object frontally on a plain ground. There is no illustration and no ornament."
+    },
+    {
+      "facet": "motion",
+      "term": "Mechanical, not decorative.",
+      "text": "Change follows a switch: a direct state change with little or no easing."
+    }
+  ],
+  "synthesis": [
+    "The product is the core medium. Gugelot and Rams’s [SK 55 Phonosuper](ref:braun-sk55-phonosuper-1956) (1956) sets the type: a white metal face, three fields of thin horizontal slots, and knobs, keys, and a dial on one axis. The [RT 20 table radio](ref:braun-rt20-radio-1963) is the clearest case of the grammar: one white face, a circle of slots, tiny lowercase labels, and one red line on the tuning scale as the only color. The [T 1000 world receiver](ref:braun-t1000-world-receiver-1963) shows that the style can carry dense controls when every part sits on the same rows and columns. The [M 140 hand mixer](ref:braun-m140-food-mixer) and the [Cosmolux sun lamp](ref:braun-cosmolux-sun-lamp-1964) move the grammar into small appliances, and Gugelot’s [Kodak Carousel S](ref:gugelot-kodak-carousel-s-1963) shows the same method for a client other than Braun.",
+    "Four partial fits share the structure of the style but not its surface. The [Ulm stool](ref:ulm-stool-1954) is three spruce boards with visible finger joints, the [RZ 62 armchair](ref:rams-rz62-armchair-1962) is a dark shell with visible bolts, and the [school building](ref:hfg-ulm-building-1955) is bare concrete with orange-brown wooden window frames. The [Junghans kitchen clock](ref:bill-junghans-kitchen-clock-1956) has a glossy pale blue body, and only its dial follows the type and scale rules. Interpretation: these objects show the method (few parts, visible joints and fixings, repeated modules), so they support the structure facet but not the white-and-grey color facet.",
+    "The graphic branch disagrees with the type facet. The [ulm journal](ref:ulm-journal-hfg-1958-1968) has lowercase titles in a bold grotesque on pale card, small text in columns, and black-and-white photographs. Aicher’s [Volkshochschule poster](ref:aicher-vh-ulm-weltliteratur-poster-1956) is built from red and black bars, with bold sans text set inside them. The [Munich 1972 pictograms](ref:munich-1972-olympic-pictograms) are white figures from circles and bars on flat single-color panels, made four years after the school closed. The grammar says that headings are medium weight, not heavy, and the counter list rejects heavy display type and colored shapes as composition elements. The journal and the poster use bold type, and the poster uses bars as the composition. As the lede says, this branch is nearer the [International Typographic Style](style:international-typographic-style).",
+    "The product core also differs from the rubric in three places. First, the SK 55 has pale wooden end panels and the RT 20 sits in a beechwood box, but the counter list names “wood-cabinet styling”. In both, the wood frames a white face and is not a cabinet front. Second, the accent count varies. The RT 20 and the M 140 use one hue. The T 1000 has a red dot on one knob and one orange button. The SK 55 has a red dot on a dial. The Kodak projector has no accent, and the Cosmolux record notes none. So one accent is a maximum, not a requirement. Third, slots are more common than round holes. The SK 55, RT 20, M 140, and Kodak projector have slots, but the rules ask for “small round dots”. The [ET66 calculator](ref:braun-et66-calculator-1987) is documented, not observed. Its Powerhouse record says “black plastic”, so it does not share the white and grey palette. No reference shows the imagery facet, that is, a catalogue photograph of a product on a plain ground.",
+    "No reference has a stored image or a measurement file, because all 14 are tier D. The only measurement is the specimen. It passes its own fingerprint: radius median 7 px, pattern share 0.08, 1 hue in CSS (0 on pixels), chromatic share 0, and shadow and gradient share 0. So no real example has checked the fingerprint. The references are objects and print, and the screen metrics cannot see a housing’s corner radius, a slot field, or a material. The observed records support a small radius, matte surfaces, and a small accent. But two of the six core products have no accent, and an equivalent page would fail `color.hues` min 1. The fingerprint stays specimen-based until website examples are captured."
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Large white, light-grey, or anthracite surfaces carry the object or page.",
+      "A field of small round holes or fine slots in a regular grid appears as the only texture.",
+      "Corners are rounded slightly and evenly, not square and not pill-shaped.",
+      "One small accent color marks a single control, for example a power switch or an equals key.",
+      "Small grotesque labels, often lowercase, sit beside controls aligned on one axis."
+    ],
+    "counter": [
+      "Several saturated hues appear as large areas.",
+      "Wood-cabinet styling, chrome trim, gloss, or ornament.",
+      "Large, heavy display type dominates the page.",
+      "Gradients, drop shadows, or illustrated scenes.",
+      "Primary-colored geometric shapes used as composition elements."
+    ],
+    "confusions": [
+      {
+        "with": "international-typographic-style",
+        "difference": "The Swiss style is a print and poster method: very large flush-left type, strong scale contrast, and square-cornered flat fields. Ulm and Braun design is quieter and object-like: grey housings with soft corners, perforated grilles, small labels, and one accent on a control."
+      },
+      {
+        "with": "bauhaus",
+        "difference": "Bauhaus work uses the primary triad, circles and triangles as composition, and heavy black bars. Ulm and Braun design uses white and grey with one small signal color, and no compositional shapes."
+      },
+      {
+        "with": "minimalist-machine",
+        "difference": "Minimalist Machine is a screen aesthetic with monospaced labels, outlined boxes, and visible connections. Ulm and Braun design uses a grotesque, solid housings, and a physical texture of perforation."
+      },
+      {
+        "with": "mid-century-modern",
+        "difference": "Mid-century modern graphics use warm, earthy hues, biomorphic shapes, and illustration. Ulm design is achromatic, rectangular, and without illustration."
+      },
+      {
+        "with": "flat-design",
+        "difference": "Flat design uses several bright UI colors and square or circular icons. Ulm and Braun design keeps the surface grey and gives color to one control only."
+      },
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphic interfaces imitate materials with gradients and shadows, sometimes including Braun objects such as the [ET66](ref:braun-et66-calculator-1987). The style itself is flat and matte."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Use a light-grey page with white or off-white panels, and dark grey text instead of black.",
+      "Give panels and buttons a small, equal corner radius of about 6 to 8 px.",
+      "Use one accent color, for one primary control only.",
+      "Add one field of small round dots in a regular grid, like a speaker grille, on a real element.",
+      "Set small grotesque labels, often lowercase, next to the values or controls that they name.",
+      "Align controls and data in rows and columns with generous empty space around them."
+    ],
+    "dont": [
+      "Do not use more than one accent hue.",
+      "Do not use gradients, gloss, or drop shadows. Surfaces are matte.",
+      "Do not use heavy or very large display type. Headings are medium weight.",
+      "Do not use square, hard-edged blocks or pill shapes everywhere. The radius is small and even.",
+      "Do not add illustration or ornament."
+    ],
+    "uses": [
+      "Hardware and consumer electronics products",
+      "Control panels, settings, and device dashboards",
+      "Furniture and product design studios",
+      "Calm tools and utilities",
+      "Museum and archive sites about design"
+    ],
+    "avoid": [
+      "Loud campaigns and youth brands. The grey, quiet surface reads as reserved.",
+      "Children’s products and festivals that need warmth and many colors.",
+      "Luxury or heritage brands that rely on ornament and rich material."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.radius.median",
+      "min": 5,
+      "max": 9,
+      "note": "Housings and buttons have a small, even radius, between square styles and soft card styles. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.patternShare",
+      "min": 0.03,
+      "max": 0.3,
+      "note": "One perforated grille field is present. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.hues",
+      "min": 1,
+      "max": 1,
+      "note": "One signal hue appears on controls in the CSS colors. On screenshot pixels the accent area is too small to count. Provisional."
+    },
+    {
+      "metric": "color.chromaticShare",
+      "max": 0.1,
+      "note": "The accent is small. Grey and white carry the area. Provisional."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "Surfaces are matte, without depth effects."
+    },
+    {
+      "metric": "color.gradientShare",
+      "max": 0.02,
+      "note": "Color is flat."
+    }
+  ],
+  "page": "ulm-school.html",
+  "implementation": {
+    "tokens": "implementations/ulm-school/tokens.json",
+    "css": "implementations/ulm-school/tokens.css",
+    "tailwind": "implementations/ulm-school/tailwind.css",
+    "shadcn": "implementations/ulm-school/shadcn.css",
+    "registry": "implementations/ulm-school/registry-item.json",
+    "designMd": "implementations/ulm-school/DESIGN.md",
+    "specimen": "implementations/ulm-school/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for ulm-school. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#e4e3df"
+      },
+      "surface": {
+        "$value": "#f5f5f2"
+      },
+      "subtle": {
+        "$value": "#d5d4cf"
+      },
+      "text": {
+        "$value": "#2b2b29"
+      },
+      "muted": {
+        "$value": "#5f5e59"
+      },
+      "border": {
+        "$value": "#bdbcb6"
+      },
+      "primary": {
+        "$value": "#d9531e",
+        "$description": "Signal orange: the one colored control, as on a Braun switch."
+      },
+      "on-primary": {
+        "$value": "#ffffff"
+      },
+      "secondary": {
+        "$value": "#3b3b39",
+        "$description": "Anthracite: the dark housing variant."
+      },
+      "on-secondary": {
+        "$value": "#f5f5f2"
+      },
+      "accent": {
+        "$value": "#d9531e",
+        "$description": "Same signal as primary. The style allows one hue."
+      },
+      "on-accent": {
+        "$value": "#ffffff"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Akzidenz-Grotesk",
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "Akzidenz-Grotesk",
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "Akzidenz-Grotesk",
+          "Helvetica Neue",
+          "Helvetica",
+          "Arial",
+          "sans-serif"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 500
+      },
+      "display": {
+        "$value": 500
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "11px"
+      },
+      "sm": {
+        "$value": "13px"
+      },
+      "base": {
+        "$value": "16px"
+      },
+      "lg": {
+        "$value": "19px"
+      },
+      "xl": {
+        "$value": "24px"
+      },
+      "2xl": {
+        "$value": "30px"
+      },
+      "3xl": {
+        "$value": "40px"
+      },
+      "4xl": {
+        "$value": "52px"
+      },
+      "5xl": {
+        "$value": "64px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1.1
+      },
+      "body": {
+        "$value": 1.5
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.04,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "4px"
+      },
+      "md": {
+        "$value": "7px"
+      },
+      "lg": {
+        "$value": "10px"
+      },
+      "pill": {
+        "$value": "7px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "2px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "96px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.4xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "munich-1972-olympic-pictograms",
+      "title": "Munich 1972 Olympic pictograms",
+      "medium": "signage",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: Aicher’s work, which belongs to the graphic branch of the style.",
+      "page": "references/munich-1972-olympic-pictograms.html",
+      "source": "https://en.wikipedia.org/wiki/Otl_Aicher",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "braun-et66-calculator-1987",
+      "title": "Braun ET66 calculator, 1987",
+      "medium": "product",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Partial fit: a later Braun product by Rams and Lubs that keeps the plain housing and round keys of the product core, but in black plastic and outside the era.",
+      "page": "references/braun-et66-calculator-1987.html",
+      "source": "https://collection.powerhouse.com.au/object/428164",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "ulm-journal-hfg-1958-1968",
+      "title": "“ulm”, journal of the Hochschule für Gestaltung, 1958–1968",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The school’s own print voice: lowercase grotesque, pale grey stock, small exact text, and documentary photographs.",
+      "page": "references/ulm-journal-hfg-1958-1968.html",
+      "source": "https://global.museum-digital.org/object/2088573",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "braun-cosmolux-sun-lamp-1964",
+      "title": "Braun Cosmolux sun lamp, 1964",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A small appliance in the Braun grammar: one light-grey finish, a rounded-rectangle frame, a visible hinge, and a tiny logo.",
+      "page": "references/braun-cosmolux-sun-lamp-1964.html",
+      "source": "https://collections.vam.ac.uk/item/O1554431/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "braun-m140-food-mixer",
+      "title": "Braun M 140 hand mixer, 1960s",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Braun’s domestic line: a plain light housing, a slotted vent as the only texture, and orange used only where the hand acts.",
+      "page": "references/braun-m140-food-mixer.html",
+      "source": "https://collections.vam.ac.uk/item/O1227045/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "braun-rt20-radio-1963",
+      "title": "Braun RT 20 table radio, 1963",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A clear case of the Braun grammar: a white face, perforation as the only texture, small lowercase labels, and one red signal on the scale.",
+      "page": "references/braun-rt20-radio-1963.html",
+      "source": "https://collections.vam.ac.uk/item/O152458/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "braun-sk55-phonosuper-1956",
+      "title": "Braun SK 55 Phonosuper radiogram, 1956",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The founding object of the Braun program and the Ulm collaboration: a plain white housing, slotted grilles, and controls set out in rows.",
+      "page": "references/braun-sk55-phonosuper-1956.html",
+      "source": "https://collections.vam.ac.uk/item/O168285/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "braun-t1000-world-receiver-1963",
+      "title": "Braun T 1000 world receiver, 1963",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The technical end of the Braun program: an aluminium housing, a perforated panel, controls on a strict grid, and one orange signal.",
+      "page": "references/braun-t1000-world-receiver-1963.html",
+      "source": "https://collections.vam.ac.uk/item/O168288/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "rams-rz62-armchair-1962",
+      "title": "Dieter Rams, RZ 62 armchair, 1962",
+      "medium": "furniture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Rams’s furniture follows his Braun method: flat panels, visible fixings, a modular frame, and no ornament.",
+      "page": "references/rams-rz62-armchair-1962.html",
+      "source": "https://collections.vam.ac.uk/item/O314704/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "gugelot-kodak-carousel-s-1963",
+      "title": "Hans Gugelot, Kodak Carousel S slide projector, 1963",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "An Ulm-made industrial design for a non-Braun client: a plain grey box, numbered ring, and controls reduced to a few black parts.",
+      "page": "references/gugelot-kodak-carousel-s-1963.html",
+      "source": "https://global.museum-digital.org/object/2088570",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "hfg-ulm-building-1955",
+      "title": "Hochschule für Gestaltung building, Ulm",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The school’s own building: plain modular volumes and visible material, the architectural frame of the Ulm method.",
+      "page": "references/hfg-ulm-building-1955.html",
+      "source": "https://en.wikipedia.org/wiki/Ulm_School_of_Design",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "bill-junghans-kitchen-clock-1956",
+      "title": "Max Bill, Junghans kitchen clock with timer, 1956",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Made by the school’s first rector during his Ulm years. The dial follows Ulm discipline, but the curved, colored body does not.",
+      "page": "references/bill-junghans-kitchen-clock-1956.html",
+      "source": "https://collections.vam.ac.uk/item/O164396/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "aicher-vh-ulm-weltliteratur-poster-1956",
+      "title": "Otl Aicher, Ulm Volkshochschule poster “Realistische Weltliteratur der Gegenwart”, 1956",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Aicher’s Ulm graphic work from the school’s founding years. It belongs to the graphic branch, not the grey product core.",
+      "page": "references/aicher-vh-ulm-weltliteratur-poster-1956.html",
+      "source": "https://global.museum-digital.org/object/2047820",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "ulm-stool-1954",
+      "title": "Ulm stool (Ulmer Hocker), 1954",
+      "medium": "furniture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A key Ulm object: minimal parts, visible joints, and several uses for one form. Its material is plain wood, not the grey housing of the product core.",
+      "page": "references/ulm-stool-1954.html",
+      "source": "https://sammlung-digital.museumangewandtekunst.de/detailpage/collection/7146c7d2-0625-4f3b-bfa7-7876aa5f724e",
+      "image": null,
+      "measurement": null
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "braun-rt20-radio-1963",
+  "title": "Braun RT 20 table radio, 1963",
+  "type": "object",
+  "medium": "product",
+  "lede": "Dieter Rams’s table radio for Braun: a white steel face, tilted slightly back, with a circle of slots for the speaker and a column of grey knobs.",
+  "summary": "White powder-coated face with a circular slot grille, grey knobs in a column, and a red tuning line. Rams for Braun, 1963.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O152458/",
+    "label": "Victoria and Albert Museum, W.13-2007"
+  },
+  "creator": {
+    "name": "Dieter Rams, designer; Braun AG, manufacturer"
+  },
+  "made": "1963",
+  "moods": [
+    "calm",
+    "precise",
+    "quiet"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A’s primary image 2007BR3160 of object W.13-2007 at 1600 × 1067 px, through the V&A IIIF service."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ulm-school",
+      "note": "A clear case of the Braun grammar: a white face, perforation as the only texture, small lowercase labels, and one red signal on the scale.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes an “oblong beechwood box with a white powder-coated sheet steel fascia tilted slightly backwards”, pierced with slots that form a circular loudspeaker, and says the speaker is concealed “with only pierced lines to indicate its presence”. [V&A W.13-2007](https://collections.vam.ac.uk/item/O152458/).",
+    "The record transcribes the control labels in lowercase German: “höhen, tiefen, volumen, ein aus, phono, lang, mittel, ukw, sender”. [V&A](https://collections.vam.ac.uk/item/O152458/)."
+  ],
+  "observed": [
+    "The front is one flat white panel inside a pale wood box. Its edge folds over the top with a small radius.",
+    "On the left, horizontal black slots of different lengths form a circle, split by a narrow vertical gap.",
+    "Three grey cylindrical knobs stand in a column in the centre, with a tiny label above each. Five small grey push buttons and one larger knob form a row along the bottom.",
+    "A tall, narrow tuning scale on the right carries fine black numerals and one red horizontal line, the only color on the face.",
+    "A small black “braun” logo sits above the knob column."
+  ],
+  "interpretation": [
+    "The RT 20 shows the style’s one-signal rule: grey and white everywhere, and red only where the user reads the station."
+  ],
+  "borrow": [
+    "Draw a circle from parallel lines of different lengths instead of a filled shape.",
+    "Give one thin line the only accent color, where the user reads a value."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Image © Victoria and Albert Museum, London. The V&A allows non-commercial use of its images under its own terms, not an open license. The design is by living or recently deceased designers. No image is stored."
+  },
+  "identifiers": {
+    "vam": "O152458"
+  }
+}

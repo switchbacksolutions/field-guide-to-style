@@ -1,0 +1,53 @@
+{
+  "id": "frontend-mentor-bento-grid-challenge-2024",
+  "title": "Frontend Mentor “Bento grid” challenge design",
+  "type": "image",
+  "medium": "website",
+  "lede": "A free coding exercise of 2024 that asks learners to build a marketing section as a bento grid from a supplied desktop and mobile design.",
+  "summary": "Eight tiles in purple, yellow, cream, and white with large tight headlines and a “>56%” figure, on light grey. Frontend Mentor, 2024.",
+  "source": {
+    "url": "https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj",
+    "label": "Frontend Mentor: Build a Bento Grid Layout"
+  },
+  "creator": { "name": "Frontend Mentor", "url": "https://github.com/frontendmentorio/bento-grid" },
+  "made": "2024 (starter repository created 2024-09-13)",
+  "moods": ["energetic", "friendly", "organized"],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected `design/desktop-design.jpg` (1440 × 1029) in the starter repository [frontendmentorio/bento-grid](https://github.com/frontendmentorio/bento-grid), and read its `style-guide.md` and README. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "bento-grid",
+      "note": "Partial fit: tiles of mixed sizes on one grid with even gutters and one message each, but most tiles are saturated purple or yellow and the radius is small.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The repository describes the exercise as “perfect for testing your CSS Grid and responsive skills with this bento grid layout”. The README tells learners that the two components in the left column on desktop move to the bottom on mobile.",
+    "The style guide gives the palette as Purple 100 hsl(254, 88%, 90%), Purple 500 hsl(256, 67%, 59%), Yellow 100 hsl(31, 66%, 93%), Yellow 500 hsl(39, 100%, 71%), white, and black hsl(0, 0%, 7%), with DM Sans at weights 400 and 500.",
+    "The repository has no license file. Search results list many learners’ solutions on GitHub and on frontendmentor.io."
+  ],
+  "observed": [
+    "Eight tiles sit on a light grey ground in four columns with even gutters of about 32 px. The tiles span one or two columns and one or two rows: a wide purple hero tile at the top center, tall tiles at the left and right edges, and a wide purple tile at the bottom right.",
+    "Corners are rounded with a small radius, about 10 px. There are no outlines and no shadows on the tiles.",
+    "Tile fills are saturated purple, warm yellow, pale lavender, cream, and white.",
+    "Headlines are large, in a geometric sans-serif with very tight letter spacing and tight leading, for example “Create and schedule content quicker.” with “quicker.” in purple italic.",
+    "One white tile carries a very large black figure, “>56%”, over the small line “faster audience growth” and three cartoon avatars.",
+    "Several tiles hold small interface fragments: a bar chart, a calendar strip, chat bubbles, and a follower-growth card."
+  ],
+  "interpretation": [
+    "By 2024 the bento grid was a standard exercise in CSS Grid placement, separate from Apple’s look. This design keeps the layout and the large figure but trades the neutral tonal tiles for brand color, which is the most common way the pattern is adapted on SaaS pages."
+  ],
+  "borrow": [
+    "Use `grid-template-areas` to move tiles to a new order on small screens, and keep the source order logical.",
+    "Put a small interface fragment at the bottom of a tile and let the tile edge crop it."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Frontend Mentor challenge design; the repository has no license file. No image is stored here."
+  }
+}

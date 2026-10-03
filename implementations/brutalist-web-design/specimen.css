@@ -1,0 +1,56 @@
+/* Brutalist web design specimen. Uses tokens.css. Restates browser default styles so the page reads as raw HTML in any browser. */
+body { margin: 8px; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); line-height: var(--leading-body); }
+a { color: var(--color-primary); text-decoration: underline; }
+a:visited { color: var(--color-secondary); }
+a:active { color: var(--color-accent); }
+:focus-visible { outline: 2px solid var(--color-text); outline-offset: 1px; }
+.specimen-back { margin: 0 0 var(--spacing-sm); font-size: var(--text-sm); }
+
+.site-header { padding-bottom: var(--spacing-sm); border-bottom: var(--border-width-thick) inset var(--color-border); }
+.logo { font-weight: var(--font-weight-bold); }
+.site-header nav { display: inline; margin-left: var(--spacing-md); }
+.site-header nav::before { content: "[ "; }
+.site-header nav::after { content: " ]"; }
+
+h1, h2, h3 { font-family: var(--font-display); font-weight: var(--font-weight-bold); line-height: var(--leading-tight); letter-spacing: var(--tracking-heading); }
+h1 { margin: 0.67em 0; font-size: var(--text-3xl); }
+h2 { margin: 0.83em 0; font-size: var(--text-xl); }
+h3 { margin: 1em 0; font-size: var(--text-lg); }
+.kicker { margin: var(--spacing-md) 0 0; }
+.actions { margin: var(--spacing-md) 0; }
+
+/* Links that act as buttons copy the browser's default push button. */
+.button, button { display: inline-block; padding: 1px 6px; border: var(--border-width-thick) outset var(--color-border); border-radius: var(--radius-none); background: var(--color-subtle); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-sm); line-height: var(--leading-body); text-decoration: none; cursor: pointer; }
+.button:visited { color: var(--color-text); }
+.button:active, button:active { border-style: inset; }
+
+.facts { margin: var(--spacing-md) 0; }
+dt { font-weight: var(--font-weight-bold); }
+dd { margin-left: var(--spacing-xl); }
+
+.cards { margin: var(--spacing-md) 0; padding-left: var(--spacing-xl); list-style: disc; }
+.card h3 { margin: var(--spacing-sm) 0 0; }
+.card p { margin: var(--spacing-xs) 0 var(--spacing-sm); }
+.card-number { font-family: var(--font-mono); font-size: var(--text-sm); }
+.card-featured .price { color: var(--color-accent); font-weight: var(--font-weight-bold); }
+
+/* The look of <table border="1">: separate cell borders with the default 2 px spacing. */
+table { border: var(--border-width-thin) outset var(--color-border); border-spacing: 2px; }
+th, td { padding: 1px 4px; border: var(--border-width-thin) inset var(--color-border); text-align: left; vertical-align: top; }
+th { font-weight: var(--font-weight-bold); }
+
+.quote { margin: var(--spacing-md) var(--spacing-xl); }
+.quote p { margin: 0; font-style: italic; }
+.quote footer::before { content: "— "; }
+
+form { margin: 0 0 var(--spacing-md); }
+input { padding: 1px 2px; border: var(--border-width-thick) inset var(--color-border); border-radius: var(--radius-none); background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-sm); }
+.note { color: var(--color-muted); }
+.site-footer { margin-top: var(--spacing-lg); padding-top: var(--spacing-sm); border-top: var(--border-width-thick) inset var(--color-border); }
+code { font-family: var(--font-mono); font-size: var(--text-sm); }
+
+@media (max-width: 640px) {
+  .site-header nav { display: block; margin: var(--spacing-xs) 0 0; }
+  .quote { margin: var(--spacing-md) var(--spacing-md); }
+  table { display: block; overflow-x: auto; }
+}

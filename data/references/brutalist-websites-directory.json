@@ -29,6 +29,11 @@
       "id": "neo-brutalism",
       "note": "Lineage only: it is the brutalist web design that neo-brutalism descends from and must be distinguished from.",
       "basis": "agent"
+    },
+    {
+      "id": "brutalist-web-design",
+      "note": "Clear: the directory that named and codified the style in 2014, with raw, default-HTML sites as its core.",
+      "basis": "agent"
     }
   ],
   "notice": "This is a lineage reference. Brutalist web design is raw and often default-styled. Neo-brutalism is a polished, colorful component system with thick outlines and hard shadows. Do not use this site as evidence of neo-brutalist traits.",

@@ -1,0 +1,65 @@
+{
+  "id": "magic-ui-bento-grid-component",
+  "title": "Magic UI Bento Grid component",
+  "type": "product",
+  "medium": "software",
+  "lede": "An open-source React component that lays out feature cards as a bento grid, published by Magic UI in November 2023.",
+  "summary": "MIT-licensed React and Tailwind bento grid: white cards with a 12 px radius in one- and two-column spans. Magic UI, 2023.",
+  "source": {
+    "url": "https://magicui.design/docs/components/bento-grid",
+    "label": "Magic UI documentation: Bento Grid"
+  },
+  "creator": {
+    "name": "Magic UI (Dillion Verma)",
+    "url": "https://github.com/magicuidesign/magicui"
+  },
+  "made": "2023 (docs page dated 2023-11-09)",
+  "moods": ["clean", "organized", "modern"],
+  "evidence": {
+    "level": "observed",
+    "note": "Captured the live documentation page at 1440 × 900 on 2026-10-02 with `tools/capture.mjs` and inspected it. Read the component source `apps/www/registry/magicui/bento-grid.tsx` and the demo `apps/www/registry/example/bento-demo.tsx` in the [GitHub repository](https://github.com/magicuidesign/magicui). The stored image is a 728 × 382 crop of the first row of the demo."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "bento-grid",
+      "note": "Partial fit: tiles of different spans with one gap, but the radius is small (12 px) and the light cards carry a faint shadow instead of a tonal step.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The documentation page, dated 2023-11-09 in its source file, describes the component as “a layout used to showcase the features of a product in a simple and elegant way”.",
+    "The source sets the grid to three columns with `gap-4` (16 px) and rows of 22 rem. Each card is `rounded-xl` (12 px) and spans one or two columns; on small screens every card spans all three columns. Light cards use a 1 px shadow ring at 3 % black plus two soft shadows at 5 %. Dark cards use a 1 px border at 10 % white and an inset glow.",
+    "The repository is under the MIT License (“Copyright (c) Magic UI”). It was created on 2023-06-26 and the component file was first committed on 2025-09-15 at its current path; the docs date shows that the component is older than that path."
+  ],
+  "observed": [
+    "Two white cards sit side by side on a white panel: a narrow card on the left and a card about twice as wide on the right, separated by a narrow gap.",
+    "Both cards have rounded corners of the same small radius and a very faint shadow; there is no visible outline.",
+    "Each card carries one feature: a thin line icon, a semibold dark grey heading (“Save your files”, “Notifications”), and one light grey sentence.",
+    "The upper half of each card holds a faded, masked illustration of the feature: blurred file cards in the left card and notification rows in the right card."
+  ],
+  "interpretation": [
+    "The component reduces the bento grid to a reusable pattern for SaaS feature sections. It keeps the unequal spans and the one-feature-per-tile rule, but uses the small radius and soft shadow of shadcn/ui cards, so it sits between the core look and [Material Design](style:material-design) cards."
+  ],
+  "borrow": [
+    "Put a faded, masked illustration of the feature in the top half of the tile and the heading and one sentence in the bottom half.",
+    "Define spans per card (`col-span-1` or `col-span-2` on a three-column grid) and let every card span the full width on small screens."
+  ],
+  "images": [
+    {
+      "file": "assets/references/magic-ui-bento-grid-component.jpg",
+      "alt": "Two white rounded cards side by side: a narrow card with blurred file previews, a document icon, and the heading Save your files; a wide card with faded notification rows, a bell icon, and the heading Notifications.",
+      "width": 728,
+      "height": 382,
+      "kind": "screenshot",
+      "caption": "First row of the demo on the [Magic UI Bento Grid documentation page](https://magicui.design/docs/components/bento-grid), captured 2026-10-02. The second row, which shows a third-party logo, is not stored.",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "MIT",
+    "statement": "The component, the demo, and the documentation site are in the [magicuidesign/magicui repository](https://github.com/magicuidesign/magicui) under the MIT License: “Copyright (c) Magic UI. Permission is hereby granted, free of charge, to any person obtaining a copy of this software …”. The stored crop shows only MIT-licensed demo content and Radix and Lucide icons (MIT and ISC). Credit: Magic UI."
+  }
+}

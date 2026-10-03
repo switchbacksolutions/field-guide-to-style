@@ -1,0 +1,248 @@
+{
+  "$description": "Authored tokens for risograph. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#f6f1e7",
+      "$description": "Uncoated off-white paper."
+    },
+    "surface": {
+      "$value": "#f6f1e7"
+    },
+    "subtle": {
+      "$value": "#ece4d4"
+    },
+    "text": {
+      "$value": "#2b3a70",
+      "$description": "Dark blue ink used for text. Riso prints often have no black drum."
+    },
+    "muted": {
+      "$value": "#4f5a8c"
+    },
+    "border": {
+      "$value": "#2b3a70"
+    },
+    "primary": {
+      "$value": "#ff48b0",
+      "$description": "Screen approximation of Riso Fluorescent Pink ink."
+    },
+    "on-primary": {
+      "$value": "#2b3a70"
+    },
+    "primary-tint": {
+      "$value": "#ffa3d8",
+      "$description": "Pink ink printed as a 50% screen."
+    },
+    "secondary": {
+      "$value": "#0078bf",
+      "$description": "Screen approximation of Riso Blue ink."
+    },
+    "on-secondary": {
+      "$value": "#f6f1e7"
+    },
+    "secondary-tint": {
+      "$value": "#7fbbdf",
+      "$description": "Blue ink printed as a 50% screen."
+    },
+    "accent": {
+      "$value": "#ffe800",
+      "$description": "Screen approximation of Riso Yellow ink. An optional third ink: the specimen uses only pink and blue."
+    },
+    "on-accent": {
+      "$value": "#2b3a70"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Avenir Next Condensed",
+        "Arial Narrow",
+        "Roboto Condensed",
+        "Helvetica Neue",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Helvetica Neue",
+        "Arial",
+        "Liberation Sans",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Courier New",
+        "Courier",
+        "Liberation Mono",
+        "monospace"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 800
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "21px"
+    },
+    "xl": {
+      "$value": "28px"
+    },
+    "2xl": {
+      "$value": "38px"
+    },
+    "3xl": {
+      "$value": "56px"
+    },
+    "4xl": {
+      "$value": "84px"
+    },
+    "5xl": {
+      "$value": "128px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.95
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.08,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "2px"
+    },
+    "md": {
+      "$value": "4px"
+    },
+    "lg": {
+      "$value": "6px"
+    },
+    "pill": {
+      "$value": "999px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "2px"
+    },
+    "thick": {
+      "$value": "4px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

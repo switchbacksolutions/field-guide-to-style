@@ -1,0 +1,53 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/barnum-american-museum-handbill-1845.jpg",
+  "captured": "2026-10-03T01:55:53+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#c1a98d",
+        "share": 0.426
+      },
+      {
+        "hex": "#cab49a",
+        "share": 0.218
+      },
+      {
+        "hex": "#8d7e68",
+        "share": 0.097
+      },
+      {
+        "hex": "#7c6f5b",
+        "share": 0.062
+      },
+      {
+        "hex": "#9d8c75",
+        "share": 0.059
+      },
+      {
+        "hex": "#ab9980",
+        "share": 0.054
+      },
+      {
+        "hex": "#645a4a",
+        "share": 0.029
+      },
+      {
+        "hex": "#423c33",
+        "share": 0.028
+      },
+      {
+        "hex": "#544c3f",
+        "share": 0.026
+      }
+    ],
+    "background": "#c1a98d",
+    "chroma": 0.18,
+    "lightness": 0.59,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 9,
+    "hues": 0
+  }
+}

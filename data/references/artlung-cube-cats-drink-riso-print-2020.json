@@ -1,0 +1,67 @@
+{
+  "id": "artlung-cube-cats-drink-riso-print-2020",
+  "title": "Joe Crawford (artlung), Cube Cat’s Drink",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "A letter-size multi-color riso print of a punk cat in a spiked jacket, in a hand-numbered edition of 25, with heavy grain in every ink.",
+  "summary": "Multi-color riso illustration with heavy grain, edition of 25.",
+  "source": {
+    "url": "https://www.flickr.com/photos/artlung/50665147228/",
+    "label": "Flickr: Joe Crawford, “Do You Want To Art Trade?!”"
+  },
+  "creator": {
+    "name": "Joe Crawford (artlung); printed by @burn_all_books, as the post states",
+    "url": "https://www.flickr.com/photos/artlung/"
+  },
+  "made": "September 2020",
+  "moods": [
+    "playful",
+    "grainy",
+    "punk"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the 1024 × 1024 px Flickr “large” file, a photograph of a stack of prints. The top sheet is signed in pencil “25/25 ‘Cube Cat’s Drink’ Sep 2020” and carries an “ARTLUNG” mark."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "risograph",
+      "note": "Partial fit: several riso inks, strong grain, and overprinted mixes, but more inks and a fuller color image than the two-ink core.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Flickr title says: “‘Cube Cat’s Drink’ is Riso printed by the amazing @burn_all_books at 8-1/2\"x11\".” The post offers the print for art trades. The “ARTLUNG” mark matches the uploader’s Flickr name."
+  ],
+  "observed": [
+    "Blue, yellow, pink, and a dark ink build the image. Their overlaps give green, orange, and purple.",
+    "The blue night sky is a coarse grain with white speckles.",
+    "The drawing has fine dark line work, and the inks fill it in loose, grainy areas.",
+    "A wide white paper margin holds the pencil edition number and title."
+  ],
+  "interpretation": [
+    "Grain is the image’s main texture: the fills are deliberately rough, and the paper shows through."
+  ],
+  "borrow": [
+    "Use a coarse speckle in a dark ink for a sky or background instead of a gradient."
+  ],
+  "images": [
+    {
+      "file": "assets/references/artlung-cube-cats-drink-riso-print-2020.jpg",
+      "alt": "A stack of prints; the top one shows a grinning cat in a spiked jacket in grainy blue, orange, pink, and green, signed in pencil.",
+      "width": 1024,
+      "height": 1024,
+      "kind": "photograph",
+      "caption": "Joe Crawford (artlung), *Cube Cat’s Drink*, 2020. CC BY 2.0. [Flickr](https://www.flickr.com/photos/artlung/50665147228/), 1024 px “large” size.",
+      "original": "https://live.staticflickr.com/65535/50665147228_114fcc8b7b_b.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-2.0",
+    "statement": "Published on Flickr under CC BY 2.0 by Joe Crawford, whose “ARTLUNG” mark is on the print. Credit: Joe Crawford."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "id": "wikipedia-ios-app-8-tab-bar-2026",
+  "title": "Wikipedia iOS app 8.0 on iOS 26",
+  "type": "product",
+  "medium": "app",
+  "lede": "The Wikimedia Foundation’s iPhone app, version 8.0.0, whose floating glass tab bar and search button bend the photo that scrolls under them.",
+  "summary": "A third-party app with a floating glass tab bar that visibly refracts the content. 2026.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:IOS_App_8.0.0_Explore.png",
+    "label": "Wikimedia Commons screenshot"
+  },
+  "creator": {
+    "name": "Wikimedia Foundation",
+    "url": "https://github.com/wikimedia/wikipedia-ios"
+  },
+  "made": "2026 (release tag releases/8.0.0 dated April 13, 2026; screenshot April 19, 2026)",
+  "moods": [
+    "liquid",
+    "calm",
+    "editorial"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons screenshot IOS App 8.0.0 Explore.png (1179 × 2556) by EvanTech10, with a 1:1 crop of the tab bar. Also looked at the companion IOS App 8.0.0 Article.png. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "liquid-glass",
+      "note": "A non-Apple app that adopts the system material: content-first pages under a floating glass tab bar that refracts at its rim.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The app is open source under the MIT license. Its code calls Apple’s glassEffect API, for example in WMFHomeView.swift and WMFFindInPageView.swift. [GitHub: wikimedia/wikipedia-ios](https://github.com/wikimedia/wikipedia-ios).",
+    "Apple Developer: standard SwiftUI, UIKit, and AppKit controls and navigation elements “pick up the appearance and behavior of this material automatically”. [Apple Developer: Liquid Glass](https://developer.apple.com/documentation/technologyoverviews/liquid-glass)."
+  ],
+  "observed": [
+    "Dark mode. A “Today” feed with a serif featured-article card and a “Picture of the day” photo of a green and violet faceted glass dome.",
+    "At the top, the Wikipedia “W” sits in a separate dark glass circle on the left, and two icons share a dark glass capsule on the right. Neither is pinned to the screen edge.",
+    "At the bottom, a glass capsule holds four tabs (Explore, Places, Saved, Activity), and a separate glass circle holds the search icon. Both float over the photo.",
+    "In the 1:1 crop the straight frame lines of the dome curve into loops just inside the rims of the capsule and the circle, while the middle stays nearly undistorted. A thin bright line marks the rim. The selected tab sits in a lighter inner capsule.",
+    "The Article screenshot shows the same pattern: a back button, a “W” circle, and a three-icon capsule float over the lead image, and a toolbar capsule floats over the article text."
+  ],
+  "interpretation": [
+    "Because the app uses system components, it shows the default behavior of the material that any developer gets, not an Apple marketing render."
+  ],
+  "borrow": [
+    "Split navigation into a tab capsule and a separate search circle, so the most used action has its own target."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The Commons file is CC BY-SA 4.0 by EvanTech10, and the app code is MIT. It is kept as link only because the frame also shows Apple’s system interface and a picture of the day whose own license was not checked."
+  }
+}

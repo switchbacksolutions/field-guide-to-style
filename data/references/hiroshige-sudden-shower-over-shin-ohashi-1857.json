@@ -1,0 +1,76 @@
+{
+  "id": "hiroshige-sudden-shower-over-shin-ohashi-1857",
+  "title": "Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "Travellers hurry across a high wooden bridge under black rain lines and a hand-wiped storm cloud, in Hiroshige’s One Hundred Famous Views of Edo.",
+  "summary": "Diagonal bridge, fine rain lines, and a dark bokashi cloud. Utagawa Hiroshige, 1857.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/26545",
+    "label": "Art Institute of Chicago, 1925.3742"
+  },
+  "creator": {
+    "name": "Utagawa Hiroshige"
+  },
+  "made": "1857",
+  "moods": [
+    "calm",
+    "atmospheric",
+    "narrative"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Art Institute of Chicago image of impression 1925.3742 (1686 × 2533 px)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ukiyo-e",
+      "note": "A canonical late landscape print: a bridge cut diagonally by the sheet edges, rain as fine key-block lines, and bokashi clouds and water.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "AIC catalogues the sheet as a color woodblock print, ōban, 33.4 × 21.8 cm, from the series One Hundred Famous Views of Edo. [AIC 1925.3742](https://www.artic.edu/artworks/26545).",
+    "AIC’s description says that the printer applied the gradation of the dark clouds by hand in a scalloped shape rather than the usual straight line. [AIC](https://www.artic.edu/artworks/26545)."
+  ],
+  "observed": [
+    "A wooden bridge enters at the lower left and leaves the sheet at the right edge. Its piers are cropped by the bottom edge.",
+    "Rain falls as hundreds of fine, straight black and gray lines over the whole picture.",
+    "The top of the sky is a black cloud that fades in uneven, scalloped edges into gray-blue.",
+    "The river is a flat gray-blue. It deepens to Prussian blue along the bottom edge and near the bridge.",
+    "The far bank is a band of dark green-gray trees without outlines.",
+    "A red vertical cartouche with the series title and a square title panel with colored cloud shapes sit at upper right. A red signature cartouche sits at lower left.",
+    "Small figures with straw hats and umbrellas, in yellow, green, and red, lean into the rain on the bridge."
+  ],
+  "interpretation": [
+    "The print shows how far the style goes with asymmetry: the subject, the bridge, is pushed to one corner and cut by two edges.",
+    "Bokashi carries the weather. It is used at the top and bottom of the sheet, not to model the forms."
+  ],
+  "borrow": [
+    "Use a strong diagonal that leaves the frame on two sides, and keep the open area flat.",
+    "Put a small saturated red label in a corner of a calm blue-gray field."
+  ],
+  "images": [
+    {
+      "file": "assets/references/hiroshige-sudden-shower-over-shin-ohashi-1857.jpg",
+      "alt": "Color woodblock print. Fine vertical rain lines fall over a gray-blue river and a dark storm cloud. A wooden bridge crosses diagonally from lower left to right, with small travellers under hats and umbrellas. Red title cartouches are at upper right and lower left.",
+      "width": 1065,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Utagawa Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake, 1857. [Art Institute of Chicago 1925.3742](https://www.artic.edu/artworks/26545), Clarence Buckingham Collection. CC0.",
+      "original": "https://www.artic.edu/iiif/2/cf4a7aa2-6f16-efcf-8702-3bdd663a63ba/full/1686,/0/default.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Art Institute of Chicago marks the object public domain (`is_public_domain: true`) and releases images of public-domain works under CC0. [AIC open access](https://www.artic.edu/open-access/open-access-images). Hiroshige died in 1858, and the print was published in 1857, so the work is public domain in Japan and the United States."
+  },
+  "identifiers": {
+    "aic": "26545",
+    "accession": "1925.3742"
+  }
+}

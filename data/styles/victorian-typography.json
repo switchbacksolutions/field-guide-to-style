@@ -1,0 +1,241 @@
+{
+  "id": "victorian-typography",
+  "title": "Victorian typography",
+  "order": 37,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Victorian display typography",
+    "Wood type poster",
+    "Playbill style",
+    "Letterpress broadside",
+    "Victoriana (revival)"
+  ],
+  "summary": "A centred stack of fat faces, slabs, and condensed gothics, every line in a different letter. The jobbing printer's poster.",
+  "lede": "The display typography of nineteenth-century letterpress posters, playbills, broadsides, and handbills in Britain and the United States (about 1810–1890). The printer centres each line and sets it in a different face and size from the case: fat faces, slab serifs, sans-serifs, condensed theatre letters, and Tuscan or ornamented types, cut in wood for the large sizes. Brass rules, fleurons, and stock cuts divide the lines. This record covers the poster and jobbing core. Victorian book design, chromolithography, and the late “Artistic Printing” of the 1870s and 1880s are related branches.",
+  "moods": [
+    "loud",
+    "showy",
+    "nostalgic",
+    "theatrical",
+    "commercial",
+    "handmade"
+  ],
+  "era": {
+    "from": 1810,
+    "to": 1890,
+    "note": "Fat faces reached London posters about 1805–1810. Darius Wells mechanised wood type in the 1820s. Lithography and halftone pushed the style out of fashion after about 1890, but country printers and shops such as Hatch Show Print (from 1879) kept it alive."
+  },
+  "regions": [
+    "United Kingdom",
+    "United States"
+  ],
+  "identifiers": {},
+  "attestation": [
+    {
+      "label": "Graphic Design History: “The Victorian Era” (fat faces “now recognized as quintessentially Victorian”; the “distinctive Victorian style of layout”; cites Meggs)",
+      "url": "https://graphicdesignhistory.com/the-victorian-era/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia: Wood type (nineteenth-century poster genres and condensed theatre letters)",
+      "url": "https://en.wikipedia.org/wiki/Wood_type",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia: Fat face (posting bills, playbills, and the 1930s Victoriana revival)",
+      "url": "https://en.wikipedia.org/wiki/Fat_face",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Letterpress Commons: Stephen O. Saxe, “History of Job Printing”",
+      "url": "https://letterpresscommons.com/history-of-job-printing/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Fonts In Use: “The Story of Our Friend, the Fat Face”",
+      "url": "https://fontsinuse.com/uses/5578/the-story-of-our-friend-the-fat-face",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "label": "Didone",
+      "wikidata": "Q693749",
+      "note": "Wikipedia (Fat face) describes the fat face as an extremely bold Didone, and graphicdesignhistory.com says display designers made the Bodoni and Didot types larger and blacker."
+    },
+    {
+      "relation": "related-to",
+      "label": "Slab serif",
+      "wikidata": "Q1892715",
+      "note": "Wikipedia (Slab serif) dates the genre to the early nineteenth century, and Wikipedia (Wood type) names it among the common wood type styles."
+    },
+    {
+      "relation": "related-to",
+      "style": "arts-and-crafts",
+      "note": "Wikipedia (Kelmscott Press) says Morris's books from 1891 sought to replicate fifteenth-century printing. The Kelmscott page is the opposite of the commercial poster: one face, dense borders, and a justified block."
+    },
+    {
+      "relation": "related-to",
+      "style": "dada",
+      "note": "The Dada record says its pages mix many unrelated typefaces from the jobbing printer’s case. That case still held the Victorian display faces and ornaments, but Dada broke the centred line."
+    },
+    {
+      "relation": "related-to",
+      "style": "psychedelic-art",
+      "note": "The Psychedelic art record cites Wikipedia for Victoriana as one source of the San Francisco rock posters."
+    },
+    {
+      "relation": "revival-of",
+      "label": "Push Pin Studios",
+      "wikidata": "Q3925990",
+      "note": "Wikipedia says Push Pin Studios (from 1954) made “interpretations of historical styles” against the rigidity of modernism. Victorian display type was one of them. Partial link: only some Push Pin work uses it."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "layout",
+      "term": "A centred stack of lines.",
+      "text": "Every line is centred on one vertical axis. Each line fills the measure, so the line length and type size change from line to line. The most important words get the biggest line."
+    },
+    {
+      "facet": "type",
+      "term": "A different face on every line.",
+      "text": "One sheet uses five to ten display faces: fat face romans and italics, slab serifs (Egyptians), French Clarendons, sans-serifs, very condensed theatre letters, and Tuscan, outline, or shaded types. Most display lines are in capitals."
+    },
+    {
+      "facet": "type",
+      "term": "Width, not weight, fits the line.",
+      "text": "Wood type came in widths from extra condensed to extended. The printer picks the width that makes a word fill the line, so a long name goes very narrow and a short word goes very wide."
+    },
+    {
+      "facet": "structure",
+      "term": "Brass rules and fleurons.",
+      "text": "Thick-and-thin rules, short dashes, stars, pointing hands, and fleurons separate the lines. A border of type ornaments or a double rule often frames the sheet."
+    },
+    {
+      "facet": "color",
+      "term": "Black, with red or blue.",
+      "text": "Black ink on white, buff, or tinted paper. The second colour is usually a red or a blue for one or two lines. Larger posters print colours from separate wood blocks."
+    },
+    {
+      "facet": "imagery",
+      "term": "Stock cuts.",
+      "text": "Small wood engravings from the printer’s stock (a horse, a steamboat, a hand, a crown) sit at the top or between lines. The page is mainly text."
+    },
+    {
+      "facet": "surface",
+      "term": "Impressed ink on paper.",
+      "text": "Flat ink with the grain of the wood, worn edges, and uneven inking in the big letters. No gradient, gloss, or shadow except the printed drop shade of a shaded type."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Lines of type are centred on one axis, and each line has its own size.",
+      "Five or more different display faces appear on one sheet, often one face per line.",
+      "Fat face, slab serif, condensed sans, or Tuscan (spurred) letters dominate, mostly in capitals.",
+      "Brass rules, short dashes, stars, or fleurons separate the lines.",
+      "Black ink on paper with at most one or two other inks, usually red or blue."
+    ],
+    "counter": [
+      "Lines set at several angles or overlapping. That points to Dada.",
+      "One typeface throughout, or a justified text block in a floral border. That points to Arts and Crafts.",
+      "Whiplash curves, flowing hand lettering, or a large figure illustration. That points to Art Nouveau.",
+      "Flush-left asymmetric layout on a grid.",
+      "Gradients, soft shadows, rounded corners, or photographs."
+    ],
+    "confusions": [
+      {
+        "with": "dada",
+        "difference": "Both mix many faces from the jobbing case. A Victorian bill keeps every line horizontal and centred, so the mix reads as a hierarchy. Dada rotates, overlaps, and scatters the lines and adds photomontage."
+      },
+      {
+        "with": "arts-and-crafts",
+        "difference": "Arts and Crafts printing uses one dark old-style roman or blackletter in a justified block inside a dense floral border. Victorian display uses many faces and sizes, centred, with rules instead of floral borders."
+      },
+      {
+        "with": "art-nouveau",
+        "difference": "Art Nouveau posters are lithographs built around a drawn figure, with curved hand lettering in soft colours. Victorian posters are letterpress text in metal and wood type, with straight lines and small stock cuts."
+      },
+      {
+        "with": "psychedelic-art",
+        "difference": "Psychedelic posters borrow Victorian and Nouveau letters but warp them into curved shapes in clashing bright colours. Victorian letters stay straight and legible on horizontal lines in black and one ink."
+      },
+      {
+        "with": "Artistic Printing (Aesthetic movement job printing)",
+        "difference": "The late jobbing style of the 1870s and 1880s sets type in curves and panels, in tints and many colours, with Japanese-style ornament. This record covers the earlier centred poster."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Centre every heading, label, and short line on one axis.",
+      "Use at least five faces: a fat face, a slab serif, a condensed gothic, an ornamented or Tuscan face, and a plain roman for small text. Change the face from line to line.",
+      "Set display lines in capitals and size each line so it fills the measure.",
+      "Separate blocks with thick-and-thin rules, short centred dashes, and fleurons such as ❦ and ✦.",
+      "Print in black on a warm paper colour. Use one red for the most important lines, and at most one blue.",
+      "Keep body text in a readable roman at a normal size."
+    ],
+    "dont": [
+      "Do not rotate or overlap lines. The Victorian bill is noisy but orderly.",
+      "Do not use gradients, soft shadows, rounded corners, or photographs.",
+      "Do not use more than two inks beyond black.",
+      "Do not set long paragraphs in display faces or capitals.",
+      "Do not centre form controls and data tables so far that they become hard to scan."
+    ],
+    "uses": [
+      "Theatre, circus, music hall, and live event sites",
+      "Craft breweries, distilleries, barbers, and restaurants with a heritage theme",
+      "Letterpress shops and printing museums",
+      "Fairs, markets, and historical festivals",
+      "Posters and announcements for a one-off event"
+    ],
+    "avoid": [
+      "Dense dashboards and data tools. Centred lines and changing faces slow scanning.",
+      "Healthcare, banking, and government services. The style is a sales voice and reads as a joke or a gimmick there.",
+      "Technology products that must look current. The style signals the nineteenth century first.",
+      "Long reading. Display faces and capitals tire the eye after a few lines."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "type.centerShare",
+      "min": 0.6,
+      "note": "Every line of the bill is centred on one axis. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.families.length",
+      "min": 5,
+      "note": "A different display face on each line. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "min": 0.5,
+      "note": "Display lines, labels, and tables in capitals. No other specimen reaches half. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.hues",
+      "max": 2,
+      "note": "Black with one red and at most one blue. Provisional."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Square letterpress rules and frames. Provisional."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "Flat impressed ink. Provisional."
+    }
+  ],
+  "synthesis": [
+    "The references share one method more than one look. A jobbing printer centres each line, picks a face and a width that make the words fill it, and divides the lines with rules, as in [Men of Color, To Arms!](ref:douglass-men-of-color-broadside-1863) and the [Rivers & Derious circus bill](ref:rivers-derious-circus-handbill-1864). Theatre bills such as the [Ford’s Theatre playbill](ref:fords-theatre-playbill-our-american-cousin-1865) and the [Birmingham pantomime bill](ref:theatre-royal-birmingham-playbill-1845) add dotted leaders, braces, and stacked small joining words.",
+    "The faces come from the founders’ and wood type makers’ specimens: fat Egyptians in the [Thorowgood specimen](ref:thorowgood-egyptian-specimen-1825), reverse-contrast [French Clarendon](ref:french-clarendon-wood-type-hamilton-museum), and the Tuscan and shaded chromatic letters of [Wm. H. Page & Co.](ref:page-chromatic-wood-type-specimens-1874). Most bills print in black only. Pictures are rare and small, such as stock cuts and pointing hands; the three photographs on the [Lincoln reward broadside](ref:lincoln-assassination-reward-broadside-1865) are an exception."
+  ],
+  "preview": [
+    "douglass-men-of-color-broadside-1863",
+    "fords-theatre-playbill-our-american-cousin-1865"
+  ]
+}

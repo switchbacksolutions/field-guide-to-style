@@ -1,0 +1,58 @@
+{
+  "id": "kaiser-balance-siren-poster-2017",
+  "title": "Anja Kaiser, Balance presents Siren poster, Club Culture Festival 2017",
+  "type": "print",
+  "medium": "poster",
+  "lede": "A lilac festival poster with a sharp blackletter “Balance pres.”, wide and stretched sans-serif names, an op-art ray disk, and blurred black shapes.",
+  "summary": "Lilac ground, blackletter and stretched grotesque type, a black-and-white ray disk, motion-blurred marks. Anja Kaiser, Leipzig, May 2017.",
+  "source": {
+    "url": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+    "label": "AIGA Eye on Design (5 September 2019): “Acid Graphics” Are the New Psychedelia"
+  },
+  "creator": {
+    "name": "Anja Kaiser"
+  },
+  "made": "2017 (the poster reads “May 12, ’17”)",
+  "moods": [
+    "dense",
+    "experimental",
+    "nocturnal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 px image `Anja-Kaiser-Balance-p-Siren-Poster.jpg` that [Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) published with the article, in a scratch folder. Not stored. The object is a digital image as the magazine published it, not a named physical copy. The caption reads “Anja Kaiser, Balance Presents Siren Poster”."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "acid-graphics",
+      "note": "Partial fit: blackletter, stretched type, an op-art ray disk, and flyer density, but on a light lilac ground with no chrome. Flat-color club-poster branch.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "[Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) shows the poster in its 2019 article on acid graphics, with the caption “Anja Kaiser, Balance Presents Siren Poster”.",
+    "The poster text names the Club Culture Festival, Institut fuer Zukunft in Leipzig, Laurel Halo, and The Empire Line, and lists the funders, among them the European Commission and the Kulturstiftung des Freistaates Sachsen."
+  ],
+  "observed": [
+    "The ground is a flat pale lilac with a black frame.",
+    "“Balance pres.” is set very large in a sharp, angular blackletter at the top.",
+    "Performer names are set in a wide, horizontally stretched sans-serif in capitals. The date and venue run vertically down the right edge.",
+    "A black-and-white disk of radiating lines with a small checkered center sits in the middle, like an op-art target.",
+    "Motion-blurred black marks and a faint, gray 3D-rendered form overlap the type.",
+    "Small text, logos, and notes fill the lower edge."
+  ],
+  "interpretation": [
+    "The poster has the typographic grammar of the trend, blackletter against stretched grotesques with an op-art figure, without its chrome or black ground. It shows that the name covers a wider club-poster practice than the chrome core."
+  ],
+  "borrow": [
+    "Combine one blackletter line with names in a horizontally stretched grotesque.",
+    "Use a radial op-art disk as the central image of a type-led poster."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is recent and in copyright. The rights holder is the designer or the client."
+  }
+}

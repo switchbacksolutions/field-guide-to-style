@@ -1,0 +1,249 @@
+{
+  "$description": "Authored tokens for ukiyo-e. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#f2e8d2",
+      "$description": "Cream hosho paper."
+    },
+    "surface": {
+      "$value": "#f7f0df"
+    },
+    "subtle": {
+      "$value": "#e6d7b8"
+    },
+    "text": {
+      "$value": "#1d1a16",
+      "$description": "Sumi black of the key block."
+    },
+    "muted": {
+      "$value": "#5a5145"
+    },
+    "border": {
+      "$value": "#1d1a16"
+    },
+    "primary": {
+      "$value": "#1f4e8c",
+      "$description": "Prussian blue, used for bokashi skies and water after the 1820s."
+    },
+    "on-primary": {
+      "$value": "#f7f0df"
+    },
+    "secondary": {
+      "$value": "#c0392b",
+      "$description": "Vermilion and beni red, used for seals and garments."
+    },
+    "on-secondary": {
+      "$value": "#f7f0df"
+    },
+    "accent": {
+      "$value": "#5b8a3c",
+      "$description": "Green of hills and pine."
+    },
+    "on-accent": {
+      "$value": "#1d1a16"
+    },
+    "highlight": {
+      "$value": "#d9a13b",
+      "$description": "Yellow ochre of title cartouches and sky glow."
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Hiragino Mincho ProN",
+        "Yu Mincho",
+        "Noto Serif JP",
+        "Iowan Old Style",
+        "Palatino Linotype",
+        "Georgia",
+        "serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Iowan Old Style",
+        "Palatino Linotype",
+        "Book Antiqua",
+        "Georgia",
+        "serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Hiragino Mincho ProN",
+        "Yu Mincho",
+        "Noto Serif JP",
+        "Iowan Old Style",
+        "Palatino Linotype",
+        "Georgia",
+        "serif"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 600
+    },
+    "display": {
+      "$value": 600
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "12px"
+    },
+    "sm": {
+      "$value": "14px"
+    },
+    "base": {
+      "$value": "17px"
+    },
+    "lg": {
+      "$value": "20px"
+    },
+    "xl": {
+      "$value": "26px"
+    },
+    "2xl": {
+      "$value": "34px"
+    },
+    "3xl": {
+      "$value": "46px"
+    },
+    "4xl": {
+      "$value": "68px"
+    },
+    "5xl": {
+      "$value": "96px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 1.05
+    },
+    "body": {
+      "$value": 1.6
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": 0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.12,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "0px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "2px"
+    },
+    "thick": {
+      "$value": "3px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "104px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

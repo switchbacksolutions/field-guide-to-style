@@ -1,0 +1,75 @@
+{
+  "id": "hokusai-south-wind-clear-sky-red-fuji-1830s",
+  "title": "Hokusai, South Wind, Clear Sky (Red Fuji)",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "Mount Fuji fills the right of the sheet as one red-brown triangle under a sky that darkens to Prussian blue at the top, from Hokusai’s Thirty-Six Views of Mount Fuji.",
+  "summary": "One red triangle, a bokashi blue sky, and rows of cloud. Katsushika Hokusai, early 1830s.",
+  "source": {
+    "url": "https://clevelandart.org/art/1930.189",
+    "label": "Cleveland Museum of Art, 1930.189"
+  },
+  "creator": {
+    "name": "Katsushika Hokusai"
+  },
+  "made": "early 1830s",
+  "moods": [
+    "calm",
+    "bold",
+    "monumental"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Cleveland Museum of Art print image of 1930.189 (3400 × 2329 px, viewed at 1600 × 1096)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ukiyo-e",
+      "note": "A canonical landscape print: one large flat shape placed off center, bokashi at the top of the sky and across the slope, and a title cartouche.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Cleveland catalogues the sheet as a color woodblock print, 25.6 × 37.5 cm, early 1830s, from Thirty-Six Views of Mount Fuji, sometimes known as “Red Fuji.” [CMA 1930.189](https://clevelandart.org/art/1930.189).",
+    "Cleveland notes that the grain of the cherry-wood block printed onto the paper with the red dye. [CMA](https://clevelandart.org/art/1930.189)."
+  ],
+  "observed": [
+    "Mount Fuji is one large red-brown triangle at right. Its right slope runs off the right edge of the sheet.",
+    "The peak darkens to brown, with white snow streaks left as paper.",
+    "The sky fades from a dark Prussian-blue band at the top into a lighter blue, crossed by rows of cream cloud shapes with blue edges.",
+    "The lower slope is a dark blue-green field of small tree marks that fades upward into the red.",
+    "Wood grain is visible in the red area.",
+    "A narrow vertical cartouche with the series title is at upper left, with the signature in a column beside it."
+  ],
+  "interpretation": [
+    "The print reduces the landscape to three areas, sky, mountain, and forest, so the bokashi transitions carry most of the depth.",
+    "The visible wood grain is a trace of the medium that flat digital color does not have."
+  ],
+  "borrow": [
+    "Make one large, simple shape the whole composition, and let it leave the frame on one side.",
+    "Use a narrow vertical label in the empty corner opposite the main shape."
+  ],
+  "images": [
+    {
+      "file": "assets/references/hokusai-south-wind-clear-sky-red-fuji-1830s.jpg",
+      "alt": "Color woodblock print. A huge red-brown Mount Fuji with white snow streaks rises at right against a blue sky with rows of white clouds. Dark blue-green forest covers the lower left slope. A vertical title cartouche is at upper left.",
+      "width": 1600,
+      "height": 1096,
+      "kind": "source-image",
+      "caption": "Katsushika Hokusai, South Wind, Clear Sky (Red Fuji), from Thirty-Six Views of Mount Fuji, early 1830s. [Cleveland Museum of Art 1930.189](https://clevelandart.org/art/1930.189). CC0.",
+      "original": "https://openaccess-cdn.clevelandart.org/1930.189/1930.189_print.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Cleveland Museum of Art open access API gives `share_license_status: CC0` for this object. Hokusai died in 1849, so the work is public domain in Japan and the United States."
+  },
+  "identifiers": {
+    "cleveland": "111654",
+    "accession": "1930.189"
+  }
+}

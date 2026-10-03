@@ -1,0 +1,157 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/risograph/index.html",
+  "title": "Risograph specimen · A Field Guide to Style",
+  "captured": "2026-10-03T01:41:49.766Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Helvetica Neue",
+        "share": 0.53
+      },
+      {
+        "family": "Avenir Next Condensed",
+        "share": 0.28
+      },
+      {
+        "family": "Courier New",
+        "share": 0.17
+      },
+      {
+        "family": "monospace",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 106.6,
+    "sizeRange": 6.27,
+    "scaleRatio": 1.35,
+    "headingWeight": 800,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0.33,
+    "monoShare": 0.2,
+    "centerShare": 0.03
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#f6f1e7",
+        "share": 0.568
+      },
+      {
+        "hex": "#2b3a70",
+        "share": 0.148
+      },
+      {
+        "hex": "#ffa3d8",
+        "share": 0.103
+      },
+      {
+        "hex": "#7fbbdf",
+        "share": 0.093
+      },
+      {
+        "hex": "#ff48b0",
+        "share": 0.042
+      },
+      {
+        "hex": "#0078bf",
+        "share": 0.034
+      },
+      {
+        "hex": "#ece4d4",
+        "share": 0.013
+      }
+    ],
+    "background": "#f6f1e7",
+    "text": "#2b3a70",
+    "contrast": 9.6,
+    "chroma": 0.2,
+    "lightness": 0.77,
+    "chromaticShare": 0.27,
+    "accentChroma": 0.47,
+    "distinct": 6,
+    "hues": 2,
+    "imageShare": 0.04,
+    "gradientShare": 0,
+    "patternShare": 0.96
+  },
+  "surface": {
+    "boxes": 45,
+    "radius": {
+      "median": 0,
+      "max": 50,
+      "roundShare": 0.13
+    },
+    "border": {
+      "share": 0.56,
+      "medianWidth": 2
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.18,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#f2eee5",
+        "share": 0.702
+      },
+      {
+        "hex": "#077abf",
+        "share": 0.093
+      },
+      {
+        "hex": "#fa4db1",
+        "share": 0.091
+      },
+      {
+        "hex": "#f99fd4",
+        "share": 0.023
+      },
+      {
+        "hex": "#952184",
+        "share": 0.014
+      },
+      {
+        "hex": "#925db2",
+        "share": 0.011
+      },
+      {
+        "hex": "#212480",
+        "share": 0.011
+      },
+      {
+        "hex": "#4776ba",
+        "share": 0.008
+      },
+      {
+        "hex": "#7bb5d7",
+        "share": 0.008
+      },
+      {
+        "hex": "#a192ae",
+        "share": 0.007
+      }
+    ],
+    "background": "#f2eee5",
+    "chroma": 0.2,
+    "lightness": 0.82,
+    "chromaticShare": 0.26,
+    "accentChroma": 0.61,
+    "distinct": 4,
+    "hues": 4
+  }
+}

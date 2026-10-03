@@ -1,0 +1,69 @@
+{
+  "id": "liquid-glass-renderer-flutter-shapes-2025",
+  "title": "liquid_glass_renderer: glass shapes demo",
+  "type": "image",
+  "medium": "software",
+  "lede": "A demo image from an open-source Flutter renderer for Liquid Glass: three clear glass shapes that bend a drawing grid at their rims.",
+  "summary": "Three clear glass shapes refracting a grid. Open-source Flutter renderer, 2025.",
+  "source": {
+    "url": "https://github.com/whynotmake-it/flutter_liquid_glass/tree/main/packages/liquid_glass_renderer",
+    "label": "GitHub: whynotmake-it/flutter_liquid_glass"
+  },
+  "creator": {
+    "name": "Tim Lehmann for whynotmake.it",
+    "url": "https://whynotmake.it"
+  },
+  "made": "2025 (first pub.dev release June 13, 2025; image committed June 19, 2025)",
+  "moods": [
+    "liquid",
+    "precise",
+    "airy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the repository file packages/liquid_glass_renderer/doc/shapes.png (1844 × 1262) at commit c3209ea323. The stored copy is resized to 1600 px."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "liquid-glass",
+      "note": "An independent reimplementation that isolates the material: refraction at the rim and a specular edge, with no blur and no border.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "pub.dev describes the package as “the raw renderer for a liquid glass effect in Flutter”. Its first version, 0.1.1-dev.0, was published on June 13, 2025, four days after WWDC. [pub.dev](https://pub.dev/packages/liquid_glass_renderer).",
+    "Wikipedia describes a wave of unofficial libraries after the announcement that approximate refraction and lensing with shaders, because platforms outside Apple have no native material. [Wikipedia: Liquid Glass](https://en.wikipedia.org/wiki/Liquid_Glass)."
+  ],
+  "observed": [
+    "A beige-to-white gradient with a fine and a coarse grid of grey lines fills the frame.",
+    "Three glass shapes sit in a row: a rounded square, a circle, and a squircle with slightly flatter sides.",
+    "Inside each shape the grid lines stay straight in the middle but curve and compress in a band along the rim, as through a thick lens edge.",
+    "A thin bright highlight runs along the upper-left and lower-right rims. There is no fill color, no blur, no border, and no shadow."
+  ],
+  "interpretation": [
+    "The image shows the one trait that separates the style from glassmorphism: the content under the glass is displaced, not blurred."
+  ],
+  "borrow": [
+    "Test a glass effect over a regular grid. A grid shows at once whether the edge refracts or only blurs."
+  ],
+  "images": [
+    {
+      "file": "assets/references/liquid-glass-renderer-flutter-shapes-2025.png",
+      "alt": "Three clear glass shapes, a rounded square, a circle, and a squircle, on a beige grid. The grid lines curve near the edges of each shape.",
+      "width": 1600,
+      "height": 1095,
+      "kind": "source-image",
+      "caption": "Demo image shapes.png from [whynotmake-it/flutter_liquid_glass](https://github.com/whynotmake-it/flutter_liquid_glass/tree/main/packages/liquid_glass_renderer), © 2025 Tim Lehmann for whynotmake.it, MIT License. Resized to 1600 px.",
+      "original": "https://raw.githubusercontent.com/whynotmake-it/flutter_liquid_glass/c3209ea323/packages/liquid_glass_renderer/doc/shapes.png",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "MIT",
+    "statement": "The package directory’s LICENSE grants MIT permissions, “Copyright 2025 Tim Lehmann for whynotmake.it”. The image is a file in that directory and shows only output of the software (a generated grid and shapes), with no third-party content. Keep the copyright and permission notice with copies."
+  },
+  "related": "See also [the iOS 26 Home Screen](ref:ios-26-home-screen-2025)."
+}

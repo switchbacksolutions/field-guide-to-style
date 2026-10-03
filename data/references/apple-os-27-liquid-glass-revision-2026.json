@@ -1,0 +1,58 @@
+{
+  "id": "apple-os-27-liquid-glass-revision-2026",
+  "title": "Liquid Glass revision in iOS 27 and macOS 27",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "Apple’s 2026 revision of Liquid Glass: a user slider from ultra-clear to fully tinted, sharper icons, and on the Mac a return to edge-to-edge sidebars and a uniform toolbar.",
+  "summary": "The 2026 revision: less transparency, a clear-to-tinted slider, and sharper icons. Apple.",
+  "source": {
+    "url": "https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/",
+    "label": "Apple Newsroom, June 8, 2026"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "2026 (announced at WWDC in June 2026; released September 2026)",
+  "moods": [
+    "calm",
+    "focused",
+    "luminous"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Apple Newsroom image Apple-OS-27-updates-260608 (1960 × 1102, large_2x variant) in a scratchpad copy. The screens are small, so glass detail is not visible at this size, and the description relies mostly on Apple’s text. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "liquid-glass",
+      "note": "The second version of the style. It keeps the floating control layer but makes the glass more opaque and the edges more defined.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple: “A new slider in Settings gives users the option to personalize Liquid Glass, adjusting it anywhere from ultra-clear to fully tinted”, and “app icons have been updated to be sharper and more defined. On Mac, updates reincorporate cornerstones of the macOS design … including a more uniform toolbar across the top of apps, edge-to-edge sidebars, colored sidebar icons, and more.” [Apple Newsroom, June 2026](https://www.apple.com/newsroom/2026/06/apple-unveils-next-generation-of-apple-intelligence-siri-ai-and-more/).",
+    "Apple’s developer release: “the design continues to evolve, with improvements to legibility, customizability, and consistency”. [Apple Newsroom](https://www.apple.com/newsroom/2026/06/apple-aids-app-development-with-new-intelligence-frameworks-and-advanced-tools/). The software shipped in September 2026. [Apple Newsroom](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/).",
+    "Wikipedia reports that the revision addressed criticism, reduced default transparency, and changed sidebar corners on iPadOS and macOS. [Wikipedia: Liquid Glass](https://en.wikipedia.org/wiki/Liquid_Glass)."
+  ],
+  "observed": [
+    "A product group on white: Vision Pro, a MacBook, an iPad, an iPhone, and an Apple Watch.",
+    "On the Mac, the Image Playground window is dark. Its sidebar runs to the window edge instead of floating as an inset panel, and the toolbar buttons are small separate capsules.",
+    "On the iPad, an “Allowed Apps” sheet is an opaque white rounded panel over a beige wave wallpaper, with a blue check button in a circle.",
+    "The Mac Dock is a dark strip with a faint rim."
+  ],
+  "interpretation": [
+    "The revision moves the style back toward opaque, structured surfaces. The capsule controls and concentric corners remain, so these are what define the style after 2026, more than strong transparency."
+  ],
+  "borrow": [
+    "Offer a user setting from clear to tinted glass instead of one fixed transparency."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple press image of copyrighted software and hardware. No image is stored here."
+  },
+  "related": "See also [the 2025 and 2026 icon edge](ref:liquid-glass-icon-effect-2025-2026-comparison) and [macOS Tahoe 26 Control Center](ref:macos-tahoe-26-control-center-2025)."
+}

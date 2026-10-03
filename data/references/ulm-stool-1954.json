@@ -1,0 +1,60 @@
+{
+  "id": "ulm-stool-1954",
+  "title": "Ulm stool (Ulmer Hocker), 1954",
+  "type": "object",
+  "medium": "furniture",
+  "lede": "The school’s multipurpose stool by Max Bill, Hans Gugelot, and Paul Hildinger: three spruce boards joined at the corners, with a beech rod between the sides.",
+  "summary": "Three plain spruce boards with finger joints and one round beech rod. A seat, side table, or shelf. HfG Ulm, 1954.",
+  "source": {
+    "url": "https://sammlung-digital.museumangewandtekunst.de/detailpage/collection/7146c7d2-0625-4f3b-bfa7-7876aa5f724e",
+    "label": "Museum Angewandte Kunst, Frankfurt, inventory 17619"
+  },
+  "creator": {
+    "name": "Max Bill, Hans Gugelot, Paul Hildinger, and Hochschule für Gestaltung Ulm"
+  },
+  "made": "1954",
+  "moods": [
+    "austere",
+    "practical",
+    "honest"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Museum Angewandte Kunst image of inventory 17619 at 1600 × 1067 px, through the museum’s online collection."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ulm-school",
+      "note": "A key Ulm object: minimal parts, visible joints, and several uses for one form. Its material is plain wood, not the grey housing of the product core.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "The museum credits Max Bill, Hans Gugelot, Paul Hildinger, and the Hochschule für Gestaltung Ulm with the design, dates it 1954, places production in Ulm, and gives spruce seat and side panels with a beech dowel and beech trim on the bottom edges. [Museum Angewandte Kunst 17619](https://sammlung-digital.museumangewandtekunst.de/detailpage/collection/7146c7d2-0625-4f3b-bfa7-7876aa5f724e).",
+    "The museum says that a small building budget led Gugelot and Bill to keep the furniture simple. The stool “consists of three spruce boards, which are joined together by a finger joint”, and the dowel can be used as a handle. It served as a seat, a book carrier, a low table, a pedestal, or, in a row, a shelf. In 1960 it cost 11 Deutschmarks. [Museum Angewandte Kunst](https://sammlung-digital.museumangewandtekunst.de/detailpage/collection/7146c7d2-0625-4f3b-bfa7-7876aa5f724e)."
+  ],
+  "observed": [
+    "The stool is an upside-down U of three flat, light spruce boards with straight grain and knots.",
+    "Finger joints show as a row of small rectangles at both top corners.",
+    "A round beech rod joins the two sides near the bottom.",
+    "Thin strips of a slightly different wood edge the bottoms of the sides.",
+    "There is no finish color, hardware, or ornament."
+  ],
+  "interpretation": [
+    "The stool is the Ulm method in its most basic form: the fewest parts, visible joints, and a form open to several uses. It shares the structure of the style, not its grey palette."
+  ],
+  "borrow": [
+    "Make the joint the only detail, and repeat it evenly."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The museum states “Rechte am Objekt: © VG Bild-Kunst, Bonn 2024”. Max Bill died in 1994. No image is stored."
+  },
+  "identifiers": {
+    "museum-angewandte-kunst": "17619"
+  }
+}

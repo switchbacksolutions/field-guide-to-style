@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/sharaku-otani-oniji-iii-as-edobei-1794.jpg",
+  "captured": "2026-10-03T01:43:22+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#74655e",
+        "share": 0.285
+      },
+      {
+        "hex": "#dfc0a3",
+        "share": 0.192
+      },
+      {
+        "hex": "#363230",
+        "share": 0.135
+      },
+      {
+        "hex": "#675954",
+        "share": 0.072
+      },
+      {
+        "hex": "#fde8d5",
+        "share": 0.045
+      },
+      {
+        "hex": "#824a3d",
+        "share": 0.039
+      },
+      {
+        "hex": "#857668",
+        "share": 0.033
+      },
+      {
+        "hex": "#918466",
+        "share": 0.027
+      },
+      {
+        "hex": "#d2b598",
+        "share": 0.025
+      },
+      {
+        "hex": "#ca7662",
+        "share": 0.018
+      }
+    ],
+    "background": "#74655e",
+    "chroma": 0.14,
+    "lightness": 0.5,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.41,
+    "distinct": 9,
+    "hues": 1
+  }
+}

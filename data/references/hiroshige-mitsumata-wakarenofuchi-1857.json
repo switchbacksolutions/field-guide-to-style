@@ -1,0 +1,75 @@
+{
+  "id": "hiroshige-mitsumata-wakarenofuchi-1857",
+  "title": "Hiroshige, Mitsumata Wakarenofuchi",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "Cargo boats cross the Sumida River below a distant Mount Fuji, under a sky that fades from Prussian blue at the top and a river that darkens at the bottom: bokashi at both ends of the sheet.",
+  "summary": "Bokashi bands at the top and bottom, flat blue water, and a distant Fuji. Utagawa (Andō) Hiroshige, 1857.",
+  "source": {
+    "url": "https://www.loc.gov/item/2009631870/",
+    "label": "Library of Congress, Prints and Photographs Division, FP 2 - JPD, no. 1300, p. 14"
+  },
+  "creator": {
+    "name": "Utagawa Hiroshige (catalogued by the Library of Congress as Andō Hiroshige)"
+  },
+  "made": "[1857]",
+  "moods": [
+    "calm",
+    "open",
+    "atmospheric"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Library of Congress reference JPEG (689 × 1024 px, the largest JPEG offered). This impression is mounted in the album Gajō icchō, p. 14 (Donald D. Walker collection). A brown stain is visible at lower right."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ukiyo-e",
+      "note": "A clear example of bokashi used as a band at the top of the sky and the bottom of the water, with flat color fields, cartouches, and an off-center Fuji.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Library of Congress catalogues the print as a color woodcut, 36.3 × 24.1 cm, vertical ōban nishiki-e, [1857], from the series One Hundred Famous Views of Edo (Meisho Edo hyakkei). [LoC 2009631870](https://www.loc.gov/item/2009631870/).",
+    "The record summary: barges on the waterways near Edo, with Mount Fuji in the distance. [LoC](https://www.loc.gov/item/2009631870/)."
+  ],
+  "observed": [
+    "The sky fades from a dark Prussian-blue band at the top into pale cream, then into a pink band at the horizon.",
+    "The river is flat pale blue in the middle and darkens to deep blue along the bottom edge.",
+    "Mount Fuji is a flat gray cone with a white cap, small, left of center, on a dark blue ridge.",
+    "A band of green reeds crosses the river as a flat shape with thin black blade lines.",
+    "A sailboat with a cream sail sits low and right of center. Other boats are cut by the left and right edges.",
+    "A red vertical series cartouche with a yellow title panel is at upper right. A red signature cartouche is at lower left.",
+    "A thin black frame line runs around the picture inside a cream paper margin."
+  ],
+  "interpretation": [
+    "The print shows the two standard bokashi places, the top of the sky and the bottom of the water, in one image. The rest of the picture is flat.",
+    "The calm horizontal bands of sky, land, reeds, and water are typical of Hiroshige’s late landscapes."
+  ],
+  "borrow": [
+    "Fade the top of a header from deep blue into the page color, and fade the bottom of a footer the same way.",
+    "Stack calm horizontal bands of flat color, and break them with one vertical element."
+  ],
+  "images": [
+    {
+      "file": "assets/references/hiroshige-mitsumata-wakarenofuchi-1857.jpg",
+      "alt": "Color woodblock print. Sailboats and cargo barges on a pale blue river with a band of green reeds. Mount Fuji rises small in the distance under a sky that is deep blue at the top and pink at the horizon. Red cartouches are at upper right and lower left.",
+      "width": 689,
+      "height": 1024,
+      "kind": "source-image",
+      "caption": "Utagawa Hiroshige, Mitsumata Wakarenofuchi, from One Hundred Famous Views of Edo, 1857. [Library of Congress 2009631870](https://www.loc.gov/item/2009631870/). No known restrictions on publication.",
+      "original": "https://tile.loc.gov/storage-services/service/pnp/jpd/02900/02931v.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The Library of Congress gives the rights advisory “No known restrictions on publication.” Hiroshige died in 1858 and the print was published in 1857, so the work is public domain in Japan and the United States."
+  },
+  "identifiers": {
+    "loc": "2009631870"
+  }
+}

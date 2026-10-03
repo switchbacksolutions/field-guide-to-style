@@ -1,0 +1,54 @@
+{
+  "id": "apple-event-2019-iphone-11-pro-display-slide",
+  "title": "Apple Event September 2019: iPhone 11 Pro display slide",
+  "type": "image",
+  "medium": "other",
+  "lede": "An early Apple summary slide that already uses a grid of tiles in mixed sizes, but with square corners.",
+  "summary": "Square-cornered dark tiles of mixed sizes with large figures and words, behind a presenter on stage. September 2019.",
+  "source": {
+    "url": "https://apple-summary-slides.vercel.app/events/apple-event-september-2019",
+    "label": "Apple Summary Slides (fan archive): Apple Event September 2019"
+  },
+  "creator": {
+    "name": "Apple Inc.",
+    "url": "https://www.apple.com/apple-events/"
+  },
+  "made": "2019-09-10 (Apple Event “By innovation only”)",
+  "moods": [
+    "dramatic",
+    "technical"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1920 × 1080 WebP `[Apple Event September 2019]-[iPhone]-[iPhone 11 Pro (1)].webp` from the fan archive [Apple Summary Slides](https://apple-summary-slides.vercel.app/events/apple-event-september-2019) (Ricky Zhang), which says that all images are screenshots of Apple event videos. The copy is a frame of the event video, not an Apple press file. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "bento-grid",
+      "note": "Partial fit, as a precursor: mixed tile sizes, narrow gutters, and one large figure per tile, but the corners are square or barely rounded.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple introduced iPhone 11 Pro at its event on 10 September 2019. The fan archive starts its collection of summary slides with this event."
+  ],
+  "observed": [
+    "The frame is a photo of the stage: a presenter stands in front of a large screen that shows the slide, so the slide is seen in perspective and partly covered.",
+    "Dark tiles of several sizes fill the screen with narrow, even dark gutters. Their corners are square or only very slightly rounded.",
+    "Tiles hold large white figures with small labels (“1200 nits peak brightness”, “458 pixels per inch”, “15%”), large words (“OLED”, “HDR”), and pictures of the phone and of abstract texture.",
+    "“Wide color” is filled with a rainbow gradient. “Haptic Touch” sits in a tile of orange and pink concentric rings."
+  ],
+  "interpretation": [
+    "The content rules of the bento grid are present here, one year before Apple rounded the tiles. Compare the rounded tiles of [WWDC 2020](ref:apple-wwdc-2020-ios-14-summary-slide). The square tiles connect the form to the tile grids of [Metro](ref:windows-8-1-start-screen)."
+  ],
+  "borrow": [
+    "Mix figure tiles with picture tiles so that the eye moves between numbers and images."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Frame of an Apple event video; copyrighted by Apple Inc. The fan archive states “All rights reserved by Apple Inc.” No image is stored here."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "no-style-please-jekyll-theme",
+  "title": "no style, please! (Jekyll theme)",
+  "type": "product",
+  "medium": "software",
+  "lede": "An open-source blog theme with about 1 kB of CSS that leaves almost everything at browser defaults.",
+  "summary": "riggraz’s 2020 Jekyll theme: black monospace text on white, default blue and purple underlined links, nested bullets.",
+  "source": {
+    "url": "https://github.com/riggraz/no-style-please",
+    "label": "GitHub: riggraz/no-style-please"
+  },
+  "creator": {
+    "name": "Riccardo Graziosi (riggraz)",
+    "url": "https://riggraz.dev/"
+  },
+  "made": "2020",
+  "moods": [
+    "raw",
+    "plain",
+    "honest"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Opened the repository’s README screenshot `_screenshots/featured-image.png` (2678 × 1500 px) with the Read tool on 2026-10-02, and read `_sass/no-style-please.scss`. Repository created 10 July 2020 (GitHub API). The live demo was not captured."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "brutalist-web-design",
+      "note": "Nearly unstyled HTML on purpose: default links, default lists, black on white, one monospace face.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The README describes it as “A (nearly) no-CSS, fast, minimalist Jekyll theme”, “Inspired by [elly’s site](http://tilde.town/~elly/)”, with “1kb of CSS”.",
+    "The stylesheet sets `color: black; font-family: monospace; font-size: 16px` on a white body, a 640 px column, and a dark mode made with `filter: invert(1)`. It does not set link colors.",
+    "MIT license. A Hugo port exists: [hanwenguo/hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease) (2022)."
+  ],
+  "observed": [
+    "The light screenshot shows a bold monospace title, “no style, please!”, above a nested bulleted list with disc, circle, and square markers.",
+    "Links are underlined; unvisited links are bright blue and visited links purple, as in browser defaults.",
+    "Post dates in ISO form (2020-07-09) sit before each link. No images, rules, boxes, or shadows.",
+    "The dark screenshot is the same page inverted: white monospace on black, with a yellow footnote link."
+  ],
+  "interpretation": [
+    "A clear current example of [Brutalist web design](style:brutalist-web-design) in the monospace variant that [NN/g (2017)](ref:nngroup-brutalism-antidesign-article-2017) describes: “blue links and monochromatic Monospace text”."
+  ],
+  "borrow": [
+    "Use nested lists as navigation and let the default bullet shapes show the hierarchy.",
+    "Make a dark mode by inverting the page instead of designing a second palette."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "MIT",
+    "statement": "The code is MIT-licensed. The screenshot was viewed at its source and is not stored."
+  }
+}

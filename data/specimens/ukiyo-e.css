@@ -1,0 +1,79 @@
+/* Ukiyo-e specimen. Uses tokens.css. Black key lines, flat block colors, a bokashi sky, and an off-center composition. */
+/* Wave fields sit on real elements, not pseudo-elements, so that the extractor sees them as patterns. */
+* { box-sizing: border-box; }
+body { max-width: 1240px; margin: 0 auto; padding: 0 5%; background: var(--color-bg); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); line-height: var(--leading-body); }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--color-secondary); outline-offset: 3px; }
+.specimen-back { margin: 0; padding: var(--spacing-sm) 0; font-size: var(--text-xs); }
+h1, h2, h3, .logo, .kicker, dd, .price, .quote p { font-family: var(--font-display); font-weight: var(--font-weight-bold); }
+
+.site-header { display: flex; justify-content: space-between; align-items: center; gap: var(--spacing-md); flex-wrap: wrap; padding: var(--spacing-sm) 0; border-bottom: var(--border-width-thin) solid var(--color-border); }
+.logo { display: inline-flex; align-items: center; gap: 12px; font-size: var(--text-lg); text-decoration: none; }
+.logo::before { content: ""; width: 18px; height: 18px; background: var(--color-secondary); }
+.site-header nav { display: flex; gap: var(--spacing-md); flex-wrap: wrap; }
+.site-header nav a { text-decoration: none; font-size: var(--text-sm); letter-spacing: var(--tracking-label); }
+
+/* Ichimonji bokashi: a band of Prussian blue at the top of the sky fades into the paper. */
+.hero { position: relative; overflow: hidden; isolation: isolate; margin-top: var(--spacing-md); padding: 160px 34% var(--spacing-xl) var(--spacing-lg); border: var(--border-width-thick) solid var(--color-border); background: linear-gradient(in oklab to bottom, var(--color-primary) 0, var(--color-primary) 7%, var(--color-bg) 34%); }
+.hero::before { content: ""; position: absolute; z-index: -1; right: -90px; top: 70px; width: 340px; height: 340px; border-radius: 50%; background: var(--color-secondary); }
+.hero::after { content: ""; position: absolute; z-index: -1; right: 8%; bottom: 0; width: 420px; height: 230px; clip-path: polygon(50% 0, 60% 9%, 100% 100%, 0 100%, 40% 9%); background-color: var(--color-accent); background-image: linear-gradient(to bottom, var(--color-surface) 0 22%, transparent 22%); }
+.kicker { position: absolute; top: var(--spacing-lg); right: 38%; margin: 0; padding: 14px 8px; writing-mode: vertical-rl; border: var(--border-width-thin) solid var(--color-border); background: var(--color-highlight); font-size: var(--text-sm); letter-spacing: var(--tracking-label); line-height: 1.3; }
+.kicker::after { content: ""; display: block; width: 16px; height: 16px; margin-top: 10px; background: var(--color-secondary); }
+h1 { max-width: 8ch; margin: 0; font-size: clamp(52px, 9vw, var(--text-5xl)); line-height: var(--leading-tight); letter-spacing: var(--tracking-display); }
+h1 span { display: block; padding-left: 1.4em; color: var(--color-secondary); }
+.lede { max-width: 32ch; margin: var(--spacing-lg) 0; font-size: var(--text-lg); }
+.actions { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); margin: 0 0 var(--spacing-lg); }
+.button, button { display: inline-block; padding: 12px 22px; border: var(--border-width-thin) solid var(--color-border); border-radius: var(--radius-md); background: var(--color-primary); color: var(--color-on-primary); font-family: var(--font-display); font-size: var(--text-base); letter-spacing: var(--tracking-label); text-decoration: none; cursor: pointer; }
+.button-secondary { background: var(--color-surface); color: var(--color-text); }
+.facts { display: flex; flex-wrap: wrap; margin: 0; width: fit-content; border: var(--border-width-thin) solid var(--color-border); background: var(--color-highlight); }
+.facts div { padding: var(--spacing-xs) var(--spacing-md); border-right: var(--border-width-thin) solid var(--color-border); }
+.facts div:last-child { border-right: 0; }
+dt { font-size: var(--text-xs); letter-spacing: var(--tracking-label); }
+dd { margin: 0; font-size: var(--text-2xl); line-height: 1.1; }
+
+h2 { display: flex; align-items: center; gap: var(--spacing-sm); margin: var(--spacing-xl) 0 var(--spacing-md); font-size: var(--text-3xl); line-height: 1.1; letter-spacing: var(--tracking-heading); }
+h2::before { content: ""; flex: none; width: 14px; height: 14px; background: var(--color-secondary); }
+h3 { margin: var(--spacing-sm) 0 var(--spacing-xs); font-size: var(--text-xl); }
+
+/* Seigaiha wave crests, bounded like a textile panel. */
+.features, .quote { --wave: var(--color-primary); background-color: var(--color-subtle); background-image: radial-gradient(circle at 50% 100%, transparent 0 7px, var(--wave) 7px 9px, transparent 9px 13px, var(--wave) 13px 15px, transparent 15px 19px, var(--wave) 19px 21px, transparent 21px), radial-gradient(circle at 50% 100%, transparent 0 7px, var(--wave) 7px 9px, transparent 9px 13px, var(--wave) 13px 15px, transparent 15px 19px, var(--wave) 19px 21px, transparent 21px); background-size: 44px 22px; background-position: 0 0, 22px 11px; }
+.features { margin-top: var(--spacing-xl); padding: var(--spacing-sm) var(--spacing-lg) var(--spacing-xl); border: var(--border-width-thin) solid var(--color-border); }
+.features h2 { width: fit-content; padding: var(--spacing-xs) var(--spacing-md); border: var(--border-width-thin) solid var(--color-border); background: var(--color-surface); }
+.cards { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: var(--spacing-md); }
+.card { position: relative; padding: var(--spacing-md); border: var(--border-width-thin) solid var(--color-border); background: var(--color-surface); }
+.features .card:nth-child(2) { margin-top: var(--spacing-lg); }
+.features .card:nth-child(2) .card-number { background: var(--color-highlight); color: var(--color-text); }
+.features .card:nth-child(3) .card-number { background: var(--color-accent); }
+.card-number { position: absolute; top: var(--spacing-sm); right: var(--spacing-sm); padding: 2px 6px; background: var(--color-secondary); color: var(--color-on-secondary); font-family: var(--font-display); font-size: var(--text-sm); }
+
+table { width: 100%; border-collapse: collapse; border: var(--border-width-thin) solid var(--color-border); }
+th { text-align: left; padding: 10px 12px; background: var(--color-text); color: var(--color-surface); font-family: var(--font-display); font-size: var(--text-sm); letter-spacing: var(--tracking-label); }
+td { padding: 12px; border-bottom: 1px solid var(--color-border); }
+tbody tr:nth-child(odd) td:first-child { color: var(--color-secondary); font-weight: var(--font-weight-bold); }
+tbody tr:nth-child(even) td:first-child { color: var(--color-accent); font-weight: var(--font-weight-bold); }
+
+.quote { --wave: var(--color-surface); position: relative; margin: var(--spacing-2xl) 0 0; padding: var(--spacing-xl) 30% var(--spacing-xl) var(--spacing-lg); border: var(--border-width-thick) solid var(--color-border); background-color: var(--color-primary); }
+.quote p { max-width: 28ch; margin: 0 0 var(--spacing-sm); padding: var(--spacing-md); border: var(--border-width-thin) solid var(--color-border); background: var(--color-surface); font-size: var(--text-xl); line-height: 1.35; }
+.quote footer { display: inline-block; padding: 6px 12px; background: var(--color-highlight); color: var(--color-text); font-size: var(--text-sm); letter-spacing: var(--tracking-label); }
+
+.card .price { margin: 0; font-size: var(--text-3xl); }
+/* Bokashi at the foot of the featured card, as on the water of a landscape print. */
+.card-featured { background: linear-gradient(in oklab to top, var(--color-primary) 0, var(--color-surface) 75%); }
+.card-featured .button { background: var(--color-secondary); color: var(--color-on-secondary); }
+
+form { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); align-items: end; }
+label { width: 100%; font-family: var(--font-display); font-weight: var(--font-weight-bold); }
+input { flex: 1 1 260px; padding: 12px; border: var(--border-width-thin) solid var(--color-border); border-radius: var(--radius-md); background: var(--color-surface); font: inherit; }
+.note { font-size: var(--text-sm); color: var(--color-muted); }
+.site-footer { margin-top: var(--spacing-xl); padding: var(--spacing-md) 0; border-top: var(--border-width-thin) solid var(--color-border); font-size: var(--text-xs); }
+
+@media (max-width: 760px) {
+  .hero { padding: var(--spacing-xl) var(--spacing-md); }
+  .hero::before { width: 200px; height: 200px; right: -70px; top: 40px; }
+  .hero::after { width: 260px; height: 150px; right: -40px; }
+  .kicker { position: static; writing-mode: horizontal-tb; display: inline-block; margin-bottom: var(--spacing-md); padding: 6px 10px; }
+  .kicker::after { display: inline-block; width: 12px; height: 12px; margin: 0 0 0 8px; }
+  .quote { padding: var(--spacing-lg) var(--spacing-md); }
+  .features { padding: var(--spacing-sm) var(--spacing-md) var(--spacing-lg); }
+  table { display: block; overflow-x: auto; }
+}

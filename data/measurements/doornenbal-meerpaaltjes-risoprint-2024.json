@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/doornenbal-meerpaaltjes-risoprint-2024.jpg",
+  "captured": "2026-10-03T01:53:30+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#c3c6c5",
+        "share": 0.118
+      },
+      {
+        "hex": "#d6dada",
+        "share": 0.105
+      },
+      {
+        "hex": "#c8929b",
+        "share": 0.085
+      },
+      {
+        "hex": "#a5798b",
+        "share": 0.084
+      },
+      {
+        "hex": "#c99fa9",
+        "share": 0.062
+      },
+      {
+        "hex": "#986c80",
+        "share": 0.047
+      },
+      {
+        "hex": "#b48b99",
+        "share": 0.041
+      },
+      {
+        "hex": "#86607a",
+        "share": 0.04
+      },
+      {
+        "hex": "#735776",
+        "share": 0.039
+      },
+      {
+        "hex": "#b16c79",
+        "share": 0.035
+      }
+    ],
+    "background": "#c3c6c5",
+    "chroma": 0.14,
+    "lightness": 0.61,
+    "chromaticShare": 0.02,
+    "accentChroma": 0.32,
+    "distinct": 23,
+    "hues": 1
+  }
+}

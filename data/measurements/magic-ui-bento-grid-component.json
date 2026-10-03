@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/magic-ui-bento-grid-component.jpg",
+  "captured": "2026-10-03T01:38:51+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.894
+      },
+      {
+        "hex": "#f4f4f4",
+        "share": 0.04
+      },
+      {
+        "hex": "#e8e8e8",
+        "share": 0.024
+      },
+      {
+        "hex": "#d2d2d2",
+        "share": 0.02
+      },
+      {
+        "hex": "#b1b3b3",
+        "share": 0.008
+      },
+      {
+        "hex": "#4a4a4a",
+        "share": 0.005
+      },
+      {
+        "hex": "#7e7e7e",
+        "share": 0.004
+      },
+      {
+        "hex": "#cff1ea",
+        "share": 0.002
+      },
+      {
+        "hex": "#fbd569",
+        "share": 0.001
+      },
+      {
+        "hex": "#eed78a",
+        "share": 0.001
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.0,
+    "lightness": 0.98,
+    "chromaticShare": 0.0,
+    "accentChroma": 0.5,
+    "distinct": 3,
+    "hues": 0
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "$description": "Authored tokens for acid-graphics. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#050505"
+    },
+    "surface": {
+      "$value": "#0f0f0f"
+    },
+    "subtle": {
+      "$value": "#1c1c1c"
+    },
+    "text": {
+      "$value": "#ececec"
+    },
+    "muted": {
+      "$value": "#a6a6a6"
+    },
+    "border": {
+      "$value": "#3d3d3d"
+    },
+    "primary": {
+      "$value": "#b4ff00",
+      "$description": "Acid green: actions, links, and accents."
+    },
+    "on-primary": {
+      "$value": "#050505"
+    },
+    "secondary": {
+      "$value": "#c8c8c8",
+      "$description": "Mid chrome: the gray band of the metal gradient and secondary actions."
+    },
+    "on-secondary": {
+      "$value": "#050505"
+    },
+    "accent": {
+      "$value": "#ffffff",
+      "$description": "Chrome highlight: the white glint of the metal gradient."
+    },
+    "on-accent": {
+      "$value": "#050505"
+    },
+    "glow": {
+      "$value": "#b4ff00",
+      "$description": "Acid green glow for the display type."
+    },
+    "shade": {
+      "$value": "#000000",
+      "$description": "Chrome horizon: the dark band in the metal gradient."
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Old English Text MT",
+        "UnifrakturMaguntia",
+        "Arial Black",
+        "Helvetica Neue",
+        "Arial",
+        "Liberation Sans",
+        "sans-serif"
+      ],
+      "$description": "Blackletter where the system has one, otherwise a heavy sans that the specimen stretches."
+    },
+    "body": {
+      "$value": [
+        "Helvetica Neue",
+        "Arial",
+        "Liberation Sans",
+        "Nimbus Sans",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Menlo",
+        "Consolas",
+        "DejaVu Sans Mono",
+        "monospace"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 700
+    },
+    "display": {
+      "$value": 900
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "10px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "base": {
+      "$value": "14px"
+    },
+    "lg": {
+      "$value": "18px"
+    },
+    "xl": {
+      "$value": "24px"
+    },
+    "2xl": {
+      "$value": "40px"
+    },
+    "3xl": {
+      "$value": "64px"
+    },
+    "4xl": {
+      "$value": "120px"
+    },
+    "5xl": {
+      "$value": "200px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 0.82
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.02,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.08,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "0px"
+    },
+    "md": {
+      "$value": "0px"
+    },
+    "lg": {
+      "$value": "0px"
+    },
+    "pill": {
+      "$value": "0px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "2px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "4px"
+    },
+    "sm": {
+      "$value": "8px"
+    },
+    "md": {
+      "$value": "16px"
+    },
+    "lg": {
+      "$value": "24px"
+    },
+    "xl": {
+      "$value": "48px"
+    },
+    "2xl": {
+      "$value": "96px"
+    }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "sm": {
+      "$value": [
+        {
+          "color": "#b4ff00",
+          "offsetX": "0px",
+          "offsetY": "0px",
+          "blur": "0px",
+          "spread": "1px",
+          "inset": false
+        }
+      ],
+      "$description": "A hard acid-green edge line for fields and buttons."
+    },
+    "md": {
+      "$value": [
+        {
+          "color": "#ffffff59",
+          "offsetX": "0px",
+          "offsetY": "1px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        },
+        {
+          "color": "#000000",
+          "offsetX": "0px",
+          "offsetY": "-1px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": true
+        }
+      ],
+      "$description": "Hard chrome bevel: a white top edge and a black bottom edge."
+    },
+    "accent": {
+      "$value": [
+        {
+          "color": "#b4ff00",
+          "offsetX": "4px",
+          "offsetY": "4px",
+          "blur": "0px",
+          "spread": "0px",
+          "inset": false
+        }
+      ],
+      "$description": "Hard acid-green offset for the featured pass."
+    }
+  },
+  "gradient": {
+    "$type": "gradient",
+    "chrome": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#ffffff",
+            "position": 0
+          },
+          {
+            "color": "#d9d9d9",
+            "position": 0.3
+          },
+          {
+            "color": "#6e6e6e",
+            "position": 0.52
+          },
+          {
+            "color": "#141414",
+            "position": 0.56
+          },
+          {
+            "color": "#9c9c9c",
+            "position": 0.64
+          },
+          {
+            "color": "#f5f5f5",
+            "position": 0.82
+          },
+          {
+            "color": "#8a8a8a",
+            "position": 1
+          }
+        ]
+      },
+      "$description": "Liquid chrome: bright top, a hard black horizon just below the middle, and a bright lower reflection."
+    },
+    "gunmetal": {
+      "$value": {
+        "angle": "180deg",
+        "stops": [
+          {
+            "color": "#3a3a3a",
+            "position": 0
+          },
+          {
+            "color": "#141414",
+            "position": 0.5
+          },
+          {
+            "color": "#050505",
+            "position": 0.52
+          },
+          {
+            "color": "#262626",
+            "position": 1
+          }
+        ]
+      },
+      "$description": "Dark chrome for panels and secondary buttons."
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.5xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

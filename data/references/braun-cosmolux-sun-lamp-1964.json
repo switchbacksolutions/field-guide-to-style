@@ -1,0 +1,57 @@
+{
+  "id": "braun-cosmolux-sun-lamp-1964",
+  "title": "Braun Cosmolux sun lamp, 1964",
+  "type": "object",
+  "medium": "product",
+  "lede": "A folding sun lamp by Dieter Rams, Reinhold Weiss, and Dietrich Lubs for Braun: a light-grey steel case with a square frame of tubes, hinged on a flat aluminium tray.",
+  "summary": "A light-grey enamelled case with a square frame around the tubes, hinged on a flat aluminium base. Braun, 1964.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1554431/",
+    "label": "Victoria and Albert Museum, W.5-2020"
+  },
+  "creator": {
+    "name": "Dieter Rams, Reinhold Weiss, and Dietrich Lubs, designers; Braun, manufacturer"
+  },
+  "made": "1964",
+  "moods": [
+    "precise",
+    "practical",
+    "quiet"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A’s primary image 2021MW4323 of object W.5-2020 at 1600 × 1201 px, through the V&A IIIF service."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ulm-school",
+      "note": "A small appliance in the Braun grammar: one light-grey finish, a rounded-rectangle frame, a visible hinge, and a tiny logo.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A credits Dieter Rams, Reinhold Weiss, and Dietrich Lubs, dates the lamp 1964, and gives anodised aluminium, enamelled steel, and plastic. It describes five glass tubes in an enamelled steel case “hinged on an aluminum base”, metal “pierced at the bottom to prevent overheating”, and a timer dial on the right side. It came as a gift of Michael and Mariko Whiteway. [V&A W.5-2020](https://collections.vam.ac.uk/item/O1554431/)."
+  ],
+  "observed": [
+    "The case and the base are the same light grey. The case is a box with one strongly rounded rear corner.",
+    "A square frame with rounded inner corners surrounds three horizontal white tubes and a small central lamp.",
+    "The case turns on one round pivot on a flat bracket. The base is a shallow tray with a short dark foot strip.",
+    "A small “braun” logo sits on the edge of the tray. A dark socket for the cable is set into the side."
+  ],
+  "interpretation": [
+    "The lamp shows the style’s rounded rectangle at small scale: one radius for the frame, one finish for all parts, and the mechanism left visible."
+  ],
+  "borrow": [
+    "Use one rounded-rectangle frame to hold the working part, and leave the hinge or joint visible."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Image © Victoria and Albert Museum, London. The V&A allows non-commercial use of its images under its own terms, not an open license. The design is by living or recently deceased designers. No image is stored."
+  },
+  "identifiers": {
+    "vam": "O1554431"
+  }
+}

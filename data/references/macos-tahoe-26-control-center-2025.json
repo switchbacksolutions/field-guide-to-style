@@ -1,0 +1,57 @@
+{
+  "id": "macos-tahoe-26-control-center-2025",
+  "title": "macOS Tahoe 26 Control Center",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "Control Center on macOS Tahoe 26: clear glass circles and capsules that sit straight on the desktop wallpaper.",
+  "summary": "Clear glass controls on the Mac desktop, with no panel behind them. Apple, 2025.",
+  "source": {
+    "url": "https://www.apple.com/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/",
+    "label": "Apple Newsroom, June 9, 2025"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "2025 (announced June 9, 2025)",
+  "moods": [
+    "luminous",
+    "liquid",
+    "airy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Apple Newsroom image Apple-WWDC25-macOS-Tahoe-26-Control-Center-250609 (1960 × 1306, large_2x variant) in a scratchpad copy. A press render. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "liquid-glass",
+      "note": "Shows the control layer alone: separate glass shapes with lit rims over the wallpaper, and no shared panel.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple: macOS Tahoe 26 “is crafted with Liquid Glass, a translucent new material that reflects and refracts its surroundings”. “The menu bar is now completely transparent”, and users can choose which controls appear in the menu bar and Control Center. [Apple Newsroom](https://www.apple.com/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/)."
+  ],
+  "observed": [
+    "The upper-right corner of a MacBook screen with a blue, teal, and sand wave wallpaper. The menu bar has no background. Only the active Control Center icon sits in a light blue capsule.",
+    "Control Center has no window. Each control is its own glass shape: capsules for Wi-Fi and Focus, circles for Bluetooth and AirDrop, rounded rectangles for Now Playing, Display, and Sound, and a row of four circles.",
+    "Each shape is nearly clear, takes the blue of the wallpaper, and has a bright rim that is strongest on the upper-left edge.",
+    "Active toggles (Bluetooth, AirDrop) are opaque white circles with blue glyphs. The Display and Sound sliders are deeper blue glass with white tracks.",
+    "Gaps between shapes are equal, and inner corners follow the outer corners."
+  ],
+  "interpretation": [
+    "Removing the panel and keeping only separate glass controls is the clearest sign of the style’s two-layer idea: the controls float, and nothing else is glass."
+  ],
+  "borrow": [
+    "Show an active state as an opaque fill inside the glass set, and keep inactive controls clear."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple press image of copyrighted software. No image is stored here."
+  },
+  "related": "See also [the iOS 26 Home Screen](ref:ios-26-home-screen-2025) and the overview record [Apple Liquid Glass](ref:apple-liquid-glass-2025)."
+}

@@ -1,0 +1,54 @@
+{
+  "id": "hachmang-trailer-min-expo-riso-poster-2014",
+  "title": "Viktor Hachmang, poster for Trailer/Min Expo",
+  "type": "print",
+  "medium": "poster",
+  "lede": "A riso-printed exhibition poster by the Dutch illustrator Viktor Hachmang: fluorescent pink and dark blue, with coarse halftone dots and overprinted violet.",
+  "summary": "Riso poster in fluorescent pink and blue with coarse halftone and violet overprint.",
+  "source": {
+    "url": "https://www.flickr.com/photos/mvs/13778444003/",
+    "label": "Flickr: Marcel van Schooten, “Poster Trailer/Min Expo”"
+  },
+  "creator": {
+    "name": "Viktor Hachmang (design), as the Flickr description states"
+  },
+  "made": "2014 (photographed 11 April 2014)",
+  "moods": [
+    "playful",
+    "vibrant",
+    "handmade"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the 1024 × 576 px Flickr “large” file of a close photograph of one printed copy, owned and photographed by Marcel van Schooten. The image shows a detail, not the whole sheet."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "risograph",
+      "note": "Two spot inks, fluorescent pink and blue, with halftone screens and a third color where they overprint.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Flickr description says: “Printed on RISO printer with an awesome design by Viktor Hachmang.” The photo is licensed CC BY 2.0 by the photographer, who is not the designer."
+  ],
+  "observed": [
+    "Fluorescent pink and a dark blue are the only inks on cream paper.",
+    "A regular pink halftone dot field fills the background. A finer blue screen gives a light gray-blue tint.",
+    "Where blue lines and fills cross the pink, the overlap prints a dark violet.",
+    "Line drawing and lettering are clean and of even weight. There are no black key lines."
+  ],
+  "interpretation": [
+    "A clear example of the two-ink riso poster: the third color is made by overprint, and halftone screens stand in for extra inks."
+  ],
+  "borrow": [
+    "Use a pink halftone as a background tint and let a second ink overprint it, instead of adding a third color."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The photograph is CC BY 2.0 by Marcel van Schooten, but the poster design is a third-party work in copyright. Link only."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "bill-junghans-kitchen-clock-1956",
+  "title": "Max Bill, Junghans kitchen clock with timer, 1956",
+  "type": "object",
+  "medium": "product",
+  "lede": "A kitchen wall clock designed by Max Bill, with Ernst Moeckl, while he directed the Ulm School: a pale blue ceramic body, a white dial with thin grotesque numerals, and a timer below.",
+  "summary": "Pale blue drop-shaped body, white dial with thin numerals and fine ticks, and a round timer. Max Bill for Junghans, 1956.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O164396/",
+    "label": "Victoria and Albert Museum, M.224-2007"
+  },
+  "creator": {
+    "name": "Max Bill and Ernst Moeckl, designers; Junghans, maker"
+  },
+  "made": "Designed 1956; the V&A also gives 1960–1970 for this example",
+  "moods": [
+    "calm",
+    "precise",
+    "domestic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A’s primary image 2007BP8871 of object M.224-2007 at 1067 × 1600 px, through the V&A IIIF service."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ulm-school",
+      "note": "Made by the school’s first rector during his Ulm years. The dial follows Ulm discipline, but the curved, colored body does not.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "The V&A says the clock “was designed by Max Bill whilst Director of the Hochschule für Gestaltung (HfG Ulm)”. It gives glazed earthenware, glass, chrome, painted metal, plastic, and a quartz mechanism, a design date of 1956 with Ernst Moeckl, and Junghans, Schramberg, as maker. [V&A M.224-2007](https://collections.vam.ac.uk/item/O164396/).",
+    "The record describes the body as “coloured a pale blue” outside and white inside, moulded in an inverted “V” shape. [V&A](https://collections.vam.ac.uk/item/O164396/)."
+  ],
+  "observed": [
+    "The body is a glossy pale blue shape like a rounded drop, wide at the top.",
+    "The white dial carries thin, light grotesque numerals 1 to 12, fine minute ticks, and small “JUNGHANS” capitals with wide spacing.",
+    "The hands are plain black strips with pointed ends, around a small white disc.",
+    "A round white timer dial below has small numerals every five minutes and a pale cream pointed knob."
+  ],
+  "interpretation": [
+    "The dial is the Ulm part: thin type, an exact scale, and no decoration. The color and the curved body belong more to general 1950s domestic design, so the clock is a bridge object and not a core example."
+  ],
+  "borrow": [
+    "Set a scale with thin numerals and fine, even ticks, and let the scale be the decoration."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Image © Victoria and Albert Museum, London, under the V&A’s own terms, not an open license. Max Bill died in 1994, so the design is protected in Switzerland and Germany. No image is stored."
+  },
+  "identifiers": {
+    "vam": "O164396"
+  }
+}

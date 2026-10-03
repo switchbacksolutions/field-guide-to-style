@@ -1,0 +1,149 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/ulm-school/index.html",
+  "title": "Ulm School specimen · A Field Guide to Style",
+  "captured": "2026-10-03T01:38:20.748Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Akzidenz-Grotesk",
+        "share": 1
+      }
+    ],
+    "baseSize": 16,
+    "maxSize": 52,
+    "sizeRange": 3.25,
+    "scaleRatio": 1.26,
+    "headingWeight": 500,
+    "bodyWeight": 400,
+    "headingTracking": 0,
+    "uppercaseShare": 0,
+    "monoShare": 0,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#f5f5f2",
+        "share": 0.384
+      },
+      {
+        "hex": "#e4e3df",
+        "share": 0.373
+      },
+      {
+        "hex": "#5f5e59",
+        "share": 0.093
+      },
+      {
+        "hex": "#3b3b39",
+        "share": 0.069
+      },
+      {
+        "hex": "#2b2b29",
+        "share": 0.068
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.005
+      },
+      {
+        "hex": "#d5d4cf",
+        "share": 0.004
+      },
+      {
+        "hex": "#d9531e",
+        "share": 0.003
+      }
+    ],
+    "background": "#f5f5f2",
+    "text": "#5f5e59",
+    "contrast": 5.9,
+    "chroma": 0.02,
+    "lightness": 0.77,
+    "chromaticShare": 0,
+    "accentChroma": 0.73,
+    "distinct": 5,
+    "hues": 1,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0.08
+  },
+  "surface": {
+    "boxes": 22,
+    "radius": {
+      "median": 7,
+      "max": 7,
+      "roundShare": 1
+    },
+    "border": {
+      "share": 0.86,
+      "medianWidth": 1
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0.09,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#e4e3df",
+        "share": 0.467
+      },
+      {
+        "hex": "#f5f6f1",
+        "share": 0.456
+      },
+      {
+        "hex": "#3c3d39",
+        "share": 0.016
+      },
+      {
+        "hex": "#b6b5b0",
+        "share": 0.014
+      },
+      {
+        "hex": "#c6c6c2",
+        "share": 0.01
+      },
+      {
+        "hex": "#d3d3ce",
+        "share": 0.01
+      },
+      {
+        "hex": "#898985",
+        "share": 0.009
+      },
+      {
+        "hex": "#a6a39e",
+        "share": 0.008
+      },
+      {
+        "hex": "#656662",
+        "share": 0.008
+      },
+      {
+        "hex": "#d75622",
+        "share": 0.002
+      }
+    ],
+    "background": "#e4e3df",
+    "chroma": 0.02,
+    "lightness": 0.89,
+    "chromaticShare": 0,
+    "accentChroma": 0.71,
+    "distinct": 2,
+    "hues": 0
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "lincoln-assassination-reward-broadside-1865",
+  "title": "“$100,000 Reward! The Murderer of our late beloved President” broadside",
+  "type": "print",
+  "medium": "poster",
+  "lede": "The War Department’s reward broadside of 20 April 1865 for Lincoln’s assassin and two accomplices, set in condensed gothics and fat slab capitals under three mounted photographs.",
+  "summary": "Letterpress reward broadside with a pointing hand, condensed sans, and fat slab lines. Washington, 1865.",
+  "source": {
+    "url": "https://www.loc.gov/item/96521960/",
+    "label": "Library of Congress: $100,000 reward! The murderer of our late beloved President, Abraham Lincoln, is still at large"
+  },
+  "creator": {
+    "name": "United States War Department (issuer)"
+  },
+  "made": "1865",
+  "moods": [
+    "urgent",
+    "official",
+    "stark"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Library of Congress photograph (cph 3g05341) through its [Commons copy](https://commons.wikimedia.org/wiki/File:$100,000_reward!_The_murderer_of_our_late_beloved_President,_Abraham_Lincoln,_is_still_at_large_LCCN96521960.jpg) at 1145 × 1463 px. The image is a transparency of the copy in “Miscellaneous Items in High Demand” with a colour bar and gray scale beside it. LoC catalogues other copies (for example [rbpe.00000800](http://www.loc.gov/item/rbpe.00000800/)), which may differ."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "victorian-typography",
+      "note": "Centred lines in several wood and metal display faces, a printer’s pointing hand, and a rule, in black on paper. Partial fit: the three photoprints are not typical of the letterpress bill.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Library of Congress catalogues the item as 1 print (broadside): text and 3 photoprints, 1865, and marks it “No known restrictions on publication.” [LoC 96521960](https://www.loc.gov/item/96521960/).",
+    "The broadside is dated “War Department, Washington, April 20, 1865” and is signed by Edwin M. Stanton, Secretary of War."
+  ],
+  "observed": [
+    "Three albumen portraits in black-bordered mounts sit across the top, captioned SURRAT., BOOTH., and HAROLD. in small capitals.",
+    "A pointing hand engraving points at “$100,000 REWARD!” set in a tall condensed sans-serif with a thick-and-thin rule below.",
+    "“THE MURDERER” runs in a very large, very condensed sans-serif. The next line returns to a condensed mixed-case sans.",
+    "“IS STILL AT LARGE.” is set in a black slab or Clarendon capital, and the three reward lines in a wide fat slab with bracketed serifs.",
+    "Every display line is centred and spans the sheet. Small roman text in justified paragraphs fills the lower third.",
+    "Black ink on buff paper, with folds, stains, and uneven inking in the big letters."
+  ],
+  "interpretation": [
+    "The sheet shows how a government notice used the commercial poster’s range of faces. Width does the work: condensed letters for the long line, a wide slab for the short repeated “REWARD”.",
+    "The photographs are an exception that marks the 1860s. Most bills of the period used small stock cuts or no images."
+  ],
+  "borrow": [
+    "Use a repeated phrase in one face as a vertical rhythm, and change only the number in front of it.",
+    "Put a pointing hand before the key line instead of a colour change."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lincoln-assassination-reward-broadside-1865.jpg",
+      "alt": "Aged buff broadside photographed on black with a colour bar at right. Three framed portrait photographs sit at the top. Below, centred lines of black display type read $100,000 Reward!, The Murderer of our late beloved President, Abraham Lincoln, is still at large, and three reward amounts, above small paragraphs of text.",
+      "width": 1145,
+      "height": 1463,
+      "kind": "source-image",
+      "caption": "War Department reward broadside, Washington, 20 April 1865. Library of Congress, cph 3g05341, through [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:$100,000_reward!_The_murderer_of_our_late_beloved_President,_Abraham_Lincoln,_is_still_at_large_LCCN96521960.jpg). No known restrictions.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/54/%24100%2C000_reward%21_The_murderer_of_our_late_beloved_President%2C_Abraham_Lincoln%2C_is_still_at_large_LCCN96521960.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The Library of Congress states “No known restrictions on publication.” Commons tags the file {{PD-old-100-1923}}. It is a United States government work published in 1865."
+  },
+  "identifiers": {
+    "loc": "96521960",
+    "commons": "File:$100,000 reward! The murderer of our late beloved President, Abraham Lincoln, is still at large LCCN96521960.jpg"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/hiroshige-mitsumata-wakarenofuchi-1857.jpg",
+  "captured": "2026-10-03T01:49:08+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#859891",
+        "share": 0.174
+      },
+      {
+        "hex": "#dec49d",
+        "share": 0.141
+      },
+      {
+        "hex": "#d6b991",
+        "share": 0.099
+      },
+      {
+        "hex": "#445357",
+        "share": 0.095
+      },
+      {
+        "hex": "#19263f",
+        "share": 0.074
+      },
+      {
+        "hex": "#3d484a",
+        "share": 0.046
+      },
+      {
+        "hex": "#708685",
+        "share": 0.042
+      },
+      {
+        "hex": "#232221",
+        "share": 0.032
+      },
+      {
+        "hex": "#5f7b84",
+        "share": 0.03
+      },
+      {
+        "hex": "#c6a581",
+        "share": 0.026
+      }
+    ],
+    "background": "#859891",
+    "chroma": 0.16,
+    "lightness": 0.48,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.36,
+    "distinct": 15,
+    "hues": 2
+  }
+}

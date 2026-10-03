@@ -1,0 +1,61 @@
+{
+  "id": "hfg-ulm-building-1955",
+  "title": "Hochschule für Gestaltung building, Ulm",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Max Bill’s building for the Ulm School of Design (1953–1955): low volumes of bare concrete on a hillside, with ribbon windows in wooden frames.",
+  "summary": "Bare grey concrete volumes on a slope, rows of wood-framed windows, and a thin flat entrance canopy. Max Bill, Ulm, 1953–1955.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Ulm_School_of_Design",
+    "label": "Wikipedia: Ulm School of Design"
+  },
+  "creator": {
+    "name": "Max Bill",
+    "url": "https://www.wikidata.org/wiki/Q123454"
+  },
+  "made": "1953–1955 (inaugurated 2 October 1955)",
+  "moods": [
+    "austere",
+    "rational",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected two Wikimedia Commons photographs as 1280 px thumbnails: [HfGUlmbuilding 5.jpg](https://commons.wikimedia.org/wiki/File:HfGUlmbuilding_5.jpg) by Trop86 (30 May 2021, CC BY-SA 4.0) and [HfG Ulm Main Entrance](https://commons.wikimedia.org/wiki/File:HfG_Ulm_Main_Entrance_photo_by_Christian_G%C3%A4nshirt.JPG) by Christian Gänshirt (July 2014, CC BY-SA 4.0). These are recent views, so later repairs may differ from the 1955 state. No image is stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ulm-school",
+      "note": "The school’s own building: plain modular volumes and visible material, the architectural frame of the Ulm method.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "Wikipedia: “In 1953 the new building was started, designed by Max Bill, and the inauguration took place on October 2, 1955.” The building “remains intact today” under the Foundation Ulm. [Wikipedia](https://en.wikipedia.org/wiki/Ulm_School_of_Design).",
+    "A Commons description by Martin3d says that some rooms are now used by the HfG-Archiv Ulm. [Commons](https://commons.wikimedia.org/wiki/File:Hochschule_f%C3%BCr_Gestaltung,_Ulm.jpg)."
+  ],
+  "observed": [
+    "The volumes are low, flat-roofed boxes of bare grey concrete. They step down a grassy slope.",
+    "Windows run in rows of equal, nearly square panes with orange-brown wooden frames, the only warm color on the facade.",
+    "The entrance is a thin flat concrete canopy on two slim square posts.",
+    "Low concrete retaining walls and plain metal rails edge the paths.",
+    "The 2021 photograph shows a tall twisted stainless-steel column in the lawn. It is not identified here."
+  ],
+  "interpretation": [
+    "The building shows the school’s method in architecture: modular parts, raw material, and no ornament. Its palette is concrete and wood, not the white and grey of the Braun products, so it fits the structure of the style more than its surface."
+  ],
+  "borrow": [
+    "Repeat one window module along a long wall, and let one warm material frame it."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Commons photographs are CC BY-SA 4.0, but the building is by Max Bill, who died in 1994, so it is protected in Germany. German freedom of panorama (§ 59 UrhG) probably permits exterior photographs. The lead curator can decide on an upgrade."
+  },
+  "identifiers": {
+    "commons": "File:HfGUlmbuilding 5.jpg"
+  }
+}

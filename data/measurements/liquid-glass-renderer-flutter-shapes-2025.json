@@ -1,0 +1,33 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/liquid-glass-renderer-flutter-shapes-2025.png",
+  "captured": "2026-10-03T01:40:42+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#d2ccbf",
+        "share": 0.471
+      },
+      {
+        "hex": "#e5e2da",
+        "share": 0.458
+      },
+      {
+        "hex": "#dcd7cc",
+        "share": 0.056
+      },
+      {
+        "hex": "#c3bdb0",
+        "share": 0.015
+      }
+    ],
+    "background": "#d2ccbf",
+    "chroma": 0.06,
+    "lightness": 0.83,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 3,
+    "hues": 0
+  }
+}

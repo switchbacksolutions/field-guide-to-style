@@ -1,0 +1,56 @@
+{
+  "id": "liquid-glass-react-library-2025",
+  "title": "liquid-glass-react",
+  "type": "product",
+  "medium": "software",
+  "lede": "A React component library by Max Rovensky, published on npm on June 10, 2025, one day after Apple announced Liquid Glass.",
+  "summary": "The first popular web reimplementation of Liquid Glass, as React components. 2025.",
+  "source": {
+    "url": "https://github.com/rdev/liquid-glass-react",
+    "label": "GitHub: rdev/liquid-glass-react"
+  },
+  "creator": {
+    "name": "Max Rovensky",
+    "url": "https://github.com/rdev"
+  },
+  "made": "2025 (npm 0.0.1 published June 10, 2025; repository last pushed June 13, 2025)",
+  "moods": [
+    "luminous",
+    "liquid",
+    "warm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the repository file assets/card.png (1296 × 736) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "liquid-glass",
+      "note": "Partial fit. It carries the lensing glass to the web, but it puts content in a glass card, which Apple’s guidelines reserve for controls.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The repository describes itself as “Apple’s Liquid Glass effect for React”, under the MIT license, with about 6,300 GitHub stars when checked. [GitHub](https://github.com/rdev/liquid-glass-react).",
+    "Wikipedia calls it the earliest web implementation and the most downloaded Liquid Glass package on npm, and says that its development stopped shortly after release. [Wikipedia: Liquid Glass](https://en.wikipedia.org/wiki/Liquid_Glass)."
+  ],
+  "observed": [
+    "A warm, sepia photo of a ruined pier over the sea with gulls fills the frame.",
+    "A rounded glass card in the middle holds a “User Info” profile: initials in a circle, a name, and three label-value rows in white sans-serif.",
+    "Through the card the pier is heavily blurred and warmed to amber, and the dark pier struts smear sideways near the left edge of the card.",
+    "The card has a thin light rim, slightly brighter on its upper edge, and a soft shadow."
+  ],
+  "interpretation": [
+    "The demo blends the two styles: Liquid Glass edge distortion, but glassmorphism’s content card with strong blur."
+  ],
+  "borrow": [
+    "Raise the blur under text-bearing glass and keep the refraction for the rim."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The code is MIT (© 2025 Max Rovensky). Kept as link only because the demo image shows a third-party photograph whose license is not stated."
+  }
+}

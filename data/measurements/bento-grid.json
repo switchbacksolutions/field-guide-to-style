@@ -1,0 +1,141 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/bento-grid/index.html",
+  "title": "Bento grid specimen · A Field Guide to Style",
+  "captured": "2026-10-03T01:35:47.500Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "-apple-system",
+        "share": 0.98
+      },
+      {
+        "family": "SF Mono",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 144,
+    "sizeRange": 8.47,
+    "scaleRatio": 1.46,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": -0.02,
+    "uppercaseShare": 0,
+    "monoShare": 0.02,
+    "centerShare": 0.01
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#f5f5f7",
+        "share": 0.652
+      },
+      {
+        "hex": "#1d1d1f",
+        "share": 0.211
+      },
+      {
+        "hex": "#6e6e73",
+        "share": 0.06
+      },
+      {
+        "hex": "#0071e3",
+        "share": 0.053
+      },
+      {
+        "hex": "#bf4800",
+        "share": 0.024
+      }
+    ],
+    "background": "#f5f5f7",
+    "text": "#6e6e73",
+    "contrast": 4.7,
+    "chroma": 0.07,
+    "lightness": 0.71,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.85,
+    "distinct": 5,
+    "hues": 2,
+    "imageShare": 0,
+    "gradientShare": 0,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 15,
+    "radius": {
+      "median": 28,
+      "max": 28,
+      "roundShare": 1
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0,
+      "hardShare": null,
+      "medianBlur": null,
+      "medianOffset": null
+    },
+    "gradientShare": 0,
+    "patternShare": 0,
+    "blurShare": 0
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#f5f5f7",
+        "share": 0.731
+      },
+      {
+        "hex": "#1d1d1f",
+        "share": 0.146
+      },
+      {
+        "hex": "#be4800",
+        "share": 0.046
+      },
+      {
+        "hex": "#6e6e72",
+        "share": 0.014
+      },
+      {
+        "hex": "#dfe0e2",
+        "share": 0.01
+      },
+      {
+        "hex": "#bcbbbe",
+        "share": 0.008
+      },
+      {
+        "hex": "#d1cfcf",
+        "share": 0.007
+      },
+      {
+        "hex": "#a3a3a5",
+        "share": 0.006
+      },
+      {
+        "hex": "#29292b",
+        "share": 0.005
+      },
+      {
+        "hex": "#878688",
+        "share": 0.005
+      }
+    ],
+    "background": "#f5f5f7",
+    "chroma": 0.05,
+    "lightness": 0.78,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.72,
+    "distinct": 3,
+    "hues": 2
+  }
+}

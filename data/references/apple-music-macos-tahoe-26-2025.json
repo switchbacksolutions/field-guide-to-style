@@ -1,0 +1,58 @@
+{
+  "id": "apple-music-macos-tahoe-26-2025",
+  "title": "Apple Music on macOS Tahoe 26",
+  "type": "product",
+  "medium": "app",
+  "lede": "The Music app in macOS Tahoe 26: opaque album content under a floating glass sidebar and a floating glass player bar.",
+  "summary": "Album art runs under a floating glass sidebar and player capsule. Apple, 2025.",
+  "source": {
+    "url": "https://www.apple.com/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/",
+    "label": "Apple Newsroom, June 9, 2025"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://www.apple.com/"
+  },
+  "made": "2025 (announced June 9, 2025)",
+  "moods": [
+    "luminous",
+    "layered",
+    "premium"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Apple Newsroom image Apple-WWDC25-macOS-Tahoe-26-Apple-Music-250609 (1960 × 1306, large_2x variant) in a scratchpad copy. A press render. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "liquid-glass",
+      "note": "A clear case of the two layers: opaque content, with glass only on the sidebar, the player controls, and the Dock.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple: in macOS Tahoe 26 “the Dock, sidebars, and toolbars have been refined, bringing greater focus to a user’s content”. [Apple Newsroom](https://www.apple.com/newsroom/2025/06/macos-tahoe-26-makes-the-mac-more-capable-productive-and-intelligent-than-ever/).",
+    "The HIG: Liquid Glass “forms a distinct functional layer for controls and navigation elements — like tab bars and sidebars — that floats above the content layer”. [Apple HIG: Materials](https://developer.apple.com/design/human-interface-guidelines/materials)."
+  ],
+  "observed": [
+    "A MacBook screen with a blue wave wallpaper, a transparent menu bar, and glass calendar and weather widgets on the desktop.",
+    "The Music window is opaque white with a large black “Home” title and rows of square album art with rounded corners.",
+    "The sidebar is a separate rounded panel inset inside the window, lighter than the content, with a faint pink and blue glow from the content beside it. Its selected item is a grey capsule.",
+    "A white player capsule floats over the lower row of album art, inset from the window edges. The art shows faintly through its edges.",
+    "The Dock is a long glass strip inset from the screen edge, with a lit upper rim."
+  ],
+  "interpretation": [
+    "Here the glass is quiet. The style shows mainly in the floating, inset shapes and the content that runs under them, not in strong transparency."
+  ],
+  "borrow": [
+    "Float the media player as a capsule above the scrolling content instead of docking it as a full-width bar."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple press image of copyrighted software and third-party album art. No image is stored here."
+  },
+  "related": "See also [macOS Tahoe 26 Control Center](ref:macos-tahoe-26-control-center-2025)."
+}

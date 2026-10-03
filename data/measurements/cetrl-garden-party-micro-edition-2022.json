@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/cetrl-garden-party-micro-edition-2022.jpg",
+  "captured": "2026-10-03T01:53:29+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#9b4153",
+        "share": 0.246
+      },
+      {
+        "hex": "#050505",
+        "share": 0.115
+      },
+      {
+        "hex": "#98526c",
+        "share": 0.071
+      },
+      {
+        "hex": "#867fa2",
+        "share": 0.037
+      },
+      {
+        "hex": "#797391",
+        "share": 0.037
+      },
+      {
+        "hex": "#928db5",
+        "share": 0.032
+      },
+      {
+        "hex": "#6f6680",
+        "share": 0.031
+      },
+      {
+        "hex": "#89485e",
+        "share": 0.029
+      },
+      {
+        "hex": "#967697",
+        "share": 0.028
+      },
+      {
+        "hex": "#8a6987",
+        "share": 0.028
+      }
+    ],
+    "background": "#9b4153",
+    "chroma": 0.19,
+    "lightness": 0.36,
+    "chromaticShare": 0.27,
+    "accentChroma": 0.36,
+    "distinct": 21,
+    "hues": 1
+  }
+}

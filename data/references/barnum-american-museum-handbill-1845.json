@@ -1,0 +1,75 @@
+{
+  "id": "barnum-american-museum-handbill-1845",
+  "title": "P. T. Barnum’s American Museum handbill, January 1845",
+  "type": "print",
+  "medium": "poster",
+  "lede": "A narrow New York handbill for Barnum’s museum that stacks shaded, fat, and Egyptian lines around a stock woodcut of an orangutan.",
+  "summary": "Museum handbill with a shaded headline, wavy rules, pointing hands, and a woodcut. New York, 1845.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Houghton_TCS_65_-_Playbill,_Barnum_American_Museum,_1845.jpg",
+    "label": "Wikimedia Commons: Houghton TCS 65 – Playbill, Barnum American Museum, 1845"
+  },
+  "creator": {
+    "name": "Designer unidentified (Houghton Library); P. T. Barnum, proprietor"
+  },
+  "made": "1845",
+  "moods": [
+    "showy",
+    "sensational",
+    "busy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons image of the Houghton Library copy (Harvard Theatre Collection, TCS 65, Playbills and Programs from New York City Theaters). The original file is 573 × 1805 px; it was viewed through a Commons thumbnail because the original returned HTTP 429, and the stored copy is 508 × 1600 px."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "victorian-typography",
+      "note": "A show bill with centred lines in many faces, wavy and straight rules, pointing hands, and a stock cut. Partial fit: two lines run vertically beside the cut.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes the file as a handbill advertisement for P. T. Barnum’s American Museum, c. 6 January 1845, in Playbills and Programs from New York City Theaters (TCS 65), Harvard Theatre Collection, Houghton Library, Harvard University, designer unidentified.",
+    "The bill names the museum at the corner of Broadway and Ann Street, P. T. Barnum as proprietor, and F. Hitchcock as manager."
+  ],
+  "observed": [
+    "“MUSEUM!” is set in a shaded open letter with a drop shadow; “AMERICAN” above it in small spaced capitals.",
+    "Below, centred lines alternate between fat face, letterspaced Egyptian (“LECTURE ROOM”), bold roman, and italic, with wavy rules between them.",
+    "A woodcut of an orangutan seated on a chair fills the middle, with “ORANG” and “Outang!” set vertically on each side.",
+    "Pointing hands lead into “MAD’LE FANNY,” and “Petrologist!”.",
+    "“Mad. Rockwell,” is in a fat face with ball terminals.",
+    "Black ink on buff paper, foxed at the edges, with “TURN OVER” at the foot."
+  ],
+  "interpretation": [
+    "Barnum’s bill shows the showman’s use of the style: each attraction gets a new face, and the sensational words get the heaviest letters.",
+    "The vertical lines next to the cut are an exception to the horizontal rule, used to fit a big name beside a picture on a narrow sheet."
+  ],
+  "borrow": [
+    "Put a wavy rule between light announcements and a straight rule between sections.",
+    "Wrap a single picture with the name of the thing it shows."
+  ],
+  "images": [
+    {
+      "file": "assets/references/barnum-american-museum-handbill-1845.jpg",
+      "alt": "Narrow buff handbill. Centred lines in many typefaces read American Museum!, Every Day and Evening this Week, Grand Performances!, Lecture Room, and Splendid Company of Performers. A woodcut of a seated orangutan has the words Orang and Outang! set vertically on each side, and lower lines with pointing hands read Mad'le Fanny and Petrologist!",
+      "width": 508,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Handbill for P. T. Barnum’s American Museum, New York, January 1845. Houghton Library, Harvard University, TCS 65, through [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Houghton_TCS_65_-_Playbill,_Barnum_American_Museum,_1845.jpg). Public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Houghton_TCS_65_-_Playbill%2C_Barnum_American_Museum%2C_1845.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons tags the file {{PD-old}} and links the [Harvard catalogue record](http://id.lib.harvard.edu/aleph/012690355/catalog) for TCS 65 as source. The handbill was published in New York in 1845 by an unidentified designer."
+  },
+  "identifiers": {
+    "houghton": "TCS 65",
+    "commons": "File:Houghton TCS 65 - Playbill, Barnum American Museum, 1845.jpg"
+  }
+}

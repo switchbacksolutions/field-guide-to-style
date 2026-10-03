@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/mario-felipe-mano-vs-regla-book-2015.jpg",
+  "captured": "2026-10-03T01:53:29+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#b7edf8",
+        "share": 0.342
+      },
+      {
+        "hex": "#8be1e5",
+        "share": 0.208
+      },
+      {
+        "hex": "#d8e5cf",
+        "share": 0.201
+      },
+      {
+        "hex": "#abd8df",
+        "share": 0.064
+      },
+      {
+        "hex": "#a38373",
+        "share": 0.051
+      },
+      {
+        "hex": "#a79080",
+        "share": 0.042
+      },
+      {
+        "hex": "#976c60",
+        "share": 0.015
+      },
+      {
+        "hex": "#97bac3",
+        "share": 0.015
+      },
+      {
+        "hex": "#9dccd6",
+        "share": 0.014
+      },
+      {
+        "hex": "#77ccd0",
+        "share": 0.01
+      }
+    ],
+    "background": "#b7edf8",
+    "chroma": 0.23,
+    "lightness": 0.77,
+    "chromaticShare": 0.23,
+    "accentChroma": 0.36,
+    "distinct": 6,
+    "hues": 1
+  }
+}

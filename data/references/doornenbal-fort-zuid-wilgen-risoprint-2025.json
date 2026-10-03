@@ -1,0 +1,67 @@
+{
+  "id": "doornenbal-fort-zuid-wilgen-risoprint-2025",
+  "title": "Jan-Willem Doornenbal, Riso Fort Zuid Wilgen",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "A scan of an A3 three-color riso print of willows reflected in water, in blue, yellow, and black.",
+  "summary": "Scan of a three-color A3 riso photo print in blue, yellow, and black.",
+  "source": {
+    "url": "https://www.flickr.com/photos/mededeler/54312665558/",
+    "label": "Flickr: Jan-Willem Doornenbal, “Riso Fort Zuid Wilgen”"
+  },
+  "creator": {
+    "name": "Jan-Willem Doornenbal",
+    "url": "https://www.flickr.com/photos/mededeler/"
+  },
+  "made": "2025 (scanned 7 February 2025)",
+  "moods": [
+    "calm",
+    "grainy",
+    "natural"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the 1024 × 726 px Flickr “large” file, a flatbed scan of the whole sheet, so the color is closer to the print than in a photograph."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "risograph",
+      "note": "Three spot inks separate a photograph, with banding and grain from the drum.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Flickr description says: “Scan van een 3-kleuren risoprint op A3-formaat. Blauw, geel en zwart.” (Scan of a three-color riso print in A3 format. Blue, yellow, and black.)"
+  ],
+  "observed": [
+    "The photograph is split into three inks: a mid blue for water, a pale yellow for the far bank, and black for branches.",
+    "Blue and yellow overlap into green in the trees at the left.",
+    "Large blue areas show fine horizontal banding and grain near the lower edge.",
+    "The image is printed with a wide white paper margin."
+  ],
+  "interpretation": [
+    "Riso separations do not reproduce full color. They turn a photograph into a few flat, translucent layers."
+  ],
+  "borrow": [
+    "Split an image into two or three ink layers with hard thresholds instead of a smooth full-color photo."
+  ],
+  "images": [
+    {
+      "file": "assets/references/doornenbal-fort-zuid-wilgen-risoprint-2025.jpg",
+      "alt": "A scanned print of willow branches reflected in water, in blue, pale yellow, and black, with a white margin.",
+      "width": 1024,
+      "height": 726,
+      "kind": "source-image",
+      "caption": "Jan-Willem Doornenbal, *Riso Fort Zuid Wilgen*, 2025. CC BY 2.0. [Flickr](https://www.flickr.com/photos/mededeler/54312665558/), 1024 px “large” size.",
+      "original": "https://live.staticflickr.com/65535/54312665558_ed9e4d085e_b.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-2.0",
+    "statement": "Published by the author on Flickr under CC BY 2.0. The author licenses a scan of his own print. Credit: Jan-Willem Doornenbal."
+  }
+}

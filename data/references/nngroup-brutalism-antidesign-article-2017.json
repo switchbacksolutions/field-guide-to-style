@@ -1,0 +1,52 @@
+{
+  "id": "nngroup-brutalism-antidesign-article-2017",
+  "title": "NN/g, “Brutalism and Antidesign”",
+  "type": "website",
+  "medium": "editorial",
+  "lede": "A usability firm separates raw, stripped-down web brutalism from deliberately chaotic antidesign.",
+  "summary": "Kate Moran’s 2017 NN/g article: brutalism echoes bare 1990s HTML; antidesign is a separate, chaotic branch.",
+  "source": {
+    "url": "https://www.nngroup.com/articles/brutalism-antidesign/",
+    "label": "Nielsen Norman Group",
+    "archive": "https://web.archive.org/web/20181223140012/https://www.nngroup.com/articles/brutalism-antidesign/"
+  },
+  "creator": {
+    "name": "Kate Moran, Nielsen Norman Group",
+    "url": "https://www.nngroup.com/articles/author/kate-moran/"
+  },
+  "made": "2017",
+  "moods": [
+    "raw",
+    "honest"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Article text read on 2026-10-02. The byline and the date (5 November 2017, modified 30 April 2020) are in the page’s structured data. The example screenshots in the article were not inspected."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "brutalist-web-design",
+      "note": "The main design-authority source for the name, and the source of the split between the raw core and antidesign.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Definition: “Brutalism in digital design is a style that intentionally attempts to look raw, haphazard, or unadorned. It echoes early 1990s-style websites (think Craigslist and the Drudge Report).”",
+    "On form: “Sometimes this aspect of brutalism is expressed as bare-bones, almost naked HTML site with blue links and monochromatic Monospace text.”",
+    "It notes that Craigslist was plain from the late 1990s because of HTML and CSS limits, not by artistic choice, and that NN/g’s own site in 2000 used “an unadorned, protobrutalist style”. Justin Jackson’s blog is cited for “black and blue Monospace typography”.",
+    "Antidesign, “often also referred to as brutalism”, is described separately: no visual hierarchy, harsh colors, disorienting patterns, odd cursors, and distracting animation."
+  ],
+  "interpretation": [
+    "This article sets the scope of [Brutalist web design](style:brutalist-web-design): the raw, readable core. The chaotic branch is antidesign and is not part of the style."
+  ],
+  "borrow": [
+    "Use the article’s test: does the page feel raw because it shows its HTML, or because it is hard to use? Only the first is this style."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Nielsen Norman Group. Link and quotation only."
+  }
+}

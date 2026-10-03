@@ -1,0 +1,68 @@
+{
+  "id": "mario-felipe-two-colour-chairs-print-2014",
+  "title": "Mario Felipe, two-color riso print of chairs",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "An A3 riso art print in a numbered edition of 30: six stylized chairs in fluorescent red and black, each on a grainy pink screen.",
+  "summary": "A3 two-color riso print of six chairs in fluorescent red and black on pink screens.",
+  "source": {
+    "url": "https://www.flickr.com/photos/cuandoelsolexplote/15680565058/",
+    "label": "Flickr: Mario Felipe"
+  },
+  "creator": {
+    "name": "Mario Felipe (iaoeu estudio)",
+    "url": "https://www.flickr.com/photos/cuandoelsolexplote/"
+  },
+  "made": "2014",
+  "moods": [
+    "playful",
+    "graphic",
+    "handmade"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the 1280 × 853 px Commons thumbnail of the photograph (the full-size original returned HTTP 429). It shows one copy of the edition held by hand."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "risograph",
+      "note": "Two spot inks, with a pink screen of the red ink as the ground, and visible grain in the flat areas.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Flickr description says: “Print en risografia a dos colores en formato A3. Edición de 30 copias numeradas. Impresión: A3press.” ([Flickr](https://www.flickr.com/photos/cuandoelsolexplote/15680565058/))",
+    "The photograph is on Commons as [Impressão em risografia em dua cores, 2014](https://commons.wikimedia.org/wiki/File:Impress%C3%A3o_em_risografia_em_dua_cores,_2014.jpg), with a FlickreviewR license check passed on 2023-01-06."
+  ],
+  "observed": [
+    "Two inks only: a fluorescent red-pink and black, on white paper.",
+    "Each chair sits on a square of the pink ink printed as a screen, so the square reads as a light, mottled pink.",
+    "The flat pink squares are grainy and uneven, with a faint grid texture.",
+    "Chairs are drawn as flat, isometric planes with no outlines."
+  ],
+  "interpretation": [
+    "The print makes a third tone from a screen of one ink, a typical way to widen a two-drum palette."
+  ],
+  "borrow": [
+    "Use a 30 to 40 % screen of the main ink as a panel ground, and full ink for the subject."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mario-felipe-two-colour-chairs-print-2014.jpg",
+      "alt": "A person holds an A3 print with six squares of grainy pink, each with a stylized chair in red and black.",
+      "width": 1280,
+      "height": 853,
+      "kind": "photograph",
+      "caption": "Mario Felipe’s two-color riso print, 2014. CC BY 2.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Impress%C3%A3o_em_risografia_em_dua_cores,_2014.jpg), from [Flickr](https://www.flickr.com/photos/cuandoelsolexplote/15680565058/). 1280 px thumbnail.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Impress%C3%A3o_em_risografia_em_dua_cores%2C_2014.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-2.0",
+    "statement": "Published by the author on Flickr under CC BY 2.0; FlickreviewR passed on Commons. The author licenses a photograph of his own print, so the depicted work is openly licensed. Credit: Mario Felipe."
+  }
+}

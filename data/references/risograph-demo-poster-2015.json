@@ -1,0 +1,53 @@
+{
+  "id": "risograph-demo-poster-2015",
+  "title": "Poster for a Risograph demo",
+  "type": "print",
+  "medium": "poster",
+  "lede": "A two-color poster that announces a Risograph demonstration, printed in red and blue with hand-drawn lettering and a drawing of the machine.",
+  "summary": "Two-color red and blue riso poster for a Risograph demo, with hand lettering.",
+  "source": {
+    "url": "https://www.flickr.com/photos/iblee/24052889104/",
+    "label": "Flickr: lee leblanc, “risograph”"
+  },
+  "creator": {
+    "name": "Unknown. The Flickr uploader, lee leblanc, does not say who designed it."
+  },
+  "made": "2015 (photographed 23 December 2015)",
+  "moods": [
+    "handmade",
+    "playful",
+    "informal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the 1024 × 765 px Flickr “large” file, a photograph of two copies taped to a wall. The poster names the event (“Monday Nov 30, 6–7 pm”) but not the venue or designer."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "risograph",
+      "note": "Partial fit: two spot inks and hand lettering, but little overprint or grain is visible at this size.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Posted on Flickr under CC BY 2.0 with the description “see what it can do!”. The designer is not named."
+  ],
+  "observed": [
+    "Only two inks appear: a warm red for the title, the machine drawing, and one line, and a blue for the date and script words.",
+    "“Magic! Mystery Delight!” is written in blue script over the red drawing of the duplicator.",
+    "The paper is white, and both copies look the same, as in a short duplicator run."
+  ],
+  "interpretation": [
+    "The poster advertises the machine with its own look: two drums, hand-drawn type, and a drawing of the duplicator."
+  ],
+  "borrow": [
+    "Let a script word in the second ink cross a drawing in the first ink."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Photo posted CC BY 2.0 by lee leblanc. The designer is not named, so the poster is treated as in copyright. Link only."
+  }
+}

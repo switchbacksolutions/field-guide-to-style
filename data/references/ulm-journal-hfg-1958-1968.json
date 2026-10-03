@@ -1,0 +1,68 @@
+{
+  "id": "ulm-journal-hfg-1958-1968",
+  "title": "“ulm”, journal of the Hochschule für Gestaltung, 1958–1968",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "The school’s journal, laid out by Anthony Froshaug and later Tomás Gonda: lowercase grotesque titles on pale card, with small multilingual text in columns.",
+  "summary": "Lowercase “ulm” titles in a bold grotesque, pale grey covers, small text in narrow columns, and black-and-white photographs. HfG Ulm, 1958–1968.",
+  "source": {
+    "url": "https://global.museum-digital.org/object/2088573",
+    "label": "Museum Ulm/HfG-Archiv, HfG-AR Sti M 0284 (museum-digital)"
+  },
+  "creator": {
+    "name": "Hochschule für Gestaltung Ulm; layout by Anthony Froshaug (issues 1–5) and Tomás Gonda (issues 6–21)"
+  },
+  "made": "1958–1968",
+  "moods": [
+    "rational",
+    "precise",
+    "austere"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the HfG-Archiv photograph of the issue set HfG-AR Sti M 0284 at 960 × 904 px through museum-digital. It shows issues 1, 2, 3, 5, 6, 8/9, 14/15/16, 17/18, and 21 fanned out. The text in it is too small to read."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ulm-school",
+      "note": "The school’s own print voice: lowercase grotesque, pale grey stock, small exact text, and documentary photographs.",
+      "basis": "agent",
+      "qualifier": "graphic branch"
+    },
+    {
+      "id": "international-typographic-style",
+      "note": "Partial fit: flush-left grotesque and column grids, used with Ulm’s lowercase and very small text.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "The HfG-Archiv record gives Tomás Maldonado as the main editor (1958–1967), Gui Bonsiepe as editor and writer (1962–1968), Anthony Froshaug as designer of the layout of the first five issues (1958), and Tomás Gonda as designer of issues 6 to 21 (1962). [museum-digital 2088573](https://global.museum-digital.org/object/2088573).",
+    "Issues 1 to 5 appeared in a square format (28 × 29.7 cm) in German, English, and French. After a break of more than three years, “ulm 6” came out in October 1962 in A4, in German and English only. The last issue, “ulm 21”, appeared in April 1968. There were 14 issues in total. [museum-digital](https://global.museum-digital.org/object/2088573)."
+  ],
+  "observed": [
+    "Each cover title is the lowercase word “ulm” with the issue number, in a bold grotesque, flush left near the top.",
+    "Most covers are white, off-white, or light grey card. One later issue is black.",
+    "“ulm 1” carries a wide black-and-white photograph of the school buildings, with three narrow columns of small text below.",
+    "“ulm 6” carries a grid of small black-and-white photographs.",
+    "There is no color other than black and grey on the covers that are visible."
+  ],
+  "interpretation": [
+    "The journal applies the product rules to print: lowercase, small sizes, one grey family, and photography as documentation. Its grid ties it to the Swiss style, while its quiet scale and lowercase titles are typical of Ulm."
+  ],
+  "borrow": [
+    "Set a lowercase title in a bold grotesque with a number, and keep all other text small.",
+    "Use pale grey stock instead of pure white."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The museum-digital record marks the image “RR-P” (rights reserved). Photograph by Ernst Fesseler for Museum Ulm/HfG-Archiv. Froshaug died in 1984 and Gonda in 1986, so the layouts are protected. No image is stored."
+  },
+  "identifiers": {
+    "museum-digital": "2088573",
+    "hfg-archiv": "HfG-AR Sti M 0284"
+  }
+}

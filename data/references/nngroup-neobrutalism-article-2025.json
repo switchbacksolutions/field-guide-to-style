@@ -29,6 +29,12 @@
       "id": "neo-brutalism",
       "note": "An authoritative UX source that defines the style under both spellings and lists its traits.",
       "basis": "agent"
+    },
+    {
+      "id": "brutalist-web-design",
+      "note": "Partial fit: the article contrasts plain-HTML brutalism, for example the Drudge Report, with neobrutalism.",
+      "basis": "agent",
+      "qualifier": "partial fit"
     }
   ],
   "context": [

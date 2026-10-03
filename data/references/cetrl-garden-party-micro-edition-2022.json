@@ -1,0 +1,65 @@
+{
+  "id": "cetrl-garden-party-micro-edition-2022",
+  "title": "Garden Party, riso-printed micro-edition",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "A close view of a riso-printed micro-edition laid out with web-to-print tools: red-pink and black ink broken into coarse pixel dither and grain.",
+  "summary": "Close-up of a riso micro-edition in red-pink and black with coarse dither and grain.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Garden_Party,_close.jpg",
+    "label": "Wikimedia Commons: Garden Party, close"
+  },
+  "creator": {
+    "name": "Cetrl (Commons user), as uploader and author of the photograph"
+  },
+  "made": "2022",
+  "moods": [
+    "experimental",
+    "grainy",
+    "digital"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the 959 × 959 px original on Commons, a close photograph of part of one page. A closer crop exists ([Commons](https://commons.wikimedia.org/wiki/File:Garden_Party,_closeclose.jpg))."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "risograph",
+      "note": "Partial fit: grain and two inks are clear, but the close crop shows little of the page layout.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Commons description says: “Vue de près de l'impression de la micro édition Garden Party, imprimée en risographie et mise en page en web-to-print.” (Close view of the printing of the micro-edition Garden Party, printed by risograph and laid out with web-to-print.) The file is in Category:Fanzines and Category:Duplicator art."
+  ],
+  "observed": [
+    "Two inks, a red-pink and black, cover the frame.",
+    "The image is broken into blocky dither, like enlarged pixels, with soft grain inside each block.",
+    "Black lies over the pink in places and leaves paper showing in others."
+  ],
+  "interpretation": [
+    "Web-to-print layouts often reach riso through digital dithering, which links the print grain to screen pixels."
+  ],
+  "borrow": [
+    "Threshold an image with an ordered or error-diffusion dither before you print it in one ink."
+  ],
+  "images": [
+    {
+      "file": "assets/references/cetrl-garden-party-micro-edition-2022.jpg",
+      "alt": "A close-up of a printed page in red-pink and black, made of coarse pixel-like dither and grain.",
+      "width": 959,
+      "height": 959,
+      "kind": "photograph",
+      "caption": "*Garden Party* micro-edition, close view, 2022, by Cetrl. CC0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Garden_Party,_close.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/27/Garden_Party%2C_close.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "Commons: “own work” by Cetrl, released under CC0 ({{self|cc-zero}}). The description does not say explicitly that Cetrl made the edition. Credit: Cetrl, via Wikimedia Commons."
+  }
+}

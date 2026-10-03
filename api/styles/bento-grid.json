@@ -1,0 +1,635 @@
+{
+  "id": "bento-grid",
+  "title": "Bento grid",
+  "order": 43,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Bento layout",
+    "Bento box layout",
+    "Bento UI"
+  ],
+  "summary": "Rounded tiles of different sizes in one tight grid, one fact per tile. The look of Apple’s keynote summary slides.",
+  "lede": "An interface and presentation style of the 2020s: content sits in rounded, borderless tiles of different sizes that fill one grid with equal, narrow gutters, like the compartments of a Japanese bento box. Each tile holds one fact, often a very large number or a product image with a short label. Apple’s keynote summary slides, with rounded tiles from 2020, and its product pages made the look popular, and designers named it “bento” from about 2022. This record covers that core look. The same tile layout drawn in other styles, for example with thick black outlines or frosted glass, belongs to those styles.",
+  "moods": [
+    "organized",
+    "premium",
+    "confident",
+    "calm",
+    "modern"
+  ],
+  "era": {
+    "from": 2019,
+    "note": "Apple’s event summary slides use a tile grid from the September 2019 event (fan archive of the slides). Those 2019 tiles have square corners; the WWDC 2020 slides already have the rounded tiles of the core look. Design articles call it a trend from 2023 to 2026. Microsoft’s Metro live tiles (2010) are an earlier tile grid with square corners."
+  },
+  "regions": [
+    "United States",
+    "International"
+  ],
+  "attestation": [
+    {
+      "label": "Obergine: A design trend: Bento grids (Jason Singleton, 2024-07-16)",
+      "url": "https://obergine.com/news-and-blog/2024/july-2024/a-design-trend-bento-grids",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Setproduct: Bento grid layout explained with grid math and 12 real examples (Roman Kamushken, 2026-09-16)",
+      "url": "https://www.setproduct.com/blog/bento-grid-layout-design-guide",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Deck.gallery: Apple’s bento grid playbook, four keynote decks compared (2026)",
+      "url": "https://www.deck.gallery/blog/apple-bento-grid-decks-roundup/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Banani: Bento Grid: Explained with Examples and Code (2026-08-05)",
+      "url": "https://www.banani.co/definitions/bento-grid",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Apple Summary Slides: fan archive of Apple event summary slides, 2019–2026 (Ricky Zhang; screenshots of Apple events)",
+      "url": "https://apple-summary-slides.vercel.app/all",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "influenced-by",
+      "label": "Bento (Japanese lunch box)",
+      "wikidata": "Q380532",
+      "note": "The name. Obergine (2024), Setproduct (2026), and Banani (2026) all explain the layout as the divided compartments of a bento box. The link is a metaphor, not a visual source."
+    },
+    {
+      "relation": "influenced-by",
+      "style": "flat-design",
+      "note": "Obergine (2024) reports that some designers trace the tile grid to the live tiles of Microsoft’s Metro design language on Windows Phone 7 (2010). Metro tiles are square-cornered and saturated. Bento tiles are rounded and mostly neutral."
+    },
+    {
+      "relation": "related-to",
+      "style": "material-design",
+      "note": "Both put content on cards. Material cards float with shadows in lists and feeds. Bento tiles have no shadow and fill a fixed grid together. Interpretation, not from a source."
+    },
+    {
+      "relation": "related-to",
+      "style": "glassmorphism",
+      "note": "Glass tiles in a bento grid are common in 2020s concepts. That combination is glassmorphism in a bento layout, not the core look of this record."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "layout",
+      "term": "Tiles of unequal size.",
+      "text": "One grid holds tiles that span different numbers of columns and rows. The largest tile carries the main point, and the smaller tiles around it carry details. The tiles fill the whole frame with no gaps left over."
+    },
+    {
+      "facet": "layout",
+      "term": "Narrow, equal gutters.",
+      "text": "All tiles are separated by the same narrow gutter, about 8–20 px on screens. The gutter is the only divider."
+    },
+    {
+      "facet": "structure",
+      "term": "One fact per tile.",
+      "text": "Each tile is self-contained: one number, one feature, one image, or one quote, with a short label. Text is brief, and there is a lot of empty space inside each tile."
+    },
+    {
+      "facet": "surface",
+      "term": "Soft, plain tiles.",
+      "text": "Tiles have large corner radii (about 16–32 px), no outline, and no shadow, or a shadow so faint that it does not read as depth. A tile differs from the ground only by a tonal step, for example white on light grey, or dark grey on black."
+    },
+    {
+      "facet": "color",
+      "term": "Neutral ground, few accents.",
+      "text": "The ground and most tiles are white, light grey, black, or dark grey. One or two tiles use a solid accent color or a product color. Apple’s dark slides add gradient-filled type for key words."
+    },
+    {
+      "facet": "type",
+      "term": "Very large numerals.",
+      "text": "A neo-grotesque sans-serif, usually the system font, in bold weights with tight letter spacing. Key numbers (battery hours, chip names, prices) are set many times the body size and fill their tile."
+    },
+    {
+      "facet": "imagery",
+      "term": "Product cut-outs.",
+      "text": "Product photos, device screens, and simple icons sit inside tiles, often cropped by the tile edge. There are no decorative backgrounds or textures."
+    },
+    {
+      "facet": "motion",
+      "term": "Tiles appear in turn.",
+      "text": "On product pages, tiles fade or scale in one after another as the page scrolls. Hover effects stay small, for example a slight scale."
+    }
+  ],
+  "synthesis": [
+    "Apple’s summary slides fix the core look. The [2019 iPhone 11 Pro slide](ref:apple-event-2019-iphone-11-pro-display-slide) already mixes tile sizes and large figures, but with square tiles. From the [WWDC 2020 iOS 14 slide](ref:apple-wwdc-2020-ios-14-summary-slide) the tiles are rounded and tonal. The 2022 slides show the light version ([iOS 16](ref:apple-wwdc-2022-ios-16-summary-slide), [M2](ref:apple-wwdc-2022-m2-chip-summary-slide), [Apple Watch Ultra](ref:apple-event-2022-apple-watch-ultra-summary-slide)) and the dark version ([iPhone 14 Pro](ref:apple-event-2022-iphone-14-pro-summary-slide)). In all of them the figure is the content and one product color or gradient is the only ornament.",
+    "The same year Apple shipped [Home Screen widgets](ref:ios-14-home-screen-widgets-2020) in fixed multiples of the icon cell. Outside Apple the pattern spread as a layout: [Bento](ref:bento-me-link-in-bio-app-2023) named a link-in-bio product after it, [Magic UI](ref:magic-ui-bento-grid-component) packaged it as a component, and [Frontend Mentor](ref:frontend-mentor-bento-grid-challenge-2024) taught it as a CSS Grid exercise. These adaptations keep the mixed spans and the one-fact tile, but often use smaller radii, hairline edges, faint shadows, or saturated brand fills. The fingerprint describes the Apple core, so expect them to fail the border, shadow, or radius ranges.",
+    "The precursors share the grid but not the surface. The [Windows Phone 7](ref:windows-phone-7-metro-2010) live tiles and the [Windows 8.1 Start screen](ref:windows-8-1-start-screen) mix tile sizes on one grid with narrow, even gaps, but the corners are square and every tile has its own saturated color. The 2019 Apple slide sits between them and the core: Apple’s content rule with Metro’s square corners. Interpretation: the rounded tonal tile, not the mixed grid, is what separates the style from Metro.",
+    "The adaptations disagree with the fingerprint in numbers that their records state. Magic UI cards use a 12 px radius, and Frontend Mentor tiles about 10 px, so both fall below the `surface.radius.median` minimum of 18. Magic UI light cards carry a 1 px shadow ring and two soft shadows, and Bento.me tiles a hairline edge and a faint shadow, so their shares of borders or shadows may pass the 0.15 maximums. Frontend Mentor’s 32 px gutter is also wider than the 8–20 px of the grammar. A curator must decide whether these web forms are partial fits or whether the radius and gutter ranges should widen.",
+    "Only two references have stored images, and both are partial fits, so the record has no preview. Their image measurements show color only. The [Magic UI](ref:magic-ui-bento-grid-component) crop is almost all white (lightness 0.98, 0 hues), which agrees with the neutral ground. The Windows 8.1 image has 7 hues and lightness 0.29, which agrees with the confusion rule that separates Metro by its saturated fills. Image measurement cannot see radius, borders, shadows, or letter spacing, and no reference has a DOM measurement, so all six fingerprint metrics rest on the specimen alone (radius median 28, round share 1, size range 8.47, heading tracking −0.02, border and shadow shares 0). The Apple slides are video frames and are not stored, so the core look is not measured."
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Several rounded tiles of clearly different sizes fill one grid with equal, narrow gutters.",
+      "Tiles have no outlines and no visible shadows. They differ from the ground only by tone.",
+      "At least one tile is filled by a very large number or a short headline set many times the body size.",
+      "Each tile carries one fact, image, or feature, with little text."
+    ],
+    "counter": [
+      "All cards have the same size, as in a list, feed, or row of three.",
+      "Square corners on the tiles, with saturated fills on every tile.",
+      "Thick black outlines or hard offset shadows on the tiles.",
+      "Translucent, blurred tiles over a colorful backdrop.",
+      "Cards that float with clear shadows at different heights."
+    ],
+    "confusions": [
+      {
+        "with": "flat-design",
+        "difference": "Flat design, and the Metro live tiles in it, uses square corners and fills most tiles with saturated color. Bento tiles have large radii and are mostly white, grey, or black, with one or two accents."
+      },
+      {
+        "with": "material-design",
+        "difference": "Material cards float at different elevations with soft shadows, have small radii (2–8 px), and usually repeat at one size in lists. Bento tiles are flat, have large radii, and differ in size inside one grid."
+      },
+      {
+        "with": "glassmorphism",
+        "difference": "Glassmorphism tiles are translucent and blurred, with a light hairline edge over a vivid backdrop. Core bento tiles are opaque and borderless on a neutral ground. Glass tiles in a bento layout belong to glassmorphism."
+      },
+      {
+        "with": "minimalist-machine",
+        "difference": "Minimalist Machine outlines its panels with thin rules, uses small monospaced labels, and keeps type sizes close. Bento separates tiles with gutters only and sets key numbers very large."
+      },
+      {
+        "with": "neo-brutalism",
+        "difference": "Neo-brutalist bento grids outline each tile in thick black and add hard offset shadows. That is neo-brutalism in a bento layout."
+      },
+      {
+        "with": "neumorphism",
+        "difference": "Neumorphism raises tiles from a single pale color with paired light and dark shadows. Bento tiles have no shadow and differ from the ground by tone."
+      },
+      {
+        "with": "corporate-memphis",
+        "difference": "Corporate Memphis also uses rounded, borderless shapes, but it centers flat illustrations of people with large limbs. Bento uses product photos, icons, and large numbers."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Lay out the section on one CSS grid and give tiles different column and row spans. Make one tile clearly the largest and put the main point in it.",
+      "Use one narrow gutter (12–20 px) between all tiles, and the same padding inside every tile.",
+      "Give every tile the same large radius (20–32 px), no border, and no shadow. Separate tiles from the ground by tone: white on light grey, or dark grey on black.",
+      "Put one fact in each tile: a large number with a short label, one feature with one sentence, or one product image.",
+      "Set key numbers in a bold system sans-serif at five to ten times the body size, with tight negative letter spacing.",
+      "Keep most tiles neutral. Give one or two tiles a solid accent color.",
+      "On small screens, stack the tiles in one column in order of importance."
+    ],
+    "dont": [
+      "Do not give every tile the same size. A grid of equal cards is not a bento grid.",
+      "Do not outline tiles or lift them with shadows.",
+      "Do not fill tiles with paragraphs. Move long text out of the grid.",
+      "Do not mix corner radii or gutter widths inside one grid.",
+      "Do not leave holes in the grid. The tiles must fill the frame.",
+      "Do not use the grid order alone to carry meaning. Keep the source order logical, because screen readers and small screens read it in that order."
+    ],
+    "uses": [
+      "Product launch and feature pages",
+      "Presentation summary slides",
+      "SaaS landing pages",
+      "Personal portfolios and link pages",
+      "Dashboards with a few key numbers"
+    ],
+    "avoid": [
+      "Long-form reading and documentation. The tiles break text into fragments.",
+      "Dense data tables and forms. They do not fit into small, self-contained tiles.",
+      "Brands that need warmth, ornament, or a handmade feel. The neutral tiles read as technology marketing."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.radius.median",
+      "min": 18,
+      "note": "Large radii on all tiles. Provisional: set from the specimen."
+    },
+    {
+      "metric": "surface.radius.roundShare",
+      "min": 0.8,
+      "note": "Almost every box is a rounded tile or pill. Provisional."
+    },
+    {
+      "metric": "type.sizeRange",
+      "min": 8,
+      "note": "Key numbers at many times the body size. Separates bento from the rounded, borderless styles (Corporate Memphis 4.4, Neumorphism 5.2). Provisional."
+    },
+    {
+      "metric": "type.headingTracking",
+      "max": -0.015,
+      "note": "Tight, negative letter spacing on headings, as in Apple’s system type. Provisional."
+    },
+    {
+      "metric": "surface.border.share",
+      "max": 0.15,
+      "note": "Tiles have no outlines. Provisional: dark SaaS bento grids with hairline borders fail it."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.15,
+      "note": "Tiles are flat. Separates bento from Neumorphism and Material Design. Provisional."
+    }
+  ],
+  "page": "bento-grid.html",
+  "implementation": {
+    "tokens": "implementations/bento-grid/tokens.json",
+    "css": "implementations/bento-grid/tokens.css",
+    "tailwind": "implementations/bento-grid/tailwind.css",
+    "shadcn": "implementations/bento-grid/shadcn.css",
+    "registry": "implementations/bento-grid/registry-item.json",
+    "designMd": "implementations/bento-grid/DESIGN.md",
+    "specimen": "implementations/bento-grid/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for bento-grid. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#f5f5f7"
+      },
+      "surface": {
+        "$value": "#ffffff"
+      },
+      "subtle": {
+        "$value": "#e8e8ed"
+      },
+      "text": {
+        "$value": "#1d1d1f"
+      },
+      "muted": {
+        "$value": "#6e6e73"
+      },
+      "border": {
+        "$value": "#d2d2d7"
+      },
+      "primary": {
+        "$value": "#0071e3",
+        "$description": "Link and action blue of Apple product pages."
+      },
+      "on-primary": {
+        "$value": "#ffffff"
+      },
+      "secondary": {
+        "$value": "#1d1d1f",
+        "$description": "Dark tile on the light ground."
+      },
+      "on-secondary": {
+        "$value": "#f5f5f7"
+      },
+      "accent": {
+        "$value": "#bf4800",
+        "$description": "One warm product-color tile."
+      },
+      "on-accent": {
+        "$value": "#ffffff"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "-apple-system",
+          "BlinkMacSystemFont",
+          "SF Pro Display",
+          "Segoe UI",
+          "Helvetica Neue",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "body": {
+        "$value": [
+          "-apple-system",
+          "BlinkMacSystemFont",
+          "SF Pro Text",
+          "Segoe UI",
+          "Helvetica Neue",
+          "Arial",
+          "sans-serif"
+        ]
+      },
+      "mono": {
+        "$value": [
+          "SF Mono",
+          "ui-monospace",
+          "Menlo",
+          "Consolas",
+          "monospace"
+        ]
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 600
+      },
+      "display": {
+        "$value": 700
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "21px"
+      },
+      "xl": {
+        "$value": "28px"
+      },
+      "2xl": {
+        "$value": "40px"
+      },
+      "3xl": {
+        "$value": "64px"
+      },
+      "4xl": {
+        "$value": "96px"
+      },
+      "5xl": {
+        "$value": "152px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 1
+      },
+      "body": {
+        "$value": 1.47
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.04,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": -0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "20px"
+      },
+      "lg": {
+        "$value": "28px"
+      },
+      "pill": {
+        "$value": "980px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "2px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "8px"
+      },
+      "sm": {
+        "$value": "16px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "104px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "windows-8-1-start-screen",
+      "title": "Windows 8.1 Start screen (geometric version)",
+      "medium": "operating-system",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: a precursor with tiles in four sizes and narrow, even gaps, but square corners and saturated fills.",
+      "page": "references/windows-8-1-start-screen.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Start81.png",
+      "image": "assets/references/windows-8-1-start-screen.png",
+      "measurement": "data/measurements/windows-8-1-start-screen.json"
+    },
+    {
+      "id": "windows-phone-7-metro-2010",
+      "title": "Windows Phone 7 and the Metro interface",
+      "medium": "operating-system",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "Partial fit: a precursor with Metro live tiles on one grid, but square corners and saturated fills.",
+      "page": "references/windows-phone-7-metro-2010.html",
+      "source": "https://en.wikipedia.org/wiki/Windows_Phone_7",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "apple-event-2019-iphone-11-pro-display-slide",
+      "title": "Apple Event September 2019: iPhone 11 Pro display slide",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit, as a precursor: mixed tile sizes, narrow gutters, and one large figure per tile, but the corners are square or barely rounded.",
+      "page": "references/apple-event-2019-iphone-11-pro-display-slide.html",
+      "source": "https://apple-summary-slides.vercel.app/events/apple-event-september-2019",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "apple-event-2022-apple-watch-ultra-summary-slide",
+      "title": "Apple Event September 2022: Apple Watch Ultra summary slide",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: rounded tonal tiles of many sizes with one fact each, and one accent color for the figures.",
+      "page": "references/apple-event-2022-apple-watch-ultra-summary-slide.html",
+      "source": "https://apple-summary-slides.vercel.app/events/apple-event-september-2022",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "apple-event-2022-iphone-14-pro-summary-slide",
+      "title": "Apple Event September 2022: iPhone 14 Pro summary slide",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the dark variant of the core look, often cited as the model for the bento trend.",
+      "page": "references/apple-event-2022-iphone-14-pro-summary-slide.html",
+      "source": "https://apple-summary-slides.vercel.app/events/apple-event-september-2022",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "apple-wwdc-2020-ios-14-summary-slide",
+      "title": "Apple WWDC 2020: iOS 14 summary slide",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear and early: rounded tiles of many sizes fill one grid with even gutters, one feature per tile, with the main tile in the center.",
+      "page": "references/apple-wwdc-2020-ios-14-summary-slide.html",
+      "source": "https://apple-summary-slides.vercel.app/events/wwdc-2020",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "apple-wwdc-2022-ios-16-summary-slide",
+      "title": "Apple WWDC 2022: iOS 16 summary slide",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the light variant of the core look, with tonal tiles on a pale ground and mixed sizes on one grid.",
+      "page": "references/apple-wwdc-2022-ios-16-summary-slide.html",
+      "source": "https://apple-summary-slides.vercel.app/events/wwdc-2022",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "apple-wwdc-2022-m2-chip-summary-slide",
+      "title": "Apple WWDC 2022: M2 chip summary slide",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the number-per-tile form of the core look, with very large figures and short labels in tiles of mixed sizes.",
+      "page": "references/apple-wwdc-2022-m2-chip-summary-slide.html",
+      "source": "https://apple-summary-slides.vercel.app/events/wwdc-2022",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "bento-me-link-in-bio-app-2023",
+      "title": "Bento (bento.me) link-in-bio pages",
+      "medium": "app",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear for the layout: tiles of several sizes with large radii and wide even gaps. The tiles have a hairline edge and a faint shadow, which the core look omits.",
+      "page": "references/bento-me-link-in-bio-app-2023.html",
+      "source": "https://tech.eu/2023/06/06/sequoia-backed-bento-boxed-up-by-linktree/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "frontend-mentor-bento-grid-challenge-2024",
+      "title": "Frontend Mentor “Bento grid” challenge design",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: tiles of mixed sizes on one grid with even gutters and one message each, but most tiles are saturated purple or yellow and the radius is small.",
+      "page": "references/frontend-mentor-bento-grid-challenge-2024.html",
+      "source": "https://www.frontendmentor.io/challenges/bento-grid-RMydElrlOj",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "ios-14-home-screen-widgets-2020",
+      "title": "iOS 14 Home Screen widgets",
+      "medium": "operating-system",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit, as a precursor: rounded tiles of three sizes share one grid with even gaps, but app icons and a wallpaper fill the rest of the screen.",
+      "page": "references/ios-14-home-screen-widgets-2020.html",
+      "source": "https://www.apple.com/newsroom/2020/06/apple-reimagines-the-iphone-experience-with-ios-14/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "magic-ui-bento-grid-component",
+      "title": "Magic UI Bento Grid component",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: tiles of different spans with one gap, but the radius is small (12 px) and the light cards carry a faint shadow instead of a tonal step.",
+      "page": "references/magic-ui-bento-grid-component.html",
+      "source": "https://magicui.design/docs/components/bento-grid",
+      "image": "assets/references/magic-ui-bento-grid-component.jpg",
+      "measurement": "data/measurements/magic-ui-bento-grid-component.json"
+    }
+  ]
+}

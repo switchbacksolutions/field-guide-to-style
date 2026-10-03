@@ -1,0 +1,239 @@
+{
+  "$description": "Authored tokens for ulm-school. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": {
+      "$value": "#e4e3df"
+    },
+    "surface": {
+      "$value": "#f5f5f2"
+    },
+    "subtle": {
+      "$value": "#d5d4cf"
+    },
+    "text": {
+      "$value": "#2b2b29"
+    },
+    "muted": {
+      "$value": "#5f5e59"
+    },
+    "border": {
+      "$value": "#bdbcb6"
+    },
+    "primary": {
+      "$value": "#d9531e",
+      "$description": "Signal orange: the one colored control, as on a Braun switch."
+    },
+    "on-primary": {
+      "$value": "#ffffff"
+    },
+    "secondary": {
+      "$value": "#3b3b39",
+      "$description": "Anthracite: the dark housing variant."
+    },
+    "on-secondary": {
+      "$value": "#f5f5f2"
+    },
+    "accent": {
+      "$value": "#d9531e",
+      "$description": "Same signal as primary. The style allows one hue."
+    },
+    "on-accent": {
+      "$value": "#ffffff"
+    }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": {
+      "$value": [
+        "Akzidenz-Grotesk",
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "body": {
+      "$value": [
+        "Akzidenz-Grotesk",
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ]
+    },
+    "mono": {
+      "$value": [
+        "Akzidenz-Grotesk",
+        "Helvetica Neue",
+        "Helvetica",
+        "Arial",
+        "sans-serif"
+      ]
+    }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": {
+      "$value": 400
+    },
+    "bold": {
+      "$value": 500
+    },
+    "display": {
+      "$value": 500
+    }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "11px"
+    },
+    "sm": {
+      "$value": "13px"
+    },
+    "base": {
+      "$value": "16px"
+    },
+    "lg": {
+      "$value": "19px"
+    },
+    "xl": {
+      "$value": "24px"
+    },
+    "2xl": {
+      "$value": "30px"
+    },
+    "3xl": {
+      "$value": "40px"
+    },
+    "4xl": {
+      "$value": "52px"
+    },
+    "5xl": {
+      "$value": "64px"
+    }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": {
+      "$value": 1.1
+    },
+    "body": {
+      "$value": 1.5
+    }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": {
+      "$value": -0.01,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "heading": {
+      "$value": 0,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    },
+    "label": {
+      "$value": 0.04,
+      "$extensions": {
+        "style-inspiration": {
+          "unit": "em"
+        }
+      }
+    }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": {
+      "$value": "0px"
+    },
+    "sm": {
+      "$value": "4px"
+    },
+    "md": {
+      "$value": "7px"
+    },
+    "lg": {
+      "$value": "10px"
+    },
+    "pill": {
+      "$value": "7px"
+    }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": {
+      "$value": "1px"
+    },
+    "thick": {
+      "$value": "2px"
+    }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": {
+      "$value": "6px"
+    },
+    "sm": {
+      "$value": "12px"
+    },
+    "md": {
+      "$value": "24px"
+    },
+    "lg": {
+      "$value": "40px"
+    },
+    "xl": {
+      "$value": "64px"
+    },
+    "2xl": {
+      "$value": "96px"
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.4xl}",
+        "fontWeight": "{font-weight.display}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.display}"
+      }
+    },
+    "heading": {
+      "$value": {
+        "fontFamily": "{font.display}",
+        "fontSize": "{text.2xl}",
+        "fontWeight": "{font-weight.bold}",
+        "lineHeight": "{leading.tight}",
+        "letterSpacing": "{tracking.heading}"
+      }
+    },
+    "body": {
+      "$value": {
+        "fontFamily": "{font.body}",
+        "fontSize": "{text.base}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}"
+      }
+    },
+    "label": {
+      "$value": {
+        "fontFamily": "{font.mono}",
+        "fontSize": "{text.xs}",
+        "fontWeight": "{font-weight.regular}",
+        "lineHeight": "{leading.body}",
+        "letterSpacing": "{tracking.label}"
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "id": "utamaro-picture-book-of-selected-insects-1788",
+  "title": "Utamaro, Picture Book of Selected Insects (Ehon mushi erabi)",
+  "type": "print",
+  "medium": "book",
+  "lede": "A two-volume color-printed book in which Kitagawa Utamaro’s insects and plants face comic poems on the opposite page, inside thin printed frames.",
+  "summary": "Insects and plants in soft flat color beside vertical poems, inside a ruled frame. Kitagawa Utamaro, 1788.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/220320",
+    "label": "Art Institute of Chicago, 2022.633"
+  },
+  "creator": {
+    "name": "Kitagawa Utamaro"
+  },
+  "made": "1788",
+  "moods": [
+    "delicate",
+    "calm",
+    "witty"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Art Institute of Chicago image of 2022.633 (1686 × 1331 px). The image shows one open spread; other spreads were not inspected."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ukiyo-e",
+      "note": "A color-printed picture book (ehon): the same key-block line and flat block colors as single-sheet prints, with text and picture sharing a framed page.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "AIC catalogues the work as color woodblock printed books, two volumes, 27 × 18.3 cm, 1788. [AIC 2022.633](https://www.artic.edu/artworks/220320).",
+    "Wikipedia’s Ukiyo-e article names illustrated books among the formats of ukiyo-e production. [Wikipedia](https://en.wikipedia.org/wiki/Ukiyo-e)."
+  ],
+  "observed": [
+    "The open spread has two pages, each with a thin double-ruled frame printed in black.",
+    "On the left page a katydid sits on a large dark purple eggplant among olive-green leaves and pale pink flowers. The plant sits on the lower edge of the frame and leaves the upper half empty.",
+    "The plant continues across the gutter to the right page, where a snail climbs a stem.",
+    "On the right page, poems in cursive script run in vertical columns from the upper right.",
+    "Colors are flat and muted: dark purple, olive green, pale pink, and buff. Fine black lines draw the veins, the legs, and the antennae.",
+    "The paper is cream with a visible laid texture."
+  ],
+  "interpretation": [
+    "The book shows how the style handles text and image together: one frame for both, text in a column, picture in the lower half.",
+    "The picture that crosses the gutter treats the spread as one composition."
+  ],
+  "borrow": [
+    "Put the image low in a ruled frame and run the text in a column above or beside it.",
+    "Let one element cross the boundary between two panels to join them."
+  ],
+  "images": [
+    {
+      "file": "assets/references/utamaro-picture-book-of-selected-insects-1788.jpg",
+      "alt": "Open book spread with thin black-ruled frames. Left: a katydid on a large dark purple eggplant with leaves and pale flowers. Right: a snail on a flowering stem and vertical columns of cursive poems.",
+      "width": 1600,
+      "height": 1263,
+      "kind": "source-image",
+      "caption": "Kitagawa Utamaro, Picture Book of Selected Insects (Ehon mushi erabi), 1788. [Art Institute of Chicago 2022.633](https://www.artic.edu/artworks/220320), Frederick W. Gookin Collection. CC0.",
+      "original": "https://www.artic.edu/iiif/2/a8c7e42c-ced6-2582-7ece-5d2fd4e3b349/full/1686,/0/default.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Art Institute of Chicago marks the object public domain (`is_public_domain: true`) and releases images of public-domain works under CC0. [AIC open access](https://www.artic.edu/open-access/open-access-images). Utamaro died in 1806, and the book was published in 1788, so the work is public domain in Japan and the United States."
+  },
+  "identifiers": {
+    "aic": "220320",
+    "accession": "2022.633"
+  }
+}

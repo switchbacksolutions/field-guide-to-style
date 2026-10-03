@@ -1,0 +1,75 @@
+{
+  "id": "mccauley-dry-goods-auction-broadside-1862",
+  "title": "“Large Stock of Dry Goods at Auction!” broadside",
+  "type": "print",
+  "medium": "poster",
+  "lede": "A Boston shop-closing bill of 1862 that turns a sale notice into a ladder of decorated, extended, condensed, and fat display faces.",
+  "summary": "Auction broadside with a shaded decorated headline, extended Egyptians, and a pointing hand. Boston, 1862.",
+  "source": {
+    "url": "https://www.loc.gov/item/2020770660/",
+    "label": "Library of Congress, Printed Ephemera Collection: Large stock of dry goods at auction!"
+  },
+  "creator": {
+    "name": "Geo. B. Hamlin, printer, Boston (imprint)"
+  },
+  "made": "1862",
+  "moods": [
+    "commercial",
+    "loud",
+    "busy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Library of Congress scan (Printed Ephemera Collection, Portfolio 69, Folder 50; 2582 × 3441 px)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "victorian-typography",
+      "note": "A commercial jobbing bill: centred lines, about ten display faces, a decorated shaded headline, and a pointing hand, in black on paper.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "LoC catalogues the bill as 1 p., 30 × 22.5 cm, Boston, 1862, subject “Auction.” [LoC 2020770660](https://www.loc.gov/item/2020770660/).",
+    "The text announces that C. McCauley of Hanover Street will close out his stock at auction from Thursday, 17 July, with M. E. Brown as auctioneer. The imprint reads “Geo. B. Hamlin, Printer, 131 Hanover Street, (Opposite the Blackstone Bank,) Boston.”"
+  ],
+  "observed": [
+    "“DRY GOODS” is set in a decorated letter with a black drop shade, a white face, a row of dots, and a dark band at the top of each letter.",
+    "“LARGE STOCK OF” and “AT AUCTION!” use a wide sans-serif capital, and a single rule closes the head.",
+    "“C. McCAULEY,” is a tall condensed slab; “No. 122 Hanover Street, Boston,” a mixed-case fat Clarendon.",
+    "“DOMESTIC GOODS!” is an extended Egyptian with very wide letters, and “AND A GENERAL STOCK OF” a small wide sans-serif above it.",
+    "A pointing hand leads into the line about accommodation for ladies.",
+    "Body paragraphs mix roman and bold for single phrases. The display lines are centred, and the paragraphs are justified.",
+    "Black ink on white paper, with show-through from the back of the sheet."
+  ],
+  "interpretation": [
+    "The bill shows how a printer turned an ordinary trade notice into a spectacle with stock faces alone. The decorated headline is the only costly letter, and it goes on the product, not the shop name.",
+    "The change between wide and condensed faces is as strong as the change in size."
+  ],
+  "borrow": [
+    "Spend the one decorative face on the single word that sells, and keep the rest in plain heavy faces.",
+    "Pair a small wide line with a big wide line below it as a two-step heading."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mccauley-dry-goods-auction-broadside-1862.jpg",
+      "alt": "Black-and-white auction broadside. Centred lines read Large Stock of, Dry Goods in a dotted shaded decorative letter, At Auction!, C. McCauley, No. 122 Hanover Street, Boston, and Domestic Goods! in very wide letters, with paragraphs of smaller text and a pointing hand.",
+      "width": 1201,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "“Large Stock of Dry Goods at Auction!”, Boston, 1862. Library of Congress, Printed Ephemera Collection, [2020770660](https://www.loc.gov/item/2020770660/).",
+      "original": "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe06/rbpe069/06905000/001dr.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The Library of Congress says that, with a few exceptions, it “is not aware of any U.S. copyright protection … or any other restrictions in the materials in the Printed Ephemera Collection.” The bill was published in the United States in 1862, so it is in the public domain."
+  },
+  "identifiers": {
+    "loc": "2020770660"
+  }
+}

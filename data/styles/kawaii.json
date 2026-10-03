@@ -123,6 +123,12 @@
       "text": "A character often stands beside the content, greets the user, or reacts to actions. Layouts stay simple so the character and the color carry the mood."
     }
   ],
+  "synthesis": [
+    "The core is the character applied to goods. [Hello Kitty](ref:hello-kitty-character-1974) (1974) is the founding figure; this record documents her from Wikipedia and the V&A, not from the 1975 coin purse. Three V&A appliances show how the face travels. The [Sanyo toaster](ref:hello-kitty-toaster-sanyo-1998) (1998) uses pale and stronger pink with a small Kitty head. The [kettle](ref:hello-kitty-kettle-t-fal-2013) (2013) shows Kitty as a clean black outline figure with one red bow. On the [rice cooker](ref:hello-kitty-rice-cooker-2014) (2014), a large Kitty head fills a hot-pink cylinder. In each, a standard product keeps its form, and colour and one face carry the style. The [Strawberry Newspaper](ref:strawberry-newspaper-sanrio-1975) (from 1975) is Sanrio’s editorial channel for this character world, but no issue was inspected.",
+    "The face and the big-head proportions are the most constant traits. The [Pikachu soft toy](ref:pikachu-soft-toy-1990s) has wide-set dot eyes with highlights, a tiny mouth, red cheek circles, and stubby limbs. [Kumamon](ref:kumamon-mascot-2010) carries round eyes and red cheek circles to the scale of a building facade. The cats of [Neko Atsume](ref:neko-atsume-app-2014) have dot eyes and a tiny “ω” mouth. Neko Atsume is also the only interface reference: its controls share the characters’ even dark-brown outline, with very round card corners, a pill speech bubble, and a rounded hand-drawn face, and the cats never carry information. [Hachi Maru Pop](ref:hachi-maru-pop-typeface-2020) shows the type facet: a revival of 1970s and 1980s round handwriting in which dots become rings. Its designer recommends it for large sizes because it “lacks a little on readability”.",
+    "The references disagree with the palette rule more than with any other part of the grammar. The grammar and the rubric ask for three or more pastels, but Pikachu is lemon yellow, Kumamon is black, white, and red, the rice cooker is hot pink, the [Tamagotchi](ref:tamagotchi-1997) is a hot-pink egg with a lime ring, and Neko Atsume uses muted earth and green. The rubric counter “saturated primaries or neon colors with no pastels” would reject Pikachu and Kumamon, and all five are recorded as partial fits. The Hello Kitty appliances also outline in black, not the warm brown or plum of the colour facet. Pastels are clear only in the toaster, the kettle trim, and the facade of [Sanrio Puroland](ref:sanrio-puroland-tama-1990), where pale lavender walls, a pastel rainbow arch, and pastel domes carry the style without a face. The [Takeshita Street gate](ref:takeshita-street-gate-harajuku-2024) shows the scattered motifs at street scale: a dot-eyed balloon rabbit among balloon stars and sparkles. Interpretation: the face and the roundness define the style, and pastel is its strongest branch, not a requirement.",
+    "Only two references have stored images, and neither is a character good or an interface. `tools/image-traits.py` reads colour only, so the two positive roundness markers (`surface.radius.median` and `surface.radius.roundShare`) and `pixels.lightness` are not measured. The Hachi Maru Pop sample is black on white and fails `color.hues` with 0 against the minimum of 4, which says nothing about the style. The Takeshita gate passes both measured metrics (4 hues, `color.accentChroma` 0.45 against a maximum of 0.5), but most of its pixels are the grey-brown street and crowd, so the pass is weak evidence. It is untested whether the saturated character goods pass the 0.5 maximum. No website was captured, so the fingerprint stays specimen-based."
+  ],
   "rubric": {
     "diagnostic": [
       "A character or object has a small face with dot eyes, a tiny mouth, and pink cheek blush.",
@@ -231,5 +237,8 @@
       "max": 0.5,
       "note": "The colors are soft pastels, not the saturated colors of Memphis or Corporate Memphis (0.7 or more). Provisional: set from the specimen (0.38)."
     }
+  ],
+  "preview": [
+    "hachi-maru-pop-typeface-2020"
   ]
 }

@@ -1,0 +1,56 @@
+{
+  "id": "smith-rieger-lotus-artwork",
+  "title": "Jack Smith and Jeremy Rieger, “Lotus” artwork",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A square artwork in gray and violet: a melted-chrome flower in an arched frame, a tall liquid display word, op-art spirals, and Japanese katakana.",
+  "summary": "Liquid-chrome flower, melted display lettering, violet op-art rings and spirals on a scratched black ground. Jack Smith and Jeremy Rieger.",
+  "source": {
+    "url": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+    "label": "AIGA Eye on Design (5 September 2019): “Acid Graphics” Are the New Psychedelia"
+  },
+  "creator": {
+    "name": "Jack Smith and Jeremy Rieger"
+  },
+  "made": "Not stated (before September 2019)",
+  "moods": [
+    "eerie",
+    "psychedelic",
+    "dense"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 px image `Lotus-By-Jack-Smith-and-Jeremy-Rieger.jpg` that [Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) published with the article, in a scratch folder. Not stored. The object is a digital image as the magazine published it, not a named physical copy. The caption reads “Lotus by Jack Smith and Jeremy Rieger, as featured on @acidgraphix”."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "acid-graphics",
+      "note": "Liquid-metal imagery, melted display letters, op-art rings, and horror vacui on black. The accent is violet, not green.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "[Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) shows the work in its 2019 article on acid graphics, with the caption “Lotus by Jack Smith and Jeremy Rieger, as featured on @acidgraphix”."
+  ],
+  "observed": [
+    "The ground is black with scratches and dust, like a worn sleeve.",
+    "A flower in an arched frame is rendered as melted, reflective gray chrome with hard black contours.",
+    "A tall word runs down the left in melted, wavy pale-gray letters, with violet ivy growing over it. Katakana run down the right and across the lower left.",
+    "Violet concentric rings form a long capsule at the top. Black-and-white op-art spirals and violet dots run down the right edge.",
+    "Small pseudo-script text sits in violet at the lower right."
+  ],
+  "interpretation": [
+    "The work has the liquid-chrome surface, the melted lettering, and the op-art patterns of the style in a dense layout. Its violet accent shows that acid green is common but not required."
+  ],
+  "borrow": [
+    "Put a liquid-chrome image in an arched frame and surround it with op-art spirals.",
+    "Draw one display word as melted, wavy letters and let a plant motif grow over it."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is recent and in copyright. The rights holder is the designer or the client."
+  }
+}

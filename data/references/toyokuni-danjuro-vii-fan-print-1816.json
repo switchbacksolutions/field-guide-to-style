@@ -1,0 +1,74 @@
+{
+  "id": "toyokuni-danjuro-vii-fan-print-1816",
+  "title": "Toyokuni I, Ichikawa Danjūrō VII as Fujiwara no Shihei (fan print)",
+  "type": "print",
+  "medium": "other",
+  "lede": "An actor portrait printed to be pasted on a flat round fan (uchiwa-e): Utagawa Toyokuni I sets the actor against a pink fan-shaped ground with falling cherry petals.",
+  "summary": "Black outlines, a lattice-patterned robe, and a pink fan-shaped ground. Utagawa Toyokuni I, about 1816.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/154248",
+    "label": "Art Institute of Chicago, 2000.70"
+  },
+  "creator": {
+    "name": "Utagawa Toyokuni I"
+  },
+  "made": "c. 1816",
+  "moods": [
+    "bold",
+    "dramatic",
+    "decorative"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Art Institute of Chicago image of 2000.70 (1686 × 1418 px)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ukiyo-e",
+      "note": "A fan print: the style applied to an everyday object, with flat pattern, key-block outlines, and a figure cropped by the fan shape.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "AIC catalogues the sheet as a color woodblock print, uchiwa-e (fan print), 22.9 × 26.8 cm, about 1816, depicting Ichikawa Danjūrō VII in the play Ume Sakura Aioi-zōshi. [AIC 2000.70](https://www.artic.edu/artworks/154248)."
+  ],
+  "observed": [
+    "A rounded fan shape fills the sheet in flat pale pink. The corners outside it are cream paper.",
+    "The actor’s head and shoulders fill the right two thirds. His robe is cut by the lower edge and by the fan outline.",
+    "The robe is purple with an orange and cream lattice and round green flower crests, a dense pattern inside outlined areas.",
+    "The hair and cap are solid black. A ribbon from the cap carries a black diamond pattern.",
+    "Cherry petals are drawn only as red outlines on the pink ground at left.",
+    "The actor’s name, the artist’s signature, and a seal run in vertical columns at right. A date column sits outside the fan at lower right."
+  ],
+  "interpretation": [
+    "The fan print shows the style on a commercial object: the format is the frame, and the figure is cut by it.",
+    "Pattern density changes on purpose: a dense robe, an open pink ground, and a few scattered petals."
+  ],
+  "borrow": [
+    "Use the shape of the object as the frame, and crop the main figure against it.",
+    "Set a dense pattern against an open ground with a few scattered outlined motifs."
+  ],
+  "images": [
+    {
+      "file": "assets/references/toyokuni-danjuro-vii-fan-print-1816.jpg",
+      "alt": "Color woodblock fan print. Head and shoulders of a kabuki actor with a black cap and a patterned ribbon, in a purple robe with an orange lattice and round flower crests, on a pink fan-shaped ground with outlined cherry petals.",
+      "width": 1600,
+      "height": 1346,
+      "kind": "source-image",
+      "caption": "Utagawa Toyokuni I, Ichikawa Danjūrō VII as Fujiwara no Shihei, uchiwa-e, c. 1816. [Art Institute of Chicago 2000.70](https://www.artic.edu/artworks/154248), Margaret Gentles Fund. CC0.",
+      "original": "https://www.artic.edu/iiif/2/08930fe6-9893-fb9a-8bf6-ce02720fe360/full/1686,/0/default.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Art Institute of Chicago marks the object public domain (`is_public_domain: true`) and releases images of public-domain works under CC0. [AIC open access](https://www.artic.edu/open-access/open-access-images). Toyokuni I died in 1825, so the work is public domain in Japan and the United States."
+  },
+  "identifiers": {
+    "aic": "154248",
+    "accession": "2000.70"
+  }
+}

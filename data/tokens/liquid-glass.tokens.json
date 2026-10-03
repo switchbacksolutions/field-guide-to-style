@@ -1,0 +1,122 @@
+{
+  "$description": "Authored tokens for liquid-glass. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+  "color": {
+    "$type": "color",
+    "bg": { "$value": "#f2f2f7", "$description": "Grouped background, as in iOS system grey 6." },
+    "surface": { "$value": "#ffffff", "$description": "Opaque content cards. Glass is for controls, not content." },
+    "subtle": { "$value": "#f6f6fa", "$description": "Inset content rows and cards inside a section." },
+    "text": { "$value": "#1d1d1f" },
+    "muted": { "$value": "#5e5e66" },
+    "border": { "$value": "#e3e3ea", "$description": "Separators inside content only. Glass has a lit rim, not a stroke." },
+    "primary": { "$value": "#0a6cff", "$description": "Tint for the prominent glass button." },
+    "on-primary": { "$value": "#ffffff" },
+    "secondary": { "$value": "#ffffff73", "$description": "Regular glass fill: about 45 % white over the content." },
+    "on-secondary": { "$value": "#1d1d1f" },
+    "accent": { "$value": "#ff6a3d" },
+    "on-accent": { "$value": "#ffffff" },
+    "glass-sheen": { "$value": "#ffffffb3", "$description": "Specular highlight on the lit edge of the glass." },
+    "glass-clear": { "$value": "#ffffff2e", "$description": "Clear glass: little fill, so the content stays visible." },
+    "glass-rim": { "$value": "#ffffffcc" },
+    "wallpaper-blue": { "$value": "#2f6bff" },
+    "wallpaper-pink": { "$value": "#ff5c8a" },
+    "wallpaper-orange": { "$value": "#ffa53d" },
+    "wallpaper-teal": { "$value": "#21c7c2" },
+    "wallpaper-deep": { "$value": "#1f4fd8" },
+    "wallpaper-violet": { "$value": "#6a5cff" }
+  },
+  "font": {
+    "$type": "fontFamily",
+    "display": { "$value": ["SF Pro Display", "-apple-system", "system-ui", "Segoe UI Variable Display", "Inter", "Helvetica Neue", "sans-serif"] },
+    "body": { "$value": ["SF Pro Text", "-apple-system", "system-ui", "Segoe UI Variable Text", "Inter", "Helvetica Neue", "sans-serif"] },
+    "mono": { "$value": ["SF Mono", "ui-monospace", "Menlo", "Cascadia Mono", "monospace"] }
+  },
+  "font-weight": {
+    "$type": "fontWeight",
+    "regular": { "$value": 400 },
+    "bold": { "$value": 600 },
+    "display": { "$value": 700 }
+  },
+  "text": {
+    "$type": "dimension",
+    "xs": { "$value": "12px" },
+    "sm": { "$value": "14px" },
+    "base": { "$value": "17px" },
+    "lg": { "$value": "20px" },
+    "xl": { "$value": "24px" },
+    "2xl": { "$value": "28px" },
+    "3xl": { "$value": "40px" },
+    "4xl": { "$value": "56px" },
+    "5xl": { "$value": "80px" }
+  },
+  "leading": {
+    "$type": "number",
+    "tight": { "$value": 1.05 },
+    "body": { "$value": 1.47 }
+  },
+  "tracking": {
+    "$type": "number",
+    "display": { "$value": -0.025, "$extensions": { "style-inspiration": { "unit": "em" } } },
+    "heading": { "$value": -0.01, "$extensions": { "style-inspiration": { "unit": "em" } } },
+    "label": { "$value": 0.01, "$extensions": { "style-inspiration": { "unit": "em" } } }
+  },
+  "radius": {
+    "$type": "dimension",
+    "none": { "$value": "0px" },
+    "sm": { "$value": "16px" },
+    "md": { "$value": "22px" },
+    "lg": { "$value": "34px", "$description": "Outer radius. Inner radius = outer radius minus padding, so corners stay concentric." },
+    "pill": { "$value": "999px" }
+  },
+  "border-width": {
+    "$type": "dimension",
+    "thin": { "$value": "1px" },
+    "thick": { "$value": "1.5px" }
+  },
+  "spacing": {
+    "$type": "dimension",
+    "xs": { "$value": "6px" },
+    "sm": { "$value": "12px" },
+    "md": { "$value": "20px" },
+    "lg": { "$value": "32px" },
+    "xl": { "$value": "56px" },
+    "2xl": { "$value": "88px" }
+  },
+  "shadow": {
+    "$type": "shadow",
+    "sm": { "$value": [
+      { "color": "#ffffffcc", "offsetX": "1px", "offsetY": "1px", "blur": "0px", "spread": "0px", "inset": true },
+      { "color": "#ffffff59", "offsetX": "-1px", "offsetY": "-1px", "blur": "0px", "spread": "0px", "inset": true },
+      { "color": "#0000001f", "offsetX": "0px", "offsetY": "4px", "blur": "14px", "spread": "0px" }
+    ], "$description": "Glass rim: a bright specular line on the top-left edge, a weaker one on the bottom-right, and a soft drop shadow." },
+    "md": { "$value": [
+      { "color": "#ffffffd9", "offsetX": "1.5px", "offsetY": "1.5px", "blur": "1px", "spread": "0px", "inset": true },
+      { "color": "#ffffff66", "offsetX": "-1px", "offsetY": "-1.5px", "blur": "1px", "spread": "0px", "inset": true },
+      { "color": "#ffffff40", "offsetX": "0px", "offsetY": "0px", "blur": "12px", "spread": "0px", "inset": true },
+      { "color": "#00000029", "offsetX": "0px", "offsetY": "10px", "blur": "30px", "spread": "0px" }
+    ], "$description": "Floating toolbar: a wider lit rim, an inner glow, and a deeper drop shadow." }
+  },
+  "blur": {
+    "$type": "dimension",
+    "sm": { "$value": "4px", "$description": "Clear glass. The content stays readable through it." },
+    "md": { "$value": "10px" },
+    "lg": { "$value": "24px" }
+  },
+  "gradient": {
+    "$type": "gradient",
+    "sheen": {
+      "$value": { "angle": "135deg", "stops": [{ "color": "#ffffff8c", "position": 0 }, { "color": "#ffffff26", "position": 0.45 }, { "color": "#ffffff0d", "position": 0.6 }, { "color": "#ffffff4d", "position": 1 }] },
+      "$description": "Specular light across the glass: strongest at the top-left rim, weaker at the bottom-right. Not a gloss band."
+    },
+    "tint": {
+      "$value": { "angle": "135deg", "stops": [{ "color": "#4d8dffe6", "position": 0 }, { "color": "#0a6cffcc", "position": 0.55 }, { "color": "#0a5ae0e6", "position": 1 }] },
+      "$description": "Tinted glass for the prominent action."
+    }
+  },
+  "typography": {
+    "$type": "typography",
+    "display": { "$value": { "fontFamily": "{font.display}", "fontSize": "{text.5xl}", "fontWeight": "{font-weight.display}", "lineHeight": "{leading.tight}", "letterSpacing": "{tracking.display}" } },
+    "heading": { "$value": { "fontFamily": "{font.display}", "fontSize": "{text.2xl}", "fontWeight": "{font-weight.display}", "lineHeight": "{leading.tight}", "letterSpacing": "{tracking.heading}" } },
+    "body": { "$value": { "fontFamily": "{font.body}", "fontSize": "{text.base}", "fontWeight": "{font-weight.regular}", "lineHeight": "{leading.body}" } },
+    "label": { "$value": { "fontFamily": "{font.body}", "fontSize": "{text.xs}", "fontWeight": "{font-weight.bold}", "lineHeight": "{leading.body}", "letterSpacing": "{tracking.label}" } }
+  }
+}

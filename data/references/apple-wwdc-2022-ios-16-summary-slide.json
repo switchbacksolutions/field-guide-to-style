@@ -1,0 +1,57 @@
+{
+  "id": "apple-wwdc-2022-ios-16-summary-slide",
+  "title": "Apple WWDC 2022: iOS 16 summary slide",
+  "type": "image",
+  "medium": "other",
+  "lede": "The light version of Apple’s keynote summary grid: pale grey rounded tiles on an off-white ground, with device mockups cut off by the frame.",
+  "summary": "Pale grey rounded tiles and phone mockups of mixed sizes on off-white, one feature each. WWDC 2022.",
+  "source": {
+    "url": "https://apple-summary-slides.vercel.app/events/wwdc-2022",
+    "label": "Apple Summary Slides (fan archive): Apple WWDC 2022"
+  },
+  "creator": {
+    "name": "Apple Inc.",
+    "url": "https://www.apple.com/apple-events/"
+  },
+  "made": "2022-06-06 (WWDC 2022 keynote)",
+  "moods": [
+    "bright",
+    "organized",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1920 × 1080 WebP `[WWDC 2022]-[iPhone]-[iOS 16].webp` from the fan archive [Apple Summary Slides](https://apple-summary-slides.vercel.app/events/wwdc-2022) (Ricky Zhang), which says that all images are screenshots of Apple event videos. The copy is a frame of the event video, not an Apple press file. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "bento-grid",
+      "note": "Clear: the light variant of the core look, with tonal tiles on a pale ground and mixed sizes on one grid.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple announced iOS 16 in the WWDC 2022 keynote on 6 June 2022. Deck.gallery compares the WWDC 22 product highlights with other Apple summary decks ([Deck.gallery](https://www.deck.gallery/blog/apple-bento-grid-decks-roundup/))."
+  ],
+  "observed": [
+    "The ground is an off-white. Tiles are a slightly darker pale grey with large rounded corners and narrow even gutters.",
+    "Five columns of different widths hold tiles of different heights. Large iPhone mockups run off the top and bottom edges of the frame and are labeled with a heading outside the device (“Live Activities”, “Notification views”, “Multilayered photo effect”).",
+    "A central tile carries a large white “iOS” on a blue, green, and yellow gradient. One tile in the top row is black with a colored-confetti pattern and the white “Pay Later” logo.",
+    "Labels are short, in a dark sans-serif, centered at the top of each tile: “Next generation of CarPlay”, “Quick Note”, “Redesigned Home app”.",
+    "Icons are simple and colored: a yellow note, a green field, an orange house, a blue-green shield."
+  ],
+  "interpretation": [
+    "The light ground and pale grey tiles are the version that Apple product pages and most web bento grids copy. The device mockups that break the tile edge are a variation: the grid holds, but some content sits on the ground."
+  ],
+  "borrow": [
+    "On a light ground, separate tiles by a small step in grey, not by lines or shadows.",
+    "Let one or two large device images span several rows and sit on the ground between tiles."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Frame of an Apple event video; copyrighted by Apple Inc. The fan archive states “All rights reserved by Apple Inc.” No image is stored here."
+  }
+}

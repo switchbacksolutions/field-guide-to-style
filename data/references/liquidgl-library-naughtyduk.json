@@ -1,0 +1,56 @@
+{
+  "id": "liquidgl-library-naughtyduk",
+  "title": "liquidGL",
+  "type": "product",
+  "medium": "software",
+  "lede": "A framework-free JavaScript library by NaughtyDuk that renders refracting glass panes over live web content with WebGPU or WebGL.",
+  "summary": "WebGPU and WebGL glass panes with refraction, bevels, and specular light for the web. 2025–2026.",
+  "source": {
+    "url": "https://github.com/naughtyduk/liquidGL",
+    "label": "GitHub: naughtyduk/liquidGL"
+  },
+  "creator": {
+    "name": "NaughtyDuk",
+    "url": "https://liquidgl.naughtyduk.com"
+  },
+  "made": "2025 (repository created June 21, 2025; still maintained in October 2026)",
+  "moods": [
+    "liquid",
+    "premium",
+    "dynamic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the repository file assets/images/_0006_multiple-lenses.jpg (2400 × 1260) in a scratchpad copy. The repository also holds frost-and-specular and menu-bar images, which were downloaded but not reviewed. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "liquid-glass",
+      "note": "The most complete web version of the material: refraction, bevel, specular light, and tint. Its demos use glass for content tiles, which goes beyond Apple’s rules.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The README: liquidGL “turns any fixed or sticky-positioned element into a perfectly refracted, glossy ‘glass pane’ rendered in WebGPU (with automatic fallback to WebGL)”, and “recreates Apple’s ‘Liquid Glass’ aesthetic in the browser”. It falls back to CSS backdrop-filter and offers tint, chromatic aberration, and stacked lenses. [GitHub](https://github.com/naughtyduk/liquidGL).",
+    "The LICENSE file is MIT, “Copyright (c) NaughtyDuk”. Wikipedia calls it the most actively maintained of the widely used web implementations as of September 2026. [Wikipedia: Liquid Glass](https://en.wikipedia.org/wiki/Liquid_Glass)."
+  ],
+  "observed": [
+    "A photo of a red running track with the legs of runners and their shadows.",
+    "Six rounded glass tiles form a fitness dashboard: distance, heart rate (a large “137 BPM”), speed, power, resistance, and an interval delta. Labels are small uppercase white sans-serif with green accents.",
+    "Each tile has a bevelled rim where the track texture and the white lane line bend and magnify. The line through the heart-rate tile kinks at the tile edge.",
+    "Rims catch thin highlights, and the tiles keep the red-brown color of the track. A large white “liquidGL” wordmark sits at the lower right."
+  ],
+  "interpretation": [
+    "The library shows that the refraction can be reproduced on the web, but only with a shader and an offscreen copy of the page, not with CSS alone."
+  ],
+  "borrow": [
+    "Concentrate the distortion in a narrow bevel and keep the center of the pane flat, so text inside stays readable."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The code is MIT (© NaughtyDuk). Kept as link only because the demo image shows a third-party photograph whose license is not stated."
+  }
+}

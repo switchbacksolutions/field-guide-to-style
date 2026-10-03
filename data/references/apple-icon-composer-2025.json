@@ -1,0 +1,58 @@
+{
+  "id": "apple-icon-composer-2025",
+  "title": "Apple Icon Composer",
+  "type": "product",
+  "medium": "software",
+  "lede": "Apple’s 2025 tool for building layered app icons from Liquid Glass, with controls for specular light, blur, translucency, and shadow.",
+  "summary": "Apple’s icon tool, which exposes the glass material as sliders. 2025.",
+  "source": {
+    "url": "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
+    "label": "Apple Newsroom, June 9, 2025"
+  },
+  "creator": {
+    "name": "Apple",
+    "url": "https://developer.apple.com/icon-composer/"
+  },
+  "made": "2025 (announced June 9, 2025)",
+  "moods": [
+    "luminous",
+    "precise",
+    "dimensional"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Apple Newsroom image Apple-WWDC25-Liquid-Glass-Icon-Composer-250609 (1960 × 1102, large_2x variant) in a scratchpad copy. A press render. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "liquid-glass",
+      "note": "Names the parts of the material in its own interface: specular, blur, translucency, dark, and shadow, applied to stacked layers.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple: Icon Composer annotates “layers for multiple rendering modes, with advanced features that include blurring, adjusting translucency, testing specular highlights, and previewing icons in various tints”. [Apple Newsroom](https://www.apple.com/newsroom/2025/06/apple-supercharges-its-tools-and-technologies-for-developers/).",
+    "Apple: “the Dock, app icons, and widgets have all been crafted from multiple layers of Liquid Glass … with specular highlights”. [Apple Newsroom](https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/)."
+  ],
+  "observed": [
+    "A Mac window with three parts over a blue wave wallpaper: a layer list on the left, a large preview of the Podcasts icon in the middle, and an inspector on the right.",
+    "The icon is built from stacked translucent layers: a blue rounded square, two pale rings, and a white figure. Each layer has a lit rim, and the rings show the blue square through them.",
+    "The inspector has a “Liquid Glass” group with Mode (Individual), Specular (on), Blur 21.8 %, Translucency 50 %, Dark 42 %, and Shadow (Neutral, 50 %).",
+    "The toolbar is a row of separate capsules: appearance toggle, grid, light angle (34°), and zoom (50 %). Small previews at the bottom show the icon in default, dark, and mono looks.",
+    "The sidebar and inspector are light, translucent panels inset in the window with rounded corners."
+  ],
+  "interpretation": [
+    "The tool turns the material into a short list of parameters with a single light direction. This is close to how a CSS version must work: a fill, a blur, a highlight angle, and a shadow."
+  ],
+  "borrow": [
+    "Fix one light angle for the whole interface, and place every specular highlight on the edge that faces it."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple press image of copyrighted software and icons. No image is stored here."
+  },
+  "related": "See also [the 2025 and 2026 icon edge](ref:liquid-glass-icon-effect-2025-2026-comparison)."
+}

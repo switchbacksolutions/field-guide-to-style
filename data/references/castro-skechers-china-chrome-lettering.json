@@ -1,0 +1,57 @@
+{
+  "id": "castro-skechers-china-chrome-lettering",
+  "title": "Jonathan Castro, lettering for a Skechers China project",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "Four lines of spiky chrome lettering on black, each wrapped in a different neon glow, for a Skechers project in China.",
+  "summary": "Spiky, bevelled chrome lettering with acid yellow-green, pink, and blue glows on black. Jonathan Castro, before 2019.",
+  "source": {
+    "url": "https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/",
+    "label": "AIGA Eye on Design (5 September 2019): “Acid Graphics” Are the New Psychedelia"
+  },
+  "creator": {
+    "name": "Jonathan Castro"
+  },
+  "made": "Before September 2019 (the article does not give a year)",
+  "moods": [
+    "aggressive",
+    "futuristic",
+    "synthetic",
+    "loud"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 px image `Jonathan-Castro-skechers-china-jonathan-castro-.jpg` that [Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) published with the article, in a scratch folder. Not stored. The object is a digital image as the magazine published it, not a named physical copy. The caption reads “Jonathan Castro. Skechers China project”."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "acid-graphics",
+      "note": "A direct example of the chrome-type core: bevelled liquid-metal letters with thorny spurs, an acid accent, and glows on black.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "[Eye on Design](https://eyeondesign.aiga.org/acid-graphics-are-the-new-psychedelia-with-a-heady-dose-of-cynicism/) shows this image in its 2019 article on acid graphics, with the caption “Jonathan Castro. Skechers China project”. The article does not say what the project was or when it ran."
+  ],
+  "observed": [
+    "Four lines of lettering are centred on a pure black ground: “2028” (or similar) with Chinese characters, “SKECHERS”, “MOVE”, and a long wide word that is hard to read.",
+    "The letters are rendered as polished, bevelled chrome with gray-to-white reflections and dark bands.",
+    "Thorny spurs and blade-like points grow from the letterforms. Some lines are drawn in hairline outlines, others as solid chrome.",
+    "Each line has a different glow or outline: acid yellow-green, hot pink, cyan, or electric blue. Acid yellow-green also fills streaks inside the chrome.",
+    "Lines overlap each other, and legibility is low."
+  ],
+  "interpretation": [
+    "The work shows the style at its most concentrated: chrome as the material of the letters, spiky custom letterforms, and neon accents on black. It is close to Y2K in its chrome, but its sharp spurs and aggressive tone separate it."
+  ],
+  "borrow": [
+    "Grow thorny spurs from a few stroke ends of a wide display face, and render the letters as chrome.",
+    "Give each display line its own single accent glow on a black ground."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The work is recent and in copyright. The rights holder is the designer or the client."
+  }
+}

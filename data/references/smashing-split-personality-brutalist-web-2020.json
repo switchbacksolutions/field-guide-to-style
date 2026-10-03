@@ -1,0 +1,51 @@
+{
+  "id": "smashing-split-personality-brutalist-web-2020",
+  "title": "Smashing Magazine, “The Split Personality of Brutalist Web Development”",
+  "type": "website",
+  "medium": "editorial",
+  "lede": "An essay that splits web brutalism into l’Internet brut, built from raw HTML, and l’Internet fou, built for shock.",
+  "summary": "Frederick O’Brien’s 2020 essay: raw HTML brutalism (light ground, black text, blue links) versus audacious brutalism.",
+  "source": {
+    "url": "https://www.smashingmagazine.com/2020/01/split-personality-brutalist-web-development/",
+    "label": "Smashing Magazine"
+  },
+  "creator": {
+    "name": "Frederick O’Brien",
+    "url": "https://www.smashingmagazine.com/author/frederick-o-brien/"
+  },
+  "made": "2020",
+  "moods": [
+    "raw",
+    "honest",
+    "plain"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Article text read on 2026-10-02. The publication time (8 January 2020) is in the page’s metadata, and the author link is on the page. The article’s screenshots were not inspected."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "brutalist-web-design",
+      "note": "Names and describes the raw core of the style and separates it from the audacious branch.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "“Type One: l’Internet Brut … where the raw materials are HTML and, to a lesser extent, CSS. The backgrounds are light, the text is black, and the hyperlinks are blue.”",
+    "Examples it names for the raw type: the first website, David Bryant Copeland’s [Brutalist Web Design](ref:copeland-brutalist-web-design-guidelines), Craigslist, Wikipedia, the old A List Apart, old Reddit, Bloomberg, and Freecycle.",
+    "“Type Two: l’Internet Fou” covers the many “brutalist” sites built to provoke. It quotes Vitaly Friedman: brutalism in architecture is “unconcerned aesthetics, not intentionally broken aesthetics”."
+  ],
+  "interpretation": [
+    "Its Type One is the scope of [Brutalist web design](style:brutalist-web-design). Some of its examples, such as Bloomberg, are bolder than default HTML and need a capture before they count as evidence."
+  ],
+  "borrow": [
+    "Treat HTML as the material: let the structure of the document set the look, and shape each page around its content."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© Smashing Magazine and the author. Link and quotation only."
+  }
+}

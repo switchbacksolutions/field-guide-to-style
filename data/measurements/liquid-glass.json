@@ -1,0 +1,165 @@
+{
+  "tool": "tools/extract-traits.js",
+  "version": "4",
+  "url": "http://127.0.0.1:8766/implementations/liquid-glass/index.html",
+  "title": "Liquid Glass specimen · A Field Guide to Style",
+  "captured": "2026-10-03T01:35:44.263Z",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "type": {
+    "families": [
+      {
+        "family": "SF Pro Text",
+        "share": 0.78
+      },
+      {
+        "family": "SF Pro Display",
+        "share": 0.2
+      },
+      {
+        "family": "SF Mono",
+        "share": 0.02
+      }
+    ],
+    "baseSize": 17,
+    "maxSize": 80,
+    "sizeRange": 4.71,
+    "scaleRatio": 1.41,
+    "headingWeight": 700,
+    "bodyWeight": 400,
+    "headingTracking": -0.025,
+    "uppercaseShare": 0,
+    "monoShare": 0.02,
+    "centerShare": 0.07
+  },
+  "color": {
+    "palette": [
+      {
+        "hex": "#f2f2f7",
+        "share": 0.388
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.254
+      },
+      {
+        "hex": "#5e5e66",
+        "share": 0.068
+      },
+      {
+        "hex": "#1d1d1f",
+        "share": 0.06
+      },
+      {
+        "hex": "#ffa53d",
+        "share": 0.037
+      },
+      {
+        "hex": "#ff5c8a",
+        "share": 0.037
+      },
+      {
+        "hex": "#21c7c2",
+        "share": 0.037
+      },
+      {
+        "hex": "#1f4fd8",
+        "share": 0.037
+      },
+      {
+        "hex": "#2f6bff",
+        "share": 0.037
+      },
+      {
+        "hex": "#6a5cff",
+        "share": 0.037
+      }
+    ],
+    "background": "#f2f2f7",
+    "text": "#5e5e66",
+    "contrast": 5.8,
+    "chroma": 0.17,
+    "lightness": 0.79,
+    "chromaticShare": 0.23,
+    "accentChroma": 0.71,
+    "distinct": 10,
+    "hues": 5,
+    "imageShare": 0,
+    "gradientShare": 0.32,
+    "patternShare": 0
+  },
+  "surface": {
+    "boxes": 22,
+    "radius": {
+      "median": 23.2,
+      "max": 34,
+      "roundShare": 1
+    },
+    "border": {
+      "share": 0,
+      "medianWidth": null
+    },
+    "shadow": {
+      "share": 0.5,
+      "hardShare": 0,
+      "medianBlur": 14,
+      "medianOffset": 4
+    },
+    "gradientShare": 0.55,
+    "patternShare": 0,
+    "blurShare": 0.5
+  },
+  "pixels": {
+    "palette": [
+      {
+        "hex": "#f3f2f7",
+        "share": 0.354
+      },
+      {
+        "hex": "#3269fc",
+        "share": 0.124
+      },
+      {
+        "hex": "#ffffff",
+        "share": 0.06
+      },
+      {
+        "hex": "#7886bb",
+        "share": 0.042
+      },
+      {
+        "hex": "#4866f9",
+        "share": 0.035
+      },
+      {
+        "hex": "#2355de",
+        "share": 0.035
+      },
+      {
+        "hex": "#9768c8",
+        "share": 0.031
+      },
+      {
+        "hex": "#b9917d",
+        "share": 0.031
+      },
+      {
+        "hex": "#95899b",
+        "share": 0.03
+      },
+      {
+        "hex": "#b863b6",
+        "share": 0.029
+      }
+    ],
+    "background": "#f3f2f7",
+    "chroma": 0.3,
+    "lightness": 0.76,
+    "chromaticShare": 0.45,
+    "accentChroma": 0.59,
+    "distinct": 16,
+    "hues": 5
+  }
+}

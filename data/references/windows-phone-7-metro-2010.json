@@ -30,6 +30,12 @@
       "id": "flat-design",
       "note": "The first product in which Microsoft named and shipped Metro; the origin of the tile grammar of this record.",
       "basis": "agent"
+    },
+    {
+      "id": "bento-grid",
+      "note": "Partial fit: a precursor with Metro live tiles on one grid, but square corners and saturated fills.",
+      "basis": "agent",
+      "qualifier": "partial fit"
     }
   ],
   "context": [

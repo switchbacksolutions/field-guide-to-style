@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lincoln-assassination-reward-broadside-1865.jpg",
+  "captured": "2026-10-03T01:42:50+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#050806",
+        "share": 0.338
+      },
+      {
+        "hex": "#c4b19a",
+        "share": 0.125
+      },
+      {
+        "hex": "#b69e87",
+        "share": 0.087
+      },
+      {
+        "hex": "#3b210d",
+        "share": 0.066
+      },
+      {
+        "hex": "#462e16",
+        "share": 0.049
+      },
+      {
+        "hex": "#cabca8",
+        "share": 0.038
+      },
+      {
+        "hex": "#a58e74",
+        "share": 0.036
+      },
+      {
+        "hex": "#8e7758",
+        "share": 0.036
+      },
+      {
+        "hex": "#2a1911",
+        "share": 0.033
+      },
+      {
+        "hex": "#988369",
+        "share": 0.033
+      }
+    ],
+    "background": "#050806",
+    "chroma": 0.11,
+    "lightness": 0.31,
+    "chromaticShare": 0.0,
+    "accentChroma": 0.66,
+    "distinct": 13,
+    "hues": 0
+  }
+}

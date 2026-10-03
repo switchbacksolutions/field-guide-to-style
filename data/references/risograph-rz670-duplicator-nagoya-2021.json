@@ -1,0 +1,64 @@
+{
+  "id": "risograph-rz670-duplicator-nagoya-2021",
+  "title": "Risograph RZ670 duplicator",
+  "type": "product",
+  "medium": "product",
+  "lede": "A Riso Kagaku RZ670 stencil duplicator in a public learning center in Nagoya: the office machine whose drums and stencils give the style its look.",
+  "summary": "An RZ670 Risograph duplicator in a community learning center in Nagoya.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Kita_20211017-117.jpg",
+    "label": "Wikimedia Commons: Kita 20211017-117"
+  },
+  "creator": {
+    "name": "Riso Kagaku Corporation (manufacturer)"
+  },
+  "made": "Photographed 17 October 2021. The model date was not checked.",
+  "moods": [
+    "utilitarian",
+    "office"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the 1280 × 1920 px Commons thumbnail. The file is in Category:Interiors of Nagoya City Kita Lifelong Learning Center."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "risograph",
+      "note": "Not an example of the look itself: the duplicator whose one-color-per-drum process produces it.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia describes the Risograph as a brand of digital duplicators by Riso Kagaku, introduced in Japan in 1980, which became popular among artists in the 2010s for zines and comics ([Wikipedia](https://en.wikipedia.org/wiki/Risograph))."
+  ],
+  "observed": [
+    "A beige office machine on a stand, labeled “RISOGRAPH RZ670” and “RISO”.",
+    "The front cover is closed, so no ink drum is visible. A side paper tray is open.",
+    "A sign behind it, in Japanese, reminds users not to forget their originals."
+  ],
+  "interpretation": [
+    "The machine is a plain office duplicator. The style comes from its limits: one ink per drum, stencil masters, and imperfect registration between passes."
+  ],
+  "borrow": [
+    "Treat each color as a separate pass that may shift, not as a channel of one image."
+  ],
+  "images": [
+    {
+      "file": "assets/references/risograph-rz670-duplicator-nagoya-2021.jpg",
+      "alt": "A beige Risograph RZ670 duplicator on a wheeled stand beside a window in a public building.",
+      "width": 1067,
+      "height": 1600,
+      "kind": "photograph",
+      "caption": "Risograph RZ670 at the Kita Lifelong Learning Center, Nagoya, 2021, by 円周率３パーセント. CC BY-SA 4.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kita_20211017-117.jpg). 1280 px thumbnail.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Kita_20211017-117.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Commons: own work by 円周率３パーセント, CC BY-SA 4.0. The duplicator is a utilitarian office machine. “RISO” and “RISOGRAPH” are trademarks of Riso Kagaku Corporation. Credit: 円周率３パーセント, via Wikimedia Commons."
+  }
+}

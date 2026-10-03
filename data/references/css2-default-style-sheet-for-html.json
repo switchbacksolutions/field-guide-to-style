@@ -1,0 +1,49 @@
+{
+  "id": "css2-default-style-sheet-for-html",
+  "title": "W3C CSS 2, Appendix D: “Default style sheet for HTML 4”",
+  "type": "website",
+  "medium": "other",
+  "lede": "The W3C’s informative sample style sheet that writes down how browsers render unstyled HTML.",
+  "summary": "W3C CSS 2 Appendix D: body margin 8px, h1 2em, h2 1.5em, 40px indents, underlined links.",
+  "source": {
+    "url": "https://www.w3.org/TR/CSS2/sample.html",
+    "label": "W3C, CSS 2.1 specification"
+  },
+  "creator": {
+    "name": "World Wide Web Consortium (W3C)",
+    "url": "https://www.w3.org/"
+  },
+  "made": "1998 (CSS 2); 2011 (CSS 2.1 Recommendation)",
+  "moods": [
+    "plain",
+    "utilitarian"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Read the appendix on 2026-10-02. The dates are the publication years of the CSS 2 and CSS 2.1 Recommendations as generally cited; the page itself was not checked for its date line."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "brutalist-web-design",
+      "note": "Documentation of the default rendering that the style keeps or restates.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The appendix lists `body { margin: 8px }`, `h1 { font-size: 2em; margin: .67em 0 }`, `h2 { font-size: 1.5em; margin: .75em 0 }`, `blockquote { margin-left: 40px; margin-right: 40px }`, and `:link, :visited { text-decoration: underline }`.",
+    "The current equivalent is the [Rendering section of the HTML Living Standard](ref:whatwg-html-rendering-defaults)."
+  ],
+  "interpretation": [
+    "The sizes here explain the narrow type scale in the [Brutalist web design](style:brutalist-web-design) fingerprint: the largest default heading is twice the body size."
+  ],
+  "borrow": [
+    "Start from these values instead of a reset. Change only what the content needs."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© W3C. Specification text under the W3C document license. Link and quotation only."
+  }
+}

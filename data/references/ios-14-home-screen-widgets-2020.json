@@ -1,0 +1,50 @@
+{
+  "id": "ios-14-home-screen-widgets-2020",
+  "title": "iOS 14 Home Screen widgets",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "The 2020 iPhone Home Screen on which widgets of three sizes sit in the same grid as the app icons.",
+  "summary": "Rounded widgets in small, medium, and large sizes share one grid with app icons on the iPhone Home Screen. iOS 14, 2020.",
+  "source": {
+    "url": "https://www.apple.com/newsroom/2020/06/apple-reimagines-the-iphone-experience-with-ios-14/",
+    "label": "Apple Newsroom: Apple reimagines the iPhone experience with iOS 14 (2020-06-22)"
+  },
+  "creator": { "name": "Apple Inc.", "url": "https://www.apple.com/ios/" },
+  "made": "2020 (previewed 2020-06-22)",
+  "moods": ["friendly", "organized", "personal"],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the press image `Apple_ios14-widgets-redesigned_06222020_inline.jpg.large_2x.jpg` (1306 × 1770) from the Apple Newsroom release. It is an Apple marketing render of the Home Screen, not a device screenshot. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "bento-grid",
+      "note": "Partial fit, as a precursor: rounded tiles of three sizes share one grid with even gaps, but app icons and a wallpaper fill the rest of the screen.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple’s release says that the new widgets “present timely information at a glance and can be pinned in different sizes on any Home Screen page”.",
+    "The WWDC 2020 summary slide for iOS 14 shows the widgets in one of its tiles ([slide](ref:apple-wwdc-2020-ios-14-summary-slide))."
+  ],
+  "observed": [
+    "An iPhone shows a Home Screen over an orange, red, blue, and grey wallpaper of large curved shapes.",
+    "Three widgets sit in the icon grid: a black Activity widget the size of four icons, a Photos widget of the same size with a portrait and the white condensed words “FRIENDS Sep 10, 2019”, and a white Music widget with an album cover.",
+    "The widgets have the same large corner radius as the app icons, scaled up, and they line up with the icon rows and columns.",
+    "The Activity widget sets its figures large in three colors on black: “375/500CAL” in red, “19/30MIN” in yellow-green, and “4/12HRS” in cyan."
+  ],
+  "interpretation": [
+    "Widgets in fixed multiples of the icon cell are a bento grid in miniature, and Apple shipped them on every iPhone two years before the name spread. Interpretation: no source in this record says that the widgets inspired the web trend."
+  ],
+  "borrow": [
+    "Size tiles as whole multiples of one base cell (1 × 1, 2 × 2, 4 × 2), so that any mix of tiles lines up.",
+    "Give a status tile a dark fill and set its figures large in a few signal colors."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple press image and software; copyrighted by Apple Inc. No image is stored here."
+  }
+}

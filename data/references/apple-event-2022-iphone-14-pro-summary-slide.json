@@ -1,0 +1,57 @@
+{
+  "id": "apple-event-2022-iphone-14-pro-summary-slide",
+  "title": "Apple Event September 2022: iPhone 14 Pro summary slide",
+  "type": "image",
+  "medium": "other",
+  "lede": "The dark version of Apple’s summary grid for iPhone 14 Pro, with a large product tile in the middle and violet gradient type.",
+  "summary": "Near-black rounded tiles on black around a large purple iPhone 14 Pro, with violet gradient headings. September 2022.",
+  "source": {
+    "url": "https://apple-summary-slides.vercel.app/events/apple-event-september-2022",
+    "label": "Apple Summary Slides (fan archive): Apple Event September 2022"
+  },
+  "creator": {
+    "name": "Apple Inc.",
+    "url": "https://www.apple.com/apple-events/"
+  },
+  "made": "2022-09-07 (Apple Event “Far out”)",
+  "moods": [
+    "premium",
+    "dramatic",
+    "confident"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1920 × 1080 WebP `[Apple Event September 2022]-[iPhone]-[iPhone 14 Pro].webp` from the fan archive [Apple Summary Slides](https://apple-summary-slides.vercel.app/events/apple-event-september-2022) (Ricky Zhang), which says that all images are screenshots of Apple event videos. The copy is a frame of the event video, not an Apple press file. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "bento-grid",
+      "note": "Clear: the dark variant of the core look, often cited as the model for the bento trend.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple introduced iPhone 14 Pro at its event on 7 September 2022. Deck.gallery lists the Apple Event Product Summary 2022 among four Apple bento decks ([Deck.gallery](https://www.deck.gallery/blog/apple-bento-grid-decks-roundup/))."
+  ],
+  "observed": [
+    "The ground is black and the tiles are a slightly lighter near-black, with large rounded corners and narrow even gutters.",
+    "About twenty tiles of different sizes fill the frame. The largest tile, in the center, shows the top of a deep purple iPhone 14 Pro with its camera, cropped by the tile edge.",
+    "Several key words are set large in bold type filled with a violet or blue gradient: “ProMotion”, “Always-On display”, “Ultra Wide”, “48MP”, “Action mode”.",
+    "Smaller tiles carry white labels with one image each: a green battery ring, a MagSafe charger, four phone colors, an A16 Bionic chip.",
+    "Numbers appear as large blue headings with white labels: “1600 nits”, “2000 nits”."
+  ],
+  "interpretation": [
+    "The dark slide shows that the look is not a color scheme. What stays the same as the light slides is the rounded tonal tile, the narrow gutter, the mixed sizes, and the one-fact-per-tile rule."
+  ],
+  "borrow": [
+    "On a dark ground, use tiles only a few steps lighter than the ground and keep color for the type and the product.",
+    "Fill the key word of a tile with the product color as a gradient."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Frame of an Apple event video; copyrighted by Apple Inc. The fan archive states “All rights reserved by Apple Inc.” No image is stored here."
+  }
+}

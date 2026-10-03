@@ -31,6 +31,11 @@
       "note": "Related branch, partial fit. It keeps the frosted, floating layer but adds refraction and specular edges, which the style’s rubric treats as a separate confusion.",
       "basis": "agent",
       "qualifier": "related branch"
+    },
+    {
+      "id": "liquid-glass",
+      "note": "Clear: Apple’s announcement of the design language that defines the style.",
+      "basis": "agent"
     }
   ],
   "context": [

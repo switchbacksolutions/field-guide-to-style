@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/rivers-derious-circus-handbill-1864.jpg",
+  "captured": "2026-10-03T01:51:35+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.503
+      },
+      {
+        "hex": "#efefef",
+        "share": 0.104
+      },
+      {
+        "hex": "#dedede",
+        "share": 0.059
+      },
+      {
+        "hex": "#121212",
+        "share": 0.044
+      },
+      {
+        "hex": "#c5c5c5",
+        "share": 0.03
+      },
+      {
+        "hex": "#d3d3d3",
+        "share": 0.027
+      },
+      {
+        "hex": "#676767",
+        "share": 0.027
+      },
+      {
+        "hex": "#7e7e7e",
+        "share": 0.026
+      },
+      {
+        "hex": "#515151",
+        "share": 0.024
+      },
+      {
+        "hex": "#b4b4b4",
+        "share": 0.024
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.0,
+    "lightness": 0.79,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 16,
+    "hues": 0
+  }
+}

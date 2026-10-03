@@ -1,0 +1,76 @@
+{
+  "id": "fords-theatre-playbill-our-american-cousin-1865",
+  "title": "Ford’s Theatre playbill for *Our American Cousin*, 14 April 1865",
+  "titleBreak": "Ford’s Theatre playbill|for *Our American Cousin*, 1865",
+  "type": "print",
+  "medium": "poster",
+  "lede": "The narrow playbill for the evening of Lincoln’s assassination stacks a dozen display faces, an arched line, and pointing hands down one centred column.",
+  "summary": "Tall theatre playbill with Tuscan, shaded, condensed, and slab lines on one axis. Washington, 1865.",
+  "source": {
+    "url": "https://www.loc.gov/item/rbpe.2040580c/",
+    "label": "Library of Congress, Printed Ephemera Collection: Ford’s Theatre … Friday evening, April 14th, 1865"
+  },
+  "creator": {
+    "name": "H. Polkinhorn & Son, printers, Washington (imprint)"
+  },
+  "made": "1865",
+  "moods": [
+    "theatrical",
+    "showy",
+    "busy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Library of Congress scan (rbpe 2040580c, Portfolio 204, Folder 58c; 1992 × 5165 px). LoC holds other copies of this playbill under other numbers, and some are later facsimiles, so details may differ between copies."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "victorian-typography",
+      "note": "A canonical playbill: centred lines, a new face for almost every line, pointing hands, rules, and a dotted cast list, in black on paper.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "LoC catalogues the bill as 1 p., 48 × 15 cm, Washington, 1865, in the Printed Ephemera Collection. [LoC rbpe.2040580c](https://www.loc.gov/item/rbpe.2040580c/).",
+    "The bill announces a benefit and the last night of Laura Keene in Tom Taylor’s *Our American Cousin* on Friday, 14 April 1865, the night Abraham Lincoln was shot at the theatre. The imprint reads “H. Polkinhorn & Son, Printers, D street, near 7th, Washington, D. C.”"
+  ],
+  "observed": [
+    "The bill is about three times as tall as it is wide, and every display line is centred.",
+    "“FORD’S THEATRE” is in a condensed slab capital; “BENEFIT!” in a shaded Tuscan with split serifs; “LAST NIGHT” in a wide sans-serif; “LAURA KEENE” and “COUSIN” in very tall condensed Tuscan-style letters.",
+    "“ONE THOUSAND NIGHTS,” is set on an arch, with a pointing hand on each side.",
+    "Short centred dashes frame “AND” and “OF MISS” as small connecting lines between big ones.",
+    "Thin and thick rules separate the sections. The cast list uses dotted leaders between role and actor.",
+    "“THE OCTOROON” at the foot uses a decorated outline face, and “EDWIN ADAMS” a wide shaded roman.",
+    "Black ink on white paper, with handwritten notes in the margin of this copy."
+  ],
+  "interpretation": [
+    "The playbill is the theatre form of the style: the star’s name and the play title get the largest and most unusual letters, and the small lines read as connectives between them.",
+    "The arched line shows that printers bent the strict horizontal grammar only for one short line, as an ornament."
+  ],
+  "borrow": [
+    "Give names and titles the largest lines, and set the joining words (“and”, “of”, “entitled”) small between them.",
+    "Use dotted leaders for a list of roles, prices, or times."
+  ],
+  "images": [
+    {
+      "file": "assets/references/fords-theatre-playbill-our-american-cousin-1865.jpg",
+      "alt": "Long narrow black-and-white playbill. Centred lines in many typefaces read Ford's Theatre, Benefit!, Last Night of Miss Laura Keene, One Thousand Nights on an arch between two pointing hands, Our American Cousin, a cast list with dotted leaders, The Octoroon, and Edwin Adams.",
+      "width": 617,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Ford’s Theatre playbill, Friday 14 April 1865. Library of Congress, Printed Ephemera Collection, [rbpe.2040580c](https://www.loc.gov/item/rbpe.2040580c/).",
+      "original": "https://tile.loc.gov/storage-services/service/rbc/rbpe/rbpe20/rbpe204/2040580c/001dr.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "The Library of Congress says that, with a few exceptions, it “is not aware of any U.S. copyright protection … or any other restrictions in the materials in the Printed Ephemera Collection.” The bill was published in the United States in 1865, so it is in the public domain."
+  },
+  "identifiers": {
+    "loc": "rbpe.2040580c"
+  }
+}

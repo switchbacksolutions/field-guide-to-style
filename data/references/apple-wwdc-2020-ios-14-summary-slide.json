@@ -1,0 +1,58 @@
+{
+  "id": "apple-wwdc-2020-ios-14-summary-slide",
+  "title": "Apple WWDC 2020: iOS 14 summary slide",
+  "type": "image",
+  "medium": "other",
+  "lede": "The keynote slide that summarizes iOS 14 as a grid of rounded dark tiles around a large gradient “iOS” tile.",
+  "summary": "Rounded dark grey tiles of many sizes on black, one feature each, around a central gradient iOS tile. WWDC 2020.",
+  "source": {
+    "url": "https://apple-summary-slides.vercel.app/events/wwdc-2020",
+    "label": "Apple Summary Slides (fan archive): Apple WWDC 2020"
+  },
+  "creator": {
+    "name": "Apple Inc.",
+    "url": "https://www.apple.com/apple-events/"
+  },
+  "made": "2020-06-22 (WWDC 2020 keynote)",
+  "moods": [
+    "organized",
+    "confident",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1920 × 1080 WebP `[WWDC 2020]-[iPhone]-[iOS 14].webp` from the fan archive [Apple Summary Slides](https://apple-summary-slides.vercel.app/events/wwdc-2020) (Ricky Zhang), which says that all images are screenshots of Apple event videos. The copy is a frame of the event video, not an Apple press file. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "bento-grid",
+      "note": "Clear and early: rounded tiles of many sizes fill one grid with even gutters, one feature per tile, with the main tile in the center.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Apple held WWDC 2020 online from 22 June 2020 and announced iOS 14 in the keynote. The fan archive files the slide under that event.",
+    "iOS 14 itself introduced home-screen widgets in small, medium, and large sizes; one tile of the slide shows them."
+  ],
+  "observed": [
+    "The ground is black. About fifteen tiles in dark grey fill the frame, with narrow even gutters and large rounded corners.",
+    "Tiles differ in size: a wide central tile, tall tiles at the right, and small squares at the left. The tiles line up on shared column and row edges.",
+    "The central tile is filled with an orange, pink, and violet gradient and carries a large white “iOS” in a bold sans-serif.",
+    "Each other tile shows one feature as an icon, an interface fragment, or a product illustration, with a short white label at the bottom: “Translate app”, “App Clips”, “Car keys”, “App Library”, “Widgets on the Home Screen”.",
+    "There are no outlines and no visible shadows. Tiles differ from the ground only by tone."
+  ],
+  "interpretation": [
+    "This slide already has every trait of the core look, two years before design articles named it. The dark tile on a black ground is the night version of the light grey slides that followed."
+  ],
+  "borrow": [
+    "Put the product name in the center tile and let feature tiles of mixed sizes surround it.",
+    "Label each tile with one short line at the bottom, centered under its picture."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Frame of an Apple event video; copyrighted by Apple Inc. The fan archive states “All rights reserved by Apple Inc.” No image is stored here."
+  }
+}

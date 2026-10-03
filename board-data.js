@@ -452,6 +452,113 @@ globalThis.styleHub = {
         "handmade"
       ],
       "status": "draft"
+    },
+    {
+      "id": "ukiyo-e",
+      "title": "Ukiyo-e",
+      "href": "ukiyo-e.html",
+      "moods": [
+        "calm",
+        "graphic",
+        "crafted",
+        "narrative",
+        "traditional"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "victorian-typography",
+      "title": "Victorian typography",
+      "href": "victorian-typography.html",
+      "moods": [
+        "loud",
+        "showy",
+        "nostalgic",
+        "theatrical",
+        "commercial",
+        "handmade"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "brutalist-web-design",
+      "title": "Brutalist web design",
+      "href": "brutalist-web-design.html",
+      "moods": [
+        "raw",
+        "honest",
+        "plain",
+        "utilitarian",
+        "contrarian"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "liquid-glass",
+      "title": "Liquid Glass",
+      "href": "liquid-glass.html",
+      "moods": [
+        "luminous",
+        "liquid",
+        "layered",
+        "premium",
+        "dynamic"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "risograph",
+      "title": "Risograph",
+      "href": "risograph.html",
+      "moods": [
+        "handmade",
+        "playful",
+        "vibrant",
+        "indie",
+        "tactile"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "ulm-school",
+      "title": "Ulm School",
+      "href": "ulm-school.html",
+      "moods": [
+        "calm",
+        "precise",
+        "restrained",
+        "rational",
+        "quiet"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "acid-graphics",
+      "title": "Acid graphics",
+      "href": "acid-graphics.html",
+      "moods": [
+        "dystopian",
+        "hedonistic",
+        "cynical",
+        "loud",
+        "nocturnal",
+        "futuristic",
+        "underground"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "bento-grid",
+      "title": "Bento grid",
+      "href": "bento-grid.html",
+      "moods": [
+        "organized",
+        "premium",
+        "confident",
+        "calm",
+        "modern"
+      ],
+      "status": "draft"
     }
   ],
   "references": [
@@ -660,7 +767,8 @@ globalThis.styleHub = {
       "type": "website",
       "medium": "website",
       "styles": [
-        "neo-brutalism"
+        "neo-brutalism",
+        "brutalist-web-design"
       ],
       "status": "observed"
     },
@@ -1023,7 +1131,8 @@ globalThis.styleHub = {
       "type": "object",
       "medium": "signage",
       "styles": [
-        "international-typographic-style"
+        "international-typographic-style",
+        "ulm-school"
       ],
       "status": "observed"
     },
@@ -1133,7 +1242,8 @@ globalThis.styleHub = {
       "type": "website",
       "medium": "editorial",
       "styles": [
-        "neo-brutalism"
+        "neo-brutalism",
+        "brutalist-web-design"
       ],
       "status": "documented"
     },
@@ -1695,7 +1805,8 @@ globalThis.styleHub = {
       "type": "product",
       "medium": "operating-system",
       "styles": [
-        "glassmorphism"
+        "glassmorphism",
+        "liquid-glass"
       ],
       "status": "observed"
     },
@@ -1706,7 +1817,8 @@ globalThis.styleHub = {
       "type": "product",
       "medium": "operating-system",
       "styles": [
-        "glassmorphism"
+        "glassmorphism",
+        "liquid-glass"
       ],
       "status": "observed"
     },
@@ -1883,7 +1995,8 @@ globalThis.styleHub = {
       "type": "object",
       "medium": "product",
       "styles": [
-        "skeuomorphism"
+        "skeuomorphism",
+        "ulm-school"
       ],
       "status": "documented"
     },
@@ -4728,7 +4841,8 @@ globalThis.styleHub = {
       "type": "product",
       "medium": "operating-system",
       "styles": [
-        "flat-design"
+        "flat-design",
+        "bento-grid"
       ],
       "status": "observed"
     },
@@ -4761,7 +4875,8 @@ globalThis.styleHub = {
       "type": "product",
       "medium": "operating-system",
       "styles": [
-        "flat-design"
+        "flat-design",
+        "bento-grid"
       ],
       "status": "documented"
     },
@@ -4832,6 +4947,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "lincoln-assassination-reward-broadside-1865",
+      "title": "“$100,000 Reward! The Murderer of our late beloved President” broadside",
+      "href": "references/lincoln-assassination-reward-broadside-1865.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "victorian-typography"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "goldberg-flegal-pixel-art-letter-1982",
       "title": "“ACM President’s Letter: Pixel Art” (Goldberg and Flegal, 1982)",
       "href": "references/goldberg-flegal-pixel-art-letter-1982.html",
@@ -4850,6 +4976,40 @@ globalThis.styleHub = {
       "medium": "editorial",
       "styles": [
         "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mccauley-dry-goods-auction-broadside-1862",
+      "title": "“Large Stock of Dry Goods at Auction!” broadside",
+      "href": "references/mccauley-dry-goods-auction-broadside-1862.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "victorian-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "douglass-men-of-color-broadside-1863",
+      "title": "“Men of Color, To Arms! To Arms!” recruiting broadside",
+      "href": "references/douglass-men-of-color-broadside-1863.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "victorian-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ulm-journal-hfg-1958-1968",
+      "title": "“ulm”, journal of the Hochschule für Gestaltung, 1958–1968",
+      "href": "references/ulm-journal-hfg-1958-1968.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "ulm-school",
+        "international-typographic-style"
       ],
       "status": "observed"
     },
@@ -4898,6 +5058,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "adobe-brutalist-web-designers-article-2016",
+      "title": "Adobe Blog, “Brutalist Web Designers Eschew Rules for UX Best Practices”",
+      "href": "references/adobe-brutalist-web-designers-article-2016.html",
+      "type": "website",
+      "medium": "editorial",
+      "styles": [
+        "brutalist-web-design"
+      ],
+      "status": "documented"
+    },
+    {
       "id": "akira-film-1988",
       "title": "Akira",
       "href": "references/akira-film-1988.html",
@@ -4909,6 +5080,138 @@ globalThis.styleHub = {
       "status": "documented"
     },
     {
+      "id": "kaiser-balance-siren-poster-2017",
+      "title": "Anja Kaiser, Balance presents Siren poster, Club Culture Festival 2017",
+      "href": "references/kaiser-balance-siren-poster-2017.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "acid-graphics"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kaiser-cry-baby-poster",
+      "title": "Anja Kaiser, Cry Baby club poster, Institut fuer Zukunft",
+      "href": "references/kaiser-cry-baby-poster.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "acid-graphics"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "apple-event-2019-iphone-11-pro-display-slide",
+      "title": "Apple Event September 2019: iPhone 11 Pro display slide",
+      "href": "references/apple-event-2019-iphone-11-pro-display-slide.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "bento-grid"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "apple-event-2022-apple-watch-ultra-summary-slide",
+      "title": "Apple Event September 2022: Apple Watch Ultra summary slide",
+      "href": "references/apple-event-2022-apple-watch-ultra-summary-slide.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "bento-grid"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "apple-event-2022-iphone-14-pro-summary-slide",
+      "title": "Apple Event September 2022: iPhone 14 Pro summary slide",
+      "href": "references/apple-event-2022-iphone-14-pro-summary-slide.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "bento-grid"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "apple-hig-materials-liquid-glass",
+      "title": "Apple Human Interface Guidelines: Materials (Liquid Glass)",
+      "href": "references/apple-hig-materials-liquid-glass.html",
+      "type": "website",
+      "medium": "other",
+      "styles": [
+        "liquid-glass"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "apple-icon-composer-2025",
+      "title": "Apple Icon Composer",
+      "href": "references/apple-icon-composer-2025.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "liquid-glass"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "apple-music-macos-tahoe-26-2025",
+      "title": "Apple Music on macOS Tahoe 26",
+      "href": "references/apple-music-macos-tahoe-26-2025.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "liquid-glass"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "apple-wwdc-2020-ios-14-summary-slide",
+      "title": "Apple WWDC 2020: iOS 14 summary slide",
+      "href": "references/apple-wwdc-2020-ios-14-summary-slide.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "bento-grid"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "apple-wwdc-2022-ios-16-summary-slide",
+      "title": "Apple WWDC 2022: iOS 16 summary slide",
+      "href": "references/apple-wwdc-2022-ios-16-summary-slide.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "bento-grid"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "apple-wwdc-2022-m2-chip-summary-slide",
+      "title": "Apple WWDC 2022: M2 chip summary slide",
+      "href": "references/apple-wwdc-2022-m2-chip-summary-slide.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "bento-grid"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "asdf-graphics-acid-font",
+      "title": "ASDF Graphics, “Acid Font – Acid Graphics Typography”",
+      "href": "references/asdf-graphics-acid-font.html",
+      "type": "object",
+      "medium": "typeface",
+      "styles": [
+        "acid-graphics"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "astro-motel-sign-fresno",
       "title": "Astro Motel sign, Fresno",
       "href": "references/astro-motel-sign-fresno.html",
@@ -4916,6 +5219,17 @@ globalThis.styleHub = {
       "medium": "signage",
       "styles": [
         "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "bento-me-link-in-bio-app-2023",
+      "title": "Bento (bento.me) link-in-bio pages",
+      "href": "references/bento-me-link-in-bio-app-2023.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "bento-grid"
       ],
       "status": "observed"
     },
@@ -4949,6 +5263,83 @@ globalThis.styleHub = {
       "medium": "architecture",
       "styles": [
         "solarpunk"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "braun-cosmolux-sun-lamp-1964",
+      "title": "Braun Cosmolux sun lamp, 1964",
+      "href": "references/braun-cosmolux-sun-lamp-1964.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "ulm-school"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "braun-m140-food-mixer",
+      "title": "Braun M 140 hand mixer, 1960s",
+      "href": "references/braun-m140-food-mixer.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "ulm-school"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "braun-rt20-radio-1963",
+      "title": "Braun RT 20 table radio, 1963",
+      "href": "references/braun-rt20-radio-1963.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "ulm-school"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "braun-sk55-phonosuper-1956",
+      "title": "Braun SK 55 Phonosuper radiogram, 1956",
+      "href": "references/braun-sk55-phonosuper-1956.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "ulm-school"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "braun-t1000-world-receiver-1963",
+      "title": "Braun T 1000 world receiver, 1963",
+      "href": "references/braun-t1000-world-receiver-1963.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "ulm-school"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "brutal-wordpress-theme-2016",
+      "title": "Brutal theme (WordPress)",
+      "href": "references/brutal-wordpress-theme-2016.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "brutalist-web-design"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "brutalist-pelican-theme",
+      "title": "Brutalist (Pelican theme)",
+      "href": "references/brutalist-pelican-theme.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "brutalist-web-design"
       ],
       "status": "documented"
     },
@@ -4997,6 +5388,50 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "oorloff-pleasure-planet-pure-romance",
+      "title": "Darren Oorloff, Pleasure Planet “Pure Romance” artwork",
+      "href": "references/oorloff-pleasure-planet-pure-romance.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "acid-graphics"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "copeland-brutalist-web-design-guidelines",
+      "title": "David Bryant Copeland, “Guidelines for Brutalist Web Design”",
+      "href": "references/copeland-brutalist-web-design-guidelines.html",
+      "type": "website",
+      "medium": "editorial",
+      "styles": [
+        "brutalist-web-design"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "rudnick-turbo-warehouse-series-sleeve",
+      "title": "David Rudnick, Turbo Warehouse Series compilation sleeve",
+      "href": "references/rudnick-turbo-warehouse-series-sleeve.html",
+      "type": "print",
+      "medium": "packaging",
+      "styles": [
+        "acid-graphics"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "rudnick-turbo-warehouse-series-sei-a-poster",
+      "title": "David Rudnick, Turbo Warehouse Series poster for Sei A",
+      "href": "references/rudnick-turbo-warehouse-series-sei-a-poster.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "acid-graphics"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "dawnlike-tileset-2014",
       "title": "DawnLike 16 × 16 roguelike tileset",
       "href": "references/dawnlike-tileset-2014.html",
@@ -5026,6 +5461,17 @@ globalThis.styleHub = {
       "medium": "illustration",
       "styles": [
         "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "rams-rz62-armchair-1962",
+      "title": "Dieter Rams, RZ 62 armchair, 1962",
+      "href": "references/rams-rz62-armchair-1962.html",
+      "type": "object",
+      "medium": "furniture",
+      "styles": [
+        "ulm-school"
       ],
       "status": "observed"
     },
@@ -5096,6 +5542,50 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "fords-theatre-playbill-our-american-cousin-1865",
+      "title": "Ford’s Theatre playbill for *Our American Cousin*, 14 April 1865",
+      "href": "references/fords-theatre-playbill-our-american-cousin-1865.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "victorian-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "french-clarendon-wood-type-hamilton-museum",
+      "title": "French Clarendon wood type at the Hamilton Wood Type & Printing Museum",
+      "href": "references/french-clarendon-wood-type-hamilton-museum.html",
+      "type": "object",
+      "medium": "typeface",
+      "styles": [
+        "victorian-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "frontend-mentor-bento-grid-challenge-2024",
+      "title": "Frontend Mentor “Bento grid” challenge design",
+      "href": "references/frontend-mentor-bento-grid-challenge-2024.html",
+      "type": "image",
+      "medium": "website",
+      "styles": [
+        "bento-grid"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "cetrl-garden-party-micro-edition-2022",
+      "title": "Garden Party, riso-printed micro-edition",
+      "href": "references/cetrl-garden-party-micro-edition-2022.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "risograph"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "ghost-in-the-shell-film-1995",
       "title": "Ghost in the Shell",
       "href": "references/ghost-in-the-shell-film-1995.html",
@@ -5136,6 +5626,28 @@ globalThis.styleHub = {
       "medium": "illustration",
       "styles": [
         "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "gugelot-kodak-carousel-s-1963",
+      "title": "Hans Gugelot, Kodak Carousel S slide projector, 1963",
+      "href": "references/gugelot-kodak-carousel-s-1963.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "ulm-school"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "harunobu-evening-snow-on-a-floss-shaper-1766",
+      "title": "Harunobu, Evening Snow on a Floss Shaper",
+      "href": "references/harunobu-evening-snow-on-a-floss-shaper-1766.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "ukiyo-e"
       ],
       "status": "observed"
     },
@@ -5184,6 +5696,61 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "hiroshige-mitsumata-wakarenofuchi-1857",
+      "title": "Hiroshige, Mitsumata Wakarenofuchi",
+      "href": "references/hiroshige-mitsumata-wakarenofuchi-1857.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "ukiyo-e"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hiroshige-sudden-shower-over-shin-ohashi-1857",
+      "title": "Hiroshige, Sudden Shower over Shin-Ōhashi Bridge and Atake",
+      "href": "references/hiroshige-sudden-shower-over-shin-ohashi-1857.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "ukiyo-e"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hfg-ulm-building-1955",
+      "title": "Hochschule für Gestaltung building, Ulm",
+      "href": "references/hfg-ulm-building-1955.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "ulm-school"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hokusai-south-wind-clear-sky-red-fuji-1830s",
+      "title": "Hokusai, South Wind, Clear Sky (Red Fuji)",
+      "href": "references/hokusai-south-wind-clear-sky-red-fuji-1830s.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "ukiyo-e"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hokusai-under-the-wave-off-kanagawa-1830",
+      "title": "Hokusai, Under the Wave off Kanagawa (The Great Wave)",
+      "href": "references/hokusai-under-the-wave-off-kanagawa-1830.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "ukiyo-e"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "holiday-bowl-coffee-shop-los-angeles",
       "title": "Holiday Bowl coffee shop, Los Angeles",
       "href": "references/holiday-bowl-coffee-shop-los-angeles.html",
@@ -5207,6 +5774,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "hyper-scrypt-typeface-2018",
+      "title": "Hyper Scrypt typeface, Velvetyne",
+      "href": "references/hyper-scrypt-typeface-2018.html",
+      "type": "object",
+      "medium": "typeface",
+      "styles": [
+        "acid-graphics"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "marinetti-le-soir-couchee-dans-son-lit-1919",
       "title": "In the Evening, Lying on Her Bed, She Reread the Letter from Her Artilleryman at the Front",
       "href": "references/marinetti-le-soir-couchee-dans-son-lit-1919.html",
@@ -5225,6 +5803,94 @@ globalThis.styleHub = {
       "medium": "product",
       "styles": [
         "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ios-14-home-screen-widgets-2020",
+      "title": "iOS 14 Home Screen widgets",
+      "href": "references/ios-14-home-screen-widgets-2020.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "bento-grid"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ios-26-home-screen-2025",
+      "title": "iOS 26 Home Screen",
+      "href": "references/ios-26-home-screen-2025.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "liquid-glass"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "smith-rieger-lotus-artwork",
+      "title": "Jack Smith and Jeremy Rieger, “Lotus” artwork",
+      "href": "references/smith-rieger-lotus-artwork.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "acid-graphics"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "doornenbal-fort-zuid-wilgen-risoprint-2025",
+      "title": "Jan-Willem Doornenbal, Riso Fort Zuid Wilgen",
+      "href": "references/doornenbal-fort-zuid-wilgen-risoprint-2025.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "risograph"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "doornenbal-meerpaaltjes-risoprint-2024",
+      "title": "Jan-Willem Doornenbal, Risoprint Meerpaaltjes",
+      "href": "references/doornenbal-meerpaaltjes-risoprint-2024.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "risograph"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "artlung-cube-cats-drink-riso-print-2020",
+      "title": "Joe Crawford (artlung), Cube Cat’s Drink",
+      "href": "references/artlung-cube-cats-drink-riso-print-2020.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "risograph"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "castro-skechers-china-chrome-lettering",
+      "title": "Jonathan Castro, lettering for a Skechers China project",
+      "href": "references/castro-skechers-china-chrome-lettering.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "acid-graphics"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ballmann-pppanik-liquid-chrome-numerals",
+      "title": "Julia Ballmann, “Pppanik” liquid-chrome numerals",
+      "href": "references/ballmann-pppanik-liquid-chrome-numerals.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "acid-graphics"
       ],
       "status": "observed"
     },
@@ -5317,6 +5983,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "kuniyoshi-splendid-view-at-futamigaura-1854",
+      "title": "Kuniyoshi, Splendid View at Futamigaura Bay (triptych)",
+      "href": "references/kuniyoshi-splendid-view-at-futamigaura-1854.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "ukiyo-e"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "schwitters-anna-blume-dichtungen-1919",
       "title": "Kurt Schwitters, Anna Blume. Dichtungen, 1919 (cover)",
       "href": "references/schwitters-anna-blume-dichtungen-1919.html",
@@ -5346,6 +6023,116 @@ globalThis.styleHub = {
       "medium": "illustration",
       "styles": [
         "pixel-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "liquid-glass-icon-effect-2025-2026-comparison",
+      "title": "Liquid Glass 3D effect for icons, 2025 and 2026 versions",
+      "href": "references/liquid-glass-icon-effect-2025-2026-comparison.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "liquid-glass"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "apple-os-27-liquid-glass-revision-2026",
+      "title": "Liquid Glass revision in iOS 27 and macOS 27",
+      "href": "references/apple-os-27-liquid-glass-revision-2026.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "liquid-glass"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "liquid-glass-renderer-flutter-shapes-2025",
+      "title": "liquid_glass_renderer: glass shapes demo",
+      "href": "references/liquid-glass-renderer-flutter-shapes-2025.html",
+      "type": "image",
+      "medium": "software",
+      "styles": [
+        "liquid-glass"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "liquid-glass-react-library-2025",
+      "title": "liquid-glass-react",
+      "href": "references/liquid-glass-react-library-2025.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "liquid-glass"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "liquidgl-library-naughtyduk",
+      "title": "liquidGL",
+      "href": "references/liquidgl-library-naughtyduk.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "liquid-glass"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "macos-tahoe-26-control-center-2025",
+      "title": "macOS Tahoe 26 Control Center",
+      "href": "references/macos-tahoe-26-control-center-2025.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "liquid-glass"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "magic-ui-bento-grid-component",
+      "title": "Magic UI Bento Grid component",
+      "href": "references/magic-ui-bento-grid-component.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "bento-grid"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mario-felipe-mano-vs-regla-book-2015",
+      "title": "Mario Felipe, Mano V/S Regla",
+      "href": "references/mario-felipe-mano-vs-regla-book-2015.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "risograph"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mario-felipe-two-colour-chairs-print-2014",
+      "title": "Mario Felipe, two-color riso print of chairs",
+      "href": "references/mario-felipe-two-colour-chairs-print-2014.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "risograph"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "bill-junghans-kitchen-clock-1956",
+      "title": "Max Bill, Junghans kitchen clock with timer, 1956",
+      "href": "references/bill-junghans-kitchen-clock-1956.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "ulm-school"
       ],
       "status": "observed"
     },
@@ -5405,6 +6192,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "ncsa-mosaic-browser-1993",
+      "title": "NCSA Mosaic (web browser)",
+      "href": "references/ncsa-mosaic-browser-1993.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "brutalist-web-design"
+      ],
+      "status": "documented"
+    },
+    {
       "id": "neko-atsume-app-2014",
       "title": "Neko Atsume: Kitty Collector",
       "href": "references/neko-atsume-app-2014.html",
@@ -5449,6 +6247,50 @@ globalThis.styleHub = {
       "status": "documented"
     },
     {
+      "id": "nngroup-brutalism-antidesign-article-2017",
+      "title": "NN/g, “Brutalism and Antidesign”",
+      "href": "references/nngroup-brutalism-antidesign-article-2017.html",
+      "type": "website",
+      "medium": "editorial",
+      "styles": [
+        "brutalist-web-design"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "no-style-please-jekyll-theme",
+      "title": "no style, please! (Jekyll theme)",
+      "href": "references/no-style-please-jekyll-theme.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "brutalist-web-design"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "aicher-vh-ulm-weltliteratur-poster-1956",
+      "title": "Otl Aicher, Ulm Volkshochschule poster “Realistische Weltliteratur der Gegenwart”, 1956",
+      "href": "references/aicher-vh-ulm-weltliteratur-poster-1956.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "ulm-school"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "barnum-american-museum-handbill-1845",
+      "title": "P. T. Barnum’s American Museum handbill, January 1845",
+      "href": "references/barnum-american-museum-handbill-1845.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "victorian-typography"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "marinetti-premier-record-1916",
       "title": "Parole in libertà (premier record)",
       "href": "references/marinetti-premier-record-1916.html",
@@ -5482,6 +6324,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "pilowlava-typeface-2019",
+      "title": "Pilowlava typeface, Velvetyne",
+      "href": "references/pilowlava-typeface-2019.html",
+      "type": "object",
+      "medium": "typeface",
+      "styles": [
+        "acid-graphics"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "pixel-dungeon-2012",
       "title": "Pixel Dungeon",
       "href": "references/pixel-dungeon-2012.html",
@@ -5489,6 +6342,28 @@ globalThis.styleHub = {
       "medium": "software",
       "styles": [
         "pixel-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "plusea-pifpack-riso-poster-2016",
+      "title": "Plusea, PIFpack riso poster",
+      "href": "references/plusea-pifpack-riso-poster-2016.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "risograph"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "risograph-demo-poster-2015",
+      "title": "Poster for a Risograph demo",
+      "href": "references/risograph-demo-poster-2015.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "risograph"
       ],
       "status": "observed"
     },
@@ -5502,6 +6377,50 @@ globalThis.styleHub = {
         "pixel-art"
       ],
       "status": "observed"
+    },
+    {
+      "id": "stuck-indoors-2-riso-zine-page-2020",
+      "title": "Riso zine page, “stuck indoors 2”",
+      "href": "references/stuck-indoors-2-riso-zine-page-2020.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "risograph"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "risograph-rz670-duplicator-nagoya-2021",
+      "title": "Risograph RZ670 duplicator",
+      "href": "references/risograph-rz670-duplicator-nagoya-2021.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "risograph"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "rivers-derious-circus-handbill-1864",
+      "title": "Rivers & Derious’ Combination Circus handbill",
+      "href": "references/rivers-derious-circus-handbill-1864.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "victorian-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kelly-american-wood-type-1828-1900-book",
+      "title": "Rob Roy Kelly, *American Wood Type, 1828–1900*",
+      "href": "references/kelly-american-wood-type-1828-1900-book.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "victorian-typography"
+      ],
+      "status": "documented"
     },
     {
       "id": "joes-liquors-roto-sphere-memphis",
@@ -5526,6 +6445,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "sharaku-otani-oniji-iii-as-edobei-1794",
+      "title": "Sharaku, The Actor Ōtani Oniji III as Edobei",
+      "href": "references/sharaku-otani-oniji-iii-as-edobei-1794.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "ukiyo-e"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "shinjuku-ogado-rain-night-2020",
       "title": "Shinjuku Ōgādo in the rain at night",
       "href": "references/shinjuku-ogado-rain-night-2020.html",
@@ -5533,6 +6463,17 @@ globalThis.styleHub = {
       "medium": "photograph",
       "styles": [
         "cyberpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "shunsho-three-beauties-by-a-veranda-1792",
+      "title": "Shunshō, Three Beauties Chatting by a Veranda",
+      "href": "references/shunsho-three-beauties-by-a-veranda-1792.html",
+      "type": "image",
+      "medium": "painting",
+      "styles": [
+        "ukiyo-e"
       ],
       "status": "observed"
     },
@@ -5546,6 +6487,17 @@ globalThis.styleHub = {
         "pixel-art"
       ],
       "status": "observed"
+    },
+    {
+      "id": "smashing-split-personality-brutalist-web-2020",
+      "title": "Smashing Magazine, “The Split Personality of Brutalist Web Development”",
+      "href": "references/smashing-split-personality-brutalist-web-2020.html",
+      "type": "website",
+      "medium": "editorial",
+      "styles": [
+        "brutalist-web-design"
+      ],
+      "status": "documented"
     },
     {
       "id": "lemonaut-solarpunk-community-center-2024",
@@ -5658,6 +6610,17 @@ globalThis.styleHub = {
       "status": "documented"
     },
     {
+      "id": "studio-cryo-drumstation-eternia-poster-2018",
+      "title": "Studio Cryo, Drumstation vs. Eternia poster, Cross Club 2018",
+      "href": "references/studio-cryo-drumstation-eternia-poster-2018.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "acid-graphics"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "gardens-by-the-bay-supertree-grove",
       "title": "Supertree Grove, Gardens by the Bay",
       "href": "references/gardens-by-the-bay-supertree-grove.html",
@@ -5746,6 +6709,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "theatre-royal-birmingham-playbill-1845",
+      "title": "Theatre Royal, Birmingham, playbill for *The Dragon of Wantley* pantomime",
+      "href": "references/theatre-royal-birmingham-playbill-1845.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "victorian-typography"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "theme-building-lax",
       "title": "Theme Building, Los Angeles International Airport",
       "href": "references/theme-building-lax.html",
@@ -5753,6 +6727,28 @@ globalThis.styleHub = {
       "medium": "architecture",
       "styles": [
         "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "thorowgood-egyptian-specimen-1825",
+      "title": "Thorowgood specimen of Egyptian types, 1825",
+      "href": "references/thorowgood-egyptian-specimen-1825.html",
+      "type": "print",
+      "medium": "type-specimen",
+      "styles": [
+        "victorian-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "toyokuni-danjuro-vii-fan-print-1816",
+      "title": "Toyokuni I, Ichikawa Danjūrō VII as Fujiwara no Shihei (fan print)",
+      "href": "references/toyokuni-danjuro-vii-fan-print-1816.html",
+      "type": "print",
+      "medium": "other",
+      "styles": [
+        "ukiyo-e"
       ],
       "status": "observed"
     },
@@ -5768,6 +6764,17 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "ulm-stool-1954",
+      "title": "Ulm stool (Ulmer Hocker), 1954",
+      "href": "references/ulm-stool-1954.html",
+      "type": "object",
+      "medium": "furniture",
+      "styles": [
+        "ulm-school"
+      ],
+      "status": "observed"
+    },
+    {
       "id": "boccioni-unique-forms-of-continuity-in-space-1913",
       "title": "Unique Forms of Continuity in Space",
       "href": "references/boccioni-unique-forms-of-continuity-in-space-1913.html",
@@ -5775,6 +6782,28 @@ globalThis.styleHub = {
       "medium": "other",
       "styles": [
         "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "utamaro-picture-book-of-selected-insects-1788",
+      "title": "Utamaro, Picture Book of Selected Insects (Ehon mushi erabi)",
+      "href": "references/utamaro-picture-book-of-selected-insects-1788.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "ukiyo-e"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "utamaro-flirtatious-type-physiognomy-of-women-1793",
+      "title": "Utamaro, The Flirtatious Type, from Ten Types in the Physiognomy of Women",
+      "href": "references/utamaro-flirtatious-type-physiognomy-of-women-1793.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "ukiyo-e"
       ],
       "status": "observed"
     },
@@ -5791,6 +6820,28 @@ globalThis.styleHub = {
       "status": "observed"
     },
     {
+      "id": "hachmang-trailer-min-expo-riso-poster-2014",
+      "title": "Viktor Hachmang, poster for Trailer/Min Expo",
+      "href": "references/hachmang-trailer-min-expo-riso-poster-2014.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "risograph"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "css2-default-style-sheet-for-html",
+      "title": "W3C CSS 2, Appendix D: “Default style sheet for HTML 4”",
+      "href": "references/css2-default-style-sheet-for-html.html",
+      "type": "website",
+      "medium": "other",
+      "styles": [
+        "brutalist-web-design"
+      ],
+      "status": "documented"
+    },
+    {
       "id": "welcome-to-fabulous-las-vegas-sign",
       "title": "Welcome to Fabulous Las Vegas sign",
       "href": "references/welcome-to-fabulous-las-vegas-sign.html",
@@ -5798,6 +6849,50 @@ globalThis.styleHub = {
       "medium": "signage",
       "styles": [
         "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "whatwg-html-rendering-defaults",
+      "title": "WHATWG HTML Living Standard, “Rendering”",
+      "href": "references/whatwg-html-rendering-defaults.html",
+      "type": "website",
+      "medium": "other",
+      "styles": [
+        "brutalist-web-design"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "wikipedia-ios-app-8-tab-bar-2026",
+      "title": "Wikipedia iOS app 8.0 on iOS 26",
+      "href": "references/wikipedia-ios-app-8-tab-bar-2026.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "liquid-glass"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "page-chromatic-wood-type-specimens-1874",
+      "title": "Wm. H. Page & Co., *Specimens of Chromatic Wood Type, Borders, &c.*",
+      "href": "references/page-chromatic-wood-type-specimens-1874.html",
+      "type": "print",
+      "medium": "type-specimen",
+      "styles": [
+        "victorian-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "worldwideweb-browser-first-website-1990",
+      "title": "WorldWideWeb browser and the first website (CERN)",
+      "href": "references/worldwideweb-browser-first-website-1990.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "brutalist-web-design"
       ],
       "status": "observed"
     },

@@ -1,0 +1,60 @@
+{
+  "id": "braun-sk55-phonosuper-1956",
+  "title": "Braun SK 55 Phonosuper radiogram, 1956",
+  "type": "object",
+  "medium": "product",
+  "lede": "Hans Gugelot and Dieter Rams’s radio-phonograph for Braun: a white metal box between wooden ends, under a clear acrylic lid, the type nicknamed “Snow White’s coffin”.",
+  "summary": "White metal top and front, wooden end panels, a clear acrylic lid, and slotted speaker grilles. Gugelot and Rams for Braun, 1956.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O168285/",
+    "label": "Victoria and Albert Museum, W.51-1978"
+  },
+  "creator": {
+    "name": "Dieter Rams and Hans Gugelot, designers; Braun AG, manufacturer"
+  },
+  "made": "1956",
+  "moods": [
+    "calm",
+    "precise",
+    "rational"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A’s primary image 2006AC4504 of object W.51-1978 at 1600 × 1373 px, through the V&A IIIF service. The record names the model SK55. Other copies of the SK 4 family differ in details."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ulm-school",
+      "note": "The founding object of the Braun program and the Ulm collaboration: a plain white housing, slotted grilles, and controls set out in rows.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A record names the object “Phonosuper, radiogram, SK55” with the other title “Schneewittchensarg (snow white coffin)”, dates it 1956, credits Dieter Rams and Hans Gugelot as designers and Braun AG as manufacturer, and gives metal, wood, and acrylic plastic, 24 × 58 × 29 cm. [V&A W.51-1978](https://collections.vam.ac.uk/item/O168285/).",
+    "The HfG-Archiv says the SK 4 of 1956, developed by Gugelot with Rams and HfG staff, became “an icon of West German post-war design” as the “Snow White Coffin”. [HfG-Archiv](https://hfg-archiv.museumulm.de/en/exhibition/hans-gugelot-100-en/)."
+  ],
+  "observed": [
+    "The top deck and the front are white or very light grey metal. Two end panels are pale wood with visible grain.",
+    "A clear, flat acrylic lid spans the two wooden ends and is propped open on a thin metal stay.",
+    "The front carries three rectangular fields of thin horizontal slots for the speakers. There is no other texture.",
+    "The turntable sits in a recessed square plate on the left. On the right, three small black knobs, a row of five black piano keys, and a small white dial with a red dot sit on one axis beside a narrow tuning scale.",
+    "A small lowercase “braun” logo sits above the knobs. Edges are crisp, with only a slight rounding."
+  ],
+  "interpretation": [
+    "The object replaces the wooden radio cabinet with a white instrument box. Wood stays only as two end planes, so the white face, the slots, and the controls carry the design."
+  ],
+  "borrow": [
+    "Group controls into one ordered block and leave the rest of the surface plain.",
+    "Use a field of parallel slots as the only texture on a large white panel."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Image © Victoria and Albert Museum, London. The V&A allows non-commercial use of its images under its own terms, not an open license. The design is by living or recently deceased designers. No image is stored."
+  },
+  "identifiers": {
+    "vam": "O168285"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "worldwideweb-browser-first-website-1990",
+  "title": "WorldWideWeb browser and the first website (CERN)",
+  "type": "product",
+  "medium": "software",
+  "lede": "Tim Berners-Lee’s first browser and the CERN project page it displayed: the unstyled hypertext that web brutalism looks back to.",
+  "summary": "CERN, 1990–1991: black text on white, underlined links, a plain heading, and a two-column link list.",
+  "source": {
+    "url": "https://worldwideweb.cern.ch/browser/",
+    "label": "CERN, WorldWideWeb browser rebuild (2019)"
+  },
+  "creator": {
+    "name": "Tim Berners-Lee, CERN"
+  },
+  "made": "1990–1991 (browser and first pages); 2019 (CERN rebuild in a modern browser)",
+  "moods": [
+    "plain",
+    "utilitarian"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Opened Wikimedia Commons “[W3 First Website.png](https://commons.wikimedia.org/wiki/File:W3_First_Website.png)” (1366 × 655 px, uploaded 8 November 2021) with the Read tool on 2026-10-02. It shows the first project page, info.cern.ch/hypertext/WWW/TheProject.html, in CERN’s 2019 browser rebuild, not on original NeXT hardware. Also viewed “WorldWideWeb.1.png” (834 × 642 px), a screenshot of the original NeXTSTEP application’s panels."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "brutalist-web-design",
+      "note": "Lineage: the unintended original of the look. Smashing Magazine (2020) calls the first website an “inadvertent disciple”.",
+      "basis": "agent"
+    }
+  ],
+  "notice": "This is a lineage reference. The page was plain because early HTML had no styling, not by choice. Its sans-serif rendering comes from NeXTSTEP, not from later browser defaults.",
+  "context": [
+    "[Smashing Magazine (2020)](ref:smashing-split-personality-brutalist-web-2020) names the first website as the first example of raw-HTML brutalism.",
+    "Commons tags both screenshots as public domain because “the whole project was released into the public domain in 1993”, citing CERN document record 1164399. That record was behind a bot check on 2026-10-02 and was not read. The NeXTSTEP screenshot itself shows “Copyright 1990,91,93,94, TBL, CERN. Distribution restricted: ask for terms.”"
+  ],
+  "observed": [
+    "In the rebuild, a white document window with a black title bar sits on a dark gray desktop beside a gray menu column (Info, Navigate, Document, Edit, Links, Style, Print).",
+    "The page has a bold, centered sans-serif heading, “World Wide Web”, and two indented paragraphs of black text.",
+    "Below them, a two-column list pairs underlined link titles (What’s out there?, Help, Software Products, Technical, Bibliography) with plain descriptions.",
+    "Links are black and underlined. There is no color, image, rule, or box on the page."
+  ],
+  "interpretation": [
+    "The first page already shows the core of [Brutalist web design](style:brutalist-web-design): structure carried only by headings, paragraphs, lists, and underlines. Blue links came later, with browsers such as [NCSA Mosaic](ref:ncsa-mosaic-browser-1993)."
+  ],
+  "borrow": [
+    "Write link text that says where the link goes, and put a one-line plain description next to it."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Commons tags the screenshots public domain, but the status of the depicted interface is unclear (see context). Viewed at the source; not stored."
+  }
+}

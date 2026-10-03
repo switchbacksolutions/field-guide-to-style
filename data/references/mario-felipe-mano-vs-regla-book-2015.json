@@ -1,0 +1,67 @@
+{
+  "id": "mario-felipe-mano-vs-regla-book-2015",
+  "title": "Mario Felipe, Mano V/S Regla",
+  "type": "print",
+  "medium": "book",
+  "lede": "A 36-page riso-printed artist’s book in an edition of 50, printed in one blue ink on cream and turquoise paper.",
+  "summary": "Riso artist’s book in blue ink on colored paper stocks, edition of 50.",
+  "source": {
+    "url": "https://www.flickr.com/photos/cuandoelsolexplote/22667887428/",
+    "label": "Flickr: Mario Felipe, “Mano Vs Regla | Book”"
+  },
+  "creator": {
+    "name": "Mario Felipe; published by Gran Negro Ediciones",
+    "url": "https://www.flickr.com/photos/cuandoelsolexplote/"
+  },
+  "made": "Spring 2015",
+  "moods": [
+    "quiet",
+    "handmade",
+    "minimal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the 1024 × 728 px Flickr “large” file of an open spread. A second photo shows the cover ([Flickr](https://www.flickr.com/photos/cuandoelsolexplote/23060245766/))."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "risograph",
+      "note": "Partial fit: one spot ink on colored stocks, with grainy screened photography. There is no overprint.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Flickr description says: “Editado por Gran Negro Ediciones … Impreso en Risografía. Edición de 50. 20,5 x 13,5 cm. 36 páginas. Primavera 2015.” It links to the author’s own online store."
+  ],
+  "observed": [
+    "A single bright blue ink prints on two paper colors: cream on the left page and turquoise on the right.",
+    "The left page has a hand-drawn line figure with dots at the corners.",
+    "The right page has a photograph of a hand, screened into fine grain, in the same blue.",
+    "The paper color changes the apparent color of the ink."
+  ],
+  "interpretation": [
+    "The book uses colored stock as a second “color” at no extra drum, a common riso economy."
+  ],
+  "borrow": [
+    "Change the page ground between sections and keep one ink, so the palette shifts without new colors."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mario-felipe-mano-vs-regla-book-2015.jpg",
+      "alt": "Two hands hold an open booklet. The left page is cream with a blue line drawing; the right page is turquoise with a grainy blue photograph of a hand.",
+      "width": 1024,
+      "height": 728,
+      "kind": "photograph",
+      "caption": "Mario Felipe, *Mano V/S Regla*, 2015. CC BY 2.0. [Flickr](https://www.flickr.com/photos/cuandoelsolexplote/22667887428/), 1024 px “large” size.",
+      "original": "https://live.staticflickr.com/703/22667887428_8ba4df3a55_b.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-2.0",
+    "statement": "Published by the author on Flickr under CC BY 2.0. The author licenses a photograph of his own book, so the depicted work is openly licensed. Credit: Mario Felipe."
+  }
+}

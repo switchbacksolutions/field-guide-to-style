@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/douglass-men-of-color-broadside-1863.jpg",
+  "captured": "2026-10-03T01:42:49+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e8d9ca",
+        "share": 0.328
+      },
+      {
+        "hex": "#26221d",
+        "share": 0.153
+      },
+      {
+        "hex": "#e4ceb7",
+        "share": 0.124
+      },
+      {
+        "hex": "#c6b09b",
+        "share": 0.06
+      },
+      {
+        "hex": "#dcc2a8",
+        "share": 0.049
+      },
+      {
+        "hex": "#a28d79",
+        "share": 0.031
+      },
+      {
+        "hex": "#937f6c",
+        "share": 0.031
+      },
+      {
+        "hex": "#362e26",
+        "share": 0.03
+      },
+      {
+        "hex": "#af9a85",
+        "share": 0.029
+      },
+      {
+        "hex": "#bba690",
+        "share": 0.028
+      }
+    ],
+    "background": "#e8d9ca",
+    "chroma": 0.12,
+    "lightness": 0.6,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 15,
+    "hues": 0
+  }
+}

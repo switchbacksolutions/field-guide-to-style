@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/french-clarendon-wood-type-hamilton-museum.jpg",
+  "captured": "2026-10-03T01:57:11+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#2f2f28",
+        "share": 0.139
+      },
+      {
+        "hex": "#090907",
+        "share": 0.099
+      },
+      {
+        "hex": "#1e1c16",
+        "share": 0.065
+      },
+      {
+        "hex": "#46463c",
+        "share": 0.045
+      },
+      {
+        "hex": "#535347",
+        "share": 0.045
+      },
+      {
+        "hex": "#777463",
+        "share": 0.04
+      },
+      {
+        "hex": "#646254",
+        "share": 0.038
+      },
+      {
+        "hex": "#a9a798",
+        "share": 0.037
+      },
+      {
+        "hex": "#959487",
+        "share": 0.036
+      },
+      {
+        "hex": "#898473",
+        "share": 0.036
+      }
+    ],
+    "background": "#2f2f28",
+    "chroma": 0.13,
+    "lightness": 0.33,
+    "chromaticShare": 0.15,
+    "accentChroma": 0.4,
+    "distinct": 22,
+    "hues": 1
+  }
+}

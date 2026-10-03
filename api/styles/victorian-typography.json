@@ -1,0 +1,657 @@
+{
+  "id": "victorian-typography",
+  "title": "Victorian typography",
+  "order": 37,
+  "status": "draft",
+  "naming": "historical",
+  "aliases": [
+    "Victorian display typography",
+    "Wood type poster",
+    "Playbill style",
+    "Letterpress broadside",
+    "Victoriana (revival)"
+  ],
+  "summary": "A centred stack of fat faces, slabs, and condensed gothics, every line in a different letter. The jobbing printer's poster.",
+  "lede": "The display typography of nineteenth-century letterpress posters, playbills, broadsides, and handbills in Britain and the United States (about 1810–1890). The printer centres each line and sets it in a different face and size from the case: fat faces, slab serifs, sans-serifs, condensed theatre letters, and Tuscan or ornamented types, cut in wood for the large sizes. Brass rules, fleurons, and stock cuts divide the lines. This record covers the poster and jobbing core. Victorian book design, chromolithography, and the late “Artistic Printing” of the 1870s and 1880s are related branches.",
+  "moods": [
+    "loud",
+    "showy",
+    "nostalgic",
+    "theatrical",
+    "commercial",
+    "handmade"
+  ],
+  "era": {
+    "from": 1810,
+    "to": 1890,
+    "note": "Fat faces reached London posters about 1805–1810. Darius Wells mechanised wood type in the 1820s. Lithography and halftone pushed the style out of fashion after about 1890, but country printers and shops such as Hatch Show Print (from 1879) kept it alive."
+  },
+  "regions": [
+    "United Kingdom",
+    "United States"
+  ],
+  "identifiers": {},
+  "attestation": [
+    {
+      "label": "Graphic Design History: “The Victorian Era” (fat faces “now recognized as quintessentially Victorian”; the “distinctive Victorian style of layout”; cites Meggs)",
+      "url": "https://graphicdesignhistory.com/the-victorian-era/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia: Wood type (nineteenth-century poster genres and condensed theatre letters)",
+      "url": "https://en.wikipedia.org/wiki/Wood_type",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia: Fat face (posting bills, playbills, and the 1930s Victoriana revival)",
+      "url": "https://en.wikipedia.org/wiki/Fat_face",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Letterpress Commons: Stephen O. Saxe, “History of Job Printing”",
+      "url": "https://letterpresscommons.com/history-of-job-printing/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Fonts In Use: “The Story of Our Friend, the Fat Face”",
+      "url": "https://fontsinuse.com/uses/5578/the-story-of-our-friend-the-fat-face",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "label": "Didone",
+      "wikidata": "Q693749",
+      "note": "Wikipedia (Fat face) describes the fat face as an extremely bold Didone, and graphicdesignhistory.com says display designers made the Bodoni and Didot types larger and blacker."
+    },
+    {
+      "relation": "related-to",
+      "label": "Slab serif",
+      "wikidata": "Q1892715",
+      "note": "Wikipedia (Slab serif) dates the genre to the early nineteenth century, and Wikipedia (Wood type) names it among the common wood type styles."
+    },
+    {
+      "relation": "related-to",
+      "style": "arts-and-crafts",
+      "note": "Wikipedia (Kelmscott Press) says Morris's books from 1891 sought to replicate fifteenth-century printing. The Kelmscott page is the opposite of the commercial poster: one face, dense borders, and a justified block."
+    },
+    {
+      "relation": "related-to",
+      "style": "dada",
+      "note": "The Dada record says its pages mix many unrelated typefaces from the jobbing printer’s case. That case still held the Victorian display faces and ornaments, but Dada broke the centred line."
+    },
+    {
+      "relation": "related-to",
+      "style": "psychedelic-art",
+      "note": "The Psychedelic art record cites Wikipedia for Victoriana as one source of the San Francisco rock posters."
+    },
+    {
+      "relation": "revival-of",
+      "label": "Push Pin Studios",
+      "wikidata": "Q3925990",
+      "note": "Wikipedia says Push Pin Studios (from 1954) made “interpretations of historical styles” against the rigidity of modernism. Victorian display type was one of them. Partial link: only some Push Pin work uses it."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "layout",
+      "term": "A centred stack of lines.",
+      "text": "Every line is centred on one vertical axis. Each line fills the measure, so the line length and type size change from line to line. The most important words get the biggest line."
+    },
+    {
+      "facet": "type",
+      "term": "A different face on every line.",
+      "text": "One sheet uses five to ten display faces: fat face romans and italics, slab serifs (Egyptians), French Clarendons, sans-serifs, very condensed theatre letters, and Tuscan, outline, or shaded types. Most display lines are in capitals."
+    },
+    {
+      "facet": "type",
+      "term": "Width, not weight, fits the line.",
+      "text": "Wood type came in widths from extra condensed to extended. The printer picks the width that makes a word fill the line, so a long name goes very narrow and a short word goes very wide."
+    },
+    {
+      "facet": "structure",
+      "term": "Brass rules and fleurons.",
+      "text": "Thick-and-thin rules, short dashes, stars, pointing hands, and fleurons separate the lines. A border of type ornaments or a double rule often frames the sheet."
+    },
+    {
+      "facet": "color",
+      "term": "Black, with red or blue.",
+      "text": "Black ink on white, buff, or tinted paper. The second colour is usually a red or a blue for one or two lines. Larger posters print colours from separate wood blocks."
+    },
+    {
+      "facet": "imagery",
+      "term": "Stock cuts.",
+      "text": "Small wood engravings from the printer’s stock (a horse, a steamboat, a hand, a crown) sit at the top or between lines. The page is mainly text."
+    },
+    {
+      "facet": "surface",
+      "term": "Impressed ink on paper.",
+      "text": "Flat ink with the grain of the wood, worn edges, and uneven inking in the big letters. No gradient, gloss, or shadow except the printed drop shade of a shaded type."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Lines of type are centred on one axis, and each line has its own size.",
+      "Five or more different display faces appear on one sheet, often one face per line.",
+      "Fat face, slab serif, condensed sans, or Tuscan (spurred) letters dominate, mostly in capitals.",
+      "Brass rules, short dashes, stars, or fleurons separate the lines.",
+      "Black ink on paper with at most one or two other inks, usually red or blue."
+    ],
+    "counter": [
+      "Lines set at several angles or overlapping. That points to Dada.",
+      "One typeface throughout, or a justified text block in a floral border. That points to Arts and Crafts.",
+      "Whiplash curves, flowing hand lettering, or a large figure illustration. That points to Art Nouveau.",
+      "Flush-left asymmetric layout on a grid.",
+      "Gradients, soft shadows, rounded corners, or photographs."
+    ],
+    "confusions": [
+      {
+        "with": "dada",
+        "difference": "Both mix many faces from the jobbing case. A Victorian bill keeps every line horizontal and centred, so the mix reads as a hierarchy. Dada rotates, overlaps, and scatters the lines and adds photomontage."
+      },
+      {
+        "with": "arts-and-crafts",
+        "difference": "Arts and Crafts printing uses one dark old-style roman or blackletter in a justified block inside a dense floral border. Victorian display uses many faces and sizes, centred, with rules instead of floral borders."
+      },
+      {
+        "with": "art-nouveau",
+        "difference": "Art Nouveau posters are lithographs built around a drawn figure, with curved hand lettering in soft colours. Victorian posters are letterpress text in metal and wood type, with straight lines and small stock cuts."
+      },
+      {
+        "with": "psychedelic-art",
+        "difference": "Psychedelic posters borrow Victorian and Nouveau letters but warp them into curved shapes in clashing bright colours. Victorian letters stay straight and legible on horizontal lines in black and one ink."
+      },
+      {
+        "with": "Artistic Printing (Aesthetic movement job printing)",
+        "difference": "The late jobbing style of the 1870s and 1880s sets type in curves and panels, in tints and many colours, with Japanese-style ornament. This record covers the earlier centred poster."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Centre every heading, label, and short line on one axis.",
+      "Use at least five faces: a fat face, a slab serif, a condensed gothic, an ornamented or Tuscan face, and a plain roman for small text. Change the face from line to line.",
+      "Set display lines in capitals and size each line so it fills the measure.",
+      "Separate blocks with thick-and-thin rules, short centred dashes, and fleurons such as ❦ and ✦.",
+      "Print in black on a warm paper colour. Use one red for the most important lines, and at most one blue.",
+      "Keep body text in a readable roman at a normal size."
+    ],
+    "dont": [
+      "Do not rotate or overlap lines. The Victorian bill is noisy but orderly.",
+      "Do not use gradients, soft shadows, rounded corners, or photographs.",
+      "Do not use more than two inks beyond black.",
+      "Do not set long paragraphs in display faces or capitals.",
+      "Do not centre form controls and data tables so far that they become hard to scan."
+    ],
+    "uses": [
+      "Theatre, circus, music hall, and live event sites",
+      "Craft breweries, distilleries, barbers, and restaurants with a heritage theme",
+      "Letterpress shops and printing museums",
+      "Fairs, markets, and historical festivals",
+      "Posters and announcements for a one-off event"
+    ],
+    "avoid": [
+      "Dense dashboards and data tools. Centred lines and changing faces slow scanning.",
+      "Healthcare, banking, and government services. The style is a sales voice and reads as a joke or a gimmick there.",
+      "Technology products that must look current. The style signals the nineteenth century first.",
+      "Long reading. Display faces and capitals tire the eye after a few lines."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "type.centerShare",
+      "min": 0.6,
+      "note": "Every line of the bill is centred on one axis. Provisional: set from the specimen, recalibrate with measured references."
+    },
+    {
+      "metric": "type.families.length",
+      "min": 5,
+      "note": "A different display face on each line. Provisional: set from the specimen."
+    },
+    {
+      "metric": "type.uppercaseShare",
+      "min": 0.5,
+      "note": "Display lines, labels, and tables in capitals. No other specimen reaches half. Provisional: set from the specimen."
+    },
+    {
+      "metric": "color.hues",
+      "max": 2,
+      "note": "Black with one red and at most one blue. Provisional."
+    },
+    {
+      "metric": "surface.radius.median",
+      "max": 2,
+      "note": "Square letterpress rules and frames. Provisional."
+    },
+    {
+      "metric": "surface.shadow.share",
+      "max": 0.05,
+      "note": "Flat impressed ink. Provisional."
+    }
+  ],
+  "synthesis": [
+    "The references share one method more than one look. A jobbing printer centres each line, picks a face and a width that make the words fill it, and divides the lines with rules, as in [Men of Color, To Arms!](ref:douglass-men-of-color-broadside-1863) and the [Rivers & Derious circus bill](ref:rivers-derious-circus-handbill-1864). Theatre bills such as the [Ford’s Theatre playbill](ref:fords-theatre-playbill-our-american-cousin-1865) and the [Birmingham pantomime bill](ref:theatre-royal-birmingham-playbill-1845) add dotted leaders, braces, and stacked small joining words.",
+    "The faces come from the founders’ and wood type makers’ specimens: fat Egyptians in the [Thorowgood specimen](ref:thorowgood-egyptian-specimen-1825), reverse-contrast [French Clarendon](ref:french-clarendon-wood-type-hamilton-museum), and the Tuscan and shaded chromatic letters of [Wm. H. Page & Co.](ref:page-chromatic-wood-type-specimens-1874). Most bills print in black only. Pictures are rare and small, such as stock cuts and pointing hands; the three photographs on the [Lincoln reward broadside](ref:lincoln-assassination-reward-broadside-1865) are an exception."
+  ],
+  "preview": [
+    "douglass-men-of-color-broadside-1863",
+    "fords-theatre-playbill-our-american-cousin-1865"
+  ],
+  "page": "victorian-typography.html",
+  "implementation": {
+    "tokens": "implementations/victorian-typography/tokens.json",
+    "css": "implementations/victorian-typography/tokens.css",
+    "tailwind": "implementations/victorian-typography/tailwind.css",
+    "shadcn": "implementations/victorian-typography/shadcn.css",
+    "registry": "implementations/victorian-typography/registry-item.json",
+    "designMd": "implementations/victorian-typography/DESIGN.md",
+    "specimen": "implementations/victorian-typography/index.html"
+  },
+  "tokens": {
+    "$description": "Authored tokens for victorian-typography. Shorthand values; tools/build.mjs writes DTCG 2025.10.",
+    "color": {
+      "$type": "color",
+      "bg": {
+        "$value": "#efe4cc",
+        "$description": "Buff poster paper."
+      },
+      "surface": {
+        "$value": "#f6eedb"
+      },
+      "subtle": {
+        "$value": "#e3d3b0"
+      },
+      "text": {
+        "$value": "#1b1712"
+      },
+      "muted": {
+        "$value": "#4b4236"
+      },
+      "border": {
+        "$value": "#1b1712"
+      },
+      "primary": {
+        "$value": "#b3261e",
+        "$description": "Vermilion: the usual second ink on bills."
+      },
+      "on-primary": {
+        "$value": "#f6eedb"
+      },
+      "secondary": {
+        "$value": "#1b1712",
+        "$description": "Black ink."
+      },
+      "on-secondary": {
+        "$value": "#f6eedb"
+      },
+      "accent": {
+        "$value": "#1f3a6e",
+        "$description": "Blue: the rarer third ink."
+      },
+      "on-accent": {
+        "$value": "#f6eedb"
+      }
+    },
+    "font": {
+      "$type": "fontFamily",
+      "display": {
+        "$value": [
+          "Bodoni Poster",
+          "Bodoni MT Black",
+          "Didot",
+          "Bodoni 72",
+          "Liberation Serif",
+          "Times New Roman",
+          "serif"
+        ],
+        "$description": "Fat face: an ultra-bold Didone for the main lines."
+      },
+      "body": {
+        "$value": [
+          "Century Schoolbook",
+          "Georgia",
+          "DejaVu Serif",
+          "serif"
+        ],
+        "$description": "Plain roman for small print."
+      },
+      "mono": {
+        "$value": [
+          "Courier New",
+          "Courier",
+          "Liberation Mono",
+          "monospace"
+        ]
+      },
+      "slab": {
+        "$value": [
+          "Rockwell Extra Bold",
+          "Rockwell",
+          "Clarendon",
+          "DejaVu Serif",
+          "serif"
+        ],
+        "$description": "Egyptian slab serif."
+      },
+      "condensed": {
+        "$value": [
+          "Haettenschweiler",
+          "Impact",
+          "Ubuntu Sans",
+          "Arial Narrow",
+          "sans-serif"
+        ],
+        "$description": "Condensed theatre gothic; set with font-stretch condensed."
+      },
+      "ornamented": {
+        "$value": [
+          "Playbill",
+          "Algerian",
+          "Rosewood Std",
+          "Bitstream Charter",
+          "serif"
+        ],
+        "$description": "Stand-in for Tuscan and ornamented wood letters."
+      }
+    },
+    "font-weight": {
+      "$type": "fontWeight",
+      "regular": {
+        "$value": 400
+      },
+      "bold": {
+        "$value": 700
+      },
+      "display": {
+        "$value": 900
+      }
+    },
+    "text": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "12px"
+      },
+      "sm": {
+        "$value": "14px"
+      },
+      "base": {
+        "$value": "17px"
+      },
+      "lg": {
+        "$value": "21px"
+      },
+      "xl": {
+        "$value": "28px"
+      },
+      "2xl": {
+        "$value": "38px"
+      },
+      "3xl": {
+        "$value": "56px"
+      },
+      "4xl": {
+        "$value": "84px"
+      },
+      "5xl": {
+        "$value": "144px"
+      }
+    },
+    "leading": {
+      "$type": "number",
+      "tight": {
+        "$value": 0.92
+      },
+      "body": {
+        "$value": 1.45
+      }
+    },
+    "tracking": {
+      "$type": "number",
+      "display": {
+        "$value": -0.01,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "heading": {
+        "$value": 0.02,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      },
+      "label": {
+        "$value": 0.18,
+        "$extensions": {
+          "style-inspiration": {
+            "unit": "em"
+          }
+        }
+      }
+    },
+    "radius": {
+      "$type": "dimension",
+      "none": {
+        "$value": "0px"
+      },
+      "sm": {
+        "$value": "0px"
+      },
+      "md": {
+        "$value": "0px"
+      },
+      "lg": {
+        "$value": "0px"
+      },
+      "pill": {
+        "$value": "0px"
+      }
+    },
+    "border-width": {
+      "$type": "dimension",
+      "thin": {
+        "$value": "1px"
+      },
+      "thick": {
+        "$value": "6px"
+      }
+    },
+    "spacing": {
+      "$type": "dimension",
+      "xs": {
+        "$value": "6px"
+      },
+      "sm": {
+        "$value": "12px"
+      },
+      "md": {
+        "$value": "24px"
+      },
+      "lg": {
+        "$value": "40px"
+      },
+      "xl": {
+        "$value": "64px"
+      },
+      "2xl": {
+        "$value": "104px"
+      }
+    },
+    "typography": {
+      "$type": "typography",
+      "display": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.5xl}",
+          "fontWeight": "{font-weight.display}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.display}"
+        }
+      },
+      "heading": {
+        "$value": {
+          "fontFamily": "{font.display}",
+          "fontSize": "{text.2xl}",
+          "fontWeight": "{font-weight.bold}",
+          "lineHeight": "{leading.tight}",
+          "letterSpacing": "{tracking.heading}"
+        }
+      },
+      "body": {
+        "$value": {
+          "fontFamily": "{font.body}",
+          "fontSize": "{text.base}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}"
+        }
+      },
+      "label": {
+        "$value": {
+          "fontFamily": "{font.mono}",
+          "fontSize": "{text.xs}",
+          "fontWeight": "{font-weight.regular}",
+          "lineHeight": "{leading.body}",
+          "letterSpacing": "{tracking.label}"
+        }
+      }
+    }
+  },
+  "references": [
+    {
+      "id": "lincoln-assassination-reward-broadside-1865",
+      "title": "“$100,000 Reward! The Murderer of our late beloved President” broadside",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Centred lines in several wood and metal display faces, a printer’s pointing hand, and a rule, in black on paper. Partial fit: the three photoprints are not typical of the letterpress bill.",
+      "page": "references/lincoln-assassination-reward-broadside-1865.html",
+      "source": "https://www.loc.gov/item/96521960/",
+      "image": "assets/references/lincoln-assassination-reward-broadside-1865.jpg",
+      "measurement": "data/measurements/lincoln-assassination-reward-broadside-1865.json"
+    },
+    {
+      "id": "mccauley-dry-goods-auction-broadside-1862",
+      "title": "“Large Stock of Dry Goods at Auction!” broadside",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A commercial jobbing bill: centred lines, about ten display faces, a decorated shaded headline, and a pointing hand, in black on paper.",
+      "page": "references/mccauley-dry-goods-auction-broadside-1862.html",
+      "source": "https://www.loc.gov/item/2020770660/",
+      "image": "assets/references/mccauley-dry-goods-auction-broadside-1862.jpg",
+      "measurement": "data/measurements/mccauley-dry-goods-auction-broadside-1862.json"
+    },
+    {
+      "id": "douglass-men-of-color-broadside-1863",
+      "title": "“Men of Color, To Arms! To Arms!” recruiting broadside",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A textbook wood-type broadside: centred lines, one face and size per line, display capitals in black, and small roman text between the big lines.",
+      "page": "references/douglass-men-of-color-broadside-1863.html",
+      "source": "https://nmaahc.si.edu/object/nmaahc_2012.133",
+      "image": "assets/references/douglass-men-of-color-broadside-1863.jpg",
+      "measurement": "data/measurements/douglass-men-of-color-broadside-1863.json"
+    },
+    {
+      "id": "fords-theatre-playbill-our-american-cousin-1865",
+      "title": "Ford’s Theatre playbill for *Our American Cousin*, 14 April 1865",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical playbill: centred lines, a new face for almost every line, pointing hands, rules, and a dotted cast list, in black on paper.",
+      "page": "references/fords-theatre-playbill-our-american-cousin-1865.html",
+      "source": "https://www.loc.gov/item/rbpe.2040580c/",
+      "image": "assets/references/fords-theatre-playbill-our-american-cousin-1865.jpg",
+      "measurement": "data/measurements/fords-theatre-playbill-our-american-cousin-1865.json"
+    },
+    {
+      "id": "french-clarendon-wood-type-hamilton-museum",
+      "title": "French Clarendon wood type at the Hamilton Wood Type & Printing Museum",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "French Clarendon is one of the wood type genres named for the style, and the tray shows the physical letters behind the condensed theatre lines.",
+      "page": "references/french-clarendon-wood-type-hamilton-museum.html",
+      "source": "https://commons.wikimedia.org/wiki/File:French_Clarendon_wood_type.jpg",
+      "image": "assets/references/french-clarendon-wood-type-hamilton-museum.jpg",
+      "measurement": "data/measurements/french-clarendon-wood-type-hamilton-museum.json"
+    },
+    {
+      "id": "barnum-american-museum-handbill-1845",
+      "title": "P. T. Barnum’s American Museum handbill, January 1845",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A show bill with centred lines in many faces, wavy and straight rules, pointing hands, and a stock cut. Partial fit: two lines run vertically beside the cut.",
+      "page": "references/barnum-american-museum-handbill-1845.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Houghton_TCS_65_-_Playbill,_Barnum_American_Museum,_1845.jpg",
+      "image": "assets/references/barnum-american-museum-handbill-1845.jpg",
+      "measurement": "data/measurements/barnum-american-museum-handbill-1845.json"
+    },
+    {
+      "id": "rivers-derious-circus-handbill-1864",
+      "title": "Rivers & Derious’ Combination Circus handbill",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A jobbing circus bill: centred lines, a different face for each act, full-width rules between acts, and a border of type ornaments.",
+      "page": "references/rivers-derious-circus-handbill-1864.html",
+      "source": "https://www.loc.gov/item/2020776481/",
+      "image": "assets/references/rivers-derious-circus-handbill-1864.jpg",
+      "measurement": "data/measurements/rivers-derious-circus-handbill-1864.json"
+    },
+    {
+      "id": "kelly-american-wood-type-1828-1900-book",
+      "title": "Rob Roy Kelly, *American Wood Type, 1828–1900*",
+      "medium": "book",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The standard reference on the wood type faces of the style. It documents the style; it is not an example of it.",
+      "page": "references/kelly-american-wood-type-1828-1900-book.html",
+      "source": "https://en.wikipedia.org/wiki/Rob_Roy_Kelly",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "theatre-royal-birmingham-playbill-1845",
+      "title": "Theatre Royal, Birmingham, playbill for *The Dragon of Wantley* pantomime",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A British playbill in full Victorian form: centred display lines in condensed and fat faces, many sizes, rules, braces, and dotted leaders.",
+      "page": "references/theatre-royal-birmingham-playbill-1845.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Theatre_Royal_Birmingham_-_playbill_-_1844.jpg",
+      "image": "assets/references/theatre-royal-birmingham-playbill-1845.jpg",
+      "measurement": "data/measurements/theatre-royal-birmingham-playbill-1845.json"
+    },
+    {
+      "id": "thorowgood-egyptian-specimen-1825",
+      "title": "Thorowgood specimen of Egyptian types, 1825",
+      "medium": "type-specimen",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The fat Egyptian slab is one of the founding display faces of the poster style, shown here at poster size in roman and italic.",
+      "page": "references/thorowgood-egyptian-specimen-1825.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Thorowgood_1825_Slab_Type_Specimen_(7609775334).jpg",
+      "image": "assets/references/thorowgood-egyptian-specimen-1825.jpg",
+      "measurement": "data/measurements/thorowgood-egyptian-specimen-1825.json"
+    },
+    {
+      "id": "page-chromatic-wood-type-specimens-1874",
+      "title": "Wm. H. Page & Co., *Specimens of Chromatic Wood Type, Borders, &c.*",
+      "medium": "type-specimen",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The supply side of the style: the Tuscan, pointed, and shaded display letters that printers bought for posters. Partial fit: the chromatic colours are richer than most bills, which print in black and one ink.",
+      "page": "references/page-chromatic-wood-type-specimens-1874.html",
+      "source": "https://archive.org/details/ldpd_10147342_000",
+      "image": "assets/references/page-chromatic-wood-type-specimens-1874.jpg",
+      "measurement": "data/measurements/page-chromatic-wood-type-specimens-1874.json"
+    }
+  ]
+}

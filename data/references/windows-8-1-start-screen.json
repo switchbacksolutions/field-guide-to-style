@@ -30,6 +30,12 @@
       "id": "flat-design",
       "note": "Clear, and the core of the Metro branch: a grid of solid colored rectangles with light type and no chrome.",
       "basis": "agent"
+    },
+    {
+      "id": "bento-grid",
+      "note": "Partial fit: a precursor with tiles in four sizes and narrow, even gaps, but square corners and saturated fills.",
+      "basis": "agent",
+      "qualifier": "partial fit"
     }
   ],
   "context": [

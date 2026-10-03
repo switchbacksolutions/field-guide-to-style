@@ -1,0 +1,51 @@
+{
+  "id": "copeland-brutalist-web-design-guidelines",
+  "title": "David Bryant Copeland, “Guidelines for Brutalist Web Design”",
+  "type": "website",
+  "medium": "editorial",
+  "lede": "A short manifesto that reads brutalism as truth to the web’s materials: content, links, buttons, and the browser.",
+  "summary": "Copeland’s guidelines: readable content, underlined links, buttons that look like buttons, scrolling, and speed.",
+  "source": {
+    "url": "https://brutalist-web.design/",
+    "label": "brutalist-web.design"
+  },
+  "creator": {
+    "name": "David Bryant Copeland"
+  },
+  "made": "c. 2018–2025 (last updated 1 June 2025)",
+  "moods": [
+    "honest",
+    "plain",
+    "utilitarian"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Page text read on 2026-10-02. The update date is on the page. The first publication year is not stated there: a Pelican theme from August 2018 cites it, so it existed by then. The page was not captured; it is listed as a capture candidate."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "brutalist-web-design",
+      "note": "The best-known written statement of the raw core, cited by Smashing Magazine and by theme authors.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The guidelines: “Content is readable on all reasonable screens and devices. Only hyperlinks and buttons respond to clicks. Hyperlinks are underlined and buttons look like buttons. The back button works as expected. View content by scrolling. Decoration when needed and no unrelated content. Performance is a feature.”",
+    "“A website’s materials aren’t HTML tags, CSS, or JavaScript code. Rather, they are its content and the context in which it’s consumed.”",
+    "“By default, a website that uses HTML as intended and has no custom styling will be readable on all screens and devices.” The site itself does not use default styles.",
+    "[Smashing Magazine (2020)](ref:smashing-split-personality-brutalist-web-2020) and the [Brutalist Pelican theme](ref:brutalist-pelican-theme) both cite it."
+  ],
+  "interpretation": [
+    "It turns the look into rules about behavior. That makes it the basis for the `do` and `dont` rules of [Brutalist web design](style:brutalist-web-design), more than for its colors."
+  ],
+  "borrow": [
+    "Underline every link and make every button look pressable. Let only those two things respond to clicks."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "© David Bryant Copeland. Link and quotation only."
+  }
+}

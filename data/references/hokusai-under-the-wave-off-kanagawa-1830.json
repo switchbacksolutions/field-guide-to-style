@@ -1,0 +1,76 @@
+{
+  "id": "hokusai-under-the-wave-off-kanagawa-1830",
+  "title": "Hokusai, Under the Wave off Kanagawa (The Great Wave)",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "A Prussian-blue wave curls over three boats and frames a small Mount Fuji, in the most famous print of Hokusai’s Thirty-Six Views of Mount Fuji.",
+  "summary": "Blue wave, cream sky, and a tiny Fuji in an off-center composition. Katsushika Hokusai, 1830–1833.",
+  "source": {
+    "url": "https://www.artic.edu/artworks/24645",
+    "label": "Art Institute of Chicago, 1925.3245"
+  },
+  "creator": {
+    "name": "Katsushika Hokusai"
+  },
+  "made": "1830/33",
+  "moods": [
+    "dramatic",
+    "graphic",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Art Institute of Chicago image of impression 1925.3245 (1686 × 1155 px)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ukiyo-e",
+      "note": "A canonical landscape print: key-block outlines, flat Prussian blue, a dark bokashi band at the horizon, a title cartouche, and an asymmetric, cropped composition.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "AIC catalogues the sheet as a color woodblock print, ōban format, 25.4 × 37.6 cm, signed “Hokusai aratame Iitsu fude”, published by Nishimura-ya Yohachi. [AIC 1925.3245](https://www.artic.edu/artworks/24645).",
+    "AIC’s description says that the series, begun in 1830, used the newly affordable Berlin (Prussian) blue for sky and water, and that it established the popularity of landscape prints. [AIC](https://www.artic.edu/artworks/24645)."
+  ],
+  "observed": [
+    "A large wave rises from the left and curls toward the center. Its crest breaks into claw-like white foam outlined in thin dark lines.",
+    "The wave is printed in two flat blues, a dark Prussian blue and a pale blue, with cream paper left for the foam.",
+    "Mount Fuji is small, near the center of the lower half, framed by the trough of the wave.",
+    "The sky is a flat buff tone. A dark gray band fades upward from the horizon behind Fuji.",
+    "A narrow vertical cartouche with a thin border holds the title at upper left. The signature runs in a vertical column beside it.",
+    "Three long boats cross the lower half. A second wave at right is cut by the edge of the sheet.",
+    "The pink tones that some impressions show on the boats and sky are not visible in this copy."
+  ],
+  "interpretation": [
+    "The print shows the style’s main graphic devices together: one even key line, few flat colors, a gradient used only as a band, and a cropped, asymmetric composition.",
+    "The small Fuji against the large wave is the near–far contrast that Western artists took from these prints."
+  ],
+  "borrow": [
+    "Let one large shape enter from one edge and crop at another, and put the real subject small inside it.",
+    "Use two values of one blue, dark and pale, with the paper color as the third tone."
+  ],
+  "images": [
+    {
+      "file": "assets/references/hokusai-under-the-wave-off-kanagawa-1830.jpg",
+      "alt": "Color woodblock print. A huge blue wave with white claw-like foam curls over three long boats. Small snow-capped Mount Fuji sits low in the trough. A vertical title cartouche is at upper left.",
+      "width": 1600,
+      "height": 1096,
+      "kind": "source-image",
+      "caption": "Katsushika Hokusai, Under the Wave off Kanagawa, 1830/33. [Art Institute of Chicago 1925.3245](https://www.artic.edu/artworks/24645), Clarence Buckingham Collection. CC0.",
+      "original": "https://www.artic.edu/iiif/2/b3974542-b9b4-7568-fc4b-966738f61d78/full/1686,/0/default.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The Art Institute of Chicago marks the object public domain (`is_public_domain: true`) and releases images of public-domain works under CC0. [AIC open access](https://www.artic.edu/open-access/open-access-images). Hokusai died in 1849, and the print was published about 1831, so the work is public domain in Japan and the United States."
+  },
+  "identifiers": {
+    "aic": "24645",
+    "accession": "1925.3245"
+  }
+}

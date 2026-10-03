@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/doornenbal-fort-zuid-wilgen-risoprint-2025.jpg",
+  "captured": "2026-10-03T01:53:30+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.403
+      },
+      {
+        "hex": "#f1f7f7",
+        "share": 0.065
+      },
+      {
+        "hex": "#2363aa",
+        "share": 0.051
+      },
+      {
+        "hex": "#3d4a41",
+        "share": 0.036
+      },
+      {
+        "hex": "#435a4e",
+        "share": 0.031
+      },
+      {
+        "hex": "#375968",
+        "share": 0.03
+      },
+      {
+        "hex": "#2f72b2",
+        "share": 0.028
+      },
+      {
+        "hex": "#306089",
+        "share": 0.027
+      },
+      {
+        "hex": "#d6e5e7",
+        "share": 0.024
+      },
+      {
+        "hex": "#b2ced9",
+        "share": 0.024
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.12,
+    "lightness": 0.75,
+    "chromaticShare": 0.16,
+    "accentChroma": 0.44,
+    "distinct": 17,
+    "hues": 3
+  }
+}

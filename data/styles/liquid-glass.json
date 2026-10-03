@@ -1,0 +1,245 @@
+{
+  "id": "liquid-glass",
+  "title": "Liquid Glass",
+  "order": 39,
+  "status": "draft",
+  "naming": "industry",
+  "aliases": [
+    "Apple Liquid Glass"
+  ],
+  "summary": "Clear, lensing glass controls that float over edge-to-edge content. Apple’s design language from 2025.",
+  "lede": "The design language that Apple announced at WWDC on June 9, 2025 for all its operating systems. Controls and navigation become a separate layer of translucent glass that refracts and reflects the content under it, with bright specular edges, capsule shapes, and corners concentric with the hardware. The content below stays opaque and runs edge to edge. Apple names it after the material.",
+  "moods": [
+    "luminous",
+    "liquid",
+    "layered",
+    "premium",
+    "dynamic"
+  ],
+  "era": {
+    "from": 2025,
+    "note": "Announced June 9, 2025 and shipped in iOS 26, iPadOS 26, macOS Tahoe, watchOS 26, tvOS 26, and visionOS 26. After the first betas Apple made bars more opaque. At WWDC 2026 it reduced the default transparency again and added a user slider from clear to tinted glass (Wikipedia). Open-source web versions appeared from June 10, 2025."
+  },
+  "regions": [
+    "United States",
+    "International"
+  ],
+  "identifiers": {
+    "wikidata": "Q134784675"
+  },
+  "attestation": [
+    {
+      "label": "Apple Newsroom: Apple introduces a delightful and elegant new software design (2025-06-09)",
+      "url": "https://www.apple.com/newsroom/2025/06/apple-introduces-a-delightful-and-elegant-new-software-design/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Apple Human Interface Guidelines: Materials",
+      "url": "https://developer.apple.com/design/human-interface-guidelines/materials",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Apple Developer: Liquid Glass (technology overview)",
+      "url": "https://developer.apple.com/documentation/technologyoverviews/liquid-glass",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Nielsen Norman Group: Liquid Glass Is Cracked, and Usability Suffers in iOS 26 (Raluca Budiu, 2025-10-10)",
+      "url": "https://www.nngroup.com/articles/liquid-glass/",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikipedia: Liquid Glass",
+      "url": "https://en.wikipedia.org/wiki/Liquid_Glass",
+      "checked": "2026-10-02"
+    },
+    {
+      "label": "Wikidata: Liquid Glass (Q134784675), design language developed by Apple",
+      "url": "https://www.wikidata.org/wiki/Q134784675",
+      "checked": "2026-10-02"
+    }
+  ],
+  "lineage": [
+    {
+      "relation": "descendant-of",
+      "style": "glassmorphism",
+      "note": "Wikipedia states that Liquid Glass has strong influences from [glassmorphism](style:glassmorphism), and NN/g’s critique links its glassmorphism article. Liquid Glass keeps the translucent floating layer, but it refracts instead of only blurring, and it limits glass to controls."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "Aqua (user interface)",
+      "wikidata": "Q622898",
+      "note": "In Apple’s own design video, as Wikipedia reports, Aqua is one of the sources. Wikidata records that Liquid Glass replaces Aqua (P1365)."
+    },
+    {
+      "relation": "influenced-by",
+      "label": "visionOS",
+      "note": "Apple names the glass interface of visionOS (2024) as a source, with the real-time blur of iOS 7, the motion of iPhone X, and the Dynamic Island (Wikipedia, citing Apple’s video)."
+    },
+    {
+      "relation": "reaction-against",
+      "style": "flat-design",
+      "note": "Wikipedia: Apple moved away from the flat design cues of iOS 7 (2013) toward more expressive elements with a sense of depth. The content inside the glass stays flat."
+    },
+    {
+      "relation": "related-to",
+      "style": "frutiger-aero",
+      "note": "Critics compared Liquid Glass to Aqua and Windows Aero, and TechRadar suggested an influence from [Frutiger Aero](style:frutiger-aero) (Wikipedia). Both are glassy, but Frutiger Aero adds a gloss band, sky-and-water gradients, and nature imagery."
+    },
+    {
+      "relation": "related-to",
+      "style": "skeuomorphism",
+      "note": "Wikipedia calls the change a move toward more skeuomorphic elements. Liquid Glass imitates one optical material, not objects or textures. Craig Federighi said that Apple fabricated real glass samples to match lensing and opacity (Wikipedia)."
+    }
+  ],
+  "grammar": [
+    {
+      "facet": "structure",
+      "term": "Two layers.",
+      "text": "A functional layer of glass controls and navigation floats above an opaque content layer. Content scrolls under the controls and shows through them. Content itself does not use glass."
+    },
+    {
+      "facet": "surface",
+      "term": "Lensing glass.",
+      "text": "The glass bends and magnifies what is under it, most visibly near its edges, and it reflects the surrounding color. The clear variant blurs very little. The regular variant blurs more and adjusts luminosity for legibility."
+    },
+    {
+      "facet": "surface",
+      "term": "Specular rim.",
+      "text": "The edge of the glass is lit, not stroked: a bright highlight on one side and a weaker one on the opposite side, which move with the device. There is no hairline border and no gloss band."
+    },
+    {
+      "facet": "layout",
+      "term": "Floating capsules.",
+      "text": "Tab bars, toolbars, and buttons are capsules inset from the screen edge, not bars pinned to it. Corners are concentric with the window and the hardware: inner radius equals outer radius minus padding."
+    },
+    {
+      "facet": "color",
+      "term": "Color from content.",
+      "text": "The glass takes its color from the content under it. Controls are mostly neutral and monochrome. A tint marks only the prominent action. The page carries the color, often in photos and wallpapers."
+    },
+    {
+      "facet": "type",
+      "term": "San Francisco, bold titles.",
+      "text": "SF Pro with large, bold, left-aligned titles and vibrant label colors on the glass. Body text sits on opaque content."
+    },
+    {
+      "facet": "imagery",
+      "term": "Edge-to-edge media.",
+      "text": "Photos, album art, maps, and wallpapers run under the bars to the edge of the screen. App icons are layered and can be clear or tinted glass."
+    },
+    {
+      "facet": "motion",
+      "term": "Fluid morphing.",
+      "text": "Controls change shape and size: tab bars shrink on scroll, menus grow out of their buttons, and highlights react to touch and to device motion, like a drop of liquid."
+    }
+  ],
+  "rubric": {
+    "diagnostic": [
+      "Controls and bars are capsules of clear glass that float inset from the edges over content.",
+      "Content under the glass looks bent or magnified near the glass edges, not only blurred.",
+      "Glass edges have a bright specular highlight instead of a drawn border.",
+      "The content layer is opaque and runs edge to edge under the controls.",
+      "Corners of nested shapes are concentric."
+    ],
+    "counter": [
+      "Glass cards hold the main content, such as text blocks and pricing tables.",
+      "A 1 px translucent border outlines each panel.",
+      "A gloss band covers the upper half of buttons.",
+      "Bars are opaque and pinned to the screen edges.",
+      "Visible material textures, or hard offset shadows."
+    ],
+    "confusions": [
+      {
+        "with": "glassmorphism",
+        "difference": "Glassmorphism puts content in frosted cards with a hairline light border over vivid gradient blobs, and the glass only blurs. Liquid Glass keeps content opaque, puts glass only on controls, and bends the content under it at a lit, borderless edge."
+      },
+      {
+        "with": "frutiger-aero",
+        "difference": "Frutiger Aero glass has a gloss band on its upper half, sky-blue and green gradients, and water or nature imagery. Liquid Glass is clear and neutral, takes its color from content, and has a thin specular rim instead of a gloss band."
+      },
+      {
+        "with": "skeuomorphism",
+        "difference": "Skeuomorphism imitates objects and textures such as leather and paper. Liquid Glass imitates only the optics of glass and keeps the content flat."
+      },
+      {
+        "with": "Fluent Acrylic and Mica",
+        "difference": "Microsoft’s Acrylic is a frosted, noisy blur on panels and menus, and Mica tints with the wallpaper. Neither refracts or has specular rims."
+      },
+      {
+        "with": "flat-design",
+        "difference": "Flat design uses opaque, solid controls. Liquid Glass keeps flat content but makes the controls translucent and lit."
+      }
+    ]
+  },
+  "rules": {
+    "do": [
+      "Put glass only on the control and navigation layer: toolbars, tab bars, buttons, search fields, and sheets. Keep content surfaces opaque.",
+      "Let content run to the edges and scroll under the floating controls, so that the glass has something to show.",
+      "Give glass a light translucent fill, a low blur (2–12 px) with boosted saturation, a soft diagonal sheen, and an inset highlight on the lit edge.",
+      "Make bars and buttons capsules inset from the edges. Keep nested corners concentric: inner radius equals outer radius minus padding.",
+      "Keep controls monochrome. Tint only the prominent action.",
+      "Use the clear variant only over rich media, and add a dark dimming layer of about 35 % under it when the content is bright.",
+      "Respect reduced-transparency and increased-contrast settings with a nearly opaque fill."
+    ],
+    "dont": [
+      "Do not use glass in the content layer, for example on cards, tables, or article text.",
+      "Do not stack glass on glass.",
+      "Do not draw a hairline border around the glass. Light the edge with an inset highlight instead.",
+      "Do not add a gloss band, reflections of sky, or material textures.",
+      "Do not put long text or dense forms on clear glass.",
+      "Do not animate controls without a reason. NN/g reports that pulsing and wobbling controls distract.",
+      "Do not depend on backdrop-filter or SVG displacement alone. Give each glass element a fill that stays readable without them."
+    ],
+    "uses": [
+      "Native-feeling iOS, iPadOS, and macOS apps and their marketing pages",
+      "Media players, photo and map apps with edge-to-edge content",
+      "Floating toolbars and tab bars over a canvas",
+      "Widgets and lock-screen-style overlays",
+      "Product launch pages for consumer hardware"
+    ],
+    "avoid": [
+      "Text-heavy and data-dense products. Text on clear glass over busy content often fails contrast checks (NN/g, 2025).",
+      "Accessibility-critical services such as government and health forms. Translucency and motion reduce legibility.",
+      "Low-power devices and long pages. Real-time refraction and blur cost GPU time, and web versions need WebGL or SVG filters.",
+      "Brands that must not look like Apple. The style reads as an Apple platform look."
+    ]
+  },
+  "fingerprint": [
+    {
+      "metric": "surface.blurShare",
+      "min": 0.4,
+      "note": "Glass on the control layer: bars, buttons, chips, and fields have a backdrop blur. Opaque content boxes keep it near half. Provisional: the specimen measures 0.50."
+    },
+    {
+      "metric": "surface.gradientShare",
+      "min": 0.4,
+      "note": "Glass fills carry a specular sheen gradient, and the content is often a gradient wallpaper. Separates it from glassmorphism (max 0.3). Provisional: the specimen measures 0.55."
+    },
+    {
+      "metric": "surface.radius.roundShare",
+      "min": 0.9,
+      "note": "Capsules and concentric rounded corners everywhere. Provisional: the specimen measures 1."
+    },
+    {
+      "metric": "surface.border.share",
+      "max": 0.2,
+      "note": "The edge is lit by an inset highlight, not stroked. Separates it from glassmorphism (min 0.5) and Frutiger Aero (min 0.25). Provisional: web clones that add a 1 px border fail it."
+    },
+    {
+      "metric": "surface.shadow.hardShare",
+      "max": 0.1,
+      "note": "Drop shadows under floating glass are soft. Provisional."
+    }
+  ],
+  "synthesis": [
+    "Apple’s own operating systems carry the core: the [announcement](ref:apple-liquid-glass-2025), the [HIG Materials page](ref:apple-hig-materials-liquid-glass), and press renders. The HIG gives the defining rule: glass is a functional layer for controls and navigation above the content layer, and “Don’t use Liquid Glass in the content layer.” [macOS Tahoe Control Center](ref:macos-tahoe-26-control-center-2025) shows the control layer alone: separate clear capsules and circles with rims lit from the upper left, equal gaps, and concentric corners. [Apple Music on macOS Tahoe](ref:apple-music-macos-tahoe-26-2025) shows the two layers with quiet glass: opaque album rows under an inset sidebar and a floating player capsule. The clear look of the [iOS 26 Home Screen](ref:ios-26-home-screen-2025) shows tiles with a bright upper-left rim and a darker lower edge, and a Dock inset from the screen edges.",
+    "Apple’s press renders are too small to show the lensing. Refraction is observed in other sources. The [Wikipedia iOS app](ref:wikipedia-ios-app-8-tab-bar-2026) calls Apple’s glassEffect API, and a 1:1 crop shows frame lines that curve just inside the rim of its tab bar. In the [liquid_glass_renderer demo](ref:liquid-glass-renderer-flutter-shapes-2025), grid lines bend in a band along each rim, with no blur, border, or shadow. In [liquidGL](ref:liquidgl-library-naughtyduk), a lane line kinks at a tile edge. [Icon Composer](ref:apple-icon-composer-2025) names the parts of the material as controls: specular, blur, translucency, dark, and shadow. [visionOS glass](ref:apple-visionos-glass-material) is the precursor: frosted blur over a real room, without the lensing edge.",
+    "Several references disagree with the rubric. The web libraries put content in glass, which is a counter-trait: [liquid-glass-react](ref:liquid-glass-react-library-2025) shows a profile card with strong blur, and liquidGL a dashboard of glass tiles. Apple’s own widgets on the Home Screen and the desktop are glass tiles with thin light edges, so Apple also puts some content-like surfaces in glass. The [2026 revision](ref:apple-os-27-liquid-glass-revision-2026) moves away from the grammar: a user slider from ultra-clear to tinted, Mac sidebars that run to the window edge again, and opaque sheets. The [icon comparison](ref:liquid-glass-icon-effect-2025-2026-comparison) shows the 2026 icon edge as a thin black outline and a drop shadow instead of a bevel. Capsule controls and concentric corners remain after the revision. Strong transparency and the borderless rim do not fully remain.",
+    "No website or app reference is measured. The two stored images give only pixel color: the Flutter demo is near-neutral beige (chroma 0.06, 0 hues), and the icon comparison has two hues, cyan and orange. All five fingerprint metrics are CSS surface metrics, so they rest only on the specimen: blur share 0.50, gradient share 0.55, round share 1, border share 0, and hard-shadow share 0. Two observations question them, as interpretation, not measurement. The Flutter renderer refracts without blur, so a refraction-only web version could fail `surface.blurShare` (min 0.4). liquidGL draws its refraction in WebGPU or WebGL, which the extractor cannot see; only its backdrop-filter fallback would count. Captures of web implementations are needed before the fingerprint can be calibrated."
+  ],
+  "preview": [
+    "liquid-glass-renderer-flutter-shapes-2025",
+    "liquid-glass-icon-effect-2025-2026-comparison"
+  ]
+}

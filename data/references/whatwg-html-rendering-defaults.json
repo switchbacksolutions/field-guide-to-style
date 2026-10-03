@@ -1,0 +1,46 @@
+{
+  "id": "whatwg-html-rendering-defaults",
+  "title": "WHATWG HTML Living Standard, “Rendering”",
+  "type": "website",
+  "medium": "other",
+  "lede": "The current specification of how browsers are expected to display unstyled HTML, including link blue and visited purple.",
+  "summary": "WHATWG Rendering section: the default link colors #0000EE and #551A8B, and h1 at 2em.",
+  "source": {
+    "url": "https://html.spec.whatwg.org/multipage/rendering.html",
+    "label": "WHATWG HTML Living Standard"
+  },
+  "creator": {
+    "name": "WHATWG",
+    "url": "https://whatwg.org/"
+  },
+  "made": "Living standard (read 2026-10-02)",
+  "moods": [
+    "plain",
+    "utilitarian"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Read the Rendering section on 2026-10-02. A living standard changes, so the values are as of that date."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "brutalist-web-design",
+      "note": "Defines the exact default colors and sizes that the style’s tokens copy.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The expected style sheet contains `:link { color: #0000EE; }` and `:visited { color: #551A8B; }`.",
+    "It sets `:heading(1) { margin-block: 0.67em; font-size: 2.00em; }`, the same h1 size as [CSS 2 Appendix D](ref:css2-default-style-sheet-for-html)."
+  ],
+  "interpretation": [
+    "The source for the primary and secondary colors in the [Brutalist web design](style:brutalist-web-design) tokens."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "WHATWG specification text. No license statement was found on the Rendering page. Link and quotation only; no image stored."
+  }
+}

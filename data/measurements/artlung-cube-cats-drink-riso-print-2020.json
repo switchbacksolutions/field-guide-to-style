@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/artlung-cube-cats-drink-riso-print-2020.jpg",
+  "captured": "2026-10-03T01:53:32+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e2d0ba",
+        "share": 0.208
+      },
+      {
+        "hex": "#eddcc5",
+        "share": 0.082
+      },
+      {
+        "hex": "#5f5a5d",
+        "share": 0.051
+      },
+      {
+        "hex": "#6f6b6c",
+        "share": 0.049
+      },
+      {
+        "hex": "#d2bea6",
+        "share": 0.049
+      },
+      {
+        "hex": "#544d4b",
+        "share": 0.046
+      },
+      {
+        "hex": "#7f7e7e",
+        "share": 0.038
+      },
+      {
+        "hex": "#635b1e",
+        "share": 0.038
+      },
+      {
+        "hex": "#483c39",
+        "share": 0.038
+      },
+      {
+        "hex": "#312c2e",
+        "share": 0.03
+      }
+    ],
+    "background": "#e2d0ba",
+    "chroma": 0.16,
+    "lightness": 0.55,
+    "chromaticShare": 0.11,
+    "accentChroma": 0.4,
+    "distinct": 18,
+    "hues": 2
+  }
+}

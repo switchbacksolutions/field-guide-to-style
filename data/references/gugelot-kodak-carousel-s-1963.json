@@ -1,0 +1,60 @@
+{
+  "id": "gugelot-kodak-carousel-s-1963",
+  "title": "Hans Gugelot, Kodak Carousel S slide projector, 1963",
+  "type": "object",
+  "medium": "product",
+  "lede": "Hans Gugelot’s redesign of the Kodak round-tray projector for Europe: a square grey box under a clear-lidded slide ring, with small black controls.",
+  "summary": "A square grey housing, a black numbered slide ring under a clear lid, and black lens and knobs. Gugelot for Kodak AG, 1963.",
+  "source": {
+    "url": "https://global.museum-digital.org/object/2088570",
+    "label": "Museum Ulm/HfG-Archiv, HfG-Ar MS 0156 (museum-digital)"
+  },
+  "creator": {
+    "name": "Hans Gugelot (form design); Kodak AG, Stuttgart"
+  },
+  "made": "1963",
+  "moods": [
+    "precise",
+    "practical",
+    "calm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the HfG-Archiv image of object HfG-Ar MS 0156 at 960 × 669 px through museum-digital. The case of this copy reads “Kodak Carousel S-AV”, a variant of the S. A second photograph, of a “Carousel S” on the Die Neue Sammlung website (1800 × 1371 px), shows the same form. Its object number could not be read, because the page loads its text by script."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "ulm-school",
+      "note": "An Ulm-made industrial design for a non-Braun client: a plain grey box, numbered ring, and controls reduced to a few black parts.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The HfG-Archiv record credits Kodak AG (Stuttgart) with the manufacture and Hans Gugelot (1920–1965) with the form design, both 1963, and gives metal and electronics, 26 × 26 cm, 15 cm high. [museum-digital 2088570](https://global.museum-digital.org/object/2088570).",
+    "The record says that in the early 1960s Kodak Germany commissioned Gugelot’s “institut für produktgestaltung und design e.V.” in Neu-Ulm to redesign the round-tray projector for Europe. Gugelot bevelled the tray edge so that slides were easier to take out, and added a Plexiglas lid against dust. [museum-digital](https://global.museum-digital.org/object/2088570)."
+  ],
+  "observed": [
+    "The body is a square, matte grey box with slightly rounded vertical edges and a thin seam around its middle.",
+    "A round black slide tray sits on top, edged with a ring of small white numerals, under a clear flat lid.",
+    "The lens, a slide slot, and a knurled knob are black. A small vent of vertical slots sits on one side.",
+    "The name “Kodak Carousel S-AV” is printed small in white on the grey side, with “Kodak” in bold.",
+    "There is no colored accent."
+  ],
+  "interpretation": [
+    "The projector shows the Ulm method outside Braun: a technical object made calm by one grey volume, one radius, and small black controls."
+  ],
+  "borrow": [
+    "Put a numbered scale around a circular control, in small white figures on black."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "The museum-digital record marks the image “RR-P” (rights reserved). Photograph by Ernst Fesseler for Museum Ulm/HfG-Archiv. Gugelot died in 1965, so the design is protected in Germany until the end of 2035. No image is stored."
+  },
+  "identifiers": {
+    "museum-digital": "2088570",
+    "hfg-archiv": "HfG-Ar MS 0156"
+  }
+}

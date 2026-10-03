@@ -1,0 +1,54 @@
+{
+  "id": "stuck-indoors-2-riso-zine-page-2020",
+  "title": "Riso zine page, “stuck indoors 2”",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "A zine page about VHS films, printed in fluorescent pink and blue: collage, text, and drawing on separate layers that overprint into violet and do not quite align.",
+  "summary": "Zine page in pink and blue riso ink, with collage layers that overprint and misregister.",
+  "source": {
+    "url": "https://www.flickr.com/photos/46123010@N04/49985578237/",
+    "label": "Flickr: themostinept, “7th June 2020”"
+  },
+  "creator": {
+    "name": "Unknown. The Flickr uploader, themostinept, does not say who made the zine."
+  },
+  "made": "by 2020 (photographed 7 June 2020)",
+  "moods": [
+    "handmade",
+    "indie",
+    "layered"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Viewed the 704 × 1024 px Flickr “large” file, a phone photograph of one page. The Flickr description is “stuck indoors 2”. The zine’s title and maker are not stated."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "risograph",
+      "note": "Two inks, pink and blue, overprint into violet, and the layers are visibly misregistered.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Posted on Flickr under CC BY-SA 2.0 by themostinept. It is not clear that the uploader made the zine, so the rights of the printed work are unknown."
+  ],
+  "observed": [
+    "The page uses fluorescent pink and a mid blue on off-white paper, and no black.",
+    "A pink rectangle with the word “VHS” sits under a blue drawing of a VHS case and a deer. Where they cross, the color is violet.",
+    "Blue text bars at the top are knocked out of the ink, and the pink layer sits a few millimeters off from the blue.",
+    "Blue areas are grainy and uneven, with streaks in the large photographic areas."
+  ],
+  "interpretation": [
+    "The page shows nearly every riso trait at once: two inks, overprint mixing, grain, and misregistration, used for a personal, collaged zine."
+  ],
+  "borrow": [
+    "Put text in knocked-out bars of a single ink, and let a second ink block run under it slightly off register."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Photo posted CC BY-SA 2.0 by themostinept. The zine’s author is not named, so the printed work is treated as in copyright. Link only."
+  }
+}

@@ -1265,6 +1265,306 @@
         "websiteCaptures": 1,
         "capturesPassing": 0
       }
+    },
+    {
+      "id": "ukiyo-e",
+      "title": "Ukiyo-e",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/ukiyo-e.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/ukiyo-e.json",
+      "status": "draft",
+      "summary": "Black key lines, flat color blocks, and a blue bokashi sky. Woodblock prints of the floating world.",
+      "moods": [
+        "calm",
+        "graphic",
+        "crafted",
+        "narrative",
+        "traditional"
+      ],
+      "uses": [
+        "Museums and print collections",
+        "Tea, sake, and food brands",
+        "Travel and hospitality",
+        "Editorial features and book covers"
+      ],
+      "avoid": [
+        "Dense dashboards and data tables. Outlines and pattern fields compete with many small numbers.",
+        "Brands without a link to Japan, where the style can read as costume or appropriation."
+      ],
+      "era": {
+        "from": 1670,
+        "to": 1868
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 7,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "victorian-typography",
+      "title": "Victorian typography",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/victorian-typography.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/victorian-typography.json",
+      "status": "draft",
+      "summary": "A centred stack of fat faces, slabs, and condensed gothics, every line in a different letter. The jobbing printer's poster.",
+      "moods": [
+        "loud",
+        "showy",
+        "nostalgic",
+        "theatrical",
+        "commercial",
+        "handmade"
+      ],
+      "uses": [
+        "Theatre, circus, music hall, and live event sites",
+        "Craft breweries, distilleries, barbers, and restaurants with a heritage theme",
+        "Letterpress shops and printing museums",
+        "Fairs, markets, and historical festivals",
+        "Posters and announcements for a one-off event"
+      ],
+      "avoid": [
+        "Dense dashboards and data tools. Centred lines and changing faces slow scanning.",
+        "Healthcare, banking, and government services. The style is a sales voice and reads as a joke or a gimmick there.",
+        "Technology products that must look current. The style signals the nineteenth century first.",
+        "Long reading. Display faces and capitals tire the eye after a few lines."
+      ],
+      "era": {
+        "from": 1810,
+        "to": 1890
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "brutalist-web-design",
+      "title": "Brutalist web design",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/brutalist-web-design.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/brutalist-web-design.json",
+      "status": "draft",
+      "summary": "Raw HTML on purpose. Black text, blue links, browser defaults.",
+      "moods": [
+        "raw",
+        "honest",
+        "plain",
+        "utilitarian",
+        "contrarian"
+      ],
+      "uses": [
+        "Personal sites and blogs",
+        "Documentation and reference pages",
+        "Classified listings and link directories",
+        "Artist and designer portfolios that want an anti-polish stance",
+        "Low-bandwidth or long-lived public information pages"
+      ],
+      "avoid": [
+        "Consumer brands that must feel warm, premium, or trustworthy to non-designers. The plain look can read as unfinished.",
+        "Rich applications such as dashboards and editors. Default controls do not scale to dense interaction.",
+        "Children's products and playful launches. The style is dry and austere."
+      ],
+      "era": {
+        "from": 2014,
+        "to": null
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 1,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "liquid-glass",
+      "title": "Liquid Glass",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/liquid-glass.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/liquid-glass.json",
+      "status": "draft",
+      "summary": "Clear, lensing glass controls that float over edge-to-edge content. Apple’s design language from 2025.",
+      "moods": [
+        "luminous",
+        "liquid",
+        "layered",
+        "premium",
+        "dynamic"
+      ],
+      "uses": [
+        "Native-feeling iOS, iPadOS, and macOS apps and their marketing pages",
+        "Media players, photo and map apps with edge-to-edge content",
+        "Floating toolbars and tab bars over a canvas",
+        "Widgets and lock-screen-style overlays",
+        "Product launch pages for consumer hardware"
+      ],
+      "avoid": [
+        "Text-heavy and data-dense products. Text on clear glass over busy content often fails contrast checks (NN/g, 2025).",
+        "Accessibility-critical services such as government and health forms. Translucency and motion reduce legibility.",
+        "Low-power devices and long pages. Real-time refraction and blur cost GPU time, and web versions need WebGL or SVG filters.",
+        "Brands that must not look like Apple. The style reads as an Apple platform look."
+      ],
+      "era": {
+        "from": 2025,
+        "to": null
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 5,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "risograph",
+      "title": "Risograph",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/risograph.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/risograph.json",
+      "status": "draft",
+      "summary": "Two or three fluorescent and spot inks, overprinted, grainy, and slightly out of register. The look of the zine-fair table.",
+      "moods": [
+        "handmade",
+        "playful",
+        "vibrant",
+        "indie",
+        "tactile"
+      ],
+      "uses": [
+        "Zines, small presses, and independent publishers",
+        "Event and gig posters",
+        "Illustrators’ and print studios’ portfolios",
+        "Bookshops, record shops, and cafés",
+        "Community, arts, and education projects"
+      ],
+      "avoid": [
+        "Banking, insurance, and healthcare products. Fluorescent ink and grain read as informal.",
+        "Dense data dashboards. Grain and overprint reduce the legibility of small figures and charts.",
+        "Products that need exact brand color or photography. The palette allows only a few inks."
+      ],
+      "era": {
+        "from": 2000,
+        "to": null
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "ulm-school",
+      "title": "Ulm School",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/ulm-school.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/ulm-school.json",
+      "status": "draft",
+      "summary": "White and grey housings, perforated grilles, and one small spot of color on a control. Order as a service.",
+      "moods": [
+        "calm",
+        "precise",
+        "restrained",
+        "rational",
+        "quiet"
+      ],
+      "uses": [
+        "Hardware and consumer electronics products",
+        "Control panels, settings, and device dashboards",
+        "Furniture and product design studios",
+        "Calm tools and utilities",
+        "Museum and archive sites about design"
+      ],
+      "avoid": [
+        "Loud campaigns and youth brands. The grey, quiet surface reads as reserved.",
+        "Children’s products and festivals that need warmth and many colors.",
+        "Luxury or heritage brands that rely on ornament and rich material."
+      ],
+      "era": {
+        "from": 1953,
+        "to": 1968
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "acid-graphics",
+      "title": "Acid graphics",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/acid-graphics.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/acid-graphics.json",
+      "status": "draft",
+      "summary": "Liquid-chrome lettering and warped or blackletter type on black, often with acid green, packed like a rave flyer.",
+      "moods": [
+        "dystopian",
+        "hedonistic",
+        "cynical",
+        "loud",
+        "nocturnal",
+        "futuristic",
+        "underground"
+      ],
+      "uses": [
+        "Club nights, raves, and electronic music festivals",
+        "Record labels, album covers, and artist sites",
+        "Streetwear and fashion drops",
+        "Gaming, esports, and energy-drink campaigns",
+        "Art school shows and experimental design portfolios"
+      ],
+      "avoid": [
+        "Healthcare, banking, and government services. The dystopian, distorted look reads as unreliable.",
+        "Long reading, documentation, and forms. Distorted and very small type slows reading.",
+        "Products for young children. The rave and heavy-metal references and the cynical tone do not fit.",
+        "Brands that must look calm or sustainable. Acid green on black and chrome read as loud and synthetic."
+      ],
+      "era": {
+        "from": 2014,
+        "to": null
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
+    },
+    {
+      "id": "bento-grid",
+      "title": "Bento grid",
+      "page": "https://field-guide-to-style.alec-5fe.workers.dev/bento-grid.html",
+      "record": "https://field-guide-to-style.alec-5fe.workers.dev/api/styles/bento-grid.json",
+      "status": "draft",
+      "summary": "Rounded tiles of different sizes in one tight grid, one fact per tile. The look of Apple’s keynote summary slides.",
+      "moods": [
+        "organized",
+        "premium",
+        "confident",
+        "calm",
+        "modern"
+      ],
+      "uses": [
+        "Product launch and feature pages",
+        "Presentation summary slides",
+        "SaaS landing pages",
+        "Personal portfolios and link pages",
+        "Dashboards with a few key numbers"
+      ],
+      "avoid": [
+        "Long-form reading and documentation. The tiles break text into fragments.",
+        "Dense data tables and forms. They do not fit into small, self-contained tiles.",
+        "Brands that need warmth, ornament, or a handmade feel. The neutral tiles read as technology marketing."
+      ],
+      "era": {
+        "from": 2019,
+        "to": null
+      },
+      "tokens": true,
+      "fingerprint": {
+        "metrics": 6,
+        "websiteCaptures": 0,
+        "capturesPassing": 0
+      }
     }
   ]
 }

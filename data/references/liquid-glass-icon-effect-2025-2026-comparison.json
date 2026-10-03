@@ -1,0 +1,68 @@
+{
+  "id": "liquid-glass-icon-effect-2025-2026-comparison",
+  "title": "Liquid Glass 3D effect for icons, 2025 and 2026 versions",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A Wikimedia Commons diagram that renders the same simple icon in Icon Composer with the 2025 and the 2026 Liquid Glass edge effect.",
+  "summary": "One icon, two years of the glass edge: wide bevels in 2025, thin edges in 2026.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Liquid_Glass_-_3D_effect_for_icons_2025-2026.png",
+    "label": "Wikimedia Commons"
+  },
+  "creator": {
+    "name": "LucaLindholm (Wikimedia Commons user)",
+    "url": "https://commons.wikimedia.org/wiki/User:LucaLindholm"
+  },
+  "made": "2026-06-10 (made with Apple Icon Composer, per the file description)",
+  "moods": [
+    "liquid",
+    "playful",
+    "dimensional"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons original (3000 × 2000 PNG). The stored copy is resized to 1600 px."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "liquid-glass",
+      "note": "Documents the style’s icon edge treatment and how Apple reduced it in the 2026 revision.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The file description: in the iOS/macOS 27 version “there are for each form or layout narrower 3D borders, a black tiny border and an optional light shadow”. Source given as Apple Icon Composer. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Liquid_Glass_-_3D_effect_for_icons_2025-2026.png).",
+    "Wikipedia reports that at WWDC 2026 Apple reduced default transparency, changed the effect of the glass, and revamped app icons to make them more recognizable. [Wikipedia: Liquid Glass](https://en.wikipedia.org/wiki/Liquid_Glass)."
+  ],
+  "observed": [
+    "A light grey canvas with a bold black title, “Liquid Glass 3D effect for icons 2025 and 2026 version”.",
+    "Left, labeled iOS/iPadOS/macOS/watchOS 26 (2025): a cyan rectangle with an orange disc. Both have wide bevels: a bright upper-left edge, a dark lower-right edge, and a soft specular highlight on the disc.",
+    "Right, labeled 27 (2026): the same shapes with flat fills, a thin black outline, and a soft drop shadow. The bevel is almost gone."
+  ],
+  "interpretation": [
+    "The 2025 icon edge is the specular rim of the style applied to opaque shapes. The 2026 version moves toward flat design with outlines, which shows how quickly Apple softened the look after criticism."
+  ],
+  "borrow": [
+    "For a dimensional edge, light one corner and shade the opposite corner of the same shape, instead of adding a separate gloss layer."
+  ],
+  "images": [
+    {
+      "file": "assets/references/liquid-glass-icon-effect-2025-2026-comparison.png",
+      "alt": "Two cyan rectangles with an orange disc. The left one has wide light and dark bevels; the right one is flat with a thin black outline and a shadow.",
+      "width": 1600,
+      "height": 1067,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "“Liquid Glass - 3D effect for icons 2025-2026” by LucaLindholm, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Liquid_Glass_-_3D_effect_for_icons_2025-2026.png), CC BY 4.0. Resized to 1600 px.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Liquid_Glass_-_3D_effect_for_icons_2025-2026.png",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-4.0",
+    "statement": "Commons: own work by LucaLindholm, Creative Commons Attribution 4.0, marked “trademarked”. The image shows simple shapes drawn by the uploader and rendered with Apple’s tool. It contains no Apple icon or artwork."
+  }
+}
