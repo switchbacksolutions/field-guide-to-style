@@ -1,0 +1,71 @@
+{
+  "id": "boccioni-dynamism-of-a-cyclist-1913",
+  "title": "Dynamism of a Cyclist",
+  "type": "image",
+  "medium": "painting",
+  "lede": "Umberto Boccioni breaks a racing cyclist into interlocking wedges and arcs of prismatic color, so that the rider, the machine, and the air around them read as one burst of speed.",
+  "summary": "A cyclist dissolved into blue, ochre, and green wedges with red and violet arcs of force. Umberto Boccioni, 1913.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Umberto_Boccioni,_1913,_Dynamism_of_a_Cyclist_(Dinamismo_di_un_ciclista),_oil_on_canvas,_70_x_95_cm,_Gianni_Mattioli_Collection,_on_long-term_loan_to_the_Peggy_Guggenheim_Collection,_Venice.jpg",
+    "label": "Wikimedia Commons: Dynamism of a Cyclist, credited to the Peggy Guggenheim Collection"
+  },
+  "creator": {
+    "name": "Umberto Boccioni",
+    "url": "https://en.wikipedia.org/wiki/Umberto_Boccioni"
+  },
+  "made": "1913",
+  "moods": ["fast", "exuberant", "mechanical"],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Commons file (original 3477 × 2520 px; a 1280 × 928 px rendering was inspected and stored, because the full file was rate-limited). The Commons credit is the Peggy Guggenheim Collection. The physical work is the oil on canvas, 70 × 95 cm, in the Gianni Mattioli Collection, on long-term loan to the Peggy Guggenheim Collection, Venice, as the file description states."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "futurism",
+      "note": "A canonical image of the plastic dynamism phase: a modern machine and its rider shown as interpenetrating planes and lines of force.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Oil on canvas, 70 × 95 cm, 1913. Gianni Mattioli Collection, which the Peggy Guggenheim Collection has hosted on long-term loan since 1997. [Peggy Guggenheim Collection press release](https://www.guggenheim-venice.it/en/press/press-releases/masterpieces-of-futurism-at-the-peggy-guggenheim-collection/).",
+    "The same press release names *Dynamism of a Cyclist* with *Materia* among the Boccioni masterpieces of the Mattioli Collection. [Peggy Guggenheim Collection](https://www.guggenheim-venice.it/en/press/press-releases/masterpieces-of-futurism-at-the-peggy-guggenheim-collection/)."
+  ],
+  "observed": [
+    "The figure, bent low, is built from overlapping wedges, cones, and curved planes in blue, ochre, brown, and green. No continuous outline separates rider from bicycle.",
+    "Two long arcs, one red and one violet, sweep down the left edge; a red and a green band cut across the top.",
+    "Thin straight black lines run diagonally through the forms, like spokes or lines of force.",
+    "The background is short, dabbed strokes of yellow, pink, lilac, and pale blue, with no horizon.",
+    "Pale chevrons and wedges at lower right appear to repeat the forms behind the moving figure."
+  ],
+  "interpretation": [
+    "Compared with [The City Rises](ref:boccioni-the-city-rises-1910), the divisionist strokes remain but the forms are now cut into Cubist-like planes. The picture shows motion by fusing the object with its environment, not by drawing a trail.",
+    "The palette is prismatic rather than flat: many saturated hues side by side, which a printed Futurist page later reduces to a few inks."
+  ],
+  "borrow": [
+    "Build a moving subject from overlapping wedges that point the same way, and let the background planes continue the same angles.",
+    "Use long sweeping arcs at one edge to give a composition a direction of travel.",
+    "Cross the forms with a few thin straight lines to suggest force and structure."
+  ],
+  "images": [
+    {
+      "file": "assets/references/boccioni-dynamism-of-a-cyclist-1913.jpg",
+      "alt": "Painting of a cyclist bent forward, broken into interlocking wedges of blue, ochre, brown, and green. Red and violet arcs sweep down the left edge, and thin black lines cross the forms against a speckled yellow and lilac ground.",
+      "width": 1280,
+      "height": 928,
+      "kind": "source-image",
+      "caption": "Umberto Boccioni, *Dynamism of a Cyclist*, 1913, oil on canvas, 70 × 95 cm. Gianni Mattioli Collection, on long-term loan to the Peggy Guggenheim Collection, Venice. Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Umberto_Boccioni,_1913,_Dynamism_of_a_Cyclist_(Dinamismo_di_un_ciclista),_oil_on_canvas,_70_x_95_cm,_Gianni_Mattioli_Collection,_on_long-term_loan_to_the_Peggy_Guggenheim_Collection,_Venice.jpg), marked public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Umberto_Boccioni%2C_1913%2C_Dynamism_of_a_Cyclist_%28Dinamismo_di_un_ciclista%29%2C_oil_on_canvas%2C_70_x_95_cm%2C_Gianni_Mattioli_Collection%2C_on_long-term_loan_to_the_Peggy_Guggenheim_Collection%2C_Venice.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Wikimedia Commons marks the file public domain. Boccioni was Italian and died in 1916, so the painting is public domain in Italy. It dates from 1913 and its author died more than 70 years ago, so it is also public domain in the United States. The image is a faithful reproduction of a two-dimensional work."
+  },
+  "identifiers": {
+    "commons": "File:Umberto Boccioni, 1913, Dynamism of a Cyclist (Dinamismo di un ciclista), oil on canvas, 70 x 95 cm, Gianni Mattioli Collection, on long-term loan to the Peggy Guggenheim Collection, Venice.jpg"
+  }
+}

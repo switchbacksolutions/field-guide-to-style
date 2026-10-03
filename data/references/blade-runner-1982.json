@@ -1,0 +1,59 @@
+{
+  "id": "blade-runner-1982",
+  "title": "Blade Runner",
+  "type": "product",
+  "medium": "other",
+  "lede": "Ridley Scott’s 1982 film set in a rain-soaked Los Angeles of 2019, whose dark, neon-lit, high-tech but decaying city became the visual model for cyberpunk.",
+  "summary": "The founding image of the cyberpunk city: rain, neon, giant advertising, and noir darkness. Ridley Scott, with Syd Mead as concept artist, 1982.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Blade_Runner",
+    "label": "Wikipedia: Blade Runner"
+  },
+  "creator": {
+    "name": "Ridley Scott (director); Syd Mead (concept artist); Lawrence G. Paull (production designer); Jordan Cronenweth (cinematographer)"
+  },
+  "made": "1982 (released 25 June 1982)",
+  "moods": [
+    "dystopian",
+    "nocturnal",
+    "gritty",
+    "melancholy"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the Wikipedia article, read as wikitext on 2026-10-02. No image of the film was inspected for this record."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "cyberpunk",
+      "note": "The style record names Blade Runner as one of the two works that set the look of cyberpunk. Wikipedia calls it “a foundational work of the cyberpunk genre”.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: “Hailed for its production design depicting a high-tech but decaying future, the film is often regarded as both a leading example of neo-noir cinema and a foundational work of the cyberpunk genre.” [Wikipedia](https://en.wikipedia.org/wiki/Blade_Runner).",
+    "Scott used Edward Hopper’s *Nighthawks* and the French comics magazine *Métal Hurlant* as mood sources, and drew on the landscape of “Hong Kong on a very bad day”. He hired Syd Mead as concept artist. Production designer Lawrence G. Paull and art director David Snyder realized Scott’s and Mead’s sketches. [Wikipedia](https://en.wikipedia.org/wiki/Blade_Runner).",
+    "Wikipedia notes that the film’s look, “in particular its overall darkness, preponderance of neon lights and opaque visuals”, made it a popular reference point for video games. [Wikipedia](https://en.wikipedia.org/wiki/Blade_Runner)."
+  ],
+  "interpretation": [
+    "The film fixed the core of the style’s imagery: night, rain, neon, and advertising on a scale that dwarfs people. Most later works quote it, including [Cyberpunk 2077](ref:cyberpunk-2077-video-game-2020).",
+    "Its link to film noir explains why the style is dark and lit by small, hard sources instead of daylight."
+  ],
+  "borrow": [
+    "Keep most of the frame dark and let a few signs, screens, or advertisements carry all the light.",
+    "Pair high-tech elements with signs of wear and decay so that the future looks used."
+  ],
+  "next": [
+    "Find an openly licensed or museum-documented still, or a production design drawing, that can be inspected, and upgrade the evidence level."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The film, its posters, and its stills are in copyright. This record does not name the rights holders."
+  },
+  "identifiers": {
+    "wikidata": "Q184843"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/kenney-1-bit-pack-2019.png",
+  "captured": "2026-10-03T00:34:02+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#472d3c",
+        "share": 0.383
+      },
+      {
+        "hex": "#513c47",
+        "share": 0.104
+      },
+      {
+        "hex": "#877576",
+        "share": 0.06
+      },
+      {
+        "hex": "#938382",
+        "share": 0.046
+      },
+      {
+        "hex": "#7b676b",
+        "share": 0.043
+      },
+      {
+        "hex": "#6f5a61",
+        "share": 0.041
+      },
+      {
+        "hex": "#a39590",
+        "share": 0.037
+      },
+      {
+        "hex": "#7d4e48",
+        "share": 0.037
+      },
+      {
+        "hex": "#654e57",
+        "share": 0.035
+      },
+      {
+        "hex": "#b7aba2",
+        "share": 0.035
+      }
+    ],
+    "background": "#472d3c",
+    "chroma": 0.13,
+    "lightness": 0.36,
+    "chromaticShare": 0.11,
+    "accentChroma": 0.42,
+    "distinct": 14,
+    "hues": 4
+  }
+}

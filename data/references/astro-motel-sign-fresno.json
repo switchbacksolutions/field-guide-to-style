@@ -1,0 +1,56 @@
+{
+  "id": "astro-motel-sign-fresno",
+  "title": "Astro Motel sign, Fresno",
+  "type": "object",
+  "medium": "signage",
+  "lede": "A motel sign on Fresno’s Motel Drive: a spire topped by a ring with radiating spikes, over a panel with “astro” in neon script and “MOTEL” in tube capitals.",
+  "summary": "A tapering spire with an orbit ring and spikes over a script-and-capitals neon panel with upswept ends. Fresno, California, photographed 1987.",
+  "source": {
+    "url": "https://www.loc.gov/item/2017703592/",
+    "label": "Library of Congress: John Margolies, Astro Motel sign, Motel Drive, Fresno, California, 1987"
+  },
+  "made": "Sign date not recorded; photographed 1987",
+  "moods": [
+    "roadside",
+    "futuristic",
+    "flashy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected John Margolies’s 1987 color slide, Library of Congress LC-MA05-1478, 702 × 1024 px, in a scratchpad. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "googie",
+      "note": "A space-age motel sign: a spire, an orbit ring with star spikes, a panel with upswept ends, and a name in neon script over tube capitals.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Library of Congress record gives only the title, the date of the photograph (1987), and the Margolies category “Motel signs.” It does not date or attribute the sign. [Library of Congress](https://www.loc.gov/item/2017703592/)."
+  ],
+  "observed": [
+    "A tall tapering spire, lined with rows of bulbs on one edge, rises from a stuccoed base.",
+    "At the top, a ring seen almost edge-on surrounds a frame of crossed bars, and thin spikes radiate from the ring like a starburst or an orbit diagram.",
+    "The main panel is dark maroon with pale tube lettering: “astro” in a connected lowercase script with a long cross-stroke, and “MOTEL” below it in wide capitals drawn as double-line tubes.",
+    "Pale wings at both ends of the panel slope up and out, so the top edge is wider than the base.",
+    "The whole sign stands against a deep blue sky; the sign colors are pale pink, maroon, and cream. The neon is not lit."
+  ],
+  "interpretation": [
+    "The ring and spikes combine the orbit of the atom symbol with a starburst: one compact space-age emblem at the top of a pylon, read from far down the road."
+  ],
+  "borrow": [
+    "Pair one script word with a second word in wide capitals, both drawn as double-line outlines.",
+    "Flare the ends of a sign panel up and out, so the top edge is longer than the base."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Margolies photograph has “No known restrictions on publication” (Library of Congress), but the Library notes that works shown in the photographs may have their own rights. The sign is the main subject and its designer, date, and copyright status are unknown. If it was erected before 1978 without a copyright notice it is probably in the public domain; this was not checked."
+  },
+  "identifiers": {
+    "loc": "2017703592"
+  }
+}

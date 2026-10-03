@@ -30,6 +30,12 @@
       "id": "mid-century-modern",
       "note": "Clear: a contemporary revival of the illustrative core, with flat planes, a warm brown-orange-olive palette, atomic and biomorphic props, and stylized figures. The page is a full-bleed image slider, so the style is in the artwork, not in the page layout.",
       "basis": "agent"
+    },
+    {
+      "id": "googie",
+      "note": "Partial fit: the painted lounge scenes use the Atomic Age starburst and space-age props, but the page itself is a plain image slider.",
+      "basis": "agent",
+      "qualifier": "partial fit"
     }
   ],
   "observed": [

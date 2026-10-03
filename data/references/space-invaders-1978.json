@@ -1,0 +1,55 @@
+{
+  "id": "space-invaders-1978",
+  "title": "Space Invaders",
+  "type": "product",
+  "medium": "software",
+  "lede": "Tomohiro Nishikado’s arcade game for Taito made rows of two-frame bitmap aliens the first icons of video game pixel art.",
+  "summary": "Rows of two-frame bitmap aliens over bunkers and a laser cannon, in black and white with colored cellophane strips. Taito, 1978.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Space_Invaders",
+    "label": "Wikipedia: Space Invaders"
+  },
+  "creator": {
+    "name": "Tomohiro Nishikado for Taito; distributed outside Japan by Midway"
+  },
+  "made": "1978 (Japan, July 1978)",
+  "moods": ["game-like", "nostalgic", "crisp"],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the Wikipedia article and its cited sources. No image was inspected for this record: the game graphics are in copyright, and no open, verified image was found."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "pixel-art",
+      "note": "A founding work of the style: hand-drawn bitmap sprites with two-frame animation, which the style record names as the start of its era.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia calls Space Invaders a 1978 fixed shooter developed and published by Taito for arcades, released in Japan in July 1978 and abroad through Midway later that year. [Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders).",
+    "Nishikado created bitmap images of octopus-like aliens after *The War of the Worlds*, with other aliens after squids and crabs. After he drew the pixel art, he made a tool to animate two frames of movement for each character and adjusted the designs on screen with a light pen. [Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders).",
+    "The game runs on an Intel 8080 and draws raster graphics through a bitmapped framebuffer. The hardware could not show color, so the first releases have black-and-white graphics with strips of orange and green cellophane over parts of the screen. [Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders).",
+    "Wikipedia says the pixelated aliens “have become pop culture icons, sometimes representing video games as a whole”. [Wikipedia](https://en.wikipedia.org/wiki/Space_Invaders)."
+  ],
+  "interpretation": [
+    "The two-frame aliens are the model for the style’s motion rule: animation steps between a few frames, with no easing.",
+    "The cellophane strips show that the first color in the style came from hardware limits, as bands of flat color, not shading."
+  ],
+  "borrow": [
+    "Animate small sprites with two frames that alternate in step with movement.",
+    "Color whole horizontal bands of a monochrome screen instead of shading single objects."
+  ],
+  "next": [
+    "Find an openly licensed image of the original arcade screen or of the alien bitmaps, and check its rights."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Commercial game graphics by Taito, in copyright. Link and metadata only."
+  },
+  "identifiers": {
+    "wikidata": "Q220665"
+  }
+}

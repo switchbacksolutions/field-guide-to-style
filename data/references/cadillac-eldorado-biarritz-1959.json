@@ -1,0 +1,75 @@
+{
+  "id": "cadillac-eldorado-biarritz-1959",
+  "title": "Cadillac Eldorado Biarritz, 1959",
+  "type": "product",
+  "medium": "product",
+  "lede": "The 1959 Cadillac convertible, remembered for the tallest tail fins of the period: sharp fins with twin bullet tail lights over a jewel-like chrome grille.",
+  "summary": "Pointed tail fins with twin red bullet lights, a chrome grille of small studs, and jet-exhaust bumper pods, in flamingo pink. General Motors, 1959.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Cadillac_Eldorado",
+    "label": "Wikipedia: Cadillac Eldorado"
+  },
+  "creator": {
+    "name": "Cadillac, General Motors"
+  },
+  "made": "1959 model year",
+  "moods": [
+    "flashy",
+    "optimistic",
+    "jet-age"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected two CC0 photographs of one restored car at a 2025 show by “Charles from Port Chester, New York” on Wikimedia Commons, at 1920 px: the rear view (stored) and the front three-quarter view ([Commons](https://commons.wikimedia.org/wiki/File:Cadillac_Eldorado_Biarritz_(1959)_(54801176727).jpg)). The pink paint is this car’s finish; the color is not documented as original."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "googie",
+      "note": "Partial fit: a car, not a sign or building, but its tail fins and jet-exhaust lights are the jet-age source of Googie’s upswept angles, which the style record names as an influence.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: the 1959 Cadillac is remembered for its huge sharp tailfins with dual bullet tail lights, two rooflines, and new jewel-like grille patterns with matching deck-lid panels. GM lowered, lengthened, and widened its 1959 styling in response to Virgil Exner’s redesign at Chrysler. [Wikipedia: Cadillac Eldorado](https://en.wikipedia.org/wiki/Cadillac_Eldorado).",
+    "The Googie style record and Wikidata list jet aircraft and the Space Age as influences on Googie. [Wikipedia: Googie architecture](https://en.wikipedia.org/wiki/Googie_architecture)."
+  ],
+  "observed": [
+    "Two tall fins rise from the rear fenders and end in sharp points that lean back past the trunk.",
+    "Each fin carries a pair of red, pointed bullet-shaped tail lights, one above the other, set in chrome.",
+    "The rear bumper ends at each side in a large round chrome pod with a dark center and a small chevron, like a jet exhaust.",
+    "Between the pods, a wide grille of small chrome studs in rows spans the back; a matching panel sits on the deck lid.",
+    "The body is flamingo pink with a white leather interior and bright chrome trim.",
+    "Spectators and food trucks at the show stand in the background."
+  ],
+  "interpretation": [
+    "The fins carry the same upswept, pointed line as Googie roofs and sign pylons, and the bullet lights read as rocket exhausts: the car is a product version of the style’s jet imagery.",
+    "It is a partial fit: the style is defined by signs and buildings, and the car has no starbursts, neon, or script signs."
+  ],
+  "borrow": [
+    "End a horizontal bar with a sharp upswept point, like a fin, instead of a rounded cap.",
+    "Use a tight grid of small studs or dots as a chrome-like texture strip, not a gradient."
+  ],
+  "images": [
+    {
+      "file": "assets/references/cadillac-eldorado-biarritz-1959.jpg",
+      "alt": "Rear view of a pink 1959 Cadillac Eldorado convertible on grass: two tall pointed tail fins with twin red bullet lights, a wide chrome studded grille between round chrome bumper pods, and an Eldorado license plate. People and vans are in the background.",
+      "width": 1600,
+      "height": 1032,
+      "kind": "photograph",
+      "caption": "Cadillac Eldorado Biarritz (1959), rear view, photographed 31 August 2025 by Charles from Port Chester, New York, CC0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cadillac_Eldorado_Biarritz_(1959)_(54802366150).jpg). The people and vehicles behind it are incidental.",
+      "original": "https://commons.wikimedia.org/wiki/File:Cadillac_Eldorado_Biarritz_(1959)_(54802366150).jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "Photograph: CC0 1.0 (Wikimedia Commons). Car: a United States useful article whose shape is not protected by copyright. Cadillac and Eldorado are General Motors trademarks, used here only for commentary. People in the background are small and not the subject."
+  },
+  "identifiers": {
+    "wikidata": "Q1025182",
+    "commons": "File:Cadillac Eldorado Biarritz (1959) (54802366150).jpg"
+  }
+}

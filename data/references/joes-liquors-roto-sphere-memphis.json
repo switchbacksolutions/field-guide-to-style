@@ -1,0 +1,61 @@
+{
+  "id": "joes-liquors-roto-sphere-memphis",
+  "title": "Roto-Sphere sign, Joe’s Liquors, Memphis",
+  "type": "object",
+  "medium": "signage",
+  "lede": "A spinning “Sputnik” sign from Warren Milks’s Roto-Sphere series of 1960–71: a red ball with sixteen colored spikes over a zigzag arrow and a “JOE’S” box.",
+  "summary": "A red ball with sixteen colored neon-edged spikes over a zigzag arrow, the “Sputnik” of Joe’s Liquors. Warren Milks, about 1962, photographed 2021.",
+  "source": {
+    "url": "https://www.loc.gov/item/2021756385/",
+    "label": "Library of Congress: Carol M. Highsmith, Colorful space satellite-like sign for Joe’s Restaurant in Memphis, Tennessee, 2021"
+  },
+  "creator": {
+    "name": "Warren Milks (Roto-Sphere)"
+  },
+  "made": "Roto-Spheres made 1960–1971; this one shown in a 1962 grand-opening advertisement (Roadside Architecture); restored 1999; photographed 14 October 2021",
+  "moods": [
+    "roadside",
+    "playful",
+    "futuristic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Carol M. Highsmith’s 2021 photograph, Library of Congress LC-DIG-highsm-68164, 683 × 1024 px, in a scratchpad. Not stored. The Library of Congress title says “Joe’s Restaurant”; the sign and the Roadside Architecture account identify the business as Joe’s Liquors (now Joe’s Wines & Liquor)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "googie",
+      "note": "A spiked sphere over a zigzag arrow, the satellite-and-starburst symbol of the style as a roadside sign.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Roadside Architecture: Warren Milks made about 234 Roto-Spheres at his sign shop in Bossier City, Louisiana, from 1960 to 1971. Each has sixteen eight-foot aluminum spikes outlined in neon, and a motor turns the ball and its counter-rotating halves. The Memphis store’s grand-opening advertisement called it “the Sign of the Sputnik”; the owners raised $12,000 to restore it in 1999. [Roadside Architecture: Roto-Spheres](https://www.roadarch.com/sca/roto.html).",
+    "The Daily Memphian reports that Roto-Spheres were not, according to historians, inspired by Sputnik, although locals call the sign “the Sputnik.” [Daily Memphian](https://dailymemphian.com/article/22246/sputnik-returns-to-its-midtown-post)."
+  ],
+  "observed": [
+    "A glossy red ball sits on a white pole; long tapering spikes radiate from it in all directions, each a different color: yellow, red, blue, green, teal, white, and orange.",
+    "Each spike is edged with a thin line of tube along its length.",
+    "Below the ball, a yellow-orange arrow bent into a zigzag points down to the box sign.",
+    "The box sign reads “JOE’S” in white capitals on a black panel with a red corner block.",
+    "The ground is a cloudy gray-blue sky; the neon is not lit."
+  ],
+  "interpretation": [
+    "Whatever its maker intended, the sign reads as the style’s starburst-satellite: a central sphere with radiating rays in many saturated colors.",
+    "The zigzag arrow is a second Googie motif, the lightning bolt or boomerang that directs the driver’s eye."
+  ],
+  "borrow": [
+    "Use a central dot with radiating spikes of different colors as a badge or a loading mark.",
+    "Use a bent zigzag arrow to point from a heading to an action."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Highsmith photograph has “No known restrictions on publication” (Library of Congress), but the sign is the main subject. Roto-Spheres were sold commercially from 1960, which may have published the design; whether they carried a copyright notice was not checked."
+  },
+  "identifiers": {
+    "loc": "2021756385"
+  }
+}

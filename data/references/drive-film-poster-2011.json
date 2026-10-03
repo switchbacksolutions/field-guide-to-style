@@ -1,0 +1,55 @@
+{
+  "id": "drive-film-poster-2011",
+  "title": "Drive (2011 film), US theatrical poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "The US poster for Nicolas Winding Refn’s *Drive*: a sunlit photograph of Ryan Gosling and a huge hot-pink brush-script title on a white border.",
+  "summary": "Hot-pink brush-script “Drive” over a sunlit portrait on white. US theatrical poster, 2011.",
+  "source": {
+    "url": "http://www.impawards.com/2011/drive.html",
+    "label": "IMP Awards: Drive (2011)"
+  },
+  "creator": {
+    "name": "FilmDistrict (distributor); designer not credited on the source"
+  },
+  "made": "2011; film released in the US on 16 September 2011 (Wikipedia)",
+  "moods": [
+    "cinematic",
+    "nostalgic",
+    "tense"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1000 × 1500 poster image from [IMP Awards](http://www.impawards.com/2011/posters/drive_xlg.jpg) in a scratch folder. Not stored. This is the “Some heroes are real” one-sheet with the 09.16.11 date, not the steering-wheel poster in the Wikipedia infobox."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "synthwave",
+      "note": "Partial fit: the film is a named source of the synthwave revival and its hot-pink script title became a template, but this poster is light and photographic, with no neon, grid, or night sky.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: *Drive* was directed by Nicolas Winding Refn and released in the United States on 16 September 2011. “While *Drive* is set in the present day, it has a 1980s atmosphere, underlined by the vehicles, music, and clothes, and by the architecture.” Its hot-pink opening credits were inspired by *Risky Business* (1983), and the credits play over Kavinsky’s “Nightcall”. [Wikipedia](https://en.wikipedia.org/wiki/Drive_(2011_film)).",
+    "The [synthwave](style:synthwave) record lists *Drive* among the works that spread the look. Wikipedia says that *Hotline Miami* ([record](ref:hotline-miami-2012)) took inspiration from it, and that James White, who drew the *Blood Dragon* key art ([record](ref:far-cry-3-blood-dragon-2013)), had made artwork for the film."
+  ],
+  "observed": [
+    "A white sheet frames a tall, warm photograph of a man in a dirty white T-shirt seen from below, against a hazy pale-yellow sky, with a concrete bridge at the lower right.",
+    "The title “Drive” is set very large in a hot-pink, rough-edged brush script. It overlaps the bottom of the photograph and runs out onto the white border.",
+    "“SOME HEROES ARE REAL” runs vertically up the left margin in small, widely spaced thin capitals.",
+    "“IN THEATRES 09.16.11” sits at the bottom in wide-spaced italic gray capitals."
+  ],
+  "interpretation": [
+    "The poster shows where the hot-pink script came from: a daylight, film-poster gesture that later synthwave covers moved onto a black night ground and lit as neon. On its own it fails the rubric’s counter-sign of a light ground."
+  ],
+  "borrow": [
+    "Set one short word very large in a hot-pink brush script, overlapping the edge of the image it names."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The poster is in copyright (FilmDistrict / Drive Film Holdings, 2011)."
+  }
+}

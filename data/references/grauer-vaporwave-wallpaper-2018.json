@@ -30,6 +30,12 @@
       "id": "vaporwave",
       "note": "Partial fit: the author calls it a vaporwave wallpaper and it has the grid floor and striped sun, but it has no collage, statue, or software chrome, and the grid-and-sun scene alone is shared with synthwave. The violet sky, not black, keeps it on the vaporwave side.",
       "basis": "agent"
+    },
+    {
+      "id": "synthwave",
+      "note": "Partial fit: the striped sun over a magenta grid plain is the core synthwave scene, but the violet sky is softer than its usual black night.",
+      "basis": "agent",
+      "qualifier": "partial fit"
     }
   ],
   "context": [

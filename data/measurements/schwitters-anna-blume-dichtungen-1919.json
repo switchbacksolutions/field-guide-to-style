@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/schwitters-anna-blume-dichtungen-1919.jpg",
+  "captured": "2026-10-03T00:59:19+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#76694a",
+        "share": 0.365
+      },
+      {
+        "hex": "#85785c",
+        "share": 0.149
+      },
+      {
+        "hex": "#68593a",
+        "share": 0.111
+      },
+      {
+        "hex": "#947351",
+        "share": 0.108
+      },
+      {
+        "hex": "#918568",
+        "share": 0.066
+      },
+      {
+        "hex": "#6f221a",
+        "share": 0.033
+      },
+      {
+        "hex": "#876744",
+        "share": 0.031
+      },
+      {
+        "hex": "#524431",
+        "share": 0.028
+      },
+      {
+        "hex": "#443728",
+        "share": 0.027
+      },
+      {
+        "hex": "#35291d",
+        "share": 0.027
+      }
+    ],
+    "background": "#76694a",
+    "chroma": 0.18,
+    "lightness": 0.38,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.33,
+    "distinct": 12,
+    "hues": 1
+  }
+}

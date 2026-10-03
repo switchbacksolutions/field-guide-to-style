@@ -1,0 +1,72 @@
+{
+  "id": "marinetti-premier-record-1916",
+  "title": "Parole in libertà (premier record)",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "A words-in-freedom sheet by F. T. Marinetti that mixes hand lettering, cut-out printed type, maps, cars, aeroplanes, and an airship to celebrate the first record of speed and distance.",
+  "summary": "A huge “1er RÉCORD” among arrows, cars, aeroplanes, and lettering at every angle. F. T. Marinetti, 1916.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Filippo_tommaso_marinetti,_parole_in_libert%C3%A0_(premier_record),_1916_(coll._priv.).jpg",
+    "label": "Wikimedia Commons: Filippo Tommaso Marinetti, parole in libertà (premier record), 1916 (coll. priv.)"
+  },
+  "creator": {
+    "name": "Filippo Tommaso Marinetti",
+    "url": "https://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti"
+  },
+  "made": "1916",
+  "moods": ["exuberant", "fast", "loud"],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Commons file (original 1652 × 2136 px; stored at 1237 × 1600 px). It is a photograph by the Commons user Sailko, taken on 26 June 2017 at the exhibition *Intuition* at the Palazzo Fortuny, Venice. The file title says the work is in a private collection. The photo is taken through glazing; the frame and slight reflections are visible."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "futurism",
+      "note": "A full words-in-freedom page: type in many sizes and at many angles, very large numbers, arrows of force, and the machines of speed.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Commons file names the work *parole in libertà (premier record)*, 1916, in a private collection, and records that it was photographed in the exhibition *Intuition* at the Palazzo Fortuny, Venice, in 2017. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Filippo_tommaso_marinetti,_parole_in_libert%C3%A0_(premier_record),_1916_(coll._priv.).jpg)."
+  ],
+  "observed": [
+    "A tall black “1” cut from paper and a hand-lettered “er” and “RÉCORD” in brown ink dominate the upper half.",
+    "At the top, “PREMIER” and “MOI” are written many times in different sizes and in both capitals and lower case, running off at slight angles.",
+    "Arrows and dashed lines point upward to the right toward the word “PÔLE”; along them run stretched words such as “COURAAAAAAGE” and “ENCOOOOORE”.",
+    "Cut-out printed pictures of cars, an airship, a biplane, a locomotive, and a map of Labrador and Newfoundland are pasted at different angles.",
+    "Brown ink drawings of racing cars, a horse and rider, and a running figure fill the lower half.",
+    "A black jagged line runs diagonally down the right side; the words “5000 Km” and “ATLANTIQUE” follow another diagonal.",
+    "The palette is brown ink and black on aged buff paper."
+  ],
+  "interpretation": [
+    "The sheet treats a page as a map of effort and speed: records, distances, and machines are joined by arrows. The repeated “MOI” and “PREMIER” make the egotism of the record into typography.",
+    "Hand lettering, printed fragments, and pictures sit together without a grid, which is the core of the words-in-freedom method."
+  ],
+  "borrow": [
+    "Make one number or word much larger than everything else and let the rest orbit it.",
+    "Repeat a short word at many sizes to build a chant.",
+    "Join words with arrows and dashed paths so the reading order becomes a route."
+  ],
+  "images": [
+    {
+      "file": "assets/references/marinetti-premier-record-1916.jpg",
+      "alt": "Framed sheet of aged buff paper with a huge black 1 and the brown hand-lettered words er RÉCORD and PÔLE. Repeated words PREMIER and MOI fill the top; arrows, dashed lines, cut-out pictures of cars, an airship, a biplane, a map, and a locomotive, and ink drawings of racing cars cover the rest at many angles.",
+      "width": 1237,
+      "height": 1600,
+      "kind": "photograph",
+      "caption": "F. T. Marinetti, *Parole in libertà (premier record)*, 1916, private collection, in the exhibition *Intuition*, Palazzo Fortuny, Venice, 2017. Photograph by Sailko, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Filippo_tommaso_marinetti,_parole_in_libert%C3%A0_(premier_record),_1916_(coll._priv.).jpg), CC BY 3.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/03/Filippo_tommaso_marinetti%2C_parole_in_libert%C3%A0_%28premier_record%29%2C_1916_%28coll._priv.%29.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-3.0",
+    "statement": "Photograph by Sailko, licensed CC BY 3.0 on Wikimedia Commons. Marinetti was Italian and died in 1944, more than 70 years ago, so the work is public domain in Italy. It dates from 1916; published or not, it is public domain in the United States because it predates 1931 or its author died more than 70 years ago. Cut-out printed pictures in the collage are by unknown makers and date from before 1916."
+  },
+  "identifiers": {
+    "commons": "File:Filippo tommaso marinetti, parole in libertà (premier record), 1916 (coll. priv.).jpg"
+  }
+}

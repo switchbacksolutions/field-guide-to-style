@@ -1,0 +1,72 @@
+{
+  "id": "j4p4n-synthwave-banner-2018",
+  "title": "Synthwave banner (j4p4n, Openclipart)",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A public-domain vector banner: a striped orange sun, a glowing magenta wireframe landscape, and the word “Synthwave” in green brush script on a flat dark violet ground.",
+  "summary": "Striped sun, magenta wireframe grid, green script “Synthwave” on dark violet. CC0 vector, 2018.",
+  "source": {
+    "url": "https://openclipart.org/detail/301642/synthwave",
+    "label": "Openclipart: Synthwave by j4p4n"
+  },
+  "creator": {
+    "name": "j4p4n",
+    "url": "https://openclipart.org/artist/j4p4n"
+  },
+  "made": "2018-05-10 (date given on Commons)",
+  "moods": [
+    "nostalgic",
+    "nocturnal",
+    "retrofuturist"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1920 × 1255 PNG rendering of the SVG through [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Synthwave.svg) and stored a reduced copy. A later CC0 edit by another user, [Synthwave Edit creative commons test.jpg](https://commons.wikimedia.org/wiki/File:Synthwave_Edit_creative_commons_test.jpg) (2024), reuses this sun and grid and adds laser beams. It has no separate record."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "synthwave",
+      "note": "The author made it as a banner for the genre’s aesthetic: a striped sun, a glowing magenta grid, and a neon script word on a dark ground.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Commons description reads: “Synthwave is a kind of 1980s inspired dance retrofuturistic pop synth music. It appeals to a sort of nostalgia for music of the past. This ‘banner’ was inspired by that and the aesthetic of the genre.” [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Synthwave.svg).",
+    "The file came from Openclipart, which publishes all its clip art in the public domain. Commons marks it with the PD-OpenClipart template. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Synthwave.svg)."
+  ],
+  "observed": [
+    "The ground is a flat, dark grayish violet with no gradient and no stars.",
+    "A large sun disc in the centre shades from orange at the left to yellow at the right. Eight horizontal violet gaps cut it into bands from top to bottom.",
+    "The word “Synthwave” crosses the sun in a bright green brush script with a thin orange outline.",
+    "A magenta wireframe mesh fills the lower half. It rises like a wave from the left, dips behind the sun, and tightens into small cells at the right. The lines have a soft magenta glow."
+  ],
+  "interpretation": [
+    "A plain, flat statement of the motif set: sun, grid, and script. The muted violet ground is lighter than the black night of the rubric, and there is no chrome lettering, so it shows the minimum that still reads as synthwave."
+  ],
+  "borrow": [
+    "Cut evenly spaced horizontal bars through the whole sun disc and run a one-word script logotype across its middle.",
+    "Add a soft outer glow to thin magenta grid lines so that a flat vector reads as neon."
+  ],
+  "images": [
+    {
+      "file": "assets/references/j4p4n-synthwave-banner-2018.png",
+      "alt": "Flat vector banner: a striped orange-to-yellow sun with the green script word Synthwave across it, above a glowing magenta wireframe landscape, on a dark violet ground.",
+      "width": 1600,
+      "height": 1046,
+      "kind": "source-image",
+      "caption": "Synthwave banner by j4p4n, 2018. CC0, from [Openclipart](https://openclipart.org/detail/301642/synthwave) through [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Synthwave.svg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Synthwave.svg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "Released to the public domain through Openclipart (CC0); Commons license template PD-OpenClipart. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Synthwave.svg). Credit: j4p4n."
+  },
+  "identifiers": {
+    "commons": "File:Synthwave.svg"
+  }
+}

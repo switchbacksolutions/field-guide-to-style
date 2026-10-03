@@ -1,0 +1,56 @@
+{
+  "id": "chobani-dear-alice-2021",
+  "title": "Dear Alice (Chobani advertisement)",
+  "type": "image",
+  "medium": "other",
+  "lede": "A one-minute 2D animated advertisement in which a grandmother’s letter to her granddaughter narrates a future of farms under solar panels and green cities.",
+  "summary": "Hand-drawn animated ad of a solarpunk farming future, scored by Joe Hisaishi. The Line for Chobani, 2021.",
+  "source": {
+    "url": "https://thelinestudio.com/work/chobani",
+    "label": "The Line: Dear Alice"
+  },
+  "creator": {
+    "name": "The Line, directed by Bjørn-Erik Aschim",
+    "url": "https://thelinestudio.com/"
+  },
+  "made": "June 2021 (The Line)",
+  "moods": [
+    "hopeful",
+    "pastoral",
+    "sunlit",
+    "tender"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the studio’s project page and the Looper article (2023). The film was not watched and no still was inspected."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "solarpunk",
+      "note": "The style record names this advertisement as the model for solarpunk motion, and Looper calls it a one-minute summary of the genre.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Line, a London animation studio, lists “Dear Alice” for client Chobani: director Bjørn-Erik Aschim, June 2021, length 1:00, music by Joe Hisaishi, art director Antoine Perez, producer Samia Ahmed, animation lead Bishoy Gendi. The studio describes it as “a love letter from a grandmother to a granddaughter and an optimistic vision of the future of farming”. [The Line](https://thelinestudio.com/work/chobani).",
+    "Looper says the opening images show sustainable farming combined with modern technology, “such as a cow grazing while solar panels are overhead”, and that the view then pulls out to a city whose buildings incorporate greenery. It says the ad “distills the genre into one minute”. [Looper, 15 November 2023](https://www.looper.com/1446464/what-is-solarpunk-dear-alice-ad-explained/).",
+    "Joe Hisaishi is known for his scores for Studio Ghibli films, and press coverage compared the ad’s look with Ghibli. [Nerdist](https://nerdist.com/article/dear-alice-solarpunk-anime-short-studio-ghibli-composer/)."
+  ],
+  "interpretation": [
+    "The ad brought the solarpunk look to a mass audience and fixed its motion grammar: slow pans across fields, wind in grass and leaves, and soft daylight.",
+    "It is also a brand film for a food company, so it shows the greenwashing risk that the style’s rules warn about."
+  ],
+  "borrow": [
+    "Use slow camera moves and natural motion (wind, light, grazing animals) in place of fast cuts."
+  ],
+  "next": [
+    "Watch the film and describe its palette and framing from the video, with a timestamp for each observation."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image stored. The film is a 2021 commercial work owned by Chobani and The Line."
+  }
+}

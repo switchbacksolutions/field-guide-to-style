@@ -1,0 +1,73 @@
+{
+  "id": "the-midnight-live-brixton-2022",
+  "title": "The Midnight live at Brixton Academy, 2022",
+  "type": "image",
+  "medium": "photograph",
+  "lede": "A concert photograph of the synthwave band The Midnight at Brixton Academy, London: performers in violet and magenta haze in front of white horizontal light bars.",
+  "summary": "Synthwave band on stage in violet, magenta, and blue haze with horizontal light bars. London, 7 May 2022.",
+  "source": {
+    "url": "https://www.flickr.com/photos/raph_ph/52061571120/",
+    "label": "Flickr: Raph_PH, MidnightBrixton070522 (14 of 30)"
+  },
+  "creator": {
+    "name": "Raph_PH (photographer)",
+    "url": "https://www.flickr.com/people/69880995@N04"
+  },
+  "made": "2022-05-07 21:09 (date given on Commons)",
+  "moods": [
+    "nocturnal",
+    "romantic",
+    "energetic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1920 px rendering of the 5977 × 3378 original through [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MidnightBrixton070522_(14_of_30)_(52061571120).jpg) and stored a reduced copy. Previews of eight other photos from the same set were compared; this one shows the clearest magenta and blue light."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "synthwave",
+      "note": "Partial fit: it documents how a leading synthwave band stages itself, in magenta, violet, and blue light with neon-like horizontal bars, but it is a concert photograph, not designed graphics.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The photographer published a set of 30 photographs of The Midnight at Brixton Academy on 7 May 2022 under CC BY 2.0. A Commons review bot confirmed the license on 10 May 2022. Commons files it under Category:The Midnight and Concerts at Brixton Academy. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MidnightBrixton070522_(14_of_30)_(52061571120).jpg).",
+    "The Midnight released its first album, *Endless Summer*, in 2016 ([record](ref:the-midnight-endless-summer-cover-2016)). The set’s photo 30 shows the venue marquee reading “THE MIDNIGHT 7TH MAY SOLD OUT”."
+  ],
+  "observed": [
+    "A singer in a black top sings into a hand-held microphone at the centre. A guitarist in a pink and red patterned shirt with a red guitar sings at a stand on the right. A drummer sits behind them.",
+    "The stage is filled with haze lit violet and magenta from above and blue from the left.",
+    "Thin white light bars run horizontally across the back of the stage, stacked at intervals. Vertical pink light tubes stand at the right.",
+    "Round LED fixtures glow as white rings at the lower left. Raised hands and a phone screen in silhouette fill the bottom edge."
+  ],
+  "interpretation": [
+    "The stacked horizontal light bars echo the cut bands of the striped sun, and the magenta, violet, and blue haze is the style’s palette in real light. It shows the style as a live, physical experience rather than a flat graphic."
+  ],
+  "borrow": [
+    "Stack thin, evenly spaced horizontal light lines behind a central subject, as a stage-scale version of the striped sun.",
+    "Light a dark scene from two sides, magenta from above and blue from the side."
+  ],
+  "images": [
+    {
+      "file": "assets/references/the-midnight-live-brixton-2022.jpg",
+      "alt": "Concert stage in violet and magenta haze: a singer at the centre, a guitarist with a red guitar on the right, a drummer behind, white horizontal light bars at the back, and raised hands in silhouette in front.",
+      "width": 1600,
+      "height": 904,
+      "kind": "photograph",
+      "caption": "The Midnight at Brixton Academy, London, 7 May 2022. Photograph by Raph_PH, CC BY 2.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MidnightBrixton070522_(14_of_30)_(52061571120).jpg), from [Flickr](https://www.flickr.com/photos/raph_ph/52061571120/). Stage lighting and instruments are incidental.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/87/MidnightBrixton070522_%2814_of_30%29_%2852061571120%29.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-2.0",
+    "statement": "Published by the photographer under CC BY 2.0 on Flickr; license reviewed on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MidnightBrixton070522_(14_of_30)_(52061571120).jpg) on 10 May 2022. Credit: Raph_PH. The main subject is a live performance, not a copyrighted artwork. Identifiable performers are shown, so personality rights may apply to reuse."
+  },
+  "identifiers": {
+    "commons": "File:MidnightBrixton070522 (14 of 30) (52061571120).jpg",
+    "flickr": "52061571120"
+  }
+}

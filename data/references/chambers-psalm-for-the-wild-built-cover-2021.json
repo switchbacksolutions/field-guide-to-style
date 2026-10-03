@@ -1,0 +1,55 @@
+{
+  "id": "chambers-psalm-for-the-wild-built-cover-2021",
+  "title": "A Psalm for the Wild-Built (cover)",
+  "type": "print",
+  "medium": "book",
+  "lede": "The cover of Becky Chambers’s first Monk and Robot novella, a widely read work of solarpunk fiction about a tea monk and a robot.",
+  "summary": "Cover art by Feifei Ruan, design by Christine Foltzer, for Becky Chambers’s solarpunk novella. Tordotcom, 2021.",
+  "source": {
+    "url": "https://reactormag.com/cover-reveal-a-psalm-for-the-wild-built-by-becky-chambers/",
+    "label": "Reactor (Tor.com): Revealing A Psalm for the Wild-Built by Becky Chambers"
+  },
+  "creator": {
+    "name": "Feifei Ruan (art) and Christine Foltzer (design)"
+  },
+  "made": "Cover revealed 22 September 2020; book published 13 July 2021 (Reactor)",
+  "moods": [
+    "gentle",
+    "hopeful",
+    "verdant"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the publisher’s cover-reveal post, the Wikipedia article on the solarpunk genre, and the Wikidata edition item. The cover image was not inspected, so no visual traits are recorded."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "solarpunk",
+      "note": "The cover of one of the best-known solarpunk novels. The fit rests on the book’s documented genre; its cover has not been inspected.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Reactor (then Tor.com) revealed the cover on 22 September 2020 and credits “Art by Feifei Ruan; Design by Christine Foltzer”. The book was published on 13 July 2021. In the story, a tea monk meets a robot that wants to know “what do people need?”. [Reactor](https://reactormag.com/cover-reveal-a-psalm-for-the-wild-built-by-becky-chambers/).",
+    "Wikipedia’s solarpunk article says that in 2018 Becky Chambers agreed to write two solarpunk novellas for Tor Books, and that she published *A Psalm for the Wild-Built* (2021) and *A Prayer for the Crown-Shy* (2022). [Wikipedia: Solarpunk](https://en.wikipedia.org/wiki/Solarpunk).",
+    "Wikidata has an item for the Tor hardcover edition with a cover-artist statement. [Wikidata Q107583570](https://www.wikidata.org/wiki/Q107583570).",
+    "Feifei Ruan sells signed prints of the cover art. [Feifei Ruan shop](https://www.feifeiruan.shop/product-page/print-a-psalm-for-the-wild-built)."
+  ],
+  "interpretation": [
+    "The novellas are among the most widely read solarpunk fiction, so their covers are among the images most people meet first for the genre. A curator should inspect the cover before it is used as visual evidence."
+  ],
+  "next": [
+    "Inspect a large image of the cover (at least 800 px on the long side) and add observed traits.",
+    "Consider a record for the cover of *A Prayer for the Crown-Shy* (2022), after you check its cover credits on [Reactor](https://reactormag.com/cover-reveals-a-prayer-for-the-crown-shy-by-becky-chambers/)."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image stored. The cover art is a 2020–2021 copyrighted work by Feifei Ruan for Tordotcom (Macmillan)."
+  },
+  "identifiers": {
+    "wikidata": "Q107583570"
+  }
+}

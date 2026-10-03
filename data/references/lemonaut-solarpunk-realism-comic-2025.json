@@ -1,0 +1,73 @@
+{
+  "id": "lemonaut-solarpunk-realism-comic-2025",
+  "title": "Solarpunk, realism, and dystopia (comic, page 1)",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "The first page of a six-page explainer comic that argues for “realistic solarpunk”, lettered by hand in green, coral, and yellow washes on white.",
+  "summary": "Hand-lettered explainer comic in watercolour-like green, coral, and yellow on white. The.lemonaut.ukr, 2025.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Solarpunk,_realism,_and_dystopia_-_page_1.jpg",
+    "label": "Wikimedia Commons: File:Solarpunk, realism, and dystopia - page 1.jpg"
+  },
+  "creator": {
+    "name": "The.lemonaut.ukr",
+    "url": "https://commons.wikimedia.org/wiki/User:The.lemonaut.ukr"
+  },
+  "made": "2025",
+  "moods": [
+    "friendly",
+    "handmade",
+    "earnest"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected page 1 on Commons (original 2400 × 2663 px, viewed at 1442 × 1600 px). Pages 2 to 6 were not inspected."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "solarpunk",
+      "note": "Solarpunk as graphic layout: light ground, rounded hand-drawn panels in green and yellow, friendly mixed lettering, and scenes of a tool library and shared food.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes the six pages as “a comic discussing realistic Solarpunk”, dated 14 May 2025, licensed CC BY-SA 4.0. [Commons file page](https://commons.wikimedia.org/wiki/File:Solarpunk,_realism,_and_dystopia_-_page_1.jpg)."
+  ],
+  "observed": [
+    "The page has a white ground. Text sits in soft, irregular washes of pale green, coral, and pale yellow, like watercolour blobs.",
+    "The lettering is hand-drawn capitals in dark plum, with some words bolder and highlighted in green: “I LIKE REALISTIC SOLARPUNK.”",
+    "A strip of small line drawings shows a “TOOL LIBRARY” with a planted entrance, a person mending a sock, a reading group with tablets, and a free soup pot.",
+    "A coral panel lists “NO MAGIC, NO SUPERNATURAL ELEMENTS*, NO CURE-ALL TECH” beside a fire-wielding figure, a talking cat, and a man saying “THIS WILL SOLVE EVERYTHING!”.",
+    "A yellow rounded box asks “What is SOLARPUNK for?”, with “SOLAR” in ochre and “PUNK” in green, beside a yellow-washed self-portrait in a “LEMONAUT” shirt."
+  ],
+  "interpretation": [
+    "This is the style in an editorial format, not a scene. It shows the rounded, framed panels on a light ground that the style’s grammar describes for layouts, and a mixed-case friendly hand.",
+    "Colour carries meaning: green for the hopeful position, coral for what the author rejects."
+  ],
+  "borrow": [
+    "Set short statements in soft rounded colour washes on white, and use a second hue for counter-arguments.",
+    "Pair each idea with a small line drawing of a shared practice (tool library, repair, free food)."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lemonaut-solarpunk-realism-comic-2025.jpg",
+      "alt": "Comic page on white with hand-lettered text in green, coral, and yellow washes. Small drawings show a tool library, people mending and reading, and a free soup pot. A box at the bottom asks “What is solarpunk for?”.",
+      "width": 1442,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "The.lemonaut.ukr, “Solarpunk, realism, and dystopia”, page 1, 2025. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solarpunk,_realism,_and_dystopia_-_page_1.jpg), CC BY-SA 4.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/33/Solarpunk%2C_realism%2C_and_dystopia_-_page_1.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Commons: self-published work by The.lemonaut.ukr, licensed CC BY-SA 4.0. Credit: The.lemonaut.ukr, via Wikimedia Commons."
+  },
+  "identifiers": {
+    "commons": "File:Solarpunk, realism, and dystopia - page 1.jpg"
+  }
+}

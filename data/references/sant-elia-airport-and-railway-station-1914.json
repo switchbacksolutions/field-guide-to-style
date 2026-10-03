@@ -1,0 +1,76 @@
+{
+  "id": "sant-elia-airport-and-railway-station-1914",
+  "title": "Station for aeroplanes and trains, La Città Nuova",
+  "titleBreak": "Station for aeroplanes and trains,|La Città Nuova",
+  "type": "image",
+  "medium": "architecture",
+  "lede": "Antonio Sant’Elia’s drawing for the Città Nuova shows a station where trains run under a landing strip, between towers of lifts and stepped buildings, on several street levels at once.",
+  "summary": "A symmetrical station of tracks, ramps, and lift towers in one-point perspective. Antonio Sant’Elia, 1914.",
+  "source": {
+    "url": "https://www.lombardiabeniculturali.it/opere-arte/schede/1m030-00142/",
+    "label": "Lombardia Beni Culturali: Stazione d'aeroplani e treni ferroviari, con funicolari e ascensori su tre piani stradali"
+  },
+  "creator": {
+    "name": "Antonio Sant’Elia (attributed by the catalogue)",
+    "url": "https://en.wikipedia.org/wiki/Antonio_Sant%27Elia"
+  },
+  "made": "1914",
+  "moods": ["mechanical", "monumental", "fast"],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected a [Commons file](https://commons.wikimedia.org/wiki/File:Stazione_d%27aeroplani_e_treni_(La_Citt%C3%A0_Nuova)_1914_ART_Antonio_Sant%27Elia_2023_RET_WjArendshorst.png) (original 2210 × 2733 px; a 1280 × 1583 px rendering was inspected and stored). The uploader, WjArendshorst, says the image was edited “for a cleaner look” and does not name the scan it started from, so tone and paper texture are not reliable. The physical work is most likely the definitive drawing in the Musei Civici di Como, inventory A 342; a preliminary version, A 343, also exists, and this image was not compared with either."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "futurism",
+      "note": "The canonical image of Futurist architecture: a city of transport, lifts, and multiple traffic levels, shown in a dramatic perspective. Partial fit: it is symmetrical and monochrome, without the mixed type and loud inks of Futurist print.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Black pencil, blue pencil, and black ink on tracing paper, 500 × 390 mm, 1914. Musei Civici di Como, Pinacoteca Civica, Palazzo Volpi, inventory A 342. The catalogue attributes it to Sant’Elia (1888–1916). [Lombardia Beni Culturali, SIRBeC 1m030-00142](https://www.lombardiabeniculturali.it/opere-arte/schede-complete/1m030-00142/).",
+    "The catalogue says this is the final version of a rougher preliminary sheet (A 343). It was shown at the first exhibition of the Nuove Tendenze group at the Famiglia Artistica, Milan, 20 May to 10 June 1914, and reproduced with the same caption on the leaflet of the *Manifesto of Futurist Architecture* of 11 July 1914. [Lombardia Beni Culturali](https://www.lombardiabeniculturali.it/opere-arte/schede-complete/1m030-00142/)."
+  ],
+  "observed": [
+    "One-point perspective seen from high above: all lines run to a vanishing point at the top center, marked by two converging construction lines.",
+    "Seven parallel ribbed vaults or tracks fall from a raised platform toward the viewer and pass under a horizontal bridge.",
+    "Four tall towers of stacked cages, with paired masts on top, flank the central tracks; between each pair is a column of stacked arched bays.",
+    "Sunken courtyards and long stepped blocks fill the foreground on both sides; large plain blocks frame the far edges.",
+    "Small vehicles appear on the tracks and on the road in front.",
+    "The drawing is fine black linework with flat gray shading; it is symmetrical about the vertical axis."
+  ],
+  "interpretation": [
+    "Here the Futurist subject of speed becomes infrastructure: transport lines, lifts, and bridges are the building, not services hidden inside it. The overhead perspective makes the plan itself look like motion converging on a point.",
+    "The symmetry is unusual for Futurism and is a reminder that the movement’s architecture is monumental rather than scattered."
+  ],
+  "borrow": [
+    "Use a steep one-point perspective so that parallel lines converge hard and pull the eye into the page.",
+    "Express circulation (tracks, ramps, lift shafts) as the main forms of a composition.",
+    "Stack levels visibly, with bridges crossing over lower paths."
+  ],
+  "images": [
+    {
+      "file": "assets/references/sant-elia-airport-and-railway-station-1914.png",
+      "alt": "Ink drawing in steep one-point perspective of a symmetrical station: seven ribbed tracks descend from a raised platform under a bridge, flanked by four tall lattice towers with masts and columns of arched bays, with stepped blocks and sunken courts in the foreground.",
+      "width": 1280,
+      "height": 1583,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Antonio Sant’Elia, station for aeroplanes and trains with funiculars and lifts on three street levels, from La Città Nuova, 1914. Musei Civici di Como. Image edited by WjArendshorst, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Stazione_d%27aeroplani_e_treni_(La_Citt%C3%A0_Nuova)_1914_ART_Antonio_Sant%27Elia_2023_RET_WjArendshorst.png), CC0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/98/Stazione_d%27aeroplani_e_treni_%28La_Citt%C3%A0_Nuova%29_1914_ART_Antonio_Sant%27Elia_2023_RET_WjArendshorst.png",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The edited image is released under CC0 by its uploader on Wikimedia Commons. Sant’Elia was Italian and died in 1916, so the drawing is public domain in Italy. It was exhibited and reproduced in 1914, before 1931, so it is public domain in the United States."
+  },
+  "identifiers": {
+    "musei-civici-como": "A 342",
+    "sirbec": "1m030-00142",
+    "commons": "File:Stazione d'aeroplani e treni (La Città Nuova) 1914 ART Antonio Sant'Elia 2023 RET WjArendshorst.png"
+  }
+}

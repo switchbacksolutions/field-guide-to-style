@@ -1,0 +1,76 @@
+{
+  "id": "kowloon-walled-city-aerial-1989",
+  "title": "Kowloon Walled City from the air, 1989",
+  "type": "image",
+  "medium": "photograph",
+  "lede": "Ian Lambot’s aerial photograph of Kowloon Walled City in 1989: one solid block of self-built towers, without streets, between new public housing estates.",
+  "summary": "A single dense block of weathered concrete towers between clean new housing blocks. Photograph by Ian Lambot, Hong Kong, 1989.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Kowloon_Walled_City_-_1989_Aerial.jpg",
+    "label": "Wikimedia Commons: Kowloon Walled City - 1989 Aerial.jpg"
+  },
+  "creator": {
+    "name": "Ian Lambot"
+  },
+  "made": "1989",
+  "moods": [
+    "dystopian",
+    "dense",
+    "gritty"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Commons rendition at 1920 × 1449 px of the 1942 × 1466 px file. Commons credits the photograph to Ian Lambot and names its source as [City of Darkness](http://cityofdarkness.co.uk/order-print/01-aerial-view/) and the book *City of Darkness: Life in Kowloon Walled City* (ISBN 1-873200-13-7)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "cyberpunk",
+      "note": "Partial fit: the real place that Wikipedia names as an inspiration for cyberpunk landscapes. The photograph is a daylight view, so it shows the megastructure and density but not the neon.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: “Hong Kong’s Kowloon Walled City is particularly notable for its disorganized hyper-urbanization and breakdown in traditional urban planning to be an inspiration to cyberpunk landscapes.” [Cyberpunk](https://en.wikipedia.org/wiki/Cyberpunk).",
+    "By 1987 the walled city had an estimated 33,000 residents. Demolition began on 23 March 1993 and finished in April 1994, and Kowloon Walled City Park replaced it. [Wikipedia: Kowloon Walled City](https://en.wikipedia.org/wiki/Kowloon_Walled_City).",
+    "The Commons description notes that the new park on the site of the former Sai Tau Tsuen squatter settlement is visible at the south edge of the city. [Commons](https://commons.wikimedia.org/wiki/File:Kowloon_Walled_City_-_1989_Aerial.jpg)."
+  ],
+  "observed": [
+    "The walled city is one continuous mass of towers of about ten to fourteen storeys, with no visible streets between them, only a few narrow light wells.",
+    "Its surfaces are weathered gray, brown, and stained white concrete, crowded with small windows, rooftop structures, washing, and aerials.",
+    "Its outer walls rise sheer at the edges, like a single building.",
+    "Clean, regular, pale pink housing towers stand above and to the right. A long slab block runs along the left side.",
+    "The foreground is open park land under construction, with curved paths, small white pavilions, and a round paved structure.",
+    "The view is in daylight, in soft, warm light."
+  ],
+  "interpretation": [
+    "The contrast between the organic, self-built block and the planned towers around it is the cyberpunk city in miniature: an ungoverned megastructure inside a regulated city.",
+    "For graphics, the lesson is density and accretion, not neon: many small units packed into one mass with no empty space."
+  ],
+  "borrow": [
+    "Pack many small, slightly irregular panels into one solid block, with thin gaps as the only breathing room.",
+    "Set a dense, worn element against a clean, regular grid to show the conflict that the style is about."
+  ],
+  "images": [
+    {
+      "file": "assets/references/kowloon-walled-city-aerial-1989.jpg",
+      "alt": "Aerial photograph of a single dense block of weathered concrete towers with no streets between them. Clean pale housing towers stand behind it, and new park land with curved paths lies in front.",
+      "width": 1600,
+      "height": 1208,
+      "kind": "photograph",
+      "caption": "Kowloon Walled City, Hong Kong, from the air in 1989. Photograph by Ian Lambot, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kowloon_Walled_City_-_1989_Aerial.jpg), CC BY-SA 4.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Kowloon_Walled_City_-_1989_Aerial.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Photograph by Ian Lambot, licensed CC BY-SA 4.0. The Commons file is in the category “Items with VRTS permission confirmed”, which records that the photographer’s permission was verified. The subject is an informal, self-built settlement with no identified architect, demolished in 1993–1994."
+  },
+  "identifiers": {
+    "wikidata": "Q1022918",
+    "commons": "File:Kowloon Walled City - 1989 Aerial.jpg"
+  }
+}

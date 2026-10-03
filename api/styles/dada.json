@@ -511,5 +511,138 @@
       }
     }
   },
-  "references": []
+  "references": [
+    {
+      "id": "van-doesburg-bericht-mouvement-dada-1923",
+      "title": "“Bericht Mouvement Dada”, Mécano no. 4/5, 1923",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Dada typography as a joke advertisement: case and size change inside words, stock pointing hands act as images, and heavy rules divide the page.",
+      "page": "references/van-doesburg-bericht-mouvement-dada-1923.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_Bericht_Mouvement_Dada.jpg",
+      "image": "assets/references/van-doesburg-bericht-mouvement-dada-1923.jpg",
+      "measurement": "data/measurements/van-doesburg-bericht-mouvement-dada-1923.json"
+    },
+    {
+      "id": "picabia-391-no-13-dentelle-rose-1920",
+      "title": "391, no. 13: “Ce numéro est entouré d’une dentelle rose”, 1920",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A page from Picabia’s Dada magazine: mock-technical drawing, phrases at several angles, and unrelated roman, Didone, and hand-lettered type. Partial fit: no photomontage and no second color.",
+      "page": "references/picabia-391-no-13-dentelle-rose-1920.html",
+      "source": "http://gallica.bnf.fr/ark:/12148/bpt6k891104w/f9.image",
+      "image": "assets/references/picabia-391-no-13-dentelle-rose-1920.jpg",
+      "measurement": "data/measurements/picabia-391-no-13-dentelle-rose-1920.json"
+    },
+    {
+      "id": "hoch-cut-with-the-kitchen-knife-1919",
+      "title": "Hannah Höch, Cut with the Kitchen Knife, 1919",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The canonical Berlin Dada photomontage: press photographs cut and joined at clashing scales, with cut-out words in many faces.",
+      "page": "references/hoch-cut-with-the-kitchen-knife-1919.html",
+      "source": "https://id.smb.museum/object/961048",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "van-doesburg-schwitters-kleine-dada-soiree-1922",
+      "title": "Kleine Dada Soirée poster and program, 1922",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical Dada typographic collage: many unrelated faces, lines at all angles, red behind black, and printer’s ornaments such as the pointing hand.",
+      "page": "references/van-doesburg-schwitters-kleine-dada-soiree-1922.html",
+      "source": "https://purl.org/nga/collection/artobject/154076",
+      "image": "assets/references/van-doesburg-schwitters-kleine-dada-soiree-1922.jpg",
+      "measurement": "data/measurements/van-doesburg-schwitters-kleine-dada-soiree-1922.json"
+    },
+    {
+      "id": "schwitters-anna-blume-dichtungen-1919",
+      "title": "Kurt Schwitters, Anna Blume. Dichtungen, 1919 (cover)",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A Dada book cover: red letters spelling dada break through a scattered black drawing, and script, capitals, and roman letters mix. Partial fit: it is drawn by hand, not set from type or photographs.",
+      "page": "references/schwitters-anna-blume-dichtungen-1919.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Kurt_Schwitters_-_Anna_Blume._Dichtungen,_1919.jpg",
+      "image": "assets/references/schwitters-anna-blume-dichtungen-1919.jpg",
+      "measurement": "data/measurements/schwitters-anna-blume-dichtungen-1919.json"
+    },
+    {
+      "id": "schwitters-mz-245-mal-kah-1921",
+      "title": "Kurt Schwitters, Mz 245. Mal Kah, 1921",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A Merz collage: found printed matter with its own type, cut edges, and paper tones. Partial fit: the commercial labels, not set type, carry the lettering, and there is no photograph.",
+      "page": "references/schwitters-mz-245-mal-kah-1921.html",
+      "source": "https://www.lempertz.com/de/kataloge/lot/877-1/1062-kurt-schwitters.html",
+      "image": "assets/references/schwitters-mz-245-mal-kah-1921.jpg",
+      "measurement": "data/measurements/schwitters-mz-245-mal-kah-1921.json"
+    },
+    {
+      "id": "van-doesburg-mecano-red-chroniek-1922",
+      "title": "Mécano no. 3 (Red): “Chroniek-Mécano”, 1922",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A page from a Dada magazine: a letter-by-letter mixed-case title, heavy black dashes as ornaments, and one strong color. Partial fit: the body is one plain roman in a justified block.",
+      "page": "references/van-doesburg-mecano-red-chroniek-1922.html",
+      "source": "https://commons.wikimedia.org/wiki/File:M%C3%A9cano_no_003_rouge,_rood,_rot,_red_Chroniek-M%C3%A9cano.jpg",
+      "image": "assets/references/van-doesburg-mecano-red-chroniek-1922.jpg",
+      "measurement": "data/measurements/van-doesburg-mecano-red-chroniek-1922.json"
+    },
+    {
+      "id": "schwitters-merz-1-holland-dada-1923",
+      "title": "Merz 1: Holland Dada, January 1923",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A Dada magazine cover that mixes a condensed sans, a heavy roman, small grotesque labels, and a printer’s pointing hand. Partial fit: the layout is calmer and more aligned than a Dada broadside.",
+      "page": "references/schwitters-merz-1-holland-dada-1923.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Merz_jan_1923_001.JPG",
+      "image": "assets/references/schwitters-merz-1-holland-dada-1923.jpg",
+      "measurement": "data/measurements/schwitters-merz-1-holland-dada-1923.json"
+    },
+    {
+      "id": "lissitzky-schwitters-merz-8-9-nasci-1924",
+      "title": "Merz 8/9: Nasci, 1924",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A late issue of Schwitters’s Dada magazine, with mixed serif and sans faces, vertical text, and a pointing hand. Partial fit: the bars and the aligned red block are Constructivist order, as the style’s confusion notes say.",
+      "page": "references/lissitzky-schwitters-merz-8-9-nasci-1924.html",
+      "source": "https://commons.wikimedia.org/wiki/File:8_Merz_9_Doppelheft.jpg",
+      "image": "assets/references/lissitzky-schwitters-merz-8-9-nasci-1924.jpg",
+      "measurement": "data/measurements/lissitzky-schwitters-merz-8-9-nasci-1924.json"
+    },
+    {
+      "id": "van-ostaijen-bezette-stad-manuscript-1920",
+      "title": "Paul van Ostaijen, manuscript of Bezette Stad, 1920–1921",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A draft of Flemish Dada-era rhythmic typography: words scattered across the page at many sizes and cases. Partial fit: it is handwritten, has no photographs, and the poet is usually called an expressionist influenced by Dada.",
+      "page": "references/van-ostaijen-bezette-stad-manuscript-1920.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Bezette_Stad,_0181_EHC_859433_102r.jpg",
+      "image": "assets/references/van-ostaijen-bezette-stad-manuscript-1920.jpg",
+      "measurement": "data/measurements/van-ostaijen-bezette-stad-manuscript-1920.json"
+    },
+    {
+      "id": "baargeld-typische-vertikalklitterung-1920",
+      "title": "Typische Vertikalklitterung als Darstellung des Dada Baargeld, 1920",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A Dada photomontage: press and studio photographs cut and joined so that the scale and the cut edges show. Partial fit: it has no type.",
+      "page": "references/baargeld-typische-vertikalklitterung-1920.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Johannes_Theodor_Baargeld_%E2%80%93_Typische_Vertikalklitterung_als_Darstellung_des_Dada_Baargeld_-_1920.jpg",
+      "image": "assets/references/baargeld-typische-vertikalklitterung-1920.jpg",
+      "measurement": "data/measurements/baargeld-typische-vertikalklitterung-1920.json"
+    }
+  ]
 }

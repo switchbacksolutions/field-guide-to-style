@@ -30,6 +30,12 @@
       "note": "Partial fit: an egg-shaped blobject in candy pink and lime with a clear plastic bubble, marketed as coming from cyberspace. The card art is hand-drawn, not techno.",
       "basis": "agent",
       "qualifier": "partial fit"
+    },
+    {
+      "id": "kawaii",
+      "note": "Partial fit: a candy-pink egg toy with hand-drawn card art of a cute digital pet, but the photographed object shows no character face.",
+      "basis": "agent",
+      "qualifier": "partial fit"
     }
   ],
   "context": [

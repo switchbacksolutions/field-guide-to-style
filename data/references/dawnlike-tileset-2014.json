@@ -1,0 +1,69 @@
+{
+  "id": "dawnlike-tileset-2014",
+  "title": "DawnLike 16 × 16 roguelike tileset",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "DragonDePlatino’s open tileset for roguelike games draws walls, floors, furniture, and monsters on a 16-pixel grid in one 16-color palette.",
+  "summary": "Top-down dungeon rooms of 16 × 16 tiles in the DawnBringer 16-color palette. DragonDePlatino, 2014, CC BY 4.0.",
+  "source": {
+    "url": "https://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181",
+    "label": "OpenGameArt: DawnLike - 16x16 Universal Rogue-like tileset v1.81"
+  },
+  "creator": {
+    "name": "DragonDePlatino, with the DawnBringer 16 palette by DawnBringer",
+    "url": "https://opengameart.org/users/dragondeplatino"
+  },
+  "made": "2014 (first posted 29 January 2014; v1.81)",
+  "moods": ["game-like", "crisp", "handmade", "nostalgic"],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the sample map `Dungeon_0.gif` from the OpenGameArt page (640 × 480 px, already enlarged 2×) and inspected it enlarged again to 1280 × 960 px. The file has exactly 16 colors."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "pixel-art",
+      "note": "Hand-placed square pixels on a fixed tile grid, a 16-color palette, flat palette-step shading, and sprites with dark outlines.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "DragonDePlatino writes that the project began in autumn 2013 as DawnHack, a tileset for NetHack, and grew into a general tileset for roguelike games. [OpenGameArt](https://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181).",
+    "The page tags the set “16x16” and “16 Color” and requires users to credit DawnBringer, “that mad color-bending genius” who made the palette that the pack uses. [OpenGameArt](https://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181).",
+    "The author says that he used the DawnBringer 16 palette as a personal challenge. [OpenGameArt comments](https://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181)."
+  ],
+  "observed": [
+    "Three dungeon areas seen from above on a near-black purple ground (#140c1c).",
+    "Walls are rows of blue-gray bricks with a pale cyan top edge and a dark outline, drawn as a thick frame around each room.",
+    "Floors are gray brick tiles. One room has a brown dirt floor with an orange rubble edge.",
+    "Small sprites stand on the tiles: a knight, a skeleton, a chest, barrels, a bed, a table, candles on the walls, a beetle, and a cat.",
+    "Every edge is stepped. There is no anti-aliasing and no gradient: shading uses two or three flat steps of one hue.",
+    "The measured image has 12 colors above a 2 percent share and a low mean chroma (0.11), with small saturated accents of cyan and orange."
+  ],
+  "interpretation": [
+    "A clear example of the style’s tile grammar: every object fits a 16-pixel cell, and one shared palette makes walls, monsters, and props read as one world.",
+    "The palette is muted and dark rather than the saturated console look. This shows that a fixed small palette, not high saturation, is the core trait."
+  ],
+  "borrow": [
+    "Choose one published 16-color palette and draw every element with it.",
+    "Frame panels with a two-tone edge, a light top line, and a dark outline, as the walls do here."
+  ],
+  "images": [
+    {
+      "file": "assets/references/dawnlike-tileset-2014.png",
+      "alt": "Pixel-art map of three dungeon rooms seen from above. Blue-gray brick walls with pale cyan tops enclose gray brick floors, a brown dirt area, a knight, a skeleton, barrels, a bed, candles, and a beetle, on a near-black ground.",
+      "width": 1280,
+      "height": 960,
+      "kind": "source-image",
+      "caption": "DragonDePlatino, DawnLike sample map “Dungeon”, palette by DawnBringer, from [OpenGameArt](https://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181), CC BY 4.0. Enlarged 2× with nearest-neighbor scaling and saved as PNG.",
+      "original": "https://opengameart.org/sites/default/files/Dungeon_0.gif",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-4.0",
+    "statement": "OpenGameArt lists the license as CC-BY 4.0. Attribution instructions: “If you use this tileset you must accredit DawnBringer.” Credit: DragonDePlatino (art) and DawnBringer (palette)."
+  }
+}

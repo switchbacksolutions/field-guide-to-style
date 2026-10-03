@@ -1,0 +1,53 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/starwall-solarpunk-flag-2019.jpg",
+  "captured": "2026-10-03T00:32:58+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#019702",
+        "share": 0.497
+      },
+      {
+        "hex": "#e8cf00",
+        "share": 0.481
+      },
+      {
+        "hex": "#7ab410",
+        "share": 0.004
+      },
+      {
+        "hex": "#1d9707",
+        "share": 0.003
+      },
+      {
+        "hex": "#9abf12",
+        "share": 0.003
+      },
+      {
+        "hex": "#b9c911",
+        "share": 0.003
+      },
+      {
+        "hex": "#d1d00f",
+        "share": 0.003
+      },
+      {
+        "hex": "#56a90d",
+        "share": 0.003
+      },
+      {
+        "hex": "#369e0a",
+        "share": 0.003
+      }
+    ],
+    "background": "#019702",
+    "chroma": 0.74,
+    "lightness": 0.38,
+    "chromaticShare": 1.0,
+    "accentChroma": 0.74,
+    "distinct": 2,
+    "hues": 4
+  }
+}

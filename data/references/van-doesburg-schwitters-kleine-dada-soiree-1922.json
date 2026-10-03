@@ -1,0 +1,79 @@
+{
+  "id": "van-doesburg-schwitters-kleine-dada-soiree-1922",
+  "title": "Kleine Dada Soirée poster and program, 1922",
+  "type": "print",
+  "medium": "poster",
+  "lede": "Theo van Doesburg and Kurt Schwitters print the program of their Dutch Dada evenings in black over giant red letters, with every line in a different face, size, and angle.",
+  "summary": "Black type in many faces and angles over huge red DADA letters, with a pointing hand. Van Doesburg and Schwitters, 1922.",
+  "source": {
+    "url": "https://purl.org/nga/collection/artobject/154076",
+    "label": "National Gallery of Art: Kleine Dada Soirée (Small Dada Evening), 2010.124.1"
+  },
+  "creator": {
+    "name": "Theo van Doesburg and Kurt Schwitters",
+    "url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg"
+  },
+  "made": "1922 (NGA date). The sheet itself prints “1923”.",
+  "moods": [
+    "chaotic",
+    "irreverent",
+    "typographic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the National Gallery of Art scan on Wikimedia Commons ([file page](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_and_Kurt_Schwitters,_Kleine_Dada_Soir%C3%A9e_(Small_Dada_Evening),_1922,_NGA_154076.jpg), 3975 × 4000 px original, viewed at 1200 px). The copy is NGA 2010.124.1. The NGA site refused scripted access (HTTP 403), so the object data comes from the Commons record that the NGA uploaded."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "dada",
+      "note": "A canonical Dada typographic collage: many unrelated faces, lines at all angles, red behind black, and printer’s ornaments such as the pointing hand.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The NGA records the sheet as a lithographic poster and program, printed in red and black on wove paper, 30.16 × 30.16 cm, gift of the Collectors Committee, accession number 2010.124.1. [Commons record of the NGA upload](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_and_Kurt_Schwitters,_Kleine_Dada_Soir%C3%A9e_(Small_Dada_Evening),_1922,_NGA_154076.jpg).",
+    "Commons places the sheet in its category for the Dutch Dada tour (Dada-tournee). Another Commons copy is dated between 1 December 1922 and 10 January 1923 and attributed to van Doesburg alone. [Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_kleine_Dada_soir%C3%A9e.jpg).",
+    "The program names van Doesburg, Schwitters, and Vilmos Huszár as performers and quotes Tristan Tzara and Francis Picabia. Van Doesburg also wrote Dada poetry as I.K. Bonset. [Wikipedia: Theo van Doesburg](https://en.wikipedia.org/wiki/Theo_van_Doesburg)."
+  ],
+  "observed": [
+    "The sheet is square, on warm cream paper. Large red letters, rotated about 45° and partly hidden, spell DADA across the whole sheet behind the black text.",
+    "The black text mixes at least five kinds of letter: tall condensed sans-serif capitals, heavy wide roman capitals, small lowercase, slab letters, and a boxed sans-serif “BANALITÄTEN”. Letters change size and case inside single words, as in “ReVoLUTIon” and “SCHWitteRS”.",
+    "Text runs horizontally, vertically, and upside down. “J’ENFILE MES BOTTINES TOUS LES MATINS — PICABIA” is printed upside down at the top.",
+    "Small printed cuts appear as images: a pointing hand at the lower right, a leaping deer with an arrow, a bird, a wreath, a heart shape, and a black square.",
+    "Diagonal black bars at the top left and vertical black rules at the right act as visual marks, not dividers.",
+    "Only two inks are used: black and an orange-red. The paper shows the folds of the sheet."
+  ],
+  "interpretation": [
+    "The sheet is the style’s rubric in one image: the red DADA letters set the scale, and the program lines collide over them with no grid.",
+    "Although van Doesburg also led De Stijl, nothing here is orthogonal. The two movements share only the red and black and the heavy bars."
+  ],
+  "borrow": [
+    "Set one huge word in the accent color behind the content, rotated and cropped by the edges.",
+    "Change face, size, and case letter by letter inside a heading, but keep each letter clean.",
+    "Use one stock cut, such as a pointing hand, as the only image in a corner."
+  ],
+  "images": [
+    {
+      "file": "assets/references/van-doesburg-schwitters-kleine-dada-soiree-1922.jpg",
+      "alt": "Square cream sheet: huge red DADA letters run diagonally behind lines of black type in many faces, sizes, and directions announcing a Dada evening with van Doesburg and Kurt Schwitters, with small cuts of a pointing hand, a deer, and a bird.",
+      "width": 1280,
+      "height": 1288,
+      "kind": "source-image",
+      "caption": "Theo van Doesburg and Kurt Schwitters, *Kleine Dada Soirée*, 1922. National Gallery of Art, Washington, 2010.124.1, CC0 image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_and_Kurt_Schwitters,_Kleine_Dada_Soir%C3%A9e_(Small_Dada_Evening),_1922,_NGA_154076.jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Theo_van_Doesburg_and_Kurt_Schwitters%2C_Kleine_Dada_Soir%C3%A9e_%28Small_Dada_Evening%29%2C_1922%2C_NGA_154076.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "The National Gallery of Art released the image under CC0 through its Open Access policy. Van Doesburg (Dutch) died in 1931 and Schwitters (German) died in 1948, so the work is public domain in the Netherlands and Germany. It was published in 1922 or 1923, so it is public domain in the United States. The other names on the program are performers, not authors of the design."
+  },
+  "identifiers": {
+    "nga": "154076",
+    "nga-accession": "2010.124.1",
+    "commons": "File:Theo van Doesburg and Kurt Schwitters, Kleine Dada Soirée (Small Dada Evening), 1922, NGA 154076.jpg"
+  }
+}

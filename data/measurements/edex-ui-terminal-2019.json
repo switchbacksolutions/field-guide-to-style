@@ -1,0 +1,53 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/edex-ui-terminal-2019.jpg",
+  "captured": "2026-10-03T00:32:28+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#0d1015",
+        "share": 0.813
+      },
+      {
+        "hex": "#2c3539",
+        "share": 0.058
+      },
+      {
+        "hex": "#181c21",
+        "share": 0.043
+      },
+      {
+        "hex": "#3b474b",
+        "share": 0.022
+      },
+      {
+        "hex": "#020203",
+        "share": 0.02
+      },
+      {
+        "hex": "#4e5d61",
+        "share": 0.014
+      },
+      {
+        "hex": "#aacfd0",
+        "share": 0.013
+      },
+      {
+        "hex": "#64777a",
+        "share": 0.011
+      },
+      {
+        "hex": "#80989a",
+        "share": 0.006
+      }
+    ],
+    "background": "#0d1015",
+    "chroma": 0.04,
+    "lightness": 0.1,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 5,
+    "hues": 0
+  }
+}

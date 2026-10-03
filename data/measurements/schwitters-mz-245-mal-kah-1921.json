@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/schwitters-mz-245-mal-kah-1921.jpg",
+  "captured": "2026-10-03T00:59:11+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ab784e",
+        "share": 0.186
+      },
+      {
+        "hex": "#d7c9b9",
+        "share": 0.173
+      },
+      {
+        "hex": "#b69d80",
+        "share": 0.14
+      },
+      {
+        "hex": "#b98f69",
+        "share": 0.064
+      },
+      {
+        "hex": "#2c5870",
+        "share": 0.047
+      },
+      {
+        "hex": "#153848",
+        "share": 0.036
+      },
+      {
+        "hex": "#363c33",
+        "share": 0.034
+      },
+      {
+        "hex": "#887053",
+        "share": 0.033
+      },
+      {
+        "hex": "#a28a6e",
+        "share": 0.03
+      },
+      {
+        "hex": "#222d25",
+        "share": 0.029
+      }
+    ],
+    "background": "#ab784e",
+    "chroma": 0.21,
+    "lightness": 0.51,
+    "chromaticShare": 0.29,
+    "accentChroma": 0.35,
+    "distinct": 15,
+    "hues": 1
+  }
+}

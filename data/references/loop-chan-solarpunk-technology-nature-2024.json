@@ -1,0 +1,75 @@
+{
+  "id": "loop-chan-solarpunk-technology-nature-2024",
+  "title": "Solarpunk Technology and Nature together",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A woman in a green dress pulls a small robot cart past a canal and a tram line, under buildings overgrown with vines and a pale, gridded wind tower.",
+  "summary": "Tall, sun-washed street scene of vines over buildings, a tram, and a cart robot. Loop-chan, 2024.",
+  "source": {
+    "url": "https://storyseedlibrary.org/art/loop-chan/solarpunk-technology-nature/",
+    "label": "Story Seed Library: Solarpunk Technology and Nature together"
+  },
+  "creator": {
+    "name": "Loop-chan",
+    "url": "https://storyseedlibrary.org/authors/loop-chan/"
+  },
+  "made": "2024",
+  "moods": [
+    "sunlit",
+    "verdant",
+    "calm",
+    "hopeful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the [Commons copy](https://commons.wikimedia.org/wiki/File:Solarpunk_Technology_and_Nature_together.jpg) (original 2000 × 3421 px, viewed at 935 × 1600 px)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "solarpunk",
+      "note": "Plants overgrow a dense, lived-in city with public transport and friendly machines, in bright greens, sky blue, and sun-washed cream.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Story Seed Library, a solarpunk archive of openly licensed art and stories, lists the work as an illustration dated 25 March 2024, licensed CC BY-SA 4.0, and tags it Vertical, People, City, Transport, and Tram. [Story Seed Library](https://storyseedlibrary.org/art/loop-chan/solarpunk-technology-nature/).",
+    "The Commons upload uses the same title and license. [Commons file page](https://commons.wikimedia.org/wiki/File:Solarpunk_Technology_and_Nature_together.jpg)."
+  ],
+  "observed": [
+    "The format is tall and narrow. In the foreground, a red-haired woman in a straw hat and green dress pulls a wooden two-wheeled cart that carries a small robot with rabbit-like ears.",
+    "Behind her, a pale tram runs on tracks beside a canal with lily pads, and a yellow and black level-crossing sign stands at right.",
+    "Above, buildings with ribbon windows and balconies are covered in vines and bright green trees. Lanterns and bunting hang over a café terrace.",
+    "On the skyline, a water tower and a windmill-like tower are drawn as pale, gridded silhouettes against a light blue sky. A vertical sign reads “LOOP”.",
+    "The light is strong and hazy, washing the upper half toward white and cream. Flat shapes are combined with photo-like textures and screen patterns."
+  ],
+  "interpretation": [
+    "The image shows the gentle, everyday side of solarpunk: technology as a helper (the cart robot, the tram) inside a garden city, not as spectacle.",
+    "The bleached, high-key light matches the style’s daylit ground and its high lightness. Its anime-influenced figure and collage textures are a common variant in online solarpunk art."
+  ],
+  "borrow": [
+    "Use a tall format with plants hanging from the top edge, so the viewer looks up through foliage.",
+    "Let strong light wash the background toward cream, and keep saturated green for the foreground leaves."
+  ],
+  "images": [
+    {
+      "file": "assets/references/loop-chan-solarpunk-technology-nature-2024.jpg",
+      "alt": "Tall illustration: a woman in a green dress and straw hat pulls a cart with a small robot past a tram and a canal, under vine-covered buildings, with a pale windmill tower against a hazy blue sky.",
+      "width": 935,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Loop-chan, “Solarpunk Technology and Nature together”, 2024. [Story Seed Library](https://storyseedlibrary.org/art/loop-chan/solarpunk-technology-nature/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solarpunk_Technology_and_Nature_together.jpg), CC BY-SA 4.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Solarpunk_Technology_and_Nature_together.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Story Seed Library labels the illustration “CC BY-SA 4.0”, and Commons uses the same license. Credit: Loop-chan, Story Seed Library."
+  },
+  "identifiers": {
+    "commons": "File:Solarpunk Technology and Nature together.jpg"
+  }
+}

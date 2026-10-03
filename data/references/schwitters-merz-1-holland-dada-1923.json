@@ -1,0 +1,76 @@
+{
+  "id": "schwitters-merz-1-holland-dada-1923",
+  "title": "Merz 1: Holland Dada, January 1923",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "The first issue of Kurt Schwitters’s magazine Merz puts a condensed MERZ, a heavy roman HOLLAND DADA, a crossed DA sign, and a pointing hand on one plain cover.",
+  "summary": "Condensed sans MERZ, heavy roman HOLLAND DADA, a crossed DA sign, and a pointing hand on buff paper. Kurt Schwitters, 1923.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Merz_jan_1923_001.JPG",
+    "label": "Wikimedia Commons: Merz no. 1 (Holland Dada), Rijksmuseum RP-P-BR-2013-2-3"
+  },
+  "creator": {
+    "name": "Kurt Schwitters (editor and publisher)",
+    "url": "https://en.wikipedia.org/wiki/Kurt_Schwitters"
+  },
+  "made": "January 1923",
+  "moods": [
+    "typographic",
+    "ironic",
+    "raw"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected JoJan’s photograph of the Rijksmuseum copy, RP-P-BR-2013-2-3, on loan from the Stedelijk Museum Amsterdam ([Commons](https://commons.wikimedia.org/wiki/File:Merz_jan_1923_001.JPG), 1551 × 2259 px original, viewed at 1200 px). The photograph is taken at a slight angle and has a glare spot on the last letter A. The Rijksmuseum object URL in the old format returned HTTP 404 on 2026-10-02, so the object data comes from the Commons record."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "dada",
+      "note": "A Dada magazine cover that mixes a condensed sans, a heavy roman, small grotesque labels, and a printer’s pointing hand. Partial fit: the layout is calmer and more aligned than a Dada broadside.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons records the object as the first number of the journal *Merz*, January 1923, letterpress, in the Rijksmuseum (RP-P-BR-2013-2-3), on loan from the Stedelijk Museum Amsterdam since 2013. [Commons](https://commons.wikimedia.org/wiki/File:Merz_jan_1923_001.JPG).",
+    "The table of contents on the cover lists “Dada in Holland”, poems by Kok and Bonset, “An Anna Blume”, and drawings by Picabia and Hannah Höch. [Commons inscription field](https://commons.wikimedia.org/wiki/File:Merz_jan_1923_001.JPG).",
+    "Schwitters published *Merz* from Hannover from 1923 to 1932. [Wikipedia: Kurt Schwitters](https://en.wikipedia.org/wiki/Kurt_Schwitters). The first issue followed the Dutch Dada tour with Theo van Doesburg; see [the soirée program](ref:van-doesburg-schwitters-kleine-dada-soiree-1922)."
+  ],
+  "observed": [
+    "“MERZ” fills the top half in very tall, condensed sans-serif capitals, set wide apart.",
+    "Below it, a large numeral “1” and “HOLLAND DADA” in a heavy roman with bracketed serifs, a different face from the title.",
+    "At the right, a black X with “DA” in each of its four angles, and below it a small dark blue square pasted or printed on the page.",
+    "A large black pointing hand, a stock printer’s cut, points up at the lower left.",
+    "The contents at the top and the imprint at the bottom are small heavy grotesque capitals between thin rules.",
+    "The ink is black on buff-brown paper. The blue square is the only other color."
+  ],
+  "interpretation": [
+    "The cover shows Hannover Dada at its most typographic: three unrelated faces and a stock cut on one page, but held in a mostly left-aligned column. It points ahead to Schwitters’s later constructive typography."
+  ],
+  "borrow": [
+    "Pair a very condensed sans title with a heavy roman subtitle, so the contrast of faces does the work.",
+    "Use a large pointing hand as the only image, and point it at the title."
+  ],
+  "images": [
+    {
+      "file": "assets/references/schwitters-merz-1-holland-dada-1923.jpg",
+      "alt": "Buff magazine cover with MERZ in tall condensed black capitals, a large 1, HOLLAND DADA in a heavy serif face, a black X with DA in each angle, a small blue square, and a black pointing hand at the lower left above the imprint January 1923, Kurt Schwitters, Hannover.",
+      "width": 1099,
+      "height": 1600,
+      "kind": "photograph",
+      "caption": "Kurt Schwitters, *Merz* no. 1, January 1923. Rijksmuseum, Amsterdam, RP-P-BR-2013-2-3. Photograph by JoJan, CC BY-SA 3.0, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Merz_jan_1923_001.JPG).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/7/77/Merz_jan_1923_001.JPG",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-3.0",
+    "statement": "The photograph is by JoJan, licensed CC BY-SA 3.0; credit “JoJan, Wikimedia Commons”. Commons also tags the work PD-Art (PD-old-auto-expired, death year 1948). Schwitters, the cover’s designer, died in 1948, so the cover is public domain in Germany. It was published in 1923, so it is public domain in the United States. The cover shows no work by Höch or other living-term contributors; only their names appear in the contents."
+  },
+  "identifiers": {
+    "rijksmuseum": "RP-P-BR-2013-2-3",
+    "commons": "File:Merz jan 1923 001.JPG"
+  }
+}

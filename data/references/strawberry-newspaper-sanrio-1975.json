@@ -1,0 +1,52 @@
+{
+  "id": "strawberry-newspaper-sanrio-1975",
+  "title": "Strawberry Newspaper (Ichigo Shimbun)",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "Sanrio’s own magazine, published since April 1975: character news, manga, recipes, and cut-out crafts for readers called “Strawberry Mates”.",
+  "summary": "Sanrio’s full-color tabloid magazine of character news and crafts, published since 1975.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Strawberry_Newspaper",
+    "label": "Wikipedia: Strawberry Newspaper"
+  },
+  "creator": {
+    "name": "Sanrio"
+  },
+  "made": "1975 to the present (first issue April 1975)",
+  "moods": [
+    "cute",
+    "playful",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Relies on the Wikipedia article. No issue was inspected; covers seen only as small shop thumbnails were not used."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "kawaii",
+      "note": "The house magazine that has spread Sanrio’s character culture to readers since 1975; its look is not yet verified here.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia says the first issue was published in April 1975 with Snoopy on the cover and cost 100 yen. It appeared twice a month and became monthly in 1982. By 2019, 600 issues had been published, each printed in 100,000 copies according to Sanrio. [Wikipedia: Strawberry Newspaper](https://en.wikipedia.org/wiki/Strawberry_Newspaper).",
+    "The magazine carries news about Sanrio characters and products, drawing lessons, origami, manga serials, character recipes, paper crafts, and cut-out games. It uses a large tabloid format printed in full color, with a poster and a bonus item in each issue. Readers have helped name new characters, starting with the Little Twin Stars in 1975. [Wikipedia: Strawberry Newspaper](https://en.wikipedia.org/wiki/Strawberry_Newspaper)."
+  ],
+  "interpretation": [
+    "The magazine is the editorial side of the style: it made Sanrio’s characters a serial world that readers took part in, not just decorations on goods."
+  ],
+  "next": [
+    "Find an open or museum image of an early issue (1975–1985) and record its layout, color, and type."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The magazine is © Sanrio Co., Ltd."
+  },
+  "identifiers": {
+    "wikidata": "Q11259530"
+  }
+}

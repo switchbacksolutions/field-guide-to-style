@@ -1,0 +1,75 @@
+{
+  "id": "aerroscape-zeddies-berlin-friedrichstrasse-utopia-2048",
+  "title": "Berlin Friedrichstraße Utopia 2048",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A bird’s-eye matte painting of central Berlin in 2048: terraced green hills over the railway, solar roofs, canals for swimming and solar boats, and an airship in a clear sky.",
+  "summary": "Aerial painting of a planted, solar-roofed Berlin around Friedrichstraße station. Aerroscape and Lino Zeddies, 2023.",
+  "source": {
+    "url": "https://realutopien.info/visuals/berlin-friedrichstrasse-utopia-2048/",
+    "label": "Realutopien: Berlin Friedrichstraße Utopia 2048"
+  },
+  "creator": {
+    "name": "Aerroscape and Lino Zeddies"
+  },
+  "made": "2023",
+  "moods": [
+    "hopeful",
+    "sunlit",
+    "verdant",
+    "panoramic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the [Commons copy](https://commons.wikimedia.org/wiki/File:Berlin_Friedrichstra%C3%9Fe_Utopia_2048_small_file.jpg) (original 7098 × 5315 px, viewed at 1600 × 1198 px)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "solarpunk",
+      "note": "A wide daylit solarpunk city: planted terraces, solar roofs, a turbine-topped tower, rail, bicycles, and clean water, in bright green and sky blue.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Realutopien, a project of Reinventing Society e. V., publishes the image as “Berlin Friedrichstraße Utopia 2048 by Lino Zeddies & Aerroscape, CC BY-SA 4.0”, with other “Utopia 2048” views by Aerroscape (Singapore, Landleben, Vehlefanz). [Realutopien](https://realutopien.info/visuals/berlin-friedrichstrasse-utopia-2048/).",
+    "The Commons upload is dated 6 May 2023 and describes “a futuristic, sustainable Berlin - with lots of solar power, trees and greenery, airships, walkable streets, clean water”. A Commons reviewer confirmed the license on 7 October 2023. [Commons file page](https://commons.wikimedia.org/wiki/File:Berlin_Friedrichstra%C3%9Fe_Utopia_2048_small_file.jpg)."
+  ],
+  "observed": [
+    "The view looks east over Bahnhof Friedrichstraße, whose arched train shed carries blue solar panels. The Fernsehturm stands on the horizon.",
+    "A hill of stepped, planted terraces with buildings rises behind the station. Two towers in the distance are wrapped in trees.",
+    "At right, a tall slab is clad in solar panels and planting and carries two vertical-axis wind turbines on its roof.",
+    "The Spree runs through the foreground with swimmers, a small solar boat, and steps down to the water. Streets are full of pedestrians, cyclists, and market stalls, with no cars visible.",
+    "Arched pedestrian bridges, a monorail-like train, an airship marked “art by aerroscape”, and a hot-air balloon fill the scene.",
+    "The palette is saturated leaf green and clear sky blue, with cream and terracotta buildings. The rendering is a detailed, semi-realistic digital painting, not outlined."
+  ],
+  "interpretation": [
+    "The painting shows the architectural branch of solarpunk: an existing city retrofitted, not replaced. Historic buildings stay, and green and solar layers grow over them.",
+    "Its realistic matte-painting finish differs from the outlined, flat illustration in the style’s core, but its colour and content match the grammar closely."
+  ],
+  "borrow": [
+    "Use a high, wide viewpoint over a recognizable place to show change at city scale.",
+    "Keep the existing landmarks and add planting, solar roofs, and water access around them."
+  ],
+  "images": [
+    {
+      "file": "assets/references/aerroscape-zeddies-berlin-friedrichstrasse-utopia-2048.jpg",
+      "alt": "Aerial painting of Berlin with a solar-roofed Friedrichstraße station, a terraced green hill, a river with swimmers and solar boats, crowds of cyclists and walkers, the TV tower on the skyline, and an airship in a blue sky.",
+      "width": 1600,
+      "height": 1198,
+      "kind": "source-image",
+      "caption": "Aerroscape and Lino Zeddies, “Berlin Friedrichstraße Utopia 2048”, 2023. [Realutopien](https://realutopien.info/visuals/berlin-friedrichstrasse-utopia-2048/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Berlin_Friedrichstra%C3%9Fe_Utopia_2048_small_file.jpg), CC BY-SA 4.0. Existing Berlin buildings appear as part of the painted cityscape.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/3/31/Berlin_Friedrichstra%C3%9Fe_Utopia_2048_small_file.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Realutopien: “Berlin Friedrichstraße Utopia 2048 by Lino Zeddies & Aerroscape, CC BY-SA 4.0”. The site’s default license is CC BY-NC-SA 4.0, but this image is marked CC BY-SA 4.0, and a Commons license review confirmed it on 2023-10-07."
+  },
+  "identifiers": {
+    "commons": "File:Berlin Friedrichstraße Utopia 2048 small file.jpg"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "press-start-2p-typeface",
+  "title": "Press Start 2P typeface",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "CodeMan38’s open bitmap font revives the 8 × 8 character set of 1980s Namco arcade games, with heavy two-pixel strokes and a full lowercase.",
+  "summary": "A heavy 8 × 8 arcade bitmap face with capitals, lowercase, and digits. CodeMan38, 2011, SIL Open Font License.",
+  "source": {
+    "url": "https://www.zone38.net/font/",
+    "label": "Font Stuff from codeman38: Press Start"
+  },
+  "creator": {
+    "name": "CodeMan38",
+    "url": "https://www.zone38.net/font/"
+  },
+  "made": "First version about 2001; revised as Press Start 2P in June 2011; on Google Fonts from April 2012",
+  "moods": ["game-like", "bold", "nostalgic"],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded `PressStart2P-Regular.ttf` from the [Google Fonts repository](https://github.com/google/fonts/tree/main/ofl/pressstart2p), rendered a specimen at its 8 px design size without anti-aliasing, enlarged it 5× to 1000 × 500 px, and inspected it."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "pixel-art",
+      "note": "A canonical bitmap face for the style: every glyph is drawn on an 8 × 8 pixel cell with square steps, after arcade game fonts.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "CodeMan38 writes that the font “is based on the fonts from a number of classic Namco arcade games”, specifically the character set of *Return of Ishtar*, one of the first Namco games with a full lowercase. The June 2011 revision added Latin Extended-A, Cyrillic, and Greek. [zone38.net](https://www.zone38.net/font/).",
+    "The Google Fonts metadata names the designer CodeMan38, the license OFL, the category Display, and the date added 4 April 2012. The copyright line reads “Copyright 2012 The Press Start 2P Project Authors … with Reserved Font Name ‘Press Start 2P’”. [Google Fonts repository](https://github.com/google/fonts/tree/main/ofl/pressstart2p)."
+  ],
+  "observed": [
+    "Each letter fills an 8 × 8 pixel cell. Vertical strokes are two pixels wide and horizontal strokes one pixel high, so the face looks heavy and square.",
+    "Curves of C, G, O, and S are cut by single-pixel notches at the corners.",
+    "The lowercase has short ascenders and descenders that stay inside the cell.",
+    "The face is monospaced: “1UP” and “HI-SCORE” line up on a fixed column grid.",
+    "The specimen has two colors only, black on white, with no intermediate gray."
+  ],
+  "interpretation": [
+    "The font gives web pages the arcade score-counter look with one family. It suits headings and labels; its heavy strokes and fixed width make long text slow to read."
+  ],
+  "borrow": [
+    "Set headings and counters at whole multiples of 8 px, and turn off font smoothing so the strokes stay sharp.",
+    "Use capitals for labels such as “1UP” and “HI-SCORE”, and keep body text in a more readable face."
+  ],
+  "images": [
+    {
+      "file": "assets/references/press-start-2p-typeface.png",
+      "alt": "Black on white specimen of a heavy square pixel font: Press Start 2P, the alphabet in capitals and lowercase, the digits, and the words Player 1, 1UP, and Hi-Score.",
+      "width": 1000,
+      "height": 500,
+      "kind": "source-image",
+      "caption": "Specimen of Press Start 2P by CodeMan38, rendered for this catalogue from the OFL font file at 8 px and enlarged 5× with nearest-neighbor scaling.",
+      "original": "https://raw.githubusercontent.com/google/fonts/main/ofl/pressstart2p/PressStart2P-Regular.ttf",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "OFL-1.1",
+    "statement": "“This Font Software is licensed under the SIL Open Font License, Version 1.1.” The specimen is new work rendered from the font file. The letterforms follow Namco arcade character sets, as the designer states."
+  }
+}

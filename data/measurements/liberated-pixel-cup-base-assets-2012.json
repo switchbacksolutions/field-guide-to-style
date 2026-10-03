@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/liberated-pixel-cup-base-assets-2012.png",
+  "captured": "2026-10-03T00:34:55+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.75
+      },
+      {
+        "hex": "#fdd5b7",
+        "share": 0.058
+      },
+      {
+        "hex": "#efb794",
+        "share": 0.022
+      },
+      {
+        "hex": "#eaa378",
+        "share": 0.014
+      },
+      {
+        "hex": "#77605e",
+        "share": 0.011
+      },
+      {
+        "hex": "#6b4b49",
+        "share": 0.01
+      },
+      {
+        "hex": "#f3f3f3",
+        "share": 0.009
+      },
+      {
+        "hex": "#683633",
+        "share": 0.009
+      },
+      {
+        "hex": "#847576",
+        "share": 0.009
+      },
+      {
+        "hex": "#df9670",
+        "share": 0.009
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.06,
+    "lightness": 0.92,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.39,
+    "distinct": 3,
+    "hues": 1
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "bosco-verticale-milan",
+  "title": "Bosco Verticale, Milan",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Two residential towers in Milan’s Porta Nuova district whose cantilevered balconies hold trees, shrubs, and more than ninety plant species.",
+  "summary": "Twin residential towers planted with trees on every balcony. Boeri Studio, Milan, 2014.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Bosco_Verticale",
+    "label": "Wikipedia: Bosco Verticale"
+  },
+  "creator": {
+    "name": "Boeri Studio (Stefano Boeri, Gianandrea Barreca, and Giovanni La Varra)",
+    "url": "https://www.wikidata.org/wiki/Q352709"
+  },
+  "made": "2014 (Wikidata: inception 2014, opened 10 October 2014)",
+  "moods": [
+    "verdant",
+    "urban",
+    "hopeful"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the Wikipedia article and the Wikidata item. The only usable Commons photograph, [Milan skyline with Unicredit Tower and Bosco Verticale.jpg](https://commons.wikimedia.org/wiki/File:Milan_skyline_with_Unicredit_Tower_and_Bosco_Verticale.jpg) by Daniel Case (2016), shows one tower from far away, about 200 px wide in a 1600 px view. Commons holds very few photographs of the building, probably because Italy has no freedom of panorama. Another Commons file titled “Il Bosco Verticale Milano” shows only reflections in a glass facade."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "solarpunk",
+      "note": "The best-known planted tower, often cited as a real-world model for solarpunk’s buildings wrapped in trees. Partial fit: it is luxury housing with no visible renewables or handwork.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: two residential skyscrapers in the Porta Nuova district, designed by Boeri Studio (Stefano Boeri, Gianandrea Barreca, and Giovanni La Varra), 116 m and 84 m tall, inaugurated in 2014. Over ninety plant species, including tall shrubs and trees, grow on the facades. [Wikipedia](https://en.wikipedia.org/wiki/Bosco_Verticale).",
+    "Wikidata records architect Stefano Boeri, inception 2014, and opening on 10 October 2014. [Wikidata Q2501413](https://www.wikidata.org/wiki/Q2501413).",
+    "It won the International Highrise Award on 19 November 2014 and the CTBUH “Best Tall Building Worldwide” award in 2015. [Wikipedia](https://en.wikipedia.org/wiki/Bosco_Verticale).",
+    "Architizer’s 2022 article on solarpunk architecture, cited in the style record, describes towers wrapped in planted terraces of this kind."
+  ],
+  "observed": [
+    "In Daniel Case’s distant view, the tower is a dark rectangular block whose facade is broken by irregular light balcony edges and dense dark green planting on every floor. A crane stands on the roof."
+  ],
+  "interpretation": [
+    "The building made the image of a tree-covered tower familiar worldwide, and solarpunk illustration repeats it often, for example in the skyline of [Berlin Friedrichstraße Utopia 2048](ref:aerroscape-zeddies-berlin-friedrichstrasse-utopia-2048).",
+    "Critics of greenwashing note that such towers are expensive housing. That is why this record calls it a partial fit."
+  ],
+  "borrow": [
+    "Stagger planted balconies so that greenery breaks the outline of a rectangular block."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image stored. The building (2014) is a protected architectural work, and Italy has no freedom of panorama."
+  },
+  "identifiers": {
+    "wikidata": "Q2501413"
+  }
+}

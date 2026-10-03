@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/boccioni-the-city-rises-1910.jpg",
+  "captured": "2026-10-03T00:40:45+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#c3ad98",
+        "share": 0.073
+      },
+      {
+        "hex": "#dcc3aa",
+        "share": 0.073
+      },
+      {
+        "hex": "#9c3121",
+        "share": 0.051
+      },
+      {
+        "hex": "#e2d1bb",
+        "share": 0.049
+      },
+      {
+        "hex": "#c39071",
+        "share": 0.044
+      },
+      {
+        "hex": "#ca9f81",
+        "share": 0.042
+      },
+      {
+        "hex": "#d6b89c",
+        "share": 0.041
+      },
+      {
+        "hex": "#7e2b1e",
+        "share": 0.04
+      },
+      {
+        "hex": "#b69f89",
+        "share": 0.037
+      },
+      {
+        "hex": "#c8b9aa",
+        "share": 0.036
+      }
+    ],
+    "background": "#c3ad98",
+    "chroma": 0.23,
+    "lightness": 0.57,
+    "chromaticShare": 0.32,
+    "accentChroma": 0.4,
+    "distinct": 24,
+    "hues": 1
+  }
+}

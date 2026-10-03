@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/kowloon-walled-city-aerial-1989.jpg",
+  "captured": "2026-10-03T00:34:58+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#707575",
+        "share": 0.086
+      },
+      {
+        "hex": "#47515a",
+        "share": 0.073
+      },
+      {
+        "hex": "#3a4651",
+        "share": 0.061
+      },
+      {
+        "hex": "#8e8b7f",
+        "share": 0.049
+      },
+      {
+        "hex": "#a0998a",
+        "share": 0.042
+      },
+      {
+        "hex": "#817f72",
+        "share": 0.04
+      },
+      {
+        "hex": "#59646e",
+        "share": 0.036
+      },
+      {
+        "hex": "#5e625c",
+        "share": 0.036
+      },
+      {
+        "hex": "#7b8386",
+        "share": 0.035
+      },
+      {
+        "hex": "#928366",
+        "share": 0.035
+      }
+    ],
+    "background": "#707575",
+    "chroma": 0.1,
+    "lightness": 0.42,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 27,
+    "hues": 0
+  }
+}

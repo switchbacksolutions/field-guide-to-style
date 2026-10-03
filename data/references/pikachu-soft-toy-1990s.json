@@ -1,0 +1,61 @@
+{
+  "id": "pikachu-soft-toy-1990s",
+  "title": "Pikachu soft toy",
+  "type": "product",
+  "medium": "product",
+  "lede": "A yellow plush Pikachu from the late-1990s Pokémon boom: a round body, stubby limbs, dot eyes with highlights, and red cheek discs.",
+  "summary": "Seated yellow plush Pikachu with black-tipped ears and round red cheeks. Made in Germany, 1995–1999.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O107469/pikachu-soft-toy/",
+    "label": "V&A: Soft toy, Pikachu, B.89-2004"
+  },
+  "creator": {
+    "name": "Deutshe Toy GMBH (manufacturer, as the V&A spells it); Pokémon created by Satoshi Tajiri"
+  },
+  "made": "1995–1999 (V&A)",
+  "moods": [
+    "cute",
+    "friendly",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A photograph 2006AE8391 of object B.89-2004 (1200 × 1600 px, IIIF) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "kawaii",
+      "note": "Partial fit: the big round head, short limbs, highlighted dot eyes, and blush circles are the kawaii face, but the yellow is strong rather than pastel.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "The V&A says Pokémon was created by Satoshi Tajiri as games for Nintendo’s Game Boy in 1995, then moved to television, trading cards, and merchandise including soft toys; it calls Pikachu “probably the best known of the Pokémon creatures”. [V&A B.89-2004](https://collections.vam.ac.uk/item/O107469/pikachu-soft-toy/).",
+    "The museum records a yellow nylon plush toy, 275 mm high, with black plastic eyes with white dots, cheeks of plastic discs covered in red material, and a stitched nose and mouth, manufactured in Munich. [V&A B.89-2004](https://collections.vam.ac.uk/item/O107469/pikachu-soft-toy/)."
+  ],
+  "observed": [
+    "The toy sits upright; the head is almost as wide as the body, and the arms and feet are short rounded stubs.",
+    "The eyes are black domes with a white highlight, set wide and low; the mouth is a small stitched wavy line under a dot nose.",
+    "Two bright red circles mark the cheeks.",
+    "The long ears end in black tips; the plush is an even lemon yellow."
+  ],
+  "interpretation": [
+    "The face follows the kawaii formula almost exactly: wide-set highlighted dot eyes, a tiny mouth, and cheek blush. The proportions are those of the chibi baby schema.",
+    "The saturated yellow shows that the kawaii face and proportions can work without the pastel palette, in the toy and game branch of the style."
+  ],
+  "borrow": [
+    "Place dot eyes wide apart and low on the face, each with one small white highlight.",
+    "Make cheek blush a clean circle in a single warm color."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is © Victoria and Albert Museum, London. Pikachu and Pokémon belong to Nintendo, Creatures, and Game Freak."
+  },
+  "identifiers": {
+    "vam": "O107469"
+  }
+}

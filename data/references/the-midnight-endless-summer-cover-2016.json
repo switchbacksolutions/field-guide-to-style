@@ -1,0 +1,60 @@
+{
+  "id": "the-midnight-endless-summer-cover-2016",
+  "title": "The Midnight, Endless Summer (album cover)",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "The cover of The Midnight’s first album: a glowing pink neon script over a star-speckled figure, with VHS tracking noise and an on-screen play label.",
+  "summary": "Pink neon script “The Midnight”, cosmic figure, VHS noise, “▶ ENDLESS SUMMER ©1984”. 2016.",
+  "source": {
+    "url": "https://themidnight.wiki/wiki/Endless_Summer",
+    "label": "The Midnight Wiki: Endless Summer"
+  },
+  "creator": {
+    "name": "Taylor Allen"
+  },
+  "made": "Released 5 August 2016 (The Midnight Wiki; Discogs)",
+  "moods": [
+    "nostalgic",
+    "nocturnal",
+    "romantic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 px front-cover image from the [Cover Art Archive](https://musicbrainz.org/release-group/764fe9af-fff9-478a-bda3-b697e99d9047) in a scratch folder. Not stored. The artist credit comes from The Midnight Wiki; the [Discogs record of the 2016 digital release](https://www.discogs.com/release/8888236) lists no artwork credit."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "synthwave",
+      "note": "A neon-tube script logotype, a black ground, and VHS tracking lines used as a nostalgic accent: the type and surface side of the style.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Midnight Wiki: *Endless Summer* is the band’s first album, released independently on 5 August 2016. “A small snip of the album artwork (done by Taylor Allen) was revealed in July,” and the full artwork was revealed with the announcement on 25 July. [The Midnight Wiki](https://themidnight.wiki/wiki/Endless_Summer).",
+    "Discogs records the original release as a self-released digital file of 5 August 2016, written by Tim McEwan and Tyler Lyle. [Discogs](https://www.discogs.com/release/8888236)."
+  ],
+  "observed": [
+    "The ground is near-black, crossed by faint horizontal lines of video noise. Two bands of heavier static run across the lower third.",
+    "A tilted female figure, filled with a star field in cyan, blue, violet, and magenta, rises through the centre.",
+    "“The Midnight” crosses the figure in a monoline script drawn as a pink neon tube: a white-hot core, a magenta glow, and a thin cyan and yellow colour offset.",
+    "Below, “▶ ENDLESS SUMMER” and “©1984” are set in small, light, pixel-like capitals, like a VCR on-screen display, with a red and cyan colour fringe."
+  ],
+  "interpretation": [
+    "The cover shows that VHS artefacts in synthwave are an accent of memory, not decay: the image stays sharp and saturated, and the noise sits on top of it. The false “©1984” date sets the scene in an imagined past."
+  ],
+  "borrow": [
+    "Draw a script logotype as a neon tube: a white core line, a wide magenta glow, and a one-pixel cyan offset.",
+    "Label a section like a VCR display: a play triangle and small pixel capitals."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The cover art is in copyright (The Midnight / Taylor Allen, 2016)."
+  },
+  "identifiers": {
+    "musicbrainz-release-group": "764fe9af-fff9-478a-bda3-b697e99d9047",
+    "discogs-release": "8888236"
+  }
+}

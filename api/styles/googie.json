@@ -502,5 +502,162 @@
       }
     }
   },
-  "references": []
+  "references": [
+    {
+      "id": "nelson-ball-clock",
+      "title": "Ball Clock",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: a product, not a sign or building, but its ball-and-rod form is the atom motif that Googie signs repeat.",
+      "page": "references/nelson-ball-clock.html",
+      "source": "https://www.artic.edu/artworks/154134/ball-clock",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "shag-website",
+      "title": "Shag website",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the painted lounge scenes use the Atomic Age starburst and space-age props, but the page itself is a plain image slider.",
+      "page": "references/shag-website.html",
+      "source": "https://www.shag.com/",
+      "image": "assets/references/shag-website.jpg",
+      "measurement": "data/measurements/shag-website.json"
+    },
+    {
+      "id": "astro-motel-sign-fresno",
+      "title": "Astro Motel sign, Fresno",
+      "medium": "signage",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A space-age motel sign: a spire, an orbit ring with star spikes, a panel with upswept ends, and a name in neon script over tube capitals.",
+      "page": "references/astro-motel-sign-fresno.html",
+      "source": "https://www.loc.gov/item/2017703592/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "cadillac-eldorado-biarritz-1959",
+      "title": "Cadillac Eldorado Biarritz, 1959",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: a car, not a sign or building, but its tail fins and jet-exhaust lights are the jet-age source of Googie’s upswept angles, which the style record names as an influence.",
+      "page": "references/cadillac-eldorado-biarritz-1959.html",
+      "source": "https://en.wikipedia.org/wiki/Cadillac_Eldorado",
+      "image": "assets/references/cadillac-eldorado-biarritz-1959.jpg",
+      "measurement": "data/measurements/cadillac-eldorado-biarritz-1959.json"
+    },
+    {
+      "id": "caribbean-motel-wildwood-crest",
+      "title": "Caribbean Motel, Wildwood Crest",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A Wildwood Doo Wop motel, the East Coast branch of Googie: a levitating ramp, lean-in glass, fake palms, and a neon script sign with a star.",
+      "page": "references/caribbean-motel-wildwood-crest.html",
+      "source": "https://www.loc.gov/item/nj1486/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "dennys-coffee-shop-monrovia-postcard",
+      "title": "Denny’s Coffee Shop, Monrovia, postcard",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A 1950s–60s Southern California coffee shop with an upswept roof and stacked pole sign, the core Googie building type, in the bright printed color of roadside postcards.",
+      "page": "references/dennys-coffee-shop-monrovia-postcard.html",
+      "source": "https://ark.digitalcommonwealth.org/ark:/50959/xs55n020g",
+      "image": "assets/references/dennys-coffee-shop-monrovia-postcard.jpg",
+      "measurement": "data/measurements/dennys-coffee-shop-monrovia-postcard.json"
+    },
+    {
+      "id": "holiday-bowl-coffee-shop-los-angeles",
+      "title": "Holiday Bowl coffee shop, Los Angeles",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "HABS names the coffee shop “a good architectural representative of the Googie style”; its zigzag roof and upswept beams are the style’s angular, lifting structure.",
+      "page": "references/holiday-bowl-coffee-shop-los-angeles.html",
+      "source": "https://www.loc.gov/item/ca3275/",
+      "image": "assets/references/holiday-bowl-coffee-shop-los-angeles.jpg",
+      "measurement": "data/measurements/holiday-bowl-coffee-shop-los-angeles.json"
+    },
+    {
+      "id": "mcdonalds-downey-1953",
+      "title": "McDonald’s, Downey, California",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Wikipedia names this stand as a preserved Googie example; the arches are pure sign, and the roof slab slopes at an angle.",
+      "page": "references/mcdonalds-downey-1953.html",
+      "source": "https://www.loc.gov/item/2017709079/",
+      "image": "assets/references/mcdonalds-downey-1953.jpg",
+      "measurement": "data/measurements/mcdonalds-downey-1953.json"
+    },
+    {
+      "id": "joes-liquors-roto-sphere-memphis",
+      "title": "Roto-Sphere sign, Joe’s Liquors, Memphis",
+      "medium": "signage",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A spiked sphere over a zigzag arrow, the satellite-and-starburst symbol of the style as a roadside sign.",
+      "page": "references/joes-liquors-roto-sphere-memphis.html",
+      "source": "https://www.loc.gov/item/2021756385/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "space-age-lodge-sign-gila-bend",
+      "title": "Space Age Lodge sign, Gila Bend",
+      "medium": "signage",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A flying saucer as a roadside sign, one of the space-age symbols the style uses as ornament.",
+      "page": "references/space-age-lodge-sign-gila-bend.html",
+      "source": "https://www.loc.gov/item/2017703537/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "stardust-roadside-sign-las-vegas",
+      "title": "Stardust roadside sign, Las Vegas",
+      "medium": "signage",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Starbursts as pure ornament, lit on a night sky: the style’s neon-on-dark color and star imagery in one sign.",
+      "page": "references/stardust-roadside-sign-las-vegas.html",
+      "source": "https://www.loc.gov/item/2011631018/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "theme-building-lax",
+      "title": "Theme Building, Los Angeles International Airport",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A flying saucer on parabolic legs, the Space Age symbol built at full scale; Wikipedia calls it an example of the style later known as Googie.",
+      "page": "references/theme-building-lax.html",
+      "source": "https://en.wikipedia.org/wiki/Theme_Building",
+      "image": "assets/references/theme-building-lax.jpg",
+      "measurement": "data/measurements/theme-building-lax.json"
+    },
+    {
+      "id": "welcome-to-fabulous-las-vegas-sign",
+      "title": "Welcome to Fabulous Las Vegas sign",
+      "medium": "signage",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The style record names this sign’s starburst as pure ornament; Wikipedia calls the design characteristic of Googie.",
+      "page": "references/welcome-to-fabulous-las-vegas-sign.html",
+      "source": "https://www.loc.gov/item/2010630140/",
+      "image": "assets/references/welcome-to-fabulous-las-vegas-sign.jpg",
+      "measurement": "data/measurements/welcome-to-fabulous-las-vegas-sign.json"
+    }
+  ]
 }

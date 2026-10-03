@@ -1,0 +1,61 @@
+{
+  "id": "neko-atsume-app-2014",
+  "title": "Neko Atsume: Kitty Collector",
+  "type": "product",
+  "medium": "app",
+  "lede": "Hit-Point’s mobile game in which round, simply drawn cats visit a yard; its interface uses thick outlines, rounded panels, and paw-print motifs.",
+  "summary": "Cat-collecting mobile game with outlined cats, rounded cream panels, and a paw-print menu button. Hit-Point, 2014.",
+  "source": {
+    "url": "https://apps.apple.com/us/app/neko-atsume-kitty-collector/id923917775",
+    "label": "App Store: Neko Atsume: Kitty Collector"
+  },
+  "creator": {
+    "name": "Hit-Point Co., Ltd."
+  },
+  "made": "2014 (released 20 October 2014, per Wikipedia)",
+  "moods": [
+    "gentle",
+    "cute",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected three App Store screenshots of the current English iOS version (1000 px wide, scratchpad copies): the yard view and the shop. The screenshots may differ from the 2014 release. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "kawaii",
+      "note": "Partial fit: dot-eyed cats, rounded outlined panels, and paw motifs are kawaii interface grammar, but the palette is muted earth and green rather than pastel.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "Wikipedia describes Neko Atsume as a cat-collecting game for iOS and Android by Hit-Point, released on 20 October 2014; players set out food, toys, and furniture to attract cats, then take photos and receive gifts of dried sardines. It won the CEDEC Award for game design in August 2015. [Wikipedia: Neko Atsume](https://en.wikipedia.org/wiki/Neko_Atsume)."
+  ],
+  "observed": [
+    "The yard is drawn in flat fills with an even dark-brown outline: a green hedge, a red-roofed house, a tree stump, a tatami mat, and a cardboard box.",
+    "Cats are short, round bodies with small round heads, two dot eyes, and a tiny “ω” mouth; one hugs a ball, one lies on a stump.",
+    "The menu button is a rounded square in orange with a white paw print and the word “Menu” in a rounded hand-drawn face.",
+    "In the shop, items sit in cream cards with thick dark outlines and very round corners, on a mint-green ground patterned with faint paw prints.",
+    "A pill-shaped speech bubble reads “Gifts Await”; prices use bold rounded numerals next to small fish icons."
+  ],
+  "interpretation": [
+    "The game applies kawaii to a whole interface: the characters set the mood, and the controls are drawn in the same outlined, rounded hand. The cats are decorative and never carry information, which matches the style’s rules.",
+    "The muted, domestic palette is a quieter branch of the style; it relies on line and shape more than on pastel color."
+  ],
+  "borrow": [
+    "Draw interface cards and buttons with the same thick outline as the characters, so the whole screen feels like one sticker sheet.",
+    "Use a faint repeated motif (paw prints) as a low-contrast background pattern."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The game and its artwork are © Hit-Point Co., Ltd."
+  },
+  "identifiers": {
+    "wikidata": "Q20442642"
+  }
+}

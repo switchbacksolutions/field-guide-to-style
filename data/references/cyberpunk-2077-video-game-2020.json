@@ -1,0 +1,65 @@
+{
+  "id": "cyberpunk-2077-video-game-2020",
+  "title": "Cyberpunk 2077",
+  "type": "product",
+  "medium": "software",
+  "lede": "CD Projekt Red’s open-world role-playing game set in Night City, a dystopian Californian metropolis of megabuildings, neon signs, and body modification.",
+  "summary": "A dense night city of pink and cyan neon, Japanese signs, and haze, with chrome and cyberware. CD Projekt Red, 2020.",
+  "source": {
+    "url": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+    "label": "Steam: Cyberpunk 2077"
+  },
+  "creator": {
+    "name": "CD Projekt Red",
+    "url": "https://www.cdprojektred.com/"
+  },
+  "made": "2020 (released 10 December 2020; Steam lists 9 December 2020)",
+  "moods": [
+    "dystopian",
+    "nocturnal",
+    "gritty",
+    "high-tech"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected eight 1920 × 1080 px screenshots from the Steam store listing (app 1091500) in a scratch folder. The observations come mainly from the street scene with a fenced lookout. The screenshots are publisher marketing images and may differ from play."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "cyberpunk",
+      "note": "The style’s current flagship: the Aesthetics Wiki uses it as its lead image, and its Night City shows the neon-on-black palette, signs, and cyborg bodies at full scale.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: “Cyberpunk 2077 is a 2020 action role-playing game developed by CD Projekt Red and published by CD Projekt. Based on Mike Pondsmith’s Cyberpunk tabletop game series, the plot is set in the fictional cyberpunk metropolis of Night City in California”. Pondsmith served as a consultant. [Wikipedia](https://en.wikipedia.org/wiki/Cyberpunk_2077).",
+    "Wikipedia: the team used “four distinct visual styles—austere Entropism, colourful Kitsch, imposing Neomilitarism, and opulent Neokitsch” to build Night City, and drew on Syd Mead’s “vibrant colours and materialism”. [Wikipedia](https://en.wikipedia.org/wiki/Cyberpunk_2077).",
+    "The style record notes that the Aesthetics Wiki uses Cyberpunk 2077 as its lead image. See [Cyberpunk](style:cyberpunk)."
+  ],
+  "observed": [
+    "In the street scene, tall dark buildings and elevated structures close the sky. Haze lit orange and red fills the space between them.",
+    "A vertical magenta neon sign hangs at upper left. A tree of small pink lights and a vertical sign beginning “BE” glow at right.",
+    "A fence of black bars in the foreground is backlit by a bright cyan light from below. Japanese signs, including “営業”, appear in the distance.",
+    "Other screenshots show a scratched black car with a white checker stripe, police vehicles with red and blue lights, and characters with visible implants: a gold line on a woman’s face and a metal arm.",
+    "Not all screenshots are nocturnal: a garage scene is lit by work lights and shows a wedge-shaped car in blue, white, yellow, and red blocks."
+  ],
+  "interpretation": [
+    "The game shows the style as a full environment rather than a graphic layer: neon light, haze, and dark mass do the work, and the HUD sits on top.",
+    "Its range of sub-styles (Kitsch, Neomilitarism) shows that the look is not one palette. The pink-and-cyan street is only one register of it."
+  ],
+  "borrow": [
+    "Use haze or a soft gradient of colored light between dark masses to give depth to a dark layout.",
+    "Light one foreground element from behind with cyan so it reads as a silhouette."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Cyberpunk 2077 and its screenshots are © CD Projekt. The screenshots were viewed on the Steam store page only."
+  },
+  "identifiers": {
+    "wikidata": "Q3182559",
+    "steam": "1091500"
+  }
+}

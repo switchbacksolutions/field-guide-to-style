@@ -1,0 +1,62 @@
+{
+  "id": "kumamon-mascot-2010",
+  "title": "Kumamon",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "Kumamoto Prefecture’s black bear mascot, made by art director Manabu Mizuno in 2010 for the Kyushu Shinkansen opening: round eyes, red cheek circles, and an open smile.",
+  "summary": "Black round-headed bear with white eyes, red cheek circles, and a wide smile. Manabu Mizuno for Kumamoto Prefecture, 2010.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Kumamon",
+    "label": "Wikipedia: Kumamon"
+  },
+  "creator": {
+    "name": "Manabu Mizuno (Good Design Company) for Kumamoto Prefecture"
+  },
+  "made": "2010",
+  "moods": [
+    "friendly",
+    "playful",
+    "cheerful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the photograph [Kumamon on the wall](https://commons.wikimedia.org/wiki/File:Kumamon_on_the_wall_(14987894668).jpg) by foooomio (2014, CC BY 2.0, 1280 px scratchpad copy), which shows a large Kumamon face on the glass facade of an office building in central Kumamoto. Not stored, because the character is its main subject."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "kawaii",
+      "note": "Partial fit: a yuru-chara with the kawaii face (round eyes, blush circles, big head), but drawn in black, white, and red instead of pastels.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "Wikipedia says Kumamon was established in 2010 by the Kumamoto Prefecture government, in a campaign to draw tourists after the Kyushu Shinkansen line opened, and ranked first in the 2011 nationwide mascot competition with more than 280,000 votes. [Wikipedia: Kumamon](https://en.wikipedia.org/wiki/Kumamon).",
+    "Kumamoto Prefecture grants usage rights for free when products promote goods and services from the prefecture. [Wikipedia: Kumamon](https://en.wikipedia.org/wiki/Kumamon).",
+    "UWC ISAK Japan names Manabu Mizuno, creative director of Good Design Company, as the creator of Kumamon. [UWC ISAK Japan](https://uwcisak.jp/blog/news-events/guest-speaker-manabu-mizuno-creator-of-kumamon/)."
+  ],
+  "observed": [
+    "On the building, the face covers several storeys of glass: a black round head with two small round ears.",
+    "The eyes are white circles with black pupils, set high and wide; two solid red circles mark the cheeks.",
+    "A white muzzle with a wide open mouth sits low in the face.",
+    "The surrounding city street, signs, and tram tracks are ordinary; the face is the only character in view."
+  ],
+  "interpretation": [
+    "Kumamon shows how the yuru-chara branch carries the kawaii face into public promotion and signage. The strong black and red make it readable at building scale, which pastels would not.",
+    "Compared with Sanrio characters, the face is more graphic and less sweet, close to a logo."
+  ],
+  "borrow": [
+    "Reduce a mascot to a few flat shapes (head, two eyes, two cheek circles, a muzzle) so it reads at any size.",
+    "Keep cheek blush as two solid circles of one color."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Kumamon is © Kumamoto Prefecture and used under its licensing scheme. The Commons photograph is CC BY 2.0, but its main subject is the character."
+  },
+  "identifiers": {
+    "wikidata": "Q4806134"
+  }
+}

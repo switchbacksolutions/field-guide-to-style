@@ -1,0 +1,73 @@
+{
+  "id": "marinetti-zang-tumb-tuuum-collage-1915",
+  "title": "Zang Tumb Tuuum, collage",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "F. T. Marinetti cut words and black hairpin shapes out of printed matter from his book Zang Tumb Tumb and pasted them into a fanning bombardment of sound.",
+  "summary": "Pasted strips read BUM BUM BUM and ZANG TUMB TUUUM inside fanned black hairpin shapes. F. T. Marinetti, 1915.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Filippo_Tommaso_Marinetti_-_ZANG_TUMB_TUUUM_1915.jpg",
+    "label": "Wikimedia Commons: Filippo Tommaso Marinetti - ZANG TUMB TUUUM 1915.jpg"
+  },
+  "creator": {
+    "name": "Filippo Tommaso Marinetti",
+    "url": "https://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti"
+  },
+  "made": "1915",
+  "moods": ["loud", "aggressive", "exuberant"],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Commons file (original 2048 × 1408 px; a 1280 × 880 px rendering was inspected and stored). Commons gives the source as the Sotheby’s sale “Zang Tumb Tuuum: la révolution futuriste” (Paris, 2021). The physical work is the single original collage offered there; its present owner is not known. The Sotheby’s lot page loads only with JavaScript, so its details come from a search summary and are not verified."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "futurism",
+      "note": "Words in freedom made physical: onomatopoeia in heavy type, set at angles inside repeated shapes that fan out like a burst of shells.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Commons description gives the full title of the poem as “BOOOOOMBOOOOOMBAAAAARDAAAMENTO. BUM BUM BUM. ZANG TUMB TUUUM” and describes the work as an original collage of typographical letters and shapes on paper. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Filippo_Tommaso_Marinetti_-_ZANG_TUMB_TUUUM_1915.jpg).",
+    "According to a search summary of the [Sotheby’s lot](https://www.sothebys.com/en/buy/auction/2021/zang-tumb-tuuum-la-revolution-futuriste/marinetti-zang-tumb-tuuum-1915-historic-collage-2) (not opened), the sheet measures about 21 × 31 cm, Marinetti numbered it in blue pencil, and he cut the fragments from the book *Zang Tumb Tumb* published in 1914.",
+    "*Zang Tumb Tumb* (1914) recounts the siege of Adrianople in the First Balkan War, which Marinetti reported on in 1912. [Wikipedia: Zang Tumb Tumb](https://en.wikipedia.org/wiki/Zang_Tumb_Tumb)."
+  ],
+  "observed": [
+    "Three black hairpin or U shapes, cut from paper, fan out from the lower left, each larger than the one before; a fourth thin one sits at the top.",
+    "Inside the largest, three pasted labels read “ZANG”, “TUMB”, and “TUUUM” in a heavy condensed grotesque, rising along the shape.",
+    "Inside the middle one, “BUM BUM BUM” is set in a condensed serif at an angle.",
+    "A narrow strip at upper right reads “BOOOOOMBOOOOOMBAAAAARDAAAMENTO” in small condensed capitals, horizontal.",
+    "A black pointed shape like a shell or a tower stands at the lower left edge.",
+    "Blue pencil scribble and the number “72” are at the upper left. The sheet is off-white, creased, and stained around the pasted parts."
+  ],
+  "interpretation": [
+    "The work shows the grammar of words in freedom in its plainest form: shapes repeat and grow along a path, and the sound words ride along them like projectiles. Only black and the paper tone are used, so the motion comes entirely from the angles and the repetition.",
+    "The mix of a heavy grotesque, a condensed serif, and small capitals is typical of Marinetti’s pages."
+  ],
+  "borrow": [
+    "Put the loudest words inside a repeated shape that grows along a diagonal, so the shape carries the words.",
+    "Set each word of an onomatopoeic phrase in its own block, stepped upward.",
+    "Contrast one very long, very small line of type with a few huge words."
+  ],
+  "images": [
+    {
+      "file": "assets/references/marinetti-zang-tumb-tuuum-collage-1915.jpg",
+      "alt": "Collage on creased off-white paper: three black hairpin shapes fan out from the lower left, growing larger. Pasted labels inside them read BUM BUM BUM and ZANG, TUMB, TUUUM in heavy type. A small strip at top right reads BOOOOOMBOOOOOMBAAAAARDAAAMENTO, and blue pencil marks a number 72 at top left.",
+      "width": 1280,
+      "height": 880,
+      "kind": "source-image",
+      "caption": "F. T. Marinetti, *Zang Tumb Tuuum*, 1915, collage of printed paper on paper. Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Filippo_Tommaso_Marinetti_-_ZANG_TUMB_TUUUM_1915.jpg), sourced from Sotheby’s (2021), marked public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/22/Filippo_Tommaso_Marinetti_-_ZANG_TUMB_TUUUM_1915.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Wikimedia Commons marks the file public domain. Marinetti was Italian and died in 1944, more than 70 years ago, so the work is public domain in Italy. It dates from 1915; if it was published, that was before 1931, and if unpublished, its author died more than 70 years ago, so it is public domain in the United States either way. The image is a faithful reproduction of a flat work."
+  },
+  "identifiers": {
+    "commons": "File:Filippo Tommaso Marinetti - ZANG TUMB TUUUM 1915.jpg"
+  }
+}

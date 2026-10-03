@@ -1,0 +1,66 @@
+{
+  "id": "silkscreen-typeface",
+  "title": "Silkscreen typeface",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "Jason Kottke’s tiny bitmap face for web graphics draws most capitals in 4 × 5 pixels and became a common pixel label face on websites of the 2000s.",
+  "summary": "A small, wide-spaced 5-pixel bitmap face in capitals only. Jason Kottke, about 1999–2001, SIL Open Font License.",
+  "source": {
+    "url": "https://kottke.org/plus/type/silkscreen/",
+    "label": "kottke.org: Silkscreen font"
+  },
+  "creator": {
+    "name": "Jason Kottke",
+    "url": "https://kottke.org/"
+  },
+  "made": "Copyright 2001 per the OFL release; Commons calls the drawn version 1.1 “(2000)”",
+  "moods": ["crisp", "nostalgic", "handmade"],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded `Silkscreen-Regular.ttf` from the [Google Fonts repository](https://github.com/google/fonts/tree/main/ofl/silkscreen), rendered a specimen at its 8 pt design size without anti-aliasing, enlarged it 7× to 868 × 616 px, and inspected it."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "pixel-art",
+      "note": "A bitmap face built on a 5-pixel cap height for screen labels: square steps, one weight, and capitals only.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Kottke calls Silkscreen “a typeface for your Web graphics” and says he drew the letters with the pencil tool in Photoshop 5.02, then built the font in Fontographer 3.52. Most characters are 4 × 5 pixels and the largest 5 × 5. It should be used at 8 pt or multiples of 8 pt. [kottke.org](https://kottke.org/plus/type/silkscreen/).",
+    "Kottke lists Flickr, Sephora.com, Volvo Cars, and *The Bourne Legacy* among its uses. [kottke.org](https://kottke.org/plus/type/silkscreen/).",
+    "The Google Fonts release names Jason Kottke as designer, the license OFL, and the copyright “2001 The Silkscreen Project Authors”, with source at [googlefonts/silkscreen](https://github.com/googlefonts/silkscreen). [Google Fonts repository](https://github.com/google/fonts/tree/main/ofl/silkscreen)."
+  ],
+  "observed": [
+    "Capitals are 5 pixels high and mostly 4 pixels wide, with one-pixel strokes and two pixels of space between letters.",
+    "The lowercase row renders as capitals: the face has no separate lowercase.",
+    "The small letters read as a wide-spaced line of dots and bars, and they keep their shape only at whole-number enlargements.",
+    "Digits and punctuation follow the same 5-pixel grid."
+  ],
+  "interpretation": [
+    "Silkscreen is the label face of early-2000s pixel web graphics. Its tiny cell makes it a navigation and caption face rather than a heading face like [Press Start 2P](ref:press-start-2p-typeface)."
+  ],
+  "borrow": [
+    "Use a 5-pixel bitmap face in capitals for small navigation labels, and space the letters widely.",
+    "Set it at 8 px or a whole multiple, never at an in-between size."
+  ],
+  "images": [
+    {
+      "file": "assets/references/silkscreen-typeface.png",
+      "alt": "Black on white specimen of a small square pixel font in capitals: Silkscreen, the alphabet twice, the digits, and the words Home, About, Archive.",
+      "width": 868,
+      "height": 616,
+      "kind": "source-image",
+      "caption": "Specimen of Silkscreen by Jason Kottke, rendered for this catalogue from the OFL font file at 8 px and enlarged 7× with nearest-neighbor scaling.",
+      "original": "https://raw.githubusercontent.com/google/fonts/main/ofl/silkscreen/Silkscreen-Regular.ttf",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "OFL-1.1",
+    "statement": "“Copyright 2001 The Silkscreen Project Authors … This Font Software is licensed under the SIL Open Font License, Version 1.1.” The specimen is new work rendered from the font file."
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "hello-kitty-character-1974",
+  "title": "Hello Kitty",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "Yuko Shimizu’s white cat for Sanrio, 1974: a big round head, dot eyes, a yellow nose, a red bow, and no mouth.",
+  "summary": "White cat with dot eyes, a red bow, and no mouth, first sold on a vinyl coin purse in 1975. Yuko Shimizu for Sanrio, 1974.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Hello_Kitty",
+    "label": "Wikipedia: Hello Kitty"
+  },
+  "creator": {
+    "name": "Yuko Shimizu for Sanrio; later lead designers Setsuko Yonekubo (1976) and Yuko Yamaguchi (from 1980)"
+  },
+  "made": "1974 (first product March 1975)",
+  "moods": [
+    "cute",
+    "innocent",
+    "sweet"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Relies on Wikipedia and the V&A’s description of Hello Kitty goods. The 1975 coin purse was not inspected. The character as drawn on later goods was observed on the V&A’s [toaster](ref:hello-kitty-toaster-sanyo-1998), [kettle](ref:hello-kitty-kettle-t-fal-2013), and [rice cooker](ref:hello-kitty-rice-cooker-2014)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "kawaii",
+      "note": "The founding character of kawaii goods: a big round head, dot eyes, a bow, and a minimal face, applied to everyday products since 1975.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia says Hello Kitty was designed by Yuko Shimizu and added to Sanrio’s lineup in 1974, and first appeared on an item in March 1975, a vinyl coin purse sold in Japan, sitting between a bottle of milk and a goldfish bowl. [Wikipedia: Hello Kitty](https://en.wikipedia.org/wiki/Hello_Kitty).",
+    "Sanrio describes her as a British anthropomorphic white cat with a red bow and no visible mouth, five apples tall. Setsuko Yonekubo took over as lead designer in 1976; Yuko Yamaguchi has led the design since 1980. [Wikipedia: Hello Kitty](https://en.wikipedia.org/wiki/Hello_Kitty).",
+    "The V&A calls Hello Kitty “the ultimate symbol of Japanese cute”, launched for pre-adolescent girls and now on kettles, toasters, and rice cookers. [V&A FE.21-2015](https://collections.vam.ac.uk/item/O1322385/toaster/)."
+  ],
+  "observed": [
+    "On the V&A appliances, the head is a wide rounded oval with two pointed ears, outlined in black.",
+    "The eyes are two black vertical ovals set wide and low; the nose is a small yellow oval; three whiskers sit on each side. No mouth is drawn.",
+    "A red or pink bow, or a flower, sits at one ear."
+  ],
+  "interpretation": [
+    "Hello Kitty fixes the kawaii face in its most reduced form. The missing mouth makes the face neutral, so the viewer reads its mood into it.",
+    "Because the head works alone as a badge, the character can be put on any product, which is how kawaii spread from stationery to appliances."
+  ],
+  "borrow": [
+    "Design a mascot whose head alone works as an icon at small sizes.",
+    "Give the character one signature accessory in one accent color."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Hello Kitty is © and a trademark of Sanrio Co., Ltd."
+  },
+  "identifiers": {
+    "wikidata": "Q191794"
+  }
+}

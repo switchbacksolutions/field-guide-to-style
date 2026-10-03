@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/marinetti-zang-tumb-tuuum-collage-1915.jpg",
+  "captured": "2026-10-03T00:55:33+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e2dac8",
+        "share": 0.391
+      },
+      {
+        "hex": "#ece5d8",
+        "share": 0.252
+      },
+      {
+        "hex": "#dac5a2",
+        "share": 0.132
+      },
+      {
+        "hex": "#33281c",
+        "share": 0.057
+      },
+      {
+        "hex": "#221a11",
+        "share": 0.044
+      },
+      {
+        "hex": "#c6ae86",
+        "share": 0.025
+      },
+      {
+        "hex": "#463a2d",
+        "share": 0.024
+      },
+      {
+        "hex": "#dccfb6",
+        "share": 0.023
+      },
+      {
+        "hex": "#0b0806",
+        "share": 0.015
+      },
+      {
+        "hex": "#6b6153",
+        "share": 0.011
+      }
+    ],
+    "background": "#e2dac8",
+    "chroma": 0.11,
+    "lightness": 0.72,
+    "chromaticShare": 0.0,
+    "accentChroma": 0.38,
+    "distinct": 8,
+    "hues": 1
+  }
+}

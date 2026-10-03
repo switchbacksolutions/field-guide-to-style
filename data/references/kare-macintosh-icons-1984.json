@@ -1,0 +1,55 @@
+{
+  "id": "kare-macintosh-icons-1984",
+  "title": "Susan Kare’s icons and bitmap fonts for the Macintosh",
+  "type": "product",
+  "medium": "operating-system",
+  "lede": "Susan Kare’s one-bit icons, cursors, and bitmap fonts gave the first Macintosh its visual language, drawn pixel by pixel on small grids such as 32 × 32.",
+  "summary": "Black-and-white 32 × 32 icons (the Happy Mac, the bomb, the trash can) and the Chicago bitmap font. Susan Kare, Apple, 1983–1984.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Susan_Kare",
+    "label": "Wikipedia: Susan Kare"
+  },
+  "creator": {
+    "name": "Susan Kare, for Apple Computer",
+    "url": "https://kare.com/"
+  },
+  "made": "1983–1984; the Macintosh launched in January 1984",
+  "moods": ["playful", "crisp", "friendly"],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the Wikipedia article and its cited sources, including the Musée de l’Imprimerie et de la Communication Graphique exhibition page. No image was inspected for this record: the icons are in copyright."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "pixel-art",
+      "note": "The canonical pixel interface: one-bit icons and bitmap type drawn by hand on small square grids. The style record cites Kare as a pioneer of pixel art.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia says Kare contributed interface elements and typefaces for the first Apple Macintosh from 1983 to 1986 and calls her “a pioneer of pixel art and of the graphical computer interface”. [Wikipedia](https://en.wikipedia.org/wiki/Susan_Kare).",
+    "In one year she designed the core visual language of the original Macintosh, launched in January 1984, including typefaces such as Chicago (1984), the system error bomb, the Happy Mac, and the Sad Mac. She made pixel portraits of staff as 32 × 32 one-bit icons. [Wikipedia](https://en.wikipedia.org/wiki/Susan_Kare).",
+    "The Musée de l’Imprimerie et de la Communication Graphique in Lyon held an exhibition “Icônes by Susan Kare”. [MICG](https://www.imprimerie.lyon.fr/en/susan-kare)."
+  ],
+  "interpretation": [
+    "Kare’s work shows the style in interfaces rather than games: a fixed grid, one bit of color, and pictograms that stay legible at their real size.",
+    "The Chicago font shows the bitmap-type trait at the scale of a whole system."
+  ],
+  "borrow": [
+    "Draw icons on a 32 × 32 or 16 × 16 grid in one color, and check them at their real size as well as enlarged.",
+    "Give system states a small character, as the Happy Mac and the bomb do."
+  ],
+  "next": [
+    "Check whether the MICG or another museum publishes images of Kare’s sketches with an open license."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Apple interface graphics by Susan Kare, in copyright. Link and metadata only."
+  },
+  "identifiers": {
+    "wikidata": "Q48971"
+  }
+}

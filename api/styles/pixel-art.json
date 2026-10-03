@@ -630,5 +630,186 @@
       }
     }
   },
-  "references": []
+  "references": [
+    {
+      "id": "agora-road-website",
+      "title": "Agora Road’s Macintosh Cafe portal",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: a pixel-font menu bar, pixel icons, and a dithered pixel figure, inside a vaporwave collage.",
+      "page": "references/agora-road-website.html",
+      "source": "https://agoraroad.neocities.org/",
+      "image": "assets/references/agora-road-website.jpg",
+      "measurement": "data/measurements/agora-road-website.json"
+    },
+    {
+      "id": "greiman-design-quarterly-133-1986",
+      "title": "Design Quarterly 133: “Does It Make Sense?”",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the early Macintosh bitmap self-portrait shows visible square pixels, but the layout is New Wave.",
+      "page": "references/greiman-design-quarterly-133-1986.html",
+      "source": "https://peoplesgdarchive.org/item/1804/does-it-make-sense-design-quarterly-133",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "goldberg-flegal-pixel-art-letter-1982",
+      "title": "“ACM President’s Letter: Pixel Art” (Goldberg and Flegal, 1982)",
+      "medium": "editorial",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The source of the style’s name, which the style record cites for the date of the term.",
+      "page": "references/goldberg-flegal-pixel-art-letter-1982.html",
+      "source": "https://doi.org/10.1145/358728.358731",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "dawnlike-tileset-2014",
+      "title": "DawnLike 16 × 16 roguelike tileset",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Hand-placed square pixels on a fixed tile grid, a 16-color palette, flat palette-step shading, and sprites with dark outlines.",
+      "page": "references/dawnlike-tileset-2014.html",
+      "source": "https://opengameart.org/content/dawnlike-16x16-universal-rogue-like-tileset-v181",
+      "image": "assets/references/dawnlike-tileset-2014.png",
+      "measurement": "data/measurements/dawnlike-tileset-2014.json"
+    },
+    {
+      "id": "hotline-miami-2012",
+      "title": "Hotline Miami",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: top-down pixel-art sprites and rooms on one coarse grid, in a neon palette.",
+      "page": "references/hotline-miami-2012.html",
+      "source": "https://store.steampowered.com/app/219150/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "pixelplaza-pirate-lair-2008",
+      "title": "Käpt’n Börgers Piratennest (PixelPlaza)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: hand-placed pixels at a fixed scale with tiny figures, but in the isometric branch that the style record lists as related, with many more colors than the 8-bit core.",
+      "page": "references/pixelplaza-pirate-lair-2008.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Pixel-Art_K%C3%A4pt%27n_B%C3%B6rgers_Piratennest.gif",
+      "image": "assets/references/pixelplaza-pirate-lair-2008.png",
+      "measurement": "data/measurements/pixelplaza-pirate-lair-2008.json"
+    },
+    {
+      "id": "kenney-1-bit-pack-2019",
+      "title": "Kenney 1-Bit Pack",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A complete low-resolution sprite and tile vocabulary: whole-pixel shapes on a 16-pixel grid, an 8-color palette, a bitmap alphabet, and game items such as hearts, keys, coins, and cards.",
+      "page": "references/kenney-1-bit-pack-2019.html",
+      "source": "https://opengameart.org/content/1-bit-pack",
+      "image": "assets/references/kenney-1-bit-pack-2019.png",
+      "measurement": "data/measurements/kenney-1-bit-pack-2019.json"
+    },
+    {
+      "id": "liberated-pixel-cup-base-assets-2012",
+      "title": "Liberated Pixel Cup base assets",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: hand-drawn sprites and tiles with hard dark outlines and flat palette-step shading, but drawn at a finer 32-pixel scale with more colors than the 8-bit core, closer to 16-bit console art.",
+      "page": "references/liberated-pixel-cup-base-assets-2012.html",
+      "source": "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+      "image": "assets/references/liberated-pixel-cup-base-assets-2012.png",
+      "measurement": "data/measurements/liberated-pixel-cup-base-assets-2012.json"
+    },
+    {
+      "id": "mindustry-2019",
+      "title": "Mindustry",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: tiles, sprites, menus, and type are all whole-pixel art with flat colors, but translucent smooth circles for turret ranges and thin laser lines lie over the map.",
+      "page": "references/mindustry-2019.html",
+      "source": "https://github.com/Anuken/Mindustry",
+      "image": "assets/references/mindustry-2019.png",
+      "measurement": "data/measurements/mindustry-2019.json"
+    },
+    {
+      "id": "pixel-dungeon-2012",
+      "title": "Pixel Dungeon",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: sprites, tiles, bitmap type, and stepped interface frames are all pixel art, but a smooth dark vignette of light and shadow covers the map.",
+      "page": "references/pixel-dungeon-2012.html",
+      "source": "https://github.com/watabou/pixel-dungeon",
+      "image": "assets/references/pixel-dungeon-2012.png",
+      "measurement": "data/measurements/pixel-dungeon-2012.json"
+    },
+    {
+      "id": "press-start-2p-typeface",
+      "title": "Press Start 2P typeface",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical bitmap face for the style: every glyph is drawn on an 8 × 8 pixel cell with square steps, after arcade game fonts.",
+      "page": "references/press-start-2p-typeface.html",
+      "source": "https://www.zone38.net/font/",
+      "image": "assets/references/press-start-2p-typeface.png",
+      "measurement": "data/measurements/press-start-2p-typeface.json"
+    },
+    {
+      "id": "silkscreen-typeface",
+      "title": "Silkscreen typeface",
+      "medium": "typeface",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A bitmap face built on a 5-pixel cap height for screen labels: square steps, one weight, and capitals only.",
+      "page": "references/silkscreen-typeface.html",
+      "source": "https://kottke.org/plus/type/silkscreen/",
+      "image": "assets/references/silkscreen-typeface.png",
+      "measurement": "data/measurements/silkscreen-typeface.json"
+    },
+    {
+      "id": "space-invaders-1978",
+      "title": "Space Invaders",
+      "medium": "software",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "A founding work of the style: hand-drawn bitmap sprites with two-frame animation, which the style record names as the start of its era.",
+      "page": "references/space-invaders-1978.html",
+      "source": "https://en.wikipedia.org/wiki/Space_Invaders",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "kare-macintosh-icons-1984",
+      "title": "Susan Kare’s icons and bitmap fonts for the Macintosh",
+      "medium": "operating-system",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The canonical pixel interface: one-bit icons and bitmap type drawn by hand on small square grids. The style record cites Kare as a pioneer of pixel art.",
+      "page": "references/kare-macintosh-icons-1984.html",
+      "source": "https://en.wikipedia.org/wiki/Susan_Kare",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "va-11-hall-a-video-game-2016",
+      "title": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the whole game is drawn in coarse pixel art, with framed dialogue panels and bitmap-style type.",
+      "page": "references/va-11-hall-a-video-game-2016.html",
+      "source": "https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/",
+      "image": null,
+      "measurement": null
+    }
+  ]
 }

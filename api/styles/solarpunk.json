@@ -504,5 +504,138 @@
       }
     }
   },
-  "references": []
+  "references": [
+    {
+      "id": "chambers-psalm-for-the-wild-built-cover-2021",
+      "title": "A Psalm for the Wild-Built (cover)",
+      "medium": "book",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The cover of one of the best-known solarpunk novels. The fit rests on the book’s documented genre; its cover has not been inspected.",
+      "page": "references/chambers-psalm-for-the-wild-built-cover-2021.html",
+      "source": "https://reactormag.com/cover-reveal-a-psalm-for-the-wild-built-by-becky-chambers/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "lemonaut-solarpunk-tower-2024",
+      "title": "A Solarpunk tower",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A textbook scene of the style: food grown on a roof, visible solar panels, public rail, and people of several ages working together in daylight.",
+      "page": "references/lemonaut-solarpunk-tower-2024.html",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Solarpunk_tower.png",
+      "image": "assets/references/lemonaut-solarpunk-tower-2024.jpg",
+      "measurement": "data/measurements/lemonaut-solarpunk-tower-2024.json"
+    },
+    {
+      "id": "aerroscape-zeddies-berlin-friedrichstrasse-utopia-2048",
+      "title": "Berlin Friedrichstraße Utopia 2048",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A wide daylit solarpunk city: planted terraces, solar roofs, a turbine-topped tower, rail, bicycles, and clean water, in bright green and sky blue.",
+      "page": "references/aerroscape-zeddies-berlin-friedrichstrasse-utopia-2048.html",
+      "source": "https://realutopien.info/visuals/berlin-friedrichstrasse-utopia-2048/",
+      "image": "assets/references/aerroscape-zeddies-berlin-friedrichstrasse-utopia-2048.jpg",
+      "measurement": "data/measurements/aerroscape-zeddies-berlin-friedrichstrasse-utopia-2048.json"
+    },
+    {
+      "id": "bosco-verticale-milan",
+      "title": "Bosco Verticale, Milan",
+      "medium": "architecture",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The best-known planted tower, often cited as a real-world model for solarpunk’s buildings wrapped in trees. Partial fit: it is luxury housing with no visible renewables or handwork.",
+      "page": "references/bosco-verticale-milan.html",
+      "source": "https://en.wikipedia.org/wiki/Bosco_Verticale",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "chobani-dear-alice-2021",
+      "title": "Dear Alice (Chobani advertisement)",
+      "medium": "other",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The style record names this advertisement as the model for solarpunk motion, and Looper calls it a one-minute summary of the genre.",
+      "page": "references/chobani-dear-alice-2021.html",
+      "source": "https://thelinestudio.com/work/chobani",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "lemonaut-solarpunk-community-center-2024",
+      "title": "Solarpunk community center",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A solarpunk scene about a just transition: a turbine, solar panels, a public building, and a blue sky. Partial fit: the palette is warm orange and bronze more than leaf green.",
+      "page": "references/lemonaut-solarpunk-community-center-2024.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Solarpunk_community_center.png",
+      "image": "assets/references/lemonaut-solarpunk-community-center-2024.jpg",
+      "measurement": "data/measurements/lemonaut-solarpunk-community-center-2024.json"
+    },
+    {
+      "id": "starwall-solarpunk-flag-2019",
+      "title": "Solarpunk flag",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The movement’s own emblem: sun gold and leaf green, a sun with plant-like rays, and a gear for repaired, reclaimed technology.",
+      "page": "references/starwall-solarpunk-flag-2019.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Solarpunk_Flag.jpg",
+      "image": "assets/references/starwall-solarpunk-flag-2019.jpg",
+      "measurement": "data/measurements/starwall-solarpunk-flag-2019.json"
+    },
+    {
+      "id": "loop-chan-solarpunk-technology-nature-2024",
+      "title": "Solarpunk Technology and Nature together",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Plants overgrow a dense, lived-in city with public transport and friendly machines, in bright greens, sky blue, and sun-washed cream.",
+      "page": "references/loop-chan-solarpunk-technology-nature-2024.html",
+      "source": "https://storyseedlibrary.org/art/loop-chan/solarpunk-technology-nature/",
+      "image": "assets/references/loop-chan-solarpunk-technology-nature-2024.jpg",
+      "measurement": "data/measurements/loop-chan-solarpunk-technology-nature-2024.json"
+    },
+    {
+      "id": "commando-jugendstil-oil-platform-village",
+      "title": "Solarpunk village on a former oil platform",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Repurposed fossil infrastructure becomes a garden village with greenhouses, wind power, and sail boats: solarpunk’s core idea of reuse, in sky blue, leaf green, and yellow.",
+      "page": "references/commando-jugendstil-oil-platform-village.html",
+      "source": "https://alxd.org/nudne-science-fiction-uratuje-swiat-pl.html",
+      "image": "assets/references/commando-jugendstil-oil-platform-village.jpg",
+      "measurement": "data/measurements/commando-jugendstil-oil-platform-village.json"
+    },
+    {
+      "id": "lemonaut-solarpunk-realism-comic-2025",
+      "title": "Solarpunk, realism, and dystopia (comic, page 1)",
+      "medium": "editorial",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Solarpunk as graphic layout: light ground, rounded hand-drawn panels in green and yellow, friendly mixed lettering, and scenes of a tool library and shared food.",
+      "page": "references/lemonaut-solarpunk-realism-comic-2025.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Solarpunk,_realism,_and_dystopia_-_page_1.jpg",
+      "image": "assets/references/lemonaut-solarpunk-realism-comic-2025.jpg",
+      "measurement": "data/measurements/lemonaut-solarpunk-realism-comic-2025.json"
+    },
+    {
+      "id": "gardens-by-the-bay-supertree-grove",
+      "title": "Supertree Grove, Gardens by the Bay",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Built technology shaped like trees, wrapped in living plants and fitted with solar cells: one of the buildings most often cited as solarpunk. Partial fit: it is a state-funded spectacle, not a handmade, community-scale work.",
+      "page": "references/gardens-by-the-bay-supertree-grove.html",
+      "source": "https://en.wikipedia.org/wiki/Gardens_by_the_Bay",
+      "image": null,
+      "measurement": null
+    }
+  ]
 }

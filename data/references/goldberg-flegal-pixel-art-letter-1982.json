@@ -1,0 +1,45 @@
+{
+  "id": "goldberg-flegal-pixel-art-letter-1982",
+  "title": "“ACM President’s Letter: Pixel Art” (Goldberg and Flegal, 1982)",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "Adele Goldberg and Robert Flegal of Xerox PARC published the term “pixel art” in a two-page letter in *Communications of the ACM*.",
+  "summary": "The first published use of the term “pixel art”. Communications of the ACM 25 (12), December 1982, pages 861–862.",
+  "source": {
+    "url": "https://doi.org/10.1145/358728.358731",
+    "label": "Communications of the ACM 25 (12): 861–862, doi 10.1145/358728.358731"
+  },
+  "creator": {
+    "name": "Adele Goldberg and Robert Flegal, Xerox Palo Alto Research Center"
+  },
+  "made": "December 1982",
+  "moods": ["technical"],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the citation in the Wikipedia article on pixel art. The ACM Digital Library page returned HTTP 403 to the fetch tool, so the letter text was not read."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "pixel-art",
+      "note": "The source of the style’s name, which the style record cites for the date of the term.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia says the term *pixel art* was first published in a journal letter by Adele Goldberg and Robert Flegal of Xerox PARC in 1982, and that the practice goes back at least to Richard Shoup’s SuperPaint system of 1972, also at Xerox PARC. [Wikipedia](https://en.wikipedia.org/wiki/Pixel_art).",
+    "Wikipedia cites it as “ACM president’s letter: Pixel Art”, *Communications of the ACM* 25 (12), December 1982, pages 861–862, doi 10.1145/358728.358731, marked free to read. [Wikipedia](https://en.wikipedia.org/wiki/Pixel_art)."
+  ],
+  "interpretation": [
+    "The name comes from computer research, not from games. It was used for pictures edited pixel by pixel on bitmap displays like those at Xerox PARC."
+  ],
+  "next": [
+    "Read the letter on the ACM Digital Library in a browser, and record what it says about pixel art."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "Journal text published by the ACM. The Wikipedia citation marks it free to read, which is not an open license. Link and metadata only."
+  }
+}

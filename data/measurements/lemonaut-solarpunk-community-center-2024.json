@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lemonaut-solarpunk-community-center-2024.jpg",
+  "captured": "2026-10-03T00:33:47+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#c8e1e8",
+        "share": 0.102
+      },
+      {
+        "hex": "#c38f70",
+        "share": 0.096
+      },
+      {
+        "hex": "#89d5ee",
+        "share": 0.086
+      },
+      {
+        "hex": "#d5d276",
+        "share": 0.069
+      },
+      {
+        "hex": "#362f33",
+        "share": 0.059
+      },
+      {
+        "hex": "#5d5765",
+        "share": 0.05
+      },
+      {
+        "hex": "#d1bf6e",
+        "share": 0.044
+      },
+      {
+        "hex": "#cc9843",
+        "share": 0.043
+      },
+      {
+        "hex": "#715661",
+        "share": 0.039
+      },
+      {
+        "hex": "#966652",
+        "share": 0.037
+      }
+    ],
+    "background": "#c8e1e8",
+    "chroma": 0.24,
+    "lightness": 0.54,
+    "chromaticShare": 0.43,
+    "accentChroma": 0.41,
+    "distinct": 19,
+    "hues": 4
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "id": "ghost-in-the-shell-film-1995",
+  "title": "Ghost in the Shell",
+  "type": "product",
+  "medium": "other",
+  "lede": "Mamoru Oshii’s 1995 animated film of Masamune Shirow’s manga, set in a city modelled on Hong Kong, whose opening credits of computer code inspired the digital rain of The Matrix.",
+  "summary": "Cyborg bodies, a Hong Kong-like city, and opening credits built from computer code. Mamoru Oshii, Production I.G, 1995.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)",
+    "label": "Wikipedia: Ghost in the Shell (1995 film)"
+  },
+  "creator": {
+    "name": "Mamoru Oshii (director); Production I.G (animation studio)"
+  },
+  "made": "1995 (released 18 November 1995 in Japan)",
+  "moods": [
+    "dystopian",
+    "contemplative",
+    "nocturnal",
+    "high-tech"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the Wikipedia articles on the film and on cyberpunk, read as wikitext on 2026-10-02. No image of the film was inspected for this record."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "cyberpunk",
+      "note": "A canonical work of Japanese cyberpunk: the cyborg body, a Hong Kong-based city, and screen code as imagery. Wikipedia names it among the most notable cyberpunk anime.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: the city of the film was based on Hong Kong. Oshii felt that its streets, where “old and new exist in confusing relationships”, fit the theme of the film. [Cyberpunk](https://en.wikipedia.org/wiki/Cyberpunk).",
+    "The opening credits were produced by CG director Seichi Tanaka, who converted code in a computer language displayed in romanized Japanese letters. [Wikipedia](https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)).",
+    "The Wachowskis showed the film to producer Joel Silver, saying “We wanna do that for real.” The digital rain of *The Matrix* was inspired by its opening credits. [Wikipedia](https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film))."
+  ],
+  "interpretation": [
+    "The film turns code itself into imagery. That is the source of the style’s terminal text used as decoration, which [The Matrix website](ref:whatisthematrix-website-2000) later made a web look.",
+    "Its city follows [Blade Runner](ref:blade-runner-1982) in taking Hong Kong as the model, which makes Hong Kong streets the most common real reference for the style."
+  ],
+  "borrow": [
+    "Use real-looking code or data as a texture behind a title, in one color, and keep it legible.",
+    "Show the cyborg theme through interface overlays on a body or face, not through ornament."
+  ],
+  "next": [
+    "Find an inspectable image and upgrade the evidence level. Check the color of the opening-credit code, which this record does not state."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The film, its posters, and its stills are in copyright. This record does not name the rights holders."
+  },
+  "identifiers": {
+    "wikidata": "Q1066948"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/pixel-dungeon-2012.png",
+  "captured": "2026-10-03T00:35:29+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.205
+      },
+      {
+        "hex": "#1e1d1b",
+        "share": 0.188
+      },
+      {
+        "hex": "#3a3933",
+        "share": 0.12
+      },
+      {
+        "hex": "#565249",
+        "share": 0.103
+      },
+      {
+        "hex": "#828272",
+        "share": 0.072
+      },
+      {
+        "hex": "#354b4b",
+        "share": 0.055
+      },
+      {
+        "hex": "#49463e",
+        "share": 0.036
+      },
+      {
+        "hex": "#a9a490",
+        "share": 0.034
+      },
+      {
+        "hex": "#706e60",
+        "share": 0.031
+      },
+      {
+        "hex": "#292a26",
+        "share": 0.03
+      }
+    ],
+    "background": "#000000",
+    "chroma": 0.05,
+    "lightness": 0.21,
+    "chromaticShare": 0.03,
+    "accentChroma": 0.62,
+    "distinct": 12,
+    "hues": 2
+  }
+}

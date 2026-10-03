@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/j4p4n-synthwave-banner-2018.png",
+  "captured": "2026-10-03T00:33:13+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#40324d",
+        "share": 0.694
+      },
+      {
+        "hex": "#edaf17",
+        "share": 0.093
+      },
+      {
+        "hex": "#4f3e5a",
+        "share": 0.054
+      },
+      {
+        "hex": "#f61af6",
+        "share": 0.018
+      },
+      {
+        "hex": "#ab29b0",
+        "share": 0.017
+      },
+      {
+        "hex": "#c227c4",
+        "share": 0.017
+      },
+      {
+        "hex": "#982d9f",
+        "share": 0.016
+      },
+      {
+        "hex": "#613a6c",
+        "share": 0.015
+      },
+      {
+        "hex": "#db20dc",
+        "share": 0.015
+      },
+      {
+        "hex": "#84338c",
+        "share": 0.015
+      }
+    ],
+    "background": "#40324d",
+    "chroma": 0.24,
+    "lightness": 0.31,
+    "chromaticShare": 0.22,
+    "accentChroma": 0.69,
+    "distinct": 3,
+    "hues": 6
+  }
+}

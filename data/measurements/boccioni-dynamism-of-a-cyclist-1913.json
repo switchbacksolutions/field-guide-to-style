@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/boccioni-dynamism-of-a-cyclist-1913.jpg",
+  "captured": "2026-10-03T00:54:07+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#2c3633",
+        "share": 0.057
+      },
+      {
+        "hex": "#beb5a5",
+        "share": 0.048
+      },
+      {
+        "hex": "#a6a197",
+        "share": 0.047
+      },
+      {
+        "hex": "#435046",
+        "share": 0.043
+      },
+      {
+        "hex": "#cac4ba",
+        "share": 0.039
+      },
+      {
+        "hex": "#ccb165",
+        "share": 0.038
+      },
+      {
+        "hex": "#ac9b6e",
+        "share": 0.038
+      },
+      {
+        "hex": "#8c97ac",
+        "share": 0.038
+      },
+      {
+        "hex": "#8d9285",
+        "share": 0.037
+      },
+      {
+        "hex": "#707a77",
+        "share": 0.036
+      }
+    ],
+    "background": "#2c3633",
+    "chroma": 0.2,
+    "lightness": 0.48,
+    "chromaticShare": 0.19,
+    "accentChroma": 0.47,
+    "distinct": 28,
+    "hues": 3
+  }
+}

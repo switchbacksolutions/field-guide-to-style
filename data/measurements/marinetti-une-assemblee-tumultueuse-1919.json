@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/marinetti-une-assemblee-tumultueuse-1919.jpg",
+  "captured": "2026-10-03T01:01:52+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#debc9d",
+        "share": 0.391
+      },
+      {
+        "hex": "#d7b18d",
+        "share": 0.183
+      },
+      {
+        "hex": "#514a41",
+        "share": 0.117
+      },
+      {
+        "hex": "#cca47f",
+        "share": 0.082
+      },
+      {
+        "hex": "#faead6",
+        "share": 0.049
+      },
+      {
+        "hex": "#65594c",
+        "share": 0.029
+      },
+      {
+        "hex": "#b2967c",
+        "share": 0.029
+      },
+      {
+        "hex": "#a58c74",
+        "share": 0.027
+      },
+      {
+        "hex": "#98806a",
+        "share": 0.025
+      },
+      {
+        "hex": "#88735f",
+        "share": 0.021
+      }
+    ],
+    "background": "#debc9d",
+    "chroma": 0.22,
+    "lightness": 0.63,
+    "chromaticShare": 0.08,
+    "accentChroma": 0.3,
+    "distinct": 11,
+    "hues": 1
+  }
+}

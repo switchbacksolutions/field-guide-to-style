@@ -542,5 +542,162 @@
       }
     }
   },
-  "references": []
+  "references": [
+    {
+      "id": "whatisthematrix-website-2000",
+      "title": "The Matrix website, 2000",
+      "medium": "website",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Clear: the official site of a core cyberpunk film, with a black page, glowing green capitals, and spaced techno type.",
+      "page": "references/whatisthematrix-website-2000.html",
+      "source": "http://whatisthematrix.warnerbros.com/",
+      "image": "assets/references/whatisthematrix-website-2000.jpg",
+      "measurement": "data/measurements/whatisthematrix-website-2000.json"
+    },
+    {
+      "id": "akira-film-1988",
+      "title": "Akira",
+      "medium": "other",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The style record names Akira as one of the two works that set the look of cyberpunk. The British Film Institute calls it a vital cornerstone of the genre.",
+      "page": "references/akira-film-1988.html",
+      "source": "https://en.wikipedia.org/wiki/Akira_(1988_film)",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "blade-runner-1982",
+      "title": "Blade Runner",
+      "medium": "other",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The style record names Blade Runner as one of the two works that set the look of cyberpunk. Wikipedia calls it “a foundational work of the cyberpunk genre”.",
+      "page": "references/blade-runner-1982.html",
+      "source": "https://en.wikipedia.org/wiki/Blade_Runner",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "cyberpunk-2077-video-game-2020",
+      "title": "Cyberpunk 2077",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The style’s current flagship: the Aesthetics Wiki uses it as its lead image, and its Night City shows the neon-on-black palette, signs, and cyborg bodies at full scale.",
+      "page": "references/cyberpunk-2077-video-game-2020.html",
+      "source": "https://store.steampowered.com/app/1091500/Cyberpunk_2077/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "edex-ui-terminal-2019",
+      "title": "eDEX-UI terminal emulator",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A working interface built as a movie HUD: a near-black ground, glowing pale cyan hairline frames, numbered panels, and monospace terminal text throughout.",
+      "page": "references/edex-ui-terminal-2019.html",
+      "source": "https://github.com/GitSquared/edex-ui",
+      "image": "assets/references/edex-ui-terminal-2019.jpg",
+      "measurement": "data/measurements/edex-ui-terminal-2019.json"
+    },
+    {
+      "id": "ghost-in-the-shell-film-1995",
+      "title": "Ghost in the Shell",
+      "medium": "other",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "A canonical work of Japanese cyberpunk: the cyborg body, a Hong Kong-based city, and screen code as imagery. Wikipedia names it among the most notable cyberpunk anime.",
+      "page": "references/ghost-in-the-shell-film-1995.html",
+      "source": "https://en.wikipedia.org/wiki/Ghost_in_the_Shell_(1995_film)",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "kabukicho-rainstorm-night-2024",
+      "title": "Kabukichō in a rainstorm at night",
+      "medium": "photograph",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: a real street of the kind the genre took as its model, with rain, reflections, and vertical neon signs in Japanese. It has no HUD frames or terminal text.",
+      "page": "references/kabukicho-rainstorm-night-2024.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Kabukicho_during_rainstorm_at_night.jpg",
+      "image": "assets/references/kabukicho-rainstorm-night-2024.jpg",
+      "measurement": "data/measurements/kabukicho-rainstorm-night-2024.json"
+    },
+    {
+      "id": "kowloon-walled-city-aerial-1989",
+      "title": "Kowloon Walled City from the air, 1989",
+      "medium": "photograph",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the real place that Wikipedia names as an inspiration for cyberpunk landscapes. The photograph is a daylight view, so it shows the megastructure and density but not the neon.",
+      "page": "references/kowloon-walled-city-aerial-1989.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Kowloon_Walled_City_-_1989_Aerial.jpg",
+      "image": "assets/references/kowloon-walled-city-aerial-1989.jpg",
+      "measurement": "data/measurements/kowloon-walled-city-aerial-1989.json"
+    },
+    {
+      "id": "portland-street-neon-signs-2025",
+      "title": "Neon and LED signs on Portland Street, Mong Kok",
+      "medium": "photograph",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the neon-on-black source of the style’s palette and glow, from the Hong Kong streets that Wikipedia names as a model for the cyberpunk city. It has no HUD or terminal elements.",
+      "page": "references/portland-street-neon-signs-2025.html",
+      "source": "https://commons.wikimedia.org/wiki/File:LED_and_neon_signs_on_Portland_Street_at_night.jpg",
+      "image": "assets/references/portland-street-neon-signs-2025.jpg",
+      "measurement": "data/measurements/portland-street-neon-signs-2025.json"
+    },
+    {
+      "id": "mong-kok-shantung-street-neon-2019",
+      "title": "Neon signs on Shantung Street, Mong Kok",
+      "medium": "photograph",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the dense Hong Kong sign canopy that the genre took as a model for its night city. It is a real street, without HUD or terminal elements.",
+      "page": "references/mong-kok-shantung-street-neon-2019.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Mong_Kok_Neon_Signs_Night_(48127904386).jpg",
+      "image": "assets/references/mong-kok-shantung-street-neon-2019.jpg",
+      "measurement": "data/measurements/mong-kok-shantung-street-neon-2019.json"
+    },
+    {
+      "id": "neuromancer-first-edition-1984",
+      "title": "Neuromancer, first edition",
+      "medium": "book",
+      "evidence": "documented",
+      "basis": "agent",
+      "note": "The genre’s defining novel. The style record dates the look from Blade Runner and Akira in 1982 and Neuromancer in 1984. It supplies the vocabulary of the terminal and HUD side of the style.",
+      "page": "references/neuromancer-first-edition-1984.html",
+      "source": "https://en.wikipedia.org/wiki/Neuromancer",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "shinjuku-ogado-rain-night-2020",
+      "title": "Shinjuku Ōgādo in the rain at night",
+      "medium": "photograph",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: a real rain-wet Tokyo night reduced to cold cyan light and horizontal streaks, close to the style’s scan-line and glitch motion. It has no HUD or terminal elements.",
+      "page": "references/shinjuku-ogado-rain-night-2020.html",
+      "source": "https://commons.wikimedia.org/wiki/File:%E9%9B%A8%E3%81%AE%E6%96%B0%E5%AE%BF%E5%A4%A7%E3%82%AC%E3%83%BC%E3%83%89.jpg",
+      "image": "assets/references/shinjuku-ogado-rain-night-2020.jpg",
+      "measurement": "data/measurements/shinjuku-ogado-rain-night-2020.json"
+    },
+    {
+      "id": "va-11-hall-a-video-game-2016",
+      "title": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: a cyberpunk interface in pixel art. It has the dark ground, magenta and cyan neon, framed panels, and monospace text, but its tone is warmer and more comic than dystopian.",
+      "page": "references/va-11-hall-a-video-game-2016.html",
+      "source": "https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/",
+      "image": null,
+      "measurement": null
+    }
+  ]
 }

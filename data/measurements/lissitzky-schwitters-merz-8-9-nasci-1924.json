@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lissitzky-schwitters-merz-8-9-nasci-1924.jpg",
+  "captured": "2026-10-03T00:55:27+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e7e0cf",
+        "share": 0.694
+      },
+      {
+        "hex": "#3e56a9",
+        "share": 0.124
+      },
+      {
+        "hex": "#dc5023",
+        "share": 0.027
+      },
+      {
+        "hex": "#5567ab",
+        "share": 0.016
+      },
+      {
+        "hex": "#ead6c0",
+        "share": 0.015
+      },
+      {
+        "hex": "#afb1c4",
+        "share": 0.012
+      },
+      {
+        "hex": "#9da1bc",
+        "share": 0.012
+      },
+      {
+        "hex": "#cecdd3",
+        "share": 0.011
+      },
+      {
+        "hex": "#d86137",
+        "share": 0.011
+      },
+      {
+        "hex": "#c0c0cb",
+        "share": 0.011
+      }
+    ],
+    "background": "#e7e0cf",
+    "chroma": 0.18,
+    "lightness": 0.77,
+    "chromaticShare": 0.21,
+    "accentChroma": 0.47,
+    "distinct": 3,
+    "hues": 2
+  }
+}

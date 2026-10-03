@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/the-midnight-live-brixton-2022.jpg",
+  "captured": "2026-10-03T00:41:32+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#0d090d",
+        "share": 0.13
+      },
+      {
+        "hex": "#6c60bf",
+        "share": 0.108
+      },
+      {
+        "hex": "#5e4988",
+        "share": 0.052
+      },
+      {
+        "hex": "#382f5a",
+        "share": 0.051
+      },
+      {
+        "hex": "#6a54a4",
+        "share": 0.048
+      },
+      {
+        "hex": "#443c74",
+        "share": 0.043
+      },
+      {
+        "hex": "#63426d",
+        "share": 0.039
+      },
+      {
+        "hex": "#4993f7",
+        "share": 0.037
+      },
+      {
+        "hex": "#5163d1",
+        "share": 0.037
+      },
+      {
+        "hex": "#7a73dc",
+        "share": 0.035
+      }
+    ],
+    "background": "#0d090d",
+    "chroma": 0.33,
+    "lightness": 0.41,
+    "chromaticShare": 0.54,
+    "accentChroma": 0.5,
+    "distinct": 22,
+    "hues": 4
+  }
+}

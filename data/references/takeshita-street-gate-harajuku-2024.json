@@ -1,0 +1,75 @@
+{
+  "id": "takeshita-street-gate-harajuku-2024",
+  "title": "Takeshita Street gate, Harajuku",
+  "type": "object",
+  "medium": "signage",
+  "lede": "The entrance arch of Harajuku’s Takeshita Street in 2024, crowned with a balloon rabbit, stars, and sparkles above daisy-patterned posts.",
+  "summary": "Street gate with a pink-and-white balloon rabbit, stars, and sparkles over a busy shopping street. Harajuku, Tokyo, photographed 2024.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Takeshita_street,_Tokyo,_20240822_1032_5383.jpg",
+    "label": "Wikimedia Commons: Takeshita street, Tokyo, 20240822 1032 5383.jpg"
+  },
+  "creator": {
+    "name": "Jakub Hałun (photograph); gate and decoration by unrecorded makers"
+  },
+  "made": "Photographed 22 August 2024",
+  "moods": [
+    "cute",
+    "playful",
+    "cheerful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons photograph by Jakub Hałun at 1280 × 1930 px. Also compared a [CC0 photograph by Syced from November 2024](https://commons.wikimedia.org/wiki/File:Takeshita_Street.jpg), in which the balloon rabbit is gone and the arch carries a pink banner reading “かわいいがすぎる〜” with two dot-eyed characters."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "kawaii",
+      "note": "Partial fit: the gate decoration is kawaii (a dot-eyed rabbit, stars, sparkles, daisies, pink and white), but the surrounding street is a mixed commercial scene.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "Takeshita Street is a street in Harajuku, Tokyo (Wikidata Q3179287). The photographer describes the image as “Takeshita street, Harajuku, Tokyo” and dates it 22 August 2024. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takeshita_street,_Tokyo,_20240822_1032_5383.jpg).",
+    "The gate decoration changes over time: the November 2024 photograph by Syced shows a printed banner in place of the balloon figure. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takeshita_Street.jpg)."
+  ],
+  "observed": [
+    "A steel arch spans the street on two posts decorated with small white daisy shapes; the words “Takeshita Street” sit above a light box.",
+    "On top, a rabbit built from white and pink balloons has dot eyes and a small smiling mouth; it rises out of a burst of pink and red balloons.",
+    "Yellow and blue stars made of balloons and red four-pointed sparkle shapes surround the rabbit.",
+    "Under the light box hangs an anime banner with six large-eyed characters.",
+    "Beyond the gate, a narrow pedestrian street is crowded with umbrellas, shop signs, and a McDonald’s sign."
+  ],
+  "interpretation": [
+    "The gate is kawaii at street scale: one friendly face, scattered stars and sparkles, and a pink-and-white palette, used to mark the entrance to a youth shopping street.",
+    "The temporary balloon figure shows how the style is used for seasonal, changeable decoration rather than permanent architecture."
+  ],
+  "borrow": [
+    "Mark an entrance or a page header with one character and a scatter of stars and four-pointed sparkles.",
+    "Use a small repeated flower shape as a pattern on a plain structural element."
+  ],
+  "images": [
+    {
+      "file": "assets/references/takeshita-street-gate-harajuku-2024.jpg",
+      "alt": "A shopping street seen through a steel arch. On top of the arch, a rabbit made of white and pink balloons, with dot eyes and a small smile, is surrounded by balloon stars in yellow and blue and red sparkle shapes. The words Takeshita Street sit above a light box and an anime banner. People with umbrellas walk down the narrow street between shop signs.",
+      "width": 1061,
+      "height": 1600,
+      "kind": "photograph",
+      "caption": "Takeshita Street gate, Harajuku, 22 August 2024. Photograph by Jakub Hałun, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takeshita_street,_Tokyo,_20240822_1032_5383.jpg). Incidental: an anime banner with six characters, shop signs, and a McDonald’s sign. Stored from the 1280 px Commons thumbnail.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/54/Takeshita_street%2C_Tokyo%2C_20240822_1032_5383.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-4.0",
+    "statement": "Photograph © Jakub Hałun, CC BY 4.0, own work per Wikimedia Commons. The main subject is a public street and its gate. The balloon rabbit is a street decoration, not a licensed character; the anime banner and shop signs are incidental third-party works. Japanese copyright law (Article 46) allows photographs of works permanently installed outdoors, but the balloon figure was temporary, so the lead curator should confirm the tier."
+  },
+  "identifiers": {
+    "wikidata": "Q3179287",
+    "commons": "File:Takeshita street, Tokyo, 20240822 1032 5383.jpg"
+  }
+}

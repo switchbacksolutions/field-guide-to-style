@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/marinetti-le-soir-couchee-dans-son-lit-1919.jpg",
+  "captured": "2026-10-03T01:01:52+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#dab796",
+        "share": 0.474
+      },
+      {
+        "hex": "#45423c",
+        "share": 0.192
+      },
+      {
+        "hex": "#cfa883",
+        "share": 0.184
+      },
+      {
+        "hex": "#f5e5d2",
+        "share": 0.046
+      },
+      {
+        "hex": "#a68d74",
+        "share": 0.017
+      },
+      {
+        "hex": "#b4997e",
+        "share": 0.017
+      },
+      {
+        "hex": "#957f69",
+        "share": 0.016
+      },
+      {
+        "hex": "#83705c",
+        "share": 0.015
+      },
+      {
+        "hex": "#5d5144",
+        "share": 0.015
+      },
+      {
+        "hex": "#706050",
+        "share": 0.015
+      }
+    ],
+    "background": "#dab796",
+    "chroma": 0.21,
+    "lightness": 0.61,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 4,
+    "hues": 0
+  }
+}

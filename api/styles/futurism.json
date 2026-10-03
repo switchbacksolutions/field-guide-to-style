@@ -576,5 +576,150 @@
       }
     }
   },
-  "references": []
+  "references": [
+    {
+      "id": "marinetti-une-assemblee-tumultueuse-1919",
+      "title": "A Tumultuous Assembly. Numerical Sensibility",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Words in freedom with the Futurist love of numbers: tables, prices, and giant digits at many angles, assembled into a figure.",
+      "page": "references/marinetti-une-assemblee-tumultueuse-1919.html",
+      "source": "https://www.metmuseum.org/art/collection/search/345679",
+      "image": "assets/references/marinetti-une-assemblee-tumultueuse-1919.jpg",
+      "measurement": "data/measurements/marinetti-une-assemblee-tumultueuse-1919.json"
+    },
+    {
+      "id": "boccioni-dynamism-of-a-cyclist-1913",
+      "title": "Dynamism of a Cyclist",
+      "medium": "painting",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical image of the plastic dynamism phase: a modern machine and its rider shown as interpenetrating planes and lines of force.",
+      "page": "references/boccioni-dynamism-of-a-cyclist-1913.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Umberto_Boccioni,_1913,_Dynamism_of_a_Cyclist_(Dinamismo_di_un_ciclista),_oil_on_canvas,_70_x_95_cm,_Gianni_Mattioli_Collection,_on_long-term_loan_to_the_Peggy_Guggenheim_Collection,_Venice.jpg",
+      "image": "assets/references/boccioni-dynamism-of-a-cyclist-1913.jpg",
+      "measurement": "data/measurements/boccioni-dynamism-of-a-cyclist-1913.json"
+    },
+    {
+      "id": "boccioni-elasticity-1912",
+      "title": "Elasticity",
+      "medium": "painting",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Plastic dynamism at its most developed: horse, rider, and industrial landscape interpenetrate in one field of planes and lines of force.",
+      "page": "references/boccioni-elasticity-1912.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Umberto_Boccioni,_1912,_Elasticity_(Elasticit%C3%A0),_oil_on_canvas,_100_x_100_cm,_Museo_del_Novecento.jpg",
+      "image": "assets/references/boccioni-elasticity-1912.jpg",
+      "measurement": "data/measurements/boccioni-elasticity-1912.json"
+    },
+    {
+      "id": "marinetti-le-soir-couchee-dans-son-lit-1919",
+      "title": "In the Evening, Lying on Her Bed, She Reread the Letter from Her Artilleryman at the Front",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical words-in-freedom page: many typefaces and sizes, words at all angles, huge onomatopoeia, and shapes of force, all in one ink.",
+      "page": "references/marinetti-le-soir-couchee-dans-son-lit-1919.html",
+      "source": "https://www.metmuseum.org/art/collection/search/345670",
+      "image": "assets/references/marinetti-le-soir-couchee-dans-son-lit-1919.jpg",
+      "measurement": "data/measurements/marinetti-le-soir-couchee-dans-son-lit-1919.json"
+    },
+    {
+      "id": "russolo-piatti-intonarumori-1913",
+      "title": "Intonarumori (noise intoners)",
+      "medium": "product",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The Futurist programme of noise and machines made into objects: musical instruments designed as plain industrial boxes and horns. Partial fit: the visual grammar of type and lines of force is absent.",
+      "page": "references/russolo-piatti-intonarumori-1913.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Luigi_Russolo_and_assistant_Ugo_Piatti_in_their_Milan_studio_with_Intonarumori,_L%E2%80%99Arte_dei_rumori_(The_Art_of_Noises),_1913.jpg",
+      "image": "assets/references/russolo-piatti-intonarumori-1913.jpg",
+      "measurement": "data/measurements/russolo-piatti-intonarumori-1913.json"
+    },
+    {
+      "id": "marinetti-premier-record-1916",
+      "title": "Parole in libertà (premier record)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A full words-in-freedom page: type in many sizes and at many angles, very large numbers, arrows of force, and the machines of speed.",
+      "page": "references/marinetti-premier-record-1916.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Filippo_tommaso_marinetti,_parole_in_libert%C3%A0_(premier_record),_1916_(coll._priv.).jpg",
+      "image": "assets/references/marinetti-premier-record-1916.jpg",
+      "measurement": "data/measurements/marinetti-premier-record-1916.json"
+    },
+    {
+      "id": "sant-elia-airport-and-railway-station-1914",
+      "title": "Station for aeroplanes and trains, La Città Nuova",
+      "medium": "architecture",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The canonical image of Futurist architecture: a city of transport, lifts, and multiple traffic levels, shown in a dramatic perspective. Partial fit: it is symmetrical and monochrome, without the mixed type and loud inks of Futurist print.",
+      "page": "references/sant-elia-airport-and-railway-station-1914.html",
+      "source": "https://www.lombardiabeniculturali.it/opere-arte/schede/1m030-00142/",
+      "image": "assets/references/sant-elia-airport-and-railway-station-1914.png",
+      "measurement": "data/measurements/sant-elia-airport-and-railway-station-1914.json"
+    },
+    {
+      "id": "boccioni-the-city-rises-1910",
+      "title": "The City Rises",
+      "medium": "painting",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical painting of the first Futurist phase: modern labor and the growing city shown as one surge of force, with divisionist brushwork and sweeping diagonals.",
+      "page": "references/boccioni-the-city-rises-1910.html",
+      "source": "https://commons.wikimedia.org/wiki/File:The_City_Rises_by_Umberto_Boccioni_1910.jpg",
+      "image": "assets/references/boccioni-the-city-rises-1910.jpg",
+      "measurement": "data/measurements/boccioni-the-city-rises-1910.json"
+    },
+    {
+      "id": "russolo-the-revolt-1911",
+      "title": "The Revolt",
+      "medium": "painting",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A canonical early Futurist painting: the crowd and the city shown through repeated wedge shapes that act as lines of force.",
+      "page": "references/russolo-the-revolt-1911.html",
+      "source": "https://www.kunstmuseum.nl/en/collection/revolt",
+      "image": "assets/references/russolo-the-revolt-1911.jpg",
+      "measurement": "data/measurements/russolo-the-revolt-1911.json"
+    },
+    {
+      "id": "boccioni-unique-forms-of-continuity-in-space-1913",
+      "title": "Unique Forms of Continuity in Space",
+      "medium": "other",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The movement’s best-known sculpture: a body in motion merged with the space around it, the three-dimensional form of lines of force.",
+      "page": "references/boccioni-unique-forms-of-continuity-in-space-1913.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Umberto_Boccioni_Forme_uniche_nella_continuit%C3%A0_dello_spazio_1913.jpg",
+      "image": "assets/references/boccioni-unique-forms-of-continuity-in-space-1913.jpg",
+      "measurement": "data/measurements/boccioni-unique-forms-of-continuity-in-space-1913.json"
+    },
+    {
+      "id": "marinetti-zang-tumb-tumb-1914",
+      "title": "Zang Tumb Tumb",
+      "medium": "book",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The founding book of words in freedom. Its cover sets onomatopoeia in heavy grotesques that radiate from a point, on a loud colored paper.",
+      "page": "references/marinetti-zang-tumb-tumb-1914.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Filippo_tommaso_marinetti,_zang_tumb_tuum._adrianpoli_1912._parole_in_libert%C3%A0,_1914_(coll._priv.).jpg",
+      "image": "assets/references/marinetti-zang-tumb-tumb-1914.jpg",
+      "measurement": "data/measurements/marinetti-zang-tumb-tumb-1914.json"
+    },
+    {
+      "id": "marinetti-zang-tumb-tuuum-collage-1915",
+      "title": "Zang Tumb Tuuum, collage",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Words in freedom made physical: onomatopoeia in heavy type, set at angles inside repeated shapes that fan out like a burst of shells.",
+      "page": "references/marinetti-zang-tumb-tuuum-collage-1915.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Filippo_Tommaso_Marinetti_-_ZANG_TUMB_TUUUM_1915.jpg",
+      "image": "assets/references/marinetti-zang-tumb-tuuum-collage-1915.jpg",
+      "measurement": "data/measurements/marinetti-zang-tumb-tuuum-collage-1915.json"
+    }
+  ]
 }

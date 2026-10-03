@@ -1,0 +1,61 @@
+{
+  "id": "far-cry-3-blood-dragon-2013",
+  "title": "Far Cry 3: Blood Dragon",
+  "type": "product",
+  "medium": "software",
+  "lede": "Ubisoft Montreal’s 2013 stand-alone game: a parody of 1980s action films set on a neon-lit island, with a synthwave score by Power Glove and key art by James White.",
+  "summary": "Neon-lit 1980s action parody with VHS colour fringing and a Power Glove score. Ubisoft Montreal, 2013.",
+  "source": {
+    "url": "https://store.steampowered.com/app/233270/",
+    "label": "Steam: Far Cry 3 – Blood Dragon"
+  },
+  "creator": {
+    "name": "Ubisoft Montreal (developer); James White (key art)"
+  },
+  "made": "Released 30 April 2013 (PlayStation 3) and 1 May 2013 (Windows, Xbox 360), per Wikipedia",
+  "moods": [
+    "energetic",
+    "nocturnal",
+    "parodic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected four 1920 × 1080 screenshots from the [Steam store page](https://store.steampowered.com/app/233270/) in a scratch folder. Not stored. The James White key art and logo were not inspected at a usable size: the Steam header is 460 px wide and [Signalnoise’s post](https://blog.signalnoise.com/far-cry-3-blood-dragon-art/) returned HTTP 404."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "synthwave",
+      "note": "Partial fit: the game made the neon-and-VHS 1980s look mainstream, and its key art is by a leading synthwave cover artist, but the screenshots show interiors, not the sunset-and-grid scene.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: “*Blood Dragon* is a retro-futuristic parody of 1980s action films, cartoons and video games.” It was released on 30 April 2013 for PlayStation 3 and on 1 May 2013 for Windows and Xbox 360. [Wikipedia](https://en.wikipedia.org/wiki/Far_Cry_3:_Blood_Dragon).",
+    "Wikipedia: “Australian synthwave duo Power Glove composed the game’s music,” and “The virtual box art cover for the game was designed by James White, who had previously created artwork for the film *Drive*.”",
+    "Kotaku (Luke Plunkett, 16 April 2013) reports that James White made the logo and posters with Ubisoft’s art team. [Kotaku](https://kotaku.com/the-man-behind-blood-dragons-80s-drenched-box-art-472933157).",
+    "The Steam description reads: “Welcome to an 80’s vision of the future. The year is 2007 and you are Sargent Rex Colt, a Mark IV Cyber Commando.” [Steam](https://store.steampowered.com/app/233270/)."
+  ],
+  "observed": [
+    "The screenshots show dark industrial interiors lit by magenta, cyan, green, and orange tube lights and glowing panels.",
+    "Every frame has a red and cyan colour offset at the edges of objects and a faint horizontal scan-line texture, like a played-back VHS tape.",
+    "The hero wears a black helmet with a red visor and a red armoured suit with a glowing red Ω emblem.",
+    "One frame shows a first-person laser gun firing a burst of white, orange, and cyan sparks."
+  ],
+  "interpretation": [
+    "The game shows how synthwave colour and VHS surface carry into a 3D world without the horizon composition. Its parody tone is louder than the sincere music covers, but the palette is the same."
+  ],
+  "borrow": [
+    "Use a slight red-and-cyan offset on edges as a period accent, not as heavy glitch.",
+    "Light dark scenes with coloured tube lights instead of white light."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The game and its artwork are in copyright (Ubisoft, 2013)."
+  },
+  "identifiers": {
+    "steam": "233270"
+  }
+}

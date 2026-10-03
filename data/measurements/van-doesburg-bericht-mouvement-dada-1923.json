@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/van-doesburg-bericht-mouvement-dada-1923.jpg",
+  "captured": "2026-10-03T00:50:50+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.554
+      },
+      {
+        "hex": "#f4f4f4",
+        "share": 0.217
+      },
+      {
+        "hex": "#020202",
+        "share": 0.042
+      },
+      {
+        "hex": "#6c6c6c",
+        "share": 0.021
+      },
+      {
+        "hex": "#9e9e9e",
+        "share": 0.02
+      },
+      {
+        "hex": "#e8e8e8",
+        "share": 0.019
+      },
+      {
+        "hex": "#868686",
+        "share": 0.019
+      },
+      {
+        "hex": "#515151",
+        "share": 0.019
+      },
+      {
+        "hex": "#b4b4b4",
+        "share": 0.017
+      },
+      {
+        "hex": "#dcdcdc",
+        "share": 0.016
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.0,
+    "lightness": 0.86,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 4,
+    "hues": 0
+  }
+}

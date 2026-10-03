@@ -1,0 +1,75 @@
+{
+  "id": "theme-building-lax",
+  "title": "Theme Building, Los Angeles International Airport",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "The 1961 landmark at LAX: a saucer-shaped restaurant floating on a blue core under two crossed parabolic arches, like a flying saucer that has landed on four legs.",
+  "summary": "A white saucer on a blue core under two crossed parabolic arches, with a perforated screen wall. Pereira & Luckman with Paul Williams and Welton Becket, 1961.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Theme_Building",
+    "label": "Wikipedia: Theme Building"
+  },
+  "creator": {
+    "name": "James Langenheim of Pereira & Luckman (initial design); William Pereira, Charles Luckman, Paul Williams, and Welton Becket"
+  },
+  "made": "Dedicated 25 June 1961; photographed 26 July 2023",
+  "moods": [
+    "futuristic",
+    "optimistic",
+    "sculptural"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Benoît Prieur’s CC0 photograph of July 2023 on Wikimedia Commons, 1920 × 1440 px. Also inspected his second July 2023 view, in which a new people-mover guideway crosses the foreground; it is not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "googie",
+      "note": "A flying saucer on parabolic legs, the Space Age symbol built at full scale; Wikipedia calls it an example of the style later known as Googie.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: the building is an example of Space Age design, influenced by Populuxe and later known as Googie. It resembles a flying saucer that has landed on four legs. James Langenheim of Pereira & Luckman made the first design, and a team led by William Pereira and Charles Luckman, with Paul Williams and Welton Becket, completed it. [Wikipedia: Theme Building](https://en.wikipedia.org/wiki/Theme_Building).",
+    "The crossed arches look homogeneous but are four concrete legs topped by hollow stucco-covered steel trusses. Vice President Lyndon B. Johnson dedicated the building on 25 June 1961. It became Los Angeles Historic-Cultural Monument no. 570 in 1993. Walt Disney Imagineering designed a retro-futurist interior and lighting for the Encounter Restaurant in 1997. [Wikipedia](https://en.wikipedia.org/wiki/Theme_Building)."
+  ],
+  "observed": [
+    "Two white parabolic arches cross high above the building; each arch splits near the top into a loop and lands on splayed feet at the corners.",
+    "A wide white saucer with a thin upturned rim hangs from the arches; under it, a ring of slanted glass windows wraps a lower disc.",
+    "A ribbed, saturated cobalt-blue cylinder carries the saucer and rises through it to a smaller blue drum on top.",
+    "Thin cables run from the arches to the top drum.",
+    "Around the base, a curved white screen wall is pierced by rows of rounded openings.",
+    "The ground is a deep blue sky with thin cloud; the palette is white, cobalt, and pale concrete. A 1990s control tower and a parking structure stand behind it."
+  ],
+  "interpretation": [
+    "The building is the style’s space-age imagery taken literally: the saucer, the parabola, and the impression of lift-off.",
+    "Its color is more restrained than the roadside signs: white form and one strong blue, so the silhouette does the work."
+  ],
+  "borrow": [
+    "Frame a heading with two crossing parabolic arcs, and hang the content panel from them.",
+    "Use a field of small rounded openings, like the screen wall, as a quiet pattern under a loud silhouette."
+  ],
+  "images": [
+    {
+      "file": "assets/references/theme-building-lax.jpg",
+      "alt": "Color photograph of the Theme Building at LAX: two white crossed parabolic arches over a white saucer-shaped restaurant on a ribbed cobalt-blue core, with a perforated white screen wall at the base and a control tower behind, under a blue sky.",
+      "width": 1600,
+      "height": 1200,
+      "kind": "photograph",
+      "caption": "Benoît Prieur, Theme Building (Los Angeles International Airport) in July 2023 (2), CC0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theme_Building_(Los_Angeles_International_Airport)_in_July_2023_(2).jpg). The control tower (1990s) and other airport buildings behind it are incidental.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Theme_Building_%28Los_Angeles_International_Airport%29_in_July_2023_%282%29.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "Photograph: Benoît Prieur, own work, CC0 1.0 (Commons). Building: finished in 1961 in the United States, before December 1990, so it is not protected as an architectural work. Buildings in the background are incidental, and 17 U.S.C. § 120(a) permits pictures of buildings visible from public places."
+  },
+  "identifiers": {
+    "wikidata": "Q3523620",
+    "commons": "File:Theme Building (Los Angeles International Airport) in July 2023 (2).jpg"
+  }
+}

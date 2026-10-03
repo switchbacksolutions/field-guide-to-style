@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/mindustry-2019.png",
+  "captured": "2026-10-03T00:35:29+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ada183",
+        "share": 0.187
+      },
+      {
+        "hex": "#545454",
+        "share": 0.126
+      },
+      {
+        "hex": "#bbaf8c",
+        "share": 0.101
+      },
+      {
+        "hex": "#d2c5a5",
+        "share": 0.09
+      },
+      {
+        "hex": "#262626",
+        "share": 0.049
+      },
+      {
+        "hex": "#84c4ae",
+        "share": 0.044
+      },
+      {
+        "hex": "#60605f",
+        "share": 0.032
+      },
+      {
+        "hex": "#70a399",
+        "share": 0.032
+      },
+      {
+        "hex": "#ded0b2",
+        "share": 0.032
+      },
+      {
+        "hex": "#6f7b7e",
+        "share": 0.03
+      }
+    ],
+    "background": "#ada183",
+    "chroma": 0.13,
+    "lightness": 0.54,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.43,
+    "distinct": 15,
+    "hues": 3
+  }
+}

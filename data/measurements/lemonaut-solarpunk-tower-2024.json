@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/lemonaut-solarpunk-tower-2024.jpg",
+  "captured": "2026-10-03T00:33:47+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#5f3d3a",
+        "share": 0.053
+      },
+      {
+        "hex": "#6d504a",
+        "share": 0.053
+      },
+      {
+        "hex": "#895f46",
+        "share": 0.05
+      },
+      {
+        "hex": "#72453c",
+        "share": 0.045
+      },
+      {
+        "hex": "#918d93",
+        "share": 0.041
+      },
+      {
+        "hex": "#657fb0",
+        "share": 0.041
+      },
+      {
+        "hex": "#eda959",
+        "share": 0.038
+      },
+      {
+        "hex": "#3d292c",
+        "share": 0.037
+      },
+      {
+        "hex": "#9a7666",
+        "share": 0.036
+      },
+      {
+        "hex": "#4d3634",
+        "share": 0.034
+      }
+    ],
+    "background": "#5f3d3a",
+    "chroma": 0.2,
+    "lightness": 0.44,
+    "chromaticShare": 0.19,
+    "accentChroma": 0.46,
+    "distinct": 29,
+    "hues": 3
+  }
+}

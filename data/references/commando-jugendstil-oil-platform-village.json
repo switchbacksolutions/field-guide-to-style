@@ -1,0 +1,76 @@
+{
+  "id": "commando-jugendstil-oil-platform-village",
+  "title": "Solarpunk village on a former oil platform",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "An offshore oil platform rebuilt as a terraced garden village with geodesic greenhouses, kite turbines, and sailing boats at its jetty.",
+  "summary": "Repurposed oil platform with greenhouses, gardens, and airborne turbines on a blue sea. Commando Jugendstil, before 2022.",
+  "source": {
+    "url": "https://alxd.org/nudne-science-fiction-uratuje-swiat-pl.html",
+    "label": "alxd.org: “Nudne science fiction uratuje świat” (2022)"
+  },
+  "creator": {
+    "name": "Commando Jugendstil"
+  },
+  "made": "Before November 2022 (Commons upload 2022-11-19; alxd.org says it was made “a few years earlier”)",
+  "moods": [
+    "hopeful",
+    "inventive",
+    "sunlit",
+    "verdant"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the [Commons copy](https://commons.wikimedia.org/wiki/File:Commando_Jugendstil_Solarpunk_Platform.jpg) (709 × 1000 px). It carries the Commando Jugendstil signature at lower right."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "solarpunk",
+      "note": "Repurposed fossil infrastructure becomes a garden village with greenhouses, wind power, and sail boats: solarpunk’s core idea of reuse, in sky blue, leaf green, and yellow.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The Commons description reads: “An image of a former oil platform at sea, repurposed as a greenhouse and powered by wind turbines. It’s a representation of solarpunk values, repurposing infrastructure and getting rid of fossil fuels.” [Commons file page](https://commons.wikimedia.org/wiki/File:Commando_Jugendstil_Solarpunk_Platform.jpg).",
+    "The Polish blog post captions it “Solarpunkowa wioska na porzuconej platformie wiertniczej - CC-BY-SA 3.0 Commando Jugendstil” (a solarpunk village on an abandoned drilling platform). It says the collective made it to illustrate an unpublished article in the Swedish magazine LiberalDebatt, and that Gazeta Wyborcza later printed it with an interview about solarpunk. [alxd.org](https://alxd.org/nudne-science-fiction-uratuje-swiat-pl.html).",
+    "The same post calls Commando Jugendstil one of the most active solarpunk art collectives in Europe, with murals, city-programme illustrations, and magazine covers."
+  ],
+  "observed": [
+    "A yellow steel platform stands on legs in a deep blue sea, with a yellow lattice crane bridge running off to the right.",
+    "Its decks hold rows of trees behind glass, a stepped green terrace with a stair, and three glazed geodesic domes on the top deck.",
+    "Four tethered, ducted turbines fly above the platform like kites. Two more turbine shells, decorated with a red scale pattern, hang from the crane.",
+    "A white tower at right is topped by a bowl of trees and red pennants. Red flags fly across the decks.",
+    "Sailing boats and a trimaran are moored at a wooden jetty. Small figures work on stairs and walkways.",
+    "Soft white cumulus clouds fill a clear blue sky. The rendering is a painted digital illustration with fine dark linework."
+  ],
+  "interpretation": [
+    "The image is a direct answer to the style’s critics: it shows the fossil economy turned to gardens rather than a clean new city from nothing.",
+    "The domes and terraces supply the style’s greenhouse and arched-structure motif. The yellow steel and red pennants give the scheme a festive, maritime accent."
+  ],
+  "borrow": [
+    "Show an old industrial structure kept and reused, with new planting and energy added on top.",
+    "Use one strong structural colour (yellow steel) against sky blue and leaf green."
+  ],
+  "images": [
+    {
+      "file": "assets/references/commando-jugendstil-oil-platform-village.jpg",
+      "alt": "Illustration of a yellow offshore oil platform turned into a garden village, with glass domes, planted terraces, kite turbines in the sky, a crane bridge, and sailing boats at a jetty on a blue sea.",
+      "width": 709,
+      "height": 1000,
+      "kind": "source-image",
+      "caption": "Commando Jugendstil, solarpunk village on a former oil platform. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Commando_Jugendstil_Solarpunk_Platform.jpg), CC BY-SA 3.0, from [alxd.org](https://alxd.org/nudne-science-fiction-uratuje-swiat-pl.html).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Commando_Jugendstil_Solarpunk_Platform.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-3.0",
+    "statement": "Commons lists the file as CC BY-SA 3.0 by Commando Jugendstil, from alxd.org. The alxd.org post (whose own content is CC BY-SA 4.0) credits it “CC-BY-SA 3.0 Commando Jugendstil”. No Commons license review and no statement on the collective’s own site were found."
+  },
+  "identifiers": {
+    "commons": "File:Commando Jugendstil Solarpunk Platform.jpg"
+  }
+}

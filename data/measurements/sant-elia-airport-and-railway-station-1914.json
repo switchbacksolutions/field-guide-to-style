@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/sant-elia-airport-and-railway-station-1914.png",
+  "captured": "2026-10-03T00:58:35+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.405
+      },
+      {
+        "hex": "#d0d0d0",
+        "share": 0.102
+      },
+      {
+        "hex": "#b0b0b0",
+        "share": 0.085
+      },
+      {
+        "hex": "#c5c5c5",
+        "share": 0.061
+      },
+      {
+        "hex": "#7c7c7c",
+        "share": 0.053
+      },
+      {
+        "hex": "#f2f2f2",
+        "share": 0.05
+      },
+      {
+        "hex": "#e6e6e6",
+        "share": 0.047
+      },
+      {
+        "hex": "#929292",
+        "share": 0.047
+      },
+      {
+        "hex": "#676767",
+        "share": 0.032
+      },
+      {
+        "hex": "#575757",
+        "share": 0.03
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.0,
+    "lightness": 0.8,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 13,
+    "hues": 0
+  }
+}

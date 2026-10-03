@@ -1,0 +1,62 @@
+{
+  "id": "gunship-album-cover-2015",
+  "title": "GUNSHIP, GUNSHIP (album cover)",
+  "type": "print",
+  "medium": "packaging",
+  "lede": "James White’s cover for GUNSHIP’s debut album: a cyan wireframe mountain under a striped sun on a magenta and orange laser grid, with a brushed orange logotype.",
+  "summary": "Striped sun, cyan wireframe mountain, magenta-orange laser grid, brush logotype. James White, 2015.",
+  "source": {
+    "url": "https://www.discogs.com/release/7272688-GUNSHIP-GUNSHIP",
+    "label": "Discogs: GUNSHIP – GUNSHIP (CD, 2015)"
+  },
+  "creator": {
+    "name": "James White (Signalnoise)",
+    "url": "https://signalnoise.com/"
+  },
+  "made": "Released 24 July 2015 (Discogs)",
+  "moods": [
+    "energetic",
+    "nocturnal",
+    "retrofuturist"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 px front-cover image from the [Cover Art Archive](https://musicbrainz.org/release-group/85778172-d037-4718-b028-950de54620cf) in a scratch folder. Not stored. The artwork credit is from the [Discogs record of the UK and Europe CD](https://www.discogs.com/release/7272688-GUNSHIP-GUNSHIP) (INgrooves, HITH002CD)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "synthwave",
+      "note": "Every Outrun motif in one frame: a striped sun, a receding laser grid, a glowing wireframe mountain, a star field, and a brushed logotype.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Discogs records the CD as released on 24 July 2015 in the UK and Europe by INgrooves (HITH002CD), written and produced by Alex Westaway and Dan Haigh, with artwork by James White. [Discogs](https://www.discogs.com/release/7272688-GUNSHIP-GUNSHIP)."
+  ],
+  "observed": [
+    "A starry night sky shades from violet-black at the top to near-black at the horizon. Thin red and blue lines cross it at the sun’s upper third.",
+    "A large striped sun shades from yellow at the top to coral and pink at the bottom. Horizontal bars cut its lower half, and the sun has a magenta halo.",
+    "A low-polygon mountain drawn in glowing cyan lines rises in the centre. A cyan dodecahedron floats above its peak in a beam of light.",
+    "A perspective grid in orange lines at the back and magenta lines at the front recedes to the horizon.",
+    "“GUNSHIP” is set in heavy, brushed, slightly italic capitals that shade from yellow to orange, at the bottom centre over the grid.",
+    "A fine scan-line texture and grain cover the whole image."
+  ],
+  "interpretation": [
+    "This is the canonical complete Outrun scene, with strict central symmetry about the vanishing point. The grid changes colour from orange to magenta with depth, which reads as the sunset light falling on it."
+  ],
+  "borrow": [
+    "Change the grid colour with depth, warm at the horizon and magenta in the foreground.",
+    "Put one glowing wireframe object on the central axis between the sun and the grid."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The cover art is in copyright (James White / GUNSHIP, 2015)."
+  },
+  "identifiers": {
+    "musicbrainz-release-group": "85778172-d037-4718-b028-950de54620cf",
+    "discogs-release": "7272688"
+  }
+}

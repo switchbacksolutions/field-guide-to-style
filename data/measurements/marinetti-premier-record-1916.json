@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/marinetti-premier-record-1916.jpg",
+  "captured": "2026-10-03T00:57:11+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#c8c79e",
+        "share": 0.208
+      },
+      {
+        "hex": "#b5ad82",
+        "share": 0.095
+      },
+      {
+        "hex": "#9d885a",
+        "share": 0.085
+      },
+      {
+        "hex": "#977d4b",
+        "share": 0.079
+      },
+      {
+        "hex": "#b1a372",
+        "share": 0.061
+      },
+      {
+        "hex": "#947239",
+        "share": 0.052
+      },
+      {
+        "hex": "#c2ba89",
+        "share": 0.041
+      },
+      {
+        "hex": "#846332",
+        "share": 0.04
+      },
+      {
+        "hex": "#a39369",
+        "share": 0.037
+      },
+      {
+        "hex": "#b19a60",
+        "share": 0.035
+      }
+    ],
+    "background": "#c8c79e",
+    "chroma": 0.21,
+    "lightness": 0.53,
+    "chromaticShare": 0.15,
+    "accentChroma": 0.34,
+    "distinct": 17,
+    "hues": 1
+  }
+}

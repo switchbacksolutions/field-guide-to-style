@@ -1,0 +1,60 @@
+{
+  "id": "hello-kitty-rice-cooker-2014",
+  "title": "Hello Kitty rice cooker",
+  "type": "product",
+  "medium": "product",
+  "lede": "A round rice cooker in two pinks with a large Hello Kitty face on its body and a pink oval control panel.",
+  "summary": "Cylindrical rice cooker in hot and pale pink with a large Hello Kitty face. Japan, 2014.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1322382/rice-cooker/",
+    "label": "V&A: Rice cooker, decorated with Hello Kitty, FE.19-2015"
+  },
+  "creator": {
+    "name": "Unknown manufacturer; Hello Kitty character by Sanrio"
+  },
+  "made": "2014",
+  "moods": [
+    "cute",
+    "sweet",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A photograph 2015HU1286 of object FE.19-2015 (1200 × 1600 px, IIIF, lid open) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "kawaii",
+      "note": "Partial fit: the round form, the big face, and the bow are core kawaii, but the main pink is saturated rather than pastel.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "The V&A describes it as a “Rice cooker, plastic and metal; electrical components, pink and decorated with Hello Kitty, Japan, 2014”, part of a group of Hello Kitty appliances acquired in 2015. [V&A FE.19-2015](https://collections.vam.ac.uk/item/O1322382/rice-cooker/)."
+  ],
+  "observed": [
+    "The body is a short cylinder in saturated hot pink; the base ring, the latch, the lid rim, and the steam vent are pale pink.",
+    "A large white Kitty head with black outline, dot eyes, whiskers, a yellow nose, and a pink bow fills much of the front.",
+    "The control panel is a rounded oval with “HELLO KITTY” in small capitals and two indicator lights.",
+    "Inside the open lid, the steel plate is pierced with rings of small round holes."
+  ],
+  "interpretation": [
+    "Here the character is the main graphic, not a small badge. The cylinder, the oval panel, and the ring of round holes show how the round geometry extends from the character to the object.",
+    "The hot pink pushes this toward the bolder end of character goods; pastel is kept for the trim."
+  ],
+  "borrow": [
+    "Scale a simple face large enough to fill a panel, and keep everything around it plain.",
+    "Repeat circles at different scales: the body, the panel, and small dotted details."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is © Victoria and Albert Museum, London. The Hello Kitty character belongs to Sanrio."
+  },
+  "identifiers": {
+    "vam": "O1322382"
+  }
+}

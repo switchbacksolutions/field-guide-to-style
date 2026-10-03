@@ -1,0 +1,79 @@
+{
+  "id": "welcome-to-fabulous-las-vegas-sign",
+  "title": "Welcome to Fabulous Las Vegas sign",
+  "type": "object",
+  "medium": "signage",
+  "lede": "Betty Willis’s 1959 roadside sign: a stretched diamond ringed with bulbs, “Welcome” in neon silver dollars, “Fabulous” in cursive, and an eight-point star on top.",
+  "summary": "A bulb-ringed diamond with silver-dollar letters, cursive “Fabulous,” red capitals, and an eight-point neon star. Betty Willis for Western Neon, Las Vegas, 1959.",
+  "source": {
+    "url": "https://www.loc.gov/item/2010630140/",
+    "label": "Library of Congress: Carol M. Highsmith, Sign in daytime, Las Vegas, Nevada"
+  },
+  "creator": {
+    "name": "Betty Willis, Western Neon",
+    "url": "https://en.wikipedia.org/wiki/Betty_Willis_(artist)"
+  },
+  "made": "Funded May 1959 and erected soon after (Wikipedia); photographed 2007",
+  "moods": [
+    "exuberant",
+    "flashy",
+    "roadside",
+    "optimistic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Carol M. Highsmith’s photograph (Library of Congress LCCN 2010630140; Commons file [Sign in daytime, Las Vegas, Nevada LCCN2010630140.tif](https://commons.wikimedia.org/wiki/File:Sign_in_daytime,_Las_Vegas,_Nevada_LCCN2010630140.tif), Exif date 6 September 2007) at 1920 × 1165 px. Also compared the CC0 2009 view by Ypsilon from Finland on Commons. The south face of the original sign at 5100 Las Vegas Boulevard South is shown; replicas exist elsewhere."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "googie",
+      "note": "The style record names this sign’s starburst as pure ornament; Wikipedia calls the design characteristic of Googie.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The sign was funded in May 1959 and built by Western Neon under contract with Clark County. Betty Willis, a Western Neon employee, designed it at the request of the salesman Ted Rogich. It cost $4,000. [Wikipedia: Welcome to Fabulous Las Vegas sign](https://en.wikipedia.org/wiki/Welcome_to_Fabulous_Las_Vegas_sign).",
+    "Wikipedia describes it as 25 feet tall, a horizontally stretched diamond with pointed top and bottom and rounded sides, internally lit, with chasing yellow incandescent bulbs around the edge. The white neon circles represent silver dollars for “the Silver State.” The eight-point star is red-painted metal outlined in yellow neon. The back reads “Drive Carefully / Come Back Soon.” Wikipedia calls the design characteristic of Googie architecture. [Wikipedia](https://en.wikipedia.org/wiki/Welcome_to_Fabulous_Las_Vegas_sign).",
+    "Willis never claimed copyright. Wikipedia quotes her: “If I had copyrighted the sign, it probably wouldn’t have been used as much and wouldn’t be as famous.” YESCO has owned the physical sign since it bought Western Neon in the early 1960s. [Wikipedia](https://en.wikipedia.org/wiki/Welcome_to_Fabulous_Las_Vegas_sign); [Time, 2015](https://time.com/3829207/welcome-to-fabulous-las-vegas-sign-betty-willis/)."
+  ],
+  "observed": [
+    "The cabinet is a wide white diamond with a yellow frame; dozens of round yellow bulbs stand out from its edge on short stalks.",
+    "Seven silver-white discs, edged with ridges like coins and showing faint coin relief, run across the top and each holds one red letter of “WELCOME” outlined in neon tube.",
+    "“TO” in small blue capitals sits beside “Fabulous” in a slanted, connected blue script with a long underline swash.",
+    "“LAS VEGAS” fills the width in heavy red sans-serif capitals; “NEVADA” sits below in small, widely spaced blue capitals.",
+    "An eight-point star, a long four-point star in yellow neon over a shorter red one, bursts out of a blue rectangular frame formed by the two poles and their cross piece.",
+    "Colors are red, blue, yellow, and white, flat and saturated, against clear blue sky."
+  ],
+  "interpretation": [
+    "The sign is a compact grammar of the style: an angular non-rectangular panel, a starburst that breaks its frame, one word in neon-style script next to bold capitals, and a chasing-bulb border.",
+    "The diamond with rounded sides points up and down at once, so the static sign reads as energetic."
+  ],
+  "borrow": [
+    "Put the name on a stretched diamond panel with pointed ends, and ring it with evenly spaced dots.",
+    "Set one word in a slanted script between lines of capitals, and let a star overlap the panel’s frame."
+  ],
+  "images": [
+    {
+      "file": "assets/references/welcome-to-fabulous-las-vegas-sign.jpg",
+      "alt": "The Welcome to Fabulous Las Vegas sign against blue sky: a white diamond ringed with yellow bulbs, WELCOME in red letters on seven silver discs, Fabulous in blue script, LAS VEGAS in large red capitals, NEVADA in blue, and a red and yellow eight-point star on a blue frame above.",
+      "width": 1600,
+      "height": 971,
+      "kind": "photograph",
+      "caption": "Carol M. Highsmith, Sign in daytime, Las Vegas, Nevada, 2007. Carol M. Highsmith’s America, [Library of Congress](https://www.loc.gov/item/2010630140/); copy from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sign_in_daytime,_Las_Vegas,_Nevada_LCCN2010630140.tif).",
+      "original": "https://commons.wikimedia.org/wiki/File:Sign_in_daytime,_Las_Vegas,_Nevada_LCCN2010630140.tif",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Photograph: Carol M. Highsmith placed her archive in the public domain; Library of Congress advisory “No known restrictions on publication,” Commons license “Public domain.” Sign: designed in 1959 and displayed publicly with no copyright claim; Betty Willis never copyrighted it, and a United States work published before 1978 without notice entered the public domain. Wikipedia calls the public-domain account a legend, so the lead curator may want to confirm. The design may carry trademark uses by Clark County or YESCO; this record uses it only for commentary."
+  },
+  "identifiers": {
+    "wikidata": "Q175665",
+    "loc": "2010630140",
+    "commons": "File:Sign in daytime, Las Vegas, Nevada LCCN2010630140.tif"
+  }
+}

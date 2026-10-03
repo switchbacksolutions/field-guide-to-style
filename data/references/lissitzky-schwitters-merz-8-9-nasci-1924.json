@@ -1,0 +1,75 @@
+{
+  "id": "lissitzky-schwitters-merz-8-9-nasci-1924",
+  "title": "Merz 8/9: Nasci, 1924",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "El Lissitzky and Kurt Schwitters edit the double issue of Merz on nature and form. Lissitzky’s title page sets a Brockhaus definition in red sans-serif capitals between blue bars.",
+  "summary": "Blue MERZ with serif numerals, red sans-serif capitals between blue bars, vertical imprints, and a pointing hand. Lissitzky and Schwitters, 1924.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:8_Merz_9_Doppelheft.jpg",
+    "label": "Wikimedia Commons: 8 Merz 9 / Nasci (Ketterer Kunst copy)"
+  },
+  "creator": {
+    "name": "El Lissitzky (typography) and Kurt Schwitters (co-editor)",
+    "url": "https://en.wikipedia.org/wiki/El_Lissitzky"
+  },
+  "made": "April–July 1924 (as printed on the page)",
+  "moods": [
+    "constructive",
+    "typographic",
+    "experimental"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons image of a copy sold by Ketterer Kunst (3850 × 5003 px original, viewed at 1200 px). Commons gives the size as 30.8 × 23.5 cm. A second Commons copy from charnelhouse.org exists ([Commons](https://commons.wikimedia.org/wiki/File:1924._Merz_Magazine_Layout_by_El_Lissitzky.jpg)) and was not compared."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "dada",
+      "note": "A late issue of Schwitters’s Dada magazine, with mixed serif and sans faces, vertical text, and a pointing hand. Partial fit: the bars and the aligned red block are Constructivist order, as the style’s confusion notes say.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes the image as the title page of *Merz* double issue 8/9, 1924, title design by El Lissitzky, 30.8 × 23.5 cm, from Ketterer Kunst, tagged PD-scan (PD-old-auto-expired, death year 1941). [Commons](https://commons.wikimedia.org/wiki/File:8_Merz_9_Doppelheft.jpg).",
+    "The page itself states that the double issue appeared under the editorship of El Lissitzky and Kurt Schwitters, with typography by Lissitzky.",
+    "Wikipedia says Lissitzky edited and typeset *Merz 8/9*. The [Dada style record](style:dada) cites it as a work between Dada and [Constructivism](style:constructivism). Compare [Merz 1](ref:schwitters-merz-1-holland-dada-1923)."
+  ],
+  "observed": [
+    "“MERZ” is set in tall blue condensed sans-serif capitals, between a blue serif “8” and “9” of a different face.",
+    "Below it, the definition “NATUR von lat. NASCI d. i. werden oder entstehen heisst alles, was sich aus sich selbst durch eigene Kraft entwickelt gestaltet und bewegt” runs in red sans-serif capitals, with “NASCI” in a heavy bold.",
+    "Each red line sits between thick blue horizontal bars that start at one long blue vertical bar at the left.",
+    "Two imprints run vertically at the left: “REDAKTION DES MERZVERLAGES …” and “TYPOGRAPHIE ANGEGEBEN VON EL LISSITZKY”.",
+    "A small blue pointing hand points up at the left margin. The date “APRIL JULI 1924” is letter-spaced in blue capitals at lower left.",
+    "A French version of the definition, with a red “NASCI”, is set in small type at the bottom. The paper is off-white, and only red and blue inks are used."
+  ],
+  "interpretation": [
+    "The page shows where Dada typography ends: the mixed faces, the pointing hand, and the vertical imprints survive, but the bars and the aligned text block give a clear order. It is a good contrast record for the Dada rubric."
+  ],
+  "borrow": [
+    "Run thick bars between lines of a text block, all starting from one vertical bar.",
+    "Set a running imprint vertically in small capitals along the left edge."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lissitzky-schwitters-merz-8-9-nasci-1924.jpg",
+      "alt": "Magazine title page: 8 MERZ 9 in blue at the top, a definition of the word Nasci in red sans-serif capitals between blue horizontal bars, vertical blue imprints at the left, a small blue pointing hand, and April Juli 1924 at lower left.",
+      "width": 1232,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "El Lissitzky and Kurt Schwitters, *Merz* 8/9 (*Nasci*), 1924, title page. Copy sold by Ketterer Kunst, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:8_Merz_9_Doppelheft.jpg), PD-scan.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/c7/8_Merz_9_Doppelheft.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons tags the scan PD-scan (PD-old-auto-expired, death year 1941). Lissitzky died in 1941 and Schwitters in 1948, and the issue was published in Germany in 1924, so it is public domain in Germany. It was published before 1931, so it is public domain in the United States."
+  },
+  "identifiers": {
+    "commons": "File:8 Merz 9 Doppelheft.jpg"
+  }
+}

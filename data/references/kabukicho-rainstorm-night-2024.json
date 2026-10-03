@@ -1,0 +1,74 @@
+{
+  "id": "kabukicho-rainstorm-night-2024",
+  "title": "Kabukichō in a rainstorm at night",
+  "type": "image",
+  "medium": "photograph",
+  "lede": "A narrow street in Tokyo’s Kabukichō entertainment district during heavy rain: stacked vertical signs in pink, green, and white, and their reflections on the wet asphalt.",
+  "summary": "Pink-lit facades, vertical Japanese signs, and a rain-wet street at night. Photograph by Benlisquare, Shinjuku, Tokyo, 2024.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Kabukicho_during_rainstorm_at_night.jpg",
+    "label": "Wikimedia Commons: Kabukicho during rainstorm at night.jpg"
+  },
+  "creator": {
+    "name": "Benlisquare",
+    "url": "https://commons.wikimedia.org/wiki/User:Benlisquare"
+  },
+  "made": "7 August 2024",
+  "moods": [
+    "nocturnal",
+    "gritty",
+    "dense"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Commons 1920 px rendition of the 4000 × 3000 px original. The file description reads “Kabukichō at night, during a heavy rainstorm.”"
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "cyberpunk",
+      "note": "Partial fit: a real street of the kind the genre took as its model, with rain, reflections, and vertical neon signs in Japanese. It has no HUD frames or terminal text.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia’s [Cyberpunk article](https://en.wikipedia.org/wiki/Cyberpunk) quotes William Gibson: “Modern Japan simply was cyberpunk.” He describes Shibuya’s “towering, animated crawl of commercial information” and a journalist saying “It is Blade Runner”. See [Blade Runner](ref:blade-runner-1982) and [Akira](ref:akira-film-1988).",
+    "Kabukichō is an entertainment and red-light district in Shinjuku, Tokyo. The photograph is in the Commons category “Kabukichō Sakura Street at night”. [Commons](https://commons.wikimedia.org/wiki/File:Kabukicho_during_rainstorm_at_night.jpg)."
+  ],
+  "observed": [
+    "The left side is a wall of yellow, red, and blue illuminated panels edged with green and blue LED strips.",
+    "The buildings on the right are washed in pink light. Vertical signs read “ROBOT★RESTAURANT”, “NEO TOKIO”, and “Shisha Alchemist 3F” with Japanese text, and floor numbers such as “1F” and “B1”.",
+    "The asphalt is wet and reflects pink and yellow light in long streaks. Rain is visible against the black sky.",
+    "A black van stands in the center. Paper lanterns and a backlit menu board are at lower right.",
+    "The sky and the upper buildings are near-black. Almost all light comes from the signs."
+  ],
+  "interpretation": [
+    "The photograph shows where the style’s palette comes from: no daylight, all light emitted by signs, and a wet ground that doubles it.",
+    "The colors here are warmer and more varied (pink, yellow, green) than the cyan-and-magenta palette of designed cyberpunk graphics. Designers reduce this to two or three hues."
+  ],
+  "borrow": [
+    "Light a dark composition only from its signs and labels, and add a soft reflection below a bright element.",
+    "Stack short labels vertically, with floor or level codes such as “3F” and “B1”, as data."
+  ],
+  "images": [
+    {
+      "file": "assets/references/kabukicho-rainstorm-night-2024.jpg",
+      "alt": "A narrow street at night in heavy rain. Bright yellow and red illuminated panels line the left; pink-lit buildings with vertical signs in Japanese and English line the right. A black van stands on the wet, reflecting road.",
+      "width": 1600,
+      "height": 1200,
+      "kind": "photograph",
+      "caption": "Kabukichō, Shinjuku, Tokyo, during a rainstorm, 7 August 2024. Photograph by Benlisquare, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kabukicho_during_rainstorm_at_night.jpg), CC BY-SA 4.0. Shop signs and advertising appear incidentally as part of the street.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Kabukicho_during_rainstorm_at_night.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Photograph by Benlisquare, “Own work”, licensed CC BY-SA 4.0 on Wikimedia Commons. The main subject is a public street. Shop signs, logos, and a printed advertisement appear as incidental parts of the street scene, not as the subject."
+  },
+  "identifiers": {
+    "commons": "File:Kabukicho during rainstorm at night.jpg"
+  }
+}

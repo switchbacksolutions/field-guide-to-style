@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/loop-chan-solarpunk-technology-nature-2024.jpg",
+  "captured": "2026-10-03T00:34:58+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#fbfdfc",
+        "share": 0.067
+      },
+      {
+        "hex": "#605957",
+        "share": 0.059
+      },
+      {
+        "hex": "#c9dad4",
+        "share": 0.05
+      },
+      {
+        "hex": "#707374",
+        "share": 0.047
+      },
+      {
+        "hex": "#a2a785",
+        "share": 0.041
+      },
+      {
+        "hex": "#322421",
+        "share": 0.039
+      },
+      {
+        "hex": "#9cb2a9",
+        "share": 0.038
+      },
+      {
+        "hex": "#4f6a50",
+        "share": 0.037
+      },
+      {
+        "hex": "#b8ba93",
+        "share": 0.037
+      },
+      {
+        "hex": "#7d8283",
+        "share": 0.037
+      }
+    ],
+    "background": "#fbfdfc",
+    "chroma": 0.14,
+    "lightness": 0.57,
+    "chromaticShare": 0.11,
+    "accentChroma": 0.4,
+    "distinct": 26,
+    "hues": 2
+  }
+}

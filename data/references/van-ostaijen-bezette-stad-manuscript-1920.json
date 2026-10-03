@@ -1,0 +1,78 @@
+{
+  "id": "van-ostaijen-bezette-stad-manuscript-1920",
+  "title": "Paul van Ostaijen, manuscript of Bezette Stad, 1920–1921",
+  "type": "object",
+  "medium": "other",
+  "lede": "In the handwritten draft of his “rhythmic typography” poem cycle, Paul van Ostaijen already lays out words as sound: isolated words, letter-spaced words, and capitals scattered across the sheet.",
+  "summary": "Handwritten poem page with scattered words, capitals, letter-spaced words, and sound words such as BOM BAM and PLOEMP. Van Ostaijen, Berlin, 1920–21.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Bezette_Stad,_0181_EHC_859433_102r.jpg",
+    "label": "Wikimedia Commons: Bezette Stad manuscript, sheet 102r (Letterenhuis EHC 859433)"
+  },
+  "creator": {
+    "name": "Paul van Ostaijen (1896–1928)",
+    "url": "https://en.wikipedia.org/wiki/Paul_van_Ostaijen"
+  },
+  "made": "Between 1920 and 1921 (Commons). Written in Berlin between July 1920 and April 1921 (Literaire Canon).",
+  "moods": [
+    "experimental",
+    "raw",
+    "chaotic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected manuscript sheet 102r on Commons (viewed at 1200 px from the 1280 px thumbnail), and sheet 58r for comparison ([Commons](https://commons.wikimedia.org/wiki/File:Bezette_Stad,_0103_EHC_859433_58r.jpg)). Commons gives the source as “DAS Antwerp”; the file names carry the collection number EHC 859433. The printed 1921 book was not inspected."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "dada",
+      "note": "A draft of Flemish Dada-era rhythmic typography: words scattered across the page at many sizes and cases. Partial fit: it is handwritten, has no photographs, and the poet is usually called an expressionist influenced by Dada.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Van Ostaijen wrote *Bezette Stad* (Occupied City) in Berlin between July 1920 and April 1921. The first edition appeared in 1921 from his own Antwerp publishing house Sienjaal. [Literaire Canon: Bezette Stad](https://literairecanon.be/canon-2025/bezette-stad).",
+    "A bookseller’s description of the first edition credits its typography to O. Jespers and R. Victor and gives an edition of 540 copies. [Arine van der Steur](https://arinevandersteur.nl/product/literature-1921-vlaams-dada-paul-van-ostaijen-bezette-stad-antwerpen-sienjaal-1921-first-edition-151-pp-typography-o-jespers-and-r-victor-printed-in-540-copies/).",
+    "Flanders bought the complete manuscript and placed it on the Flemish heritage list. It is kept at the Letterenhuis in Antwerp from 27 March 2021. [VRT NWS](https://www.vrt.be/vrtnws/nl/2021/02/18/bezette-stad-van-paul-van-ostaijen-wordt-vlaams-topstuk/).",
+    "Wikipedia names Dadaism among the influences on his poetry. [Wikipedia: Paul van Ostaijen](https://en.wikipedia.org/wiki/Paul_van_Ostaijen)."
+  ],
+  "observed": [
+    "The sheet is greyish paper with black ink, a red folio number “102” at the top, and a central fold.",
+    "Words sit at many positions on the page, not in lines from one margin: “BOM”, a struck-through “B”, and “BAM” spread across one row, “O-” alone below them, and “PLOEMP” at the right.",
+    "Some words are capitals in a print-like hand; most are in a cursive script. Size changes from small script to large capitals.",
+    "Two words are letter-spaced with dots: “r-a-n-j-e” and “a-k-r-o-k-a-t-e-n”.",
+    "Some lines step to the right in a staircase: “golft mee de zaal / rolt mee de zaal / klotst mee de zaal”.",
+    "On sheet 58r the poet also draws a small box labelled “Obus” and a large bracket-shaped letter H."
+  ],
+  "interpretation": [
+    "The manuscript shows that the scattered layout was part of the writing, not only a printer’s idea. It belongs to the same freeing of type from the line as Dada and Futurist poetry, but without printer’s cuts or photographs."
+  ],
+  "borrow": [
+    "Place sound words as separate units across the width, and let white space set the rhythm.",
+    "Letter-space a word with dots or hyphens to slow its reading.",
+    "Step a repeated phrase down and to the right."
+  ],
+  "images": [
+    {
+      "file": "assets/references/van-ostaijen-bezette-stad-manuscript-1920.jpg",
+      "alt": "Handwritten manuscript page in black ink with words scattered across the sheet: BOM and BAM in capitals, letter-spaced words, PLOEMP at the right, and three stepped lines, with a red page number 102 at the top.",
+      "width": 1257,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Paul van Ostaijen, manuscript of *Bezette Stad*, sheet 102r, 1920–1921. Letterenhuis, Antwerp, EHC 859433, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bezette_Stad,_0181_EHC_859433_102r.jpg), PD-old-70.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Bezette_Stad%2C_0181_EHC_859433_102r.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons tags the scan PD-old-70. Van Ostaijen, a Belgian author, died in 1928, so the manuscript is public domain in Belgium. In the United States an unpublished work is protected for life plus 70 years, which ended in 1998. The printed 1921 book is not stored, because its typography is also credited to Oscar Jespers, who died in 1970."
+  },
+  "identifiers": {
+    "letterenhuis": "EHC 859433",
+    "commons": "File:Bezette Stad, 0181 EHC 859433 102r.jpg"
+  }
+}

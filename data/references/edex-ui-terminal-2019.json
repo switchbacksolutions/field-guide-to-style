@@ -1,0 +1,74 @@
+{
+  "id": "edex-ui-terminal-2019",
+  "title": "eDEX-UI terminal emulator",
+  "type": "product",
+  "medium": "software",
+  "lede": "An open-source science-fiction terminal emulator that wraps a real shell in heads-up-display panels: a clock, system graphs, a wireframe globe, and an on-screen keyboard, all in hairline cyan on near-black.",
+  "summary": "Pale cyan hairline panels, monospace shell text, and HUD readouts on a near-black ground. Gabriel Saillard (GitSquared), version 2.2, 2019.",
+  "source": {
+    "url": "https://github.com/GitSquared/edex-ui",
+    "label": "GitHub: GitSquared/edex-ui"
+  },
+  "creator": {
+    "name": "Gabriel Saillard (GitSquared) and contributors",
+    "url": "https://github.com/GitSquared"
+  },
+  "made": "2017–2021 (screenshot of version 2.2, April 2019)",
+  "moods": [
+    "high-tech",
+    "nocturnal",
+    "tense"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected `media/screenshot_default.png` (1934 × 1094 px) from the repository’s master branch, the screenshot the README captions “neofetch on eDEX-UI 2.2 with the default \"tron\" theme & QWERTY keyboard”. Also inspected the “blade” theme screenshot (3840 × 2160 px), which uses orange instead of cyan."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "cyberpunk",
+      "note": "A working interface built as a movie HUD: a near-black ground, glowing pale cyan hairline frames, numbered panels, and monospace terminal text throughout.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The GitHub repository describes eDEX-UI as “a cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support”. It was created in January 2017 and archived in October 2021. [GitHub](https://github.com/GitSquared/edex-ui).",
+    "The README says the project is “heavily inspired from the TRON Legacy movie effects (especially the Board Room sequence)” and began as a distributable version of Seena Burns’s [DEX-UI](https://github.com/seenaburns/dex-ui). [README](https://github.com/GitSquared/edex-ui/blob/master/README.md).",
+    "The repository is licensed GPL-3.0. It ships several themes, including “tron”, “blade”, “matrix”, and “tron-disrupted”, which adds glitch effects. [GitHub](https://github.com/GitSquared/edex-ui)."
+  ],
+  "observed": [
+    "The ground is near-black blue-gray. All text, lines, and icons are one pale cyan-gray, with a brighter white for active text.",
+    "The screen divides into labelled panels: “PANEL SYSTEM”, “TERMINAL MAIN SHELL”, “PANEL NETWORK”, and “FILESYSTEM”. Each label is small capitals with a thin rule under it.",
+    "A large clock reads “20 : 27 : 46” in a squared sans-serif. Below it sit uptime, CPU graphs with “#1-2 Avg. 55%”, temperature, memory as a dot matrix, and a process table.",
+    "The central terminal has tabs with diagonal cut edges (“MAIN SHELL”, “EMPTY”) and shows monospace shell output with ASCII art.",
+    "A dotted wireframe globe titled “WORLD VIEW / GLOBAL NETWORK MAP” and a network-traffic line chart fill the right column.",
+    "An on-screen keyboard of outlined keys fills the lower right. Frames are 1 px lines with square corners."
+  ],
+  "interpretation": [
+    "The interface is the HUD branch of the style without the neon city: one cool hue, many small labelled readouts, and type that is all data. It shows that the look can work as a single-color system.",
+    "Its source is film interface design (TRON: Legacy), which ties it to the screen graphics of the genre more than to its street imagery."
+  ],
+  "borrow": [
+    "Put a small capital label and a right-aligned category over a 1 px rule at the top of every panel.",
+    "Use one pale cyan for all lines and text, and show state with brightness, not with more colors.",
+    "Cut the corners of tabs on the diagonal to suggest a HUD without rounding anything."
+  ],
+  "images": [
+    {
+      "file": "assets/references/edex-ui-terminal-2019.jpg",
+      "alt": "A dark screen divided into thin-outlined panels in pale cyan: a large digital clock and system graphs at left, a terminal with tabs and shell text in the center, a dotted wireframe globe and traffic chart at right, and a file browser and on-screen keyboard below.",
+      "width": 1600,
+      "height": 905,
+      "kind": "screenshot",
+      "caption": "eDEX-UI 2.2 with the default “tron” theme, running neofetch, April 2019. Screenshot from the [eDEX-UI repository](https://github.com/GitSquared/edex-ui), GPL-3.0.",
+      "original": "https://raw.githubusercontent.com/GitSquared/edex-ui/master/media/screenshot_default.png",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "GPL-3.0",
+    "statement": "The screenshot is a file in the eDEX-UI repository, which is licensed GPL-3.0 as a whole. It shows the program’s own interface and the output of neofetch, which is free software. The interface is inspired by TRON: Legacy but does not reproduce its graphics. The lead curator may confirm that a repository license covers its media files."
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/marinetti-zang-tumb-tumb-1914.jpg",
+  "captured": "2026-10-03T01:02:36+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#fcfbf6",
+        "share": 0.171
+      },
+      {
+        "hex": "#ea8c17",
+        "share": 0.132
+      },
+      {
+        "hex": "#d8c9ae",
+        "share": 0.127
+      },
+      {
+        "hex": "#c3b091",
+        "share": 0.067
+      },
+      {
+        "hex": "#f3f0e4",
+        "share": 0.065
+      },
+      {
+        "hex": "#1a231f",
+        "share": 0.062
+      },
+      {
+        "hex": "#e1d5bc",
+        "share": 0.049
+      },
+      {
+        "hex": "#f5981f",
+        "share": 0.047
+      },
+      {
+        "hex": "#4c3e27",
+        "share": 0.039
+      },
+      {
+        "hex": "#e9922b",
+        "share": 0.031
+      }
+    ],
+    "background": "#fcfbf6",
+    "chroma": 0.3,
+    "lightness": 0.62,
+    "chromaticShare": 0.31,
+    "accentChroma": 0.72,
+    "distinct": 14,
+    "hues": 2
+  }
+}

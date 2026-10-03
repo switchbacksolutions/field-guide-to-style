@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/baargeld-typische-vertikalklitterung-1920.jpg",
+  "captured": "2026-10-03T00:50:44+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#d2c590",
+        "share": 0.315
+      },
+      {
+        "hex": "#c9ba84",
+        "share": 0.301
+      },
+      {
+        "hex": "#e5d8a0",
+        "share": 0.234
+      },
+      {
+        "hex": "#726445",
+        "share": 0.031
+      },
+      {
+        "hex": "#b8b6a2",
+        "share": 0.024
+      },
+      {
+        "hex": "#837554",
+        "share": 0.023
+      },
+      {
+        "hex": "#5d523a",
+        "share": 0.022
+      },
+      {
+        "hex": "#a19e8b",
+        "share": 0.017
+      },
+      {
+        "hex": "#898473",
+        "share": 0.014
+      },
+      {
+        "hex": "#a39267",
+        "share": 0.01
+      }
+    ],
+    "background": "#d2c590",
+    "chroma": 0.25,
+    "lightness": 0.66,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 7,
+    "hues": 0
+  }
+}

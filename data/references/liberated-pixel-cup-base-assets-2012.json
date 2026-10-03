@@ -1,0 +1,67 @@
+{
+  "id": "liberated-pixel-cup-base-assets-2012",
+  "title": "Liberated Pixel Cup base assets",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "The shared sprites and tiles of the 2012 Liberated Pixel Cup: one style guide, a 32-pixel grid, and openly licensed characters that hundreds of later free games reuse.",
+  "summary": "A four-direction, nine-frame walk cycle of a base character in flat skin tones with dark outlines. Liberated Pixel Cup, 2012, CC BY-SA 3.0.",
+  "source": {
+    "url": "https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles",
+    "label": "OpenGameArt: Liberated Pixel Cup (LPC) Base Assets (sprites & map tiles)"
+  },
+  "creator": {
+    "name": "Lanea Zimmerman (Sharm), Stephen Challener (Redshrike), Charles Sanchez (CharlesGabriel), Daniel Armstrong (HughSpectrum), and others listed in CREDITS.TXT"
+  },
+  "made": "2012",
+  "moods": ["game-like", "handmade", "nostalgic"],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded `lpc_base_assets.zip` from the OpenGameArt page and inspected `sprites/people/male_walkcycle.png` (576 × 256 px, 12 colors) on white, enlarged 2× to 1152 × 512 px. Also inspected the page preview `house_7.png` (288 × 224 px) enlarged 4×. CREDITS.TXT gives the walk cycle to Stephen Challener."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "pixel-art",
+      "note": "Partial fit: hand-drawn sprites and tiles with hard dark outlines and flat palette-step shading, but drawn at a finer 32-pixel scale with more colors than the 8-bit core, closer to 16-bit console art.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "OpenGameArt describes these as “the base assets from the 2012 Liberated Pixel Cup competition” and lists the license as CC-BY-SA 3.0. [OpenGameArt](https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles).",
+    "The attribution instructions say that the images are copyright their authors as listed in CREDITS.TXT, and that the assets by Lanea Zimmerman and Stephen Challener are also available under OGA-BY 3.0. [OpenGameArt](https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles).",
+    "CREDITS.TXT gives the base tileset (including `house.png`) and much style-guide work to Lanea Zimmerman, the character templates (walk, hurt, slash, and spellcast sheets) to Stephen Challener, and the monsters to Charles Sanchez."
+  ],
+  "observed": [
+    "Four rows of nine frames: the figure walks away, to the left, toward the viewer, and to the right.",
+    "Each figure is about 32 pixels tall with a one-pixel dark brown outline, not black.",
+    "Skin is shaded in three or four flat steps of peach and brown, with one pale highlight on the head. There is no gradient or anti-aliasing to the background.",
+    "The side views swing the legs and arms between frames. The front and back views change only a few pixels per frame.",
+    "The house tiles in the page preview use red brick, gray stone, and wood in the same flat-step shading, seen from a high three-quarter view."
+  ],
+  "interpretation": [
+    "The base assets show the 16-bit end of the style: more colors per sprite and colored outlines, but still whole square pixels, hand placement, and a frame-by-frame walk.",
+    "A shared style guide let many artists produce compatible sprites, which shows how a fixed grid and palette make pixel art a system."
+  ],
+  "borrow": [
+    "Outline sprites with a dark shade of their own color, not pure black.",
+    "Animate a character with a short cycle of frames on a fixed cell, with no tweening."
+  ],
+  "images": [
+    {
+      "file": "assets/references/liberated-pixel-cup-base-assets-2012.png",
+      "alt": "Sprite sheet of a bald base character walking in four directions, four rows of nine frames, in peach skin tones with dark brown outlines on white.",
+      "width": 1152,
+      "height": 512,
+      "kind": "source-image",
+      "caption": "Stephen Challener (Redshrike), male walk cycle from the Liberated Pixel Cup base assets, [OpenGameArt](https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles), CC BY-SA 3.0. Transparent ground filled with white, enlarged 2× with nearest-neighbor scaling, saved as PNG.",
+      "original": "https://opengameart.org/sites/default/files/lpc_base_assets.zip",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-3.0",
+    "statement": "OpenGameArt lists CC-BY-SA 3.0. “Images are copyright their respective authors, as listed in CREDITS.TXT.” The walk cycle by Stephen Challener is also available under OGA-BY 3.0. The modified copy here (white ground, enlargement) is shared under the same license."
+  }
+}

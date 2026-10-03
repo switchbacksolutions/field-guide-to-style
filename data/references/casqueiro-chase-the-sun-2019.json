@@ -1,0 +1,73 @@
+{
+  "id": "casqueiro-chase-the-sun-2019",
+  "title": "Chase The Sun (G. Casqueiro)",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A frame from a short Blender animation: a cyan neon wireframe valley runs toward a glowing yellow sun under a violet-to-magenta sky.",
+  "summary": "Cyan neon wireframe valley and peaks, yellow sun, violet-magenta sky. Blender animation, 2019.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Chase_The_Sun.webm",
+    "label": "Wikimedia Commons: Chase The Sun.webm"
+  },
+  "creator": {
+    "name": "G. Casqueiro",
+    "url": "https://vimeo.com/gcasqueiro"
+  },
+  "made": "2019-02-07 (date given on Commons)",
+  "moods": [
+    "energetic",
+    "nocturnal",
+    "retrofuturist"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1920 × 1080 still [Synthwave cyberspace sunset (low res).jpg](https://commons.wikimedia.org/wiki/File:Synthwave_cyberspace_sunset_(low_res).jpg), a frame of the video, and stored a reduced copy. The video itself was not played."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "synthwave",
+      "note": "The Outrun landscape in motion: a glowing wireframe floor and peaks that lead to a sun on the horizon, under a violet and magenta sky.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The author describes it as a “First animation test with Blender 2.8 Beta and Eevee”, made by following a Ducky 3D tutorial, with the music “Mt Fuji” by Timecrawler 82 (CC BY 3.0). [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chase_The_Sun.webm).",
+    "The video comes from [Vimeo 315911655](https://vimeo.com/315911655). A Commons reviewer confirmed the CC BY-SA 3.0 license on Vimeo on 10 December 2019. Commons files both the video and the still under Category:Synthwave."
+  ],
+  "observed": [
+    "The sky shades from deep indigo at the upper left through magenta to a pale lilac at the upper right.",
+    "A large yellow sun, half hidden, sits at the centre of the horizon with a pink halo.",
+    "A cyan wireframe of low-polygon facets fills the lower two thirds: a flat valley floor in the centre and sharp peaks on both sides. Every edge glows.",
+    "The valley converges on the sun, and the glow turns almost white near the horizon. There is no text, car, or palm tree."
+  ],
+  "interpretation": [
+    "It shows the symmetrical horizon composition and the glow surface of the style with nothing else. Cyan, not magenta, carries the grid here, so it is a useful counterpart to the magenta grids of [the j4p4n banner](ref:j4p4n-synthwave-banner-2018)."
+  ],
+  "borrow": [
+    "Center the vanishing point on the sun and let the grid glow brighten toward the horizon.",
+    "Frame a central path with jagged wireframe peaks on both sides to make a symmetrical hero."
+  ],
+  "images": [
+    {
+      "file": "assets/references/casqueiro-chase-the-sun-2019.jpg",
+      "alt": "3D render: a cyan glowing wireframe valley with sharp peaks on both sides leads to a yellow sun on the horizon, under a sky that shades from indigo to magenta and lilac.",
+      "width": 1600,
+      "height": 900,
+      "kind": "source-image",
+      "caption": "Frame of *Chase The Sun* by G. Casqueiro, 2019. CC BY-SA 3.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Synthwave_cyberspace_sunset_(low_res).jpg), from [Vimeo](https://vimeo.com/315911655).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Synthwave_cyberspace_sunset_%28low_res%29.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-3.0",
+    "statement": "Published by the author under CC BY-SA 3.0 on Vimeo; license reviewed on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Chase_The_Sun.webm) on 10 December 2019. Credit: G. Casqueiro."
+  },
+  "identifiers": {
+    "commons": "File:Synthwave cyberspace sunset (low res).jpg",
+    "vimeo": "315911655"
+  }
+}

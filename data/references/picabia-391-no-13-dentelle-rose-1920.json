@@ -1,0 +1,75 @@
+{
+  "id": "picabia-391-no-13-dentelle-rose-1920",
+  "title": "391, no. 13: “Ce numéro est entouré d’une dentelle rose”, 1920",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "Francis Picabia opens an issue of his Paris Dada magazine 391 with a mock machine drawing whose parts carry hand-lettered phrases at several angles.",
+  "summary": "A line drawing of wheels and a crank with hand-lettered captions at several angles, a roman headline, and large serif 3 9 1. Picabia, Paris, 1920.",
+  "source": {
+    "url": "http://gallica.bnf.fr/ark:/12148/bpt6k891104w/f9.image",
+    "label": "Gallica, Bibliothèque nationale de France: 391, no. 13, July 1920"
+  },
+  "creator": {
+    "name": "Francis Picabia",
+    "url": "https://en.wikipedia.org/wiki/Francis_Picabia"
+  },
+  "made": "July 1920",
+  "moods": [
+    "ironic",
+    "irreverent",
+    "mechanical"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons copy of the Gallica scan ([Commons](https://commons.wikimedia.org/wiki/File:Francis_Picabia,_391,_n._13,_July_1920.jpg), 906 × 1337 px original; the stored 960 px Commons thumbnail is slightly upscaled). The physical copy is the BnF copy digitized on Gallica, ark bpt6k891104w, view f9. The Gallica page itself was not opened."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "dada",
+      "note": "A page from Picabia’s Dada magazine: mock-technical drawing, phrases at several angles, and unrelated roman, Didone, and hand-lettered type. Partial fit: no photomontage and no second color.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons records the page as *Ce numéro est entouré d’une dentelle rose*, from *391*, no. 13, July 1920, taken from Gallica (BnF), with the license PD-old-auto-expired (death year 1953). [Commons](https://commons.wikimedia.org/wiki/File:Francis_Picabia,_391,_n._13,_July_1920.jpg).",
+    "Picabia published *391* from 1917 to 1924, in Barcelona, New York, Zürich, and Paris. [Wikipedia: 391 (magazine)](https://en.wikipedia.org/wiki/391_(magazine))."
+  ],
+  "observed": [
+    "The headline “Ce numéro est entouré d’une dentelle rose.” (This issue is surrounded by pink lace) is set in a light roman at the top.",
+    "A drawing in thin and heavy black lines shows circles, a crank-shaped bar, dashed circles, and a circle with a slash, like a parody of a machine diagram.",
+    "Hand-lettered capitals follow the lines of the drawing: “LA PEINTURE EST FAITE POUR LES DENTISTES” runs vertically, “FAR-NIENTE BEAU PARTI” runs horizontally, and “LA COULEUR DE LA LUNE” runs along the diagonal bar.",
+    "A block of hand-lettered capitals runs vertically at the right: “Vraiment cela m’est impossible de faire paraître ‘Cannibale’ régulièrement, c’est trop idiot. J’espère que vous accepterez pour cette fois ‘391’.”",
+    "“FRANCIS PICABIA.” is set in small roman capitals. The title “3 9 1” is set at the foot in very large, widely spaced high-contrast Didone numerals.",
+    "The paper is plain off-white, with folds, a round library stamp at the bottom, and pencil notes at top right. Only black ink is used."
+  ],
+  "interpretation": [
+    "The page shows the Paris branch of Dada: the disorder comes from the joke machine and the angled phrases, not from a case of mixed type. The huge Didone numerals against the hand lettering give the clash of faces."
+  ],
+  "borrow": [
+    "Let short labels follow the lines of a drawing, so the text turns with the shapes.",
+    "Set a short title in very large, widely spaced Didone numerals at the foot of the page."
+  ],
+  "images": [
+    {
+      "file": "assets/references/picabia-391-no-13-dentelle-rose-1920.jpg",
+      "alt": "Magazine page with a line drawing of circles, a crank-shaped bar, and a slashed circle, hand-lettered French phrases running along its lines and vertically at the right, a roman headline at the top, and large serif numerals 3 9 1 at the foot.",
+      "width": 960,
+      "height": 1417,
+      "kind": "source-image",
+      "caption": "Francis Picabia, page from *391*, no. 13, July 1920. Bibliothèque nationale de France, [Gallica](http://gallica.bnf.fr/ark:/12148/bpt6k891104w/f9.image), via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Francis_Picabia,_391,_n._13,_July_1920.jpg), PD-old-auto-expired.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/86/Francis_Picabia%2C_391%2C_n._13%2C_July_1920.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons tags the image PD-old-auto-expired (death year 1953). Picabia, a French author, died in 1953, so the 70-year term ended at the end of 2023. French wartime extensions do not lengthen it, because 50 years plus the extensions ends before 2023. The page was published in 1920, so it is public domain in the United States."
+  },
+  "identifiers": {
+    "gallica": "ark:/12148/bpt6k891104w",
+    "commons": "File:Francis Picabia, 391, n. 13, July 1920.jpg"
+  }
+}

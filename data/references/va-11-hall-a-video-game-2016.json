@@ -1,0 +1,67 @@
+{
+  "id": "va-11-hall-a-video-game-2016",
+  "title": "VA-11 Hall-A: Cyberpunk Bartender Action",
+  "type": "product",
+  "medium": "software",
+  "lede": "Sukeban Games’s bartending visual novel: pixel-art characters in a neon-lit bar in Glitch City, framed by a screen of dark, outlined interface panels.",
+  "summary": "Pixel art in magenta, violet, and cyan, with monospace dialogue in framed dark panels. Sukeban Games, Venezuela, 2016.",
+  "source": {
+    "url": "https://store.steampowered.com/app/447530/VA11_HallA_Cyberpunk_Bartender_Action/",
+    "label": "Steam: VA-11 Hall-A: Cyberpunk Bartender Action"
+  },
+  "creator": {
+    "name": "Sukeban Games"
+  },
+  "made": "2016 (released 21 June 2016 for Windows, macOS, and Linux)",
+  "moods": [
+    "nocturnal",
+    "melancholy",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected eight 1920 × 1080 px screenshots from the Steam store listing (app 447530) in a scratch folder. The observations come from the two bar screenshots with the drink-mixing panel."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "cyberpunk",
+      "note": "Partial fit: a cyberpunk interface in pixel art. It has the dark ground, magenta and cyan neon, framed panels, and monospace text, but its tone is warmer and more comic than dystopian.",
+      "basis": "agent"
+    },
+    {
+      "id": "pixel-art",
+      "note": "Clear: the whole game is drawn in coarse pixel art, with framed dialogue panels and bitmap-style type.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: “VA-11 Hall-A: Cyberpunk Bartender Action … is a 2016 visual novel developed by Venezuelan studio Sukeban Games and published by Ysbryd Games.” It was first released for Windows, OS X, and Linux on 21 June 2016. [Wikipedia](https://en.wikipedia.org/wiki/VA-11_Hall-A).",
+    "Wikipedia: “The game features a retro-futuristic look based on cyberpunk media, PC-98 games, and anime-inspired visuals.” Corruption and food shortages “run rampant” in Glitch City, where the bar is. [Wikipedia](https://en.wikipedia.org/wiki/VA-11_Hall-A)."
+  ],
+  "observed": [
+    "The screen is a frame of near-black and dark violet panels with thin outlines and small notches along the top edge.",
+    "The left panel shows the bar in pixel art: magenta and violet walls, a blue neon logo reading “KIRIRIN Light”, a pink neon bottle, and two round cyan-and-red gauges.",
+    "At top right, “Cyberpunk Bartender Action” in thin pink type sits above “VA-11 HALL-A” in heavy italic pink capitals.",
+    "The mixing panel is a grid of outlined cells labelled “Adelhyde”, “Bronson Ext”, “Pwd Delta”, “Flanergide”, and “Karmotrine” in a monospace pixel font, with gray beveled buttons “Reset”, “Mix”, “Slot 1”, and “Slot 2”.",
+    "Dialogue appears in a black box at the bottom, with the speaker’s name in magenta or blue (“Dorothy:”, “Jill:”) and the text in white monospace."
+  ],
+  "interpretation": [
+    "The game reduces the style to a few interface rules (dark panels, outlined cells, monospace labels, neon accents) and shows that they work at a low resolution.",
+    "Its beveled gray buttons and anime characters pull it toward [pixel art](style:pixel-art) and away from the strict HUD look."
+  ],
+  "borrow": [
+    "Color the speaker’s name, not the message, when you put dialogue or log lines in neon on black.",
+    "Lay out controls as a grid of outlined cells, each with a short monospace label."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The game and its screenshots belong to Sukeban Games and its publishers. The screenshots were viewed on the Steam store page only."
+  },
+  "identifiers": {
+    "wikidata": "Q24574609",
+    "steam": "447530"
+  }
+}

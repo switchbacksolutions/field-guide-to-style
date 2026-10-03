@@ -1,0 +1,74 @@
+{
+  "id": "mcdonalds-downey-1953",
+  "title": "McDonald’s, Downey, California",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "The oldest surviving McDonald’s, opened in 1953 to Stanley Clark Meston’s standard design: two yellow arches pierce a roof slab that slopes down toward the street.",
+  "summary": "Two yellow sheet-metal arches through a sloped roof slab over a glass walk-up stand. Stanley Clark Meston, Downey, 1953.",
+  "source": {
+    "url": "https://www.loc.gov/item/2017709079/",
+    "label": "Library of Congress: John Margolies, McDonald’s, Downey, California, 1985"
+  },
+  "creator": {
+    "name": "Stanley Clark Meston (standard design)",
+    "url": "https://en.wikipedia.org/wiki/Stanley_Clark_Meston"
+  },
+  "made": "Opened 18 August 1953 (Wikipedia); photographed 1985",
+  "moods": [
+    "roadside",
+    "optimistic",
+    "bold"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected John Margolies’s 1985 color slide, Library of Congress LC-MA05-6987, 1024 × 703 px. Also inspected his 1985 detail of the roadside sign (LC-MA05-1501) in a scratchpad; it is not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "googie",
+      "note": "Wikipedia names this stand as a preserved Googie example; the arches are pure sign, and the roof slab slopes at an angle.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The stand at 10207 Lakewood Boulevard opened on 18 August 1953. It is the third McDonald’s outlet and keeps the original Golden Arches facade. Franchisees of the McDonald brothers had to use Stanley Clark Meston’s design. With its sign it was found eligible for the National Register of Historic Places in 1984. [Wikipedia: Oldest McDonald’s restaurant](https://en.wikipedia.org/wiki/Oldest_McDonald%27s_restaurant).",
+    "The Googie article names the Downey stand as a preserved example of the style. [Wikipedia: Googie architecture](https://en.wikipedia.org/wiki/Googie_architecture)."
+  ],
+  "observed": [
+    "A tall parabolic arch of yellow sheet metal, outlined with several parallel tubes along its length, rises from one end of the roof and lands at the other.",
+    "A second arch shows behind it, at the far side of the roof.",
+    "A band of yellow tubes runs along the roof edge, and a thick white roof slab slopes down from right to left over a glass front.",
+    "Yellow wedge-shaped panels end the roof at both corners; a wall at left has red and white horizontal stripes.",
+    "The ground is clear blue sky with white cloud; the palette is yellow, white, red, and blue."
+  ],
+  "interpretation": [
+    "The arches carry no load: they are a sign built into the building, which Googie made into a rule. The parallel tubes along them look like lighting tubes, but this daytime photograph does not show them lit."
+  ],
+  "borrow": [
+    "Put one bold parabolic arc across a header, outlined with two or three parallel lines.",
+    "Slope the main panel down at an angle and end it with a wedge in the accent color."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mcdonalds-downey-1953.jpg",
+      "alt": "Color photograph of a yellow arch outlined with parallel tubes rising over a sloped white roof slab, with a second arch behind it, blue sky, and a glass storefront below.",
+      "width": 1024,
+      "height": 703,
+      "kind": "photograph",
+      "caption": "John Margolies, McDonald’s, Downey, California, 1985. John Margolies Roadside America photograph archive, [Library of Congress](https://www.loc.gov/item/2017709079/). A small neighboring shop sign at lower right is incidental.",
+      "original": "https://tile.loc.gov/storage-services/service/pnp/mrg/06900/06987v.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Library of Congress rights advisory: “No known restrictions on publication.” The Library acquired the rights to the Margolies photographs with the archive. The building was finished in 1953 in the United States, before December 1990, so it is not protected as an architectural work. The arches are a McDonald’s trademark; this record uses them only for commentary."
+  },
+  "identifiers": {
+    "wikidata": "Q7085574",
+    "loc": "2017709079"
+  }
+}

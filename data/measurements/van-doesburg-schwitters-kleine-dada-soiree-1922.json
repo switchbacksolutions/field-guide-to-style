@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/van-doesburg-schwitters-kleine-dada-soiree-1922.jpg",
+  "captured": "2026-10-03T00:45:45+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#edd5b2",
+        "share": 0.333
+      },
+      {
+        "hex": "#2e2e2e",
+        "share": 0.212
+      },
+      {
+        "hex": "#d94325",
+        "share": 0.193
+      },
+      {
+        "hex": "#c6482e",
+        "share": 0.022
+      },
+      {
+        "hex": "#d3c5aa",
+        "share": 0.02
+      },
+      {
+        "hex": "#fcf9e5",
+        "share": 0.019
+      },
+      {
+        "hex": "#4b463e",
+        "share": 0.018
+      },
+      {
+        "hex": "#bfb29b",
+        "share": 0.017
+      },
+      {
+        "hex": "#7a7163",
+        "share": 0.017
+      },
+      {
+        "hex": "#615a50",
+        "share": 0.017
+      }
+    ],
+    "background": "#edd5b2",
+    "chroma": 0.27,
+    "lightness": 0.55,
+    "chromaticShare": 0.27,
+    "accentChroma": 0.64,
+    "distinct": 5,
+    "hues": 1
+  }
+}

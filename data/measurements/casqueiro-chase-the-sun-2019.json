@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/casqueiro-chase-the-sun-2019.jpg",
+  "captured": "2026-10-03T00:33:14+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#0fb4e3",
+        "share": 0.058
+      },
+      {
+        "hex": "#0ea3d9",
+        "share": 0.056
+      },
+      {
+        "hex": "#23006e",
+        "share": 0.052
+      },
+      {
+        "hex": "#11c6ed",
+        "share": 0.05
+      },
+      {
+        "hex": "#0c8fcb",
+        "share": 0.049
+      },
+      {
+        "hex": "#33e9f3",
+        "share": 0.043
+      },
+      {
+        "hex": "#4ff2f6",
+        "share": 0.04
+      },
+      {
+        "hex": "#71f6f9",
+        "share": 0.039
+      },
+      {
+        "hex": "#72128e",
+        "share": 0.038
+      },
+      {
+        "hex": "#8b2a9c",
+        "share": 0.037
+      }
+    ],
+    "background": "#0fb4e3",
+    "chroma": 0.55,
+    "lightness": 0.54,
+    "chromaticShare": 0.85,
+    "accentChroma": 0.62,
+    "distinct": 25,
+    "hues": 6
+  }
+}

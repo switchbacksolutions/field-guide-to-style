@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/commando-jugendstil-oil-platform-village.jpg",
+  "captured": "2026-10-03T00:34:57+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#4f89df",
+        "share": 0.109
+      },
+      {
+        "hex": "#1b4889",
+        "share": 0.098
+      },
+      {
+        "hex": "#23549e",
+        "share": 0.079
+      },
+      {
+        "hex": "#5e93e4",
+        "share": 0.049
+      },
+      {
+        "hex": "#397dd8",
+        "share": 0.045
+      },
+      {
+        "hex": "#719fe9",
+        "share": 0.044
+      },
+      {
+        "hex": "#153e7b",
+        "share": 0.035
+      },
+      {
+        "hex": "#a7b3c1",
+        "share": 0.034
+      },
+      {
+        "hex": "#8c9caa",
+        "share": 0.034
+      },
+      {
+        "hex": "#d0dcf2",
+        "share": 0.032
+      }
+    ],
+    "background": "#4f89df",
+    "chroma": 0.34,
+    "lightness": 0.53,
+    "chromaticShare": 0.58,
+    "accentChroma": 0.48,
+    "distinct": 23,
+    "hues": 3
+  }
+}

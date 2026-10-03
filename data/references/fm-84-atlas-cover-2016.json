@@ -1,0 +1,62 @@
+{
+  "id": "fm-84-atlas-cover-2016",
+  "title": "FM-84, Atlas (album cover)",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "James White’s cover for FM-84’s 2016 album: one huge striped sun, yellow at the top and magenta at the bottom, above a band of neon horizon lines on a starry night.",
+  "summary": "A striped yellow-to-magenta sun on a starry navy sky, neon horizon lines below. James White, 2016.",
+  "source": {
+    "url": "https://dribbble.com/shots/7047714-FM-84-Atlas",
+    "label": "Dribbble: FM-84: Atlas by James White"
+  },
+  "creator": {
+    "name": "James White (Signalnoise)",
+    "url": "https://signalnoise.com/"
+  },
+  "made": "Released 25 April 2016 (Discogs)",
+  "moods": [
+    "nostalgic",
+    "nocturnal",
+    "warm"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the 1200 px front-cover image from the [Cover Art Archive](https://musicbrainz.org/release-group/77f48f84-3d95-4e57-aae0-2d0d80dc7626) in a scratch folder. Not stored. The artwork credit is from the [Discogs record of the 2016 self-released digital edition](https://www.discogs.com/release/11581585-FM-84-Atlas)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "synthwave",
+      "note": "The retrosun alone: a striped yellow-to-magenta disc on a navy starry sky, which is the motif in its most reduced, iconic form.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Discogs records *Atlas* as a self-released digital album of 25 April 2016, produced by Col Bennett, with artwork by James White. [Discogs](https://www.discogs.com/release/11581585-FM-84-Atlas).",
+    "James White, who works as Signalnoise, also made the key art for *Far Cry 3: Blood Dragon* ([record](ref:far-cry-3-blood-dragon-2013)) and the GUNSHIP cover ([record](ref:gunship-album-cover-2015))."
+  ],
+  "observed": [
+    "A sky of dark navy-violet with fine white and cyan stars and a soft grain fills the square.",
+    "A sun disc fills most of the frame. It shades from yellow at the top through orange and coral to hot magenta at the bottom, with a pink outer glow.",
+    "The upper half of the sun is solid. The lower half is cut by about ten horizontal dark bars, and the bars get thicker toward the bottom.",
+    "Under the sun, thin horizontal lines in pink, violet, and blue form a horizon band, like a reflection on water. There is no perspective grid.",
+    "“FM-84” sits small at the top left in a thin, wide white sans-serif."
+  ],
+  "interpretation": [
+    "The cover is the motif as a logo: one sun, one gradient, and one set of cuts. The bars that widen toward the bottom give the sun a sense of sinking into the horizon."
+  ],
+  "borrow": [
+    "Grade a sun from yellow to magenta from top to bottom, and cut only its lower half with bars that widen as they descend.",
+    "Keep the band name small and thin in a corner when the image is the logo."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The cover art is in copyright (James White / FM-84, 2016)."
+  },
+  "identifiers": {
+    "musicbrainz-release-group": "77f48f84-3d95-4e57-aae0-2d0d80dc7626",
+    "discogs-release": "11581585"
+  }
+}

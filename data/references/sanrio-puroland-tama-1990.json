@@ -1,0 +1,63 @@
+{
+  "id": "sanrio-puroland-tama-1990",
+  "title": "Sanrio Puroland",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Sanrio’s indoor theme park in Tama New Town, opened in 1990: a pastel castle front under a rainbow arch, built to house its characters.",
+  "summary": "Indoor character theme park with a lavender and pink facade, rainbow arch, and white spire. Tama, Tokyo, 1990.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Sanrio_Puroland",
+    "label": "Wikipedia: Sanrio Puroland"
+  },
+  "creator": {
+    "name": "Sanrio; Landmark Entertainment Group (conceptual design, per Wikipedia)"
+  },
+  "made": "1988–1990 (opened 7 December 1990)",
+  "moods": [
+    "sweet",
+    "cheerful",
+    "innocent"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected two exterior photographs by Kakidai on Wikimedia Commons in scratchpad copies at 1280 px: [2014](https://commons.wikimedia.org/wiki/File:Sanrio_Puroland.jpg) and [November 2024](https://commons.wikimedia.org/wiki/File:2024_Sanrio_Puroland_(1).jpg), both CC BY-SA 4.0. The interior was not inspected. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "kawaii",
+      "note": "Partial fit: the facade translates the palette into architecture (lavender, pink, rainbow, rounded domes), but the exterior shows no character faces.",
+      "basis": "agent",
+      "qualifier": "partial fit"
+    }
+  ],
+  "context": [
+    "Wikipedia gives the opening date as 7 December 1990, describes an indoor theme park in Tama, Tokyo, with attractions for Hello Kitty, My Melody, Cinnamoroll, Gudetama, and Aggretsuko, and says Landmark Entertainment Group was commissioned to design facilities in the conceptual phase. Construction began on 16 November 1988. [Wikipedia: Sanrio Puroland](https://en.wikipedia.org/wiki/Sanrio_Puroland).",
+    "Wikipedia reports more than 1.5 million visitors per year and calls the park “a bold attempt to challenge Disney and its theme parks”. [Wikipedia: Sanrio Puroland](https://en.wikipedia.org/wiki/Sanrio_Puroland)."
+  ],
+  "observed": [
+    "A large semicircular arch frames the entrance. Its outer band is a rainbow of pastel stripes divided by thin gold ribs.",
+    "Inside the arch, stylized trees in pale green and blue spread over a stained-glass-like screen; a white, scalloped sign reads “Sanrio Puroland” in red rounded letters.",
+    "A white spire with small turrets rises above the arch; small domes in pale yellow and blue, with round windows, stand on the wings.",
+    "The flanking walls are pale lavender with wavy lines of pink, mint, and yellow; the railings are pink with wavy lavender panels.",
+    "Four ticket kiosks have white pointed roofs; the 2024 photograph shows a pale pink dome to the left."
+  ],
+  "interpretation": [
+    "The park front applies the kawaii palette and the wavy, rounded line to a fairy-tale castle, a form borrowed from Western theme parks. The faces are kept for the interior and the characters.",
+    "It shows that the palette alone (pale lavender, pink, mint, rainbow) is enough to signal the style at the scale of a building."
+  ],
+  "borrow": [
+    "Run thin wavy lines in three pastels along a pale wall or a long horizontal band.",
+    "Frame an entrance or a hero with a large rainbow arch in pastel stripes."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Commons photographs are CC BY-SA 4.0 by Kakidai, but the 1990 building and its decoration are protected works. Japanese copyright law (Article 46) allows photographs of buildings; the lead curator can decide whether to upgrade."
+  },
+  "identifiers": {
+    "wikidata": "Q1133851",
+    "commons": "File:Sanrio Puroland.jpg"
+  }
+}

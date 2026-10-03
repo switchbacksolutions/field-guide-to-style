@@ -1,0 +1,73 @@
+{
+  "id": "shinjuku-ogado-rain-night-2020",
+  "title": "Shinjuku Ōgādo in the rain at night",
+  "type": "image",
+  "medium": "photograph",
+  "lede": "A panning long exposure of a Yamanote Line train crossing the Shinjuku Ōgādo railway bridge in the rain: blue-cyan streaks of light under a red illuminated billboard.",
+  "summary": "Cyan and blue motion streaks, a blurred train, and a red sign over a wet night street. Photograph by Kznrhsd, Shinjuku, Tokyo, 2020.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:%E9%9B%A8%E3%81%AE%E6%96%B0%E5%AE%BF%E5%A4%A7%E3%82%AC%E3%83%BC%E3%83%89.jpg",
+    "label": "Wikimedia Commons: 雨の新宿大ガード.jpg"
+  },
+  "creator": {
+    "name": "Kznrhsd"
+  },
+  "made": "25 September 2020",
+  "moods": [
+    "nocturnal",
+    "restless",
+    "cold"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Commons rendition at 1920 × 1371 px of the 4426 × 3161 px original. The Japanese description, “雨の新宿大ガードで山手線を流し撮り”, says it is a panning shot of the Yamanote Line at Shinjuku Ōgādo in the rain. The Commons categories include “Rain in Tokyo”, “Neon signs in Tokyo”, and “JR East E235-0”."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "cyberpunk",
+      "note": "Partial fit: a real rain-wet Tokyo night reduced to cold cyan light and horizontal streaks, close to the style’s scan-line and glitch motion. It has no HUD or terminal elements.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia’s [Cyberpunk article](https://en.wikipedia.org/wiki/Cyberpunk) quotes William Gibson: “Modern Japan simply was cyberpunk.” See also [Kabukichō in a rainstorm](ref:kabukicho-rainstorm-night-2024) in the same district.",
+    "The Ōgādo is the railway bridge that carries the JR lines over Ōme Kaidō at Shinjuku. The Commons category for this view is “Views of Omekaido Overbridge from the Shinjukuogado-W. Intersection at night”. [Commons](https://commons.wikimedia.org/wiki/File:%E9%9B%A8%E3%81%AE%E6%96%B0%E5%AE%BF%E5%A4%A7%E3%82%AC%E3%83%BC%E3%83%89.jpg)."
+  ],
+  "observed": [
+    "Almost the whole frame is a cold cyan to steel blue. Only a red illuminated billboard at top center and small orange and pink lights break it.",
+    "A silver-and-green commuter train crosses the bridge in the middle third. It is sharper than everything else because the camera followed it.",
+    "Buildings, cars, a cyclist, and pedestrians are smeared into horizontal streaks.",
+    "Bright horizontal bars of white light repeat across the frame, like scan lines.",
+    "The wet road in the lower half reflects pink and white lights as soft vertical smears."
+  ],
+  "interpretation": [
+    "The motion blur makes the city look like an unstable display: horizontal streaks and doubled edges, as in the style’s glitch and scan-line effects.",
+    "The near-monochrome cyan with one red accent is a working two-color version of the style’s palette."
+  ],
+  "borrow": [
+    "Use one cold cyan field with a single red accent for the most important element.",
+    "Suggest motion or interference with horizontal light streaks, in small areas only."
+  ],
+  "images": [
+    {
+      "file": "assets/references/shinjuku-ogado-rain-night-2020.jpg",
+      "alt": "A blurred night scene in cyan and blue: a train crosses a railway bridge, buildings and cars smear into horizontal streaks, a red billboard glows at top, and a wet road reflects pink light.",
+      "width": 1600,
+      "height": 1143,
+      "kind": "photograph",
+      "caption": "Yamanote Line train at Shinjuku Ōgādo in the rain, 25 September 2020. Photograph by Kznrhsd, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E9%9B%A8%E3%81%AE%E6%96%B0%E5%AE%BF%E5%A4%A7%E3%82%AC%E3%83%BC%E3%83%89.jpg), CC0. The billboard text is blurred and incidental.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8a/%E9%9B%A8%E3%81%AE%E6%96%B0%E5%AE%BF%E5%A4%A7%E3%82%AC%E3%83%BC%E3%83%89.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "Photograph by Kznrhsd, “Own work”, dedicated to the public domain under CC0 1.0 on Wikimedia Commons. The subject is a street, a railway bridge, and a train. Billboards appear blurred and incidental."
+  },
+  "identifiers": {
+    "commons": "File:雨の新宿大ガード.jpg"
+  }
+}

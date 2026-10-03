@@ -1,0 +1,60 @@
+{
+  "id": "hello-kitty-toaster-sanyo-1998",
+  "title": "Hello Kitty toaster",
+  "type": "product",
+  "medium": "product",
+  "lede": "A two-slice Sanyo toaster in pale pink, with Hello Kitty’s face and a script logo on its side: a kitchen appliance turned into character goods.",
+  "summary": "Pale-pink two-slice toaster with a Hello Kitty face and script logo on a stacked pink base. Sanyo, Japan, 1998.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1322385/toaster/",
+    "label": "V&A: Toaster, showing Hello Kitty, FE.21-2015"
+  },
+  "creator": {
+    "name": "Sanyo Denki (manufacturer); Hello Kitty character by Sanrio"
+  },
+  "made": "1998",
+  "moods": [
+    "cute",
+    "sweet",
+    "gentle"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A photograph 2015HW1063 of object FE.21-2015 (1200 × 900 px, IIIF) in a scratchpad copy. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "kawaii",
+      "note": "A household appliance in pale pink with a soft, rounded body and the face of Kitty with dot eyes, the core of Japanese character goods.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes the toaster as “plastic and metal; electrical components, manufactured by Sanyo Denki, Japan, 1998”, and acquired it with a Hello Kitty kettle and rice cooker in 2015. [V&A FE.21-2015](https://collections.vam.ac.uk/item/O1322385/toaster/).",
+    "The museum calls Hello Kitty “the ultimate symbol of Japanese cute”, launched by Sanrio in 1974 for pre-adolescent girls and later used on domestic appliances such as kettles, toasters, and rice cookers. [V&A FE.21-2015](https://collections.vam.ac.uk/item/O1322385/toaster/)."
+  ],
+  "observed": [
+    "The body is a rounded box in pale, slightly glossy pink, with a chrome top around two bread slots.",
+    "On the side, a Kitty head in white with a hot-pink fuzzy outline, a pink flower at one ear, black dot eyes, whiskers, and a yellow nose, sits under the words “Hello Kitty” in a pink script.",
+    "The base is three stacked bands of a stronger pink with rounded ends; the lever and the browning knob are pink too.",
+    "The Sanyo name is printed small and pale below the face. There are no other markings."
+  ],
+  "interpretation": [
+    "The toaster shows kawaii as a surface applied to an ordinary product: the form stays a standard toaster, and color plus one small character face carry the style.",
+    "Pink is used in two tones, pale for the body and stronger for the base and controls, so the object stays soft without becoming one flat color."
+  ],
+  "borrow": [
+    "Put one small character face on a large plain pastel surface, with the name in a rounded script above it.",
+    "Use a pale tint for the main surface and a stronger tint of the same hue for controls and edges."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is © Victoria and Albert Museum, London. The Hello Kitty character and marks belong to Sanrio."
+  },
+  "identifiers": {
+    "vam": "O1322385"
+  }
+}

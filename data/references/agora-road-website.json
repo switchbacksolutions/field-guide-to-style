@@ -25,6 +25,12 @@
       "id": "vaporwave",
       "note": "Clear: a community site for the genre that uses its signature device, bevelled Windows 95 windows, in a lavender palette with a pixel-art figure. Its window chrome is real CSS, so it passes the shadow and radius metrics.",
       "basis": "agent"
+    },
+    {
+      "id": "pixel-art",
+      "note": "Partial fit: a pixel-font menu bar, pixel icons, and a dithered pixel figure, inside a vaporwave collage.",
+      "basis": "agent",
+      "qualifier": "partial fit"
     }
   ],
   "observed": [

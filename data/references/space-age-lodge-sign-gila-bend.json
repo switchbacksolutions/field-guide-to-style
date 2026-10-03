@@ -1,0 +1,62 @@
+{
+  "id": "space-age-lodge-sign-gila-bend",
+  "title": "Space Age Lodge sign, Gila Bend",
+  "type": "object",
+  "medium": "signage",
+  "lede": "The roadside sign of a 1960s desert motel: a tilted flying-saucer disc with the lodge’s name in blue capitals around its rim, under a later chain-hotel panel.",
+  "summary": "A tilted flying-saucer disc sign with red portholes and blue capitals, beside a space-age motel lobby. Gila Bend, Arizona, photographed 2003.",
+  "source": {
+    "url": "https://www.loc.gov/item/2017703537/",
+    "label": "Library of Congress: John Margolies, Space Age Lodge sign, Gila Bend, Arizona, 2003"
+  },
+  "creator": {
+    "name": "Al Stovall (owner and developer, per Roadside America)"
+  },
+  "made": "Motel opened 1963 or 1965, sources differ; photographed 2003",
+  "moods": [
+    "roadside",
+    "futuristic",
+    "playful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected John Margolies’s 2003 color slide, Library of Congress LC-MA05-1423, 704 × 1024 px, in a scratchpad. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "googie",
+      "note": "A flying saucer as a roadside sign, one of the space-age symbols the style uses as ornament.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Roadside America reports that Al Stovall built the lodge and that his plastics factory made its space-age decorations. It gives the opening as 1963 in one account and 1965 in another (from the restaurant menu), and says three satellite replicas on the roof were replaced by a flying saucer in a 1969 renovation. [Roadside America](https://www.roadsideamerica.com/story/15079).",
+    "The Library of Congress record gives only the title and the date of the photograph. [Library of Congress](https://www.loc.gov/item/2017703537/)."
+  ],
+  "observed": [
+    "A large disc, tilted up to the right, shows a flying saucer from below: a pale dome ringed with red portholes, gray radiating panels, and a rim of small bulbs.",
+    "“SPACE AGE LODGE” runs around the lower rim of the disc in heavy blue capitals that follow the curve.",
+    "Above it, a separate shield-shaped Best Western panel in navy and gold carries “SPACE AGE LODGE” in white serif capitals; this is later chain branding.",
+    "Below, rectangular reader boards list rooms, cable TV, a coffee shop, and a salad bar in black and red capitals.",
+    "At left, the lobby has a domed cylinder on top and a blue steel space frame with slanted struts.",
+    "The ground is an even, deep blue desert sky."
+  ],
+  "interpretation": [
+    "The tilted disc is a Googie habit: the sign is not a rectangle but a symbol of the future, set at an angle so it seems to fly.",
+    "The serif chain panel above shows how later branding sits on top of the original sign without its energy."
+  ],
+  "borrow": [
+    "Set a name around the curve of a disc or ellipse, and tilt the whole badge a few degrees.",
+    "Edge a badge with a row of small dots, like sign bulbs."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Margolies photograph has “No known restrictions on publication” (Library of Congress), but the sign is the main subject, its designer and date are not documented, and the photograph also shows the Best Western trademark."
+  },
+  "identifiers": {
+    "loc": "2017703537"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/portland-street-neon-signs-2025.jpg",
+  "captured": "2026-10-03T00:34:25+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#130607",
+        "share": 0.527
+      },
+      {
+        "hex": "#260709",
+        "share": 0.136
+      },
+      {
+        "hex": "#470a0a",
+        "share": 0.047
+      },
+      {
+        "hex": "#5b0a0c",
+        "share": 0.038
+      },
+      {
+        "hex": "#261718",
+        "share": 0.032
+      },
+      {
+        "hex": "#730a0a",
+        "share": 0.03
+      },
+      {
+        "hex": "#8d0a08",
+        "share": 0.028
+      },
+      {
+        "hex": "#c66849",
+        "share": 0.018
+      },
+      {
+        "hex": "#dd8f47",
+        "share": 0.017
+      },
+      {
+        "hex": "#b30a08",
+        "share": 0.017
+      }
+    ],
+    "background": "#130607",
+    "chroma": 0.16,
+    "lightness": 0.15,
+    "chromaticShare": 0.19,
+    "accentChroma": 0.51,
+    "distinct": 7,
+    "hues": 3
+  }
+}

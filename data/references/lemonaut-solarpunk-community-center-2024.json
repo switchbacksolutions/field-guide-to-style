@@ -1,0 +1,72 @@
+{
+  "id": "lemonaut-solarpunk-community-center-2024",
+  "title": "Solarpunk community center",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A miners’ memorial statue holds a wind turbine in front of a community centre that retrains miners as turbine technicians.",
+  "summary": "Bronze miners with a wind turbine before a solar-fitted community centre, in clear daylight. The.lemonaut.ukr, 2024.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Solarpunk_community_center.png",
+    "label": "Wikimedia Commons: File:Solarpunk community center.png"
+  },
+  "creator": {
+    "name": "The.lemonaut.ukr",
+    "url": "https://commons.wikimedia.org/wiki/User:The.lemonaut.ukr"
+  },
+  "made": "2024",
+  "moods": [
+    "hopeful",
+    "communal",
+    "sunlit"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Commons file (original 2284 × 2823 px PNG, viewed at 1295 × 1600 px)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "solarpunk",
+      "note": "A solarpunk scene about a just transition: a turbine, solar panels, a public building, and a blue sky. Partial fit: the palette is warm orange and bronze more than leaf green.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The uploader describes it as a digital illustration of a solarpunk community centre that provides re-specialization for miners so that they can become wind turbine technicians. It is dated 5 July 2024. [Commons file page](https://commons.wikimedia.org/wiki/File:Solarpunk_community_center.png)."
+  ],
+  "observed": [
+    "In the foreground, a bronze statue of a miner in a helmet and harness pulls a second miner out of a manhole. The standing figure holds a small three-bladed wind turbine like a staff, and a pickaxe lies on the ground.",
+    "A girl in an orange coat with a yellow helmet and a paper in her hand looks at the statue.",
+    "Behind, a building with orange, cream, and glass blocks carries the sign “COMMUNITY CE…”, small solar panels on brackets, and a hedge of flowering shrubs.",
+    "At left, an older brick hall has round-arched windows, and a tree has pale violet blossom.",
+    "The sky is light blue with soft white clouds. Thin dark outlines, flat colour, and a visible grain texture."
+  ],
+  "interpretation": [
+    "The scene puts the politics of solarpunk (a fair transition for workers) into a civic square. Old labour and new energy share one monument.",
+    "The palette leans orange and bronze, so the image is a partial fit to the green, blue, and gold grammar. The blue sky and the visible renewables keep it in the style."
+  ],
+  "borrow": [
+    "Combine a familiar civic form (a monument, a town square) with renewable technology, so the change reads as continuity."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lemonaut-solarpunk-community-center-2024.jpg",
+      "alt": "Illustration of a town square: a bronze statue of one miner pulling another from a manhole while holding a wind turbine, a girl in an orange coat looking up at it, and a colourful community centre with solar panels behind.",
+      "width": 1295,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "The.lemonaut.ukr, “Solarpunk community center”, 2024. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solarpunk_community_center.png), CC BY 4.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/16/Solarpunk_community_center.png",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-4.0",
+    "statement": "Commons: self-published work by The.lemonaut.ukr, licensed CC BY 4.0. The statue is part of the illustration, not a real sculpture. Credit: The.lemonaut.ukr, via Wikimedia Commons."
+  },
+  "identifiers": {
+    "commons": "File:Solarpunk community center.png"
+  }
+}

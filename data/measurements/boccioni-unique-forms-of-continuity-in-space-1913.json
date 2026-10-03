@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/boccioni-unique-forms-of-continuity-in-space-1913.jpg",
+  "captured": "2026-10-03T01:02:36+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#e2a55a",
+        "share": 0.158
+      },
+      {
+        "hex": "#9e6f3a",
+        "share": 0.153
+      },
+      {
+        "hex": "#bd884a",
+        "share": 0.138
+      },
+      {
+        "hex": "#442d0a",
+        "share": 0.086
+      },
+      {
+        "hex": "#f0b364",
+        "share": 0.064
+      },
+      {
+        "hex": "#825d2f",
+        "share": 0.037
+      },
+      {
+        "hex": "#fbe0af",
+        "share": 0.035
+      },
+      {
+        "hex": "#d29248",
+        "share": 0.034
+      },
+      {
+        "hex": "#fef6c4",
+        "share": 0.033
+      },
+      {
+        "hex": "#332207",
+        "share": 0.032
+      }
+    ],
+    "background": "#e2a55a",
+    "chroma": 0.39,
+    "lightness": 0.49,
+    "chromaticShare": 0.72,
+    "accentChroma": 0.45,
+    "distinct": 16,
+    "hues": 1
+  }
+}

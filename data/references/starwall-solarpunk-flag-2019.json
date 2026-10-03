@@ -1,0 +1,73 @@
+{
+  "id": "starwall-solarpunk-flag-2019",
+  "title": "Solarpunk flag",
+  "type": "image",
+  "medium": "other",
+  "lede": "A green and yellow flag split on the diagonal, with a sun whose lower half is a gear: the most widely shared emblem of the solarpunk movement on Wikimedia Commons.",
+  "summary": "Diagonal green and yellow field with a counterchanged sun and half-gear. @Starwall@radical.town, 2019.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Solarpunk_Flag.jpg",
+    "label": "Wikimedia Commons: File:Solarpunk Flag.jpg"
+  },
+  "creator": {
+    "name": "@Starwall@radical.town (Commons user StarwallOfRadical.town)"
+  },
+  "made": "2019",
+  "moods": [
+    "hopeful",
+    "sunlit",
+    "emblematic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Commons file (original 5000 × 3000 px, viewed at 1600 × 960 px). The flag exists only as this digital file and its vector redraw, [File:Solarpunk Flag Vectorized Version.svg](https://commons.wikimedia.org/wiki/File:Solarpunk_Flag_Vectorized_Version.svg)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "solarpunk",
+      "note": "The movement’s own emblem: sun gold and leaf green, a sun with plant-like rays, and a gear for repaired, reclaimed technology.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The uploader’s description says the yellow stands for solar power, the green for sustainability, the half-gear for reclaiming technology for sustainable projects and infrastructure, and the sunbeams for hopefulness and futurism. [Commons file page](https://commons.wikimedia.org/wiki/File:Solarpunk_Flag.jpg).",
+    "Commons lists the file in [Category:Solarpunk unofficial flags](https://commons.wikimedia.org/wiki/Category:Solarpunk_unofficial_flags), with a blue-diagonal variant by the same author and several other community logos. No body has adopted an official flag."
+  ],
+  "observed": [
+    "A diagonal line runs from the lower left to the upper right. The upper left is a strong leaf green and the lower right is a warm sun yellow.",
+    "A circular sun sits at the centre. Its disc is counterchanged across the diagonal, yellow on the green half and green on the yellow half.",
+    "Seven curling, flame- or sprout-like rays rise from the upper half of the sun. The lower half has a ring of square gear teeth.",
+    "The colours are flat, with no outline, gradient, or shadow."
+  ],
+  "interpretation": [
+    "The flag compresses the style’s argument into one sign: half sun, half machine, with rays drawn like shoots. The curling rays are the only organic, Art Nouveau-like line in an otherwise geometric design.",
+    "Its two-colour palette is narrower than solarpunk illustration, which adds sky blue. The blue-diagonal variant on Commons adds that third family."
+  ],
+  "borrow": [
+    "Split a field on the diagonal and counterchange one central motif across it.",
+    "Draw the rays of a sun as curling shoots so that one shape reads as both energy and growth."
+  ],
+  "images": [
+    {
+      "file": "assets/references/starwall-solarpunk-flag-2019.jpg",
+      "alt": "Flag divided diagonally, green at upper left and yellow at lower right. In the centre a sun with curling rays on top and gear teeth on the bottom, its colours swapped across the diagonal.",
+      "width": 1600,
+      "height": 960,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Solarpunk flag by @Starwall@radical.town, 2019. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Solarpunk_Flag.jpg), CC BY-SA 4.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Solarpunk_Flag.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-4.0",
+    "statement": "Commons: “Own work” by @Starwall@radical.town, licensed CC BY-SA 4.0. The author licenses the design itself, so the depicted work is openly licensed. Credit: @Starwall@radical.town, via Wikimedia Commons."
+  },
+  "identifiers": {
+    "commons": "File:Solarpunk Flag.jpg"
+  }
+}

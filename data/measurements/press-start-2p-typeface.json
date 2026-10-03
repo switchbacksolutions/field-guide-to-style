@@ -1,0 +1,41 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/press-start-2p-typeface.png",
+  "captured": "2026-10-03T00:36:12+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.796
+      },
+      {
+        "hex": "#ececec",
+        "share": 0.075
+      },
+      {
+        "hex": "#131313",
+        "share": 0.068
+      },
+      {
+        "hex": "#000000",
+        "share": 0.039
+      },
+      {
+        "hex": "#242424",
+        "share": 0.013
+      },
+      {
+        "hex": "#dbdbdb",
+        "share": 0.009
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.0,
+    "lightness": 0.88,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 4,
+    "hues": 0
+  }
+}

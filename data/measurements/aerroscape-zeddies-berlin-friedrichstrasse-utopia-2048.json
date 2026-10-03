@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/aerroscape-zeddies-berlin-friedrichstrasse-utopia-2048.jpg",
+  "captured": "2026-10-03T00:34:57+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#9ac6f8",
+        "share": 0.114
+      },
+      {
+        "hex": "#7eb4f3",
+        "share": 0.086
+      },
+      {
+        "hex": "#b6d9fc",
+        "share": 0.044
+      },
+      {
+        "hex": "#c9e1fc",
+        "share": 0.044
+      },
+      {
+        "hex": "#959082",
+        "share": 0.041
+      },
+      {
+        "hex": "#b1b2ac",
+        "share": 0.039
+      },
+      {
+        "hex": "#7c7e79",
+        "share": 0.038
+      },
+      {
+        "hex": "#6b6e67",
+        "share": 0.038
+      },
+      {
+        "hex": "#545957",
+        "share": 0.038
+      },
+      {
+        "hex": "#c6c4bb",
+        "share": 0.036
+      }
+    ],
+    "background": "#9ac6f8",
+    "chroma": 0.2,
+    "lightness": 0.56,
+    "chromaticShare": 0.27,
+    "accentChroma": 0.42,
+    "distinct": 25,
+    "hues": 4
+  }
+}

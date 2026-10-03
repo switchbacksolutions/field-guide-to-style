@@ -33,6 +33,12 @@
       "note": "Clear example of the style’s move to the computer: layered fragments, spaced lines of type, and bars, made in MacDraw.",
       "basis": "agent",
       "qualifier": "partial fit"
+    },
+    {
+      "id": "pixel-art",
+      "note": "Partial fit: the early Macintosh bitmap self-portrait shows visible square pixels, but the layout is New Wave.",
+      "basis": "agent",
+      "qualifier": "partial fit"
     }
   ],
   "context": [

@@ -30,6 +30,12 @@
       "id": "mid-century-modern",
       "note": "Partial fit: a product, not graphic design, but its ball-and-rod starburst is the atomic motif that the style’s graphics and textiles repeat.",
       "basis": "agent"
+    },
+    {
+      "id": "googie",
+      "note": "Partial fit: a product, not a sign or building, but its ball-and-rod form is the atom motif that Googie signs repeat.",
+      "basis": "agent",
+      "qualifier": "partial fit"
     }
   ],
   "context": [

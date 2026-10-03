@@ -1,0 +1,41 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/van-doesburg-mecano-red-chroniek-1922.jpg",
+  "captured": "2026-10-03T00:49:54+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#d66d72",
+        "share": 0.714
+      },
+      {
+        "hex": "#8e4a4d",
+        "share": 0.102
+      },
+      {
+        "hex": "#c4686d",
+        "share": 0.076
+      },
+      {
+        "hex": "#a4575b",
+        "share": 0.066
+      },
+      {
+        "hex": "#453234",
+        "share": 0.027
+      },
+      {
+        "hex": "#703a3b",
+        "share": 0.015
+      }
+    ],
+    "background": "#d66d72",
+    "chroma": 0.37,
+    "lightness": 0.58,
+    "chromaticShare": 0.86,
+    "accentChroma": 0.4,
+    "distinct": 5,
+    "hues": 1
+  }
+}

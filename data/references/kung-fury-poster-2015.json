@@ -1,0 +1,60 @@
+{
+  "id": "kung-fury-poster-2015",
+  "title": "Kung Fury (2015 film), Cannes poster",
+  "type": "print",
+  "medium": "poster",
+  "lede": "The painted poster for David Sandberg’s crowd-funded short film: a 1980s-style montage of heroes, dinosaurs, lightning, a sun, and a red Countach under a red brush-script title.",
+  "summary": "Painted 1980s action-film montage: sun, lightning, palms, dinosaurs, red Countach, red brush title. 2015.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Kung_Fury",
+    "label": "Wikipedia: Kung Fury"
+  },
+  "creator": {
+    "name": "David Sandberg (film); poster signed by the painter, listed as “A. Bennwik” by Auctionet"
+  },
+  "made": "2015; premiered at Cannes on 22 May 2015 and online on 28 May 2015 (Wikipedia)",
+  "moods": [
+    "parodic",
+    "energetic",
+    "nostalgic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected two copies from [The Movie Database](https://www.themoviedb.org/movie/251516-kung-fury/images/posters) in a scratch folder: a 1000 × 1500 artwork-only version and an 851 × 1211 Cannes Directors’ Fortnight poster with credits. Not stored. The painter’s name is from an [Auctionet listing](https://auctionet.com/en/2285231-kung-fury-2015-a-bennwik-original-poster); the signature on the image is too small to read with certainty."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "synthwave",
+      "note": "Partial fit: the film is a named landmark of the style and the poster has the sun, lightning, palms, Countach, and a red-and-blue offset brush title, but it is a warm painted montage, not a neon-on-black scene.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: *Kung Fury*, written and directed by David Sandberg, premiered at the Cannes Film Festival on 22 May 2015 and then “on YouTube, Steam, SVT2 in Sweden, and the El Rey Network in the United States, on 28 May 2015.” Its Kickstarter ended on 25 January 2014 with $630,019 from 17,713 backers. [Wikipedia](https://en.wikipedia.org/wiki/Kung_Fury).",
+    "Wikipedia: “visual effects artists softened the film clarity and added videotape wear effects to give the illusion of it being a worn VHS copy,” and the score is by “Swedish synthwave musicians Mitch Murder and Lost Years”. David Hasselhoff sings the song “True Survivor”.",
+    "The Cannes copy of the poster carries the Quinzaine des Réalisateurs (Directors’ Fortnight) 2015 laurel and the tagline “IT TAKES A COP FROM THE FUTURE TO FIGHT AN ENEMY FROM THE PAST”."
+  ],
+  "observed": [
+    "The painting is split in light: orange and yellow at the left with a large pale sun, blue and violet at the right with white forked lightning.",
+    "A large face of a man with a red headband dominates the top. A tyrannosaur, a triceratops, a Viking, a man in a Hitler costume, a woman with a minigun, and soldiers crowd below.",
+    "A red Lamborghini Countach with lit headlights sits at the lower right. Palm silhouettes and city towers appear at the left.",
+    "“KUNG FURY” is set in red, ragged, italic brush capitals with a dark blue offset shadow and a red underline swash."
+  ],
+  "interpretation": [
+    "This is the parody, airbrushed-VHS-box branch of the style. The car, the sun, the lightning, and the brush title link it to [the Kavinsky cover](ref:kavinsky-outrun-cover-2013), but the painted warmth and crowd belong to 1980s action-film posters."
+  ],
+  "borrow": [
+    "Split a hero image into a warm half and a cold half, with the sun on one side and electric light on the other.",
+    "Give a brush-script title a dark offset shadow and an underline swash."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The poster and film are in copyright (Laser Unicorns, 2015)."
+  },
+  "identifiers": {
+    "tmdb": "251516"
+  }
+}

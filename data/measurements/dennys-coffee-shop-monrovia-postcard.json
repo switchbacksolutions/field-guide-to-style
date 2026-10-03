@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/dennys-coffee-shop-monrovia-postcard.jpg",
+  "captured": "2026-10-03T00:48:15+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f3f0de",
+        "share": 0.214
+      },
+      {
+        "hex": "#81bec0",
+        "share": 0.198
+      },
+      {
+        "hex": "#93cace",
+        "share": 0.074
+      },
+      {
+        "hex": "#c9c0ac",
+        "share": 0.059
+      },
+      {
+        "hex": "#bbb29e",
+        "share": 0.052
+      },
+      {
+        "hex": "#493e34",
+        "share": 0.038
+      },
+      {
+        "hex": "#e4deca",
+        "share": 0.036
+      },
+      {
+        "hex": "#aba28d",
+        "share": 0.036
+      },
+      {
+        "hex": "#d6ceba",
+        "share": 0.035
+      },
+      {
+        "hex": "#615549",
+        "share": 0.03
+      }
+    ],
+    "background": "#f3f0de",
+    "chroma": 0.16,
+    "lightness": 0.68,
+    "chromaticShare": 0.05,
+    "accentChroma": 0.47,
+    "distinct": 16,
+    "hues": 2
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/van-ostaijen-bezette-stad-manuscript-1920.jpg",
+  "captured": "2026-10-03T00:55:33+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#d8d5cf",
+        "share": 0.653
+      },
+      {
+        "hex": "#d0ccc1",
+        "share": 0.154
+      },
+      {
+        "hex": "#262628",
+        "share": 0.128
+      },
+      {
+        "hex": "#ccc2a9",
+        "share": 0.023
+      },
+      {
+        "hex": "#9d978d",
+        "share": 0.01
+      },
+      {
+        "hex": "#868076",
+        "share": 0.01
+      },
+      {
+        "hex": "#b3aea3",
+        "share": 0.009
+      },
+      {
+        "hex": "#6b6760",
+        "share": 0.008
+      },
+      {
+        "hex": "#4e4a44",
+        "share": 0.006
+      }
+    ],
+    "background": "#d8d5cf",
+    "chroma": 0.04,
+    "lightness": 0.72,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 4,
+    "hues": 0
+  }
+}

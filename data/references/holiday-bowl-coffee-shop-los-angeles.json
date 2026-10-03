@@ -1,0 +1,87 @@
+{
+  "id": "holiday-bowl-coffee-shop-los-angeles",
+  "title": "Holiday Bowl coffee shop, Los Angeles",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "The coffee shop of a 1958 Crenshaw Boulevard bowling alley, by Armet & Davis: a zigzag folded-plate roof whose beams shoot up past the eaves like tail fins.",
+  "summary": "A folded-plate zigzag roof with upswept outrigger beams over a street front. Armet & Davis, Los Angeles, 1957–58.",
+  "source": {
+    "url": "https://www.loc.gov/item/ca3275/",
+    "label": "Library of Congress: HABS CA-2775, Holiday Bowl, 3730 Crenshaw Boulevard, Los Angeles"
+  },
+  "creator": {
+    "name": "Armet & Davis (Louis Armet and Eldon Davis)",
+    "url": "https://en.wikipedia.org/wiki/Armet_Davis_Newlove_Architects"
+  },
+  "made": "1957–1958 (HABS building dates); demolished after 2003",
+  "moods": [
+    "exuberant",
+    "roadside",
+    "angular"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected HABS photographs 1, 11, 12, 26, and 28 of survey HABS CA-2775 (2002, black and white, 1024 px versions). Photographs 11 and 26 are stored. The photographs show the building in 2002, shortly before demolition, not as new."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "googie",
+      "note": "HABS names the coffee shop “a good architectural representative of the Googie style”; its zigzag roof and upswept beams are the style’s angular, lifting structure.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "HABS significance statement: the Holiday Bowl was built in 1958, run by Japanese American businessmen, open 24 hours for shift workers, and “the ‘attached’ coffee shop stands out as a good architectural representative of the Googie style.” The coffee shop became a City of Los Angeles Historic-Cultural Monument on 19 December 2000. HABS gives construction dates of 1957–1958 and demolition after 2003. [Library of Congress, HABS CA-2775](https://www.loc.gov/item/ca3275/).",
+    "Wikipedia names the Holiday Bowl among the Googie work of Armet & Davis and of designer Helen Liu Fong. [Wikipedia: Googie architecture](https://en.wikipedia.org/wiki/Googie_architecture).",
+    "The HABS survey also holds copies of the 1957 construction drawings and a 1956 perspective sketch of the coffee shop (photographs 29–36). They were not stored, because HABS warns that images copied from other sources may be restricted."
+  ],
+  "observed": [
+    "The roof of the coffee shop is a row of folded plates: each bay rises to a ridge and drops to a valley, so the eave line is a continuous zigzag.",
+    "Above each ridge a pair of thin beams crosses and runs past the roof edge, ending in upswept points against the sky.",
+    "The undersides of the folded plates are smooth and carry round recessed lights.",
+    "Script lettering (“...lday” and “open”) is fixed to the fascia above the roof. In photograph 1 a tall pylon carries a “BOWL” panel in irregular capitals and a “COFFEE SHOP” panel.",
+    "Inside, the folded plates read as tall pitched bays over a long counter with low stools; pendant lamps hang on chains and a glass wall runs along one side.",
+    "The photographs are black and white, so they show no color."
+  ],
+  "interpretation": [
+    "The zigzag roof and the beams that pierce it are the Googie habit of making the structure itself the sign: from a car the roofline reads as an energetic pattern, not as a shelter.",
+    "Wikipedia quotes a 1999 description of orange-and-green decor; the HABS photographs cannot confirm this."
+  ],
+  "borrow": [
+    "Use a repeating zigzag or sawtooth edge on a header or card top to give a panel lift.",
+    "Let thin lines cross a panel and run past its edge, ending in points, like the outrigger beams."
+  ],
+  "images": [
+    {
+      "file": "assets/references/holiday-bowl-coffee-shop-los-angeles.jpg",
+      "alt": "Black-and-white photograph of a low street-front building with a zigzag roof edge; pairs of thin beams cross above each roof ridge and project up past the edge. The wall below is covered with pasted posters.",
+      "width": 1024,
+      "height": 801,
+      "kind": "photograph",
+      "caption": "Holiday Bowl coffee shop, west side, facing northeast. HABS CA-2775, photograph 11, 2002. [Library of Congress](https://www.loc.gov/pictures/item/ca3275.photos.218525p/). The pasted posters on the wall (films and music, 2002) are incidental third-party works.",
+      "original": "https://cdn.loc.gov/service/pnp/habshaer/ca/ca3200/ca3275/photos/218525pv.jpg",
+      "saved": "2026-10-02"
+    },
+    {
+      "file": "assets/references/holiday-bowl-coffee-shop-los-angeles-interior.jpg",
+      "alt": "Black-and-white interior: a long counter with low stools under a ceiling of tall pitched folded bays, with pendant lamps on chains and a glass wall at left.",
+      "width": 1024,
+      "height": 837,
+      "kind": "photograph",
+      "caption": "Holiday Bowl coffee shop interior, facing north. HABS CA-2775, photograph 26, 2002. [Library of Congress](https://www.loc.gov/pictures/item/ca3275.photos.218540p/).",
+      "original": "https://cdn.loc.gov/service/pnp/habshaer/ca/ca3200/ca3275/photos/218540pv.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Library of Congress rights advisory: “No known restrictions on images made by the U.S. Government; images copied from other sources may be restricted.” The stored images are HABS field photographs, not copies. The building was finished in 1958 in the United States, before December 1990, so it is not protected as an architectural work."
+  },
+  "identifiers": {
+    "habs": "CA-2775",
+    "loc": "ca3275"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/cadillac-eldorado-biarritz-1959.jpg",
+  "captured": "2026-10-03T00:49:46+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#0b0d09",
+        "share": 0.224
+      },
+      {
+        "hex": "#fe8281",
+        "share": 0.121
+      },
+      {
+        "hex": "#63700e",
+        "share": 0.054
+      },
+      {
+        "hex": "#55630d",
+        "share": 0.049
+      },
+      {
+        "hex": "#fd8d90",
+        "share": 0.049
+      },
+      {
+        "hex": "#455314",
+        "share": 0.041
+      },
+      {
+        "hex": "#687327",
+        "share": 0.035
+      },
+      {
+        "hex": "#141822",
+        "share": 0.034
+      },
+      {
+        "hex": "#566222",
+        "share": 0.032
+      },
+      {
+        "hex": "#6d0205",
+        "share": 0.027
+      }
+    ],
+    "background": "#0b0d09",
+    "chroma": 0.22,
+    "lightness": 0.31,
+    "chromaticShare": 0.38,
+    "accentChroma": 0.42,
+    "distinct": 17,
+    "hues": 5
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "caribbean-motel-wildwood-crest",
+  "title": "Caribbean Motel, Wildwood Crest",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "A 1958 Doo Wop motel on the Jersey Shore with a cantilevered ramp, slanted glass walls, plastic palm trees, and a rooftop neon sign in connected script with a star.",
+  "summary": "Slanted lounge glass, a floating ramp, a C-shaped pool, and a script “Caribbean” neon sign. Wildwood Crest, New Jersey, 1958.",
+  "source": {
+    "url": "https://www.loc.gov/item/nj1486/",
+    "label": "Library of Congress: HABS NJ-1186, Caribbean Motel, 5600 Ocean Avenue, Wildwood Crest"
+  },
+  "made": "1958; work in 1959 and 1991 (HABS building dates)",
+  "moods": [
+    "exuberant",
+    "roadside",
+    "vacation"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected all nine HABS NJ-1186 measured drawing sheets (1997, 1024 px versions) in a scratchpad. No photograph was inspected, so color is documented, not observed."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "googie",
+      "note": "A Wildwood Doo Wop motel, the East Coast branch of Googie: a levitating ramp, lean-in glass, fake palms, and a neon script sign with a star.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "HABS significance statement: a well-preserved Wildwood motel with original 1950s features, a “levitating” concrete ramp, lean-in and lean-out glass walls on the second-floor lounge, colorful lighting, a C-shaped swimming pool, and a large neon sign that required the town to liberalize its ordinances. The first owner claimed to have originated fake palm trees in the Wildwoods. [Library of Congress, HABS NJ-1186](https://www.loc.gov/item/nj1486/).",
+    "The drawings won fourth place in the 1997 Charles E. Peterson Prize. The title sheet credits Timothy Wagner, Laura West, and Donna Zarzycki of Kent State University. Its text names the style “Populuxe,” “Googie,” or “Doo-Wop.” [Library of Congress, HABS NJ-1186](https://www.loc.gov/item/nj1486/).",
+    "Wikipedia gives Wildwood, New Jersey, its own section as a Googie district. [Wikipedia: Googie architecture](https://en.wikipedia.org/wiki/Googie_architecture)."
+  ],
+  "observed": [
+    "The title sheet sets “THE CARIBBEAN MOTEL” in widely spaced outline capitals, the drawings’ own graphic, not the motel’s.",
+    "The sign detail sheet draws the rooftop sign: “Caribbean” in a connected, slanted script built from a double outline like a neon tube, with a small five-point star over the letters.",
+    "The plan is an L of two-storey room wings around a C-shaped pool with a fan-shaped deck; a curved ramp rises from the pool deck.",
+    "The elevations show a flat roof, long balconies with thin railings, and a glass lounge on the corner whose walls lean in and out in section.",
+    "Sculpted palm trees stand on the pool deck in the elevations."
+  ],
+  "interpretation": [
+    "The sign detail is the clearest record here of the style’s type: a connected script drawn as a continuous tube, with a star as punctuation.",
+    "The leaning glass walls make a room into a sign, the same idea as the upswept Los Angeles coffee shops at a seaside scale."
+  ],
+  "borrow": [
+    "Draw a one-word name in connected script with a double outline, as if bent from neon tube, and add one small star.",
+    "Set a slanted glass-like panel at an angle against straight horizontal bands."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The building (1958, United States) is not protected as architecture, but the drawings are 1997 student work donated to HABS, not U.S. Government work, and the Library of Congress advises that “images copied from other sources may be restricted.” Peterson Prize entrants sign a copyright release form; its terms were not checked. The neon sign is a separate work whose rights were not checked. The lead curator can upgrade to tier A if the release puts the drawings in the public domain."
+  },
+  "identifiers": {
+    "habs": "NJ-1186",
+    "loc": "nj1486"
+  }
+}

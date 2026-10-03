@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/mcdonalds-downey-1953.jpg",
+  "captured": "2026-10-03T00:36:34+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#171717",
+        "share": 0.216
+      },
+      {
+        "hex": "#8a99ba",
+        "share": 0.191
+      },
+      {
+        "hex": "#6384b9",
+        "share": 0.16
+      },
+      {
+        "hex": "#768fbc",
+        "share": 0.049
+      },
+      {
+        "hex": "#202327",
+        "share": 0.046
+      },
+      {
+        "hex": "#69788b",
+        "share": 0.041
+      },
+      {
+        "hex": "#758296",
+        "share": 0.04
+      },
+      {
+        "hex": "#9fa9c2",
+        "share": 0.033
+      },
+      {
+        "hex": "#bf8a21",
+        "share": 0.029
+      },
+      {
+        "hex": "#a47520",
+        "share": 0.028
+      }
+    ],
+    "background": "#171717",
+    "chroma": 0.18,
+    "lightness": 0.43,
+    "chromaticShare": 0.25,
+    "accentChroma": 0.4,
+    "distinct": 12,
+    "hues": 3
+  }
+}

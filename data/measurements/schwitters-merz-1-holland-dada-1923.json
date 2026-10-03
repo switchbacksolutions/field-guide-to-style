@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/schwitters-merz-1-holland-dada-1923.jpg",
+  "captured": "2026-10-03T00:49:15+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#cea675",
+        "share": 0.522
+      },
+      {
+        "hex": "#d3b085",
+        "share": 0.179
+      },
+      {
+        "hex": "#57422c",
+        "share": 0.126
+      },
+      {
+        "hex": "#b39167",
+        "share": 0.035
+      },
+      {
+        "hex": "#6a4c29",
+        "share": 0.023
+      },
+      {
+        "hex": "#9b794f",
+        "share": 0.023
+      },
+      {
+        "hex": "#8d6b42",
+        "share": 0.023
+      },
+      {
+        "hex": "#a7855c",
+        "share": 0.022
+      },
+      {
+        "hex": "#7b5b34",
+        "share": 0.02
+      },
+      {
+        "hex": "#c7995d",
+        "share": 0.014
+      }
+    ],
+    "background": "#cea675",
+    "chroma": 0.31,
+    "lightness": 0.56,
+    "chromaticShare": 0.72,
+    "accentChroma": 0.34,
+    "distinct": 9,
+    "hues": 1
+  }
+}

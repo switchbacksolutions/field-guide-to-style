@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/theme-building-lax.jpg",
+  "captured": "2026-10-03T00:41:56+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#141b28",
+        "share": 0.174
+      },
+      {
+        "hex": "#454c4f",
+        "share": 0.148
+      },
+      {
+        "hex": "#1d67b8",
+        "share": 0.095
+      },
+      {
+        "hex": "#739cca",
+        "share": 0.046
+      },
+      {
+        "hex": "#608fc8",
+        "share": 0.04
+      },
+      {
+        "hex": "#4d83c7",
+        "share": 0.038
+      },
+      {
+        "hex": "#ddd1b1",
+        "share": 0.038
+      },
+      {
+        "hex": "#363b3c",
+        "share": 0.038
+      },
+      {
+        "hex": "#3a77bf",
+        "share": 0.037
+      },
+      {
+        "hex": "#88a8c7",
+        "share": 0.035
+      }
+    ],
+    "background": "#141b28",
+    "chroma": 0.21,
+    "lightness": 0.39,
+    "chromaticShare": 0.29,
+    "accentChroma": 0.51,
+    "distinct": 18,
+    "hues": 2
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/dawnlike-tileset-2014.png",
+  "captured": "2026-10-03T00:32:47+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#140c1c",
+        "share": 0.412
+      },
+      {
+        "hex": "#777362",
+        "share": 0.095
+      },
+      {
+        "hex": "#31356b",
+        "share": 0.089
+      },
+      {
+        "hex": "#4e484c",
+        "share": 0.07
+      },
+      {
+        "hex": "#442938",
+        "share": 0.061
+      },
+      {
+        "hex": "#615f63",
+        "share": 0.053
+      },
+      {
+        "hex": "#874e31",
+        "share": 0.032
+      },
+      {
+        "hex": "#697281",
+        "share": 0.026
+      },
+      {
+        "hex": "#231423",
+        "share": 0.026
+      },
+      {
+        "hex": "#6cb1bf",
+        "share": 0.024
+      }
+    ],
+    "background": "#140c1c",
+    "chroma": 0.11,
+    "lightness": 0.24,
+    "chromaticShare": 0.09,
+    "accentChroma": 0.37,
+    "distinct": 12,
+    "hues": 4
+  }
+}

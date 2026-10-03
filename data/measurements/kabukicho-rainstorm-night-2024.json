@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/kabukicho-rainstorm-night-2024.jpg",
+  "captured": "2026-10-03T00:32:29+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#1b131f",
+        "share": 0.12
+      },
+      {
+        "hex": "#ae6996",
+        "share": 0.053
+      },
+      {
+        "hex": "#945c75",
+        "share": 0.046
+      },
+      {
+        "hex": "#7b4562",
+        "share": 0.046
+      },
+      {
+        "hex": "#281f2e",
+        "share": 0.044
+      },
+      {
+        "hex": "#c880aa",
+        "share": 0.044
+      },
+      {
+        "hex": "#63374b",
+        "share": 0.042
+      },
+      {
+        "hex": "#3e1e28",
+        "share": 0.04
+      },
+      {
+        "hex": "#502939",
+        "share": 0.04
+      },
+      {
+        "hex": "#2f1215",
+        "share": 0.04
+      }
+    ],
+    "background": "#1b131f",
+    "chroma": 0.22,
+    "lightness": 0.38,
+    "chromaticShare": 0.2,
+    "accentChroma": 0.56,
+    "distinct": 23,
+    "hues": 6
+  }
+}

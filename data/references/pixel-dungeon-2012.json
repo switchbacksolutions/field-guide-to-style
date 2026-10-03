@@ -1,0 +1,72 @@
+{
+  "id": "pixel-dungeon-2012",
+  "title": "Pixel Dungeon",
+  "type": "product",
+  "medium": "software",
+  "lede": "Oleg Dolya’s open-source roguelike draws its dungeon, its hero, and its whole interface, from health bar to message log, in coarse enlarged pixels.",
+  "summary": "A dark stone dungeon with small sprites, a bitmap message log in green and white, and square pixel buttons. Watabou (Oleg Dolya), 2012, GPL 3.",
+  "source": {
+    "url": "https://github.com/watabou/pixel-dungeon",
+    "label": "GitHub: watabou/pixel-dungeon"
+  },
+  "creator": {
+    "name": "Oleg Dolya (Watabou)",
+    "url": "https://github.com/watabou"
+  },
+  "made": "2012; source published 2014",
+  "moods": ["game-like", "nostalgic", "crisp"],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the developer’s screenshot `level_up.png` as copied to Wikimedia Commons, [Screenshot of Pixel Dungeon.png](https://commons.wikimedia.org/wiki/File:Screenshot_of_Pixel_Dungeon.png), 540 × 888 px. Android version, floor 7."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "pixel-art",
+      "note": "Partial fit: sprites, tiles, bitmap type, and stepped interface frames are all pixel art, but a smooth dark vignette of light and shadow covers the map.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia calls Pixel Dungeon a 2012 roguelike indie game by Oleg Dolya, first for Android, and says that it is open source and that many games build on its code, most notably Shattered Pixel Dungeon. [Wikipedia](https://en.wikipedia.org/wiki/Pixel_Dungeon).",
+    "The GitHub repository, created in July 2014, describes a “Traditional roguelike game with pixel-art graphics and simple interface” and carries the GPL 3.0 license. [GitHub](https://github.com/watabou/pixel-dungeon)."
+  ],
+  "observed": [
+    "A top-down dungeon of gray stone tiles and dark water on black, with wooden doors and a staircase sign on the walls.",
+    "The hero is a small sprite with red hair and a gray tunic. A skeleton, a green bag, and a scroll lie near him.",
+    "Text is set in a bitmap face: “+5EXP level up!” in green over the map and a message log in white and green at the bottom.",
+    "The top bar has the hero portrait in a square frame, a red health bar with a stepped end, and white pixel counters at the right.",
+    "Square gray buttons at the bottom hold pixel icons: a clock, a magnifier, a question mark, a backpack, and a quick slot reading “1/2”.",
+    "A smooth, unstepped shadow darkens the map away from the hero and at the edges, and a soft glow surrounds a wall lamp."
+  ],
+  "interpretation": [
+    "The game applies one pixel scale to the world and the interface, so the buttons, bars, and text belong to the same grid as the sprites.",
+    "The smooth lighting is a later technique laid over the pixel art. It is a branch from the strict 8-bit core, so the fit is partial."
+  ],
+  "borrow": [
+    "Draw interface buttons as square tiles with one pixel icon each, on the same pixel scale as the content.",
+    "Use two text colors in a log, one for events and one for system messages."
+  ],
+  "images": [
+    {
+      "file": "assets/references/pixel-dungeon-2012.png",
+      "alt": "Portrait game screenshot: a dark stone dungeon with a red-haired hero sprite, a skeleton, and green text reading plus 5 EXP, level up. A health bar and portrait sit at the top, a green and white message log and square icon buttons at the bottom.",
+      "width": 540,
+      "height": 888,
+      "kind": "screenshot",
+      "caption": "Watabou, Pixel Dungeon on Android, level-up screen. Developer screenshot via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Screenshot_of_Pixel_Dungeon.png), GPL 3.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Screenshot_of_Pixel_Dungeon.png",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "GPL-3.0",
+    "statement": "Commons lists the file as GPLv3, author Watabou, 2013, from `https://pixeldungeon.watabou.ru/screens/level_up.png`. The game repository is licensed GPL 3.0."
+  },
+  "identifiers": {
+    "wikidata": "Q19907391",
+    "commons": "File:Screenshot of Pixel Dungeon.png"
+  }
+}

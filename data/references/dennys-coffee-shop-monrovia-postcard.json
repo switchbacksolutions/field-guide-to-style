@@ -1,0 +1,75 @@
+{
+  "id": "dennys-coffee-shop-monrovia-postcard",
+  "title": "Denny’s Coffee Shop, Monrovia, postcard",
+  "type": "print",
+  "medium": "illustration",
+  "lede": "A Tichnor Brothers linen postcard of a Denny’s in Monrovia, California: a yellow roof that sweeps up into a pointed prow, a glass front with stone panels, and a stacked pole sign.",
+  "summary": "A yellow upswept prow roof over a glass coffee shop, a red “COFFEE SHOP” panel, and a “24” chevron sign, in airbrushed postcard color. Tichnor Brothers, about 1959–1960s.",
+  "source": {
+    "url": "https://ark.digitalcommonwealth.org/ark:/50959/xs55n020g",
+    "label": "Boston Public Library, Tichnor Brothers collection #3974, via Digital Commonwealth"
+  },
+  "creator": {
+    "name": "Tichnor Brothers, publisher"
+  },
+  "made": "Boston Public Library: ca. 1930–1945. The name Denny’s dates from 1959 (Wikipedia), so the card is probably 1959 or later.",
+  "moods": [
+    "roadside",
+    "optimistic",
+    "sunny"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the front of the Boston Public Library scan (Tichnor Brothers collection #3974, accession 06_10_009847) from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Denny%27s_Coffee_Shop_(3974).jpg) at 1280 × 823 px. The back of the card was not inspected."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "googie",
+      "note": "A 1950s–60s Southern California coffee shop with an upswept roof and stacked pole sign, the core Googie building type, in the bright printed color of roadside postcards.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Boston Public Library catalogs the card as “Denny’s Coffee Shop,” Monrovia, Los Angeles County, a linen-texture color postcard, 2 1/4 × 3 1/2 in., dated ca. 1930–1945, with “No known copyright restrictions.” [Digital Commonwealth](https://ark.digitalcommonwealth.org/ark:/50959/xs55n020g).",
+    "Wikipedia: Danny’s Donuts was founded in 1953 and renamed Denny’s Coffee Shops in 1959, open 24 hours. In the 1950s Armet & Davis designed a prototype Denny’s with a boomerang-shaped roof, and these designs helped spread Googie architecture across America. [Wikipedia: Denny’s](https://en.wikipedia.org/wiki/Denny%27s). The card does not name the architect of this building."
+  ],
+  "observed": [
+    "A long, low roof slab in white rises at the left end into a bright yellow prow that points up and out past the wall, like a tail fin.",
+    "The front is a band of tall plate-glass windows with thin mullions, broken by two panels of multicolored fieldstone.",
+    "A striped awning in yellow and white runs along the side wall.",
+    "A tall pole sign stacks three shapes: a red-and-white chevron with “24”, a green oval with “Denny’s” in white script, and a red rectangle with “COFFEE SHOP” in white outlined capitals.",
+    "Sky is saturated cyan with white clouds; the ground is pale gray; colors are flat and airbrushed, with the linen texture of the card visible.",
+    "Late-1950s cars are parked at left and right."
+  ],
+  "interpretation": [
+    "The card shows the daytime version of the style: saturated yellow, red, and green on white walls under a cyan sky, not neon on a night ground.",
+    "Each sign shape is different (chevron, oval, rectangle), so the pole reads as a stack of badges, a common Googie sign structure."
+  ],
+  "borrow": [
+    "Stack two or three badges of different shapes on one vertical line for a logo lockup.",
+    "Make one corner of a header panel rise into a point in the accent color."
+  ],
+  "images": [
+    {
+      "file": "assets/references/dennys-coffee-shop-monrovia-postcard.jpg",
+      "alt": "Linen postcard of a Denny’s coffee shop: a white roof rising into a yellow pointed prow at left over a glass front with stone panels, and a pole sign with a 24 chevron, a green Denny’s oval, and a red COFFEE SHOP panel, under a cyan sky with clouds.",
+      "width": 1280,
+      "height": 823,
+      "kind": "source-image",
+      "caption": "Tichnor Brothers, Denny’s Coffee Shop, Monrovia, linen postcard. Boston Public Library, Tichnor Brothers collection #3974, [Digital Commonwealth](https://ark.digitalcommonwealth.org/ark:/50959/xs55n020g); scan from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Denny%27s_Coffee_Shop_(3974).jpg).",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Denny%27s_Coffee_Shop_%283974%29.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Boston Public Library: “No known copyright restrictions. No known restrictions on use.” Commons license: PD-US-no notice (a United States work published before 1978 without a copyright notice). The back of the card was not checked for a notice. The building (United States, before 1990) is not protected as architecture. The Denny’s name and sign are trademarks, used here only for commentary."
+  },
+  "identifiers": {
+    "bpl": "06_10_009847",
+    "commons": "File:Denny's Coffee Shop (3974).jpg"
+  }
+}

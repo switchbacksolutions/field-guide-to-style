@@ -1069,7 +1069,7 @@
       "tokens": true,
       "fingerprint": {
         "metrics": 7,
-        "websiteCaptures": 0,
+        "websiteCaptures": 1,
         "capturesPassing": 0
       }
     },
@@ -1143,7 +1143,7 @@
       "tokens": true,
       "fingerprint": {
         "metrics": 7,
-        "websiteCaptures": 0,
+        "websiteCaptures": 1,
         "capturesPassing": 0
       }
     },
@@ -1262,7 +1262,7 @@
       "tokens": true,
       "fingerprint": {
         "metrics": 7,
-        "websiteCaptures": 0,
+        "websiteCaptures": 1,
         "capturesPassing": 0
       }
     }

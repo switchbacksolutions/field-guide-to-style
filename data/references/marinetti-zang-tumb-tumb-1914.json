@@ -1,0 +1,73 @@
+{
+  "id": "marinetti-zang-tumb-tumb-1914",
+  "title": "Zang Tumb Tumb",
+  "type": "print",
+  "medium": "book",
+  "lede": "F. T. Marinetti’s first book of words in freedom, about the siege of Adrianople: on its orange cover the sound “TUUUMB” fans out in three directions like a shell burst.",
+  "summary": "Orange cover with heavy black grotesque type; TUUUMB, TUUUM, and PAROLE IN LIBERTÀ radiate from one point. F. T. Marinetti, Milan, 1914.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Filippo_tommaso_marinetti,_zang_tumb_tuum._adrianpoli_1912._parole_in_libert%C3%A0,_1914_(coll._priv.).jpg",
+    "label": "Wikimedia Commons: Filippo Tommaso Marinetti, Zang Tumb Tuum, 1914 (coll. priv.), photograph by Sailko"
+  },
+  "creator": {
+    "name": "Filippo Tommaso Marinetti",
+    "url": "https://en.wikipedia.org/wiki/Filippo_Tommaso_Marinetti"
+  },
+  "made": "1914",
+  "moods": ["loud", "aggressive", "fast"],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected a photograph by the Commons user Sailko, 15 December 2019 (original 3978 × 3072 px; a 1280 × 988 px rendering was inspected and stored). It shows an open copy of the book in a display case; the file title says the copy is in a private collection, and the exhibition is not named. The copy has a later red binding with marbled boards, and a strip of tape or paper covers the right edge of the cover. Only the cover was seen; the inner pages were not inspected."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "futurism",
+      "note": "The founding book of words in freedom. Its cover sets onomatopoeia in heavy grotesques that radiate from a point, on a loud colored paper.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "*Zang Tumb Tumb* was Marinetti’s first published collection of parole in libertà. Begun in 1912 and published in 1914, it recounts his experience of the siege of Adrianople in the First Balkan War, which he covered as a war correspondent. [Wikipedia: Zang Tumb Tumb](https://en.wikipedia.org/wiki/Zang_Tumb_Tumb).",
+    "The cover names the publisher as Edizioni futuriste di “Poesia”, Corso Venezia 61, Milan, 1914.",
+    "Wikipedia says the Vorticist magazine BLAST was directly influenced by the book. [Wikipedia: Futurism](https://en.wikipedia.org/wiki/Futurism). The Museum of Modern Art holds a copy ([MoMA 31450](https://www.moma.org/collection/works/31450)); its page refused scripted access."
+  ],
+  "observed": [
+    "The cover is a saturated orange paper printed in black only.",
+    "“F. T. MARINETTI FUTURISTA” is a small line of capitals at the top.",
+    "“ZANG” is set in a condensed capital, tilted upward; “TUMB TUMB” below it is a very heavy, wide grotesque, horizontal and the largest type on the page.",
+    "“ADRIANOPOLI OTTOBRE 1912” is a line of spaced bold capitals.",
+    "From one point, three lines radiate: “TUUUMB” in large capitals up to the left, “PAROLE IN LIBERTÀ” up to the right in smaller capitals, and a run of “TUUUM” words stepping down to the right, each smaller than the one before.",
+    "“PAROLE” runs vertically downward from the same point; the publisher’s imprint below is a small serif set on a slight curve."
+  ],
+  "interpretation": [
+    "The cover is a compact lesson in the style: four or more type styles, words at several angles, one dominant word much larger than the rest, and a radiating composition that reads as an explosion.",
+    "The stepped, shrinking “TUUUM” words show sound fading with distance, a typographic version of motion by repetition."
+  ],
+  "borrow": [
+    "Radiate three lines of type from one point at different angles to suggest a burst.",
+    "Repeat a word and make each repetition smaller to show it fading away.",
+    "Print black on a single loud colored paper, such as orange."
+  ],
+  "images": [
+    {
+      "file": "assets/references/marinetti-zang-tumb-tumb-1914.jpg",
+      "alt": "Open book in a display case. The orange cover reads F. T. Marinetti futurista, ZANG, and TUMB TUMB in very heavy black type, then Adrianopoli ottobre 1912. Below, the words TUUUMB, PAROLE IN LIBERTÀ, and a series of shrinking TUUUM words radiate from one point.",
+      "width": 1280,
+      "height": 988,
+      "kind": "photograph",
+      "caption": "F. T. Marinetti, *Zang Tumb Tumb*, Edizioni futuriste di “Poesia”, Milan, 1914, copy in a private collection. Photograph by Sailko, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Filippo_tommaso_marinetti,_zang_tumb_tuum._adrianpoli_1912._parole_in_libert%C3%A0,_1914_(coll._priv.).jpg), CC BY 3.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/6/68/Filippo_tommaso_marinetti%2C_zang_tumb_tuum._adrianpoli_1912._parole_in_libert%C3%A0%2C_1914_%28coll._priv.%29.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-3.0",
+    "statement": "Photograph by Sailko, licensed CC BY 3.0 on Wikimedia Commons. Marinetti was Italian and died in 1944, more than 70 years ago, so the book is public domain in Italy. It was published in 1914, before 1931, so it is public domain in the United States."
+  },
+  "identifiers": {
+    "commons": "File:Filippo tommaso marinetti, zang tumb tuum. adrianpoli 1912. parole in libertà, 1914 (coll. priv.).jpg"
+  }
+}

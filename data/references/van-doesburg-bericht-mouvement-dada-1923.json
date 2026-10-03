@@ -1,0 +1,75 @@
+{
+  "id": "van-doesburg-bericht-mouvement-dada-1923",
+  "title": "“Bericht Mouvement Dada”, Mécano no. 4/5, 1923",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "A mock advertisement in Mécano answers the press’s question about the color of van Doesburg’s socks at the Dutch Dada evenings, with pointing hands, heavy rules, and letters that change case inside words.",
+  "summary": "Mock notice with mixed-case headings, heavy rules, vertical side lines, and four pointing hands. Van Doesburg, Mécano, 1923.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_Bericht_Mouvement_Dada.jpg",
+    "label": "Wikimedia Commons: Theo van Doesburg, Bericht Mouvement Dada (from Mécano no. 4/5)"
+  },
+  "creator": {
+    "name": "Theo van Doesburg",
+    "url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg"
+  },
+  "made": "1923 (issue dated 1923, published January 1924, per Commons)",
+  "moods": [
+    "ironic",
+    "irreverent",
+    "typographic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons scan (1327 × 1769 px original, viewed at 1200 px). It is scanned from a reproduction in the book *Holland’s bankroet door dada* (Amsterdam: Ravijn, 1995, ISBN 9072768418), not from an original copy of the magazine. Text from the reverse side shows through the paper."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "dada",
+      "note": "Dada typography as a joke advertisement: case and size change inside words, stock pointing hands act as images, and heavy rules divide the page.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes the page as “Bericht Mouvement Dada”, from *Mécano* no. 4/5 White, Blanc, Wit, Weiß (1923, published January 1924), by Theo van Doesburg, tagged PD-old. [Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_Bericht_Mouvement_Dada.jpg).",
+    "The notice refers to the Dada soirées in Holland of 1923, which van Doesburg gave with Kurt Schwitters. See [the soirée program](ref:van-doesburg-schwitters-kleine-dada-soiree-1922) and [another Mécano page](ref:van-doesburg-mecano-red-chroniek-1922)."
+  ],
+  "observed": [
+    "The heading “BERICHT MOuveMEnt DadA” changes size and case inside the words: large capitals, small capitals, and lowercase in one line.",
+    "Heavy black rules run under the heading and under each display line. Thinner rules underline the smaller lines.",
+    "Display lines are in several sans-serif styles: a light wide grotesque, a condensed capital line, and a very heavy bold for “DEZE SOKKEN NIET WIT”.",
+    "Four pointing-hand cuts appear: two point inward at the bold line, and two small ones stand vertically at the sides.",
+    "Two lines run vertically up the margins: “Zoo lang de voorraad strekt” at left and “20 FR. FRANCO THUIS” at right.",
+    "The page is black on white with no second color. Text from the reverse shows faintly through."
+  ],
+  "interpretation": [
+    "The page borrows the layout of a shop notice and fills it with a joke, which is a typical Dada move against commercial print. The type is clean, and the disorder is in the case changes and the content."
+  ],
+  "borrow": [
+    "Write a notice in the voice of an advertisement, with pointing hands aimed at the key line.",
+    "Run short side labels vertically up both margins.",
+    "Underline each display line with a heavy rule of a different length."
+  ],
+  "images": [
+    {
+      "file": "assets/references/van-doesburg-bericht-mouvement-dada-1923.jpg",
+      "alt": "Black-and-white magazine page headed BERICHT MOuveMEnt DadA, with lines of sans-serif type underlined by heavy rules, four printed pointing hands, vertical text in both margins, and the bold line DEZE SOKKEN NIET WIT.",
+      "width": 1200,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Theo van Doesburg, “Bericht Mouvement Dada”, *Mécano* no. 4/5, 1923. Scan from a 1995 reproduction via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Theo_van_Doesburg_Bericht_Mouvement_Dada.jpg), PD-old.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Theo_van_Doesburg_Bericht_Mouvement_Dada.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons tags the image PD-old. Van Doesburg, a Dutch author, died in 1931, so the page is public domain in the Netherlands. It was published in 1923 or January 1924, so it is public domain in the United States (works published before 1931). A faithful scan from a 1995 book adds no new copyright under the PD-Art principle that Commons applies."
+  },
+  "identifiers": {
+    "commons": "File:Theo van Doesburg Bericht Mouvement Dada.jpg"
+  }
+}

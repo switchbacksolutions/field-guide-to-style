@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/russolo-the-revolt-1911.jpg",
+  "captured": "2026-10-03T00:55:33+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ed4530",
+        "share": 0.098
+      },
+      {
+        "hex": "#f25635",
+        "share": 0.077
+      },
+      {
+        "hex": "#dc3f2d",
+        "share": 0.073
+      },
+      {
+        "hex": "#ca3b2b",
+        "share": 0.057
+      },
+      {
+        "hex": "#181c20",
+        "share": 0.049
+      },
+      {
+        "hex": "#b6362a",
+        "share": 0.047
+      },
+      {
+        "hex": "#ef6f39",
+        "share": 0.038
+      },
+      {
+        "hex": "#85312e",
+        "share": 0.037
+      },
+      {
+        "hex": "#9c3834",
+        "share": 0.036
+      },
+      {
+        "hex": "#f3e856",
+        "share": 0.033
+      }
+    ],
+    "background": "#ed4530",
+    "chroma": 0.46,
+    "lightness": 0.45,
+    "chromaticShare": 0.67,
+    "accentChroma": 0.6,
+    "distinct": 23,
+    "hues": 4
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/hachi-maru-pop-typeface-2020.png",
+  "captured": "2026-10-03T00:37:51+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.932
+      },
+      {
+        "hex": "#000000",
+        "share": 0.025
+      },
+      {
+        "hex": "#808080",
+        "share": 0.008
+      },
+      {
+        "hex": "#b8b8b8",
+        "share": 0.005
+      },
+      {
+        "hex": "#e6e6e6",
+        "share": 0.004
+      },
+      {
+        "hex": "#121212",
+        "share": 0.004
+      },
+      {
+        "hex": "#cccccc",
+        "share": 0.003
+      },
+      {
+        "hex": "#939393",
+        "share": 0.003
+      },
+      {
+        "hex": "#616161",
+        "share": 0.002
+      },
+      {
+        "hex": "#373737",
+        "share": 0.002
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.0,
+    "lightness": 0.95,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0
+  }
+}

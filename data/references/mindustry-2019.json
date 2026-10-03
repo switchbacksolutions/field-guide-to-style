@@ -1,0 +1,71 @@
+{
+  "id": "mindustry-2019",
+  "title": "Mindustry",
+  "type": "product",
+  "medium": "software",
+  "lede": "Anuken’s open-source factory and tower-defense game builds conveyors, turrets, ore fields, and its menus from crisp pixel tiles and a bitmap interface face.",
+  "summary": "A top-down pixel factory on sand and rock with conveyor lines, a wave counter, and pixel icon menus. Anuken, version 3.5, 2019, GPL 3.",
+  "source": {
+    "url": "https://github.com/Anuken/Mindustry",
+    "label": "GitHub: Anuken/Mindustry"
+  },
+  "creator": {
+    "name": "Anuken and Mindustry contributors",
+    "url": "https://github.com/Anuken"
+  },
+  "made": "Repository created 2017; screenshot of version 3.5, January 2019",
+  "moods": ["game-like", "crisp", "busy"],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected [Mindustry 3.5.png](https://commons.wikimedia.org/wiki/File:Mindustry_3.5.png) on Wikimedia Commons, 1189 × 748 px, a screenshot taken by the uploader on 26 January 2019."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "pixel-art",
+      "note": "Partial fit: tiles, sprites, menus, and type are all whole-pixel art with flat colors, but translucent smooth circles for turret ranges and thin laser lines lie over the map.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia describes Mindustry as a free and open-source real-time strategy, factory management, and tower defense game developed and published by Anuken under the GNU GPL v3. [Wikipedia](https://en.wikipedia.org/wiki/Mindustry).",
+    "The repository describes “The automation tower defense RTS” and carries the GPL 3.0 license. [GitHub](https://github.com/Anuken/Mindustry)."
+  ],
+  "observed": [
+    "A top-down map of beige sand, a dark gray rock field, and red-orange ore, each a field of square tiles with stepped edges.",
+    "Blocks in teal, blue, and purple are linked by conveyor lines with small item pixels on them.",
+    "At top left, square icon buttons and a dark panel read “WAVE 62” in orange and “12 ENEMIES” in white, in a bitmap face.",
+    "At right, a dark panel lists resource counts (“42K”, “3.5K”) and a grid of ship sprites in square frames, with one selected frame outlined in orange.",
+    "Translucent blue circles, a dashed green circle, and green beam lines are drawn over the tiles."
+  ],
+  "interpretation": [
+    "Mindustry shows that the style scales to dense strategy screens: a strict tile grid and a bitmap face keep many small parts legible.",
+    "The smooth range circles are game information, not decoration, but they break the one-grid rule."
+  ],
+  "borrow": [
+    "Set counters and labels in a bitmap face inside dark square panels, with one orange highlight for the selected item.",
+    "Give each material one flat color family so that a dense map stays readable."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mindustry-2019.png",
+      "alt": "Game screenshot: a top-down pixel factory of teal and blue blocks and conveyor lines on beige sand and dark rock, with translucent blue range circles. A dark panel at top left reads wave 62, 12 enemies. A panel at right shows resource counts and ship icons.",
+      "width": 1189,
+      "height": 748,
+      "kind": "screenshot",
+      "caption": "Anuken, Mindustry version 3.5, screenshot by a Commons user, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mindustry_3.5.png), GPL.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Mindustry_3.5.png",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "GPL-3.0",
+    "statement": "Commons lists the file as GPL, credit “Anuken and Mindustry contributors”: “This is a screenshot of a free and open-source game Mindustry version 3.5, taken by me. The game is licensed under the GPL as a whole.” The repository is licensed GPL 3.0."
+  },
+  "identifiers": {
+    "wikidata": "Q57206016",
+    "commons": "File:Mindustry 3.5.png"
+  }
+}

@@ -30,6 +30,11 @@
       "id": "y2k",
       "note": "Borderline: the cyber side of the period (black, digital green, spaced techno capitals). It has no chrome, candy color, or rounded plastic. The page draws its graphics with images, so the CSS fingerprint measures flat, square, unshadowed boxes (see the style page). Judge it by the rubric.",
       "basis": "agent"
+    },
+    {
+      "id": "cyberpunk",
+      "note": "Clear: the official site of a core cyberpunk film, with a black page, glowing green capitals, and spaced techno type.",
+      "basis": "agent"
     }
   ],
   "observed": [

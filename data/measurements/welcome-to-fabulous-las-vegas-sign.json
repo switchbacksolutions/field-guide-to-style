@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/welcome-to-fabulous-las-vegas-sign.jpg",
+  "captured": "2026-10-03T00:40:44+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#245691",
+        "share": 0.216
+      },
+      {
+        "hex": "#7793b7",
+        "share": 0.157
+      },
+      {
+        "hex": "#dadadb",
+        "share": 0.13
+      },
+      {
+        "hex": "#326199",
+        "share": 0.079
+      },
+      {
+        "hex": "#134686",
+        "share": 0.079
+      },
+      {
+        "hex": "#9e0208",
+        "share": 0.034
+      },
+      {
+        "hex": "#5b80ac",
+        "share": 0.032
+      },
+      {
+        "hex": "#4b74a5",
+        "share": 0.031
+      },
+      {
+        "hex": "#080407",
+        "share": 0.027
+      },
+      {
+        "hex": "#0258a6",
+        "share": 0.027
+      }
+    ],
+    "background": "#245691",
+    "chroma": 0.29,
+    "lightness": 0.48,
+    "chromaticShare": 0.55,
+    "accentChroma": 0.44,
+    "distinct": 12,
+    "hues": 5
+  }
+}

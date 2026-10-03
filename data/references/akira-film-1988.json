@@ -1,0 +1,59 @@
+{
+  "id": "akira-film-1988",
+  "title": "Akira",
+  "type": "product",
+  "medium": "other",
+  "lede": "Katsuhiro Otomo’s 1988 animated film of his manga, set in a Neo-Tokyo of densely drawn night towers, through which motorcycles leave trails of colored light.",
+  "summary": "The founding work of Japanese cyberpunk: a detailed night Neo-Tokyo and light trails from speeding bikes. Katsuhiro Otomo, Tokyo Movie Shinsha, 1988.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Akira_(1988_film)",
+    "label": "Wikipedia: Akira (1988 film)"
+  },
+  "creator": {
+    "name": "Katsuhiro Otomo (director); Tokyo Movie Shinsha (animation studio)"
+  },
+  "made": "1988 (released 16 July 1988); the manga began in 1982",
+  "moods": [
+    "dystopian",
+    "violent",
+    "nocturnal",
+    "kinetic"
+  ],
+  "evidence": {
+    "level": "documented",
+    "note": "Based on the Wikipedia articles on the film and on cyberpunk, read as wikitext on 2026-10-02. No image of the film was inspected for this record."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "cyberpunk",
+      "note": "The style record names Akira as one of the two works that set the look of cyberpunk. The British Film Institute calls it a vital cornerstone of the genre.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: “The Japanese cyberpunk subgenre began in 1982 with the debut of Katsuhiro Otomo’s manga series Akira, with its 1988 anime film adaptation (also directed by Otomo) popularizing the subgenre.” [Cyberpunk](https://en.wikipedia.org/wiki/Cyberpunk).",
+    "The film was animated by Tokyo Movie Shinsha and distributed by Toho. Wikipedia: “The British Film Institute describes Akira as a vital cornerstone of the cyberpunk genre, along with Blade Runner and Neuromancer.” [Wikipedia](https://en.wikipedia.org/wiki/Akira_(1988_film)).",
+    "Dave Kehr of the *Chicago Tribune* praised its “animation-specific ideas: Vehicles leave little color trails as they roar through the night”. [Wikipedia](https://en.wikipedia.org/wiki/Akira_(1988_film))."
+  ],
+  "interpretation": [
+    "Akira adds speed and violence to the night city of [Blade Runner](ref:blade-runner-1982). Its light trails are an early form of the style’s motion: light that smears as it moves.",
+    "It ties the style to Japan and to animation, which later games and anime continued."
+  ],
+  "borrow": [
+    "Show motion as a trail of colored light behind a moving element, not as a blur of the whole scene.",
+    "Draw a city as a mass of many small lit windows to suggest scale and density."
+  ],
+  "next": [
+    "Find an inspectable image (for example a museum-held poster or cel) and upgrade the evidence level."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The film, its posters, and its stills are in copyright. This record does not name the rights holders."
+  },
+  "identifiers": {
+    "wikidata": "Q1905968"
+  }
+}

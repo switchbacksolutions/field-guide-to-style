@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/pixelplaza-pirate-lair-2008.png",
+  "captured": "2026-10-03T00:39:52+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#000000",
+        "share": 0.239
+      },
+      {
+        "hex": "#458a93",
+        "share": 0.139
+      },
+      {
+        "hex": "#5c5b47",
+        "share": 0.045
+      },
+      {
+        "hex": "#4c4b3b",
+        "share": 0.041
+      },
+      {
+        "hex": "#6a6859",
+        "share": 0.04
+      },
+      {
+        "hex": "#644126",
+        "share": 0.039
+      },
+      {
+        "hex": "#5eb1b7",
+        "share": 0.039
+      },
+      {
+        "hex": "#7d5331",
+        "share": 0.038
+      },
+      {
+        "hex": "#7e7959",
+        "share": 0.033
+      },
+      {
+        "hex": "#928d6b",
+        "share": 0.029
+      }
+    ],
+    "background": "#000000",
+    "chroma": 0.16,
+    "lightness": 0.32,
+    "chromaticShare": 0.26,
+    "accentChroma": 0.34,
+    "distinct": 16,
+    "hues": 4
+  }
+}

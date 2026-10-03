@@ -1,0 +1,73 @@
+{
+  "id": "mong-kok-shantung-street-neon-2019",
+  "title": "Neon signs on Shantung Street, Mong Kok",
+  "type": "image",
+  "medium": "photograph",
+  "lede": "A crowded pedestrian street in Mong Kok, Hong Kong, under a canopy of illuminated Chinese and English signs for pharmacies, hotels, and shops.",
+  "summary": "Layers of red, green, and magenta signs over a night street crowd. Photograph by Benh Lieu Song, Mong Kok, Hong Kong, 2019.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Mong_Kok_Neon_Signs_Night_(48127904386).jpg",
+    "label": "Wikimedia Commons: Mong Kok Neon Signs Night (48127904386).jpg"
+  },
+  "creator": {
+    "name": "Benh Lieu Song"
+  },
+  "made": "13 June 2019",
+  "moods": [
+    "dense",
+    "nocturnal",
+    "busy"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Commons 1920 px rendition of the 6000 × 4000 px original, uploaded from Flickr (photo 48127904386) and reviewed by FlickreviewR 2. The description reads “Night busy life and neon signs on Shantung Street, near the Ladies Market in Mong Kok, Hong Kong.”"
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "cyberpunk",
+      "note": "Partial fit: the dense Hong Kong sign canopy that the genre took as a model for its night city. It is a real street, without HUD or terminal elements.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia names Hong Kong and Kowloon Walled City as models for the cyberpunk city, and Ridley Scott described the look of Blade Runner as “Hong Kong on a very bad day”. See [Blade Runner](ref:blade-runner-1982) and [Kowloon Walled City](ref:kowloon-walled-city-aerial-1989).",
+    "Mong Kok is a district of Kowloon known for street markets and dense shop signage. The photograph is in the Commons categories “Luminous shop signs in Hong Kong” and “Street photography in Hong Kong”. [Commons](https://commons.wikimedia.org/wiki/File:Mong_Kok_Neon_Signs_Night_(48127904386).jpg)."
+  ],
+  "observed": [
+    "Signs fill the upper half of the frame in several overlapping layers, each projecting over the street.",
+    "The largest are a red-on-blue LED sign with Chinese characters and a red-and-white checkered “Rx” mark at left, a green sign reading “REGENG HOTEL” at top center, and a magenta-edged sign reading “GOLDEN DISPENSARY” at right.",
+    "Many signs are framed by rows of small LED dots. Text is mostly heavy Chinese characters, with smaller English capitals below.",
+    "Two red no-entry road signs and metal barriers stand in the street. The crowd below is blurred by a slow shutter.",
+    "A dark tower block with lit windows closes the far end of the street. The sky is not visible."
+  ],
+  "interpretation": [
+    "The density is the point: sign over sign with no empty sky, which is the visual model for the style’s many small labelled panels.",
+    "Each sign is a framed panel with an outline of lights. That is the street origin of the glowing hairline frame."
+  ],
+  "borrow": [
+    "Overlap many small framed panels in depth, each with its own outline of light, rather than one large hero image.",
+    "Pair a large heavy heading with a small line of capitals below it, as on bilingual signs."
+  ],
+  "images": [
+    {
+      "file": "assets/references/mong-kok-shantung-street-neon-2019.jpg",
+      "alt": "A crowded night street lined with many projecting illuminated signs in Chinese and English, in red, green, blue, and magenta. People walk, blurred by motion, between barriers and two red no-entry signs.",
+      "width": 1600,
+      "height": 1067,
+      "kind": "photograph",
+      "caption": "Shantung Street, Mong Kok, Hong Kong, 13 June 2019. Photograph by Benh Lieu Song, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mong_Kok_Neon_Signs_Night_(48127904386).jpg), CC BY-SA 2.0. Shop signs appear incidentally as part of the street.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Mong_Kok_Neon_Signs_Night_%2848127904386%29.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-2.0",
+    "statement": "Photograph by Benh Lieu Song from Torcy, France, published on Flickr under CC BY-SA 2.0 and transferred to Wikimedia Commons. The main subject is a public street. The many shop signs are commercial signage seen as part of the street scene, not a single copyrighted work."
+  },
+  "identifiers": {
+    "commons": "File:Mong Kok Neon Signs Night (48127904386).jpg"
+  }
+}

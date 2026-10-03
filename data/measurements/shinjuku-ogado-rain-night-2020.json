@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/shinjuku-ogado-rain-night-2020.jpg",
+  "captured": "2026-10-03T00:35:48+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#21749d",
+        "share": 0.102
+      },
+      {
+        "hex": "#0a5c82",
+        "share": 0.059
+      },
+      {
+        "hex": "#438cb1",
+        "share": 0.051
+      },
+      {
+        "hex": "#5d9cbe",
+        "share": 0.05
+      },
+      {
+        "hex": "#7ea3c5",
+        "share": 0.048
+      },
+      {
+        "hex": "#1c678f",
+        "share": 0.043
+      },
+      {
+        "hex": "#5789ab",
+        "share": 0.043
+      },
+      {
+        "hex": "#437a9d",
+        "share": 0.043
+      },
+      {
+        "hex": "#2e4561",
+        "share": 0.039
+      },
+      {
+        "hex": "#429dc6",
+        "share": 0.038
+      }
+    ],
+    "background": "#21749d",
+    "chroma": 0.38,
+    "lightness": 0.46,
+    "chromaticShare": 0.72,
+    "accentChroma": 0.46,
+    "distinct": 24,
+    "hues": 2
+  }
+}

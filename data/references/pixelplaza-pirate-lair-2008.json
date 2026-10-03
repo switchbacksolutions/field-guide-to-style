@@ -1,0 +1,70 @@
+{
+  "id": "pixelplaza-pirate-lair-2008",
+  "title": "Käpt’n Börgers Piratennest (PixelPlaza)",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "A small isometric pirate harbor from the German pixel art community PixelPlaza, with a timber house, a fort wall, a ship, and figures a few pixels tall.",
+  "summary": "Isometric pirate lair on a rock, with a timber house, a galleon, palms, and turquoise water. Boerger, PixelPlaza, 2008, CC BY-SA 3.0.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:Pixel-Art_K%C3%A4pt%27n_B%C3%B6rgers_Piratennest.gif",
+    "label": "Wikimedia Commons: Pixel-Art Käpt'n Börgers Piratennest.gif"
+  },
+  "creator": {
+    "name": "Boerger (@pixelplaza.de)"
+  },
+  "made": "2008 (Commons date 11 April 2008)",
+  "moods": ["playful", "handmade", "detailed"],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded the Commons file (216 × 146 px, one frame, about 250 colors) and inspected it enlarged 5× to 1080 × 730 px."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "pixel-art",
+      "note": "Partial fit: hand-placed pixels at a fixed scale with tiny figures, but in the isometric branch that the style record lists as related, with many more colors than the 8-bit core.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes the file as “Artwork from the German pixel art community named PixelPlaza, depicting a pirates’ lair”, author Boerger (@pixelplaza.de), dated 11 April 2008, licensed CC BY-SA 3.0. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pixel-Art_K%C3%A4pt%27n_B%C3%B6rgers_Piratennest.gif).",
+    "Wikipedia names isometric pixel art as a common form, with Habbo Hotel and eBoy as examples. [Wikipedia: Pixel art](https://en.wikipedia.org/wiki/Pixel_art)."
+  ],
+  "observed": [
+    "A harbor seen from above at an isometric angle, on a white ground: a timber-framed house with a brown roof, a jetty on stilts, a gray stone fort wall, and a tower on a rock.",
+    "A brown galleon with two masts lies in turquoise water. A red parrot sits on the wall.",
+    "Figures are about 5 to 8 pixels tall.",
+    "Walls and roofs follow stepped two-to-one diagonals.",
+    "Rock and stone are shaded with many close tones and scattered single pixels, so the texture looks noisy rather than flat.",
+    "No smooth gradient appears. White spray pixels mark the waves at the rock."
+  ],
+  "interpretation": [
+    "The piece shows the community form of pixel art in the 2000s: a self-contained scene for its own sake, not a game asset.",
+    "Its many tones and textured rock move away from the flat 8-bit palette. Use it for the isometric branch, not as a model for interfaces."
+  ],
+  "borrow": [
+    "Draw isometric edges with a regular two-pixels-across, one-pixel-down step.",
+    "Give tiny figures one bright color each so that they read against a detailed ground."
+  ],
+  "images": [
+    {
+      "file": "assets/references/pixelplaza-pirate-lair-2008.png",
+      "alt": "Isometric pixel-art pirate harbor on white: a brown timber house on a jetty, a gray stone fort wall and tower on a rock, palm trees, and a brown two-masted ship in turquoise water.",
+      "width": 864,
+      "height": 584,
+      "kind": "source-image",
+      "caption": "Boerger (PixelPlaza), “Käpt’n Börgers Piratennest”, 2008, [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pixel-Art_K%C3%A4pt%27n_B%C3%B6rgers_Piratennest.gif), CC BY-SA 3.0. Enlarged 4× with nearest-neighbor scaling and saved as PNG.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Pixel-Art_K%C3%A4pt%27n_B%C3%B6rgers_Piratennest.gif",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-SA-3.0",
+    "statement": "Commons license: CC BY-SA 3.0, author Boerger (@pixelplaza.de). The enlarged copy here is shared under the same license."
+  },
+  "identifiers": {
+    "commons": "File:Pixel-Art Käpt'n Börgers Piratennest.gif"
+  }
+}

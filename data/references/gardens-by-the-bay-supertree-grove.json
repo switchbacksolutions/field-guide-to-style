@@ -1,0 +1,63 @@
+{
+  "id": "gardens-by-the-bay-supertree-grove",
+  "title": "Supertree Grove, Gardens by the Bay",
+  "type": "object",
+  "medium": "architecture",
+  "lede": "Eighteen steel “trees”, 25 to 50 metres tall, carry vertical gardens, photovoltaic cells, and cooling exhausts in Singapore’s Bay South Garden.",
+  "summary": "Planted steel tree structures with solar cells and a skyway, by Grant Associates. Singapore, opened 2012.",
+  "source": {
+    "url": "https://en.wikipedia.org/wiki/Gardens_by_the_Bay",
+    "label": "Wikipedia: Gardens by the Bay"
+  },
+  "creator": {
+    "name": "Grant Associates, with engineering by Atelier One and Atelier Ten"
+  },
+  "made": "Bay South Garden opened 29 June 2012 (Wikipedia)",
+  "moods": [
+    "verdant",
+    "spectacular",
+    "hopeful"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons photograph [Singapore Gardens by the Bay Supertree Grove 22.jpg](https://commons.wikimedia.org/wiki/File:Singapore_Gardens_by_the_Bay_Supertree_Grove_22.jpg) by Zairon, 4 November 2015 (original 4566 × 3003 px, viewed at 1600 × 1053 px), in a scratch folder. It is the image on the Wikidata item. The photo shows the grove by day; the night light show was not inspected."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "solarpunk",
+      "note": "Built technology shaped like trees, wrapped in living plants and fitted with solar cells: one of the buildings most often cited as solarpunk. Partial fit: it is a state-funded spectacle, not a handmade, community-scale work.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: the Supertrees are 18 tree-like structures between 25 and 50 metres tall, conceived and designed by Grant Associates with the engineering of Atelier One and Atelier Ten. They are vertical gardens planted with ferns, vines, orchids, and bromeliads. [Wikipedia](https://en.wikipedia.org/wiki/Gardens_by_the_Bay).",
+    "Wikipedia: they carry photovoltaic cells that power some functions such as lighting, collect rainwater for irrigation and fountains, and act as air intakes and exhausts for the cooling systems of the conservatories. The OCBC Skyway joins two of the larger Supertrees. [Wikipedia](https://en.wikipedia.org/wiki/Gardens_by_the_Bay).",
+    "Wikimedia Commons files the park under [Category:Solarpunk](https://commons.wikimedia.org/wiki/Category:Solarpunk) as an example."
+  ],
+  "observed": [
+    "A large Supertree has a trunk covered in climbing plants and a flared crown of dark purple steel members, branching in short angled segments.",
+    "Inside the crown, a white funnel-shaped core has thin green vertical ribs. Cables tie the crown to a neighbouring tree.",
+    "A yellow-railed elevated walkway passes the trunk at mid-height, with visitors on it.",
+    "Smaller Supertrees at right have planted crowns. At left, the curved glass shell of a conservatory with white arched ribs rises behind the trees.",
+    "Below, a dense tropical garden in bright greens. The sky is overcast white.",
+    "The solar cells are not legible at this scale and angle."
+  ],
+  "interpretation": [
+    "The grove is the built version of solarpunk’s plant-and-technology hybrid: the structure takes the form of a tree, and living plants clothe it. The arched glass conservatory beside it supplies the greenhouse motif.",
+    "Its scale, purple steel, and night light show also make it a tourist spectacle. That aligns it partly with the glossy, corporate Frutiger Eco branch, so treat it as a partial fit."
+  ],
+  "borrow": [
+    "Shape a technical structure like a plant, and let real planting cover its lower part.",
+    "Combine a branching steel lattice with a smooth arched glass shell for contrast."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image stored. The Supertrees are a recent design (2012) and protected as works. The Commons photograph by Zairon is CC BY-SA 4.0, but the structures it shows are not in the public domain, so the catalogue links to it only."
+  },
+  "identifiers": {
+    "wikidata": "Q120450702"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "van-doesburg-mecano-red-chroniek-1922",
+  "title": "Mécano no. 3 (Red): “Chroniek-Mécano”, 1922",
+  "type": "print",
+  "medium": "editorial",
+  "lede": "In his Dada magazine Mécano, Theo van Doesburg reports the 1922 Weimar congress of Constructivists and Dadaists as a mock telegram, under a title that mixes capitals and lowercase letter by letter.",
+  "summary": "A mixed-case sans title, telegram-style text cut by heavy black dashes, and thick rules on pink-red paper. Van Doesburg, 1922.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:M%C3%A9cano_no_003_rouge,_rood,_rot,_red_Chroniek-M%C3%A9cano.jpg",
+    "label": "Wikimedia Commons: Mécano no. 3, “Chroniek-Mécano” (scan from RKD)"
+  },
+  "creator": {
+    "name": "Theo van Doesburg (attributed by Commons and RKD; the page is unsigned)",
+    "url": "https://en.wikipedia.org/wiki/Theo_van_Doesburg"
+  },
+  "made": "About October 1922 (Commons, after RKD)",
+  "moods": [
+    "ironic",
+    "irreverent",
+    "typographic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the Commons scan credited to RKD (1500 × 1922 px original, viewed at 1200 px). Commons does not name the physical copy or its owner. The page is one page of the magazine, not its cover."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "dada",
+      "note": "A page from a Dada magazine: a letter-by-letter mixed-case title, heavy black dashes as ornaments, and one strong color. Partial fit: the body is one plain roman in a justified block.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Commons describes the page as “Chroniek-Mécano”, *Mécano* no. 3 Rouge, Rood, Rot, Red, about October 1922, by [Theo van Doesburg], source RKD. [Commons](https://commons.wikimedia.org/wiki/File:M%C3%A9cano_no_003_rouge,_rood,_rot,_red_Chroniek-M%C3%A9cano.jpg).",
+    "*Mécano* was the Dutch Dada magazine that van Doesburg published in 1922–1923 under his Dada name I.K. Bonset. [Wikipedia: Theo van Doesburg](https://en.wikipedia.org/wiki/Theo_van_Doesburg). Each issue was named for a color: Commons also holds the [yellow](https://commons.wikimedia.org/wiki/File:M%C3%A9cano_yellow_001.jpg) and [blue](https://commons.wikimedia.org/wiki/File:Wrapper_M%C3%A9cano_Blue_1922.jpg) wrappers.",
+    "The text reports the International Congress of Constructivists and Dadaists in Weimar in September 1922, with Tzara, Arp, Schwitters, Lissitzky, and Moholy-Nagy. The [style record](style:dada) treats the overlap of late Dada and Constructivism."
+  ],
+  "observed": [
+    "The page is printed in black on a strong pink-red paper.",
+    "The title “ChRoNiEk-MÉCaNo” is a geometric sans-serif in which capitals and small letters alternate inside the word, and some letters drop below the baseline.",
+    "Under it, “Cablogramme” and a line of cities, “Weimar—Paris—Zürich—Budapest—Moskau”, are set in a lighter grotesque.",
+    "The body is one justified block of a plain roman. It switches between French, Dutch, and German, and short heavy black dashes separate the items, as in a telegram.",
+    "Two words, “constatation” and “Bauchgehirn”, are set in a bold grotesque inside the roman text.",
+    "Thick black rules frame the page at top and bottom. One rule ends the last line of text."
+  ],
+  "interpretation": [
+    "The disorder here is verbal and in the title, not in the layout. The page shows the Dutch side of Dada, where van Doesburg kept the strong rules of De Stijl and put the chaos into the letters and the languages."
+  ],
+  "borrow": [
+    "Alternate capitals and small letters inside one heading word, and keep the body in a plain roman.",
+    "Use short heavy black dashes as item separators in running text.",
+    "Print a whole page on one strong colored ground with black only."
+  ],
+  "images": [
+    {
+      "file": "assets/references/van-doesburg-mecano-red-chroniek-1922.jpg",
+      "alt": "Pink-red magazine page with the title ChRoNiEk-MÉCaNo in alternating capitals and small letters, the subtitle Cablogramme, and a justified block of black text about the 1922 Weimar congress of Constructivists and Dada, cut by short heavy dashes and framed by thick black rules.",
+      "width": 1249,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "Theo van Doesburg, “Chroniek-Mécano”, *Mécano* no. 3 (Red), about October 1922. Scan from RKD via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:M%C3%A9cano_no_003_rouge,_rood,_rot,_red_Chroniek-M%C3%A9cano.jpg), PD-old-70-expired.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/0/01/M%C3%A9cano_no_003_rouge%2C_rood%2C_rot%2C_red_Chroniek-M%C3%A9cano.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Commons tags the scan PD-old-70-expired. Van Doesburg, a Dutch author, died in 1931, so the work is public domain in the Netherlands. It was published in 1922, so it is public domain in the United States. The page is unsigned; if another editor wrote it, the attribution would need review, but the only other names on the page are subjects of the report."
+  },
+  "identifiers": {
+    "commons": "File:Mécano no 003 rouge, rood, rot, red Chroniek-Mécano.jpg"
+  }
+}

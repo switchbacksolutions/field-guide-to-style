@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/holiday-bowl-coffee-shop-los-angeles.jpg",
+  "captured": "2026-10-03T00:33:50+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#b8b8b8",
+        "share": 0.185
+      },
+      {
+        "hex": "#070707",
+        "share": 0.139
+      },
+      {
+        "hex": "#a9a9a9",
+        "share": 0.093
+      },
+      {
+        "hex": "#777777",
+        "share": 0.092
+      },
+      {
+        "hex": "#f9f9f9",
+        "share": 0.078
+      },
+      {
+        "hex": "#6c6c6c",
+        "share": 0.065
+      },
+      {
+        "hex": "#828282",
+        "share": 0.062
+      },
+      {
+        "hex": "#d0d0d0",
+        "share": 0.062
+      },
+      {
+        "hex": "#9e9e9e",
+        "share": 0.06
+      },
+      {
+        "hex": "#919191",
+        "share": 0.031
+      }
+    ],
+    "background": "#b8b8b8",
+    "chroma": 0.0,
+    "lightness": 0.53,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 12,
+    "hues": 0
+  }
+}

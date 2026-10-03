@@ -1,0 +1,66 @@
+{
+  "id": "hoch-cut-with-the-kitchen-knife-1919",
+  "title": "Hannah Höch, Cut with the Kitchen Knife, 1919",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "Hannah Höch’s large Berlin photomontage cuts politicians, Dadaists, crowds, machines, and press headlines out of the illustrated papers and packs them into one sheet.",
+  "summary": "Dense photomontage of press photographs, gears, crowds, and cut words such as “dada” and “Die anti dadaistische Bewegung”. Höch, Berlin, 1919.",
+  "source": {
+    "url": "https://id.smb.museum/object/961048",
+    "label": "Staatliche Museen zu Berlin, Neue Nationalgalerie: Schnitt mit dem Küchenmesser Dada …, NG 57/61"
+  },
+  "creator": {
+    "name": "Hannah Höch (1889–1978)",
+    "url": "https://en.wikipedia.org/wiki/Hannah_H%C3%B6ch"
+  },
+  "made": "1919 (SMB). Some reproductions give 1919–1920 or 1920.",
+  "moods": [
+    "chaotic",
+    "satirical",
+    "rebellious"
+  ],
+  "notice": "No image is stored. Hannah Höch died in 1978, so the work is in copyright in Germany until the end of 2048. The SMB credits the image © VG Bild-Kunst, Bonn.",
+  "evidence": {
+    "level": "observed",
+    "note": "Read the [SMB collection record](https://recherche.smb.museum/detail/961048/schnitt-mit-dem-k%C3%BCchenmesser-dada-durch-die-letzte-weimarer-bierbauch-kulturepoche-deutschlands) and inspected, in a scratch folder only, a 1248 × 1584 px reproduction uploaded to the [Internet Archive](https://archive.org/details/jpg-hannah-hoch-schnitt-mit-dem-kuchenmesser-dada-durch-die-letzte-weimarer-bier) without a stated source. The object is unique: SMB, Neue Nationalgalerie, NG 57/61."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "dada",
+      "note": "The canonical Berlin Dada photomontage: press photographs cut and joined at clashing scales, with cut-out words in many faces.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The SMB records the work as *Schnitt mit dem Küchenmesser Dada durch die letzte Weimarer Bierbauch-Kulturepoche Deutschlands* (Cut with the Kitchen Knife Dada through the Last Weimar Beer-Belly Cultural Epoch in Germany), 1919, collage, paper on card, 114 × 90 cm, NG 57/61, bought in 1961 from Galerie Meta Nierendorf with funds from BASF. [SMB](https://recherche.smb.museum/detail/961048/schnitt-mit-dem-k%C3%BCchenmesser-dada-durch-die-letzte-weimarer-bierbauch-kulturepoche-deutschlands).",
+    "The SMB text says that Höch and Raoul Hausmann made their first Dada photomontages after a summer stay on the island of Wollin in 1918. It says the upper half joins technical progress and war politics, with Albert Einstein and Wilhelm II, and that Höch often stages ironic gender swaps, for example Hindenburg as a belly dancer and George Grosz as a ballerina. [SMB](https://recherche.smb.museum/detail/961048/schnitt-mit-dem-k%C3%BCchenmesser-dada-durch-die-letzte-weimarer-bierbauch-kulturepoche-deutschlands).",
+    "Compare the sparse Cologne montage [by Baargeld](ref:baargeld-typische-vertikalklitterung-1920)."
+  ],
+  "observed": [
+    "Hundreds of cut photographs from the illustrated press fill the whole sheet with almost no empty ground: heads, crowds, soldiers, dancers, an elephant, ball bearings, gears, a car, and a large wheel.",
+    "The scale of the pieces does not agree. Huge heads sit next to tiny full figures, and a giant ball bearing curves through the middle.",
+    "Cut words and headlines are pasted among the images in many faces: lowercase “dada” in a heavy roman at upper left, “Die anti dadaistische Bewegung” at upper right, “Die große Welt dada” on a tilted slip, and “DADAiSten” in mixed condensed letters at lower right.",
+    "Small slips carry phrases such as “Legen Sie Ihr Geld in dada an!”, “He, he, Sie junger Mann Dada ist keine Kunstrichtung”, and “Tretet dada bei.”",
+    "Large single letters, such as a black “e” at lower left and a “V”, are cut from posters and used as shapes.",
+    "Most of the image is in sepia and grey halftone. A strip of blue at the left edge, a pale blue figure at the top, and a dark ground at upper right are the main other tones. The initials “HH” sit at lower left."
+  ],
+  "interpretation": [
+    "This is the reference for the style’s photomontage facet: the cut edges, the mixed scales, and the press type all stay visible, and the density is itself the message.",
+    "The type here comes from cut printed matter, not from a printer’s case. This is the same move as in [Schwitters’s Mal Kah](ref:schwitters-mz-245-mal-kah-1921), but at the scale of a wall."
+  ],
+  "borrow": [
+    "Mix photographs at very different scales, so that a head can be larger than a crowd.",
+    "Paste short slogans on small slips at slight angles among the images."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. Hannah Höch, a German author, died in 1978, so the work is protected in Germany until the end of 2048. The SMB photograph is credited “Staatliche Museen zu Berlin, Neue Nationalgalerie / Jörg P. Anders” and “© VG Bild-Kunst, Bonn, 2021”. The Internet Archive copy states no source or license."
+  },
+  "identifiers": {
+    "smb": "961048",
+    "smb-inventory": "NG 57/61"
+  }
+}

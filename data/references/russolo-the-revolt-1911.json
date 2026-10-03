@@ -1,0 +1,71 @@
+{
+  "id": "russolo-the-revolt-1911",
+  "title": "The Revolt",
+  "type": "image",
+  "medium": "painting",
+  "lede": "Luigi Russolo paints a crowd in revolt as a red mass driving a row of repeated chevrons into a blue street, the clearest painted diagram of a Futurist line of force.",
+  "summary": "Repeated red chevrons drive a red mass into tilted blue buildings. Luigi Russolo, Milan, c. 1911.",
+  "source": {
+    "url": "https://www.kunstmuseum.nl/en/collection/revolt",
+    "label": "Kunstmuseum Den Haag: The Revolt"
+  },
+  "creator": {
+    "name": "Luigi Russolo",
+    "url": "https://en.wikipedia.org/wiki/Luigi_Russolo"
+  },
+  "made": "c. 1911",
+  "moods": ["aggressive", "loud", "fast"],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the [Commons file](https://commons.wikimedia.org/wiki/File:Luigi_Russolo_La_Rivolta_1911.jpg) (original 1677 × 1075 px; a 1280 × 821 px rendering was inspected and stored). The physical work is the painting in the Kunstmuseum Den Haag, object number 0333154. The Commons file is credited to secondary websites, not to the museum, so its color may differ from the canvas."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "futurism",
+      "note": "A canonical early Futurist painting: the crowd and the city shown through repeated wedge shapes that act as lines of force.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Oil on canvas, 150.8 × 230.7 cm, c. 1911, made in Milan. Kunstmuseum Den Haag, object number 0333154, acquired from the Estate of Myrtil Frank and Flory Frank-Marburger. [Kunstmuseum Den Haag](https://www.kunstmuseum.nl/en/collection/revolt)."
+  ],
+  "observed": [
+    "Five or more red chevrons, each the same angle, repeat from the lower left toward the upper right, growing smaller and closer together.",
+    "The right half is a dense red-orange field with small scratched figures, the crowd, pushing into the angle of the chevrons.",
+    "Blue and violet buildings with dark square windows tilt away from the force, as if bent by it.",
+    "A yellow-green band runs between the red field and the buildings along the same diagonal.",
+    "Color is flat and nearly unmixed: red, orange, blue, yellow, green, and black."
+  ],
+  "interpretation": [
+    "The repeated chevron is the Futurist idea of motion by repetition in its most graphic form. It works like a printed arrow and predicts the wedges of later poster design, including [Lissitzky’s red wedge](ref:lissitzky-beat-the-whites-red-wedge-poster), although no direct link is documented here.",
+    "The painting is political: the force is a crowd, and the city bends before it."
+  ],
+  "borrow": [
+    "Repeat one wedge or chevron several times along a diagonal, closer together toward the target, to show direction and acceleration.",
+    "Let the shapes that receive the force tilt away from it.",
+    "Use one hot dominant field (red-orange) against a cool one (blue) with a narrow yellow band at the boundary."
+  ],
+  "images": [
+    {
+      "file": "assets/references/russolo-the-revolt-1911.jpg",
+      "alt": "Painting in which a row of repeated red chevrons, getting smaller toward the upper right, drives a red-orange mass of small figures into blue buildings with dark windows that tilt away. A yellow-green band runs along the diagonal.",
+      "width": 1280,
+      "height": 821,
+      "kind": "source-image",
+      "caption": "Luigi Russolo, *The Revolt*, c. 1911, oil on canvas. Kunstmuseum Den Haag, 0333154. Image from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Luigi_Russolo_La_Rivolta_1911.jpg), marked public domain.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Luigi_Russolo_La_Rivolta_1911.jpg",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "public domain",
+    "statement": "Wikimedia Commons marks the file public domain. Russolo was Italian and died in 1947, more than 70 years ago, so the painting is public domain in Italy. The Commons file states that it is public domain in the United States because it was first published before 1931. The image is a faithful reproduction of a two-dimensional work."
+  },
+  "identifiers": {
+    "kunstmuseum-den-haag": "0333154",
+    "commons": "File:Luigi Russolo La Rivolta 1911.jpg"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "stardust-roadside-sign-las-vegas",
+  "title": "Stardust roadside sign, Las Vegas",
+  "type": "object",
+  "medium": "signage",
+  "lede": "The Stardust casino’s roadside sign at night: the name in bulb-filled capitals inside a cloud of lit four-point stars that rises to a point, on black sky.",
+  "summary": "Bulb-filled capitals in a cloud of lit four-point stars, some outlined in blue neon, on black night sky. Las Vegas, 1968 sign, photographed 1980–2006.",
+  "source": {
+    "url": "https://www.loc.gov/item/2011631018/",
+    "label": "Library of Congress: Carol M. Highsmith, Historic Stardust sign, Las Vegas, Nevada"
+  },
+  "creator": {
+    "name": "Paul Miller, Ad Art Company (roadside sign, per Wikipedia); the Library of Congress note credits Kermit Wayne for Young Electric Sign Company"
+  },
+  "made": "Roadside sign installed February 1968, lettering replaced 1991 (Wikipedia); the Library of Congress note says 1958. Photographed between 1980 and 2006.",
+  "moods": [
+    "flashy",
+    "exuberant",
+    "nocturnal"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected Carol M. Highsmith’s photograph, Library of Congress LC-HS503-1563, 1750 × 1280 px (50 % IIIF size), in a scratchpad. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "googie",
+      "note": "Starbursts as pure ornament, lit on a night sky: the style’s neon-on-dark color and star imagery in one sign.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Highsmith’s note: built in 1958, fabricated by Young Electric Sign Company, with Kermit Wayne’s design chosen for both the facade and the roadside signs. [Library of Congress](https://www.loc.gov/item/2011631018/).",
+    "Wikipedia gives a different account: Kermit Wayne designed the 1958 facade sign (216 feet long, 7,100 feet of neon, 11,000 bulbs); a roadside sign by Paul Miller of the Ad Art Company was installed in February 1968; its lettering was replaced with Helvetica in 1991; it was dismantled in 2007 and given to the Neon Museum. *Learning from Las Vegas* studied the 1968 roadside sign. [Wikipedia: Stardust Resort and Casino](https://en.wikipedia.org/wiki/Stardust_Resort_and_Casino)."
+  ],
+  "observed": [
+    "“STARDUST” runs across the middle in heavy sans-serif capitals filled with white bulbs and edged in red.",
+    "Around the word, dozens of four-point stars of different sizes, filled with gold, orange, red, and white bulbs, form a broad cloud.",
+    "A few large stars are outlined in light-blue neon tube instead of bulbs.",
+    "Above the word the stars thin into a single column that rises to a point, like a rocket trail or a flame.",
+    "Rows of single dots of light fill the gaps; the ground is fully black night sky.",
+    "The letters have straight-cut terminals and a plain grotesque form; they may be the 1991 replacement lettering, not the original."
+  ],
+  "interpretation": [
+    "The sign is closest to the style’s night version: points of warm light and one cool neon accent on black, with the star repeated until it becomes a texture.",
+    "The tower of stars turns a horizontal name panel into an upswept, pointed silhouette."
+  ],
+  "borrow": [
+    "Repeat a four-point star at several sizes as a field around a heading, on a black ground.",
+    "Outline a few of the stars in a cool color while most are warm, so a second hue punctuates the field."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The Highsmith photograph has “No known restrictions on publication” (Library of Congress), but the sign is the main subject and its own copyright status was not checked. Sources disagree on its designer and date."
+  },
+  "identifiers": {
+    "loc": "2011631018"
+  }
+}

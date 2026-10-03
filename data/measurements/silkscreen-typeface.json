@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/silkscreen-typeface.png",
+  "captured": "2026-10-03T00:36:21+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#ffffff",
+        "share": 0.898
+      },
+      {
+        "hex": "#000000",
+        "share": 0.044
+      },
+      {
+        "hex": "#b8b8b8",
+        "share": 0.008
+      },
+      {
+        "hex": "#191919",
+        "share": 0.007
+      },
+      {
+        "hex": "#cdcdcd",
+        "share": 0.005
+      },
+      {
+        "hex": "#dfdfdf",
+        "share": 0.005
+      },
+      {
+        "hex": "#f0f0f0",
+        "share": 0.005
+      },
+      {
+        "hex": "#a3a3a3",
+        "share": 0.005
+      },
+      {
+        "hex": "#5b5b5b",
+        "share": 0.004
+      },
+      {
+        "hex": "#373737",
+        "share": 0.003
+      }
+    ],
+    "background": "#ffffff",
+    "chroma": 0.0,
+    "lightness": 0.93,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0
+  }
+}

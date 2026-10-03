@@ -1,0 +1,68 @@
+{
+  "id": "kenney-1-bit-pack-2019",
+  "title": "Kenney 1-Bit Pack",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "Kenney’s public-domain sheet of more than 1,000 game tiles draws every tree, wall, monster, weapon, icon, and letter on a 16-pixel grid with a few flat colors.",
+  "summary": "A tilesheet of one-color 16 × 16 icons, tiles, and letters on dark plum, with a few accent colors. Kenney, 2019–2020, CC0.",
+  "source": {
+    "url": "https://opengameart.org/content/1-bit-pack",
+    "label": "OpenGameArt: 1-Bit Pack"
+  },
+  "creator": {
+    "name": "Kenney",
+    "url": "https://www.kenney.nl/"
+  },
+  "made": "Posted on OpenGameArt 6 May 2019; version 1.1 dated 6 May 2020 in its License.txt",
+  "moods": ["game-like", "crisp", "playful"],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded `1bitpack_kenney_1.1.zip` from the OpenGameArt page and inspected `Tilesheet/colored_packed.png` (768 × 352 px) enlarged 2× to 1536 × 704 px. The file has exactly 8 colors. The sample map on the page was not used, because it is resampled (254 colors) and carries a license banner."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "pixel-art",
+      "note": "A complete low-resolution sprite and tile vocabulary: whole-pixel shapes on a 16-pixel grid, an 8-color palette, a bitmap alphabet, and game items such as hearts, keys, coins, and cards.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "OpenGameArt describes the pack as more than 1,000 tiles, characters, objects, and items for roguelike and RPG games, with tiles for UI, platformers, and puzzle games, a monochrome version, and transparent versions. [OpenGameArt](https://opengameart.org/content/1-bit-pack).",
+    "The License.txt in the download says “Created/distributed by Kenney (www.kenney.nl)”, “Creation date: 06-05-2020”, and “License: (Creative Commons Zero, CC0)”. The OpenGameArt page shows the submission date 6 May 2019, so the 2020 date is probably version 1.1. [OpenGameArt](https://opengameart.org/content/1-bit-pack)."
+  ],
+  "observed": [
+    "A dense grid of 16 × 16 tiles on a dark plum ground (#472d3c).",
+    "Most tiles are one flat light color (#cfc6b8): characters, skulls, swords, bows, walls, fences, furniture, and frames.",
+    "A few groups use one accent each: green trees and plants, blue water, brown furniture, red bricks and playing cards, yellow coins and crowns.",
+    "The sheet has a full bitmap alphabet and digits, arrows, hearts, crosses, dice, and warning signs at the lower right.",
+    "Shading is absent. Each sprite is a silhouette with interior lines cut out of it.",
+    "All diagonals, such as the swords and the diamond frame, step one pixel at a time."
+  ],
+  "interpretation": [
+    "The pack shows the most reduced form of the style: one color per object and one pixel unit for everything. It reads as game art without any shading.",
+    "The sheet is also a ready inventory of the game furniture that the rubric names: hearts, coins, keys, cursors, frames, and a pixel alphabet."
+  ],
+  "borrow": [
+    "Draw icons as one-color silhouettes on a 16-pixel grid, and color each family of icons with one accent.",
+    "Use a dark, slightly warm ground instead of pure black, so the light pixels read softly."
+  ],
+  "images": [
+    {
+      "file": "assets/references/kenney-1-bit-pack-2019.png",
+      "alt": "A large grid of small one-color pixel tiles on dark plum: trees, buildings, furniture, characters, monsters, weapons, potions, playing cards, arrows, hearts, and a pixel alphabet, mostly in off-white with green, blue, brown, red, and yellow accents.",
+      "width": 1536,
+      "height": 704,
+      "kind": "source-image",
+      "caption": "Kenney, 1-Bit Pack, `colored_packed.png` from the download on [OpenGameArt](https://opengameart.org/content/1-bit-pack), CC0. Enlarged 2× with nearest-neighbor scaling and saved as PNG.",
+      "original": "https://opengameart.org/sites/default/files/1bitpack_kenney_1.1.zip",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC0-1.0",
+    "statement": "License.txt: “License: (Creative Commons Zero, CC0) … This content is free to use in personal, educational and commercial projects. Support us by crediting Kenney or www.kenney.nl (this is not mandatory).”"
+  }
+}

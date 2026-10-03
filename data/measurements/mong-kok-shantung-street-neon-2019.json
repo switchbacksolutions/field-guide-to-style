@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/mong-kok-shantung-street-neon-2019.jpg",
+  "captured": "2026-10-03T00:32:30+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#573c3a",
+        "share": 0.079
+      },
+      {
+        "hex": "#6b5960",
+        "share": 0.077
+      },
+      {
+        "hex": "#644c4d",
+        "share": 0.069
+      },
+      {
+        "hex": "#433336",
+        "share": 0.059
+      },
+      {
+        "hex": "#816971",
+        "share": 0.046
+      },
+      {
+        "hex": "#957a8d",
+        "share": 0.044
+      },
+      {
+        "hex": "#494353",
+        "share": 0.043
+      },
+      {
+        "hex": "#30282e",
+        "share": 0.037
+      },
+      {
+        "hex": "#b19999",
+        "share": 0.037
+      },
+      {
+        "hex": "#4e5376",
+        "share": 0.036
+      }
+    ],
+    "background": "#573c3a",
+    "chroma": 0.17,
+    "lightness": 0.43,
+    "chromaticShare": 0.15,
+    "accentChroma": 0.52,
+    "distinct": 21,
+    "hues": 5
+  }
+}

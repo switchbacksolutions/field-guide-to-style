@@ -1,0 +1,73 @@
+{
+  "id": "hachi-maru-pop-typeface-2020",
+  "title": "Hachi Maru Pop typeface",
+  "type": "object",
+  "medium": "typeface",
+  "lede": "Nonty’s open-source Japanese font, based on the round handwriting (marumoji) that girls made popular in the 1970s and 1980s.",
+  "summary": "Rounded handwriting-style Japanese and Latin font with circular dots and loops. Nonty (Norio Kanisawa), 2020, OFL.",
+  "source": {
+    "url": "https://github.com/noriokanisawa/HachiMaruPop",
+    "label": "GitHub: noriokanisawa/HachiMaruPop"
+  },
+  "creator": {
+    "name": "Nonty (Norio Kanisawa)",
+    "url": "https://github.com/noriokanisawa"
+  },
+  "made": "2020 (font copyright date); repository created March 2020",
+  "moods": [
+    "cute",
+    "playful",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the repository’s sample image `HachiMaruPop_sample.png` (2000 × 1000 px). Read the README, `DESCRIPTION.en_us.html`, and `OFL.txt` in the repository."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "kawaii",
+      "note": "A digital revival of marumoji, the round handwriting that the style record names as the source of kawaii lettering.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The README says the font was made for Google Fonts and takes its idea from the round letters (丸文字) popular in Japan around the 1980s. The English text calls it “a cute font” based on the round handwriting popular among young Japanese girls in the 1970s and 1980s, and notes that some schools prohibited the round letters. [GitHub README](https://github.com/noriokanisawa/HachiMaruPop).",
+    "The name refers to “80” for the 1980s. The designer writes that it is eye-catching but “lacks a little on readability”, and recommends it for large sizes. It covers hiragana, katakana, Latin, numerals, symbols, and about 6,700 kanji (JIS levels 1 and 2 and IBM extensions), and it works in vertical text. [DESCRIPTION.en_us.html](https://github.com/noriokanisawa/HachiMaruPop/blob/master/DESCRIPTION.en_us.html).",
+    "`OFL.txt` reads “Copyright 2020 The Hachi Maru Pop Project Authors” and licenses the font under the SIL Open Font License 1.1. [OFL.txt](https://github.com/noriokanisawa/HachiMaruPop/blob/master/OFL.txt)."
+  ],
+  "observed": [
+    "The sample shows “はちまるポップ” and “HachiMaruPop” in black on white.",
+    "Strokes are a single even weight with fully round ends, like a felt-tip pen.",
+    "Kana are wide and bulbous: the loops of は, ま, and る are large closed circles, and the handakuten on ポ and プ are open rings.",
+    "In the Latin line, the “i” has a ring for its dot, the bowls of a, o, and p are near-perfect circles, and the capitals H and M are narrow and soft-cornered.",
+    "Letters sit loosely spaced on a common baseline, with no contrast between thick and thin."
+  ],
+  "interpretation": [
+    "The face shows the typographic side of kawaii: everything that can be a circle is a circle, and dots become rings. This matches the style record’s “Round letters.” rule.",
+    "The designer’s own warning about readability supports the style’s rule to use such faces for headings and keep body text in a plainer rounded sans."
+  ],
+  "borrow": [
+    "Use a round handwriting face for short headings, names, and labels, and a plain rounded sans for body text.",
+    "Replace small dots in icons and decoration with open rings to echo the type."
+  ],
+  "images": [
+    {
+      "file": "assets/references/hachi-maru-pop-typeface-2020.png",
+      "alt": "Type sample on white: the Japanese name はちまるポップ in large round black kana with circular loops, and below it HachiMaruPop in round Latin letters with a ring as the dot of the i.",
+      "width": 1600,
+      "height": 800,
+      "kind": "source-image",
+      "display": "diagram",
+      "caption": "Hachi Maru Pop sample image from the [project repository](https://github.com/noriokanisawa/HachiMaruPop), © 2020 The Hachi Maru Pop Project Authors, SIL Open Font License 1.1.",
+      "original": "https://raw.githubusercontent.com/noriokanisawa/HachiMaruPop/master/HachiMaruPop_sample.png",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "OFL-1.1",
+    "statement": "The repository, including the sample image, is published under the SIL Open Font License 1.1 (GitHub license OFL-1.1). The image shows only glyphs of the font. Letterform designs are not copyrightable in the United States, and the Japanese Supreme Court (2000) gave typefaces copyright only in exceptional cases. Whether the OFL covers the sample PNG as part of the “Font Software” should be confirmed by the lead curator."
+  }
+}

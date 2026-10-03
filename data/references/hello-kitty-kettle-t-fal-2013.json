@@ -1,0 +1,58 @@
+{
+  "id": "hello-kitty-kettle-t-fal-2013",
+  "title": "Hello Kitty electric kettle",
+  "type": "product",
+  "medium": "product",
+  "lede": "A small T-fal Aprecia kettle in white and pale pink, with a black line drawing of Kitty holding a name plate.",
+  "summary": "White and pale-pink electric kettle with a line-drawn Hello Kitty holding a name sign. Japan, 2013.",
+  "source": {
+    "url": "https://collections.vam.ac.uk/item/O1322383/kettle/",
+    "label": "V&A: Kettle, showing Hello Kitty, FE.20:1, 2-2015"
+  },
+  "creator": {
+    "name": "T-fal (brand marked on the kettle); Hello Kitty character by Sanrio"
+  },
+  "made": "2013",
+  "moods": [
+    "cute",
+    "gentle",
+    "friendly"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected the V&A photograph 2015HW1065 of object FE.20:1, 2-2015 (1200 × 1448 px, IIIF) in a scratchpad copy. The V&A record names no maker; the T-fal Aprecia+ mark is read from the photograph. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "kawaii",
+      "note": "A rounded white-and-pink appliance whose only decoration is Kitty with dot eyes and a red bow, drawn as a sticker-like line figure.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The V&A describes the object as “Kettle, plastic and metal; electrical components, showing Hello Kitty, Japan, 2013”. It was acquired in 2015 with a Hello Kitty toaster and rice cooker. [V&A FE.20:1, 2-2015](https://collections.vam.ac.uk/item/O1322383/kettle/)."
+  ],
+  "observed": [
+    "The kettle has a bulbous white body, a wide rounded handle, and a pale-pink lid and base ring.",
+    "A gray, pill-shaped water window carries the marks “0.8 L MAX” and “0.5 L”.",
+    "Kitty is drawn in an even black outline with a red bow and a yellow nose; her paws hold the top of a rounded plate that reads “HELLO KITTY” in bold rounded capitals.",
+    "The T-fal logo in red and the word “APRECIA+” in gray sit to the right of the window."
+  ],
+  "interpretation": [
+    "Compared with the [1998 toaster](ref:hello-kitty-toaster-sanyo-1998), the character here is a clean outline figure with one red accent, and the pink is reduced to the lid and the base. The style is quieter, but the face and the rounded plate still carry it."
+  ],
+  "borrow": [
+    "Let a character peek over the top edge of a label or card, holding it with its paws.",
+    "Use white as the main surface and a pale pastel only for caps, bases, and borders."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The photograph is © Victoria and Albert Museum, London. The Hello Kitty character belongs to Sanrio; the T-fal mark to Groupe SEB."
+  },
+  "identifiers": {
+    "vam": "O1322383"
+  }
+}

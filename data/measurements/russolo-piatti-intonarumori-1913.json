@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/russolo-piatti-intonarumori-1913.jpg",
+  "captured": "2026-10-03T00:57:11+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#463e2d",
+        "share": 0.168
+      },
+      {
+        "hex": "#b99e7b",
+        "share": 0.134
+      },
+      {
+        "hex": "#d1b590",
+        "share": 0.125
+      },
+      {
+        "hex": "#e9d0ad",
+        "share": 0.114
+      },
+      {
+        "hex": "#332f21",
+        "share": 0.11
+      },
+      {
+        "hex": "#655643",
+        "share": 0.107
+      },
+      {
+        "hex": "#dac19a",
+        "share": 0.057
+      },
+      {
+        "hex": "#fce3c2",
+        "share": 0.031
+      },
+      {
+        "hex": "#998164",
+        "share": 0.028
+      },
+      {
+        "hex": "#554b37",
+        "share": 0.028
+      }
+    ],
+    "background": "#463e2d",
+    "chroma": 0.18,
+    "lightness": 0.5,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 14,
+    "hues": 0
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "hotline-miami-2012",
+  "title": "Hotline Miami",
+  "type": "product",
+  "medium": "software",
+  "lede": "Dennaton Games’ 2012 top-down action game set in Miami in 1989: hot-pink and violet pixel art, wobbling magenta screens, and a soundtrack of synthwave artists.",
+  "summary": "Top-down pixel art in hot pink, violet, and teal, set in 1989 Miami, with a synthwave soundtrack. 2012.",
+  "source": {
+    "url": "https://store.steampowered.com/app/219150/",
+    "label": "Steam: Hotline Miami"
+  },
+  "creator": {
+    "name": "Dennaton Games (Jonatan Söderström and Dennis Wedin)"
+  },
+  "made": "Released 23 October 2012 (Wikipedia; Steam)",
+  "moods": [
+    "violent",
+    "nocturnal",
+    "energetic"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Inspected a 1920 × 1080 gameplay screenshot and the 1920 × 620 library artwork from [Steam](https://store.steampowered.com/app/219150/) in a scratch folder. Not stored."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "synthwave",
+      "note": "Partial fit: one of the works that spread the synthwave sound and its pink-violet night palette, palms, and 1980s Miami setting, but in pixel art and without the grid and sun.",
+      "basis": "agent"
+    },
+    {
+      "id": "pixel-art",
+      "note": "Clear: top-down pixel-art sprites and rooms on one coarse grid, in a neon palette.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "Wikipedia: the game was released on Steam on 23 October 2012. Dennaton Games is “Swedish designer and programmer Jonatan Söderström and artist Dennis Wedin.” It is “Set in Miami in 1989.” Its graphics use “pixel art with a high-contrast colour palette.” [Wikipedia](https://en.wikipedia.org/wiki/Hotline_Miami).",
+    "Wikipedia: the film *Drive* (2011) inspired the creators, and the soundtrack “combines many music genres like electronic, techno, vaporwave, and synthwave”, with artists including M.O.O.N. and Perturbator.",
+    "The [synthwave](style:synthwave) record names *Hotline Miami* among the works that spread the look."
+  ],
+  "observed": [
+    "The gameplay screenshot shows rooms from directly above in chunky pixel art: a pink rug, teal walls, cream sofas, and blood splatter.",
+    "The area outside the building is a flat hot-pink to magenta gradient, not black.",
+    "Scores such as “6501pts” and “+600PTS” are set in a wobbly, wide pixel script with a dark drop shadow, in cream, magenta, and teal.",
+    "The library artwork is a painted crowd of men in pale 1980s suits around a figure in a pig mask and a letterman jacket, under a dark violet night sky with lit windows and palm silhouettes."
+  ],
+  "interpretation": [
+    "It belongs to the synthwave story more through sound, setting, and palette than through the Outrun scene. Its colours are the style’s magenta and teal, but they fill whole areas rather than glowing on black."
+  ],
+  "borrow": [
+    "Set score numbers in a wide, wobbling display face in magenta and teal on a dark plate."
+  ],
+  "rights": {
+    "tier": "D",
+    "license": "unverified",
+    "statement": "No image is stored. The game and its artwork are in copyright (Dennaton Games / Devolver Digital, 2012)."
+  },
+  "identifiers": {
+    "steam": "219150"
+  }
+}

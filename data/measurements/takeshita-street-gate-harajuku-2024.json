@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/takeshita-street-gate-harajuku-2024.jpg",
+  "captured": "2026-10-03T00:37:51+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f3f6f5",
+        "share": 0.151
+      },
+      {
+        "hex": "#7d6b57",
+        "share": 0.058
+      },
+      {
+        "hex": "#897662",
+        "share": 0.056
+      },
+      {
+        "hex": "#5c564a",
+        "share": 0.046
+      },
+      {
+        "hex": "#aca59a",
+        "share": 0.043
+      },
+      {
+        "hex": "#696458",
+        "share": 0.041
+      },
+      {
+        "hex": "#a49889",
+        "share": 0.04
+      },
+      {
+        "hex": "#938d83",
+        "share": 0.039
+      },
+      {
+        "hex": "#41352b",
+        "share": 0.037
+      },
+      {
+        "hex": "#bab3a8",
+        "share": 0.036
+      }
+    ],
+    "background": "#f3f6f5",
+    "chroma": 0.09,
+    "lightness": 0.54,
+    "chromaticShare": 0.06,
+    "accentChroma": 0.45,
+    "distinct": 23,
+    "hues": 4
+  }
+}

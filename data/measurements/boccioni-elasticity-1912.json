@@ -1,0 +1,57 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/boccioni-elasticity-1912.jpg",
+  "captured": "2026-10-03T00:57:11+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#546a54",
+        "share": 0.046
+      },
+      {
+        "hex": "#424e47",
+        "share": 0.045
+      },
+      {
+        "hex": "#a96049",
+        "share": 0.044
+      },
+      {
+        "hex": "#c18f55",
+        "share": 0.044
+      },
+      {
+        "hex": "#9f4e3d",
+        "share": 0.044
+      },
+      {
+        "hex": "#8b3e34",
+        "share": 0.043
+      },
+      {
+        "hex": "#323436",
+        "share": 0.041
+      },
+      {
+        "hex": "#cea461",
+        "share": 0.04
+      },
+      {
+        "hex": "#d6b677",
+        "share": 0.04
+      },
+      {
+        "hex": "#979180",
+        "share": 0.036
+      }
+    ],
+    "background": "#546a54",
+    "chroma": 0.22,
+    "lightness": 0.46,
+    "chromaticShare": 0.31,
+    "accentChroma": 0.39,
+    "distinct": 27,
+    "hues": 2
+  }
+}

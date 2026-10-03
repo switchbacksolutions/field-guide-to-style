@@ -1,0 +1,75 @@
+{
+  "id": "lemonaut-solarpunk-tower-2024",
+  "title": "A Solarpunk tower",
+  "type": "image",
+  "medium": "illustration",
+  "lede": "Three generations tend raised beds on the roof terrace of a planted residential tower, under a canopy of solar panels on a branching steel column.",
+  "summary": "Rooftop garden, solar canopy, and a train on a viaduct in warm evening light. The.lemonaut.ukr with Scandinavian101, 2024.",
+  "source": {
+    "url": "https://commons.wikimedia.org/wiki/File:A_Solarpunk_tower.png",
+    "label": "Wikimedia Commons: File:A Solarpunk tower.png"
+  },
+  "creator": {
+    "name": "The.lemonaut.ukr, in collaboration with Scan101 (Scandinavian101)",
+    "url": "https://commons.wikimedia.org/wiki/User:The.lemonaut.ukr"
+  },
+  "made": "2024",
+  "moods": [
+    "hopeful",
+    "communal",
+    "verdant",
+    "sunlit"
+  ],
+  "evidence": {
+    "level": "observed",
+    "note": "Downloaded and inspected the Commons file (original 3000 × 3329 px PNG, viewed at 1442 × 1600 px)."
+  },
+  "reviewed": "2026-10-02",
+  "added": "2026-10-02",
+  "styles": [
+    {
+      "id": "solarpunk",
+      "note": "A textbook scene of the style: food grown on a roof, visible solar panels, public rail, and people of several ages working together in daylight.",
+      "basis": "agent"
+    }
+  ],
+  "context": [
+    "The uploader dates the file 4 September 2024 and says it was made in collaboration with Scan101 (Scandinavian101). Commons lists it in the categories Solarpunk, City farms, Rooftop gardens, and Art by Commons users. [Commons file page](https://commons.wikimedia.org/wiki/File:A_Solarpunk_tower.png)."
+  ],
+  "observed": [
+    "In the foreground, wooden raised beds hold carrots, beet, lettuce, strawberries, and dill. A watering can stands on a tiled path.",
+    "An older woman sits on a stool and holds a leaf, a child looks over the bed, and a younger woman in gardening gloves looks out over the city.",
+    "Overhead, angled glass solar panels sit on a steel column that branches like a tree and has round holes along its trunk.",
+    "At right, a tall tower has open orange balconies with plants and laundry. Its base is clad in a mosaic of blue, violet, green, and gold triangles.",
+    "Behind, a park, a train on a viaduct, and pale tower blocks stand under a light blue sky.",
+    "The drawing has thin dark outlines, flat colour with soft painted shading, and a grain texture. The light is warm and low, with orange tones on the left side of each figure."
+  ],
+  "interpretation": [
+    "The image joins all the diagnostic traits of the style: plants, visible renewables, public transport, and daily life. The tree-shaped solar column is the style’s typical hybrid of organic form and technology.",
+    "The faceted mosaic on the tower base plays the role that stained glass plays in other solarpunk art. The warm evening palette shifts the style’s gold toward orange."
+  ],
+  "borrow": [
+    "Put a practical task (gardening, repair) in the foreground and the sustainable city in the background, so the scene reads as lived-in.",
+    "Draw infrastructure with organic structure, for example a support column that branches like a tree."
+  ],
+  "images": [
+    {
+      "file": "assets/references/lemonaut-solarpunk-tower-2024.jpg",
+      "alt": "Illustration of a rooftop garden: an older woman, a child, and a young woman by wooden raised beds, under angled solar panels on a tree-like steel column, beside a tower with planted balconies and a mosaic base.",
+      "width": 1442,
+      "height": 1600,
+      "kind": "source-image",
+      "caption": "The.lemonaut.ukr with Scandinavian101, “A Solarpunk tower”, 2024. [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_Solarpunk_tower.png), CC BY 4.0.",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/9/9f/A_Solarpunk_tower.png",
+      "saved": "2026-10-02"
+    }
+  ],
+  "rights": {
+    "tier": "A",
+    "license": "CC-BY-4.0",
+    "statement": "Commons: self-published work by The.lemonaut.ukr, licensed CC BY 4.0. Credit: The.lemonaut.ukr and Scandinavian101, via Wikimedia Commons."
+  },
+  "identifiers": {
+    "commons": "File:A Solarpunk tower.png"
+  }
+}

@@ -650,5 +650,150 @@
       }
     }
   },
-  "references": []
+  "references": [
+    {
+      "id": "grauer-vaporwave-wallpaper-2018",
+      "title": "Vaporwave wallpaper (Mike Grauer Jr)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the striped sun over a magenta grid plain is the core synthwave scene, but the violet sky is softer than its usual black night.",
+      "page": "references/grauer-vaporwave-wallpaper-2018.html",
+      "source": "https://www.flickr.com/photos/mike_grauer/26310058937/",
+      "image": "assets/references/grauer-vaporwave-wallpaper-2018.jpg",
+      "measurement": "data/measurements/grauer-vaporwave-wallpaper-2018.json"
+    },
+    {
+      "id": "casqueiro-chase-the-sun-2019",
+      "title": "Chase The Sun (G. Casqueiro)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The Outrun landscape in motion: a glowing wireframe floor and peaks that lead to a sun on the horizon, under a violet and magenta sky.",
+      "page": "references/casqueiro-chase-the-sun-2019.html",
+      "source": "https://commons.wikimedia.org/wiki/File:Chase_The_Sun.webm",
+      "image": "assets/references/casqueiro-chase-the-sun-2019.jpg",
+      "measurement": "data/measurements/casqueiro-chase-the-sun-2019.json"
+    },
+    {
+      "id": "drive-film-poster-2011",
+      "title": "Drive (2011 film), US theatrical poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the film is a named source of the synthwave revival and its hot-pink script title became a template, but this poster is light and photographic, with no neon, grid, or night sky.",
+      "page": "references/drive-film-poster-2011.html",
+      "source": "http://www.impawards.com/2011/drive.html",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "far-cry-3-blood-dragon-2013",
+      "title": "Far Cry 3: Blood Dragon",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the game made the neon-and-VHS 1980s look mainstream, and its key art is by a leading synthwave cover artist, but the screenshots show interiors, not the sunset-and-grid scene.",
+      "page": "references/far-cry-3-blood-dragon-2013.html",
+      "source": "https://store.steampowered.com/app/233270/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "fm-84-atlas-cover-2016",
+      "title": "FM-84, Atlas (album cover)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The retrosun alone: a striped yellow-to-magenta disc on a navy starry sky, which is the motif in its most reduced, iconic form.",
+      "page": "references/fm-84-atlas-cover-2016.html",
+      "source": "https://dribbble.com/shots/7047714-FM-84-Atlas",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "gunship-album-cover-2015",
+      "title": "GUNSHIP, GUNSHIP (album cover)",
+      "medium": "packaging",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Every Outrun motif in one frame: a striped sun, a receding laser grid, a glowing wireframe mountain, a star field, and a brushed logotype.",
+      "page": "references/gunship-album-cover-2015.html",
+      "source": "https://www.discogs.com/release/7272688-GUNSHIP-GUNSHIP",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "hotline-miami-2012",
+      "title": "Hotline Miami",
+      "medium": "software",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: one of the works that spread the synthwave sound and its pink-violet night palette, palms, and 1980s Miami setting, but in pixel art and without the grid and sun.",
+      "page": "references/hotline-miami-2012.html",
+      "source": "https://store.steampowered.com/app/219150/",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "kavinsky-outrun-cover-2013",
+      "title": "Kavinsky, OutRun (album cover)",
+      "medium": "packaging",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The album that named the Outrun look after the 1986 Sega game: a Testarossa, palms, a night sky, and a neon brush-script logotype.",
+      "page": "references/kavinsky-outrun-cover-2013.html",
+      "source": "https://en.wikipedia.org/wiki/OutRun_(album)",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "kung-fury-poster-2015",
+      "title": "Kung Fury (2015 film), Cannes poster",
+      "medium": "poster",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: the film is a named landmark of the style and the poster has the sun, lightning, palms, Countach, and a red-and-blue offset brush title, but it is a warm painted montage, not a neon-on-black scene.",
+      "page": "references/kung-fury-poster-2015.html",
+      "source": "https://en.wikipedia.org/wiki/Kung_Fury",
+      "image": null,
+      "measurement": null
+    },
+    {
+      "id": "j4p4n-synthwave-banner-2018",
+      "title": "Synthwave banner (j4p4n, Openclipart)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "The author made it as a banner for the genre’s aesthetic: a striped sun, a glowing magenta grid, and a neon script word on a dark ground.",
+      "page": "references/j4p4n-synthwave-banner-2018.html",
+      "source": "https://openclipart.org/detail/301642/synthwave",
+      "image": "assets/references/j4p4n-synthwave-banner-2018.png",
+      "measurement": "data/measurements/j4p4n-synthwave-banner-2018.json"
+    },
+    {
+      "id": "the-midnight-live-brixton-2022",
+      "title": "The Midnight live at Brixton Academy, 2022",
+      "medium": "photograph",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "Partial fit: it documents how a leading synthwave band stages itself, in magenta, violet, and blue light with neon-like horizontal bars, but it is a concert photograph, not designed graphics.",
+      "page": "references/the-midnight-live-brixton-2022.html",
+      "source": "https://www.flickr.com/photos/raph_ph/52061571120/",
+      "image": "assets/references/the-midnight-live-brixton-2022.jpg",
+      "measurement": "data/measurements/the-midnight-live-brixton-2022.json"
+    },
+    {
+      "id": "the-midnight-endless-summer-cover-2016",
+      "title": "The Midnight, Endless Summer (album cover)",
+      "medium": "illustration",
+      "evidence": "observed",
+      "basis": "agent",
+      "note": "A neon-tube script logotype, a black ground, and VHS tracking lines used as a nostalgic accent: the type and surface side of the style.",
+      "page": "references/the-midnight-endless-summer-cover-2016.html",
+      "source": "https://themidnight.wiki/wiki/Endless_Summer",
+      "image": null,
+      "measurement": null
+    }
+  ]
 }

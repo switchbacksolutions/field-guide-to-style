@@ -1,0 +1,49 @@
+{
+  "tool": "tools/image-traits.py",
+  "version": "4",
+  "file": "assets/references/picabia-391-no-13-dentelle-rose-1920.jpg",
+  "captured": "2026-10-03T00:59:05+00:00",
+  "color": {
+    "palette": [
+      {
+        "hex": "#f0e6dd",
+        "share": 0.923
+      },
+      {
+        "hex": "#e7dccf",
+        "share": 0.021
+      },
+      {
+        "hex": "#dbd1c7",
+        "share": 0.012
+      },
+      {
+        "hex": "#bcb3aa",
+        "share": 0.011
+      },
+      {
+        "hex": "#ccc3ba",
+        "share": 0.011
+      },
+      {
+        "hex": "#a89f97",
+        "share": 0.009
+      },
+      {
+        "hex": "#6b6560",
+        "share": 0.008
+      },
+      {
+        "hex": "#90877f",
+        "share": 0.005
+      }
+    ],
+    "background": "#f0e6dd",
+    "chroma": 0.07,
+    "lightness": 0.89,
+    "chromaticShare": 0,
+    "accentChroma": null,
+    "distinct": 2,
+    "hues": 0
+  }
+}

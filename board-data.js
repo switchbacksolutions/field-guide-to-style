@@ -1573,7 +1573,8 @@ globalThis.styleHub = {
       "type": "website",
       "medium": "website",
       "styles": [
-        "vaporwave"
+        "vaporwave",
+        "pixel-art"
       ],
       "status": "observed"
     },
@@ -1771,7 +1772,8 @@ globalThis.styleHub = {
       "type": "object",
       "medium": "product",
       "styles": [
-        "mid-century-modern"
+        "mid-century-modern",
+        "googie"
       ],
       "status": "observed"
     },
@@ -2233,7 +2235,8 @@ globalThis.styleHub = {
       "type": "print",
       "medium": "editorial",
       "styles": [
-        "new-wave-typography"
+        "new-wave-typography",
+        "pixel-art"
       ],
       "status": "observed"
     },
@@ -4061,7 +4064,8 @@ globalThis.styleHub = {
       "type": "website",
       "medium": "website",
       "styles": [
-        "mid-century-modern"
+        "mid-century-modern",
+        "googie"
       ],
       "status": "observed"
     },
@@ -4270,7 +4274,8 @@ globalThis.styleHub = {
       "type": "product",
       "medium": "product",
       "styles": [
-        "y2k"
+        "y2k",
+        "kawaii"
       ],
       "status": "observed"
     },
@@ -4314,7 +4319,8 @@ globalThis.styleHub = {
       "type": "website",
       "medium": "website",
       "styles": [
-        "y2k"
+        "y2k",
+        "cyberpunk"
       ],
       "status": "observed"
     },
@@ -4534,7 +4540,8 @@ globalThis.styleHub = {
       "type": "image",
       "medium": "illustration",
       "styles": [
-        "vaporwave"
+        "vaporwave",
+        "synthwave"
       ],
       "status": "observed"
     },
@@ -4821,6 +4828,998 @@ globalThis.styleHub = {
       "medium": "poster",
       "styles": [
         "new-wave-typography"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "goldberg-flegal-pixel-art-letter-1982",
+      "title": "“ACM President’s Letter: Pixel Art” (Goldberg and Flegal, 1982)",
+      "href": "references/goldberg-flegal-pixel-art-letter-1982.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "pixel-art"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "van-doesburg-bericht-mouvement-dada-1923",
+      "title": "“Bericht Mouvement Dada”, Mécano no. 4/5, 1923",
+      "href": "references/van-doesburg-bericht-mouvement-dada-1923.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "picabia-391-no-13-dentelle-rose-1920",
+      "title": "391, no. 13: “Ce numéro est entouré d’une dentelle rose”, 1920",
+      "href": "references/picabia-391-no-13-dentelle-rose-1920.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "chambers-psalm-for-the-wild-built-cover-2021",
+      "title": "A Psalm for the Wild-Built (cover)",
+      "href": "references/chambers-psalm-for-the-wild-built-cover-2021.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "solarpunk"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "lemonaut-solarpunk-tower-2024",
+      "title": "A Solarpunk tower",
+      "href": "references/lemonaut-solarpunk-tower-2024.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "solarpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "marinetti-une-assemblee-tumultueuse-1919",
+      "title": "A Tumultuous Assembly. Numerical Sensibility",
+      "href": "references/marinetti-une-assemblee-tumultueuse-1919.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "akira-film-1988",
+      "title": "Akira",
+      "href": "references/akira-film-1988.html",
+      "type": "product",
+      "medium": "other",
+      "styles": [
+        "cyberpunk"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "astro-motel-sign-fresno",
+      "title": "Astro Motel sign, Fresno",
+      "href": "references/astro-motel-sign-fresno.html",
+      "type": "object",
+      "medium": "signage",
+      "styles": [
+        "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "aerroscape-zeddies-berlin-friedrichstrasse-utopia-2048",
+      "title": "Berlin Friedrichstraße Utopia 2048",
+      "href": "references/aerroscape-zeddies-berlin-friedrichstrasse-utopia-2048.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "solarpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "blade-runner-1982",
+      "title": "Blade Runner",
+      "href": "references/blade-runner-1982.html",
+      "type": "product",
+      "medium": "other",
+      "styles": [
+        "cyberpunk"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "bosco-verticale-milan",
+      "title": "Bosco Verticale, Milan",
+      "href": "references/bosco-verticale-milan.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "solarpunk"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "cadillac-eldorado-biarritz-1959",
+      "title": "Cadillac Eldorado Biarritz, 1959",
+      "href": "references/cadillac-eldorado-biarritz-1959.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "caribbean-motel-wildwood-crest",
+      "title": "Caribbean Motel, Wildwood Crest",
+      "href": "references/caribbean-motel-wildwood-crest.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "casqueiro-chase-the-sun-2019",
+      "title": "Chase The Sun (G. Casqueiro)",
+      "href": "references/casqueiro-chase-the-sun-2019.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "synthwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "cyberpunk-2077-video-game-2020",
+      "title": "Cyberpunk 2077",
+      "href": "references/cyberpunk-2077-video-game-2020.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "cyberpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "dawnlike-tileset-2014",
+      "title": "DawnLike 16 × 16 roguelike tileset",
+      "href": "references/dawnlike-tileset-2014.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "pixel-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "chobani-dear-alice-2021",
+      "title": "Dear Alice (Chobani advertisement)",
+      "href": "references/chobani-dear-alice-2021.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "solarpunk"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "dennys-coffee-shop-monrovia-postcard",
+      "title": "Denny’s Coffee Shop, Monrovia, postcard",
+      "href": "references/dennys-coffee-shop-monrovia-postcard.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "drive-film-poster-2011",
+      "title": "Drive (2011 film), US theatrical poster",
+      "href": "references/drive-film-poster-2011.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "synthwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "boccioni-dynamism-of-a-cyclist-1913",
+      "title": "Dynamism of a Cyclist",
+      "href": "references/boccioni-dynamism-of-a-cyclist-1913.html",
+      "type": "image",
+      "medium": "painting",
+      "styles": [
+        "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "edex-ui-terminal-2019",
+      "title": "eDEX-UI terminal emulator",
+      "href": "references/edex-ui-terminal-2019.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "cyberpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "boccioni-elasticity-1912",
+      "title": "Elasticity",
+      "href": "references/boccioni-elasticity-1912.html",
+      "type": "image",
+      "medium": "painting",
+      "styles": [
+        "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "far-cry-3-blood-dragon-2013",
+      "title": "Far Cry 3: Blood Dragon",
+      "href": "references/far-cry-3-blood-dragon-2013.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "synthwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "fm-84-atlas-cover-2016",
+      "title": "FM-84, Atlas (album cover)",
+      "href": "references/fm-84-atlas-cover-2016.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "synthwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "ghost-in-the-shell-film-1995",
+      "title": "Ghost in the Shell",
+      "href": "references/ghost-in-the-shell-film-1995.html",
+      "type": "product",
+      "medium": "other",
+      "styles": [
+        "cyberpunk"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "gunship-album-cover-2015",
+      "title": "GUNSHIP, GUNSHIP (album cover)",
+      "href": "references/gunship-album-cover-2015.html",
+      "type": "print",
+      "medium": "packaging",
+      "styles": [
+        "synthwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hachi-maru-pop-typeface-2020",
+      "title": "Hachi Maru Pop typeface",
+      "href": "references/hachi-maru-pop-typeface-2020.html",
+      "type": "object",
+      "medium": "typeface",
+      "styles": [
+        "kawaii"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hoch-cut-with-the-kitchen-knife-1919",
+      "title": "Hannah Höch, Cut with the Kitchen Knife, 1919",
+      "href": "references/hoch-cut-with-the-kitchen-knife-1919.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hello-kitty-character-1974",
+      "title": "Hello Kitty",
+      "href": "references/hello-kitty-character-1974.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "kawaii"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "hello-kitty-kettle-t-fal-2013",
+      "title": "Hello Kitty electric kettle",
+      "href": "references/hello-kitty-kettle-t-fal-2013.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "kawaii"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hello-kitty-rice-cooker-2014",
+      "title": "Hello Kitty rice cooker",
+      "href": "references/hello-kitty-rice-cooker-2014.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "kawaii"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hello-kitty-toaster-sanyo-1998",
+      "title": "Hello Kitty toaster",
+      "href": "references/hello-kitty-toaster-sanyo-1998.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "kawaii"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "holiday-bowl-coffee-shop-los-angeles",
+      "title": "Holiday Bowl coffee shop, Los Angeles",
+      "href": "references/holiday-bowl-coffee-shop-los-angeles.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "hotline-miami-2012",
+      "title": "Hotline Miami",
+      "href": "references/hotline-miami-2012.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "synthwave",
+        "pixel-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "marinetti-le-soir-couchee-dans-son-lit-1919",
+      "title": "In the Evening, Lying on Her Bed, She Reread the Letter from Her Artilleryman at the Front",
+      "href": "references/marinetti-le-soir-couchee-dans-son-lit-1919.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "russolo-piatti-intonarumori-1913",
+      "title": "Intonarumori (noise intoners)",
+      "href": "references/russolo-piatti-intonarumori-1913.html",
+      "type": "object",
+      "medium": "product",
+      "styles": [
+        "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kabukicho-rainstorm-night-2024",
+      "title": "Kabukichō in a rainstorm at night",
+      "href": "references/kabukicho-rainstorm-night-2024.html",
+      "type": "image",
+      "medium": "photograph",
+      "styles": [
+        "cyberpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "pixelplaza-pirate-lair-2008",
+      "title": "Käpt’n Börgers Piratennest (PixelPlaza)",
+      "href": "references/pixelplaza-pirate-lair-2008.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "pixel-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kavinsky-outrun-cover-2013",
+      "title": "Kavinsky, OutRun (album cover)",
+      "href": "references/kavinsky-outrun-cover-2013.html",
+      "type": "print",
+      "medium": "packaging",
+      "styles": [
+        "synthwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kenney-1-bit-pack-2019",
+      "title": "Kenney 1-Bit Pack",
+      "href": "references/kenney-1-bit-pack-2019.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "pixel-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "van-doesburg-schwitters-kleine-dada-soiree-1922",
+      "title": "Kleine Dada Soirée poster and program, 1922",
+      "href": "references/van-doesburg-schwitters-kleine-dada-soiree-1922.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kowloon-walled-city-aerial-1989",
+      "title": "Kowloon Walled City from the air, 1989",
+      "href": "references/kowloon-walled-city-aerial-1989.html",
+      "type": "image",
+      "medium": "photograph",
+      "styles": [
+        "cyberpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kumamon-mascot-2010",
+      "title": "Kumamon",
+      "href": "references/kumamon-mascot-2010.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "kawaii"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kung-fury-poster-2015",
+      "title": "Kung Fury (2015 film), Cannes poster",
+      "href": "references/kung-fury-poster-2015.html",
+      "type": "print",
+      "medium": "poster",
+      "styles": [
+        "synthwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "schwitters-anna-blume-dichtungen-1919",
+      "title": "Kurt Schwitters, Anna Blume. Dichtungen, 1919 (cover)",
+      "href": "references/schwitters-anna-blume-dichtungen-1919.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "schwitters-mz-245-mal-kah-1921",
+      "title": "Kurt Schwitters, Mz 245. Mal Kah, 1921",
+      "href": "references/schwitters-mz-245-mal-kah-1921.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "liberated-pixel-cup-base-assets-2012",
+      "title": "Liberated Pixel Cup base assets",
+      "href": "references/liberated-pixel-cup-base-assets-2012.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "pixel-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mcdonalds-downey-1953",
+      "title": "McDonald’s, Downey, California",
+      "href": "references/mcdonalds-downey-1953.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "van-doesburg-mecano-red-chroniek-1922",
+      "title": "Mécano no. 3 (Red): “Chroniek-Mécano”, 1922",
+      "href": "references/van-doesburg-mecano-red-chroniek-1922.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "schwitters-merz-1-holland-dada-1923",
+      "title": "Merz 1: Holland Dada, January 1923",
+      "href": "references/schwitters-merz-1-holland-dada-1923.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lissitzky-schwitters-merz-8-9-nasci-1924",
+      "title": "Merz 8/9: Nasci, 1924",
+      "href": "references/lissitzky-schwitters-merz-8-9-nasci-1924.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mindustry-2019",
+      "title": "Mindustry",
+      "href": "references/mindustry-2019.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "pixel-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "neko-atsume-app-2014",
+      "title": "Neko Atsume: Kitty Collector",
+      "href": "references/neko-atsume-app-2014.html",
+      "type": "product",
+      "medium": "app",
+      "styles": [
+        "kawaii"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "portland-street-neon-signs-2025",
+      "title": "Neon and LED signs on Portland Street, Mong Kok",
+      "href": "references/portland-street-neon-signs-2025.html",
+      "type": "image",
+      "medium": "photograph",
+      "styles": [
+        "cyberpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "mong-kok-shantung-street-neon-2019",
+      "title": "Neon signs on Shantung Street, Mong Kok",
+      "href": "references/mong-kok-shantung-street-neon-2019.html",
+      "type": "image",
+      "medium": "photograph",
+      "styles": [
+        "cyberpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "neuromancer-first-edition-1984",
+      "title": "Neuromancer, first edition",
+      "href": "references/neuromancer-first-edition-1984.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "cyberpunk"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "marinetti-premier-record-1916",
+      "title": "Parole in libertà (premier record)",
+      "href": "references/marinetti-premier-record-1916.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "van-ostaijen-bezette-stad-manuscript-1920",
+      "title": "Paul van Ostaijen, manuscript of Bezette Stad, 1920–1921",
+      "href": "references/van-ostaijen-bezette-stad-manuscript-1920.html",
+      "type": "object",
+      "medium": "other",
+      "styles": [
+        "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "pikachu-soft-toy-1990s",
+      "title": "Pikachu soft toy",
+      "href": "references/pikachu-soft-toy-1990s.html",
+      "type": "product",
+      "medium": "product",
+      "styles": [
+        "kawaii"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "pixel-dungeon-2012",
+      "title": "Pixel Dungeon",
+      "href": "references/pixel-dungeon-2012.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "pixel-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "press-start-2p-typeface",
+      "title": "Press Start 2P typeface",
+      "href": "references/press-start-2p-typeface.html",
+      "type": "object",
+      "medium": "typeface",
+      "styles": [
+        "pixel-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "joes-liquors-roto-sphere-memphis",
+      "title": "Roto-Sphere sign, Joe’s Liquors, Memphis",
+      "href": "references/joes-liquors-roto-sphere-memphis.html",
+      "type": "object",
+      "medium": "signage",
+      "styles": [
+        "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "sanrio-puroland-tama-1990",
+      "title": "Sanrio Puroland",
+      "href": "references/sanrio-puroland-tama-1990.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "kawaii"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "shinjuku-ogado-rain-night-2020",
+      "title": "Shinjuku Ōgādo in the rain at night",
+      "href": "references/shinjuku-ogado-rain-night-2020.html",
+      "type": "image",
+      "medium": "photograph",
+      "styles": [
+        "cyberpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "silkscreen-typeface",
+      "title": "Silkscreen typeface",
+      "href": "references/silkscreen-typeface.html",
+      "type": "object",
+      "medium": "typeface",
+      "styles": [
+        "pixel-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lemonaut-solarpunk-community-center-2024",
+      "title": "Solarpunk community center",
+      "href": "references/lemonaut-solarpunk-community-center-2024.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "solarpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "starwall-solarpunk-flag-2019",
+      "title": "Solarpunk flag",
+      "href": "references/starwall-solarpunk-flag-2019.html",
+      "type": "image",
+      "medium": "other",
+      "styles": [
+        "solarpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "loop-chan-solarpunk-technology-nature-2024",
+      "title": "Solarpunk Technology and Nature together",
+      "href": "references/loop-chan-solarpunk-technology-nature-2024.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "solarpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "commando-jugendstil-oil-platform-village",
+      "title": "Solarpunk village on a former oil platform",
+      "href": "references/commando-jugendstil-oil-platform-village.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "solarpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "lemonaut-solarpunk-realism-comic-2025",
+      "title": "Solarpunk, realism, and dystopia (comic, page 1)",
+      "href": "references/lemonaut-solarpunk-realism-comic-2025.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "solarpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "space-age-lodge-sign-gila-bend",
+      "title": "Space Age Lodge sign, Gila Bend",
+      "href": "references/space-age-lodge-sign-gila-bend.html",
+      "type": "object",
+      "medium": "signage",
+      "styles": [
+        "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "space-invaders-1978",
+      "title": "Space Invaders",
+      "href": "references/space-invaders-1978.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "pixel-art"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "stardust-roadside-sign-las-vegas",
+      "title": "Stardust roadside sign, Las Vegas",
+      "href": "references/stardust-roadside-sign-las-vegas.html",
+      "type": "object",
+      "medium": "signage",
+      "styles": [
+        "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "sant-elia-airport-and-railway-station-1914",
+      "title": "Station for aeroplanes and trains, La Città Nuova",
+      "href": "references/sant-elia-airport-and-railway-station-1914.html",
+      "type": "image",
+      "medium": "architecture",
+      "styles": [
+        "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "strawberry-newspaper-sanrio-1975",
+      "title": "Strawberry Newspaper (Ichigo Shimbun)",
+      "href": "references/strawberry-newspaper-sanrio-1975.html",
+      "type": "print",
+      "medium": "editorial",
+      "styles": [
+        "kawaii"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "gardens-by-the-bay-supertree-grove",
+      "title": "Supertree Grove, Gardens by the Bay",
+      "href": "references/gardens-by-the-bay-supertree-grove.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "solarpunk"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "kare-macintosh-icons-1984",
+      "title": "Susan Kare’s icons and bitmap fonts for the Macintosh",
+      "href": "references/kare-macintosh-icons-1984.html",
+      "type": "product",
+      "medium": "operating-system",
+      "styles": [
+        "pixel-art"
+      ],
+      "status": "documented"
+    },
+    {
+      "id": "j4p4n-synthwave-banner-2018",
+      "title": "Synthwave banner (j4p4n, Openclipart)",
+      "href": "references/j4p4n-synthwave-banner-2018.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "synthwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "takeshita-street-gate-harajuku-2024",
+      "title": "Takeshita Street gate, Harajuku",
+      "href": "references/takeshita-street-gate-harajuku-2024.html",
+      "type": "object",
+      "medium": "signage",
+      "styles": [
+        "kawaii"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "boccioni-the-city-rises-1910",
+      "title": "The City Rises",
+      "href": "references/boccioni-the-city-rises-1910.html",
+      "type": "image",
+      "medium": "painting",
+      "styles": [
+        "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "the-midnight-live-brixton-2022",
+      "title": "The Midnight live at Brixton Academy, 2022",
+      "href": "references/the-midnight-live-brixton-2022.html",
+      "type": "image",
+      "medium": "photograph",
+      "styles": [
+        "synthwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "the-midnight-endless-summer-cover-2016",
+      "title": "The Midnight, Endless Summer (album cover)",
+      "href": "references/the-midnight-endless-summer-cover-2016.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "synthwave"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "russolo-the-revolt-1911",
+      "title": "The Revolt",
+      "href": "references/russolo-the-revolt-1911.html",
+      "type": "image",
+      "medium": "painting",
+      "styles": [
+        "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "theme-building-lax",
+      "title": "Theme Building, Los Angeles International Airport",
+      "href": "references/theme-building-lax.html",
+      "type": "object",
+      "medium": "architecture",
+      "styles": [
+        "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "baargeld-typische-vertikalklitterung-1920",
+      "title": "Typische Vertikalklitterung als Darstellung des Dada Baargeld, 1920",
+      "href": "references/baargeld-typische-vertikalklitterung-1920.html",
+      "type": "image",
+      "medium": "illustration",
+      "styles": [
+        "dada"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "boccioni-unique-forms-of-continuity-in-space-1913",
+      "title": "Unique Forms of Continuity in Space",
+      "href": "references/boccioni-unique-forms-of-continuity-in-space-1913.html",
+      "type": "object",
+      "medium": "other",
+      "styles": [
+        "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "va-11-hall-a-video-game-2016",
+      "title": "VA-11 Hall-A: Cyberpunk Bartender Action",
+      "href": "references/va-11-hall-a-video-game-2016.html",
+      "type": "product",
+      "medium": "software",
+      "styles": [
+        "cyberpunk",
+        "pixel-art"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "welcome-to-fabulous-las-vegas-sign",
+      "title": "Welcome to Fabulous Las Vegas sign",
+      "href": "references/welcome-to-fabulous-las-vegas-sign.html",
+      "type": "object",
+      "medium": "signage",
+      "styles": [
+        "googie"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "marinetti-zang-tumb-tumb-1914",
+      "title": "Zang Tumb Tumb",
+      "href": "references/marinetti-zang-tumb-tumb-1914.html",
+      "type": "print",
+      "medium": "book",
+      "styles": [
+        "futurism"
+      ],
+      "status": "observed"
+    },
+    {
+      "id": "marinetti-zang-tumb-tuuum-collage-1915",
+      "title": "Zang Tumb Tuuum, collage",
+      "href": "references/marinetti-zang-tumb-tuuum-collage-1915.html",
+      "type": "print",
+      "medium": "illustration",
+      "styles": [
+        "futurism"
       ],
       "status": "observed"
     }
