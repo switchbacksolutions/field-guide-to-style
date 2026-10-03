@@ -17,24 +17,24 @@ colors:
   dot: "#f4a3a8"
 typography:
   display:
-    fontFamily: "Impact"
+    fontFamily: "Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black, sans-serif"
     fontSize: "140px"
     fontWeight: 400
     lineHeight: 0.9
     letterSpacing: "0.01em"
   heading:
-    fontFamily: "Impact"
+    fontFamily: "Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black, sans-serif"
     fontSize: "40px"
     fontWeight: 400
     lineHeight: 0.9
     letterSpacing: "0.02em"
   body:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Arial, sans-serif"
     fontSize: "17px"
     fontWeight: 400
     lineHeight: 1.5
   label:
-    fontFamily: "Avenir Next Condensed"
+    fontFamily: "Avenir Next Condensed, Arial Narrow, Helvetica Neue, sans-serif"
     fontSize: "14px"
     fontWeight: 700
     lineHeight: 1.5

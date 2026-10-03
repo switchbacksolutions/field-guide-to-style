@@ -117,6 +117,24 @@
         }
       }
     },
+    "detectorExceptions": {
+      "type": "array",
+      "description": "Findings of the Impeccable detector on this style's specimen that tools/impeccable.mjs accepts. An empty array means the specimen is checked and needs no exceptions.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["rule", "match", "kind", "reason"],
+        "properties": {
+          "rule": { "$ref": "#/$defs/slug", "description": "An Impeccable rule id, for example tight-leading." },
+          "match": { "type": "string", "minLength": 1, "description": "A regular expression that the finding's snippet must match. Name the value or element, so other findings of the same rule still fail." },
+          "kind": {
+            "enum": ["trait", "content", "detector"],
+            "description": "trait: the finding is part of this style. content: it comes from the shared specimen content, not the style. detector: the detector misreads the page."
+          },
+          "reason": { "type": "string", "description": "Why the finding is not a defect. Cite the style's grammar or rules when kind is trait." }
+        }
+      }
+    },
     "preview": { "type": "array", "items": { "$ref": "#/$defs/slug" }, "maxItems": 2, "description": "Reference ids whose first images show on the style card." }
   },
   "$defs": {

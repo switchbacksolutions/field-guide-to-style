@@ -74,4 +74,8 @@
   --typography-label-font-weight: 600;
   --typography-label-line-height: 1.55;
   --typography-label-letter-spacing: 0.04em;
+  --typography-code-font-family: "SF Mono", "Cascadia Mono", ui-monospace, Menlo, monospace;
+  --typography-code-font-size: 14px;
+  --typography-code-font-weight: 400;
+  --typography-code-line-height: 1.55;
 }

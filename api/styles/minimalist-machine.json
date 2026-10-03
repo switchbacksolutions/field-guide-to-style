@@ -96,6 +96,32 @@
       "note": "At most one signal color."
     }
   ],
+  "detectorExceptions": [
+    {
+      "rule": "all-caps-body",
+      "match": "on 35 chars",
+      "kind": "trait",
+      "reason": "The 35 characters are the kicker, one uppercase monospaced label, as the functional-typography grammar sets labels."
+    },
+    {
+      "rule": "side-tab",
+      "match": "\\.card-featured",
+      "kind": "trait",
+      "reason": "The 3 px lime rule marks the featured state on one card. The grammar uses strong color sparingly for emphasis or state."
+    },
+    {
+      "rule": "tight-leading",
+      "match": "line-height 1\\.20x",
+      "kind": "trait",
+      "reason": "The pull quote is display text at 32 px with leading 1.2. Display sizes take tighter leading than body text."
+    },
+    {
+      "rule": "tight-leading",
+      "match": "line-height 1\\.24x",
+      "kind": "detector",
+      "reason": "The lede inherits the unitless body leading of 1.55 and renders at 1.55. The detector computes it from the body's pixel line height."
+    }
+  ],
   "page": "minimalist-machine.html",
   "implementation": {
     "tokens": "implementations/minimalist-machine/tokens.json",

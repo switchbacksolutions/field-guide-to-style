@@ -16,24 +16,24 @@ colors:
   on-accent: "#33291c"
 typography:
   display:
-    fontFamily: "Optima"
+    fontFamily: "Optima, Candara, Segoe UI, URW Classico, sans-serif"
     fontSize: "84px"
     fontWeight: 400
     lineHeight: 1.05
     letterSpacing: "0em"
   heading:
-    fontFamily: "Optima"
+    fontFamily: "Optima, Candara, Segoe UI, URW Classico, sans-serif"
     fontSize: "36px"
     fontWeight: 400
     lineHeight: 1.05
     letterSpacing: "0.01em"
   body:
-    fontFamily: "Iowan Old Style"
+    fontFamily: "Iowan Old Style, Palatino, Palatino Linotype, Book Antiqua, Georgia, serif"
     fontSize: "18px"
     fontWeight: 400
     lineHeight: 1.6
   label:
-    fontFamily: "Optima"
+    fontFamily: "Optima, Candara, Segoe UI, sans-serif"
     fontSize: "13px"
     fontWeight: 600
     lineHeight: 1.6

@@ -19,24 +19,24 @@ colors:
   ice: "#8ee6ff"
 typography:
   display:
-    fontFamily: "Eurostile Extended"
+    fontFamily: "Eurostile Extended, Microgramma D Extended, Microgramma, Bank Gothic, Krungthep, Arial Black, sans-serif"
     fontSize: "76px"
     fontWeight: 700
     lineHeight: 1
     letterSpacing: "0.08em"
   heading:
-    fontFamily: "Eurostile Extended"
+    fontFamily: "Eurostile Extended, Microgramma D Extended, Microgramma, Bank Gothic, Krungthep, Arial Black, sans-serif"
     fontSize: "28px"
     fontWeight: 700
     lineHeight: 1
     letterSpacing: "0.12em"
   body:
-    fontFamily: "Verdana"
+    fontFamily: "Verdana, Tahoma, Geneva, sans-serif"
     fontSize: "15px"
     fontWeight: 400
     lineHeight: 1.6
   label:
-    fontFamily: "OCR A Std"
+    fontFamily: "OCR A Std, OCR A Extended, Andale Mono, Menlo, monospace"
     fontSize: "11px"
     fontWeight: 400
     lineHeight: 1.6

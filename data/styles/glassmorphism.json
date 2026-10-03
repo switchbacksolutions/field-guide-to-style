@@ -230,5 +230,25 @@
       "max": 0.3,
       "note": "Glass fills are flat and frosted. Gloss gradients on surfaces point to Frutiger Aero. Provisional."
     }
+  ],
+  "detectorExceptions": [
+    {
+      "rule": "dark-glow",
+      "match": "\\(#0a0624\\)",
+      "kind": "trait",
+      "reason": "The soft, wide shadow under each glass panel is the light-edge grammar. #0a0624 is the dark indigo of the backdrop at 20 to 30 % alpha, a shadow and not a neon glow."
+    },
+    {
+      "rule": "radial-halo",
+      "match": "#7c3aed → transparent",
+      "kind": "trait",
+      "reason": "The blurred violet blob behind the glass is the vivid backdrop in the grammar. The glass needs it to show depth."
+    },
+    {
+      "rule": "nested-cards",
+      "match": "\\(p\\)",
+      "kind": "trait",
+      "reason": "The kicker is a glass chip on the hero glass panel: two layers, which the floating-cards grammar allows. The rules forbid many stacked layers, not one chip."
+    }
   ]
 }

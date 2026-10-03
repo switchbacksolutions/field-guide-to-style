@@ -168,6 +168,10 @@
     },
     "pill": {
       "$value": "999px"
+    },
+    "leaf": {
+      "$value": "80px",
+      "$description": "Leaf corners on the quote panel."
     }
   },
   "border-width": {

@@ -18,24 +18,24 @@ colors:
   red: "#ff3b30"
 typography:
   display:
-    fontFamily: "Futura"
+    fontFamily: "Futura, Avenir Next, Trebuchet MS, sans-serif"
     fontSize: "120px"
     fontWeight: 800
     lineHeight: 0.95
     letterSpacing: "-0.02em"
   heading:
-    fontFamily: "Futura"
+    fontFamily: "Futura, Avenir Next, Trebuchet MS, sans-serif"
     fontSize: "40px"
     fontWeight: 700
     lineHeight: 0.95
     letterSpacing: "0em"
   body:
-    fontFamily: "Avenir Next"
+    fontFamily: "Avenir Next, Helvetica Neue, Arial, sans-serif"
     fontSize: "17px"
     fontWeight: 400
     lineHeight: 1.5
   label:
-    fontFamily: "Avenir Next"
+    fontFamily: "Avenir Next, Helvetica Neue, sans-serif"
     fontSize: "12px"
     fontWeight: 400
     lineHeight: 1.5
@@ -46,6 +46,7 @@ rounded:
   md: "0px"
   lg: "0px"
   pill: "999px"
+  leaf: "80px"
 spacing:
   xs: "6px"
   sm: "12px"
@@ -132,6 +133,7 @@ Full record: api/styles/memphis.json. Specimen: implementations/memphis/index.ht
 - **md** (0px)
 - **lg** (0px)
 - **pill** (999px)
+- **leaf** (80px): Leaf corners on the quote panel.
 
 ## Do's and Don'ts
 

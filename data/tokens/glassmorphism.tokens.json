@@ -99,6 +99,7 @@
     "display": { "$value": { "fontFamily": "{font.display}", "fontSize": "{text.5xl}", "fontWeight": "{font-weight.display}", "lineHeight": "{leading.tight}", "letterSpacing": "{tracking.display}" } },
     "heading": { "$value": { "fontFamily": "{font.display}", "fontSize": "{text.2xl}", "fontWeight": "{font-weight.bold}", "lineHeight": "{leading.tight}", "letterSpacing": "{tracking.heading}" } },
     "body": { "$value": { "fontFamily": "{font.body}", "fontSize": "{text.base}", "fontWeight": "{font-weight.regular}", "lineHeight": "{leading.body}" } },
-    "label": { "$value": { "fontFamily": "{font.body}", "fontSize": "{text.xs}", "fontWeight": "{font-weight.bold}", "lineHeight": "{leading.body}", "letterSpacing": "{tracking.label}" } }
+    "label": { "$value": { "fontFamily": "{font.body}", "fontSize": "{text.xs}", "fontWeight": "{font-weight.bold}", "lineHeight": "{leading.body}", "letterSpacing": "{tracking.label}" } },
+    "code": { "$value": { "fontFamily": "{font.mono}", "fontSize": "{text.sm}", "fontWeight": "{font-weight.regular}", "lineHeight": "{leading.body}" } }
   }
 }

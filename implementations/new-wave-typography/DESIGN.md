@@ -16,24 +16,24 @@ colors:
   on-accent: "#111111"
 typography:
   display:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Helvetica, Arial Black, Arial, sans-serif"
     fontSize: "150px"
     fontWeight: 900
     lineHeight: 0.86
     letterSpacing: "-0.04em"
   heading:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Helvetica, Arial Black, Arial, sans-serif"
     fontSize: "40px"
     fontWeight: 700
     lineHeight: 0.86
     letterSpacing: "0.3em"
   body:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
     fontSize: "16px"
     fontWeight: 400
     lineHeight: 1.45
   label:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
     fontSize: "11px"
     fontWeight: 400
     lineHeight: 1.45

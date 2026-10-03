@@ -22,24 +22,24 @@ colors:
   title-end: "#1084d0"
 typography:
   display:
-    fontFamily: "Times New Roman"
+    fontFamily: "Times New Roman, Times, Liberation Serif, serif"
     fontSize: "88px"
     fontWeight: 400
     lineHeight: 1.05
     letterSpacing: "0.3em"
   heading:
-    fontFamily: "Tahoma"
+    fontFamily: "Tahoma, Verdana, MS Sans Serif, Geneva, DejaVu Sans, sans-serif"
     fontSize: "14px"
     fontWeight: 700
     lineHeight: 1.05
     letterSpacing: "0.06em"
   body:
-    fontFamily: "Tahoma"
+    fontFamily: "Tahoma, Verdana, MS Sans Serif, Geneva, DejaVu Sans, sans-serif"
     fontSize: "16px"
     fontWeight: 400
     lineHeight: 1.5
   label:
-    fontFamily: "MS Gothic"
+    fontFamily: "MS Gothic, Lucida Console, Courier New, monospace"
     fontSize: "12px"
     fontWeight: 400
     lineHeight: 1.5

@@ -18,24 +18,24 @@ colors:
   on-olive: "#fbf5e8"
 typography:
   display:
-    fontFamily: "Futura"
+    fontFamily: "Futura, Century Gothic, Avenir Next, Trebuchet MS, sans-serif"
     fontSize: "104px"
     fontWeight: 700
     lineHeight: 0.95
     letterSpacing: "-0.01em"
   heading:
-    fontFamily: "Futura"
+    fontFamily: "Futura, Century Gothic, Avenir Next, Trebuchet MS, sans-serif"
     fontSize: "38px"
     fontWeight: 700
     lineHeight: 0.95
     letterSpacing: "0em"
   body:
-    fontFamily: "Iowan Old Style"
+    fontFamily: "Iowan Old Style, Palatino, Book Antiqua, Georgia, serif"
     fontSize: "18px"
     fontWeight: 400
     lineHeight: 1.55
   label:
-    fontFamily: "Futura"
+    fontFamily: "Futura, Century Gothic, Avenir Next, sans-serif"
     fontSize: "12px"
     fontWeight: 400
     lineHeight: 1.55

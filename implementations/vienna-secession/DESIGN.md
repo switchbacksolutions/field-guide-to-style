@@ -16,24 +16,24 @@ colors:
   on-accent: "#111111"
 typography:
   display:
-    fontFamily: "Avenir Next Condensed"
+    fontFamily: "Avenir Next Condensed, DIN Condensed, Arial Narrow, Roboto Condensed, sans-serif"
     fontSize: "84px"
     fontWeight: 600
     lineHeight: 0.95
     letterSpacing: "0em"
   heading:
-    fontFamily: "Avenir Next Condensed"
+    fontFamily: "Avenir Next Condensed, DIN Condensed, Arial Narrow, Roboto Condensed, sans-serif"
     fontSize: "34px"
     fontWeight: 600
     lineHeight: 0.95
     letterSpacing: "0.01em"
   body:
-    fontFamily: "Baskerville"
+    fontFamily: "Baskerville, Georgia, Times New Roman, serif"
     fontSize: "17px"
     fontWeight: 400
     lineHeight: 1.6
   label:
-    fontFamily: "Avenir Next Condensed"
+    fontFamily: "Avenir Next Condensed, DIN Condensed, Arial Narrow, sans-serif"
     fontSize: "12px"
     fontWeight: 400
     lineHeight: 1.6

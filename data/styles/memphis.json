@@ -169,6 +169,38 @@
       "note": "Many hues at once."
     }
   ],
+  "detectorExceptions": [
+    {
+      "rule": "hero-eyebrow-chip",
+      "match": "Festival of design",
+      "kind": "content",
+      "reason": "The shared specimen content puts a kicker above the h1 in every style. Memphis sets it as a black sticker label, part of its collage of parts."
+    },
+    {
+      "rule": "all-caps-body",
+      "match": "on 35 chars",
+      "kind": "content",
+      "reason": "The 35 characters are the shared kicker, one uppercase label line, not running text."
+    },
+    {
+      "rule": "cream-palette",
+      "match": "rgb\\(255, 253, 246\\)",
+      "kind": "trait",
+      "reason": "#fffdf6 is a near-white laminate ground that the squiggle pattern covers. Black-and-white grids and printed pattern are the grammar's neutral foil."
+    },
+    {
+      "rule": "codex-grid-background",
+      "match": "two-axis grid-line",
+      "kind": "trait",
+      "reason": "The black-and-white grid is a Memphis structure in the grammar, a neutral foil for the brights."
+    },
+    {
+      "rule": "tight-leading",
+      "match": "line-height 1\\.21x",
+      "kind": "detector",
+      "reason": "The lede inherits the unitless body leading of 1.5 and renders at 1.5. The detector computes it from the body's pixel line height."
+    }
+  ],
   "synthesis": [
     "Furniture defines the style: Sottsass’s [Carlton](ref:sottsass-carlton-room-divider-1981) and [Casablanca](ref:sottsass-casablanca-sideboard-1981), Shire’s [Bel Air chair](ref:shire-bel-air-chair-1982), and De Lucchi’s [First chair](ref:de-lucchi-first-chair-1983) combine laminate color with toy-like parts.",
     "Pattern is equally central. Du Pasquier’s [Gabon textile](ref:du-pasquier-gabon-textile-1982) and the [1985 swatch card](ref:memphis-printed-cotton-swatch-1985) show the prints that covered surfaces.",

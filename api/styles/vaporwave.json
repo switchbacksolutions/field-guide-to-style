@@ -224,6 +224,50 @@
       "note": "Windows and buttons are square. All five clear captures measure 0 where boxes exist."
     }
   ],
+  "detectorExceptions": [
+    {
+      "rule": "low-contrast",
+      "match": "text #ffffff on #f8d1ef",
+      "kind": "trait",
+      "reason": "The h1 is chrome display text: white glyphs with hard cyan, pink, and 6 px navy offset shadows, which the contrast check does not count. The navy edge carries the legibility. Body text stays on gray window panels, as the rules require."
+    },
+    {
+      "rule": "italic-serif-display",
+      "match": "times new roman",
+      "kind": "trait",
+      "reason": "The grammar names default system fonts such as Times New Roman. Italic Times display type is a core vaporwave mark."
+    },
+    {
+      "rule": "wide-tracking",
+      "match": "letter-spacing: 0\\.06em",
+      "kind": "trait",
+      "reason": "The grammar sets Latin text widely spaced instead of fullwidth characters. The tracked text is title bars and the kicker label, not running text."
+    },
+    {
+      "rule": "flat-type-hierarchy",
+      "match": "h2 14px, h3 14px",
+      "kind": "trait",
+      "reason": "Section and card headings are Windows 95 title bars. Hierarchy comes from the navy title bar and the window, not from type size."
+    },
+    {
+      "rule": "monotonous-spacing",
+      "match": "~4px",
+      "kind": "trait",
+      "reason": "The 3 to 4 px insets are Windows 95 bevel and title-bar padding, the old operating-system chrome in the grammar."
+    },
+    {
+      "rule": "repeating-stripes-gradient",
+      "match": "decorative stripes",
+      "kind": "trait",
+      "reason": "The stripes are the hero's scan lines and the striped sun, the glitch and VHS surface in the grammar."
+    },
+    {
+      "rule": "tight-leading",
+      "match": "line-height 1\\.09x",
+      "kind": "detector",
+      "reason": "The quote paragraph inherits the unitless body leading of 1.5 and renders at 1.5. The detector computes it from the body's pixel line height."
+    }
+  ],
   "page": "vaporwave.html",
   "implementation": {
     "tokens": "implementations/vaporwave/tokens.json",

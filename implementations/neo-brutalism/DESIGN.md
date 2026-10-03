@@ -18,24 +18,24 @@ colors:
   sky: "#88c9ff"
 typography:
   display:
-    fontFamily: "Arial Black"
+    fontFamily: "Arial Black, Helvetica Neue, Arial, sans-serif"
     fontSize: "96px"
     fontWeight: 900
     lineHeight: 0.98
     letterSpacing: "-0.03em"
   heading:
-    fontFamily: "Arial Black"
+    fontFamily: "Arial Black, Helvetica Neue, Arial, sans-serif"
     fontSize: "34px"
     fontWeight: 800
     lineHeight: 0.98
     letterSpacing: "-0.01em"
   body:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Arial, sans-serif"
     fontSize: "17px"
     fontWeight: 500
     lineHeight: 1.5
   label:
-    fontFamily: "ui-monospace"
+    fontFamily: "ui-monospace, SFMono-Regular, Menlo, monospace"
     fontSize: "12px"
     fontWeight: 500
     lineHeight: 1.5

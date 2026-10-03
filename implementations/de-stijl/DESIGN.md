@@ -16,24 +16,24 @@ colors:
   on-accent: "#111111"
 typography:
   display:
-    fontFamily: "DIN Condensed"
+    fontFamily: "DIN Condensed, Avenir Next Condensed, Arial Narrow, Helvetica Neue, sans-serif"
     fontSize: "120px"
     fontWeight: 700
     lineHeight: 0.9
     letterSpacing: "0.01em"
   heading:
-    fontFamily: "DIN Condensed"
+    fontFamily: "DIN Condensed, Avenir Next Condensed, Arial Narrow, Helvetica Neue, sans-serif"
     fontSize: "38px"
     fontWeight: 700
     lineHeight: 0.9
     letterSpacing: "0.03em"
   body:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Arial, sans-serif"
     fontSize: "17px"
     fontWeight: 400
     lineHeight: 1.5
   label:
-    fontFamily: "DIN Alternate"
+    fontFamily: "DIN Alternate, Helvetica Neue, Arial, sans-serif"
     fontSize: "12px"
     fontWeight: 400
     lineHeight: 1.5

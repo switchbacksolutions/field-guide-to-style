@@ -17,24 +17,24 @@ colors:
   primary-light: "#c5cae9"
 typography:
   display:
-    fontFamily: "Roboto"
+    fontFamily: "Roboto, Helvetica Neue, Arial, sans-serif"
     fontSize: "96px"
     fontWeight: 300
     lineHeight: 1.1
     letterSpacing: "-0.015em"
   heading:
-    fontFamily: "Roboto"
+    fontFamily: "Roboto, Helvetica Neue, Arial, sans-serif"
     fontSize: "34px"
     fontWeight: 400
     lineHeight: 1.1
     letterSpacing: "0em"
   body:
-    fontFamily: "Roboto"
+    fontFamily: "Roboto, Helvetica Neue, Arial, sans-serif"
     fontSize: "16px"
     fontWeight: 400
     lineHeight: 1.5
   label:
-    fontFamily: "Roboto"
+    fontFamily: "Roboto, Helvetica Neue, Arial, sans-serif"
     fontSize: "14px"
     fontWeight: 500
     lineHeight: 1.5

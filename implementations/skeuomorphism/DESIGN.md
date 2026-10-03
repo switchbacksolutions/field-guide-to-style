@@ -38,24 +38,24 @@ colors:
   pin: "#c8322b"
 typography:
   display:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
     fontSize: "68px"
     fontWeight: 700
     lineHeight: 1.1
     letterSpacing: "-0.01em"
   heading:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
     fontSize: "28px"
     fontWeight: 700
     lineHeight: 1.1
     letterSpacing: "0em"
   body:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
     fontSize: "16px"
     fontWeight: 400
     lineHeight: 1.5
   label:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
     fontSize: "12px"
     fontWeight: 700
     lineHeight: 1.5

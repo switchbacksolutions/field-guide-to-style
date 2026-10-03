@@ -16,24 +16,24 @@ colors:
   on-accent: "#ffffff"
 typography:
   display:
-    fontFamily: "Avenir Next Condensed"
+    fontFamily: "Avenir Next Condensed, Futura, Helvetica Neue, Arial Narrow, sans-serif"
     fontSize: "148px"
     fontWeight: 700
     lineHeight: 0.9
     letterSpacing: "-0.01em"
   heading:
-    fontFamily: "Avenir Next Condensed"
+    fontFamily: "Avenir Next Condensed, Futura, Helvetica Neue, Arial Narrow, sans-serif"
     fontSize: "40px"
     fontWeight: 700
     lineHeight: 0.9
     letterSpacing: "0em"
   body:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
     fontSize: "17px"
     fontWeight: 400
     lineHeight: 1.5
   label:
-    fontFamily: "Helvetica Neue"
+    fontFamily: "Helvetica Neue, Helvetica, Arial, sans-serif"
     fontSize: "12px"
     fontWeight: 400
     lineHeight: 1.5

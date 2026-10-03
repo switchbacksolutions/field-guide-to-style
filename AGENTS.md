@@ -38,4 +38,5 @@ Follow these step-by-step procedures. They are plain Markdown, so any agent can 
 
 - Use `node tools/capture.mjs` to capture and measure websites. Use Claude in Chrome for web research and interactive browser checks. Chrome tool results are cut at about 1,000 characters, so save measurements through `tools/serve.py` instead of reading them back.
 - After you change a fingerprint, a specimen, or the extractor, re-measure the specimens and run `node tools/lint-style.mjs --matrix`.
+- `node tools/impeccable.mjs` runs the pinned Impeccable detector on the specimens of styles that have `detectorExceptions`. It downloads a checksum-verified binary, so it stays out of the build. Add an exception only for a style trait, shared specimen content, or a detector misreading, and give the reason. Run `node --test tools/test/` after you change an exception, a checked specimen, or `DESIGN.md` output.
 - Keep new dependencies and build tooling out unless a concrete need arises.

@@ -24,24 +24,24 @@ colors:
   mint: "#d9f6ea"
 typography:
   display:
-    fontFamily: "Avenir Next"
+    fontFamily: "Avenir Next, Nunito, Segoe UI, Helvetica Neue, Arial, sans-serif"
     fontSize: "80px"
     fontWeight: 800
     lineHeight: 1.05
     letterSpacing: "-0.02em"
   heading:
-    fontFamily: "Avenir Next"
+    fontFamily: "Avenir Next, Nunito, Segoe UI, Helvetica Neue, Arial, sans-serif"
     fontSize: "38px"
     fontWeight: 700
     lineHeight: 1.05
     letterSpacing: "-0.01em"
   body:
-    fontFamily: "Avenir Next"
+    fontFamily: "Avenir Next, Nunito, Segoe UI, Helvetica Neue, Arial, sans-serif"
     fontSize: "18px"
     fontWeight: 400
     lineHeight: 1.6
   label:
-    fontFamily: "Avenir Next"
+    fontFamily: "Avenir Next, Nunito, Segoe UI, Helvetica Neue, Arial, sans-serif"
     fontSize: "13px"
     fontWeight: 700
     lineHeight: 1.6

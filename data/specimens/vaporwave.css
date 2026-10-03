@@ -10,7 +10,7 @@ html {
 body { max-width: 1160px; min-height: 100vh; margin: 0 auto; padding: 0 5% var(--spacing-xl); color: var(--color-text); font-family: var(--font-body); font-size: var(--text-base); line-height: var(--leading-body); }
 a { color: var(--color-primary); }
 :focus-visible { outline: 1px dotted var(--color-text); outline-offset: -4px; }
-.specimen-back { display: inline-block; margin: var(--spacing-sm) 0 0; padding: 2px var(--spacing-sm); background: var(--color-surface); box-shadow: var(--shadow-sm); font-size: var(--text-xs); }
+.specimen-back { display: inline-block; margin: var(--spacing-sm) 0 0; padding: 4px var(--spacing-sm); background: var(--color-surface); box-shadow: var(--shadow-sm); font-size: var(--text-xs); }
 
 /* Window chrome: gray panel, two-step bevel with no blur, square corners. */
 .site-header, section:not(.hero), .quote, .card, .lede, .facts div, .kicker {

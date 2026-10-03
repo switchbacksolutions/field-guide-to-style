@@ -17,24 +17,24 @@ colors:
   leaf: "#7ed957"
 typography:
   display:
-    fontFamily: "Frutiger"
+    fontFamily: "Frutiger, Segoe UI, Myriad Pro, Lucida Grande, Helvetica Neue, sans-serif"
     fontSize: "80px"
     fontWeight: 300
     lineHeight: 1.05
     letterSpacing: "-0.02em"
   heading:
-    fontFamily: "Frutiger"
+    fontFamily: "Frutiger, Segoe UI, Myriad Pro, Lucida Grande, Helvetica Neue, sans-serif"
     fontSize: "32px"
     fontWeight: 600
     lineHeight: 1.05
     letterSpacing: "-0.01em"
   body:
-    fontFamily: "Segoe UI"
+    fontFamily: "Segoe UI, Frutiger, Myriad Pro, Lucida Grande, Helvetica Neue, sans-serif"
     fontSize: "16px"
     fontWeight: 400
     lineHeight: 1.55
   label:
-    fontFamily: "Segoe UI"
+    fontFamily: "Segoe UI, Lucida Grande, sans-serif"
     fontSize: "12px"
     fontWeight: 400
     lineHeight: 1.55

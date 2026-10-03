@@ -18,24 +18,24 @@ colors:
   light: "#ffffff"
 typography:
   display:
-    fontFamily: "SF Pro Rounded"
+    fontFamily: "SF Pro Rounded, Nunito, Varela Round, Avenir Next, Segoe UI, system-ui, sans-serif"
     fontSize: "88px"
     fontWeight: 700
     lineHeight: 1.05
     letterSpacing: "-0.02em"
   heading:
-    fontFamily: "SF Pro Rounded"
+    fontFamily: "SF Pro Rounded, Nunito, Varela Round, Avenir Next, Segoe UI, system-ui, sans-serif"
     fontSize: "38px"
     fontWeight: 700
     lineHeight: 1.05
     letterSpacing: "-0.01em"
   body:
-    fontFamily: "Nunito"
+    fontFamily: "Nunito, Avenir Next, Segoe UI, system-ui, -apple-system, Helvetica Neue, sans-serif"
     fontSize: "17px"
     fontWeight: 400
     lineHeight: 1.6
   label:
-    fontFamily: "Nunito"
+    fontFamily: "Nunito, Avenir Next, Segoe UI, system-ui, -apple-system, Helvetica Neue, sans-serif"
     fontSize: "12px"
     fontWeight: 700
     lineHeight: 1.6

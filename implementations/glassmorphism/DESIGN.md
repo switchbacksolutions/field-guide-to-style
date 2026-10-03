@@ -20,28 +20,33 @@ colors:
   orange: "#f0661f"
 typography:
   display:
-    fontFamily: "SF Pro Display"
+    fontFamily: "SF Pro Display, Segoe UI Variable Display, Inter, system-ui, -apple-system, Helvetica Neue, sans-serif"
     fontSize: "76px"
     fontWeight: 700
     lineHeight: 1.05
     letterSpacing: "-0.03em"
   heading:
-    fontFamily: "SF Pro Display"
+    fontFamily: "SF Pro Display, Segoe UI Variable Display, Inter, system-ui, -apple-system, Helvetica Neue, sans-serif"
     fontSize: "30px"
     fontWeight: 600
     lineHeight: 1.05
     letterSpacing: "-0.015em"
   body:
-    fontFamily: "SF Pro Text"
+    fontFamily: "SF Pro Text, Segoe UI Variable Text, Inter, system-ui, -apple-system, Helvetica Neue, sans-serif"
     fontSize: "16px"
     fontWeight: 400
     lineHeight: 1.55
   label:
-    fontFamily: "SF Pro Text"
+    fontFamily: "SF Pro Text, Segoe UI Variable Text, Inter, system-ui, -apple-system, Helvetica Neue, sans-serif"
     fontSize: "12px"
     fontWeight: 600
     lineHeight: 1.55
     letterSpacing: "0.04em"
+  code:
+    fontFamily: "SF Mono, Cascadia Mono, ui-monospace, Menlo, monospace"
+    fontSize: "14px"
+    fontWeight: 400
+    lineHeight: 1.55
 rounded:
   none: "0px"
   sm: "12px"

@@ -16,24 +16,24 @@ colors:
   on-accent: "#15263f"
 typography:
   display:
-    fontFamily: "Futura"
+    fontFamily: "Futura, Avenir Next, Century Gothic, Trebuchet MS, sans-serif"
     fontSize: "112px"
     fontWeight: 800
     lineHeight: 0.95
     letterSpacing: "0.02em"
   heading:
-    fontFamily: "Futura"
+    fontFamily: "Futura, Avenir Next, Century Gothic, Trebuchet MS, sans-serif"
     fontSize: "36px"
     fontWeight: 700
     lineHeight: 0.95
     letterSpacing: "0.06em"
   body:
-    fontFamily: "Avenir Next"
+    fontFamily: "Avenir Next, Futura, Century Gothic, Helvetica Neue, sans-serif"
     fontSize: "17px"
     fontWeight: 400
     lineHeight: 1.55
   label:
-    fontFamily: "Futura"
+    fontFamily: "Futura, Avenir Next, Century Gothic, sans-serif"
     fontSize: "12px"
     fontWeight: 400
     lineHeight: 1.55

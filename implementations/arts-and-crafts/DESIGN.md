@@ -16,24 +16,24 @@ colors:
   on-accent: "#f6f0e1"
 typography:
   display:
-    fontFamily: "Hoefler Text"
+    fontFamily: "Hoefler Text, Iowan Old Style, Palatino, Palatino Linotype, Book Antiqua, Georgia, serif"
     fontSize: "82px"
     fontWeight: 700
     lineHeight: 1.05
     letterSpacing: "0em"
   heading:
-    fontFamily: "Hoefler Text"
+    fontFamily: "Hoefler Text, Iowan Old Style, Palatino, Palatino Linotype, Book Antiqua, Georgia, serif"
     fontSize: "34px"
     fontWeight: 700
     lineHeight: 1.05
     letterSpacing: "0em"
   body:
-    fontFamily: "Iowan Old Style"
+    fontFamily: "Iowan Old Style, Palatino, Palatino Linotype, Book Antiqua, Georgia, serif"
     fontSize: "18px"
     fontWeight: 400
     lineHeight: 1.5
   label:
-    fontFamily: "Hoefler Text"
+    fontFamily: "Hoefler Text, Palatino, Palatino Linotype, Book Antiqua, Georgia, serif"
     fontSize: "13px"
     fontWeight: 400
     lineHeight: 1.5

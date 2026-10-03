@@ -186,7 +186,8 @@ function designMd(id, title, flat, resolve, style) {
     for (const t of typography) {
       const value = resolve(t.value);
       lines.push(`  ${t.path[1]}:`);
-      if (value.fontFamily) lines.push(`    fontFamily: ${q([value.fontFamily].flat()[0])}`);
+      // The whole stack, so a reader such as Impeccable accepts the fallbacks that a specimen renders with.
+      if (value.fontFamily) lines.push(`    fontFamily: ${q([value.fontFamily].flat().join(", "))}`);
       for (const key of ["fontSize", "fontWeight", "lineHeight"]) if (value[key] !== undefined) lines.push(`    ${key}: ${typeof value[key] === "number" ? value[key] : q(value[key])}`);
       if (value.letterSpacing !== undefined) lines.push(`    letterSpacing: ${q(tracking(value.letterSpacing))}`);
     }

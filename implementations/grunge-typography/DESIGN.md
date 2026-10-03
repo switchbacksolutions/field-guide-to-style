@@ -16,24 +16,24 @@ colors:
   on-accent: "#1a1814"
 typography:
   display:
-    fontFamily: "Impact"
+    fontFamily: "Impact, Haettenschweiler, Arial Narrow Bold, sans-serif"
     fontSize: "196px"
     fontWeight: 400
     lineHeight: 0.78
     letterSpacing: "-0.07em"
   heading:
-    fontFamily: "Impact"
+    fontFamily: "Impact, Haettenschweiler, Arial Narrow Bold, sans-serif"
     fontSize: "72px"
     fontWeight: 400
     lineHeight: 0.78
     letterSpacing: "-0.05em"
   body:
-    fontFamily: "Times New Roman"
+    fontFamily: "Times New Roman, Times, serif"
     fontSize: "17px"
     fontWeight: 400
     lineHeight: 1.4
   label:
-    fontFamily: "American Typewriter"
+    fontFamily: "American Typewriter, Courier New, Courier, monospace"
     fontSize: "12px"
     fontWeight: 400
     lineHeight: 1.4

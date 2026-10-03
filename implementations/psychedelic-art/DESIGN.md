@@ -17,24 +17,24 @@ colors:
   cream: "#fff4d6"
 typography:
   display:
-    fontFamily: "Cooper Black"
+    fontFamily: "Cooper Black, Cooper Std, Arial Rounded MT Bold, Arial Rounded MT, Trebuchet MS, sans-serif"
     fontSize: "144px"
     fontWeight: 900
     lineHeight: 0.85
     letterSpacing: "-0.03em"
   heading:
-    fontFamily: "Cooper Black"
+    fontFamily: "Cooper Black, Cooper Std, Arial Rounded MT Bold, Arial Rounded MT, Trebuchet MS, sans-serif"
     fontSize: "44px"
     fontWeight: 900
     lineHeight: 0.85
     letterSpacing: "-0.01em"
   body:
-    fontFamily: "Optima"
+    fontFamily: "Optima, Candara, Segoe UI, Trebuchet MS, sans-serif"
     fontSize: "18px"
     fontWeight: 400
     lineHeight: 1.5
   label:
-    fontFamily: "Optima"
+    fontFamily: "Optima, Candara, Segoe UI, sans-serif"
     fontSize: "13px"
     fontWeight: 700
     lineHeight: 1.5

@@ -20,24 +20,24 @@ colors:
   on-orange: "#2c3e50"
 typography:
   display:
-    fontFamily: "Segoe UI"
+    fontFamily: "Segoe UI, Helvetica Neue, Lato, Open Sans, Arial, sans-serif"
     fontSize: "120px"
     fontWeight: 300
     lineHeight: 1
     letterSpacing: "-0.02em"
   heading:
-    fontFamily: "Segoe UI"
+    fontFamily: "Segoe UI, Helvetica Neue, Lato, Open Sans, Arial, sans-serif"
     fontSize: "42px"
     fontWeight: 300
     lineHeight: 1
     letterSpacing: "0em"
   body:
-    fontFamily: "Segoe UI"
+    fontFamily: "Segoe UI, Helvetica Neue, Lato, Open Sans, Arial, sans-serif"
     fontSize: "16px"
     fontWeight: 400
     lineHeight: 1.5
   label:
-    fontFamily: "Segoe UI"
+    fontFamily: "Segoe UI, Helvetica Neue, Lato, Open Sans, Arial, sans-serif"
     fontSize: "14px"
     fontWeight: 600
     lineHeight: 1.5

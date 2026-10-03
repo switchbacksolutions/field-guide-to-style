@@ -34,6 +34,7 @@ The skills in `.claude/skills/` describe how to prospect a style (`style-prospec
 - `tools/capture.mjs`: captures websites with headless Chrome (screenshot plus measurement). `--viewport=390x844` checks phone width, `--specimen` saves a specimen screenshot, and `--out=<dir>` measures a page outside the catalogue without changing `data/` or `assets/`.
 - `tools/fetch.py`: fetches research URLs with a User-Agent. `tools/contact-sheet.py`: tiles captures for review.
 - `tools/extract-traits.js`, `tools/image-traits.py`, `tools/serve.py`, and `tools/lint-style.mjs`: measure pages and images, and check them against style fingerprints. `node tools/lint-style.mjs --matrix` checks that each specimen passes only its own style. `--table` compares metrics across specimens. `--captures` checks real website captures against every style.
+- `tools/impeccable.mjs`: optional. Runs the pinned [Impeccable](https://github.com/pbakaus/impeccable) detector on specimens and fails on findings that the style's `detectorExceptions` do not explain. It downloads the engine, checks its sha256, and runs it with telemetry off in a temporary home. `node --test tools/test/` tests it against real defects.
 - Generated: the root HTML pages, `references/*.html`, `board-data.js`, `llms.txt`, `api/`, and `implementations/<style>/` (DTCG tokens, CSS variables, Tailwind v4, shadcn/ui, DESIGN.md, specimen page).
 - `assets/hub.css`: all hub presentation. `assets/references/`: local images.
 
