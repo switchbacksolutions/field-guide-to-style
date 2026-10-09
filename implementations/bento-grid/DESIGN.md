@@ -142,3 +142,5 @@ Full record: api/styles/bento-grid.json. Specimen: implementations/bento-grid/in
 - Don't: mix corner radii or gutter widths inside one grid.
 - Don't: leave holes in the grid. The tiles must fill the frame.
 - Don't: use the grid order alone to carry meaning. Keep the source order logical, because screen readers and small screens read it in that order.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

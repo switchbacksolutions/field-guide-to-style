@@ -163,3 +163,5 @@ Full record: api/styles/synthwave.json. Specimen: implementations/synthwave/inde
 - Don't: put body text on the sun, the grid, or the bright horizon band.
 - Don't: set long text in script or chrome type. Keep them for one or two words.
 - Don't: animate the grid or flicker the neon for users who prefer reduced motion.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

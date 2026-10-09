@@ -153,3 +153,5 @@ Full record: api/styles/glassmorphism.json. Specimen: implementations/glassmorph
 - Don't: stack many glass layers on top of each other.
 - Don't: add gloss highlights, reflections, or material textures.
 - Don't: depend on backdrop-filter alone. Give the panel a fill that stays readable when the browser does not support blur or the user asks for reduced transparency.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

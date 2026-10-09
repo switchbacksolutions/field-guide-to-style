@@ -136,3 +136,5 @@ Full record: api/styles/frutiger-aero.json. Specimen: implementations/frutiger-a
 - Don't: use hard offset shadows or thick black outlines.
 - Don't: use dark mode or desaturated palettes as the base.
 - Don't: reduce contrast for gloss effects. Keep text readable on every gradient.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

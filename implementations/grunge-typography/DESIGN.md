@@ -144,3 +144,5 @@ Full record: api/styles/grunge-typography.json. Specimen: implementations/grunge
 - Don't: align everything to one grid or use one type family throughout.
 - Don't: space letters widely. That points to New Wave typography.
 - Don't: erode, rotate, or overlap body text, form fields, or table data until they cannot be read.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

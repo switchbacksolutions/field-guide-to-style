@@ -151,3 +151,5 @@ Full record: api/styles/acid-graphics.json. Specimen: implementations/acid-graph
 - Don't: put body text in chrome or in acid green on chrome. Keep it in a light gray with a contrast ratio of at least 7:1.
 - Don't: mirror or warp text that people must read to act, such as prices, dates, and form labels.
 - Don't: animate chrome or meshes continuously. Respect prefers-reduced-motion.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

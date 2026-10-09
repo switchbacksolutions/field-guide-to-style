@@ -141,3 +141,5 @@ Full record: api/styles/dada.json. Specimen: implementations/dada/index.html.
 - Don't: add more than one strong hue beyond black and paper grey.
 - Don't: align everything to one grid. A tidy collage loses the style.
 - Don't: rotate or overlap body text or form controls so that they become hard to read or use.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

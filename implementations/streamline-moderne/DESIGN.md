@@ -140,3 +140,5 @@ Full record: api/styles/streamline-moderne.json. Specimen: implementations/strea
 - Don't: use glossy gradients, glass blur, or glow effects.
 - Don't: add applied ornament. The lines and curves are the decoration.
 - Don't: use diagonal speed lines or starbursts. Speed lines stay horizontal.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

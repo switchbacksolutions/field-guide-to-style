@@ -149,3 +149,5 @@ Full record: api/styles/pixel-art.json. Specimen: implementations/pixel-art/inde
 - Don't: set long body text in a small pixel font.
 - Don't: mix pixel sizes in one view. A sprite drawn with 2 px pixels next to one drawn with 8 px pixels breaks the grid.
 - Don't: run a photograph through a pixelate filter and call it pixel art.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

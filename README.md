@@ -37,4 +37,12 @@ The skills in `.claude/skills/` describe how to prospect a style (`style-prospec
 - Generated: the root HTML pages, `references/*.html`, `board-data.js`, `llms.txt`, `api/`, and `implementations/<style>/` (DTCG tokens, CSS variables, Tailwind v4, shadcn/ui, DESIGN.md, specimen page).
 - `assets/hub.css`: all hub presentation. `assets/references/`: local images.
 
-The [collecting guide](collecting.html) explains how to add records. The [rights page](rights.html) explains how third-party material is handled. Source images keep their owners' rights. No redistribution license is assumed.
+The [collecting guide](collecting.html) explains how to add records. The [rights page](rights.html) explains how third-party material is handled.
+
+## License
+
+The catalogue's original code and design tokens use the [MIT License](LICENSE). Reuse them freely in any project, including commercial projects, and keep the license notice with substantial copies. The license covers `tools/`, `data/tokens/`, `implementations/`, `data/specimens/`, `content/specimen.html`, `data/schema/`, `templates/`, `skills/`, `.claude/skills/`, `assets/hub.css`, `package.json`, and `wrangler.jsonc`.
+
+The MIT License does not cover third-party material: reference images and screenshots in `assets/references/`, the works that they show, typefaces, names and trademarks, quotations and source metadata, and measurements of third-party sources. These keep their owners' rights. Each reference page records its own rights tier and license. A license for the catalogue's own prose and catalogue data (`data/styles/`, `data/references/`, the prose pages in `content/`, and the generated pages and `api/`) has not been chosen yet.
+
+The [rights page](rights.html#license), built from `content/rights.html`, is the full statement of scope. If the README and the rights page differ, the rights page applies.

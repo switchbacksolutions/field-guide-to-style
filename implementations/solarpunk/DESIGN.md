@@ -141,3 +141,5 @@ Full record: api/styles/solarpunk.json. Specimen: implementations/solarpunk/inde
 - Don't: mute every colour to earth tones on parchment. That points to Art Nouveau.
 - Don't: use stepped corners, chevrons, or sunbursts in metallic colours. That points to Art Deco.
 - Don't: use solarpunk imagery as a green veneer for a product that is not sustainable. Critics call this greenwashing.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

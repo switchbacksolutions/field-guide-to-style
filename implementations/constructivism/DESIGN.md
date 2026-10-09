@@ -139,3 +139,5 @@ Full record: api/styles/constructivism.json. Specimen: implementations/construct
 - Don't: rotate body text. Rotate headings, labels, and shapes only.
 - Don't: use Soviet emblems such as the hammer and sickle or the red star as decoration. They carry political meaning.
 - Don't: imitate Cyrillic with Latin letters, for example a reversed R for Я.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

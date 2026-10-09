@@ -136,3 +136,5 @@ Full record: api/styles/bauhaus.json. Specimen: implementations/bauhaus/index.ht
 - Don't: use gradients, soft shadows, or rounded cards.
 - Don't: add more than three hues beyond black, white, and gray.
 - Don't: scatter shapes as random decoration. Each shape needs a place in the composition.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

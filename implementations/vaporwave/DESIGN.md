@@ -157,3 +157,5 @@ Full record: api/styles/vaporwave.json. Specimen: implementations/vaporwave/inde
 - Don't: set real text in fullwidth Unicode characters. Screen readers and search treat them as different letters, so use letter spacing and keep fullwidth forms for decoration.
 - Don't: add Japanese text that you cannot read or check. Use short, correct phrases, or none.
 - Don't: put body text directly on the gradient or the grid. Put it in a window panel.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

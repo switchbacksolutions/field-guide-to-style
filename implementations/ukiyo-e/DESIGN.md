@@ -140,3 +140,5 @@ Full record: api/styles/ukiyo-e.json. Specimen: implementations/ukiyo-e/index.ht
 - Don't: shade forms with smooth modelling. A gradient is a band that fades into the paper, not a 3D effect.
 - Don't: center the composition symmetrically.
 - Don't: use brush-script fonts or fake Japanese lettering for Latin text.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

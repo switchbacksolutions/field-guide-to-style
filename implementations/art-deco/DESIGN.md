@@ -139,3 +139,5 @@ Full record: api/styles/art-deco.json. Specimen: implementations/art-deco/index.
 - Don't: use flowing plant curves. That points to Art Nouveau.
 - Don't: lay out the page asymmetrically. Keep the central axis.
 - Don't: use ornament at random. Each ornament repeats in a regular rhythm.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

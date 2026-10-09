@@ -1,6 +1,7 @@
 {
   "name": "style-inspiration",
   "private": true,
+  "license": "MIT",
   "type": "module",
   "description": "Static style catalogue. Data in data/, generated HTML committed.",
   "scripts": {

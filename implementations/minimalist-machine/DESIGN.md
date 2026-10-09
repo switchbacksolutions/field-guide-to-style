@@ -124,3 +124,5 @@ Full record: api/styles/minimalist-machine.json. Specimen: implementations/minim
 - Do: Use connections to explain actual relationships.
 - Do: Balance a spacious overview with compact working areas.
 - Don't: imitate the surface with small type, fake terminal output, or decorative wiring. Keep labels readable, links obvious, and relationships real.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license

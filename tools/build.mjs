@@ -46,6 +46,8 @@ const listJson = (dir) =>
   existsSync(join(ROOT, dir)) ? readdirSync(join(ROOT, dir)).filter((f) => f.endsWith(".json")).sort().map((f) => `${dir}/${f}`) : [];
 
 const site = readJson("data/site.json");
+// Copied token files leave the repo, so each carries the LICENSE copyright line and a pointer to its scope.
+const licenseNotice = `${readFileSync(join(ROOT, "LICENSE"), "utf8").match(/^Copyright .+$/m)[0]}. MIT License: ${site.url}/rights.html#license`;
 const schemas = { style: readJson("data/schema/style.schema.json"), reference: readJson("data/schema/reference.schema.json") };
 
 function loadRecords(dir, schema) {
@@ -529,14 +531,14 @@ function machineOutputs() {
     "",
     "- [Catalogue](api/catalogue.json): all styles and references.",
     "- [Style schema](data/schema/style.schema.json) and [reference schema](data/schema/reference.schema.json).",
-    "- [Rights and removal](rights.html): third-party works keep their owners' rights."
+    "- [Rights and removal](rights.html): code, design tokens, and implementation files are MIT licensed. Third-party works keep their owners' rights."
   ];
   emit("llms.txt", lines.join("\n"));
 
   for (const [id, tokenSet] of tokens) {
     const style = styleById.get(id);
     if (!style) continue;
-    for (const [file, content] of Object.entries(tokenOutputs(id, style.title, tokenSet, style))) emit(`implementations/${id}/${file}`, content);
+    for (const [file, content] of Object.entries(tokenOutputs(id, style.title, tokenSet, style, licenseNotice))) emit(`implementations/${id}/${file}`, content);
     const specimenCss = `data/specimens/${id}.css`;
     if (existsSync(join(ROOT, specimenCss))) {
       emit(`implementations/${id}/specimen.css`, readFileSync(join(ROOT, specimenCss), "utf8"));

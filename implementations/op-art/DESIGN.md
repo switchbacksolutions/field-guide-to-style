@@ -141,3 +141,5 @@ Full record: api/styles/op-art.json. Specimen: implementations/op-art/index.html
 - Don't: add illustrations, photographs of people, or ornament to the pattern.
 - Don't: use several saturated hues. One accent at most.
 - Don't: animate patterns quickly or flash them. Fast flicker can trigger seizures.
+
+Copyright (c) 2026 Switchback Solutions LLC. MIT License: https://field-guide-to-style.alec-5fe.workers.dev/rights.html#license
